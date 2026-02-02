@@ -1,0 +1,274 @@
+# Chapter 8: Prediction for Five Hundred Disciples
+
+*五百弟子受記品第八*
+
+At that time Pūrṇa Maitrāyaṇīputra, having heard from the Buddha this wisdom and skillful means, the exposition of Dharma according to circumstances, having heard the predictions of anuttarā-samyak-saṃbodhi bestowed upon the great disciples, having further heard of past causes and conditions, and having further heard that the Buddhas possess great sovereign spiritual powers, attained what he had never before attained. His mind was purified and filled with joy. Immediately he arose from his seat, proceeded to the Buddha's presence, bowed his head at the Buddha's feet, then withdrew and stood to one side, gazing up at the honored countenance without averting his eyes for even a moment. And he had this thought: "The World-Honored One is exceedingly extraordinary! His actions are most rare! According to the various natures of worldly beings, through the knowledge and vision of skillful means he expounds the Dharma for them, drawing out living beings from their various attachments. We, regarding the Buddha's merits, cannot express them in words. Only the Buddha, the World-Honored One, can know our deep minds' original vow."
+
+At that time the Buddha addressed the bhikṣus: "Do you see this Pūrṇa Maitrāyaṇīputra? I constantly praise him as foremost among those who expound the Dharma. I also constantly extol his various merits—how diligently he guards and maintains, assists in proclaiming my Dharma; how he is able, among the fourfold assembly, to teach, benefit, and gladden them; how he completely explains the Buddha's True Dharma, greatly benefiting those who practice the holy life alongside him. Apart from the Tathāgata, none can exhaust his eloquence in exposition."
+
+"You should not think that Pūrṇa is only able to guard, maintain, and assist in proclaiming my Dharma. He also, in the presence of ninety koṭis of Buddhas in the past, guarded, maintained, assisted, and proclaimed the True Dharma of those Buddhas, and among those who expounded the Dharma, he was also foremost. Moreover, regarding the Dharma of emptiness expounded by those Buddhas, he clearly understood and thoroughly penetrated it, attaining the four unobstructed wisdoms. He was constantly able to審諦 expound the Dharma purely and without doubt, completely possessing the Bodhisattva's spiritual powers. Throughout his lifespan he constantly cultivated the holy practices. The people of those Buddha-worlds all regarded him as truly being a śrāvaka. Yet through this skillful means, Pūrṇa benefited immeasurable hundreds of thousands of living beings, and also transformed immeasurable asaṃkhyeyas of persons, causing them to establish themselves in anuttarā-samyak-saṃbodhi. In order to purify Buddha-lands, he constantly engaged in Buddha-work, teaching and transforming living beings."
+
+"O bhikṣus, Pūrṇa was also foremost among those who expounded the Dharma under the seven Buddhas. Now, among those who expound the Dharma in my presence, he is also foremost. Among the Buddhas to come in the Bhadrakalpa, among those who expound the Dharma, he shall again be foremost, and he shall guard, maintain, assist, and proclaim the Buddhas' Dharma. Also in the future he shall guard, maintain, assist, and proclaim the Dharma of immeasurable, limitless Buddhas, teaching, transforming, and benefiting immeasurable living beings, causing them to establish themselves in anuttarā-samyak-saṃbodhi. In order to purify Buddha-lands, he shall constantly and diligently strive to teach and transform living beings, gradually perfecting the Bodhisattva-Way. After immeasurable asaṃkhyeya kalpas have passed, in this land he shall attain anuttarā-samyak-saṃbodhi, and shall be called Dharmaprabhāsa Tathāgata, Arhat, Samyak-saṃbuddha, Vidyācaraṇa-saṃpanna, Sugata, Lokavid, Anuttara, Puruṣa-damya-sārathi, Śāstā-deva-manuṣyāṇāṃ, Buddha, Bhagavat."
+
+"That Buddha shall take trichiliocosms equal to Ganges' sands as a single Buddha-land. The ground shall be of seven jewels, level as the palm of one's hand, without mountains, hills, valleys, ravines, or gullies. Pavilions and towers of seven jewels shall fill it throughout. The heavenly palaces shall be situated near in empty space. Humans and devas shall intermingle, each able to see the other. There shall be no evil destinies, nor shall there be any women. All living beings shall be born through transformation, and there shall be no sexual desire. They shall attain great spiritual powers; their bodies shall emit light; they shall fly about freely. Their resolve and mindfulness shall be firm and solid, their vigor and wisdom universal. All shall be of golden hue, adorned with the thirty-two marks. The living beings of that land shall constantly take two kinds of food: first, the food of Dharma-joy; second, the food of meditative bliss. There shall be immeasurable asaṃkhyeya thousands of myriads of koṭis of nayutas of Bodhisattva multitudes who have attained great spiritual powers and the four unobstructed wisdoms, able skillfully to teach and transform the classes of living beings. The śrāvaka multitude, through calculation and reckoning, shall be beyond knowledge—all shall have completely attained the six supernatural powers, the three clear knowledges, and the eight liberations. That Buddha-land shall have such immeasurable meritorious adornments accomplished and perfected. The kalpa shall be named Ratnāvabhāsa, and the land shall be named Suviśuddhā. That Buddha's lifespan shall be immeasurable asaṃkhyeya kalpas. The Dharma shall abide for an extremely long time. After the Buddha's extinction, jeweled stūpas of seven treasures shall arise, pervading throughout that land."
+
+At that time the World-Honored One, wishing to restate this meaning, spoke in verse:
+
+"O bhikṣus, listen with care:
+The path practiced by the Buddha's sons,
+Through skillful learning of expedient means,
+Is inconceivable and beyond thought.
+
+"Knowing that beings delight in lesser dharmas
+And fear the great wisdom,
+The Bodhisattvas therefore
+Appear as śrāvakas and Pratyekabuddhas.
+
+"Through immeasurable skillful means
+They transform the various classes of living beings.
+They themselves declare: 'We are śrāvakas,'
+'We are very far from the Buddha-Way,'
+
+"Yet they liberate immeasurable multitudes,
+All causing them to attain accomplishment.
+Though [beings may be] of small aspiration and lazy,
+Gradually they shall be caused to become Buddhas.
+
+"Inwardly concealing Bodhisattva practice,
+Outwardly manifesting as śrāvakas,
+With few desires, weary of birth-and-death,
+They actually purify Buddha-lands.
+
+"Showing the masses that they have the three poisons,
+Also manifesting marks of wrong views—
+My disciples are thus,
+Through skillful means liberating living beings.
+
+"If I were to fully expound
+The various transformative manifestations,
+Living beings hearing these things
+Would harbor doubts and perplexity in their minds.
+
+"This present Pūrṇa,
+Under thousands of koṭis of Buddhas in the past,
+Diligently cultivated the path he practiced,
+Proclaiming and guarding the Dharma of all Buddhas.
+
+"Seeking the supreme wisdom,
+In the presence of all those Buddhas,
+He manifested as foremost among disciples,
+Learned and possessed of wisdom.
+
+"His speech was without fear—
+He could cause multitudes to rejoice.
+Never once was he weary,
+But assisted the Buddha's work.
+
+"He has already crossed over through great spiritual powers,
+Completely possesses the four unobstructed wisdoms,
+Knows the keen and dull faculties of all,
+And constantly expounds the pure Dharma.
+
+"Elucidating such meanings,
+Teaching thousands of koṭis of multitudes,
+He causes them to abide in the Mahāyāna Dharma,
+And himself purifies Buddha-lands.
+
+"In the future he shall also make offerings
+To immeasurable, innumerable Buddhas,
+Guarding and assisting in proclaiming the True Dharma,
+And also purifying his own Buddha-land.
+
+"Constantly through various skillful means,
+Fearlessly expounding the Dharma,
+He shall liberate beings beyond calculation,
+Accomplishing the wisdom of all modes.
+
+"Making offerings to the Tathāgatas,
+Guarding and maintaining the Dharma-treasure,
+Afterward he shall attain Buddhahood,
+With the name Dharmaprabhāsa.
+
+"His land shall be named Suviśuddhā,
+Composed of the seven jewels.
+The kalpa shall be named Ratnāvabhāsa;
+The Bodhisattva multitude shall be exceedingly numerous—
+
+"Their number immeasurable koṭis,
+All having crossed over through great spiritual powers,
+With complete spiritual authority,
+Filling that land.
+
+"Śrāvakas shall also be innumerable,
+With the three clear knowledges and eight liberations,
+Having attained the four unobstructed wisdoms—
+Such shall constitute the saṅgha.
+
+"The living beings of that land—
+Sexual desire shall all be severed;
+Purely born through transformation,
+With adorned bodies possessing the marks.
+
+"The food of Dharma-joy and meditative bliss—
+No other thought of food shall there be.
+There shall be no women,
+Nor any evil destinies.
+
+"The bhikṣu Pūrṇa,
+His merits all completely perfected,
+Shall attain this pure land,
+With its multitude of worthies and sages exceedingly numerous.
+
+"Such immeasurable matters
+I now only briefly expound."
+
+At that time the twelve hundred arhats whose minds had attained freedom had this thought: "We are joyful and have attained what we never before attained! If the World-Honored One would individually bestow predictions upon each of us as upon the other great disciples, would this not also be most gratifying!" The Buddha, knowing the thoughts in the minds of these persons, addressed Mahākāśyapa: "These twelve hundred arhats—I shall now, in their presence, bestow predictions of anuttarā-samyak-saṃbodhi upon them in sequence. Among this assembly, my great disciple, the bhikṣu Ājñāta-Kauṇḍinya, shall make offerings to sixty-two thousand koṭis of Buddhas, and afterward shall attain Buddhahood with the name Samantaprabhāsa Tathāgata, Arhat, Samyak-saṃbuddha, Vidyācaraṇa-saṃpanna, Sugata, Lokavid, Anuttara, Puruṣa-damya-sārathi, Śāstā-deva-manuṣyāṇāṃ, Buddha, Bhagavat. The five hundred arhats—Uruvilvā-Kāśyapa, Gayā-Kāśyapa, Nadī-Kāśyapa, Kālodāyin, Udāyin, Aniruddha, Revata, Kapphiṇa, Bakkula, Cunda, Svāgata, and others—all shall attain anuttarā-samyak-saṃbodhi, all sharing the same name: Samantaprabhāsa."
+
+At that time the World-Honored One, wishing to restate this meaning, spoke in verse:
+
+"The bhikṣu Ājñāta-Kauṇḍinya
+Shall see immeasurable Buddhas.
+After asaṃkhyeya kalpas have passed,
+He shall accomplish perfect enlightenment.
+
+"Constantly emitting great radiance,
+Completely possessed of all spiritual powers,
+His fame heard throughout the ten directions,
+Revered by all—
+
+"He shall constantly expound the supreme Way,
+Therefore his name shall be Samantaprabhāsa.
+His land shall be pure;
+The Bodhisattvas all courageous—
+
+"All ascending wondrous pavilions and towers,
+Traveling throughout the lands of the ten directions,
+With supreme offerings
+They shall present them to all Buddhas.
+
+"Having made these offerings,
+Their minds filled with great joy,
+In an instant they shall return to their original land—
+Such shall be their spiritual power.
+
+"The Buddha's lifespan: sixty thousand kalpas.
+The True Dharma shall abide for twice that lifespan.
+The Semblance Dharma shall again be twice that.
+When the Dharma perishes, devas and humans shall grieve.
+
+"Those five hundred bhikṣus
+In sequence shall become Buddhas,
+All with the name Samantaprabhāsa,
+Receiving predictions one after another in turn:
+
+"'After my extinction,
+A certain one shall become Buddha.'
+The world he transforms
+Shall also be like mine today.
+
+"The adornment and purity of his land,
+And the various spiritual powers;
+The multitudes of Bodhisattvas and śrāvakas,
+The True Dharma and Semblance Dharma;
+
+"The lifespan and number of kalpas—
+All shall be as described above.
+Kāśyapa, you already know
+The five hundred who have attained freedom.
+
+"The remaining śrāvaka multitude
+Shall likewise be thus.
+Those not present at this assembly—
+You should proclaim this to them."
+
+At that time the five hundred arhats, having received predictions before the Buddha, were joyful and exultant. Immediately they arose from their seats, proceeded to the Buddha's presence, bowed their heads at his feet, and repented, reproaching themselves: "World-Honored One, we constantly had this thought, considering ourselves to have already attained ultimate extinction. Now we understand that we were like those without wisdom. Why is this? We should have attained the Tathāgata's wisdom, yet we were satisfied with the lesser wisdom."
+
+"World-Honored One, it is as if there were a man who went to the home of a close friend and, becoming drunk with wine, lay down to sleep. At that time the close friend, having official business requiring his departure, took a priceless jewel and sewed it into the lining of his garment, gave it to him, and departed. That man, being drunk and asleep, was completely unaware and unknowing. Having arisen, he wandered forth, traveling to another land. For the sake of clothing and food, he diligently sought and labored with great difficulty. If he obtained even a little, he was content with that. Later, his close friend happened to encounter him and said: 'Alas, good man! Why, for the sake of clothing and food, have you come to such a state? In the past I wished to cause you to attain peace and happiness, to indulge freely in the five desires. On such-and-such a year, month, and day, I sewed a priceless jewel into the lining of your garment—it is still there now. Yet you, not knowing this, toiled in worry and distress seeking to sustain your life. How extremely foolish! Now you may use this jewel to trade for what you need, and you may constantly have your wishes fulfilled, lacking and wanting nothing.'"
+
+"The Buddha is also thus. When he was a Bodhisattva, he taught and transformed us, causing us to arouse the mind of the wisdom of all modes. Yet we soon thereafter forgot and abandoned it, neither knowing nor perceiving it. Having attained the path of the arhat, we considered ourselves to have attained extinction. [Finding] sustaining life difficult, we were satisfied with obtaining little. The vow for the wisdom of all modes was still there, not lost. Now the World-Honored One has awakened us, speaking these words: 'O bhikṣus, what you have attained is not ultimate extinction. I long ago caused you to plant wholesome Buddha-roots. Through skillful means I manifested the characteristics of nirvāṇa, yet you thought you had truly attained extinction.'"
+
+"World-Honored One, now we understand that we are truly Bodhisattvas, having received the prediction of anuttarā-samyak-saṃbodhi. For this reason we are exceedingly joyful, having attained what we never before attained."
+
+At that time Ājñāta-Kauṇḍinya and the others, wishing to restate this meaning, spoke in verse:
+
+"We have heard the supreme,
+Peaceful sound of the bestowal of predictions,
+Joyful as never before—
+We bow to the Buddha of immeasurable wisdom.
+
+"Now in the World-Honored One's presence
+We repent our various faults:
+Regarding the immeasurable Buddha-treasure,
+We obtained but a small portion of nirvāṇa—
+
+"Like foolish persons without wisdom,
+We were satisfied with ourselves.
+It is as if a poor person
+Went to the home of a close friend—
+
+"That home being extremely wealthy,
+With all manner of delicacies laid out.
+A priceless jewel
+Was sewn into the lining of his inner garment.
+
+"[The friend] silently gave it and departed;
+[The poor man], lying asleep, was unaware.
+When that person had already arisen,
+He wandered forth, proceeding to another land.
+
+"Seeking clothing and food to sustain himself,
+His livelihood exceedingly difficult—
+Obtaining even a little, he was satisfied,
+No longer wishing for better.
+
+"Unaware that in the lining of his inner garment
+There was a priceless jewel,
+The close friend who gave the jewel
+Later saw this poor person.
+
+"After sharply reproaching him,
+He showed him the jewel that had been sewn in.
+The poor person, seeing this jewel,
+Had great joy arise in his mind—
+
+"Wealthy with all manner of goods,
+Indulging freely in the five desires.
+We are also thus:
+The World-Honored One, throughout the long night,
+
+"Constantly with compassion taught and transformed us,
+Causing us to plant the supreme vow.
+Because we were without wisdom,
+We neither perceived nor knew—
+
+"Obtaining a small portion of nirvāṇa,
+We were self-satisfied and sought nothing further.
+Now the Buddha has awakened us,
+Saying: 'This is not true extinction.
+
+"'When you attain the Buddha's supreme wisdom,
+Then will that be true extinction.'
+Now, hearing from the Buddha
+The predictions and their solemn adornments,
+
+"And receiving predictions one after another in succession,
+Our bodies and minds are everywhere filled with joy."
+
+### Philosophical Implications
+
+This chapter develops the Lotus Sutra's central themes of universal Buddha-nature and the single vehicle of enlightenment. The teachings presented here connect to contemporary philosophical traditions including phenomenology, systems theory, and process philosophy.
+
+### Apparatus Summary
+
+- **Chapter Number**: 8
+- **Chinese Title**: See chapter heading
+- **Primary Theme**: [Theme description to be filled]
+- **Key Figures**: [To be completed]
+- **Central Teaching**: [To be completed]
+- **Structural Function**: [To be completed]
+
+### Footnotes
+
+[Scholarly apparatus notes and cross-references would be placed here in a complete scholarly edition]
+
+═════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,97 @@
+====================================================================================================
+COMPREHENSIVE PROOFREADING REPORT
+The Lotus Sutra: A Blues Interpretation - DETAILED ANALYSIS
+====================================================================================================
+
+
+====================================================================================================
+PRIORITY 1: CAPITALIZATION INCONSISTENCIES
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+'THE' CAPITALIZATION PATTERNS
+----------------------------------------------------------------------------------------------------
+
+✓ No lowercase 'the' after sentence-ending punctuation found
+
+⚠ FOUND: Lines starting with lowercase 'the' (11 occurrences)
+These may need capitalization review:
+  Line 1926: the Buddha's teaching voice,
+  Line 2134: the Buddha's Dharma treasury,
+  Line 2170: the Buddha's children
+  Line 3470: the Bodhisattvas and hearers he gonna teach,
+  Line 7031: the Perfectly Awakened, the one who knows and walks right,
+  Line 7046: the Wonderful Banner samādhi, the Lotus Flower samādhi,
+  Line 7047: the Pure Virtue samādhi, the Constellation King Play samādhi,
+  Line 7051: the Pure samādhi, the Spiritual Powers Play samādhi,
+  Line 7052: the Wisdom Torch samādhi, the Adorning King samādhi,
+  Line 7053: the Pure Light samādhi, the Pure Storehouse samādhi,
+  Line 7054: the Uncommon samādhi, the Sun Rotation samādhi—
+
+----------------------------------------------------------------------------------------------------
+'TO' CAPITALIZATION PATTERNS
+----------------------------------------------------------------------------------------------------
+
+✓ No lowercase 'to' after sentence-ending punctuation found
+
+⚠ FOUND: Lines starting with lowercase 'to' (2 occurrences)
+These may need capitalization review:
+  Line 7183: to Vulture Peak Mountain.
+  Line 7241: to Cloud Thunder Sound King Buddha—
+
+
+====================================================================================================
+PRIORITY 2: PUNCTUATION & GRAMMAR
+====================================================================================================
+
+⚠ FOUND: Extra space before punctuation (3 occurrences)
+  Line 3663: ...Interpretation Notes :...
+  Line 4200: ...Interpretation Notes :...
+  Line 6714: ...Interpretation Notes :...
+
+✓ No missing spaces after punctuation found
+
+
+====================================================================================================
+PRIORITY 3: SPACING ISSUES
+====================================================================================================
+
+✓ No double spacing issues found
+
+
+====================================================================================================
+PRIORITY 4: COMMON TYPOS & SPELLING
+====================================================================================================
+
+⚠ FOUND: Repeated words (31 occurrences)
+NOTE: Mantras and intentional repetitions are expected. Review these:
+  Line 111 - 'deep': When he finished teaching that sutra, he crossed his legs up under him—you know that sitting positio
+  Line 1336 - 'long': "When they want to walk somewhere, jewel flowers gonna hold up their feet. These bodhisattvas ain't 
+  Line 1459 - 'Good': "Good, good! Just like you said. Śāriputra, the Tathāgata is just like this too—he's the father of t
+  Line 1882 - 'ran': Soon as he thought that, he turned around and ran. Ran fast as he could.
+  Line 2574 - 'clean': "And let me tell you about that land: It gonna be beautiful. No filth, no rubble, no thorns, no wast
+  Line 2574 - 'clean': "And let me tell you about that land: It gonna be beautiful. No filth, no rubble, no thorns, no wast
+  Line 3001 - 'long': Only appears once in a long, long time.
+  Line 3104 - 'long': If beings only heard about the One Buddha Vehicle, they wouldn't want to see the Buddha, wouldn't wa
+  Line 3133 - 'longest': Only appears once in the longest, longest while.
+  Line 3701 - 'far': "But if somebody speaks even one evil word, one bad word, against someone who reads and recites the 
+  Line 3704 - 'Why': "Why? Why all this honor?
+  Line 3912 - 'rising': Now at that time, right there in front of the Buddha, a tower made of seven kinds of precious jewels
+  Line 4220 - 'far': "Now we know—Lord, we KNOW—that the times coming after you leave gonna be dark times, evil times. Th
+  Line 4262 - 'long': Now these bodhisattvas, they understood the Buddha's mind. They knew his heart. They wanted to RESPE
+  Line 4668 - 'teach': When you teach, teach all beings equally. Don't teach more to those who love the Dharma more. Don't 
+
+✓ No missing apostrophes detected
+
+
+====================================================================================================
+SUMMARY OF ISSUES FOUND
+====================================================================================================
+    11 - Lines starting with lowercase 'the'
+     2 - Lines starting with lowercase 'to'
+     3 - Extra space before punctuation
+    31 - Repeated words (non-mantra)
+
+  TOTAL ISSUES REQUIRING REVIEW: 47
+
+====================================================================================================

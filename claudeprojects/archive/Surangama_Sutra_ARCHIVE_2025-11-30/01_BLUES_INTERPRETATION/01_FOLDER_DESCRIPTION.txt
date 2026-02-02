@@ -1,0 +1,171 @@
+================================================================================
+SURANGAMA SUTRA BLUES INTERPRETATION
+Sample Passages Project
+================================================================================
+
+OVERVIEW
+========
+
+This folder contains the blues and gospel-inflected interpretation of three key
+passages from the Surangama Sutra (楞嚴經), one of Buddhism's most profound
+investigations of consciousness and the nature of mind.
+
+These three passages represent the foundational teachings:
+1. Ananda's vulnerability and rescue—the human situation and the call to awakening
+2. The philosophical inquiry into the mind's nature—rigorous investigation
+3. The five aggregates as illusion—the dissolution of false views
+
+PROJECT CONTENTS
+================
+
+00_PROJECT_OVERVIEW.md
+    Comprehensive project vision, structure, methodology, and key principles
+
+01_FOLDER_DESCRIPTION.txt
+    This file
+
+SAMPLE_PASSAGES_BLUES_SURANGAMA.txt
+    Master document containing all three passages with:
+    - Context and introduction
+    - Blues prose rendering
+    - Blues verse rendering
+    - Performance notes
+
+INTERPRETATION_NOTES_BY_PASSAGE/
+    Detailed scholarly notes for each passage:
+    - Buddhist philosophical context
+    - Classical Chinese source analysis
+    - Terminology explanations
+    - Performance guidance
+    - Study questions
+
+AGENT_CREDENTIALS/ (in ../agents/)
+    Kaelen "Kai" Reed agent profile for Surangama blues interpretation
+
+METHODOLOGY
+===========
+
+All passages follow a three-level structure:
+
+LEVEL 1: CONTEXT
+    Sets the scene and introduces the teaching theme
+
+LEVEL 2: PROSE RENDERING
+    Blues-inflected vernacular English prose of the classical Chinese dialogue
+    - Conversational, direct address
+    - Logical flow preserved
+    - Metaphors naturally embedded
+    - Designed to be read aloud
+    - Accessible to contemporary readers
+
+LEVEL 3: VERSE RENDERING
+    Blues and gospel poetry distilling essential teachings
+    - Call-and-response structure
+    - Internal repetition and rhyme
+    - Gospel cadence toward insight
+    - Performance-ready rhythm
+    - Metaphorical precision
+
+SPECIAL FEATURES
+================
+
+PERFORMANCE-READY TEXT
+All passages are optimized for oral delivery:
+- Designed to be read aloud with rhythm and music
+- Call-and-response patterns for group participation
+- Verse sections suitable for chanting or singing
+- Natural dramatic pacing
+
+GENDER-INCLUSIVE LANGUAGE
+While the original features male characters, the blues interpretation:
+- Uses inclusive pronouns where philosophically appropriate
+- Centers women's voices and experiences
+- Affirms universal Buddha-nature across all genders
+
+BUDDHIST FIDELITY
+The blues interpretation maintains:
+- Doctrinal accuracy of Buddhist philosophy
+- Precision in technical Buddhist concepts
+- Reverence for the sacred text
+- Depth of spiritual teaching
+
+BLUES AUTHENTICITY
+The spiritual language draws on:
+- African American blues and gospel traditions
+- Authentic vernacular and rhythm
+- Call-and-response spiritual forms
+- The blues aesthetic of transformation through suffering
+
+KEY PRINCIPLES
+===============
+
+ACCESSIBILITY
+Make classical Chinese Buddhist philosophy understandable without losing depth
+
+FIDELITY
+Preserve the meaning and teachings of the original text
+
+BEAUTY
+Create poetry that sings when read aloud and moves the heart
+
+SPIRITUAL TRANSFORMATION
+The goal is not entertainment but genuine awakening and insight
+
+HOW TO USE THIS PROJECT
+========================
+
+FOR STUDY:
+1. Read the Context section first
+2. Read the Prose Rendering for philosophical understanding
+3. Consult the Interpretation Notes for deeper context
+4. Read the Verse Rendering for spiritual resonance
+5. Return to verses for meditation and repeated study
+
+FOR PERFORMANCE:
+1. Familiarize yourself with the Prose Rendering
+2. Practice reading the Verse Rendering aloud
+3. Let the rhythm become natural in your body
+4. Consider call-and-response performance with a group
+5. Use performance notes as guidance
+
+FOR TEACHING:
+1. Use the Prose Rendering as the primary text
+2. Draw on Interpretation Notes for explanation
+3. Use Verse Rendering as a closing or meditative moment
+4. Encourage students to read aloud
+5. Create space for discussion and questions
+
+RELATED MATERIALS
+==================
+
+For complete project context, see:
+- 00_PROJECT_OVERVIEW.md (this folder)
+- ../CLAUDE.md (project guidance)
+- ../agents/ (Kaelen "Kai" Reed agent credentials)
+- ../楞嚴經 Surangama Sutra.txt (classical Chinese source)
+
+GLOSSARY OF BUDDHIST TERMS
+===========================
+
+Surangama = "Heroic" or "victorious"; refers to the courage needed for enlightenment
+Samadhi = Deep meditative concentration; unified awareness
+Buddha-nature = The capacity for Buddhahood present in all beings
+Dharma = The teaching; the way things are; reality itself
+Five Aggregates = Form, sensation, perception, mental formations, consciousness
+Skandha = Sanskrit term for aggregate (usually Form, Sensation, Perception, etc.)
+Tathāgata = "One who has thus gone"; epithet for the Buddha
+Bodhisattva = A being dedicated to liberating all others
+Nirvāṇa = Cessation of suffering; enlightenment; peace beyond concepts
+Arahant = One who has achieved nirvana; enlightenment realized
+
+PROJECT STATUS
+==============
+
+Phase: Sample Development
+Status: Three passages in active development
+Next: Refinement, performance testing, and planning full-text translation
+
+Last Updated: November 25, 2025
+Lead Composer: Kaelen "Kai" Reed (adapted for Surangama Sutra)
+
+================================================================================

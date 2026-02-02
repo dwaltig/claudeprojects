@@ -1,0 +1,51 @@
+Diseased thinking: dissolving questions about disease
+Scott Alexander
+
+Related to: Disguised Queries, Words as Hidden Inferences, Dissolving the Question, Eight Short Studies on Excuses
+
+Sandy is a morbidly obese woman looking for advice. Her husband has no sympathy for her, and tells her she obviously needs to stop eating like a pig, and would it kill her to go to the gym once in a while? Her doctor tells her that obesity is primarily genetic, and recommends the diet pill orlistat and a consultation with a surgeon about gastric bypass. Her sister tells her that obesity is a perfectly valid lifestyle choice, and that fat-ism, equivalent to racism, is society's way of keeping her down.
+
+When she tells each of her friends about the opinions of the others, things really start to heat up. Her husband accuses her doctor and sister of absolving her of personal responsibility. Her doctor accuses her husband of ignorance and her sister of legitimizing a dangerous health risk. Her sister accuses her husband of being a jerk, and her doctor of trying to medicalize her behavior to make money for Big Pharma.
+
+Sandy is fictional, but similar conversations happen every day, not only about obesity but about a host of other marginal conditions: Attention deficit disorder, alcoholism, homosexuality, even depression. The disagreement between Sandy's husband and doctor centers around the idea of "disease". If these conditions are diseases, most people default to the doctor's point of view; if they are not diseases, they tend to agree with the husband.
+
+What is Disease?
+
+In Disguised Queries, Eliezer demonstrates how a word refers to a cluster of objects related upon multiple axes. "Disease", like "blegg", suggests that certain characteristics always come together. A rough sketch of some of the characteristics we expect in a disease might include:
+
+1. Something caused by the sorts of thing you study in biology: proteins, bacteria, viruses, genes.
+2. Something involuntary and completely immune to the operations of free will.
+3. Something rare; the vast majority of people don't have it.
+4. Something unpleasant; when you have it, you want to get rid of it.
+5. Something discrete; a graph would show two widely separate populations.
+6. Something commonly treated with science-y interventions like chemicals and radiation.
+
+Cancer satisfies every one of these criteria, and so we have no qualms whatsoever about classifying it as a disease. Some conditions satisfy a few of the criteria, but not others. Dwarfism seems to fail (5). Aging fails (3). Homosexuality fails (4). Obesity arguably sort-of-satisfies (1), (4), and (6), but fails (2), (3), and (5).
+
+So, is obesity really a disease? Well, is Pluto really a planet? Once we state that obesity satisfies some of the criteria but not others, it is meaningless to talk about an additional fact of whether it "really deserves to be a disease" or not.
+
+Hidden Inferences From Disease Concept
+
+The state of the disease node is used to predict several other nodes with non-empirical content. We make value decisions based on whether we call something a "disease" or not.
+
+If something is a real disease, the patient deserves our sympathy and support. If it is not a real disease, people are more likely to get our condemnation. And if something is a real disease, it is socially acceptable to seek medical treatment for it. If it's not a disease, medical treatment gets derided as a "quick fix" or an "abdication of personal responsibility".
+
+Sympathy or Condemnation?
+
+Our attitudes toward people with marginal conditions mainly reflect a deontologist libertarian model of blame. In this concept, people make decisions using their free will, a spiritual entity operating free from biology. People who make bad decisions are intrinsically bad people. But people who make bad decisions for reasons that are outside of their free will may not be intrinsically bad people, and may therefore be absolved.
+
+Determinist consequentialists can do better. We believe it's biology all the way down. Every condition, from brain tumors to poor taste in music, is "biological". But determinists don't just ignore the differences. Some biological phenomena, like poor taste in music, are extremely vulnerable to social influences: praise, condemnation, and the like. Other biological phenomena, like brain tumors, are completely immune to such influences.
+
+The consequentialist model of blame is based on consequences. Hurting bank robbers prevents banks from being robbed. Similarly, societal condemnation of alcoholics makes alcoholism a less attractive option.
+
+So here is a rule for which diseases we offer sympathy, and which we offer condemnation: if giving condemnation instead of sympathy decreases the incidence of the disease enough to be worth the hurt feelings, condemn; otherwise, sympathize. Yelling at a cancer patient won't cure the cancer. Telling a lazy person to get up and do some work very well might cure the laziness.
+
+The Ethics of Treating Marginal Conditions
+
+If an effective biological therapy for a condition exists, is it okay for people to use it instead of figuring out a social solution? My gut answer is "Of course, why wouldn't it be?" In a libertarian deontological system, throwing biological solutions at spiritual problems might be dehumanizing. To someone who believes it's biology all the way down, this is much less of a concern.
+
+Others complain that the existence of an easy medical solution prevents people from learning personal responsibility. But here we see the status-quo bias at work. If people really believe learning personal responsibility is more important than being not addicted to heroin, we would expect these people to support deliberately addicting schoolchildren to heroin so they can develop personal responsibility by coming off of it.
+
+Summary
+
+People commonly debate whether social and mental conditions are real diseases. We use the concept of disease to decide who gets sympathy, who gets blame, and who gets treatment. Instead of continuing the fruitless "disease" argument, we should address these questions directly. We should blame and stigmatize people for conditions where blame and stigma are the most useful methods for curing or preventing the condition, and we should allow patients to seek treatment whenever it is available and effective.

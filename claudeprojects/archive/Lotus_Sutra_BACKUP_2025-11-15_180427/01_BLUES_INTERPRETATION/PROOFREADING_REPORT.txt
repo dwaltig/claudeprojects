@@ -1,0 +1,137 @@
+================================================================================
+COMPREHENSIVE PROOFREADING REPORT
+The Lotus Sutra: A Blues Interpretation
+================================================================================
+
+Document Statistics:
+  Total lines: 7814
+  Chapters found: 40
+
+
+ISSUE SUMMARY BY CATEGORY:
+--------------------------------------------------------------------------------
+  Capitalization: 2 issue(s)
+  Consistency: 0 issue(s)
+  Diacriticals: 0 issue(s)
+  Punctuation: 4239 issue(s)
+  Spacing: 0 issue(s)
+  Typos: 15 issue(s)
+
+  TOTAL ISSUES FOUND: 4256
+
+
+================================================================================
+CAPITALIZATION ISSUES (2 found)
+================================================================================
+
+Lowercase "to" at start of line before capitalized word (2 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7183: to Vulture Peak Mountain.
+  [2] Line 7241: to Cloud Thunder Sound King Buddha—
+
+
+================================================================================
+PUNCTUATION ISSUES (4239 found)
+================================================================================
+
+Line may be missing ending punctuation (4236 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 2: A Blues Interpretation
+  [2] Line 3: Contemporary Vernacular Interpretation
+  [3] Line 4: Based on Kumārajīva's Classical Chinese Translation
+  [4] Line 9: The Lotus Sutra: A Blues Interpretation
+  [5] Line 13: About This Interpretation
+  [6] Line 17: Technical Information
+  [7] Line 21: Permissions and Licensing
+  [8] Line 28: How This Teaching Made It to Us
+  [9] Line 29: Told by Dao Xuan, monk of Mount Zhongnan, Tang Dynasty
+  [10] Line 36: So now we got three versions, three different ways of saying the same thing. They overlap here and t
+  ... and 4226 more occurrence(s)
+
+
+Space before punctuation mark (3 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 3663: Interpretation Notes :
+  [2] Line 4200: Interpretation Notes :
+  [3] Line 6714: Interpretation Notes :
+
+
+SPACING: No issues found ✓
+
+================================================================================
+TYPOS ISSUES (15 found)
+================================================================================
+
+Repeated word: "AKSHARA" (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7605: AKSHARA AKSHARA TYAYANTE ABHYAVAKARA AVALOKANI
+
+
+Repeated word: "BHASHYA" (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7603: SANGHANIRGHOSHANI BHASHYA BHASHYA SHUHDI
+
+
+Repeated word: "Excellent!" (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 4957: Excellent! Excellent!
+
+
+Repeated word: "NIVRI" (3 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7652: NIVRI NIVRI NIVRI NIVRI
+  [2] Line 7652: NIVRI NIVRI NIVRI NIVRI
+  [3] Line 7652: NIVRI NIVRI NIVRI NIVRI
+
+
+Repeated word: "RUHE" (3 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7653: RUHE RUHE RUHE RUHE
+  [2] Line 7653: RUHE RUHE RUHE RUHE
+  [3] Line 7653: RUHE RUHE RUHE RUHE
+
+
+Repeated word: "Stop," (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 660: Stop, stop, don't need to speak about it.
+
+
+Repeated word: "TAHE" (2 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 7654: TAHE TAHE TAHE
+  [2] Line 7654: TAHE TAHE TAHE
+
+
+Repeated word: "Yes!" (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 3917: "Excellent! Excellent! Śākyamuni, World-Honored One! You're able to use your equal great wisdom to t
+
+
+Repeated word: "clean," (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 2574: "And let me tell you about that land: It gonna be beautiful. No filth, no rubble, no thorns, no wast
+
+
+Repeated word: "rising," (1 occurrence(s)):
+--------------------------------------------------------------------------------
+  [1] Line 3912: Now at that time, right there in front of the Buddha, a tower made of seven kinds of precious jewels
+
+
+DIACRITICALS: No issues found ✓
+
+CONSISTENCY: No issues found ✓
+
+================================================================================
+CHAPTER STRUCTURE (40 chapters)
+================================================================================
+  Line 84: Chapter One: The Opening
+  Line 488: Chapter One: The Opening
+  Line 505: Chapter Two: The Loving Tricks
+  Line 1198: Chapter Two: The Loving Tricks
+  Line 1219: Chapter Three: The Parable
+  Line 1848: Chapter Three: The Parable
+  Line 1861: Chapter Four: Faith and Understanding
+  Line 2271: Chapter Four: Faith And Understanding
+  Line 2288: Chapter Five: The Parable of the Medicinal Herbs
+  Line 2542: Chapter Five: The Parable Of The Medicinal Herbs
+  ... and 30 more chapters

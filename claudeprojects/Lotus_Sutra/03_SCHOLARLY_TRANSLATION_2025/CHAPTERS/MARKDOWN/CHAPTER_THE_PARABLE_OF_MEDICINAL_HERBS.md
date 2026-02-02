@@ -1,0 +1,312 @@
+# Chapter 5: The Parable of Medicinal Herbs
+
+*藥草喻品第五*
+
+At that time the World-Honored One addressed Mahākāśyapa and all the great disciples, saying: "Excellent, excellent! Kāśyapa has well spoken of the true and actual merits of the Tathāgata. It is truly as you have said. The Tathāgata indeed possesses immeasurable, limitless, asaṃkhyeya merits. Even if you were to speak of them throughout immeasurable koṭis of kalpas, you could never exhaust them. Kāśyapa, you should know that the Tathāgata is the king of all dharmas. Whatever he expounds is never false. Regarding all dharmas, he expounds them through wisdom and skillful means. Whatever dharmas he expounds all arrive at the ground of omniscient wisdom. The Tathāgata observes and knows all dharmas and where they return and tend. He also knows the deep mental activities of all living beings, penetrating them without obstruction. Moreover, regarding all dharmas he has investigated them thoroughly and comprehended them clearly, manifesting to all living beings the wisdom of omniscience."
+
+"Kāśyapa, it is like the mountains, streams, valleys, and lands of the great trichiliocosm, where the various plants, bushes, forests, and medicinal herbs that are produced are of many kinds, each with different names and colors. Dense clouds spread and extend, everywhere covering the great trichiliocosm, raining down equally and universally. Their moisture permeates everywhere. The plants, bushes, forests, and medicinal herbs—those with small roots, small stems, small branches, and small leaves; those with medium roots, medium stems, medium branches, and medium leaves; those with large roots, large stems, large branches, and large leaves; and all trees, large and small—according to their superior, medium, and inferior nature, each receives its portion. The rain from one cloud, according to the nature of each seed, causes growth, and flowers and fruits open and ripen. Though all are produced from one earth and moistened by one rain, yet all the various plants and trees differ from one another."
+
+"Kāśyapa, you should know the Tathāgata is also like this. He appears in the world like the arising of a great cloud. With his great voice he universally pervades the world of devas, humans, and asuras, just as that great cloud everywhere covers the great trichiliocosm. In the midst of the great assembly he proclaims these words: 'I am the Tathāgata, the Arhat, the Samyak-saṃbuddha, the One Perfect in Knowledge and Conduct, the Well-Gone One, the Knower of the World, the Unsurpassed One, the Tamer of Persons, the Teacher of Devas and Humans, the Buddha, the World-Honored One. Those not yet crossed over I cause to cross over. Those not yet liberated I cause to be liberated. Those not yet at peace I cause to be at peace. Those not yet entered into nirvāṇa I cause to attain nirvāṇa. I know the present world and the future world as they truly are. I am the all-knowing one, the all-seeing one, the knower of the Way, the opener of the Way, the expounder of the Way. You devas, humans, and asura assemblies should all come here to hear the Dharma.'"
+
+"At that time, immeasurable thousands of myriads of koṭis of species of living beings came to the Buddha's presence to hear the Dharma. The Tathāgata at that time observed whether the faculties of these beings were sharp or dull, whether they were vigorous or indolent. According to what they were capable of bearing, he expounded the Dharma for them—of innumerable varieties—causing all to rejoice and quickly gain wholesome benefit."
+
+"After these living beings heard this Dharma, they obtained peace and tranquility in the present world and were reborn in wholesome destinies, receiving happiness through the Way. They also were able to hear the Dharma. Having heard the Dharma, they departed from all obstructions. Regarding all dharmas, according to the power within their capacity, they gradually attained entry to the Way—just as that great cloud rains upon all the plants, bushes, forests, and medicinal herbs, and each according to its seed-nature receives the moisture fully and each obtains growth."
+
+"The Dharma expounded by the Tathāgata is of one characteristic and one flavor—namely, the characteristic of liberation, the characteristic of separation, the characteristic of extinction—ultimately arriving at the wisdom of all modes. When living beings hear the Dharma of the Tathāgata, whether upholding it, reading it, reciting it, or cultivating practice according to what is expounded, the merits they obtain they themselves are not aware of. Why is this so? Only the Tathāgata knows the species-characteristics, substance, and nature of these living beings—what matters they are mindful of, what matters they think of, what matters they cultivate; how they are mindful, how they think, how they cultivate; by what dharmas they are mindful, by what dharmas they think, by what dharmas they cultivate, by what dharmas they obtain what dharmas. Living beings abide in various grounds. Only the Tathāgata sees them as they truly are, clearly and without obstruction—just as those plants, bushes, forests, and medicinal herbs do not themselves know their superior, medium, or inferior nature. The Tathāgata knows this Dharma of one characteristic and one flavor—namely, the characteristic of liberation, the characteristic of separation, the characteristic of extinction, the characteristic of ultimate nirvāṇa, the characteristic of constant quiescence and extinction—finally returning to emptiness. Having known this, the Buddha observes the mental desires of living beings and protects them. For this reason he does not immediately expound the wisdom of all modes to them. You, Kāśyapa and others, are exceedingly rare in being able to know that the Tathāgata expounds the Dharma according to what is suitable, and in being able to believe and accept it. Why is this so? The Buddhas, the World-Honored Ones, expound the Dharma according to what is suitable—this is difficult to understand and difficult to know."
+
+At that time the World-Honored One, wishing to restate this meaning, spoke in verse:
+
+"The Dharma King who breaks [the bonds of] existence
+Appears in the world,
+According to the desires of living beings,
+Expounding various dharmas.
+
+"The Tathāgata, venerable and honored,
+Whose wisdom is deep and far-reaching,
+Has long remained silent on these essential matters,
+Not hasty to expound them.
+
+"Those with wisdom, if they hear,
+Are able to believe and understand.
+Those without wisdom doubt and regret,
+And thus are permanently lost.
+
+"Therefore, Kāśyapa,
+I expound according to their capacity,
+Through various causes and conditions,
+Causing them to attain right view.
+
+"Kāśyapa, you should know,
+It is like a great cloud
+Arising in the world,
+Covering everything.
+
+"The cloud of wisdom, containing moisture,
+With lightning flashing brilliantly,
+Thunder resounding afar,
+Causing the multitudes to rejoice.
+
+"The sun's light is obscured,
+The earth becomes cool,
+Thick clouds descend and spread
+As though they could be grasped.
+
+"The rain falls equally,
+Coming down on all four sides,
+Streaming and pouring without measure,
+Thoroughly saturating all the land.
+
+"In mountain streams and [dangerous valleys],
+In secluded and hidden places where they grow,
+Plants and medicinal herbs,
+Large and small trees,
+
+"Hundreds of grains and seedlings,
+Sugarcane and grape vines—
+All moistened by the rain,
+None not made abundant.
+
+"The parched earth is universally saturated,
+Medicinal plants and trees all flourish.
+The water produced by that cloud
+Is of one flavor.
+
+"Plants, trees, bushes, and forests,
+Each receives moisture according to its portion.
+All the various trees,
+Superior, medium, and inferior,
+
+"According to their greatness or smallness,
+Each obtains growth.
+Roots, stems, branches, leaves,
+Flowers, fruits, luster, and color—
+
+"All reached by the one rain,
+All become fresh and glossy.
+According to their bodily characteristics,
+Their nature, portion, and size,
+
+"Though moistened uniformly,
+Each grows luxuriantly.
+The Buddha is also like this—
+He appears in the world
+
+"Like a great cloud
+That universally covers all.
+Having appeared in the world,
+For the sake of all living beings
+
+"He discriminates and expounds
+The reality of all dharmas.
+The Great Sage, the World-Honored One,
+Among all devas, humans,
+
+"And all other assemblies,
+Proclaims these words:
+'I am the Tathāgata,
+The Most Honored of Two-Legged Beings,
+
+"'Appearing in the world
+Like a great cloud,
+Fully moistening
+All withered living beings,
+
+"'Causing all to depart from suffering,
+Obtaining peace, tranquility, and happiness—
+The happiness of the world
+And the happiness of nirvāṇa.
+
+"'Devas and human assemblies,
+With single mind, listen well:
+All should come here
+To behold the Unsurpassed Honored One.
+
+"'I am the World-Honored One,
+Unequaled by any.
+To bring peace to living beings,
+I appear in the world,
+
+"'For the sake of the great assembly I expound
+The sweet-dew pure Dharma.
+This Dharma is of one flavor—
+Liberation and nirvāṇa.
+
+"'With one wondrous sound
+I elucidate this meaning,
+Constantly creating causes and conditions
+For the Great Vehicle.
+
+"'I regard all [beings]
+As entirely equal,
+Having no minds
+Of preference or aversion.
+
+"'I have no greed or attachment,
+Nor any limitations or obstructions.
+I constantly, for all,
+Expound the Dharma equally—
+
+"'As for one person,
+So also for many.
+I constantly expound the Dharma,
+Never engaged in other matters.
+
+"'Coming and going, sitting and standing,
+I am never weary or tired,
+Fully satisfying the world
+Like rain that universally moistens.
+
+"'Noble and base, superior and inferior,
+Those who uphold precepts and those who violate them,
+Those complete in deportment
+And those not complete,
+
+"'Those of right view and wrong view,
+Those of sharp faculties and dull faculties—
+I rain the Dharma-rain equally,
+Without weariness or fatigue.
+
+"'All living beings
+Who hear my Dharma,
+According to their capacity receive it,
+Dwelling in various grounds.
+
+"'Some dwell among humans and devas,
+As wheel-turning sage kings,
+As Indra and Brahmā kings—
+These are the small medicinal herbs.
+
+"'Those who know the outflow-free dharmas,
+Able to attain nirvāṇa,
+Who arouse the six spiritual powers
+And attain the three clear knowledges,
+
+"'Dwelling alone in mountain forests,
+Constantly practicing meditation,
+Attaining the realization of Pratyekabuddhas—
+These are the medium medicinal herbs.
+
+"'Those who seek the place of the World-Honored One,
+[Thinking] "I shall become a Buddha,"
+Practicing vigor and concentration—
+These are the superior medicinal herbs.
+
+"'Moreover, sons of the Buddha
+Who single-mindedly pursue the Buddha-Way,
+Constantly practicing compassion,
+Knowing for themselves they will become Buddhas,
+
+"'Determined without doubt—
+These are called small trees.
+Abiding secure in spiritual powers,
+Turning the irreversible wheel,
+
+"'Liberating immeasurable koṭis,
+Hundreds of thousands of living beings—
+Such Bodhisattvas
+Are called great trees.
+
+"'The Buddha's equal exposition
+Is like the rain of one flavor.
+According to the natures of living beings,
+What they receive differs—
+
+"'Just as those plants and trees
+Each receive differently according to their endowment.
+The Buddha uses this parable
+To open and reveal through skillful means,
+
+"'Through various kinds of words
+Expounding the one Dharma.
+Regarding Buddha-wisdom,
+[This is] like one drop of the ocean.
+
+"'I rain the Dharma-rain,
+Filling the entire world.
+The Dharma of one flavor—
+Each practices according to capacity,
+
+"'Like those bushes, forests,
+And medicinal herbs and trees,
+According to their greatness or smallness,
+Gradually increasing in luxuriant beauty.
+
+"'The Dharma of all Buddhas
+Is constantly of one flavor,
+Causing all the worlds
+To become fully endowed universally.
+
+"'Gradually cultivating and practicing,
+All attain the fruits of the Way.
+Śrāvakas and Pratyekabuddhas,
+Dwelling in mountain forests,
+
+"'Abiding in the final body,
+Hearing the Dharma and attaining its fruit—
+These are called medicinal herbs,
+Each obtaining increase.
+
+"'If various Bodhisattvas,
+Whose wisdom is firm and solid,
+Fully understand the three realms
+And seek the supreme vehicle—
+
+"'These are called small trees
+Obtaining increase.
+Again, there are those who abide in meditation,
+Attaining spiritual powers,
+
+"'Hearing all dharmas are empty,
+Their minds greatly rejoicing,
+Emitting countless rays of light,
+Liberating all living beings—
+
+"'These are called great trees
+Obtaining increase.
+Thus, Kāśyapa,
+The Dharma expounded by the Buddha
+
+"'Is likened to a great cloud
+With the rain of one flavor
+Moistening human flowers—
+Each attaining ripened fruit.
+
+"Kāśyapa, you should know,
+Through various causes and conditions,
+Various parables,
+I open and reveal the Buddha-Way.
+
+"This is my skillful means,
+And all Buddhas are likewise.
+Now for your sake
+I expound the most real matter:
+
+"The assembly of śrāvakas
+Have not all attained extinction.
+What you are practicing
+Is the Bodhisattva-Way.
+
+"Gradually cultivating and learning,
+You shall all accomplish Buddhahood."
+
+
+═══════════════════════════════════════════════════════════════════════
+
+### Philosophical Implications
+
+This chapter develops the Lotus Sutra's central themes of universal Buddha-nature and the single vehicle of enlightenment. The teachings presented here connect to contemporary philosophical traditions including phenomenology, systems theory, and process philosophy.
+
+### Apparatus Summary
+
+- **Chapter Number**: 5
+- **Chinese Title**: See chapter heading
+- **Primary Theme**: [Theme description to be filled]
+- **Key Figures**: [To be completed]
+- **Central Teaching**: [To be completed]
+- **Structural Function**: [To be completed]
+
+### Footnotes
+
+[Scholarly apparatus notes and cross-references would be placed here in a complete scholarly edition]
+
+═════════════════════════════════════════════════════════════════════════

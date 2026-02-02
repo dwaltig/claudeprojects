@@ -1,0 +1,18 @@
+A **Content‑Gathering Agent** serves as the research and intake arm of an AI‑driven publishing workflow.  Its job is to ensure that every downstream process—planning, writing, editing, testing and publishing—has the right information at the right time.  To make its purpose and intent clear to both humans and AI systems, think of it as the librarian and intake coordinator for your project.
+
+### Purpose
+
+1. **Collect all relevant inputs**: The agent proactively searches for and retrieves every piece of information related to the project—draft manuscripts, design documents, product specifications, research notes, images, code snippets or datasets.  This eliminates the need for authors or editors to hunt through folders and email threads.
+2. **Ensure accuracy and currency**: It verifies that the materials it gathers are up‑to‑date, aligned with the latest version of the manuscript or product, and free of duplicates or conflicting versions.
+3. **Organise and label**: After collecting the materials, the agent tags them with metadata (e.g., source, date, topic) and stores them in a structured repository.  This organisation allows other agents or human users to quickly locate what they need.
+
+### How It Achieves This
+
+* **Source scanning**: The agent monitors predefined locations—cloud drives, local file systems, emails, API endpoints or databases—for new or changed files.
+* **File conversion and parsing**: When it encounters content in varied formats (PDFs, Word docs, spreadsheets), it converts them into a uniform internal format and uses natural‑language processing to identify key sections, keywords and entities.
+* **Deduplication and conflict resolution**: It compares incoming documents against the existing corpus to prevent duplicates and flags version conflicts for human review.
+* **Indexing and querying**: The agent updates a central knowledge base with the processed content and its metadata.  Other agents (or human collaborators) can query this knowledge base using simple criteria like “latest API specification” or “chapter outline for volume 2.”
+
+### Why It Matters
+
+By automating the process of gathering and organising inputs, the Content‑Gathering Agent saves hours of manual work and ensures that the team always works from the most accurate, comprehensive dataset.  It lays the foundation for later agents (Information Designer, Technical Writer, etc.) to operate efficiently and produce high‑quality outputs.

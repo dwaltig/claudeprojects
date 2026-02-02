@@ -1,0 +1,9 @@
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  
+GIve me examples of structuralism from “A Temporary Matter," by Jhumpa Lahiri  

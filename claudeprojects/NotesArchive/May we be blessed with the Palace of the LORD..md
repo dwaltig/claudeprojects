@@ -1,0 +1,16 @@
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  
+# May we be blessed with the Palace of the LORD.  

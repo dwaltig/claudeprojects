@@ -1,0 +1,25 @@
+Due by January 8, 2025  
+PLEASE FILL OUT THIS PROFILE FORM IF YOU ARE INTERESTED IN RUNNING FOR THE BOARD OF DIRECTORS, INDIVIDUALS MUST BE ABLE TO COMMIT TO A 1-VEAR, 2-VEAR or 3-VEAR TERM AND GIVE 2-10 VOLUNTEER SERVICE HOURS EACH MONTH.  
+PHONE NUMBER:  
+NAME:  
+I lys c Massillo.  
+832 - 4  
+2123  
+EMAIL ADDRESS  
+Iabbo ahdPDrune Hagil/htol.con  
+PLEASE TELL US ABOUT YOURSELE:  
+em 79 soars Id. Am capable of  
+• mcking honest decora and communictong and working suth octer hard  
+PLEASE WRITE PAST EXPERIENCES/WORK THAT QUALIFIES YOU FOR A POSITION ON THE BOARD OE  
+DIRECTORS  
+I oused my on bucos for  
+to get  
+15 yss. Y'm very serpenise endanions aharo  
+WHAT WOULD YOU LIKE TO DO FOR THE ASSOCIATION?  
+4 moved like to help improne the property values and make the communi  
+decision  
+a comportable and affordable place to lin  
+REMEMBER BEING A BOARO MENSE REQUIRES 210 HOURS OF VOLUNTEER ME AMONT A -  
+SUBMIT THIS FORMIE YOU CAN MEET THIS TIME COMMITMENT.  
+Bless  
+PLEASE MAIL THIS PROLE FOEM TO CREATIVE MANAGEMENT OR EMAL IT TO MAGSTICKOCMGIC.COMen  

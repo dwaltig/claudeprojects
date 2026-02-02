@@ -1,0 +1,16 @@
+Illusion of Transparency: Why No One Understands You
+Eliezer Yudkowsky
+
+In hindsight bias, people who know the outcome of a situation believe the outcome should have been easy to predict in advance. Even when warned, we can’t de-interpret to empathize with someone who doesn’t know what we know.
+
+Closely related is the illusion of transparency: We always know what we mean by our words, and so we expect others to know it too. Reading our own writing, the intended interpretation falls easily into place. It’s hard to empathize with someone who must interpret blindly.
+
+Keysar (1994) conducted a study where subjects were told a scenario about a restaurant recommendation. When the food was bad, 59% thought a message saying it was "marvelous" would be perceived as sarcastic. When the food was good, only 3% thought so. People assumed their communicative intention was transparent.
+
+In another study, groups were taught that an archaic idiom ("the goose hangs high") meant either "the future looks good" or "the future looks gloomy." Each group thought uninformed listeners would perceive the meaning they were taught as "standard."
+
+Further tests showed that speakers overestimated how often they were understood (72% predicted vs 61% actual). When addressees didn't understand, speakers thought they did in 46% of cases. Overhearers showed no such bias.
+
+Chamberlain sent a letter to Hitler intended to make it clear that Britain would fight. Phrased in polite diplomatese, Hitler heard it as conciliatory—and the tanks rolled.
+
+Be not too quick to blame those who misunderstand your perfectly clear sentences. Chances are, your words are more ambiguous than you think.

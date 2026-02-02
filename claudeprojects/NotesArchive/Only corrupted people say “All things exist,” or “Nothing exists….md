@@ -1,0 +1,7 @@
+*Only corrupted people say: “All things exist,” or “Nothing exists,” Or “All things are real,” or “Nothing is real,” Or “All things are born,” or “Nothing is born.”*  
+*Only corrupted people say: “All things exist,” or “Nothing exists,” Or “All things are real,” or “Nothing is real,” Or “All things are born,” or “Nothing is born.”*  
+*Only corrupted people say: “All things exist,” or “Nothing exists,” Or “All things are real,” or “Nothing is real,” Or “All things are born,” or “Nothing is born.”*  
+*Only corrupted people say: “All things exist,” or “Nothing exists,” Or “All things are real,” or “Nothing is real,” Or “All things are born,” or “Nothing is born.”*  
+*Only corrupted people say: “All things exist,” or “Nothing exists,” Or “All things are real,” or “Nothing is real,” Or “All things are born,” or “Nothing is born.”*  
+  
+The Buddha declares these verses in Chapter Fourteen of the Lotus Sūtra in which he describes the peaceful practices of a Bodhisattva. Hearing these descriptions can be confusing. We think that we have to choose from among these views, and that these are the only views possible. The Buddha shows us another way. When we think of things as either unchanging or nonexistent, we live in a world of either judgement or despair. The Buddha shows us how to value what exists as it is changing and not attach ourselves to our expectations of stability. It is only because we are changing, and the world is changing around us, that we have the potential to become enlightened.  

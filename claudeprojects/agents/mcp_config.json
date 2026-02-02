@@ -1,0 +1,57 @@
+{
+  "mcp_version": "1.0.0",
+  "project": "Lotus Sutra Project",
+  "resources": [
+    {
+      "uri_scheme": "ddb://",
+      "name": "Digital Dictionary of Buddhism",
+      "description": "Authoritative definitions for East Asian Buddhist terminology.",
+      "template": "ddb://term/{term}",
+      "examples": ["ddb://term/shunyata", "ddb://term/prajna"]
+    },
+    {
+      "uri_scheme": "sat://",
+      "name": "SAT Daizōkyō Text Database",
+      "description": "Taishō Tripiṭaka canonical text references.",
+      "template": "sat://{vol_number}n{text_number}",
+      "examples": ["sat://T09n0262", "sat://T14n0475"]
+    },
+    {
+      "uri_scheme": "cbeta://",
+      "name": "CBETA Chinese Electronic Tripitaka",
+      "description": "Cross-referenced canonical texts.",
+      "template": "cbeta://{sutra_id}/{line_number}",
+      "examples": ["cbeta://T0262/a05"]
+    }
+  ],
+  "tools": [
+    {
+      "name": "verify_sanskrit_root",
+      "description": "Verifies the Sanskrit etymology of a translated term via multi-path back-translation.",
+      "input_schema": {
+        "term": "string",
+        "context_verse": "string"
+      }
+    },
+    {
+      "name": "check_blues_syntax",
+      "description": "Validates text against AAVE grammatical rules (Invariant Be, Copula Deletion, Negative Concord).",
+      "input_schema": {
+        "lyrics_snippet": "string",
+        "rule_set": "aave_v1"
+      }
+    }
+  ],
+  "prompts": [
+    {
+      "name": "apply_scholarly_apparatus",
+      "description": "Injects the standard LaTeX/Markdown citation format for the project.",
+      "arguments": ["citation_style"]
+    },
+    {
+      "name": "enforce_aab_structure",
+      "description": "Standard prompt to restructure lyrics into AAB Blues form.",
+      "arguments": []
+    }
+  ]
+}

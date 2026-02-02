@@ -1,0 +1,351 @@
+﻿Collective Intelligence in Agentic Architectures: A Multi-Domain Evaluation of Multi-Agent Systems vs. Monolithic LLMs (2023-2025)
+The transition from isolated large language models to coordinated multi-agent systems represents a fundamental paradigm shift in artificial intelligence research, moving away from a singular, centralized "brain" toward a distributed model of collective intelligence.[1, 2] While monolithic models dominated the early landscape of generative AI, the years 2023 through 2025 have witnessed a decisive pivot toward agentic architectures that leverage specialized roles, collaborative reasoning, and modular task decomposition to solve problems that remain intractable for individual models.[3, 4] This architectural evolution is driven by the inherent limitations of monolithic approaches, which frequently suffer from cognitive overload, attention dilution in long-context scenarios, and a systemic inability to handle the multi-step, longitudinal nature of real-world tasks.[5, 6, 7]
+Multi-agent systems (MAS) address these bottlenecks by distributing complex problems across a network of intelligent agents, each optimized for a specific sub-task.[1, 3, 8] The mechanism of this superiority lies in the transition from isolated prompting to structured interaction, where agents connect, negotiate, and refine their collective output through coordination protocols.[1, 3] Empirical evidence across five critical domains—software engineering, scientific discovery, medical diagnostics, financial analysis, and enterprise workflows—demonstrates that multi-agent frameworks consistently outperform the most advanced monolithic baselines.[5, 7, 9] In many instances, the performance margin is not merely incremental but represents a multi-fold increase in success rates for repository-level or long-horizon tasks.[10, 11, 12]
+Theoretical Foundations of Agentic Superiority
+The conceptual shift from monolithic models to multi-agent systems is rooted in the "horizontal scaling" of intelligence.[1, 2] While "vertical scaling" focuses on increasing the parameter count of a single model to improve its reasoning, horizontal scaling focuses on the collaborative aspect of intelligence, where groups of agents solve problems at scale.[1, 3] This approach aligns with human organizational structures, where specialized experts coordinate their efforts toward shared objectives.[13, 14]
+The architectural advantage of MAS is characterized by several key dimensions: actors, types of interaction (cooperation or competition), communication structures, and coordination strategies.[1, 2] Unlike a single model that must encode all functions into a single set of weights—leading to task interference and a compromise between broad generalization and deep expertise—multi-agent systems allow for the isolation of specific cognitive functions.[7]
+Interaction Dimension
+	Multi-Agent Mechanism
+	Strategic Benefit
+	Cognitive Distribution
+	Task decomposition into specialized roles (Planner, Executor, Reviewer) [8, 15]
+	Prevents context dilution and cognitive overload [6, 7]
+	Verification Protocol
+	Multi-round debate, self-reflection, and consensus aggregation [1, 16, 17]
+	Reduces hallucination and error propagation [8, 14]
+	Context Management
+	Modular state updates and incremental delta logging [8, 18]
+	Mitigates "context collapse" in long-horizon reasoning [18]
+	Model Optimization
+	Assigning specific LLMs (e.g., o1 for reasoning, Flash for speed) to specific agents [8, 19]
+	Optimizes the cost-performance-latency trade-off [8, 20]
+	This modularity allows for "emergent behavior," where agents discover strategies or solutions through interaction that were not explicitly programmed into the system.[13, 21] Furthermore, MAS architectures provide high fault tolerance; if one specialized agent fails, the orchestrator or other agents can compensate, making the overall system more resilient than a single-point-of-failure monolithic model.[8, 14]
+Software Engineering and Repository-Level Tasks
+The domain of software engineering has served as one of the most rigorous testing grounds for multi-agent systems, particularly in the context of repository-level tasks.[5, 15, 22] Real-world software development requires navigating massive codebases, identifying precise fault locations, reproducing bugs in sandboxed environments, and validating patches against comprehensive test suites.[5, 6, 20] Monolithic models, when tasked with resolving GitHub issues end-to-end, frequently fail due to their inability to maintain accurate state across thousands of files.[6, 11]
+MAGIS: Revolutionizing GitHub Issue Resolution
+The Multi-Agent framework for GitHub Issue reSolution (MAGIS) was designed to mimic the collaborative process of a software development team.[10, 11] In empirical studies utilizing the SWE-bench benchmark, which consists of real-world Python issues from repositories like Django and scikit-learn, MAGIS demonstrated a transformative leap in performance over monolithic applications of GPT-4 and Claude-2.[10, 11]
+Model/Framework
+	Architecture
+	Resolved Ratio (SWE-bench)
+	Improvement Margin
+	GPT-4 (Direct)
+	Monolithic
+	1.7% [10, 11]
+	Baseline
+	Claude-2 (Direct)
+	Monolithic
+	1.3% (Est.) [10]
+	-23% vs GPT-4
+	MAGIS
+	Multi-Agent (4 Roles)
+	13.94% [10, 11]
+	8.2x (820%)
+	MAGIS (v2 Enhanced)
+	Multi-Agent
+	13.94% [22]
+	38x (to DeepSeek) [10]
+	The architectural insight behind MAGIS’s success is its four-agent structure: the Manager for planning, the Repository Custodian for file location, the Developer for editing, and the Quality Assurance (QA) Engineer for review.[10, 11] Empirical findings indicate that the primary cause of failure for monolithic models is the inaccurate identification of the specific lines of code that need modification.[11] By delegating this to a dedicated Repository Custodian, the Developer agent is provided with a focused, high-relevance context, drastically reducing the search space and the likelihood of introducing side-effect errors.[11]
+MASAI and Hierarchical Reinforcement
+The MASAI framework addresses the "long-horizon" nature of software engineering by formulating the agent hierarchy as a coordination problem.[6, 15] While prior systems relied on fixed pipelines, MASAI argues that software tasks often require dynamic role allocation.[6] On the SWE-bench-Verified dataset, MASAI’s hierarchical approach consistently outperformed single-agent designs.[6]
+Dataset
+	Framework
+	Model Size
+	Performance Metric
+	Comparison
+	SWE-bench-Verified
+	MASAI
+	36B
+	Superior to Single-Agent
+	Outperforms manual pipelines [6]
+	SWE-bench-Live
+	MASAI
+	36B
+	2nd Place Leaderboard
+	Surpasses GPT-4 and Claude [6]
+	A critical insight from the MASAI research is that long contexts dilute attention and reduce retrieval accuracy.[6] By using a multi-armed bandit (MAB) approach to identify the best arm (sub-agent design) for a given problem, MASAI balances exploration of different strategies with exploitation of successful ones.[6] This providing the first concrete evidence that hierarchical multi-agent systems improve generalization on out-of-distribution tasks, such as those found in SWE-bench-Live.[6]
+Agint and Exceptional Safety
+Further specialized research into code generation has produced the Agint and Seeker frameworks, which focus on reliability and "exception safety".[20, 23] These systems convert natural language instructions into typed, effect-aware code DAGs (Directed Acyclic Graphs), utilizing a hybrid LLM/function JIT runtime.[20] The Seeker framework focuses on exception handling, a task where a 63% performance gap exists between monolithic GPT-4 and senior human developers.[23]
+Task
+	Method
+	Performance Metric
+	Improvement Margin
+	Exception Handling Precision
+	Seeker (MAS)
+	+37% vs Monolithic [23]
+	Significant robustness gain
+	Overall Code Robustness
+	Seeker (MAS)
+	+38% vs Monolithic [23]
+	Closer to human level
+	Real-world issue fixes
+	Seeker (MAS)
+	28% success rate [23]
+	vs 19% prior methods
+	The key architectural insight in Seeker is the use of "Intermediate Representation Agents" that proactively handle errors by analyzing the code's data flow before finalizing the generation.[20, 23] This prevents the syntactic and logical errors that monolithic models often "hallucinate" when forced to handle both functional logic and error cases in a single pass.[20]
+Scientific Discovery: Modeling Collaborative Research
+Scientific discovery requires more than knowledge retrieval; it demands the synthesis of existing literature into novel, verifiable hypotheses and the design of rigorous experiments.[24, 25, 26] Monolithic models are often hampered by "context collapse" when processing hundreds of research papers and are prone to generating ideas that lack technological innovation or logical coherence.[18, 25] Multi-agent systems address this by emulating the collaborative teamwork inherent in the research community.[24, 26]
+Coated-LLM: Biomedical Hypothesis Generation
+The Coated-LLM framework was developed to tackle hypothesis generation in data-scarce domains, such as the identification of drug combinations for Alzheimer’s disease.[24]
+Metric
+	Traditional Network-Based
+	Coated-LLM (MAS)
+	Quantitative Margin
+	Accuracy (AD Test Set)
+	0.52 [24]
+	0.74 [24]
+	+42.3%
+	Accuracy (External Set)
+	0.27 [24]
+	0.82 [24]
+	+203.7%
+	Precision
+	0.46 [24]
+	0.71 [24]
+	+54.3%
+	Recall
+	0.16 [24]
+	0.80 [24]
+	+400.0%
+	F1-Score
+	0.24 [24]
+	0.75 [24]
+	+212.5%
+	Architectural analysis of Coated-LLM reveals that its three-agent structure—Researcher, Reviewers, and Moderator—is essential for mitigating false positives.[24] The Researcher agent proposes reasoning steps, but the Reviewers are prompted to maintain skepticism and rigor, critiquing the predictions.[24] The Moderator then integrates these diverse perspectives to finalize the output.[24] Experimental results show that the revision phase alone (Reviewers and Moderator) improves accuracy by 5% and precision by 9% compared to the Researcher agent acting in a monolithic capacity.[24] This system successfully identified and validated the combination of m266 and Gypenoside XVII, which significantly reduced amyloid beta aggregation in vitro.[24]
+Virtual Scientists and Chain-of-Ideas
+The Virtual Scientists (VirSci) and Chain-of-Ideas (CoI) frameworks extend this collaborative model to broader research ideation and experiment design.[25, 26] VirSci organizes agents into a structured pipeline from team organization to abstract drafting, demonstrating that multi-agent systems produce ideas that are both more novel and more impactful than state-of-the-art single-agent methods.[26]
+Framework
+	Innovation Focus
+	Key Architectural Insight
+	VirSci
+	Team Mimicry
+	Mimics human team dynamics (Team Leader + Experts) [26, 27]
+	CoI Agent
+	Literature Structure
+	Chains relevant literature backward and forward to preserve context [25]
+	BioDisco
+	Grounded Novelty
+	Integrates Knowledge Graphs with Literature Retrieval [28]
+	AI Scientist
+	Pipeline Automation
+	Automates the full cycle from hypothesis to peer review [28]
+	The CoI framework provides a critical insight into why MAS outperforms monoliths in literature synthesis: monolithic models are vulnerable to less relevant works when exposed to extensive text, leading to incoherent ideas.[25] The CoI agent overcomes this by selecting significant literature based on citation paths, ensuring the generated hypotheses are logically tethered to established research.[25] Furthermore, systems like BioDisco use multiple agents to query Knowledge Graphs and literature simultaneously, providing a "dual-mode" evidence system that ensures grounded novelty.[28]
+Medical and Clinical Applications: Multidisciplinary Reasoning
+In the medical domain, the integration of AI has evolved from passive knowledge engines to proactive "Medical Agents" that sense, reason, and act within clinical environments.[16, 29, 30] Clinical practice is inherently longitudinal and interactive, requiring the tracking of patient history and the synthesis of multimodal evidence from radiology, pathology, and vital signs.[29, 30] Monolithic models often struggle with the "cross-disciplinary" evidence synthesis and safety constraints required for complex oncology or rare disease management.[30]
+MDAT and MDTeamGPT: The Digital Tumor Board
+The MDAT (Multidisciplinary Team) framework emulates the tumor-board style of collaboration for oncology decision support.[30, 31] By prompting multiple agents to act as specialized experts who debate and then vote on treatment plans, the system achieves higher diagnostic accuracy and clinician-auditable rationales.[30, 31]
+Baseline LLM
+	Single-Agent Accuracy
+	MDAT (MAS) Accuracy
+	Improvement Margin
+	ChatGPT-4o
+	88.0% (Est.)
+	~95.0% [30, 31]
+	+7.0%
+	DeepSeek-R1
+	92.5% (Est.)
+	98.26% [30, 31]
+	+5.76%
+	Llama-4.1
+	86.4% (Est.)
+	~93.2% [30, 31]
+	+6.8%
+	The architectural breakthrough in MDAT is the discovery of the "ideal team size." Experimental data indicates that autonomous agents naturally gravitate toward a configuration of 5 to 7 specialists for optimal reasoning.[31] This narrow cluster (average 5.63 to 5.99 agents) mirrors human clinical implications, where too few specialists lack depth and too many introduce coordination noise.[31]
+Similarly, the MDTeamGPT framework addresses the "long dialogue history" problem in medical consultations.[16, 32] In multi-role consultations, context length can degrade accuracy; MDTeamGPT uses consensus aggregation and a residual discussion structure to prevent the model from becoming overwhelmed by its own history.[16]
+KG4Diagnosis: Knowledge Graph Integration
+Another critical improvement margin is found in KG4Diagnosis, a hierarchical multi-agent framework that combines LLMs with automated Knowledge Graph construction covering 362 diseases.[33]
+Component
+	Task
+	Architectural Insight
+	General Practitioner Agent
+	Initial Triage
+	Broad assessment to identify domain-specific specialists [33]
+	Specialist Agents
+	Domain Analysis
+	Precision reasoning using Knowledge Graph constraints [33]
+	Verifier Agent
+	Safety Check
+	Mitigates hallucination by cross-referencing clinical guidelines [33]
+	This system demonstrates significant improvements in efficiency and accuracy by leveraging structured knowledge for dynamic decision-making.[33] Unlike monolithic PaLM-style models that face accuracy challenges when evidence is diverse, the hierarchical multi-agent approach ensures that every diagnostic step is anchored to verifiable medical data.[30, 33]
+Financial Analysis and Systematic Trading
+The financial domain demands high-fidelity reasoning, the ability to adapt to market noise, and strict adherence to risk management protocols.[12, 17, 34] Traditional algorithmic trading often fails to capture the interplay of textual (news, sentiment) and quantitative (technical) factors, while monolithic LLMs get "overwhelmed" by the sheer volume of heterogeneous market data.[12, 34]
+TradingAgents: Simulating the Professional Firm
+The TradingAgents framework is explicitly designed to replicate the collaborative dynamics of a professional trading firm, rather than acting as a solo trader.[12, 34, 35] It utilizes specialized agents for fundamentals, sentiment, news, and technical analysis, coordinated by researchers and traders with varied risk profiles.[34, 35]
+Ticker
+	Metric
+	Best Monolithic Baseline
+	TradingAgents (MAS)
+	Improvement
+	AAPL
+	Cumulative Return
+	2.05% (KDJ+RSI) [12]
+	26.62% [12]
+	+1,200% (12x)
+	AAPL
+	Sharpe Ratio
+	1.64 (KDJ+RSI) [12, 34]
+	8.21 [12, 34]
+	+400% (5x)
+	GOOGL
+	Cumulative Return
+	Low/Neg [12]
+	Positive Robust [34]
+	Outperformed all
+	Universal
+	Annualized Return
+	~10-15% (Est.)
+	70.0% [17]
+	4.6x - 7x
+	The core architectural innovation in TradingAgents is the use of structured documents for inter-agent communication, which mitigates the "telephone effect" and context window explosion seen in natural language chat-based frameworks.[12, 34] Furthermore, the Bull and Bear researcher agents engage in dialectical debates to weigh the evidence before a Trader synthesizes the final decision.[12, 34] This dialectical approach surfaces risks and technical contradictions that a single agent would likely miss.[12]
+Portfolio Optimization and Risk Guardians
+The QuantAgents and HedgeAgents systems extend these benefits to portfolio management, reporting Sharpe Ratios exceeding 2.0 and annualized returns of 70% over multi-year backtests.[17] These systems solve constrained mean-variance problems and enforce Maximum Drawdown (MDD) thresholds through a "Risk Management" agent that acts as a guardian over the Trader's decisions.[17, 35]
+Risk Metric
+	Single LLM Baseline
+	MAS Framework (QuantAgents)
+	Benefit
+	Max Drawdown
+	Variable/High [17]
+	< 15% [17]
+	Superior risk control
+	Sharpe Ratio
+	0.8 - 1.2 (Est.)
+	> 2.0 [17]
+	Professional grade
+	Explainability
+	Black-box [17]
+	Natural Language Audit Trail [12, 34]
+	Regulatory compliance
+	Unlike black-box deep learning models, multi-agent LLM systems provide improved transparency via chain-of-thought logging and structured debate transcripts.[12, 17] This allows human analysts to audit why a specific trade magnitude was chosen or why a risk reduction was triggered, which is a prerequisite for institutional deployment.[17, 36]
+Enterprise Workflows: Deconstructing Operational Complexity
+Enterprise automation has transitioned from simple RPA (Robotic Process Automation) to sophisticated agentic workflows that handle document processing, customer service, and strategic planning.[8, 13, 37] In these contexts, monolithic models are often "competent at many things but exceptional at few," leading to error propagation and cognitive overload.[14] Multi-agent systems achieve a 40-60% efficiency gain in enterprise processes by assigning specialized models to specific operational nodes.[4, 8, 37]
+MACT: Cognitive Scaling for Document Understanding
+Visual document understanding involves processing charts, tables, and complex layouts—a task where monolithic models struggle to encode disparate functions into a single set of weights.[7] The MACT (Multi-Agent Collaboration with Test-time scaling) framework deconstructs this monolithic burden into four specialized agents.[7]
+Benchmark
+	Monolithic Base
+	MACT (MAS)
+	Enhancement Margin
+	Avg. Performance
+	100% (Baseline)
+	109.9% - 111.5% [7]
+	+9.9% - 11.5%
+	Visual Reasoning
+	72.4% (Est.)
+	81.2% [7]
+	+8.8%
+	Math in Docs
+	64.5% (Est.)
+	73.6% [7]
+	+9.1%
+	MACT variants consistently secure top-three rankings across 15 document benchmarks, demonstrating that monolithic scaling is not the optimal approach for visual document tasks.[7] The architectural insight is "agent-wise adaptive scaling," which allows the system to allocate more reasoning tokens to the specific agent (e.g., the Math agent) only when the document requires it, rather than scaling the entire model for every page.[7]
+AgentReport and Customer Support Workflows
+In software maintenance and customer service, generating high-quality reports or resolving technical queries requires both structural completeness and lexical fidelity.[14, 38] The AgentReport multi-agent pipeline achieved significantly higher quality than monolithic baselines on Bugzilla datasets.[38]
+Evaluation Metric
+	Baseline (Monolith)
+	AgentReport (MAS)
+	Improvement Margin
+	ROUGE-1 Recall
+	61.0% [38]
+	84.6% [38]
+	+23.6 points
+	CTQRS (Structural)
+	77.0% [38]
+	80.5% [38]
+	+3.5 points
+	Sentence-BERT
+	85.0% [38]
+	86.4% [38]
+	+1.4 points
+	The multi-agent advantage here stems from "parallel processing" and "task specialization".[8, 14] While a monolithic system slows down as task complexity increases, an MAS can deploy multiple copies of a specialized agent (e.g., a "Triage agent") to handle spikes in demand, maintaining performance and reducing latency.[8, 14] For large enterprises, this modularity also allows for "federated governance," where different agents covering thematic domains (Legal, R&D, Investor Relations) can follow domain-specific security policies that a centralized model would find difficult to manage.[39, 40]
+Critical Analysis of Multi-Agent Architectural Insights
+The cross-domain evidence synthesized in this report reveals three recurring architectural insights that explain why multi-agent systems consistently outperform monolithic LLMs.[1, 8, 14]
+1. Mitigation of the "Context Switch" Penalty
+A monolithic system, regardless of its parameter scale, experiences a penalty when it must switch between vastly different tasks—such as code generation, planning, and validation—within a single context window.[14] This leads to attention fragmentation and "averaging" of performance.[7, 14] MAS architectures eliminate this penalty by allowing each specialized agent to maintain a focused, high-density context.[11, 14] Research in "Agentic Context Engineering" (ACE) shows that treating contexts as evolving playbooks rather than summaries prevents the "context collapse" that causes a 10% accuracy drop in monolithic models during long-horizon reasoning.[18]
+2. Error Detection via Dialectical and Adversarial Reasoning
+Monolithic models suffer from error propagation; a mistake in step one of a ten-step plan often goes uncorrected and compromises the final result.[14, 41] Multi-agent systems introduce an "adversarial" layer where agents—such as the Bull and Bear researchers in finance or the Reviewers in medicine—actively seek to disprove the proposed plan.[12, 24, 34] This dialectical process surfaces hallucinations and logic flaws before the final decision agent executes the task, improving accuracy by up to 40% in complex environments.[8, 12]
+3. Model-Task Matching and Computational Efficiency
+In an enterprise or research environment, using the most powerful (and expensive) monolithic model for every sub-task is computationally inefficient.[8, 14, 19] MAS architectures allow for a "hybrid" approach: high-reasoning models (like o1 or Claude 3.5) are reserved for planning and reflection agents, while faster, smaller models (like Llama-3 or Gemini Flash) handle data extraction and routine tool usage.[8, 19, 20] This strategy has been shown to achieve a 75.1% reduction in cost while matching the performance of systems that use a single, large frontier model for the entire workflow.[18]
+Synthesis of Quantitative Improvements
+The following table synthesizes the maximum observed improvement margins from the studies reviewed, demonstrating the consistency of MAS superiority across all non-gaming domains.
+Domain
+	Study/Framework
+	Baseline
+	MAS Performance
+	Quantitative Margin
+	Software Eng.
+	MAGIS [10]
+	1.7% Resolved
+	13.9% Resolved
+	8.2x (820%)
+	Scientific Disc.
+	Coated-LLM [24]
+	0.27 Accuracy
+	0.82 Accuracy
+	3.0x (300%)
+	Medical/Clin.
+	MDAT [30]
+	88.0% (o4)
+	98.3% (o4+MAS)
+	+10.3% / -85% Error
+	Financial Analysis
+	TradingAgents [12]
+	2.05% Return
+	26.6% Return
+	13.0x (1,300%)
+	Enterprise Work.
+	AgentReport [38]
+	61.0% Recall
+	84.6% Recall
+	+23.6 points
+	Future Outlook: The Convergence of Agents and Infrastructure
+As of late 2025, the industry is witnessing a shift toward "Agentic AI" as the primary enterprise application paradigm.[42] Technical advancements are now less about a single-lab advantage in model parameters and more about the "agentic connector" ecosystems.[42] The Multi-Client Proxy (MCP) and "Agentic Tool Mesh" are becoming the infrastructure that allows diverse agents to coordinate across heterogeneous environments.[39, 42]
+While monolithic LLMs have likely "peaked" in terms of general capabilities, the "Agent Complexity Law" suggests that sophisticated multi-agent designs will continue to drive performance gains for high-stakes, real-world tasks.[42, 43] The empirical evidence from 2023-2025 provides a definitive conclusion: for domains requiring professional-level expertise, long-term planning, and rigorous verification, the future belongs to multi-agent architectures that harness the power of collective intelligence.
+Actionable Conclusions for Implementation
+Based on the multi-domain synthesis, several design principles emerge for developing superior agentic systems:
+1. Prioritize Role Specialization Over Prompt Scale: Assigning the "Repository Custodian" or "Technical Analyst" role to an independent agent is more effective than adding more instructions to a monolithic prompt.[11, 12]
+2. Implement Structured Communication Layers: Use formatted reports or documents for inter-agent handoffs to avoid the context-diluting "telephone effect" of long natural language histories.[12, 34]
+3. Embed Adversarial Reviewers: Every critical pipeline should include a Reviewer or "Bear" agent tasked with disproving the primary plan to catch hallucinations early.[12, 24]
+4. Optimize Team Size: Aim for a multidisciplinary team of 5-7 agents for complex reasoning, as this size balances specialized depth with coordination efficiency.[31]
+5. Leverage Knowledge Graphs for Grounding: In domains like medicine or legal, grounding the MAS in a Knowledge Graph significantly reduces the error rate compared to single-agent RAG (Retrieval-Augmented Generation).[33, 41]
+--------------------------------------------------------------------------------
+1. Multi-Agent Collaboration Mechanisms: A Survey of LLMs - arXiv, https://arxiv.org/pdf/2501.06322?
+2. [2501.06322] Multi-Agent Collaboration Mechanisms: A Survey of LLMs - arXiv, https://arxiv.org/abs/2501.06322
+3. Multi-Agent Collaboration Mechanisms: A Survey of LLMs - arXiv, https://arxiv.org/html/2501.06322v1
+4. Review of Autonomous and Collaborative Agentic AI and Multi- Agent Systems for Enterprise Applications - ResearchGate, https://www.researchgate.net/publication/393232793_Review_of_Autonomous_and_Collaborative_Agentic_AI_and_Multi-_Agent_Systems_for_Enterprise_Applications
+5. LLM-Based Agents in Software Engineering - Emergent Mind, https://www.emergentmind.com/topics/llm-based-agents-in-software-engineering
+6. DISCOVERING HIERARCHICAL SOFTWARE ENGINEER- ING AGENTS VIA BANDIT OPTIMIZATION - OpenReview, https://openreview.net/pdf/a5f18b8e483b2f09a194e5f5777eb0a59e28995f.pdf
+7. Visual Document Understanding and Reasoning: A Multi-Agent Collaboration Framework with Agent-Wise Adaptive Test-Time Scaling - arXiv, https://arxiv.org/html/2508.03404v2
+8. Multi-Agent and Multi-LLM Architecture: Complete Guide for 2025 - Collabnix, https://collabnix.com/multi-agent-and-multi-llm-architecture-complete-guide-for-2025/
+9. Daily Papers - Hugging Face, https://huggingface.co/papers?q=Finance-Agent
+10. MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution | OpenReview, https://openreview.net/forum?id=qevq3FZ63J&referrer=%5Bthe%20profile%20of%20Wenqiang%20Zhang%5D(%2Fprofile%3Fid%3D~Wenqiang_Zhang1)
+11. MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution (2403.17927v2) - Emergent Mind, https://www.emergentmind.com/papers/2403.17927
+12. Building Trading Bots That Think Like a Trading Firm: Unpacking the TradingAgents Paper | by Arshad Ansari | Hikmah Techstack, https://publication.hikmahtechnologies.com/building-trading-bots-that-think-like-a-trading-firm-unpacking-the-tradingagents-paper-f975ae5b42df
+13. Managing Multi-Agent LLM Systems in Enterprises - Fiddler AI, https://www.fiddler.ai/articles/multi-agent-llm-systems-for-enterprises
+14. Developing Multi-Agent AI Architectures for Large Enterprises - Idea Usher, https://ideausher.com/blog/developing-multi-agent-ai-architectures/
+15. A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System - arXiv, https://arxiv.org/html/2510.09721v3
+16. (PDF) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation - ResearchGate, https://www.researchgate.net/publication/389947634_MDTeamGPT_A_Self-Evolving_LLM-based_Multi-Agent_Framework_for_Multi-Disciplinary_Team_Medical_Consultation
+17. Multi-Agent LLM Financial Trading - Emergent Mind, https://www.emergentmind.com/topics/multi-agent-llm-financial-trading
+18. Agentic Context Engineering - Sundeep Teki, https://www.sundeepteki.org/blog/agentic-context-engineering
+19. Multi-Agent Workflows: A Practical Guide to Design, Tools, and Deployment - Kanerika, https://kanerika.com/blogs/multi-agent-workflows/
+20. Agint: Agentic Graph Compilation for Software Engineering Agents - arXiv, https://www.arxiv.org/pdf/2511.19635
+21. LLMs and Multi-Agent Systems: The Future of AI in 2025 - Classic Informatics, https://www.classicinformatics.com/blog/how-llms-and-multi-agent-systems-work-together-2025
+22. MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution - ResearchGate, https://www.researchgate.net/publication/397202014_MAGIS_LLM-Based_Multi-Agent_Framework_for_GitHub_Issue_Resolution
+23. For Peer Review - Stanford University, https://web.stanford.edu/~zhangxm/Towards_Exception_Safety_Code_Generation_with_Intermediate_Representation_Agents_Framework.pdf
+24. Multi agent large language models for biomedical hypothesis ... - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC12682125/
+25. Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents - ACL Anthology, https://aclanthology.org/2025.findings-emnlp.477.pdf
+26. Two Heads Are Better Than One: A Multi-Agent System Has the ..., https://openreview.net/forum?id=yYQLvofQ1k
+27. Creativity in LLM-based Multi-Agent Systems: A Survey - ACL Anthology, https://aclanthology.org/2025.emnlp-main.1403.pdf
+28. BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation - arXiv, https://arxiv.org/html/2508.01285v1
+29. Reasoning as the Engine: The Evolution from Medical LLMs to Versatile Medical Agents - OpenReview, https://openreview.net/pdf/2f5ca54598a085523294f6f00957c5a1bf343ba8.pdf
+30. Multidisciplinary large language model agent teams for precision oncology enhance complex gynecologic oncology decision support | medRxiv, https://www.medrxiv.org/content/10.1101/2025.10.30.25339199v1.full-text
+31. Multidisciplinary large language model agent teams for precision oncology enhance complex gynecologic oncology decision support - medRxiv, https://www.medrxiv.org/content/10.1101/2025.10.30.25339199v1.full.pdf
+32. AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator - ACL Anthology, https://aclanthology.org/2025.coling-main.680.pdf
+33. KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis - arXiv, https://arxiv.org/html/2412.16833v4
+34. TradingAgents: Multi-Agents LLM Financial Trading Framework - arXiv, https://arxiv.org/pdf/2412.20138
+35. TradingAgents: Multi-Agents LLM Financial Trading Framework - GitHub, https://github.com/TauricResearch/TradingAgents
+36. LLM Market Landscape 2025: Global Leaders, Revenue Models, and AI Trends, https://powerdrill.ai/blog/llm-market-landscape
+37. How Large Language Models Transform Enterprise Workflows in 2025 - Wizr AI, https://wizr.ai/blog/large-language-models-transform-enterprise-workflows/
+38. AgentReport: A Multi-Agent LLM Approach for Automated and Reproducible Bug Report Generation - MDPI, https://www.mdpi.com/2076-3417/15/22/11931
+39. Evaluating Domain-Specialized LLMs in Multi-Agent RAG for ..., https://sol.sbc.org.br/index.php/stil/article/download/37809/37587/
+40. Designing Multi-Agent Intelligence - Microsoft for Developers, https://developer.microsoft.com/blog/designing-multi-agent-intelligence
+41. From single-agent to multi-agent: a comprehensive review of LLM-based legal agents, https://www.oaepublish.com/articles/aiagent.2025.06
+42. AI year in review: top releases, successes, and failures - Xenoss, https://xenoss.io/blog/ai-year-in-review
+43. Daily Papers - Hugging Face, https://huggingface.co/papers?q=agentic%20coding%20capabilities

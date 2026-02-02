@@ -1,0 +1,1 @@
+"Today's affirmation: I release anything or anyone blocking me from knowing that my true power lies within. I allow myself to see and know the beauty in the world around me and inside of me. I bring in all the abundant resources that the Universe is now offering to me."  

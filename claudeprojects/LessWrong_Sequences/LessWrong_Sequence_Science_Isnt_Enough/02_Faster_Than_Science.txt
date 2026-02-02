@@ -1,0 +1,26 @@
+Faster Than Science
+Eliezer Yudkowsky
+
+"A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
+
+I am much tickled by this notion, because it implies that the power of science to distinguish truth from falsehood ultimately rests on the good taste of grad students. The gradual increase in acceptance of many-worlds in academic physics suggests that there are physicists who will only accept a new idea given some combination of epistemic justification, and a sufficiently large academic pack in whose company they can be comfortable.
+
+But Science still gets there eventually, and this is sufficient for the ratchet of Science to move forward, and raise up a technological civilization.
+
+From a Bayesian perspective, human academic science as a whole is a highly inefficient processor of evidence. Each time an unjustifiable argument shifts belief, you need an extra justifiable argument to shift it back. The social process of science leans on extra evidence to overcome cognitive noise.
+
+In many fields, debates drag on for decades after they should have been settled. Not because the scientists refuse to trust themselves and agree they should look for additional evidence, but because one side keeps throwing up ridiculous objections, demanding more and more evidence, from an entrenched position of academic power.
+
+Is it possible for individual humans or groups to process evidence more efficiently—reach correct conclusions faster—than human academic science as a whole?
+
+"Ideas are tested by experiment. That is the core of science." And this must be true. Yet where do the ideas come from? Inventing new ideas is not a dispensable part of the process.
+
+Now put your Bayesian goggles back on. As described in Einstein's Arrogance, there are queries that are not binary—where the answer is drawn from a larger space of structures, e.g., the space of equations. In such cases it takes far more Bayesian evidence to promote a hypothesis to your attention than to confirm the hypothesis.
+
+When the idea-space is large, coming up with ideas worthy of testing involves much more work—in the Bayesian-thermodynamic sense of "work"—than merely obtaining an experimental result with p<0.0001 for the new hypothesis over the old hypothesis.
+
+The scientific process has always relied on scientists to come up with hypotheses to test, via some process not further specified by Science. At the frontier of science—the boundary between ignorance and knowledge, where science advances—the process relies on at least some individual scientists seeing things that are not yet confirmed by Science. That's how they know which hypotheses to test, in advance of the test itself.
+
+In between was an interval where the scientist rationally knew something that the public social process of science hadn't yet confirmed. And this is not a trivial interval, though it may be short; for it is where the frontier of science lies, the advancing border.
+
+It is much easier to train people to test ideas, than to have good ideas to test.

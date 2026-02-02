@@ -1,0 +1,11757 @@
+# The Śikṣāsamuccaya
+## A Compendium of Training
+### Blues Vernacular Translation by William Altig
+
+---
+
+*Śāntideva's 8th-century Buddhist manual, rendered through Delta Blues, Storefront Church, and the Road—for anyone who's ever tried to walk the dharma path with dust on their boots and doubt in their heart.*
+
+---
+
+## How to Listen to This Book
+
+This is not light reading. This is not background noise.
+
+This is a **training manual** for bodhisattvas—people who've decided to wake up not just for themselves, but for every living being they meet.
+
+Śāntideva wrote this in 8th-century India, compiling quotations from hundreds of Mahāyāna sutras. I've translated it into American Blues vernacular because the dharma always sounds better when it's sung in the language of the road, the church, and the chain gang.
+
+**Pacing**: Some chapters are short (5 minutes). Some are long (45 minutes). Don't rush. Let the teaching land.
+
+**Repetition**: You'll hear the same teachings again and again. That's not a mistake—that's the method. The sutras repeat because we forget.
+
+**Sanskrit terms**: I've kept some Buddhist technical terms (bodhisattva, dharma, nirvāṇa, samādhi). You'll learn them as you go. They're explained in context.
+
+**Voice**: I'm speaking directly to you. This isn't academic. This is person-to-person transmission.
+
+---
+
+## Pronunciation Guide
+
+**Common Sanskrit Terms** (approximate pronunciation):
+
+- **Śāntideva**: SHAHN-tee-DAY-vah (the author)
+- **Śikṣāsamuccaya**: SHIK-shah-sah-MOO-chah-yah (title: "Compendium of Training")
+- **Bodhisattva**: BOH-dee-SAHT-vah (awakening being)
+- **Dharma**: DAR-mah (teaching, truth, law)
+- **Nirvāṇa**: neer-VAH-nah (liberation, peace)
+- **Samādhi**: sah-MAH-dee (deep meditation)
+- **Prajñā**: PRAH-nyah (wisdom)
+- **Karuṇā**: kah-ROO-nah (compassion)
+
+Don't worry if you don't get them perfect. The meaning matters more than the accent.
+
+---
+
+## About Śāntideva
+
+Śāntideva lived in 8th-century India at Nālandā University, the greatest Buddhist center of learning in history.
+
+Legend says he appeared lazy—sleeping all day, skipping classes. The monks got fed up and demanded he recite a teaching publicly to prove he belonged.
+
+He stood up and recited the *Bodhicaryāvatāra* (Entering the Path of Awakening)—one of the greatest spiritual poems ever written—**from memory**.
+
+The *Śikṣāsamuccaya* is the companion work: a massive anthology of sutra quotations that backs up every claim in the *Bodhicaryāvatāra* with scriptural evidence.
+
+This is the text Śāntideva actually studied. This is the training manual.
+
+---
+
+## About This Translation
+
+I've rendered Śāntideva's Sanskrit into **American Blues vernacular**—the language of Delta Blues, Storefront Church, Jazz Club, Chain Gang, and The Road.
+
+Why Blues? Because:
+
+1. **Blues is dharma music**. It's about suffering, impermanence, and finding freedom in the middle of it all.
+2. **Blues is direct**. No pretense. No performance. Just truth.
+3. **Blues is participatory**. Call-and-response. You're not a passive listener—you're in the conversation.
+4. **Blues is concrete**. Instead of abstract philosophy, you get "hellhounds on my trail" and "body ain't got no landlord."
+5. **Blues is sacred**. This isn't secular music. This is church. This is transmission.
+
+If this style bothers you, there are scholarly translations available. But if you're tired of Buddhist texts that sound like philosophy textbooks, stick with me.
+
+---
+
+## Content Advisory
+
+This text contains:
+
+- References to death, suffering, and the hell realms (Buddhist cosmology)
+- Extreme acts of devotion (e.g., Sadāprarudita selling his own flesh)
+- Graphic descriptions of impermanence and bodily decay
+- Strong language appropriate to Blues register ("ain't," "gonna," vernacular speech)
+
+This is sacred literature, but it's not sanitized. Buddhism doesn't sugarcoat suffering.
+
+If you're looking for feel-good spirituality, this isn't it.
+If you're looking for the real thing, welcome.
+
+---
+
+## Let's Begin
+
+**19 chapters. 8-10 hours of training.**
+
+Take your time. Walk the road. Trust the teachings.
+
+And remember: you're not alone on this path.
+
+---
+
+
+
+================================================================================
+# THE NINETEEN CHAPTERS
+================================================================================
+
+
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 01
+--------------------------------------------------------------------------------
+
+# Chapter 1: The Road of Generosity (Dānapāramitā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*A Blues vernacular translation of Śāntideva's Compendium of Training, Chapter 1: The Perfection of Generosity.*
+
+---
+
+## The Call to Listen (Kārikās 1-4)
+
+### Come On In, Y'all
+
+You been through it, ain't you?
+
+Burning down in them low places,¹
+torment after torment,
+suffering that don't quit—
+that's what happens when the mind won't settle.
+
+So listen up now.
+Listen *good*.
+This teaching here? It's medicine for all that.²
+
+You hear me? Really *hear* me?
+The one who listens without that big-head pride—³
+they drop that old evil like a bad habit,
+burn off all that karma debt from way back when.
+
+And what they get? Joy they never knew was possible.
+And once you got it? You don't ever fall from that sweetness again.
+
+---
+
+### The Rare Jewel
+
+That waking-up happiness?⁴ It don't run dry.
+You get riches that can't be matched.
+
+This Dharma-jewel? Near impossible to find.
+But you got it. Today. Right now.
+This moment you're standing in? It's gold.⁵
+
+So be here. Be *still*. Listen with respect.
+
+---
+
+### Everybody's Invited
+
+Come on in, all you beings!
+Gods and serpent-folk,⁶
+spirits of the air and waters,
+hungry ghosts and heaven-lords—
+everybody with a thirst to hear:
+
+The Blessed One speaks for one reason only:
+*the good of all three worlds.*⁷
+
+Y'all are welcome at this table.
+
+---
+
+## The Author Speaks (Kārikās 5-8)
+
+### Bowing Down
+
+I bow to the Buddhas and their children,⁸
+I bow to the Dharma-body that holds it all,
+I bow to everyone worth bowing to.
+
+Now I'm gonna tell you how to walk this path—
+the discipline of the Awakened One's own family—
+putting together words that carry weight.
+
+---
+
+### I Ain't Saying Nothing New
+
+Look here, I ain't pretending to be clever.
+Nothing I say here is new under the sun.
+I can't even claim I got skill with words.
+
+So this ain't really for *your* sake—
+I'm just trying to train my own stubborn heart.⁹
+
+But maybe through this work, my faith gets stronger.¹⁰
+Maybe that momentum for doing good builds up.
+And if somebody like me comes across this someday?
+Then maybe it'll mean something to them too.
+
+---
+
+### This Chance Don't Come Twice
+
+Listen: this moment right here?
+The conditions you standing in?
+They're *hard* to get.¹¹ Near impossible.
+
+But you got 'em. You *got* what it takes
+to do something meaningful with this human life.
+
+So if you don't sit down and think about what's good—
+if you let this slip by—
+tell me: when's that chance coming around again?
+
+It ain't.
+
+---
+
+## The Elders Testify: What's Rare (Gaṇḍavyūhasūtra)
+
+Now the old sūtras speak up,¹² congregation-style:
+
+> *Rare* is getting free of the eight bad places.¹³
+> *Rare* is getting born human at all.
+> *Rare* is getting all the good conditions.
+> *Rare* is a Buddha showing up in your world.
+> *Rare* is having your senses working right.
+> *Rare* is hearing the Dharma at all.
+> *Rare* is meeting good folks who walk the path.
+>
+> *Rare* is finding true spiritual friends.
+> *Rare* is getting taught the real way.
+> *Rare* is making an honest living.
+> *Rare*—so *rare*—is putting real effort into the truth
+> here in this human world.
+
+You hear that? Everything lined up for you right now?
+That's the rare stuff. Don't waste it.
+
+---
+
+## The Choice That Changes Everything
+
+When you've really *seen* the suffering of this world—
+seen it from the inside and the outside both—
+and you start wanting something better,
+something that brings *peace*...
+
+That's when something stirs in you.¹⁴
+That's when you start asking the real question:
+
+> *If I don't want fear and pain for myself,*
+> *and others don't want it either—*
+> *then what makes me so special*
+> *that I only look out for number one?*¹⁵
+
+You see what I'm saying? We're all in this together.
+
+---
+
+## The Root of Everything: Faith
+
+So what's the first step? *Faith.*¹⁶
+
+Not blind belief—real trust. Trust grounded in the road you've already walked. The old Ratnolkā teaching puts it this way:
+
+> *By faith you follow the Victorious Ones.*
+> *By faith you trust their teaching.*
+> *By faith in how the bodhisattvas live—*
+> *that's how the waking-up mind is born in great souls.*
+
+---
+
+### What Faith Does
+
+Faith goes before you like a mother,¹⁷ like a guide.
+It protects everything good in you. Makes it grow.
+
+Faith dispels all your doubts,
+carries you across the flood,¹⁸
+shows you the way,
+teaches you how to be patient.
+
+Faith is *clear-minded*—no muddiness, no pride.
+It's the root of real respect.
+
+Faith is a treasure-chest of wealth,
+the chief of good conduct—
+like a hand that gathers up all your virtue.
+
+---
+
+### The Chain of Faith
+
+*Now listen—this is how it builds:*¹⁹
+
+Those who have faith and respect for the Buddha?
+They don't throw away their discipline or training.
+
+Those who keep their discipline?
+They're praised among the virtuous.
+
+Those with faith in the Dharma?
+They *can't get enough* of the teaching—they keep listening.
+
+Those who keep listening?
+They start believing in the inconceivable.
+
+Those with faith in the Sangha?
+They become unshakeable, devoted to the community.
+
+Those who are unshakeable?
+Their faculties get sharp and bright.
+
+Those with sharp faculties?
+They drop the bad company.
+
+Those who drop bad company?
+They embrace *dharmic friends*²⁰—spiritual kinfolk.
+
+Those with good friends?
+They pile up vast merit.
+
+Those with vast merit?
+They become great souls, full of the power of causes.
+
+Great souls with that power?
+They have noble conviction, distinguished and deep.
+
+Those with noble conviction?
+All the Buddhas bless them constantly.
+
+Those blessed by the Buddhas?
+In *them* the waking-up mind arises.
+
+Those with the waking-up mind?
+They're devoted to the qualities of the great sages.
+
+Those devoted to the sages?
+They're *born into the Buddha-family*, well-born.
+
+Those born into the Buddha-family?
+They're freed from false connection.
+
+Those who are freed?
+Their hearts are purified with clarity.
+
+Those with purified hearts?
+Their higher disposition is supreme.
+
+Those with supreme disposition?
+They *always* practice the perfections.
+
+Those who practice the perfections?
+They've entered the Great Vehicle.
+
+Those in the Great Vehicle?
+They worship the Buddhas through practice.
+
+Those who worship through practice?
+Recollection of Buddha is pure in them.
+
+Those with pure recollection?
+They always see and contemplate the Buddhas.
+
+Those who see the Buddhas?
+The Buddha *never* stands apart from them.
+
+Those from whom Buddha never stands apart?
+The Dharma never departs from them.
+
+Those from whom Dharma never departs?
+They are *ever blessed* by all the Victorious Ones.
+
+---
+
+### The Rarity of Faith
+
+And the old scripture concludes:
+
+> *Rare among ordinary folks are those who have faith in teachings like these.*
+> *But those who've accumulated goodness, who've made merit—*
+> *they have faith through the power of causes.*
+>
+> *Say you served beings as numerous as the dust of ten buddha-fields*
+> *for a whole eon, with every happiness—*
+> *even that merit ain't as great*
+> *as the merit of one who simply has faith in this teaching.*²¹
+
+You hear that? *Faith itself* is the great offering.
+
+---
+
+## The Waking-Up Mind: Bodhicitta
+
+So you got faith. Now what?
+
+Now you strengthen that *waking-up mind*—that bodhicitta.²²
+Because that's what holds all your merit together.
+
+Prince Lion asked the Buddha:²³
+> *"By what action does one gather all good things?*
+> *How do you become dear to beings wherever you're born?"*
+
+The Blessed One said:
+> *"Bend your mind toward awakening*
+> *for the liberation of all beings.*
+> *That's how you gather all things good.*
+> *That's how you become beloved."*
+
+---
+
+### What Bodhicitta Is
+
+The Gaṇḍavyūha—that great Flower Ornament teaching—puts it this way:²⁴
+
+> *Bodhicitta is the **seed** of all Buddha-qualities.*
+> *It's the **field** where all white dharmas grow.*
+> *It's the **ground** where all the world takes refuge.*
+> *It's like a **father** protecting all bodhisattvas.*
+>
+> *It's like Vaiśravaṇa,²⁵ cutting off all poverty.*
+> *It's like the wish-fulfilling gem, accomplishing all purposes.*
+> *It's like the auspicious pot, fulfilling all intentions.*
+>
+> *It's like a **spear** conquering the enemy of afflictions.*
+> *It's like a **sword** severing the head of the defilements.*
+> *It's like an **axe** cutting down the tree of suffering.*
+> *It's like a **weapon** protecting from all dangers.*
+> *It's like a **hook** drawing beings out of the waters of saṃsāra.*
+>
+> *It's like a **whirlwind** scattering all hindrances like grass.*
+> *It's like a **summary** gathering all the bodhisattva vows.*
+> *It's like a **shrine** for gods, humans, and all the rest.*
+
+So bodhicitta ain't just a nice feeling.
+It's a *seed*, a *sword*, a *hook*, a *shrine*—
+everything you need to walk this road.
+
+---
+
+## Mañjuśrī's Testimony
+
+Now listen to how the great Mañjuśrī—back when he was just starting out—made his vows in front of the Lord.²⁶ This is the testimony we follow:
+
+---
+
+### The Endless Road
+
+> *"For as long as saṃsāra keeps rolling*
+> *without end—ten million eons and more—*
+> *that's how long I'll walk this road*
+> *for the good of every being."*
+
+That's the first word: *I'm in this for the long haul.*
+
+---
+
+### The Invitation
+
+> *"I raise up the waking-up mind*
+> *right here, in front of the Protector.*
+> *I'm inviting the whole world:*
+> *I'm gonna set you free from poverty."*²⁷
+
+That's the promise: *Everybody's invited to this liberation.*
+
+---
+
+### The Vow of Purity
+
+> *"Ill-will, a hardened heart,*
+> *jealousy, stinginess—*
+> *from today on, I won't make them,*
+> *not till I reach awakening.*
+> *I'll walk the holy life.*
+> *I'll let go of evil desires."*
+
+That's the discipline: *I'm cleaning up my act.*
+
+---
+
+### The Patient Road
+
+> *"I'll train after the Buddhas*
+> *in the restraint of good conduct.*
+> *I ain't in a hurry to get enlightened—*
+> *I'm willing to wait."*²⁸
+
+That's humility: *This ain't about me getting mine quick.*
+
+---
+
+### For Even One
+
+> *"I'll stand here till the end of time*
+> *for the sake of even one being.*
+> *I'll purify my buddha-field—*
+> *immeasurable, inconceivable."*
+
+That's commitment: *Even one soul is worth everything.*
+
+---
+
+### The Famous Name
+
+> *"I'll make my name known*
+> *in all ten directions.*
+> *I'll purify my body-action completely.*
+> *I'll purify my speech-action.*
+> *I'll purify my mind-action.*
+> *I won't do evil deeds."*
+
+That's integrity: *Inside and out, I'm getting right.*
+
+---
+
+## The Heart of It All: Kārikās 3 and 4
+
+Now here's the thing, church—Śāntideva says the full training is so vast it can't be told in infinite eons. But if you want the *essence*, the *vital points* that keep you clean, here it is:²⁹
+
+### The Summary (Kārikā 4)
+
+> **Give yourself away.**
+> **Give your enjoyments away.**
+> **Give your merit away—past, present, and future.**
+> **Give it all to every being.**
+> **Then protect that gift. Purify it. Make it grow.**
+
+That's it. That's the whole bodhisattva vow in four lines.³⁰
+
+---
+
+## What's Given vs. What's Kept
+
+The old Ugradatta teaching lays it out like this:³¹
+
+| What's Given | What's Kept |
+|:------------|:------------|
+| Don't need to protect it | Got to guard it |
+| Exhausts craving | Feeds craving |
+| No grasping | Full of grasping |
+| No fear | Full of fear |
+| Supports the path | Supports Māra |
+| Never perishes | Rots away |
+| Brings happiness | Brings suffering |
+| Drops afflictions | Grows afflictions |
+| Deed of the good | Deed of the foolish |
+| Praised by all Buddhas | Praised by fools |
+
+You see the pattern? Everything you hold onto holds you back. Everything you give breaks you free.
+
+---
+
+## The Medicine Tree
+
+Now here's the most powerful teaching in the whole chapter.³²
+
+The Nārāyaṇa scripture says the bodhisattva should think like this:
+
+> *"This body of mine? It's already given away.*
+> *It belongs to all beings—how much more my stuff!"*
+
+And then—this is the hard part—
+
+> *"To those who need a hand, I give my hand.*
+> *To those who need a foot, I give my foot.*
+> *To those who need an eye, I give my eye.*
+> *Flesh to those who need flesh.*
+> *Blood to those who need blood.*
+> *Marrow. Limbs. Even my head."*
+
+---
+
+### The Tree That Heals
+
+The teaching goes on:
+
+> *"Think of a medicine tree.³³*
+> *When people come and take from it—*
+> *root, trunk, branch, bark, leaf, flower, fruit, sap—*
+> *the tree don't complain. It don't discriminate.*
+> *It just heals whoever comes.*
+> *Low, middling, or high—all get healed.*
+>
+> *That's what the bodhisattva body is:*
+> *medicine for the world.*
+> *Whoever needs whatever—take it.*
+> *Hand, foot, eye, flesh, blood, bone—*
+> *it's all here for you."*
+
+That's radical generosity. Not "what can I spare?" but "take what you need from me."
+
+---
+
+## The Five Immediacies
+
+Mañjuśrī also taught the **five things that lead straight to awakening**:³⁴
+
+1. **Hold the waking-up mind** and don't slip back to just saving yourself.
+2. **Give everything away** and don't let stinginess creep back in.
+3. **Commit to protecting all beings** and don't get tired and sit down.
+4. **See all things as unarisen and unceasing** and don't fall into wrong views.
+5. **Aim for one-moment wisdom** and don't stop or quit until you reach omniscience.
+
+Those who keep these five? They wake up *quick*.
+
+---
+
+## The Great Exchange
+
+Now here's the thing about giving:
+
+The scriptures say that even one thought of bodhicitta—aimed at rescuing all beings, liberating all beings, consoling all beings, bringing all beings to nirvāṇa—produces *immeasurable, incalculable* merit.
+
+How much more when you actually *live* it?
+
+And here's the paradox:³⁵ By giving away everything—even your own body—you become like a hook with bait, drawing beings to liberation. You don't even get to enjoy what you give. You just... *give*.
+
+And in that giving, you *are* liberated.
+
+---
+
+## The Final Word
+
+The Ratnamegha puts it plain:³⁶
+
+> **"For the bodhisattva, giving IS awakening."**
+
+Not "giving leads to awakening." Not "giving prepares you for awakening."
+
+*Giving IS awakening.*
+
+The act of opening your hand, your heart, your whole self—that's it. That's the path and the goal in one.
+
+---
+
+*Thus ends the First Chapter: The Road of Generosity.*
+
+---
+
+# Endnotes
+
+## Part I Notes
+
+¹ **"Burning down in them low places"**: The Sanskrit text speaks of *naraka* (hell realms) and *mahāpratāpa* (great burning torment). In Blues tradition, "low places" evokes both spiritual darkness and the valleys of suffering we travel through.
+
+² **"Medicine for all that"**: The Dharma is often called the "medicine" (bhaiṣajya) for the disease of suffering.
+
+³ **"without that big-head pride"**: Sanskrit *anuddhatātmā*—one whose self is not arrogant. The Blues ethic: you gotta be low to get lifted.
+
+⁴ **"That waking-up happiness"**: *saṃbodhisattvasukham*—the happiness of complete awakening. Not just feeling good, but being *fully awake*.
+
+⁵ **"This moment you're standing in"**: *kṣaṇasaṃpad*—the endowment of the opportune moment, the precious human birth with all its conditions.
+
+⁶ **"Gods and serpent-folk"**: *suranāgasattvāḥ*—devas (gods) and nāgas (serpent beings). The teaching is for *all* beings, not just humans.
+
+⁷ **"all three worlds"**: *tribhuvana*—the realms of desire, form, and formlessness. The whole cosmos.
+
+⁸ **"the Buddhas and their children"**: The bodhisattvas are called *sugatātmaja*—"offspring of the Well-Gone Ones."
+
+⁹ **"train my own stubborn heart"**: Śāntideva's famous humility, echoing Bodhicaryāvatāra 1.2. He doesn't claim to teach others—just to work on himself.
+
+¹⁰ **"my faith gets stronger"**: *prasādavega*—the momentum or impetus of faith (prasāda = clarity, serene confidence).
+
+¹¹ **"hard to get"**: *sudurlabhā*—extremely difficult to obtain. The 18 favorable conditions for practice are precious.
+
+¹² **"the old sūtras speak up"**: The *Āryagaṇḍavyūhasūtra* (Flower Ornament Sūtra) is being quoted here—testimony from the ancient teachers.
+
+¹³ **"the eight bad places"**: *aṣṭākṣaṇa*—the eight unfavorable conditions: hell, hungry ghost realm, animal realm, long-lived gods, barbarian lands, wrong views, Buddha-less eras, defective senses.
+
+## Part II Notes
+
+¹⁴ **"something stirs in you"**: The arising of bodhicitta through the Buddha-gotra (Buddha-nature)—the innate capacity for awakening present in all beings.
+
+¹⁵ **"what makes me so special"**: This is Bodhicaryāvatāra 8.120—the logic of equal concern for self and other. If we both don't want suffering, why protect only myself?
+
+¹⁶ **"Faith"**: Sanskrit *śraddhā*. Not belief without evidence, but trust grounded in what you've come to know through practice.
+
+¹⁷ **"like a mother"**: The Ratnolkā compares faith to a mother (*mātṛ*)—nurturing, protective, guiding.
+
+¹⁸ **"the flood"**: Sanskrit *ogha*—the flood of saṃsāra, traditionally the four floods of desire, existence, views, and ignorance.
+
+¹⁹ **"this is how it builds"**: The Ratnolkā presents faith as a chain reaction—each quality leads to the next, building toward full awakening. This is classic Blues epistemology: one step at a time, each step earned.
+
+²⁰ **"dharmic friends"**: *Kalyāṇamitra* / *dhārmikamitra*—spiritual friends who support your practice. In Blues tradition: your people, your congregation, the ones who keep you honest.
+
+²¹ **"faith itself is the great offering"**: The merit of having faith in the teaching exceeds even vast material offerings. Faith is the *root* from which all else grows.
+
+²² **"bodhicitta"**: The awakening mind; the aspiration for Buddhahood for the sake of all beings. Blues equivalent: "that waking-up heart."
+
+²³ **"Prince Lion"**: The Siṃhaparipṛcchā—"Questions of Lion"—a sūtra where a prince asks the Buddha about generating bodhicitta.
+
+²⁴ **"Flower Ornament teaching"**: The Gaṇḍavyūha, part of the Avataṃsaka Sūtra. One of the most elaborate Mahāyāna scriptures.
+
+²⁵ **"Vaiśravaṇa"**: The god of wealth (Kubera); one of the four great kings who protect the world.
+
+## Part III Notes
+
+²⁶ **Mañjuśrī's vows**: These are quoted from the *Mañjuśrībudddhakṣetraguṇavyūhālaṃkārasūtra*, Mañjuśrī's original bodhisattva commitment.
+
+²⁷ **"set you free from poverty"**: Sanskrit *dāridrya*—not just material poverty, but the poverty of saṃsāra, the lack of awakening.
+
+²⁸ **"I ain't in a hurry"**: Mañjuśrī vows to train forever, not rushing to personal liberation while beings suffer.
+
+²⁹ **"the vital points"**: Sanskrit *marmasthāna*—the essential summary. Kārikā 3 asks for this; kārikā 4 provides it.
+
+³⁰ **Kārikā 4**: This is the heart of the Śikṣāsamuccaya—the three-fold giving (self, enjoyments, merit) plus the three-fold cultivation (protect, purify, increase).
+
+³¹ **Ugradatta teaching**: The *Ugradattaparipṛcchā* provides this classic contrast between giving and keeping.
+
+³² **"the most powerful teaching"**: The body-offering passages from the *Nārāyaṇaparipṛcchā* represent the radical extreme of dānapāramitā.
+
+³³ **"medicine tree"**: Sanskrit *bhaiṣajyavṛkṣa*—the image of the bodhisattva as a tree that heals all without discrimination is one of Buddhist literature's most striking metaphors.
+
+³⁴ **Five immediacies**: Sanskrit *ānantarya*—usually this term refers to the five evil acts leading to immediate hell. Here Mañjuśrī inverts it: five commitments that lead *immediately* to awakening.
+
+³⁵ **"the paradox"**: The bodhisattva gives everything away—even the merit of giving—and thereby becomes free. Not by getting, but by releasing.
+
+³⁶ **"giving IS awakening"**: *dānaṃ hi bodhisattvasya bodhiḥ*—this is the summary of Chapter 1.
+
+---
+
+# Theological Notes
+
+## The Rarity of This Moment
+Śāntideva opens by emphasizing how *hard* it is to get the conditions for practice. This is pure Blues epistemology—you only know what you got when you've been without it.
+
+## Humility of the Teacher
+Kārikā 6 shows Śāntideva's characteristic stance: "I ain't special, I'm just working on myself." This is not false modesty—it's the bodhisattva recognizing that the Dharma is bigger than any teacher.
+
+## Congregational Testimony
+The Gaṇḍavyūha quotation functions like a congregation testifying—voice after voice saying "Rare! Rare! Rare!" This litany of rarities is meant to wake us up to what we have.
+
+## Faith as African-American Testimony
+The Ratnolkā's "chain of faith" mirrors Black church tradition—each testimony building on the last, creating a web of witness.
+
+## Bodhicitta as Practical Power
+The metaphors for bodhicitta (seed, sword, axe, hook) make clear this isn't passive sentiment. It's *active*, *militant*, *transformative*—the heart of a warrior who loves.
+
+## The Logic of Compassion
+The opening verse shows the logical foundation: if we equally dislike suffering, there's no rational ground for prioritizing self over other. This is Blues ethics: we're all in this together.
+
+## Radical Self-Offering
+The body-offering passages are not metaphor—they describe the bodhisattva ideal literally. This is the extreme edge of generosity, giving what we most cling to.
+
+## The Medicine Tree as Blues Ancestor
+In African-American spirituality, the church itself is a "medicine tree"—the congregation gives of itself to heal whoever comes. The bodhisattva operates the same way.
+
+## Giving as Identity
+The final statement—"giving IS awakening"—collapses the means/end distinction. For the bodhisattva, the practice is the goal. Walking the road IS arriving.
+
+## Blues Economics
+"What's given vs. what's kept" is pure Blues wisdom. The blues tradition knows: what you hold onto owns you. Let it go and you're free.
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 02
+--------------------------------------------------------------------------------
+
+# Chapter 2: Holding On to What's Real (Saddharmaparigraha)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The second chapter of Śāntideva's Compendium of Training, on holding fast to the true teaching and never letting go of your spiritual people.*
+
+---
+
+## You Gave It Away—Now Keep It Safe
+
+So you gave yourself away.¹ You gave your stuff away. You gave your merit away.
+
+Good.
+
+But now you gotta *protect* what you gave. Why? Because:
+
+### The Teaching (Kārikā 5)
+
+> **You gave your body and your goods for beings to use.**
+> **But if you don't protect the gift, how they gonna enjoy it?**
+> **What kind of gift is it if nobody gets fed?**
+
+That's the thing—a gift that don't reach nobody ain't really a gift at all.
+
+So protect yourself, your goods, your merit—*for their sake*, not yours.
+
+---
+
+## Don't Kill Yourself Tryina Save Yourself
+
+The old teaching says:²
+
+> "When you're trying to protect others, that's when you protect yourself. With that kind of heart, a bodhisattva won't do evil—not even to save their own life."
+
+And another scripture says:³
+
+> "Carry this body like a wagon—just for the Dharma, nothing else."
+
+And:
+
+> "Don't get worn out by suffering. Keep your eye on the beings."
+
+---
+
+## How Do You Protect All This?
+
+Simple: **Don't abandon your spiritual friends.**⁴
+
+That's it. That's the secret.
+
+The old Flower Ornament teaching puts it this way:⁵
+
+> "Bodhisattvas held up by good friends don't fall into bad places.
+> Bodhisattvas attended by good friends don't break the training.
+> Bodhisattvas sheltered by good friends rise above the world.
+> Bodhisattvas served by good friends don't forget the way.
+> Bodhisattvas embraced by good friends become untouchable by karma and afflictions.
+>
+> Good friends teach you. They hold you back from foolishness. They lead you out of the burning house of this world."
+
+---
+
+## How to Approach Your Teachers
+
+So how do you go to your spiritual friends? Like this:⁶
+
+With a mind like **the earth**—carrying every burden.
+With a mind like **a diamond**—unbreakable in intention.
+With a mind like **a mountain range**—not shaking in suffering.
+With a mind like **a servant**—not too proud for any task.
+With a mind like **a dust-rag**—no arrogance, no pride.
+With a mind like **a vehicle**—carrying heavy loads.
+With a mind like **a dog**—not getting angry.
+With a mind like **a boat**—not afraid of coming and going.
+Like **a good child**—just looking at your teacher's face.
+
+---
+
+## The Four Perceptions
+
+And in yourself, generate these perceptions:⁷
+
+**You are sick.** Your teachers are **doctors.**
+Their instructions are **medicine.** Practice is **the cure.**
+
+Or:
+
+**You are afraid.** Your teachers are **warriors.**
+Their instructions are **weapons.** Practice is **destroying the enemy.**
+
+---
+
+## What Happens When You Trust Your Teachers
+
+When you practice what they teach:⁸
+
+> The Buddhas become pleased with you.
+> Omniscience draws near to you.
+> More good friends come to you.
+> All your purposes come face to face.
+
+You can't lose when you're with your people.
+
+---
+
+## Sudhana's Devotion
+
+Now listen to how Sudhana—that young pilgrim—related to his teachers:⁹
+
+He bowed at their feet. He circled them a hundred thousand times. He looked at them and bowed, looked again and bowed again. He kept his mind on them, reflected on them, contemplated them, gave utterances of joy, made sounds of wonder. He remembered their qualities, stabilized his memory, never abandoned them in thought.
+
+When he left—even from a distance—he kept turning back, kept looking, kept bowing.
+
+And when he saw that all his wisdom came from his teachers, he walked away *weeping*, with tears running down his face.¹⁰
+
+That's how you love your teachers.
+
+---
+
+## Sadāprarudita Sells Himself
+
+Now here's the most powerful story in all the scriptures:¹¹
+
+There was a bodhisattva named Sadāprarudita—which means "Ever-Weeping."¹² He wept constantly from the ache of loving the Dharma.
+
+One day he came to a city with this thought:
+
+> "I'm gonna sell this body of mine. And with the money, I'll make offerings to my teacher Dharmodgata.¹³ All these lives I've thrown my body away for desire, for craving, for nothing. But never once for the Dharma. Never once for beings. That ends today."
+
+So he stood in the marketplace and cried out:
+
+**"Who wants a man? Who wants a man? Who wants a man?"**
+
+---
+
+## Māra Intervenes
+
+Now Māra—the Evil One—he got scared.¹⁴ He arranged things so nobody could hear Sadāprarudita's cry.
+
+When no buyer came, Sadāprarudita went off alone and *wept*.
+
+He said: "What misfortune! I can't even find someone to buy this worthless body!"
+
+---
+
+## Śakra's Test
+
+Then Śakra—lord of the gods—came down disguised as a young brahmin.¹⁵ He said:
+
+> "Why are you crying, friend? Why the tears?"
+
+Sadāprarudita said:
+
+> "I want to sell this body to make Dharma-offerings. But nobody will buy it."
+
+Śakra said:
+
+> "I don't need a man. But my father has a sacrifice to perform. I need a man's **heart**, his **blood**, and his **bone-marrow**. Will you sell me those?"
+
+---
+
+## The Sale
+
+Sadāprarudita thought:
+
+> "What luck! I've found a buyer! For my heart, my blood, my marrow—for the Dharma!"
+
+With **joyful mind**, **glad mind**, **delighted mind**, he said:
+
+> "I'll give you whatever you need from this body."
+
+Then he took a sharp blade. He pierced his right arm and let the blood flow. He pierced his right thigh, stripped it of flesh, and went to a wall to crack open the bone for marrow.¹⁶
+
+---
+
+## The Merchant's Daughter
+
+A rich man's daughter was watching from her balcony. She came down and asked:
+
+> "What are you *doing* to yourself?"
+
+He told her. She asked:
+
+> "What benefit will you gain from this?"
+
+He said:
+
+> "My teacher will give me the Prajñāpāramitā—the Perfection of Wisdom. I'll train in it. And training, I'll become a refuge for all beings."
+
+She said:
+
+> "Wonderful! For even *one* such teaching, bodies equal to the sands of the Ganges should be given up! But friend—I'll give you gold, gems, pearls, lapis—everything you need to make offerings. You don't have to sell your flesh."¹⁷
+
+And with five hundred maidens, she joined him on the road to his teacher.
+
+---
+
+## Seven Years of Waiting
+
+When they arrived, the teacher Dharmodgata went into deep meditation.¹⁸ He stayed absorbed for **seven years**.
+
+For seven years, Sadāprarudita:
+- Never had a thought of desire.
+- Never had a thought of ill-will.
+- Never had a thought of harm.
+- Never craved any taste.
+
+His only thought, day and night:
+
+> "When will my teacher arise? We'll prepare his seat. We'll sweep the ground. We'll scatter flowers."
+
+And those five hundred maidens? They learned from him. For seven years, they only walked and stood—**never sat, never lay down**.¹⁹
+
+---
+
+## The Divine Voice
+
+Then Sadāprarudita heard a voice from heaven:²⁰
+
+> "In seven days, Dharmodgata will arise. He will sit in the city and teach."
+
+Overjoyed, Sadāprarudita cleaned the ground. He and the maidens built a Dharma-seat from seven jewels.
+
+But when he tried to sprinkle water on the ground—there was none. Māra had made it disappear.²¹
+
+---
+
+## The Blood-Offering
+
+Sadāprarudita thought:
+
+> "What if I pierce my own body and sprinkle the ground with my blood? This dirt is dusty. I don't want dust falling on my teacher. What am I saving this body for anyway? It's gonna break down eventually. Better it break for the Dharma than for nothing."
+
+So he took a sharp blade. He pierced himself all over. He sprinkled that whole patch of ground with his own blood.
+
+And those five hundred maidens did the same.²²
+
+Yet through all of this—**not one of them had a change of mind**. Māra found no opening.
+
+---
+
+## Never Abandon Your People
+
+The old teaching says:²³
+
+> "A spiritual friend should never be abandoned by a bodhisattva—for as long as you live. Not even to save your life."
+
+### The Teaching (Kārikā 6)
+
+> **Don't abandon your spiritual friends.**
+> **Keep your eye on the scriptures.**
+> **That's how you protect yourself, your goods, your merit—everything.**
+
+---
+
+## What Is Dharma-Holding?
+
+The Sāgaramati teaching breaks it down:²⁴
+
+**Holding the Dharma means:**
+- Serving your teachers: cherishing, attending, rising for, waiting on
+- Giving them robes, food, medicine
+- Praising them, protecting their reputation
+- Concealing their faults when outsiders criticize
+
+**Holding the Dharma means:**
+- Not disputing with fools
+- Defeating wrong teaching through right teaching
+
+**Holding the Dharma means:**
+- Giving Dharma to others without expecting anything back
+
+**Holding the Dharma means:**
+- Even taking **one step** to hear the teaching
+- Even **one breath** in service of the Dharma
+
+**Holding the Dharma means:**
+- Taming this wild mind
+- Calming, restraining, training
+
+**Holding the Dharma means:**
+- Never grasping a teaching that produces evil
+
+---
+
+## Why This Matters
+
+Without this—without holding the Dharma, without your teachers, without the scriptures—there's no protection. No purification. No increase.
+
+**And without these, you ain't a bodhisattva at all.**
+
+---
+
+## The One Great Vow
+
+Queen Śrīmālā taught:²⁵
+
+> "All those countless bodhisattva vows, numerous as the sands of the Ganges—they're all contained in ONE great vow:
+>
+> **Holding on to what's real.**
+>
+> That one vow holds everything else."
+
+---
+
+## The Blow to Māra
+
+And she also said:²⁶
+
+> "Even a small blow to a vital spot will drop a strong man.
+>
+> Just so—even a *little* Dharma-holding is painful to Māra. It makes him grieve. It makes him wail.
+>
+> I don't see any other practice that hurts Māra like this one."
+
+---
+
+## Higher Than the Mountain
+
+> "Just as Mount Sumeru, king of mountains, rises above all the hills—
+>
+> Just so, the Dharma-holding of one who's heedless of body and life rises above all other good deeds.
+>
+> Even the good deeds of those who still cling to their bodies."²⁷
+
+---
+
+## The Benefits in Song
+
+From the Sāgaramati:²⁸
+
+> *Embraced by the Victors you are,*
+> *by gods, nāgas, and kinnaras.*
+> *Embraced by merit and by knowing—*
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *You're never born in empty lands;*
+> *in every life you see the Buddha.*
+> *Seeing him, you find your faith—*
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *You remember your past lives;*
+> *again and again you go forth.*
+> *Pure in conduct, grounded in practice—*
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *Skilled you become, and you gain dhāraṇī;*
+> *your good don't fade in a hundred eons.*
+> *Eloquent, unattached you become—*
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *Śakra, Brahmā, world-protectors,*
+> *human kings, wheel-turners on earth—*
+> *with ease and happiness you wake up—*
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *Thirty-two marks appear on your body;*
+> *blameless and discerning you become.*
+> *Those who look at you never get full—*²⁹
+> *when you hold the Tathāgatas' Dharma.*
+>
+> *Your awakening-mind don't get confused;*
+> *you don't get puffed up in the perfections.*
+> *Skillful among hundreds, not led astray—*
+> *when you hold the Tathāgatas' Dharma.*
+
+---
+
+*Thus ends the Second Chapter: Holding On to What's Real.*
+
+---
+
+## Theological Notes
+
+### Spiritual Friends as Survival
+In Blues tradition, we call these "your people"—the congregation, the elders, the ones who've walked the road. Without them, you're lost. Śāntideva makes the same point: without *kalyāṇamitra*, no protection, no growth, no bodhisattvahood.
+
+### The Sadāprarudita Model
+Ever-Weeping is the extreme version of what we all feel when we love the teaching. He's willing to sell his flesh, pierce his body, wait seven years standing up. That's not metaphor—that's testimony.
+
+### Blood as Water
+When Māra takes the water, Sadāprarudita uses his own blood. In African-American spirituality, the blood offering is central: "Are you washed in the blood?" Here the bodhisattva washes the *ground* with blood—for the teacher, for the teaching, for all beings.
+
+### The Feminine Presence
+Notice that it's a *woman*—the merchant's daughter—who saves Sadāprarudita from mutilating himself. And 500 women complete his pilgrimage with him. The Dharma is upheld by the feminine as much as the masculine.
+
+### One Vow Contains All
+This is Blues theology: don't overcomplicate it. Queen Śrīmālā says all the countless vows are just *one* vow—hold on to what's real. That's the whole thing.
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 03
+--------------------------------------------------------------------------------
+
+# Chapter 3: Watching Your Back (Dharmabhāṇakādirakṣā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The third chapter of Śāntideva's Compendium of Training, on protecting those who preach the Dharma, avoiding the snares of Māra, and keeping your heart right when the world goes wrong.*
+
+---
+
+## The General Rule
+
+We already talked about protecting yourself, your goods, and your merit in general.¹ Now we gotta get specific.
+
+### The Teaching (Kārikā 7)
+
+> **What does protecting yourself mean?**
+> **Avoiding what's gonna hurt you.**²
+
+Simple as that. But "avoiding harm" means two things:
+1. Not getting yourself destroyed
+2. Not destroying others³
+
+---
+
+## The Vow of the Holding-Fast Ones
+
+This teaching on avoiding harm was spoken by bodhisattvas devoted to upholding the Dharma. They said:⁴
+
+> "After the Teacher dies, we gonna hold that Dharma—
+> Even if we gotta give up body and life.
+>
+> We'll let go of money! Let go of fame! Let go of praise!
+> But we won't let go of this Dharma that shows Buddha-wisdom.
+>
+> They gonna curse us? We'll take it.
+> They gonna threaten us? Bring it.
+> They gonna spread lies about us? Let 'em.
+>
+> When those hard times come, when monks can't eat,
+> When beings are falling apart—
+> We'll be standing there, holding the Dharma.
+>
+> Those who accept these deep teachings?
+> They won't break. They'll brush aside the nonsense.
+>
+> We'll show loving-kindness to the ones not grounded in Dharma.
+> And we'll show compassion, holding this teaching all the way.
+>
+> When we see folks with bad conduct, stuck in greed—
+> We'll weep for them. Where they gonna end up?
+>
+> When we see someone blocking the Dharma,
+> We'll love 'em from a distance—so they don't get mad at us.
+>
+> We'll protect ourselves, watching our words and actions.
+> We won't suddenly call out folks deep in their own mess.
+>
+> With gifts, with respect, we'll ripen 'em slowly.
+> And we'll nudge 'em toward truth, away from evil's domain.
+>
+> We'll leave the household life behind,
+> Wander the wild edges like deer—
+> Few concerns, few tasks...
+>
+> Tamed, peaceful, free—and when we come into town,
+> We'll teach the Dharma to those who thirst for it.
+>
+> We'll travel far if we hear of someone seeking.
+> Delighting in Dharma, we'll do the work for beings.
+>
+> Seeing all the stumbling of beings face to face,
+> We'll watch ourselves—keeping a kind heart.
+>
+> Whether they honor us or shame us—solid like Mount Meru,
+> Untouched by the world, we'll become guides for the world.
+>
+> Hearing monks criticize divided communities,
+> We'll mind our own business—let their karma be theirs.
+>
+> They gonna hire assassins for folks who practice this?
+> They'll say 'We ain't got none of this among us!'
+>
+> 'Our monks ain't got no monk-qualities!'
+> When they hear true criticism, they reject this very text.
+>
+> Cut off ears and noses—how's a mirror gonna please them?
+> When they hear true words, they throw out the Dharma.
+>
+> Those monks who embrace the true Dharma?
+> They'll work so hard that somebody—anybody—hears it.
+>
+> Kings will come for them. Mobs will break them.
+> But through Buddha's power, beings will hear the Dharma anyway.
+>
+> In that hard time, we—giving up body and life—
+> Will hold the Dharma. For beings' sake."
+
+That's the vow. That's the commitment.
+
+---
+
+## The Lotus Sūtra Warning
+
+The Lotus Sūtra lays it out straight:⁵
+
+> Protect your conduct. Stay unassociated. Be clean.
+> Avoid getting cozy with princes and kings.
+>
+> Avoid the king's men too.
+> Outcasts, boxers, drunks, and all kinds of sectarians.
+>
+> Don't serve conceited monks—even if they know their scriptures—
+> If they act like arhats but got bad behavior? Avoid 'em.
+>
+> Stay away from nuns who laugh too much, gossip too much.
+> Stay away from laywomen who are exposed and unsettled.
+>
+> Women, hermaphrodites—avoid close ties.
+> In households, avoid the young brides and virgin daughters.
+>
+> Don't befriend them or ask 'How's it going, spiritually?'
+> Avoid pig-sellers, sheep-sellers.
+>
+> Those who support women [as a profession]—avoid.
+> Actors, jugglers, wrestlers—all that.
+>
+> Don't serve courtesans or entertainers.
+> Greeting such folks? Entirely avoid.
+>
+> And when you're teaching Dharma to women alone?
+> Don't go in there solo. Don't start laughing."
+
+---
+
+## The Devil's Playbook
+
+Here's another danger—what the scriptures call **Māra's work**.⁶
+
+The Perfection of Wisdom says:
+
+> "Māra the Evil One will work extra hard against the bodhisattva who's just getting started."
+
+And also:⁷
+
+> "Ānanda, whenever a bodhisattva really gets into Prajñāpāramitā practice, right then Māra brings harassment, generates fear.
+>
+> He'll make meteors fall. He'll show fires burning in every direction. 'Maybe this bodhisattva will get scared! Maybe his hair will stand on end!'—anything to shake even one moment of their awakening-mind.
+>
+> Some will write it down, take it up, then say: 'We ain't getting nothing from this!' and walk away. Yawning, laughing, drifting off—that's Māra's work.
+>
+> Then thoughts arise: thoughts of the countryside, the village, back home. Thoughts of your teachers, your parents, your friends, your family. Thoughts of thieves. Thoughts of 'I need new robes.'
+>
+> Then: The Dharma-teacher wants to teach, but the student gets sick. Or vice versa. The teacher wants to travel, but the students say no. The teacher wants more, the student wants less—or the opposite.
+>
+> In short: **Whatever discord there is between teacher and student? That's Māra's work.**"
+
+---
+
+## Everything Unwholesome Is Māra
+
+The Gaganagañja Sūtra says:⁸
+
+> "Whatever keeping on with unwholesome dharmas, whatever abandoning of wholesome dharmas—all of that is Māra's work."
+
+---
+
+## The Ten Hooks of Māra
+
+The Sāgaramati Sūtra gives us the list—the **ten snares**:⁹
+
+**Hook #7: Forest-Dwelling Gone Wrong**
+
+> "There's a bodhisattva who lives in the forest, loves his solitude, has few desires, is content, stays away from householders and monks alike. Because he's got few concerns, he lives easy.
+>
+> But he's not diligent about learning. He don't cross over to ripen beings. He don't participate in Dharma-talks. He don't ask questions. He don't ask 'What's skillful?'
+>
+> His afflictions stay dormant because he's isolated. He feels satisfied just suppressing them—but he don't uproot 'em.
+>
+> So he ain't practicing for himself or for others. That's **Māra's seventh hook**."
+
+**Hook #10: False Friends**
+
+> "The bodhisattva serves, follows, and attends evil friends who look like spiritual friends.
+>
+> These 'friends' pull him away from the means of attraction, from accumulating merit, from embracing the Dharma. They put him in isolation. 'Focus on few desires!' they say. They teach him the Lesser Vehicle stuff.
+>
+> When he should be in solitude, they give him busy-work. When he should be serving, they isolate him.
+>
+> And they say: 'Enlightenment is for those who work hard! You're lazy. If you don't wake up in eight or nine kalpas, you never will.'
+>
+> Here's the danger: With too much pressure, the bodhisattva might just grab personal nirvāṇa [as an arhat] and stop short of full buddhahood.
+>
+> That's **Māra's tenth hook**."
+
+**Hook #11: Bad Company**
+
+> "Those who are supposed to be Mahāyāna folks but don't know the Māra-hooks, who practice dharmas that have gone astray—with them the bodhisattva finds pleasure.
+>
+> Because they become his followers. And the one who hangs with the lower goes to a lower place—a desert destiny, a destiny of dullness and muteness.
+>
+> That's **Māra's eleventh hook**."
+
+---
+
+## Don't Burn Yourself Out
+
+Because of all this danger, continuous aroused effort done wrong produces burnout.¹⁰
+
+The Cloud of Jewels says:
+
+> "The bodhisattva arouses effort in every posture. But he does it so he don't get tired—body or mind.
+>
+> What kind of effort leads to exhaustion? Taking on heavy work when you're weak. Doing difficult stuff when your aspiration ain't ripe yet—like giving your own flesh before you're ready.
+>
+> Yes, you've given your body [in aspiration]. But don't let it be consumed at the wrong time. Otherwise, through your exhaustion, the bodhicitta-seed in those very beings gets destroyed—and a huge mass of fruit is lost."
+
+And the Gaganagañja adds:¹¹
+
+> "Expecting results before the right time? That's Māra's work."
+
+---
+
+## Who Not to Feed Your Flesh To
+
+You shouldn't abandon the practice of giving your body just because the time ain't right. If you never practice, you'll never be ready to give.¹²
+
+So keep mindfulness. Protect your body from:
+- Those who block the ripening of bodhicitta
+- Those who, through delusion, destroy your own benefit
+- Flesh-eaters¹³
+- Harmful actors
+
+### The Teaching (Kārikā 8 verse)
+
+> *Just like the seed of a medicine tree—*
+> *whose root and branches will be used—*
+> *even when given, you protect it from wrong timing:*
+> *That's how you guard the Buddha's medicine tree.*¹⁴
+
+In short: that's the harm called Māra's work.
+
+---
+
+The Cloud of Jewels tells us how:¹⁵
+
+> "How does the bodhisattva get skillful at avoiding Māra's work?
+>
+> He entirely avoids unwholesome friends.
+> He avoids dwelling in the wrong place.
+> He avoids worldly sciences and mantras [as obsession].
+> He avoids [excessive pursuit of] gain, honor, reverence, esteem.
+>
+> Whatever secondary afflictions block the path—he avoids them all.
+> And he cultivates the antidotes."
+
+---
+
+## What's an Unwholesome Friend Look Like?
+
+The text spells it out:¹⁶
+
+> "You can tell an evil friend by what they lack:
+>
+> - Morality failed? Avoid.
+> - View failed? Avoid.
+> - Conduct failed? Avoid.
+> - Livelihood failed? Avoid.
+> - Loves communal drama? Avoid.
+> - Lazy? Avoid.
+> - Takes pleasure in saṃsāra? Avoid.
+> - Turned away from awakening? Avoid.
+> - Too attached to householders? Avoid.
+>
+> But here's the thing: Even while avoiding them, don't generate hostility. Don't get angry. Don't be contemptuous.
+>
+> Remember what the Buddha said: 'Beings flow together according to their element—desire, and so forth. Through association they're destroyed. That's why I avoid association.'"
+
+---
+
+## The Confusion of Bodhicitta
+
+**Losing the awakening-mind is also harm.**¹⁷
+
+The Heap of Jewels tells us what causes it:
+
+> "By four things, Kāśyapa, the bodhisattva's bodhicitta becomes confused:
+>
+> 1. **Deceiving your teachers and guides**
+> 2. **Making folks feel bad when they got no reason to**
+> 3. **Spreading lies about Mahāyāna practitioners**
+> 4. **Approaching folks with deceit instead of genuine intention**"
+
+---
+
+## How to Keep It Clear
+
+The same text tells us how to prevent confusion:¹⁸
+
+> "By four things, Kāśyapa, the bodhisattva's bodhicitta stays clear from birth to birth, all the way to the seat of awakening:
+>
+> 1. **Never lie—not even for laughs, not even to save your life**
+> 2. **Stand before all beings with real intention, abandoning deceit**
+> 3. **See all bodhisattvas as your teachers**
+> 4. **Praise them in every direction**
+>
+> And whoever you ripen—lead them all to full awakening, not partial paths."
+
+---
+
+The Lion's Questions says:¹⁹
+
+> "One who never creates an obstacle to the Dharma-gift?
+> That one quickly meets the World-Protectors.
+>
+> From the Dharma-gift, you remember your past lives.
+> By it, you don't abandon bodhicitta in any birth—
+> Not even in dreams, how much more when awake!
+>
+> In whatever place you take up the Dharma for awakening—
+> By that, your heart never lets go."
+
+---
+
+The Mañjuśrī Buddha-Field Sūtra says:²⁰
+
+> "Four things keep the bodhisattva from falling from the vow:
+>
+> 1. Pride has been struck down
+> 2. Jealousy and stinginess are avoided
+> 3. Seeing others succeed, you don't get puffed up"
+
+---
+
+What keeps bodhicitta most clear?²¹
+
+The Heap of Jewels says:
+
+> "Cultivating bodhicitta in every posture. Making bodhicitta first."
+
+And the Moon-Lamp Sūtra:²²
+
+> "I tell you straight:
+> However much you think on something,
+> That's how your mind inclines.
+> You're supported by what you keep thinking."
+
+---
+
+**Discouragement is harm too.**²³
+
+The Cloud of Jewels says:
+
+> "The bodhisattva don't think: 'Enlightenment is too hard for a human. My effort is too small. I'm lazy. Awakening takes forever—kalpas upon kalpas! I can't carry that load.'
+>
+> Instead, the bodhisattva thinks: 'Every buddha that ever was, is, or will be—they all did it this same way, with this same practice, this same effort.
+>
+> They weren't already buddhas when they woke up. I'm gonna strive the same way, exert myself the same way—with effort common to all beings, effort that has all beings as its object—so I can awaken to full enlightenment.'"
+
+---
+
+Another danger from the Heap of Jewels:²⁴
+
+> "**Trusting unripe beings**—that's a stumbling for the bodhisattva.
+>
+> **Teaching high Dharma to those who can't hold it**—that's a stumbling.
+>
+> **Teaching the Lesser Vehicle to those ready for greatness**—that's a stumbling.
+>
+> **Looking down on the virtuous while gathering the wicked**—that's a stumbling."
+
+---
+
+**Lack of aspiration is harm.**²⁵
+
+The Rāṣṭrapāla Sūtra says:
+
+> "No faith in Buddha, Dharma, Saṅgha?
+> No faith in the training?
+> Evil-minded, open to the lower realms—
+>
+> Such a one, falling from here, reborn human but still confused,
+> Will find suffering in hell, in animal births, in the hungry ghost realm."
+
+---
+
+## How to Remedy It
+
+The Heap of Jewels again:²⁶
+
+> "For teachings too deep for your understanding? Don't reject them.
+>
+> Just say: 'The Tathāgata knows. I don't know. Buddha's awakening is infinite. Through diversity of aspirations, the teaching flows to beings.'"
+
+---
+
+**If you're doing service, be skillful in avoiding harm.**²⁷
+
+The Bodhisattava Prātimokṣa enjoins service for Dharma-hearing and Buddha-worship.
+
+The Heap of Jewels gives the rules:²⁸
+
+> "The serving monk should satisfy the whole Saṅgha.
+>
+> Don't give work-assignments to forest-dwelling monks. If Saṅgha work falls to a forest-dweller, do it yourself or ask someone else—don't burden the forest monk.
+>
+> For the alms-round monk, share the good food.
+>
+> For the yoga-practitioner monk, bring suitable equipment—medicine, supplies for sickness. Don't make loud noise where he meditates. Protect him. Prop up his seat. Offer good food suited to practice...
+>
+> For monks devoted to learning, encourage them. Protect them.
+>
+> For Dharma-preachers, receive them properly. Encourage Dharma-listeners. Prepare the hall. Clean the discourse-space. Applaud plenty...
+>
+> Don't develop a sense of lordship. Even small tasks—do them by the Saṅgha's will, not your own...
+>
+> Don't mix Saṅgha property with property of the Four Quarters' Saṅgha. Don't mix stūpa property...
+>
+> If a serving monk, angry, commands virtuous ones from a sense of lordship—by that karma, he goes to hell...
+>
+> If he threatens a monk out of fear—he's reborn in a hell called 'Many Terrors'... tongue extended a hundred yojanas... iron stakes driven into it, blazing...
+>
+> If he hoards incoming Saṅgha gains, doesn't give on time, harasses before giving, withholds from some—the hungry ghost realm called 'Shank' is his destination. Other ghosts take food and hide it from him. Looking at it, hungry and thirsty, he suffers—for a thousand years he never gets the food..."
+
+---
+
+The Saṃgharakṣita Story tells what happens when you mess with Saṅgha property:²⁹
+
+> "Those beings you saw shaped like **walls**—they were monks. They ruined a Saṅgha wall with phlegm. Now they're wall-shaped.
+>
+> Those shaped like **pillars**—they ruined a Saṅgha pillar with mucus. Now they're pillar-shaped.
+>
+> Those shaped like **trees, leaves, flowers, fruits**—they consumed Saṅgha trees and fruits for personal use. Now they're tree-shaped.
+>
+> Those shaped like **ropes and brooms**—they used Saṅgha ropes and brooms personally. Now they're rope-shaped and broom-shaped.
+>
+> The one shaped like a **ladle**—he was a novice making porridge. When guest monks arrived and asked 'Is this for the Saṅgha?', he said (out of stinginess): 'Can't you see the scum? The porridge is gone!' The guests left discouraged. Now he's ladle-shaped.
+>
+> The one shaped like a **mortar**—he was a monk who got angry at an arhat-novice grinding beans. He said: 'If I could, I'd throw YOU in the mortar and pound you!' The novice stayed silent.
+>
+> Later the novice said: 'Do you know who I am? I'm an arhat. The work is done—afflictions abandoned. You spoke harshly. Acknowledge the transgression, maybe the karma can be diminished.'
+>
+> But the monk didn't acknowledge it. Now he's mortar-shaped."
+
+And so on—pots, things split down the middle being carried by thread...³⁰
+
+The lesson is harsh but clear: **Even small violations against communal property bring heavy karmic fruit.**
+
+---
+
+*Thus ends the Third Chapter: Watching Your Back.*
+
+---
+
+## Theological Notes
+
+### Māra Is Everywhere
+In Blues tradition, we call this "the Devil's work." But notice: Māra isn't just some red demon with a pitchfork. Discord between teacher and student? That's Māra. Laziness? Māra. Impatience? Māra. Bad company? Māra. The enemy is inside the house.
+
+### The Ten Hooks
+These are specific traps for the spiritually sincere:
+- **Hook 7**: Forest-dwelling gone wrong—isolation without growth
+- **Hook 10**: False friends who look spiritual but divert you
+- **Hook 11**: Running with folks who've fallen
+
+### The Burning Heart Doesn't Burn Out
+The bodhisattva's vigor is continuous but sustainable. You can't sprint a marathon. If you burn yourself out, you destroy the bodhicitta-seed in the beings who depend on you.
+
+### Discouragement Is Sin
+"I can't do this" is abandoning the path. The Blues response: "Every buddha did it this way. So will I."
+
+### Small Violations, Big Fruit
+The Saṃgharakṣita visions are terrifying: monks reborn as walls, pillars, ladles, mortars—for small misuses of communal property. The lesson: acknowledge your transgression before it hardens into karmic form.
+
+### Blood and Water
+We saw in Chapter 2 that Sadāprarudita used his own blood when Māra hid the water. Here we see the flip side: protect the body from wrong consumption. The gift isn't wasted on flesh-eaters.
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 04
+--------------------------------------------------------------------------------
+
+# Chapter 4: Avoiding the Bad Roads (Anarthavarjana)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The fourth chapter of Śāntideva's Compendium of Training, on the great harms spelled out in the scriptures—root offenses, hell-road descriptions, the poison of lust, and ways you can reject the Dharma without even knowing it.*
+
+---
+
+## What Destroys a King
+
+There are other great harms in the old texts.¹ The Ākāśagarbha Sūtra lays it out:²
+
+> "There are five root offenses for a consecrated king. By these, a king destroys all the good he ever planted, becomes defeated, and heads straight for the lower realms in the sight of gods and humans."
+
+### The Five Root Offenses for Kings
+
+**First:** Stealing from stūpas, from the Saṅgha, from the property of the Four-Quarters Saṅgha, or from what's been donated—whether you take it yourself or have it taken.³
+
+**Second:** Rejecting the Dharma—whether it's taught for Śrāvakas, Pratyekabuddhas, or the Mahāyāna. Any rejection.
+
+**Third:** Attacking a renunciant. One who's gone forth in Buddha's name—shaven-headed, wearing the dyed robe—whether they keep the training or not, whether virtuous or fallen. If you take their robes, make them a householder, strike them, throw them in prison, or kill them.
+
+**Fourth:** Committing any of the five immediate heinous deeds—killing your mother, killing your father, killing an arhat, splitting the Saṅgha, or deliberately shedding a Buddha's blood.
+
+**Fifth:** Becoming a no-cause teacher. Disregarding the next world. Taking up the ten unwholesome paths and leading others into them.
+
+**Sixth:** (abbreviated) Breaking villages, regions, cities, or kingdoms.
+
+---
+
+## What Destroys a New Bodhisattva
+
+For beginner bodhisattvas—those just starting out on the Great Way—there are **eight root offenses**.⁴ By these, the beginner destroys all previous merit, falls, becomes defeated, sinks long in saṃsāra without spiritual friends.
+
+### The Eight Root Offenses for Beginners
+
+**First:** Teaching emptiness to the unprepared.
+
+> Some beings—reborn here due to past bad deeds—have little merit but, through a spiritual friend, hear the profound Mahāyāna and generate bodhicitta despite limited understanding.
+>
+> Then certain bodhisattvas teach the deep emptiness sūtras to them just as they heard them, extensively, with full vocabulary.
+>
+> But those who haven't exerted themselves—childish ordinary people—hear it and get terrified. They turn away from supreme enlightenment and fix their minds on the Lesser Vehicle.
+>
+> **This is the first root offense.** By it, that well-meaning teacher destroys the beginner's merit; the beginner's bodhicitta is deceived.
+
+**Lesson:** Know who you're teaching. Enter the ocean gradually.
+
+**Second:** Discouraging someone from full awakening.
+
+> You say: "You can't practice the six perfections. You can't make it to full buddhahood. Just go for the Lesser Vehicle—you'll still escape saṃsāra."
+
+**Third:** Making someone abandon the Prātimokṣa for Mahāyāna.
+
+> You say: "What's the point of that Prātimokṣa morality? Just generate bodhicitta, study the Mahāyāna. By that study, all your bad karma gets purified—no ripening needed."
+
+**Fourth:** Making someone reject the whole Śrāvaka path.
+
+> You say: "Abandon Śrāvaka talk. Don't listen, don't study, don't teach it. You won't get anything from it—it can't end your afflictions. Have faith in the Mahāyāna instead."
+>
+> If they listen to you and grab that view, **both of you** incur a root offense.
+
+**Fifth:** Being double-tongued for gain.
+
+> Studying this Mahāyāna for fame, reputation, honor, gain, and esteem. Teaching what you've only heard, not realized. Saying "We are the Mahāyāna ones—not the others." Envying others for their gain. Falsely claiming higher attainments.
+>
+> You're like someone who gets on a boat heading for Jewel Island, then smashes the boat yourself in the middle of the ocean. You drown right there.
+
+**Sixth:** Selling yourself as awakened when you're not.
+
+> Those profound sūtras—adorned with dhāraṇī, patience, samādhi—are the domain of great learned bodhisattvas who've exerted themselves. You study them, teach them, then say: "I awakened to these by my own understanding. Out of compassion I teach you. Practice and you'll be a witness like me."
+>
+> But you haven't realized anything. By mere study you teach. For gain and esteem you sell yourself...
+
+---
+
+## The Ākāśagarbha Remedy
+
+The same sūtra gives the way out:⁵
+
+> If those bodhisattvas, having heard the name of the bodhisattva Ākāśagarbha, wish to confess their root offenses from fear of bad rebirth—if they bow to Ākāśagarbha and recite his name, that noble one will stand before them in some form: as a brahmin, or even as a girl.
+>
+> He'll confess those offenses. He'll show them skillful means. He'll establish them on the irreversible stage.
+>
+> But if he doesn't give a face-to-face vision, here's what the transgressed beginner should do:
+>
+> Rise in the last watch before dawn. Stand facing east. Burn incense. Invoke the god Aruṇa:
+>
+> "Aruṇa, Aruṇa! O greatly compassionate one, risen high in Jambudvīpa—cover me with compassion! Awaken the greatly compassionate Ākāśagarbha by my word! In my dream, show me the way to confess, the way to gain skillful wisdom in the noble Mahāyāna."
+>
+> Then go to sleep. Right when Aruṇa rises, Ākāśagarbha will arrive. Standing before you in your dream, he'll confess that root offense by the Mahāyāna means. He'll display such skillful knowledge that right there you obtain the samādhi called "non-confusion of bodhicitta."
+
+---
+
+For easy memorizing:⁶
+
+> *From stealing from the Three Jewels—defeat.*
+> *From rejecting true Dharma—the second offense.*
+>
+> *From stealing a monk's robes, even a bad monk's, from striking,*
+> *From prison, from expelling—offense.*
+>
+> *From the five immediates, from wrong view,*
+> *From breaking villages—root offense.*
+>
+> *From teaching emptiness to the unprepared,*
+> *From turning Buddha-seekers away from awakening—*
+>
+> *From making them drop the Prātimokṣa for Mahāyāna,*
+> *From holding that the Disciple path don't abandon desire—*
+>
+> *From showing off your qualities, from tearing down others*
+> *For gain, esteem, and reputation—*
+>
+> *From falsely claiming "I'm deep!"*—
+> *From having monks punished, from giving from the Three Refuges—*
+>
+> *From abandoning tranquility,*
+> *From disturbing meditators with worldly talk—*
+>
+> *These are root offenses. Great hell causes.*
+> *Before Ākāśagarbha, standing in dream, confess them.*
+
+---
+
+## Even a Bad Monk Has Value
+
+The Kṣitigarbha Sūtra says:⁷
+
+> That monk who's gone forth in my name—even if bad conduct, even if evil practice, even if a chaff-monk, impure, a non-ascetic with the ascetic's profession, a non-celibate with the celibate's claim—fallen, defeated, conquered by afflictions—
+>
+> Even now that monk is a displayer of spiritual friends for all beings. Even unworthy, by his shaven head and dyed robe, by the very sight of his deportment, he props up roots of virtue in many beings, shows the path to good destinies.
+>
+> Therefore, for one gone forth in my name—whether virtuous or fallen—I don't permit even wheel-turning kings, with just means or unjust, to:
+> - Strike their body with a stick
+> - Cast them in prison
+> - Cut or break their limbs
+> - Deprive them of life
+>
+> Even though he's called "dead" in this Dharma-Vinaya, that person is like yellow orpiment or musk...
+
+---
+
+## What Killing Looks Like on the Other Side
+
+The Saddharmasmṛtyupasthāna spells it out.⁸ Here's a taste:
+
+### Killing
+
+> There are birds called **Fire-Crest-Walkers**. They live in the middle of flames and don't burn. Excited, they break the skulls of hell-beings and drink their blood.
+>
+> **Skull-Interior-Walkers** break the head, drink the ignited brain-matter.
+>
+> **Tongue-Flesh-Eaters** split the tongue, eat it on all sides. That tongue, eaten, is born again—more tender than a lotus petal.
+>
+> **Tooth-Pullers, Throat-Pipe-Extractors, Lung-Eaters, Stomach-Eaters, Spleen-Turners, Intestine-Gnawers, Spine-Walkers...**
+>
+> **Marma-Seekers** break all the vital-point cavities, cut the marmas, enter the cavities, drink the marrow-essence of those crying out...
+>
+> Avīci extends 300,000 yojanas. This portion is called "Devoured by Birds." There, with other hell-beings, for many hundreds of thousands of years, he is eaten and reborn.
+>
+> Somehow released, wrapped in the net of suffering, he runs to **Dog-Pit-Fall**, seeking protection. Surrounded by eleven flame-masses, bound by karma's noose, surrounded by enemies in a wilderness... he runs to that place.
+>
+> When he falls, his foot melts utterly. Thrown up, reborn more tender. Falling and being thrown up for many hundreds of thousands of years... Eaten by vultures, crows, hawks, owls...
+>
+> Somehow released... he runs to **Wheel-Mark-Cavity**. Wheels with a thousand spokes appear—diamond hubs, sharp flames, spinning swiftly. They reach his body and spin, burning and crushing each limb. On his foot-soles, stakes pierce him...
+>
+> And on it goes.
+
+### Stealing
+
+> Like seeing a mirage—a gandharva city—that evil-doer sees a mass of wealth. Overcome by greed, deluded, he thinks: "This is mine." He leaps across burning coal-pits to grab it.
+>
+> Karma-created Yama-men seize him. In the midst of a weapon-net, he is split limb by limb, quartered, burned, reduced to bones.
+>
+> And even then? His greed, operating since beginningless time, does not diminish.
+
+### Sexual Misconduct
+
+> Released from the weapons, somehow leaping the coal-pits, he reaches **False Vision**. There he sees a karma-created woman—one he saw before when his memory was lost. The fire of desire, practiced since beginningless time, arises. He runs toward her.
+>
+> She's made of iron, karma-created. She seizes him. From lips onward, he is consumed until not a mustard-seed measure of him remains. Reborn, consumed again...
+>
+> Yet from that craving-fire he doesn't turn back. He rushes again.
+>
+> Then those women, with blazing iron-vajra bodies, taking him with bodies full of flame-garlands, grind him like a fistful of sand. Reborn again...
+
+> *Women are the root of bad destinies, of wealth destroyed.*
+> *Those subject to women—how can they find happiness?*
+>
+> *Woman is destruction among destructions, here and there.*
+> *Avoid them if you wish yourself happiness.*⁹
+
+### Lying
+
+> Yama-men seize him, split open his mouth, extract the tongue. By karma's force it becomes 500 yojanas long. At its coming forth, they throw him on burning iron ground. 1,000 burning ploughs with blazing tips appear. Powerful bullocks carry those ploughs on his tongue...
+>
+> Rivers of pus, blood, and worms flow there. That tongue is tender as a god's eye. He screams, cries out. No one takes away that suffering.
+
+### Slander
+
+> Same as lying, but the tongue is 300 yojanas. Yama-men cut it with sharp blazing swords. In another place, jackals eat him. He cries out in inarticulate sounds, tongueless...
+
+### Harsh Speech
+
+> They split open the mouth, take the tongue, cut it with sharp weapons, throw it into his own mouth for food. Tormented by hunger, face emaciated, he eats his own tongue smeared with blood and saliva. Cut, reborn, cut again...
+>
+> The Yama-men speak:
+>
+> *"From the bow of your tongue, a sharp arrow of harsh words—*
+> *this is the fruit that has come."*
+
+### Idle Chatter
+
+> That burning copper-liquid, licking the tongue, burns it. Burns the throat, the heart, the intestines, the stomach. Exits from below.
+>
+> The Yama-men speak:
+>
+> *"Unconnected words, meaningless, incoherent, unbound—*
+> *what was spoken by you—this is the fruit.*
+>
+> *A tongue never truly speaking, not devoted to study—*
+> *the wise don't see that as a tongue. It's merely a lump of flesh."*
+
+---
+
+## Every Harm Starts Here
+
+All harms have sensual desire as their root.¹⁰ That's why:
+
+> There's a hell called **Fire-Pit**. By what karma do beings take rebirth there? By those who, though claiming asceticism, heard women's dancing, singing, or ornament-sounds with improper attention, distracted mind, and responded with laughter, play, and... ejaculation.
+>
+> There those hell-beings are crushed limb by limb by iron rain, cooked by coal rain, burned...
+>
+> From remembering past pleasures, there's the hell called **Paduma**. From remembering your own past. There hell-beings are cooked in cauldrons, beaten with iron pestles in troughs...
+
+---
+
+## The Seven Ways You're Still Joined to Sex
+
+Even if you're not doing the act:¹¹
+
+1. **Gazing** at a woman's form, savoring it, becoming attached—you're joined to sexual conduct, not separated.
+
+2. **Playing, sporting, laughing** with a woman, savoring it—joined to sexual conduct.
+
+3. **Savoring her private parts** (even without touching)—joined.
+
+4. **Behind a wall, savoring the sounds** of her dancing, singing—joined.
+
+5. **Savoring another's woman** endowed with five pleasures—joined.
+
+6. **Dedicating your celibacy to god-realm rebirth**—joined to sexual conduct, not separated.
+
+Celibacy is more than physical. If you're gazing, laughing, remembering, savoring sounds, or practicing for heaven—you're still in it.
+
+---
+
+## The Kāma-Rejection Teaching
+
+Because even memory and aspiration for pleasure causes such harm:¹²
+
+> "Restrain your mind from sensual pleasures, O monk! This path is fearful, dangerous, thorny, dense—a wrong path, a bad path, a path of feeling, frequented by bad men.
+>
+> Don't you think: 'Why are pleasures said to be of little savor, much suffering?' The danger is greater.
+>
+> Sensual pleasures, O monks, are:
+> - A disease
+> - A boil
+> - A dart
+> - A misfortune
+> - The root of misfortune
+> - Bait on a fishhook
+> - Death
+>
+> Impermanent, empty, deceiving, false, dream-like. The prattle of fools.
+>
+> Just as a trap for deer, a net for birds, a pot for fish, glue for monkeys, fire for moths—so are sensual pleasures.
+>
+> For one pursuing pleasures, being turned in the mouth of lions for a long night—there's no end. In the mouth of slaughterers, cow-eaters—no end. In the mouth of frogs and snakes—no end.
+>
+> Those pursuing pleasures, seized as thieves, beheaded—no end known. Adulterers, fence-breakers, village-destroyers, region-destroyers, knot-looseners, seized, beheaded—no end.
+>
+> Suffering—intense, harsh, bitter—has been experienced. Blood has flowed, gushed, more than the water in the four great oceans...
+>
+> This body is of much danger: a bone-collection, bound by sinews, smeared with flesh, wrapped in skin, covered by hide, full of holes, inhabited by worm-hosts, useless for beings, a basis for affliction-karma...
+>
+> What is your peace regarding pleasures, O monk? What seduces you?
+>
+> When I'm fully nirvāṇa-ed, and the true Dharma's disappeared, and you, pursuing pleasures, have gone to ruin—when will you liberate yourself from old age and death?
+>
+> **Enough, O monk! Restrain your mind from pleasures! This is not the time for pleasure-pursuit. This is the time for Dharma-pursuit.**"
+
+---
+
+## Worse Than Killing Everyone
+
+The Praśāntaviniścaya Sūtra says:¹³
+
+> Whoever kills all beings of Jambudvīpa and takes their property—or whoever creates even one obstacle for a bodhisattva's single wholesome thought, even for an animal's single mouthful of merit-food—**this second one produces incomparably more evil.**
+>
+> Why? He obstructs the roots of virtue that generate Buddha-arising.
+
+> Whoever creates jealousy toward a bodhisattva in another family—three fears should be expected:
+> 1. Hell rebirth
+> 2. Birth blind
+> 3. Border-region rebirth
+
+And the verses:
+
+> *With a great body, in hells, that evil-minded one*
+> *is reborn ruined; he experiences painful feeling.*
+>
+> *500 yojanas is his height.*
+> *Surrounded by krores, eaten constantly by dogs.*
+>
+> *5,000 heads are born to this slanderer.*
+> *500 tongues on each head.*
+>
+> *On each tongue, 500 flame-mouthed ploughs*
+> *carry for him, having spoken evil speech.*
+>
+> *In Pratāpana hell they are cooked.*
+> *Those who oppress bodhisattvas—animal and hell births come easy!*
+>
+> *For 100,000 koṭis of kalpas—*
+> *fallen, they become snakes of fierce poison.*
+>
+> *Fallen from there, reborn human,*
+> *born blind, poor understanding, evil mind, unrestrained.*
+>
+> *For 100,000 koṭis of kalpas, born, he never sees the Buddha.*
+
+---
+
+## But If You Protect Them...
+
+> *Whoever creates righteous protection for Dharma-speakers—*
+> *abandoning all bad destinies, he becomes Śakra, king of gods.*
+>
+> *Brahmā too, Yāma, Tuṣita, Vaśavartī, again and again.*
+>
+> *Reborn human, he's born a wheel-turner.*
+> *A merchant, householder, wealthy, great wealth.*
+>
+> *Endowed with wisdom and memory, happy, free from affliction.*
+
+---
+
+## You Don't Know Who They Are
+
+The Śūraṅgamasamādhi Sūtra says:¹⁴
+
+> What's the prediction of one whose bodhicitta hasn't been generated? That person is reborn in the five-fold saṃsāra—hells, animals, Yama-realm, gods, humans. Sharp faculties, exalted aspiration.
+>
+> The Tathāgata knows: "After so-many koṭis of kalpas, this one will generate bodhicitta. After so-many asaṃkhyeya kalpas, he'll awaken." That's the prediction for one whose bodhicitta hasn't arisen yet.
+>
+> Then Mahākāśyapa said: "From today, we should generate the Teacher-perception toward all beings. Why? We don't know which bodhisattva has awakening-ripening faculties and which doesn't. Not knowing, we might think them inferior. By that we'd be destroyed."
+>
+> The Blessed One said: "Well said, Kāśyapa! Seeing this very point, I taught: 'O monks, don't discriminate person through person. A person discriminating is quickly destroyed. Either I discriminate, or one like me.'
+>
+> By this teaching, bodhisattvas and śrāvakas should generate the Teacher-perception toward all beings. There might be some bodhisattva-vehicle person. Protect yourself in that matter."
+
+And toward one who certainly has the mark of awakening? All the more should disdain be guarded against.
+
+---
+
+## The Subtle Rejection
+
+The Sarvadharmavaipulyasaṃgraha Sūtra says:¹⁵
+
+> "Subtle, O Mañjuśrī, is the karma-obstruction of rejecting true Dharma.
+>
+> Whoever, in a dharma spoken by the Tathāgata, makes the perception 'this is beautiful' for some and 'this is not beautiful' for some—**he rejects the true Dharma.** By that rejection, the Tathāgata is accused, the Dharma rejected, the Saṅgha slandered.
+>
+> Saying 'this is proper, this improper'—rejection.
+>
+> I didn't teach separate dharmas—Śrāvaka, Pratyekabuddha, Mahāyāna. Confused men will make my dharma diverse: 'This for Śrāvakas, this for Pratyekabuddhas, this for bodhisattvas.' By diversity-perception—rejection.
+>
+> 'This is bodhisattva training, this isn't'—rejection.
+>
+> 'The Dharma-preacher has eloquence; he doesn't'—rejection.
+>
+> 'When Buddha-arising passes, no dhāraṇī is obtained'—rejection.
+>
+> Finding fault with the Dharma-preacher's practice—rejection.
+>
+> Accusing through deportment, through letter-conduct, through moral failure—rejection.
+>
+> 'This is well-spoken, this isn't'—rejection.
+>
+> 'By this one, Buddha's teaching was spoken; by this one, not'—rejection.
+>
+> Whatever you diminish—rejection.
+>
+> Thinking 'this is the Dharma-preacher's form,' speaking it—monk, nun, layman, laywoman—all reject the true Dharma."
+
+And:
+
+> "Whoever makes even one hair stand on end for even one being when Dharma is taught, whoever makes even one tear fall—all that is by the Tathāgata's power.
+>
+> Those confused men, non-bodhisattvas with bodhisattva-claim, bodhisattva-faulters, Dharma-thieves and deceivers, will say to Dharma-teachers: 'What do these not understand?'...
+>
+> Those who disdain bodhisattvas—I don't speak of their hell as having an end.
+>
+> Why? Whoever slanders a Dharma-preacher—slanders the Buddha, rejects the Dharma, despises the Saṅgha.
+>
+> Whoever is disrespectful to a Dharma-preacher is disrespectful to the Buddha. Whoever doesn't want to see a Dharma-preacher doesn't want to see the Buddha. Whoever speaks ill of a Dharma-preacher speaks ill of the Buddha.
+>
+> The Buddha abandons whoever makes anger-mind toward even a first-thought-generator bodhisattva."
+
+---
+
+*Thus ends the Fourth Chapter: Avoiding the Bad Roads.*
+
+---
+
+## Theological Notes
+
+### Root Offenses Are Specific
+There are lists: 5 for kings, 8 for beginners. These aren't general guidelines—they're catalogued transgressions with specific remedies.
+
+### The Hell-Descriptions Are Graphic
+Fire-Crest birds, Skull-Interior birds, tongue-extraction by the thousands of yojanas—these aren't metaphors. In Buddhist cosmology, they're vivid descriptions of karmic consequences. The Bluesman presents them without softening.
+
+### Sensual Desire Is the Root
+This chapter hammers it: all harms trace to craving. The anti-woman verses reflect the monastic male perspective. Read them as evidence of how seriously the tradition took the craving-problem, not as timeless gender theology.
+
+### The Seven Sexualities
+Celibacy isn't just physical. Gazing, playing, savoring sounds, dedicating for heaven—all keep you joined to sexual conduct. The bar is higher than you thought.
+
+### Disdain Toward Bodhisattvas Is Catastrophic
+Obstructing even one wholesome thought of a bodhisattva is worse than killing all Jambudvīpa. The logic: you obstruct the roots of Buddha-arising itself.
+
+### Treat Everyone as a Future Buddha
+Mahākāśyapa's confession: "We don't know who has awakening-ripening faculties." Therefore, teacher-perception toward all. This is the safeguard against catastrophic disdain.
+
+### Dharma-Rejection Is Subtle
+You reject the Dharma when you say: "This teaching is good, that one bad." When you make diversity-perceptions among Buddha's teachings. When you fault the Dharma-preacher. Even when you say "by this one, the teaching was spoken; by that one, not."
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 05
+--------------------------------------------------------------------------------
+
+# Chapter 5: The Vow (Śīlapāramitā Anarthavarjana)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The fifth chapter of Śāntideva's Compendium of Training, on keeping your word—the thirteen promises you made, what breaks 'em, and how to keep your morals clean when everything around you wants to dirty you up.*
+
+---
+
+## What You Said You'd Do
+
+So we talked about harm.¹ Now here's how you don't do it.
+
+In the Adhyāśayasaṃcodana Sūtra,² beginner bodhisattvas—
+scared when they heard about all those harms—
+they stood up and made their vows:
+
+> *"We, O Blessed One,*
+> *from this day forward,*
+> *make this undertaking*
+> *before the Tathāgata:*
+
+Listen to what they promised.
+These are **The Thirteen Vows**.
+Every one ends the same way:
+**"...we deceive the Tathāgata."**
+
+That means: if you break this vow,
+you're lying to the Buddha's face.
+
+---
+
+### Vow 1: Don't Accuse
+
+**If we accuse a bodhisattva-vehicle person**—
+householder or renunciant—
+**of an offense,**
+whether the charge is true or false,
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 2: Don't Speak Ill
+
+**If we disdain a bodhisattva-vehicle person**
+**and speak ill of him,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 3: Don't Judge Their Pleasure
+
+**If we see a bodhisattva-vehicle person**—
+householder or renunciant—
+**playing with the five pleasures,**
+**enjoying himself,**
+and we:
+- Get disgusted
+- Get vexed
+- Lose respect
+- Stop seeing him as a Teacher
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 4: Don't Compete for Patrons
+
+**If we create bodily or mental trouble**
+**for bodhisattva-vehicle people**
+because we're competing over patron-families or alms-families,
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 5: Don't Say One Mean Word
+
+**If we address a bodhisattva-vehicle person**
+**with even ONE unpleasant word,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 6: Bow Six Times Daily
+
+**If we don't bow**
+**to a bodhisattva-vehicle person**
+**three times at night**
+**and three times during the day,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 7: Give Everything for This
+
+**If we don't give up**
+**kingdom, wealth,**
+**or body and life**
+**for this vow-undertaking,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 8: Don't Think You're Better
+
+**If we disdain**
+**Śrāvaka-vehicle or Pratyekabuddha-vehicle people**
+thinking "we're better than them,"
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 9: Stay Low
+
+**If we don't dwell**
+**with lowly minds,**
+**with minds like outcastes,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 10: Don't Brag, Don't Tear Down
+
+**If we exalt ourselves**
+**or tear down others,**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 11: Run From Conflict
+
+**If we don't flee**
+**a yojana or a hundred yojanas**
+**from fear of hatred and conflict,**
+being driven,
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 12: Don't Show Off
+
+**If we proclaim ourselves as moral,**
+**or learned, or ascetic—**
+**show off ANY quality at all—**
+
+***we deceive the Tathāgata.***
+
+---
+
+### Vow 13: Hide Your Good, Show Your Bad
+
+**If we don't dwell**
+**with concealed good and revealed evil**—
+humble about virtue,
+transparent about faults—
+
+***we deceive the Tathāgata.***
+
+---
+
+Then the Blessed One told Maitreya:
+
+> *"Whoever wants to exhaust karma-obstruction*
+> *should make these undertakings*
+> *just as these good people did."*
+
+**That's The Vow.**
+Thirteen promises.
+You break one? You're lying to the Buddha.
+
+---
+
+## Don't Search for Faults
+
+The Sarvadharmāpravṛttinirdeśa³ lays it down:
+
+> *"Three times at night,*
+> *three times during the day,*
+> *bow to bodhisattvas with your head.*
+>
+> ***Don't search for any fault in them.***
+> *Let them practice as they wish.*
+>
+> *When you see one enjoying pleasures,*
+> ***don't search for any fault.***
+
+Why not?
+
+> *With infinite qualities,*
+> *that bodhisattva practice—*
+> *even this one, in time, will touch it.*
+>
+> *By gradual reasoning, by gradual action,*
+> ***you don't become a Buddha by one word.***
+>
+> *Many koṭis and niyutas of kalpas—*
+> *one who's set out with armor don't become otherwise."*
+
+Now listen to this:
+
+> *"Those free from karma-obstruction*
+> ***shouldn't find fault***
+> *with any bodhisattva's conduct.*
+>
+> *All their actions should be released.*
+
+Why? Because:
+
+> *'I don't know another's mind.*
+> *Beings' conduct is hard to know.'*
+
+The Tathāgata himself says:
+
+> *'A person shouldn't be measured by another person.*
+> ***Either I would measure,***
+> ***or one like me.'***
+
+You hear that? Only the Buddha measures people.
+Not you. Not me.
+
+> *If you want to protect yourself,*
+> ***don't discriminate anyone's conduct.***
+>
+> *Don't disparage:*
+> *'This one is like this, that one is like that.'*
+>
+> *Be devoted to Buddha-dharma,*
+> *day and night,*
+> *with a Dharma-grasping mind."*
+
+You understand what I'm saying?
+You don't know what they know.
+You can't see inside another's heart.
+You can't read their mind.
+
+Only the Buddha measures people.
+Or one like the Buddha.
+And you ain't there yet.
+
+**Mind your own business.**
+**Keep your vow.**
+
+---
+
+## The Kṣitigarbha Prayer
+
+In the Kṣitigarbha Sūtra,⁴ learned beings made this prayer:
+
+> *"For as long as we wander in saṃsāra—*
+> *having obtained even a little patience—*
+>
+> *May we NOT become kings.*
+> *May we NOT become ministers.*
+> *May we NOT become town-elders.*
+> *May we NOT become village-elders.*
+> *May we NOT become regional-elders.*
+> *May we NOT become chief-priests.*
+> *May we NOT become generals...*
+> *May we NOT become any kind of leader over beings—*
+>
+> ***UNTIL we have obtained patience.***
+>
+> *Because from such positions,*
+> *we might create heinous karma*
+> *that damages Buddha's teaching."*
+
+You hear what they're saying?
+Power without patience? Dangerous.
+Authority without wisdom? Deadly.
+
+They're praying: "Don't let me be in charge
+till I know how to handle it."
+
+**That's The Vow.**
+Staying small till you're strong enough for big.
+
+---
+
+## The Moon-Lamp Verses
+
+The Candrapradīpa Sūtra⁵ lays it out:
+
+> *"In that evil time,*
+> *there's no evil they won't do.*
+> *Don't get intimate with them*
+> *in the last age.*
+>
+> *If you speak with them,*
+> *you might lose respect.*
+> *But don't shrink from honoring—*
+> *they haven't awakened yet.*
+>
+> *Ask about ordination seniority.*
+> *Whoever is elder—*
+> *bow at their feet with your head.*
+>
+> *Don't see any fault*
+> *in those who behold the seat of awakening.*
+> *Don't generate opposition;*
+> *always be of loving mind.*
+>
+> *If you see a fault in them,*
+> *don't announce it.*
+> *Whatever karma one does,*
+> *that fruit one gets.*
+>
+> *With a smiling moon-face,*
+> *toward elders and newcomers,*
+> *be the first to speak—*
+> *pride destroyed, patient.*
+>
+> *With robes and alms-food, help them.*
+> *Place your mind thus:*
+> *'All will become Leaders.'"*
+
+**Smiling moon-face.**
+You be the first to speak.
+You bow first.
+You give first.
+
+Because everyone's a future Buddha.
+Everyone.
+
+---
+
+## Why You Bow to Bodhicitta
+
+For those who can't generate reverence
+for someone who's generated bodhicitta,
+the Gaṇḍavyūha Sūtra⁶ gives Maitreya's praise to Sudhana:
+
+> *"He, seeing beings*
+> *afflicted by old age and disease,*
+> *assailed by hundreds of sufferings,*
+> *tormented by birth-death fear and grief—*
+> *for their sake he practices,*
+> *with compassion-mind.*
+>
+> *Seeing the world tormented*
+> *by suffering's machine*
+> *in the wheel of five destinies,*
+> *he seeks that knowledge-vajra*
+> *to shatter the suffering-wheel.*
+>
+> *Seeing the field of beings*
+> *with thorns, splinters, prickles*
+> *of desire and hatred,*
+> *entangled in dense undergrowth of views—*
+> *seeking to purify that field,*
+> *he seeks the plough of wisdom.*
+>
+> *The world, jungle of delusion-ignorance,*
+> *wisdom-eye destroyed, without guide—*
+> *he'll become a lord showing safety,*
+> *a caravan-leader for the world.*
+>
+> *Wearing patience-armor,*
+> *mounted on three liberations,*
+> *with knowledge-sword*
+> *vanquishing affliction-enemies,*
+> *a hero, a giver of fearlessness—*
+> *he'll become a guide for the world.*
+>
+> *He launches the Dharma-boat,*
+> *trained in the knowledge-ocean path,*
+> *a leader to peace-jewel island—*
+> *he's the helmsman in triple ocean.*
+>
+> *With disk of knowledge-rays and aspiration,*
+> *illuminating all being-worlds,*
+> *rising from dharma-realm sky's ocean—*
+> *he's proclaimed the Buddha-sun.*
+>
+> *Cool as loving-kindness sandalwood,*
+> *equal-minded toward all beings,*
+> *full-disk of white dharmas—*
+> *he's proclaimed the Buddha-moon.*
+>
+> *Established on firm aspiration-ground,*
+> *gradually risen in bodhisattva practice,*
+> *a mine of all dharma-jewels—*
+> *he'll become the supreme knowledge-ocean.*
+>
+> *Born from bodhicitta's nāga-king,*
+> *risen in dharma-realm sky,*
+> *raining Dharma-clouds simultaneously,*
+> *increasing all white-fruit harvests.*
+>
+> *Faith-wick destroying three-stain darkness,*
+> *firm vessel of loving-kindness oil and mindfulness,*
+> *bright with stainless bodhicitta-fire—*
+> *he'll light the Dharma-lamp.*
+>
+> *Bodhicitta is the embryonic mass,*
+> *compassion the membrane,*
+> *loving-kindness the flesh,*
+> *aspiration immovable—*
+> *limbs of awakening gradually arising—*
+> *this Buddha-embryo increases.*
+>
+> *Such ones,*
+> *armored with compassion and loving-kindness,*
+> *minds intent on liberating beings—*
+> *rare in the world with gods and humans—*
+> *such a one with purified mind."*
+
+You see why you reverence them?
+
+They're carrying the **Buddha-embryo**.
+They're lighting the **Dharma-lamp**.
+They're wielding the **knowledge-vajra** that shatters suffering.
+
+That person you're about to judge?
+They might be carrying the next Buddha in their heart.
+
+**Keep your vow.**
+Bow. Don't judge.
+
+---
+
+## How to Walk Through Hell and Not Get Burned
+
+You been meditating on that Buddha-embryo?
+Thinking about how they're carrying the next Awakened One in their chest?
+
+Good. That meditation makes it easy to avoid harm.⁷
+
+Now the Book gives you **eight roads** out of trouble.
+The Adhyāśayasaṃcodana Sūtra lays it plain:
+
+> *"In the last five hundred years,*
+> *when the true Dharma is dying—*
+> *when everything's falling apart—*
+> *you walk these eight roads,*
+> *you'll get through unharmed.*
+
+**First Four Roads: What You Don't Do**
+
+1. **Examine your own dirt** - Look at your faults, not theirs
+2. **Don't point fingers** - Don't accuse other bodhisattvas
+3. **Don't compete for money** - Don't look at patron-families with jealous eyes
+4. **Don't run your mouth** - Refrain from heedless speech
+
+**Second Four Roads: Where You Don't Go**
+
+1. **Stay away from fools** - Avoid beings of little learning
+2. **Don't build yourself a following** - Don't gather crowds around you
+3. **Go to the edge** - Dwell in border lodging-places, not the center
+4. **Mind your own soul** - Be devoted to self-discipline and tranquility"
+
+You hear what I'm saying?
+Eight roads. Eight ways to stay clean.
+
+First four: **What you don't do** (don't accuse, don't compete, don't talk reckless)
+Second four: **Where you don't go** (don't hang with fools, don't gather crowds, go to the edge)
+
+**That's The Vow.**
+Walk those eight roads. Stay safe.
+
+---
+
+## What Gain and Honor Do to You
+
+The same sūtra⁸ gives you the warning straight:
+
+> *"A beginner bodhisattva with wisdom's power should:*
+> *RUN from gain and honor, seeing the danger*
+> *RUN from delight in gatherings, seeing the danger*
+> *RUN from delight in talk, seeing the danger*
+> *RUN from delight in sleep, seeing the danger*
+> *RUN from delight in work, seeing the danger*
+> *RUN from delight in elaboration, seeing the danger..."*
+
+Now listen close. Here's what **gain and honor** do to your soul:
+
+**The Twenty-Five Ways Fame Kills You:**
+
+Fame **generates desire** - lights that fire in your belly
+Fame **destroys mindfulness** - wipes your memory clean
+Fame **causes rising and falling** - you a yo-yo on gain and loss
+Fame **generates delusion** - puts fog in your head
+Fame **makes you stingy** - you clutch those families tight
+Fame **generates deceit** - you lie for advantage
+Fame **destroys your nobility, makes you shameless**
+Fame **gets you disapproved by all Buddhas**
+Fame **generates pride and intoxication** - you drunk on yourself
+Fame **makes you disdain teachers** - you don't listen no more
+Fame **puts you on Māra's side** - you working for the devil now
+Fame **is the root of heedlessness** - steals your merit
+Fame **is like lightning, a wheel, a thunderbolt** - quick and deadly
+Fame **pollutes you with obstacles** - depression sets in
+Fame **confuses the intellect** - can't think straight
+Fame **makes you a vessel for grief** - when it changes, you break
+Fame **steals your mindfulness, weakens white dharmas**
+Fame **kills your right exertions**
+Fame **destroys your supernormal powers**
+Fame **creates disrespect** where there was respect
+Fame **makes you honor enemies, abandon friends** - backwards loyalty
+Fame **makes you like a courtesan** - always seeking connection
+Fame **keeps you from dhyānas and immeasurables**
+Fame **casts you into hell, animal births, Yama's world**
+Fame **makes you like Devadatta** - the betrayer
+
+You hear what I'm saying?
+Fame is poison with twenty-five symptoms.
+It'll kill you twenty-five different ways.
+
+---
+
+## The Medicine: Want Less
+
+> *"Such are the dangers in gain and honor.*
+> *You seen 'em now.*
+> *So what's the cure?*
+> *Delight in few desires—don't be tormented.*
+>
+> *Why? Listen to what happens*
+> *when you want less:*
+
+**For the one of few desires:**
+
+Such faults don't arise - the poison can't touch you
+No obstructions to Buddha-dharmas - the road stays clear
+Not disgusted with householders and renounciants - you love everybody
+Protected by gods and humans - they got your back
+Unafraid of bad destinies - hell don't scare you
+Unshaken by threats - nobody can move you
+Unmoved from Māra's domain - the devil can't budge you
+Unassailable by calamities - disasters pass you by
+Sought after by gods and humans - they come looking for you
+Clear, having abandoned deceit - clean through and through
+Unheedless, seeing pleasure's danger - eyes wide open
+Practices as speaks - you walk your talk
+Sought after by learned fellow-practitioners - the wise want your company
+
+> *Knowing this,*
+> *a wise bodhisattva delights in few desires.*
+> *Cultivate wanting less*
+> *to abandon all gain and honor."*
+
+**Want less.**
+That's the medicine for the poison.
+That's the antidote for fame.
+That's keeping The Vow.
+
+---
+
+## The Poison of Gatherings
+
+Listen now:
+
+> *"Having abandoned desire, having abandoned hatred—*
+> *the yogī doesn't dwell among gatherings.*
+> *You hang with the crowd?*
+> *You bend that way. You lean that way.*
+> *Don't delight in that fault.*
+
+What happens in the crowd?
+
+> *Excitement rises. Laughter comes.*
+> *Thoughts multiply like weeds.*
+> *You get mixed. You get unrestrained.*
+> *Gatherings without essence do that.*
+>
+> *Fools delight in worldly gossip.*
+> *Fools diminish in Dharma-talk.*
+> *They increase hostility.*
+> *They increase excessive thoughts.*
+> *By this fault, you don't shine there.*
+>
+> *The monk don't increase in learning*
+> *delighting in improper talk.*
+> *Therefore, abandon improper talk.*
+> *Find your delight in Dharma.*
+
+Think about this:
+
+> *I abandoned thousands of my own bones*
+> *aspiring to awakening.*
+> *I'm not satisfied hearing Dharma.*
+> *But they? They get weary hearing Dharma.*
+
+So what you gonna do?
+
+> *Entirely avoid*
+> *improper and undisciplined talk.*
+> *Generate delight in excellent Dharma,*
+> *hard to obtain in many hundred kalpas.*
+
+And if you dwelling in the forest, seeking qualities?
+
+> *Don't observe others' faults.*
+> *Don't think: "I am distinguished, I alone am best."*
+> *Don't take up that thought.*
+>
+> *That's pride, root of all heedlessness.*
+> *Don't disdain inferior monks.*
+> *This teaching is gradual.*
+> *Nobody attains awakening in one birth."*
+
+You hear what I'm saying?
+Crowds make you laugh when you should be serious.
+They make you gossip when you should be quiet.
+They make you judge when you should be humble.
+
+You get mixed up. Unrestrained. Bent out of shape.
+
+**Stay alone.**
+**Keep The Vow.**
+
+---
+
+## Eleven Ways Loving Your Own Voice Destroys You
+
+Listen to what happens to the talker:
+
+> *He becomes disrespectful,*
+> *intoxicated with learning,*
+> *dwelling in disputes.*
+> *Stolen mindfulness, no clear comprehension—*
+> ***that's the talker's ruin.***
+
+> *Far from inner contemplation.*
+> *Neither mind nor body peaceful.*
+> *Many risings and fallings—*
+> ***that's the talker's ruin.***
+
+> *Destroyed in true Dharma-mind,*
+> *the fool becomes harsh, unlubricated mind.*
+> *Far from insight and calm—*
+> ***that's the talker's ruin.***
+
+> *Always disrespectful to teachers,*
+> *delighting in polluted talk.*
+> *Standing in what's without essence,*
+> *wisdom destroyed—*
+> ***that's the talker's ruin.***
+
+> *Not honored by god-hosts.*
+> *They don't aspire toward him.*
+> *Deficient in analytical knowledge—*
+> ***that's the talker's ruin.***
+
+> *Criticized by wise men—*
+> *whoever is an individual witness.*
+> *His life becomes pointless—*
+> ***that's the talker's ruin.***
+
+> *He grieves when the fool does:*
+> *"I'm without practice, what now?"*
+> *Very miserable, without firm ground—*
+> ***that's the talker's ruin.***
+
+> *Unsteady like a straw stirred by wind.*
+> *That one doubts.*
+> *Never has firm understanding—*
+> ***that's the talker's ruin.***
+
+> *Like an actor on stage,*
+> *speaking of other heroes' qualities,*
+> *but himself without practice—*
+> ***that's the talker's ruin.***
+
+> *Deceitful, fickle, hopeless.*
+> *Again and again resorts to dispute.*
+> *Far from the noble Dharma—*
+> ***that's the talker's ruin...***
+
+> *Having delighted in talk for a long time,*
+> *you don't find self-bliss here.*
+> *Better is contemplation on a single quarter-verse,*
+> *where you may find infinite bliss.*
+
+Now here's the image:
+
+> *There's nothing of essence in sugarcane's rind.*
+> *In the middle is the essence, most delightful.*
+> *You eat the rind?*
+> *You can't obtain the superior juice.*
+>
+> *Just as the rind—so understand talk.*
+> *Just as the juice—so is meaning-contemplation.*
+> *Therefore, abandoning delight in talk,*
+> *may you always contemplate meaning."*
+
+**Eleven ways the talker gets ruined.**
+You talk too much? You lose everything.
+
+Like eating sugarcane rind instead of the juice inside.
+All surface, no substance.
+All bark, no bite.
+
+**Shut up.**
+**Contemplate meaning.**
+**Keep The Vow.**
+
+---
+
+## When You Love Your Bed Too Much
+
+Listen to what happens to the one who delights in sleep:
+
+> *He increases a great net of delusion.*
+> *Becomes doubtful, grasping views.*
+> *Many views arise for him*
+> ***who wrongly delights in torpor.***
+
+> *His wisdom becomes very weak.*
+> *Understanding diminishes.*
+> *Always diminished in knowledge,*
+> ***who wrongly delights in torpor.***
+
+Now here's where it gets dangerous:
+
+> *Lazy, unknowing, slothful, unwise—*
+> ***non-human beings get access to him.***
+> *They harass him in the forest,*
+> ***who wrongly delights in torpor.***
+
+That's right. Sleep too much? The demons walk right in.
+The door's wide open when you're snoring.
+
+> *Uninterested in wholesome mind.*
+> *No desire for Dharma.*
+> *More and more desirous of non-dharma,*
+> ***who wrongly delights in torpor.***
+
+> *Confused, bereft of Dharma-desire,*
+> *the fool loses all qualities.*
+> *His white virtue goes, he attains darkness,*
+> ***who wrongly delights in torpor.***
+
+> *Lacking skill, withdrawn mind.*
+> *Never has constant joy.*
+> *Overcome by sleep, slack limbs—*
+> ***who wrongly delights in torpor.***
+
+And here's the bitter twist:
+
+> *Having known he's reached by laziness,*
+> *he envies the vigorous.*
+> *Speaks ill of those with vigor,*
+> ***who wrongly delights in torpor.***
+
+So what's the cure?
+
+> *That which destroys all suffering and darkness,*
+> *root for avoiding bad destinies,*
+> *always praised by all Buddhas—*
+> ***cultivate always that noble vigor.***"
+
+Sleep too much?
+Demons walk right in.
+Wisdom dies.
+White virtue leaves, darkness comes.
+You lose everything.
+
+**Stay awake.**
+**Cultivate vigor.**
+**Keep The Vow.**
+
+---
+
+## Why Service Ain't the Work
+
+Listen to what busy-work does to you:
+
+> *Hard to admonish when urged by teachers.*
+> *Doesn't take instruction right.*
+> *Quickly becomes one of failed morality—*
+> ***faults of one delighting in work.***
+
+> *Always anxious.*
+> *Always thinking of householder-tasks.*
+> *Nothing to do with dhyāna-abandonment—*
+> ***faults of one delighting in work.***
+
+> *Intense desire for tastes.*
+> *Seized, infatuated.*
+> *Not satisfied with this or that—*
+> ***faults of one delighting in work.***
+
+> *Pleased with a large assembly.*
+> *Miserable when deprived of it.*
+> ***Becomes mixed, like a donkey***—*
+> ***faults of one delighting in work.***
+
+That's right. Like a donkey. Always carrying, never free.
+
+> *Day and night, mind on food and robes.*
+> *Interested in self-aims with all qualities—*
+> ***faults of one delighting in work.***
+
+> *Asks about worldly tasks.*
+> *Delights in improper talk.*
+> *Doesn't find delight in proper talk—*
+> ***faults of one delighting in work.***"
+
+Then Maitreya stood up and said:
+
+> *"Those bodhisattvas will have very little wisdom*
+> *who, avoiding foremost dharmas,*
+> *take up inferior works."*
+
+And the Blessed One? He agreed. Listen close:
+
+> *"So it is, Maitreya.*
+> *I tell you straight:*
+> ***Those aren't truly gone forth***
+> *who have no yoga, no dhyāna, no abandonment,*
+> *no study, no search for learning.*
+
+Now here's the hard truth:
+
+> *The Tathāgata's teaching*
+> *is empowered by dhyāna and abandonment,*
+> *constructed by knowledge—*
+>
+> ***NOT empowered by householder-work,***
+> ***NOT empowered by service and drudgery.***
+>
+> *This is the work of those unyoked to yoga,*
+> *who delight in saṃsāra.*
+> ***The bodhisattva shouldn't aspire to it.***
+
+And then the Buddha says something shocking:
+
+> *If a service-delighting bodhisattva*
+> *filled this three-thousand great thousand world-system*
+> *with seven-jewel stūpas—*
+> *towers of diamonds and gold,*
+> *monuments to the sky—*
+>
+> ***I wouldn't be pleased by him.***
+
+You hear that? Fill the universe with jewels—
+the Buddha says "I'm not pleased."
+
+Why? Listen:
+
+> *Fill the whole earth with service-doing bodhisattvas—*
+> *all of them should do service*
+> *for ONE bodhisattva devoted to recitation and study.*
+>
+> *Fill the earth with study-bodhisattvas—*
+> *all of them should do service*
+> *for ONE reflection-bodhisattva.*
+
+You see the hierarchy?
+Service < Study < Reflection
+
+> *Why? This is difficult work—*
+> ***WISDOM-WORK***—*
+> *superior, unsurpassed,*
+> *above the whole triple world.*
+>
+> *Therefore, by a bodhisattva seeking yoga,*
+> *wishing to undertake vigor,*
+> ***wisdom should be engaged in.***"
+
+You hear what the Buddha's saying?
+He says it straight, no sugar:
+
+Fill the universe with jewel stūpas—I wouldn't be pleased.
+Why? Because **busy-work ain't the work.**
+**Wisdom-work is the work.**
+
+Service-bodhisattvas should serve study-bodhisattvas.
+Study-bodhisattvas should serve reflection-bodhisattvas.
+
+The higher you go, the quieter it gets.
+The deeper you go, the stiller it gets.
+
+**Stop doing. Start knowing.**
+**Keep The Vow.**
+
+---
+
+## The Command: Flee Elaboration
+
+Listen to what the Book says about elaboration and conflict:
+
+> *The eight unfavorable states*
+> *aren't far from him.*
+> *The favorable-moment excellence*
+> *isn't supreme.*
+> *These harms arise always—*
+> ***faults of one going about in elaboration.***
+
+> *Having understood these faults,*
+> *the wise one should avoid all elaborations.*
+> *Harms are easy for one going about in elaboration.*
+> ***Don't cohabit with elaboration.***
+
+Now here's the command—listen close:
+
+> ***Go 100 yojanas—that's better—***
+> ***wherever there's elaboration or conflict.***
+
+That's right. A hundred yojanas. Hundreds of miles.
+Run. Flee. Get out.
+
+> *Don't make a dwelling there.*
+> *Not a residence.*
+> *Not even for a moment*
+> *where there's affliction.*
+
+Think about it:
+
+> *You gone forth?*
+> *You ain't interested in wealth.*
+> *You interested in qualities.*
+> ***Don't create conflict.***
+>
+> *You have no field, no agriculture, no commerce.*
+> *For whose sake are these elaborations?*
+>
+> *You have no son, no daughter, no wife.*
+> *No friend, no relatives.*
+> *No servants, no lordship.*
+> ***Don't create conflict, having gone forth.***
+
+Now remember what you wearing:
+
+> *You taken the dyed robes with faith—*
+> *they're worn by the peaceful.*
+> ***Be peaceful and tranquil!***
+> *Having avoided elaboration,*
+> *generate patience.*
+
+And here's the warning:
+
+> *Guard against poisonous snakes.*
+> *Guard against fierce minds, hells, animal realms, Yama's domain.*
+> ***They're not far from one going about in elaboration.***
+> *Therefore, generate vigor in patience.*
+
+> *By this yoga one obtains purity,*
+> *having exhausted karma-obstruction without remainder.*
+> ***He opposes Māra with army and vehicle—***
+> *whoever, the wise one, generates patience."*
+
+**Go a hundred yojanas from conflict.**
+That's hundreds of miles. That's running.
+
+Run from drama.
+Flee from elaboration.
+Get out while you can.
+
+You got no family. No field. No business.
+What you fighting for?
+
+Hell ain't far from the one who loves conflict.
+The poisonous snakes ain't far.
+The animal realms ain't far.
+
+**Run.**
+**Stay peaceful.**
+**Keep The Vow.**
+
+---
+
+## What It All Comes Down To
+
+Now we get to the heart of it.⁹
+The root verse. The core teaching.
+Listen:
+
+> ***By what is this attained?***
+> ***By avoidance of all fruitless activity.*** (Kārikā 7)
+
+By what? By cutting out everything that doesn't serve others.
+
+The **fruit** here is **for them**, not you.
+Whatever doesn't help others—
+being fruitless—
+cut it out.
+
+Now the Candrapradīpa Sūtra shows you what this looks like in the body:
+
+> *"He is not one whose hands are restless.*
+> *Not one whose feet are restless.*
+> *Restrained in hands and feet."*
+
+And the Daśadharmaka Sūtra spells it plain:
+
+> *"Waving hands, waving feet,*
+> *running, running about,*
+> *jumping, leaping—*
+> ***this is bodily agitation.***"*
+
+You see what they're saying?
+If it doesn't serve others, it's fruitless.
+If it's fruitless, cut it.
+
+**Be still.**
+**Don't wave your hands around.**
+**Don't run and jump for nothing.**
+**Keep The Vow.**
+
+---
+
+## All Action for Beings' Sake
+
+The Dharmasaṃgīti Sūtra¹⁰ makes it crystal clear:
+
+> *"Whatever bodily action of bodhisattvas—*
+> *whatever verbal, whatever mental—*
+>
+> ***ALL proceeds with observation of beings.***
+> *With great compassion as chief.*
+> *With aim of establishing beings' welfare.*
+> *Proceeding with intention of welfare and happiness*
+> *for all beings.*
+
+You hear that? Everything. Body, speech, mind.
+All of it for them.
+
+> *He, with benevolent intention, thinks:*
+> *'That practice should be practiced by me*
+> *which brings welfare and happiness*
+> *to all beings.'*
+
+How does he do it?
+
+> *The practice is observation of sense-bases*
+> *like an empty village.*
+> *And he doesn't aspire to abandon sense-bases."*
+
+Now the Gaganagañja Sūtra¹¹ gives you the final teaching.
+Listen close:
+
+> *"Just as wind enters through a crack,*
+> *so from wherever there's a crack in the mind,*
+> ***Māra obtains access.***
+
+You understand?
+Wind gets in through cracks.
+The devil gets in through cracks.
+Find the weak spot, walk right in.
+
+So what you gonna do?
+
+> *Therefore, the bodhisattva should always be*
+> ***of CRACKLESS MIND.***
+>
+> *That cracklessness is fulfillment*
+> *of the emptiness of all-aspect knowledge."*
+
+**No cracks.**
+No weak spots. No openings. No loose places.
+
+Wind gets in through cracks.
+Māra gets in through cracks.
+You leave a crack? He's coming in.
+
+**Seal it up.**
+**Make your mind crackless.**
+**Keep The Vow.**
+
+---
+
+*Thus ends the Fifth Chapter:*
+***The Vow***
+*(Śīlapāramitā Anarthavarjana — Perfection of Morality and Avoiding Harm)*
+
+---
+
+# Theological Notes
+
+### The Root Metaphor: "The Vow"
+
+This chapter is about **keeping your word**. You made thirteen promises to the Buddha. Now you gotta live by them. The Blues tradition knows this—promises you can't break, deals you're bound to, oaths that hold you till you die.
+
+Every one of the thirteen vows ends the same way: ***"...we deceive the Tathāgata."*** If you break the vow, you're lying to the Buddha's face. That's the weight.
+
+### The Thirteen Vows Are Radical
+
+They demand:
+- Bow six times daily to bodhisattvas
+- Flee conflict by a hundred yojanas (hundreds of miles)
+- Speak NO unpleasant word (not even one)
+- Never exalt yourself or tear down others
+- Give up kingdom, wealth, body, and life for this vow
+
+This is extreme humility as practice. This is "going down low" enacted as daily life.
+
+### Power Without Patience Is Dangerous
+
+The Kṣitigarbha prayer is striking: learned beings pray NOT to become kings, ministers, or leaders until they have patience. Why? Because **power without patience damages Buddha's teaching**.
+
+This is the Blues wisdom of knowing your limits. Don't reach for authority till you're ready to handle it. Stay small till you're strong enough for big.
+
+### The Maitreya Praise: Why You Bow to Bodhicitta
+
+The Gaṇḍavyūha passage explains why we reverence bodhicitta-holders. They're:
+- Carrying the **Buddha-embryo** in their hearts
+- Lighting the **Dharma-lamp** in the darkness
+- Wielding the **knowledge-vajra** that shatters suffering's wheel
+- Launching the **Dharma-boat** to peace-jewel island
+
+That person you're about to judge? They might be carrying the next Buddha. So bow. Don't search for faults.
+
+### Six Delights to Avoid
+
+| Delight | Sanskrit | What It Does | Antidote |
+|:--------|:---------|:-------------|:---------|
+| **Gain/Honor** | *lābhasatkāra* | 25 poisons, like Devadatta | Few desires |
+| **Gatherings** | *saṃgaṇikārāma* | Excitement, gossip, hostility | Stay alone |
+| **Talk** | *bhāṣyārāma* | 11 faults, like eating rind not juice | Shut up, contemplate meaning |
+| **Sleep** | *nidrārāma* | Delusion-net, demons get in | Stay awake, cultivate vigor |
+| **Work** | *karmārāma* | Anxiety, failed morality, like a donkey | Wisdom-work, not busy-work |
+| **Elaboration** | *prapañcārāma* | Conflict, unfavorable states, hell nearby | Go 100 yojanas away |
+
+### Wisdom-Work vs. Service-Work
+
+The Buddha is blunt:
+
+> *"If a service-delighting bodhisattva filled the universe with seven-jewel stūpas, I wouldn't be pleased."*
+
+Why? Because **busy-work ain't the work. Wisdom-work is the work.**
+
+Service-bodhisattvas should serve study-bodhisattvas.
+Study-bodhisattvas should serve reflection-bodhisattvas.
+
+The hierarchy is clear: reflection > study > service. The higher you go, the quieter it gets. Stop doing. Start knowing.
+
+### The Root Verse (Kārikā 7): Avoid All Fruitless Activity
+
+"By what is this attained? By avoidance of all fruitless activity."
+
+**Fruit = benefit to others.**
+
+If it doesn't serve others, it's fruitless. Cut it out.
+
+Don't wave your hands around. Don't run and jump. Don't do bodily agitation. Be still. Be restrained.
+
+### Crackless Mind
+
+The Gaganagañja Sūtra's final image: **Wind enters through cracks. Māra enters through cracks.**
+
+If there's a crack in your mind—a weakness, an opening, a loose spot—that's where the devil gets in.
+
+**Seal it up.**
+**Keep The Vow.**
+**No cracks.**
+
+---
+
+## AUDIO CHAPTER 06
+--------------------------------------------------------------------------------
+
+# Chapter 6: Protecting Your Person (Ātmabhāvarakṣā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The sixth chapter of Śāntideva's Compendium of Training, on how to protect your person through mindfulness, calm, mind-training, right speech, proper eating, and protective mantras.*
+
+---
+
+## How You Cut the Fruitless
+
+We talked about avoiding fruitless activity.¹ How do you actually do it?
+
+> **This is accomplished by constant mindfulness.** (Kārikā 8a)
+
+By standing guard. By watching. By paying attention.
+
+Here's twelve ways mindfulness cuts the fruitless:
+
+**1. Remember the Boss Man's orders got consequences**
+Don't transgress the Tathāgata's command.
+
+**2. Remember your body's naturally still**
+Don't move needlessly. Keep it quiet.
+
+**3. Remember deliberate action**
+When there's work for beings, keep still what don't serve it.
+
+**4. Remember composure when excitement hits**
+Beginners get confused by fear, celebration. Don't let your limbs fly.
+
+**5. Remember to check your four postures**
+Walking, standing, sitting, lying—check 'em all.
+
+**6. Remember to check the three postures** intermittently
+Check for excellence. Don't slack.
+
+**7. Remember speech-restraint**
+When speaking, don't wave hands, feet, head wildly from excitement.
+
+**8. Remember volume**
+Speak just loud enough for the hearer to understand. Not excessively.
+
+**9. Remember to purify minds in the crowd**
+Crowded gatherings of untrained people? Purify your mind.
+
+**10. Remember the mind-elephant**
+Always tie it to the post of calm. Don't let it run wild.
+
+**11. Remember to check the state of your mind**
+Again and again. Keep checking.
+
+**12. Remember your intent in big gatherings**
+Protect mindfulness even if you drop other tasks.
+
+Twelve ways to stand guard. Twelve ways to watch the house.
+
+---
+
+## Mindfulness Comes from Earnestness
+
+> *Mindfulness arises from intense earnestness.* (Kārikā 8b)
+
+Earnestness means being completely oriented toward your tasks. It's the antidote to contempt.
+
+> **Earnestness arises from ardor, knowing the greatness of calm.** (Kārikā 8cd)
+
+---
+
+## The Inexhaustible List
+
+What is this "calm" we been talking about?
+The Akṣayamati Sūtra gives you the full list:²
+
+> "What is inexhaustible calm?"
+
+Listen to all of it:
+
+Peace of mind. Thorough peace. Non-distraction.
+Sense-restraint—keeping the doors locked.
+Non-agitation, non-inflation—not stirred up, not puffed up.
+Non-fickleness, non-restlessness—staying put.
+Gentleness. Guardedness.
+Workability, thoroughbred-ness—ready to go, well-trained.
+One-pointedness—focused like a laser.
+Delight in solitude—loving the quiet.
+Avoidance of gatherings—staying away from the crowd.
+Joy in seclusion—happy alone.
+Seclusion of body—body in the quiet place.
+Non-confusion of mind—mind clear as water.
+Mental orientation toward forest—thinking about the woods.
+Few desires—wanting less.
+Guarding the postures—watching how you sit, stand, walk, lie.
+Knowing the right time, knowing the occasion, knowing the measure.
+Knowing liberation—understanding freedom.
+Being easy to support, easy to maintain—not asking for much.
+
+That's calm. **All of that.**
+Not just one thing. The whole package.
+
+---
+
+## What Calm Does
+
+What's so great about calm? **It generates knowledge of things as they are.**³
+
+> *"One who is concentrated knows things as they are,"* said the Sage.
+
+The Dharmasaṃgīti says:
+
+> "For one of concentrated mind, there is seeing of things as they are. For the bodhisattva who sees things as they are, great compassion operates toward beings. He thinks: 'This samādhi-gate and seeing all dharmas as they are—I must accomplish this for all beings.'
+>
+> Urged by compassion, fulfilling the training in higher morality, higher mind, and higher wisdom, he awakens. 'Therefore I must be well-established in morality, unshaking, unbent.'"
+
+Understanding this—the transcendence of endless suffering, the attainment of endless happiness—cultivate ardor like one inside a burning house wanting cool water. From that, earnestness. From that, mindfulness. From mindfulness, avoiding the fruitless. From avoiding, no harms arise.
+
+**Therefore, to protect your person, trace out the root of mindfulness. Always be of established mindfulness.**
+
+---
+
+## The Bouncer at the Door
+
+What is right mindfulness? The Ratnacūḍa Sūtra tells you:⁴
+
+> "That mindfulness by which all afflictions don't arise—
+> That mindfulness by which all Māra-works don't get access—
+> That mindfulness by which you don't fall into wrong paths or bad roads—
+> That mindfulness which, acting as **bouncer**, doesn't give opportunity to unwholesome states—
+> This is called right mindfulness."
+
+You understand?
+Mindfulness is **the bouncer at the door of your mind**.
+
+Standing there. Watching.
+Checking IDs. Keeping the troublemakers out.
+
+Afflictions try to come in? Bouncer says no.
+Māra's works try to slip through? Bouncer blocks the door.
+Wrong paths, bad roads, unwholesome states?
+The bouncer don't let 'em through.
+
+---
+
+## Clear Comprehension
+
+Clear comprehension is knowing what you're doing as you're doing it:⁵
+
+> "Walking, he knows 'I am walking.' Standing, he knows 'I am standing.' Lying down, he knows 'I am lying down.' Sitting, he knows 'I am sitting.' However his body is disposed, so he knows it...
+>
+> He acts with clear comprehension in going forward, in going back, in looking, in bending, in stretching, in wearing the robe, in eating, drinking, chewing, in dispelling drowsiness, in coming, going, standing, sitting, sleeping, waking, speaking, and being silent."
+
+That's clear comprehension. Knowing each moment.
+
+---
+
+## Everything Comes Down to the Mind
+
+Morality leads to concentration. Concentration leads to morality.
+Together, they complete the work of the mind.
+
+And this is the extent of the bodhisattva training: **mind-training**.⁶
+Why? Because mind is the root of all benefit for beings.
+Get the mind right, everything else follows.
+
+The Ratnamegha says:
+
+> "All dharmas are preceded by mind.
+> When mind is fully known, all dharmas are fully known."
+
+Everything starts with mind. Everything ends with mind.
+
+Now listen to what mind does:
+
+> *"The world is led by mind.*
+> *Mind doesn't see mind.*
+> *By mind karma is accumulated, wholesome or unwholesome.*
+
+How wild is the mind?
+
+> ***Mind whirls like a firebrand***—spinning fire in the dark.
+> ***Mind rushes like a horse***—galloping, untamed.
+> ***Mind burns like a forest fire***—consuming everything.
+> ***Mind sweeps away like a great flood***—nothing can stop it."
+
+You hear that?
+Your mind is a firebrand, a wild horse, a forest fire, a flood.
+
+So what you gonna do?
+
+Examine this. Dwell with mindfulness well-established.
+**Don't go under the power of mind.**
+**Make mind come under YOUR power.**
+
+When mind is under your power?
+All dharmas come under your power.
+Get the mind, you get everything.
+
+---
+
+## Your Mind Is a City
+
+The Gaṇḍavyūha teaches about "the city of the mind":⁷
+
+> "All bodhisattva conduct is based on your own mind.
+> All ripening of beings is based on your own mind.
+>
+> Your own mind must be supported with all roots of virtue.
+> Your own mind must be moistened with Dharma-clouds.
+> Your own mind must be purified from obstructions.
+> Your own mind must be strengthened with vigor."
+
+Listen to what this means.
+
+When Sudhana was confused upon seeing Māyādevī, the goddess Ratnanetrikā gave him instructions. She said:
+
+**Your mind is a city. Now here's how you run it:**
+
+> **Guard the city**—don't dwell with delight in saṃsāra's objects. Keep the doors locked.
+>
+> **Adorn the city**—rely on the ten Tathāgata powers. Make it beautiful.
+>
+> **Purify the city**—remove envy, stinginess, and guile. Clean the streets.
+>
+> **Increase the city**—increase vigor for omniscience. Build it bigger.
+>
+> **Make the city impregnable**—don't be crushed by Māra-armies. Build the walls strong.
+>
+> **Expand the city**—suffuse all worlds with loving-kindness. Spread out.
+>
+> **Cover the city**—accomplish the Dharma-umbrella against all unwholesome dharmas. Put a roof on it.
+>
+> **Open the city**—cause all worlds to obtain what they need. Let the good stuff out.
+
+What happens when you do this?
+
+> "When the city of the mind is thus purified,
+> all obstructions don't stand before you—
+> neither the obstruction to seeing Buddhas,
+> nor the obstruction to hearing Dharma."
+
+That's your work:
+Guard it. Purify it. Expand it. Make it impregnable.
+Your mind is a city. Run it right.
+
+---
+
+## Your Only Job
+
+Even now, you become capable of accomplishing beings' aims by generating faith:⁸
+
+> *Non-fickle everywhere, by slow, affectionate, gentle speech,*
+> *you attract worthy people and become one whose instruction is accepted.* (Kārikā 10)
+
+And this is the bodhisattva's very task—**attracting beings.**
+That's your only job.
+
+Priyadarśana said it plain:
+
+> "Thus the bodhisattva should practice so that merely by seeing him, beings generate faith.
+> Why? For the bodhisattva, there is no other task except attracting beings.
+> The ripening of beings—this is the bodhisattva's Dharma-assembly."
+
+You understand? **No other task.**
+Just attract beings. Make 'em want what you got.
+
+---
+
+## What Happens If You Fail
+
+Now here's the danger:
+
+> *One whose instruction is not accepted—*
+> *the world, having disdained that seed of the Victor,*
+> ***like fire hidden by ash, is cooked in hells and such.*** (Kārikā 11)
+
+You hear that?
+People disdain you? They disdain the Dharma through you.
+They end up in hell.
+**Your fault.**
+
+Like fire hidden by ash—looks cold outside, burning inside.
+They gonna get cooked.
+
+The Ratnamegha gives you the summary rule:
+
+> **"That by which beings become displeased—**
+> **that you should carefully avoid."** (Kārikā 12)
+
+Whatever makes people turn away from you?
+**Don't do it.**
+
+---
+
+## What Not to Say
+
+The Sāgaramati Sūtra lists unwholesome speech:⁹
+
+Don't have sunken speech—speech that goes nowhere.
+Don't have scattered speech—all over the place.
+Don't have flowing speech—running like water, endless.
+Don't have blazing speech—burning people up.
+Don't have speech led by desire—chasing what you want.
+Don't have vulgar speech—coarse and ugly.
+Don't have unguarded speech—no filter.
+Don't have speech kindling hatred—lighting fires.
+Don't have restless speech—fidgety, anxious.
+Don't have fickle speech—changing all the time.
+Don't have actor-stage speech—performing, fake.
+Don't place false testimony on another's face—don't lie on people.
+
+The Tathāgataguhya Sūtra adds more:¹⁰
+
+The bodhisattva's speech is:
+Not desirous, not hateful, not deluded, not afflicted.
+Not crushed-answer speech—don't break people down.
+Not speech exalting your own side—don't boost yourself.
+Not speech suppressing the other's side—don't tear them down.
+Not speech favoring your own appearance—don't try to look good.
+Not speech just for winning the debate—it ain't about winning.
+
+---
+
+## What to Cultivate
+
+The Daśabhūmika Sūtra gives you the ideal:¹¹
+
+Having abandoned unpleasant speech that destroys continuum,
+utter speech which is:
+
+Affectionate, soft, pleasant, sweet—like honey.
+Dear-making, mind-pleasing—makes people feel good.
+Beneficial, ear-pleasant—good to hear.
+**Heart-going, love-producing**—goes straight to the heart, makes love.
+Clear in sound, knowable, worth hearing—easy to understand, worth listening to.
+Desired by many, pleasing to many—people want to hear it.
+Praised by the wise—smart folks approve.
+Bringing welfare and happiness to all beings—helps everybody.
+Uplifting the mind, gladdening the mind—lifts people up, makes 'em glad.
+Pacifying desire, hatred, delusion, and all afflictions—calms the demons down.
+
+That's how you speak.
+**Heart-going. Love-producing.**
+Speech that goes to the heart and makes love.
+
+---
+
+## The Single Dharma
+
+The Sāgaramati Sūtra gives you the summary:¹²
+
+> "Another single dharma conduces to Mahāyāna-synthesis:
+> **by examining your own faults, you protect all beings.**"
+
+You hear that?
+One dharma. One teaching. One practice.
+
+**Examine your own faults, you protect all beings.**
+
+That's it. That alone protects everyone.
+Not by fixing them. By fixing yourself.
+
+---
+
+## Sharing the Alms-Food
+
+Regarding constant medicine (alms-food), the Ratnamegha says:¹³
+
+> "Of the alms-food:
+> - One portion for fellow practitioners
+> - Second for the suffering
+> - Third for the destitute
+> - Fourth for yourself
+>
+> Partaking, you partake without desire, without attachment—only for the body's maintenance.
+>
+> Partake so you're neither too emaciated nor too heavy-bodied. Too emaciated turns away from wholesome. Too heavy-bodied is overcome by torpor."
+
+---
+
+## The Dharma-Armor
+
+The Ratnarāśi Sūtra gives detailed instructions on alms-gathering:¹⁴
+
+> "Going to village or town for alms, don the Dharma-armor:
+>
+> - Seeing unpleasant forms, don't be repelled
+> - Seeing pleasant forms, don't be attracted
+> - Senses well-restrained, eyes looking only a plow-length ahead
+> - Trained mind, not abandoning mental orientation to prior dharmas
+>
+> Wherever alms-food is obtained, don't generate attachment. Wherever not obtained, don't generate aversion.
+>
+> If from ten houses alms isn't obtained, don't be distressed. Think: 'These householders have many tasks. They're not obliged to give. It's wonderful they even notice me.'
+>
+> Whatever beings come within range of your eyes—women, men, boys, girls, even animals—toward them generate loving-kindness and compassion: 'May I act so that those who give me alms, I will cause to go to good destinations.'
+>
+> Having gathered alms, look about: 'Who here is a poor being to whom I'll give a share?' If you see one, give. If not, think: 'There are beings not in visible range. To them I offer the first portion.'
+>
+> While partaking, generate this thought: 'There are in this body eighty thousand families of worms. May they dwell happy by this nourishment. Now I gather them with materiality; having awakened, I'll gather them with Dharma.'
+>
+> If your alms is coarse, think: 'By coarse food, my body becomes light, fit for exertion. My excretion will be little. I'll have lightness of body and mind.'
+>
+> When alms is abundant, be an eater of measure. Then offer the rest: 'Whatever deer and birds are interested in food—may they partake.'"
+
+That's the Dharma-armor for alms-gathering.
+
+---
+
+## The Buddha Says No
+
+Protection of your person should be done with constant medicine—food.
+**But not with fish and meat.**
+
+The Laṅkāvatāra Sūtra lays down the law:¹⁵
+
+> "All meat is not to be eaten by a bodhisattva of compassionate nature—
+> so I declare."
+
+Why not?
+
+> *Due to your own birth,*
+> *due to misconduct,*
+> *due to arising from semen and blood,*
+> *as horrifying to beings—*
+> ***the yogī should avoid meat.***
+
+What else should you avoid?
+
+> *Meat, onions, various liquors,*
+> *garlic, and leeks—*
+> ***the yogī should always avoid.***
+
+What happens if you don't?
+
+> *For gain, life is killed.*
+> *For meat, wealth is given.*
+> ***Both those evil-doers are cooked in Raurava hell.***
+
+Listen to the judgment:
+
+> *Whoever, transgressing the Sage's word,*
+> *foolishly eats meat—*
+> *initiated in Śākya's teaching but destroying both worlds—*
+>
+> ***They go to the supreme terrible hell.***
+> *The meat-eaters are cooked in fierce Raurava and such.*
+
+Now here's the key point—listen close:
+
+> ***There is no meat that is three-fold pure***—*
+> *not prepared, not wished for, not caused.*
+> ***Therefore, meat should not be eaten.***
+
+You hear that? No "three-fold pure" exception.
+No loopholes. No excuses.
+
+> *By one dwelling in loving-kindness always,*
+> *it's entirely censured by me.*
+> *One would be together with lions, tigers, deer, etc.*
+>
+> *Therefore, don't eat meat, which horrifies people.*
+> *Being obstructed from liberation-dharma—*
+> *this is the flag of the noble ones.*
+
+That's the prohibition. Clear as day.
+No three-fold pure meat.
+**All meat is prohibited** for one of compassionate nature.
+
+You dwelling in loving-kindness?
+You seeking liberation?
+**Don't eat meat.**
+
+---
+
+## Nothing Is Yours
+
+Listen to this:
+
+> *But from enjoying with self-craving, afflicted offense arises.* (Kārikā 13cd)
+
+Here's the teaching:¹⁶
+
+Everything has been relinquished by the bodhisattva to all beings.
+**You don't own nothing.**
+
+If forgetfully, with craving for self-maintenance, you partake of another's property?
+You incur afflicted offense.
+
+But if, free from craving, remembering the task for beings, you partake?
+No afflicted offense.
+
+Think about it this way:
+
+If you perceive it as another's property and you partake for your own sake—
+**that's theft.**
+In the Prātimokṣa, that's *pārājika* defeat. You out.
+
+But here's the twist:
+
+With possessions owned by beings, the person (*ātmabhāva*) owned by beings is itself protected—so there's no fault.
+
+You understand?
+**You a servant.**
+A servant, always occupied with the master's work, has no own-property.
+Everything belongs to the master.
+
+The Dharmasaṃgīti Sūtra says it plain:
+
+> "By the bodhisattva there should be dwelling **like a servant**—
+> causing the accomplishment of all beings' service."
+
+That's your position.
+**Servant to all beings.**
+Everything you have? It's theirs.
+Your food? Theirs.
+Your clothes? Theirs.
+Your body? Theirs.
+
+You don't own nothing.
+You a servant.
+Act like it.
+
+---
+
+*Thus ends the Sixth Chapter: Protecting Your Person.*
+
+---
+
+## Theological Notes
+
+### The Twelve Mindfulnesses Are Practical
+This isn't philosophy—it's a manual for how to move, speak, and think in daily life. Keep still what doesn't serve. Control your volume. Check your postures. Tie the mind-elephant to the post of calm.
+
+### The City of the Mind
+The Gaṇḍavyūha's "city of the mind" metaphor is powerful: your mind is a city. You must guard it, purify it, expand it, make it impregnable, and open it. When the city is pure, no obstructions stand before you.
+
+### "Examining Your Own Faults Protects All Beings"
+This single teaching from the Sāgaramati Sūtra summarizes everything. You don't protect beings by correcting them. You protect beings by correcting yourself.
+
+### The Laṅkāvatāra Meat Prohibition
+Śāntideva cites the Laṅkāvatāra's famous prohibition of meat-eating. Note: this text rejects even the "three-fold pure" exception found in some vinaya codes. For one of compassionate nature, all meat is prohibited.
+
+### The Servant's Mind
+The chapter ends with a radical teaching: everything you have belongs to all beings. You're their servant. If you partake of food, medicine, clothing with self-craving—that's offense. But if you partake remembering you're serving beings—no offense.
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 07
+--------------------------------------------------------------------------------
+
+# Chapter 7: The Low Road (Bhogapuṇyarakṣā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The seventh chapter of Śāntideva's Compendium of Training, on protecting what you got by going down low—guarding your goods, guarding your merit, bowing to everyone, taking the servant's path, and finding freedom in the dirt.*
+
+---
+
+## You Gotta Know the Measure
+
+So we talked about protecting your body.¹ Now we gotta talk about protecting your goods.
+
+Here's the word:²
+
+> *"The one who starts good work,*
+> *and knows measure in everything—*
+> *from this training-rule,*
+> *protecting your enjoyments ain't hard."*
+
+The Ugra Sūtra lays down the law:³
+
+> *"Act with well-examined action.*
+> *Act with well-done action."*
+
+That means: Look close at how you use your goods.
+Don't throw 'em away careless.
+Don't be contemptuous about it.
+Know the measure. Know what's needed.
+
+By this, it's established:
+Even when the job can be done with *little*—
+don't waste *much*.
+Not yourself. Not through others.
+Don't destroy fine goods when rough ones will do.
+
+---
+
+## Use Your People Right
+
+The same sūtra says:⁴
+
+> *"By proper use of sons, wives,*
+> *servants, workers, employees..."*
+
+Don't give up what you need.
+Don't hold on to what blocks the waking-up.
+If you got power to help beings—real power—
+don't do anything that stops you from doing greater good.
+
+For the bodhisattva with strength to serve,
+letting go or holding on that blocks awakening-factors?
+That ain't the way.
+
+If you got equal power or greater power to help,
+don't abandon what lets you do equal or greater wholesome deeds.
+
+That's established.
+
+---
+
+## The Renunciant Don't Give Material (He Gives Dharma)
+
+The Bodhisattva Code⁵ makes it crystal clear:
+
+> *"Now then, Śāriputra—*
+> *the bodhisattva who left home,*
+> *engaged in awakening-factors:*
+> *How should he give? What should he give?*
+>
+> *He should be a Dharma-giver.*
+> *A Dharma-patron.*
+>
+> *Listen: If a householder bodhisattva*
+> *filled Ganges-sand Buddha-fields*
+> *with seven treasures*
+> *and gave it all to the Tathāgatas—*
+>
+> *And if a renunciant bodhisattva*
+> *illuminated just one four-line verse—*
+>
+> *The renunciant generates far more merit.*
+>
+> *The Tathāgata has NOT approved*
+> *material gift for the renunciant.*
+>
+> *If gain comes into your bowl—*
+> *rightfully obtained, Dharma-obtained—*
+> *eat in common with your fellow-practitioners.*
+>
+> *If someone comes asking for your bowl or robe,*
+> *give what's extra beyond the three robes.*
+>
+> *But if your robe would be *insufficient*—*
+> *that on which the holy life depends—*
+> *don't give it up.*
+> *The Tathāgata said the three robes*
+> *are not to be given away.*
+>
+> *If you give away all three robes*
+> *and become a beggar-beggar,*
+> *that ain't being content with little.*
+>
+> *The one who left home?*
+> *He should serve the Dharma.*
+> *He should be engaged in that."*
+
+The renunciant's gift is Dharma, not material.
+That's the rule. That's the road.
+
+Otherwise, what happens?
+For the sake of drawing in one being,
+you abandon the great crowd's welfare.
+You block the bodhisattva's intention.
+You create loss of great purpose.
+
+That's called "abandoning the broad wholesome side."
+That's off the path.
+
+So now: the prohibition against *giving* is stated.
+What about the prohibition against *not giving*?
+
+Listen: The Sāgaramati Sūtra⁶ lists this in the "obstructions to the Mahāyāna":
+Too much possessing is dangerous.
+
+But this rule—the one laid down for yourself—
+must also be taught to other bodhisattvas.
+
+How do we know?
+Because it's taught in the Ugra Sūtra:
+"Abandoning your own task for another's task."
+
+You see that? There's a balance.
+Give Dharma. Don't hoard material.
+But don't destroy your capacity to serve.
+
+That's guarding your goods.
+
+---
+
+## Fear of Saṃsāra → Equality → Liberation
+
+The Vimalakīrti Sūtra⁷ gives the famous exchange.
+Listen to the call and response:
+
+Vimalakīrti asks:
+
+> *"What should one afraid of saṃsāra resort to?"*
+
+Mañjuśrī answers:
+
+> *"The greatness of the Buddha."*
+
+> *"Where should one wishing to stand*
+> *in the greatness of the Buddha stand?"*
+
+> *"In equality with all beings."*
+
+> *"Where should one wishing to stand*
+> *in equality with all beings stand?"*
+
+> *"For the liberation of all beings."*
+
+You hear that chain?
+
+**Fear → Greatness → Equality → Liberation.**
+
+That's The Low Road.
+You start scared.
+You reach for the Big Boss.
+You find equality—no high, no low.
+You work for *everyone's* freedom.
+
+Not yours first. *Everyone's.*
+
+---
+
+## Awakening First for All Beings
+
+The Dharmasaṃgīti Sūtra⁸ says it plain:
+
+> *"Whatever bodhisattva wishes for enlightenment*
+> *FIRST for all beings, not for himself—*
+> *that's the Dharma-assembly."*
+
+From the very act of giving all to beings,
+the absence of self-interest is established.
+
+But listen: This don't mean you neglect beings' welfare.
+You don't place your burden on someone unfit to carry it.
+
+Where you see no harm to beings' welfare?
+There, whether you do it or another does it—
+what's the difference?
+
+All that matters is the world's benefit.
+
+Now, if you say:
+"I won't give up my own wholesome deeds
+for another bodhisattva's wholesome success"—
+
+Then you're scared of your own bad rebirth, your own suffering.
+
+But look: The second person got the same suffering.
+
+If you say:
+"Well, their suffering don't bother me"—
+
+Then you're in violation of the sūtras.
+
+The Ratnakūṭa Sūtra⁹ calls out the fakes:
+
+> *"These four are bodhisattva-imitations:*
+> *...The one seeking his own happiness,*
+> *not seeking to remove all beings' suffering."*
+
+That's the fake.
+
+So by the rule of the Ugra Sūtra,
+just like before:
+Blame yourself. Serve others.
+
+This is the bodhisattva training
+taught in the Nirārambha Dharmasaṃgīti Sūtra:¹⁰
+
+> *"How should they be known*
+> *as established in practice?"*
+>
+> *"When they don't go against beings."*
+>
+> *"How do they not go against beings?"*
+>
+> *"When they don't abandon*
+> *loving-kindness and great compassion."*
+>
+> Subhūti asks:
+>
+> *"What is the bodhisattvas' great loving-kindness?"*
+>
+> *"When they bring out*
+> *their body, their life, all their wholesome roots*
+> *for all beings—*
+> *and they don't expect anything back."*
+>
+> *"What is the bodhisattvas' great compassion?"*
+>
+> *"When they wish awakening*
+> *FIRST for beings, not for themselves."*
+
+And it says right there:
+
+> *"All bodhisattva training*
+> *has great compassion as its root."*
+
+Now, the Blessed One wouldn't prohibit this
+without reason.
+
+He's definitely pointing toward some purpose—
+one bodhisattva's purpose.
+
+Why? Because we see:
+From the giver's great merit-field,
+from the great gift to the great receiver,
+comes a great ocean of merit.
+
+Otherwise, it would just be
+the destruction of obstacles. Death.
+
+As the Praśāntaviniścayaprātihārya Sūtra¹¹ teaches:
+
+> *"That expenditure, Great King,*
+> *that you made over a hundred thousand years—*
+> *all of it combined*
+> *would be the daily food of one monk.*
+> *And so for each monk, one by one.*
+>
+> *But a bodhisattva*
+> *engaged in recitation and study,*
+> *with reverence, desiring Dharma,*
+> *accepting an offering of faith-food—*
+> *if he generates this thought:*
+> *'I'll obtain the quest for Dharma by this'—*
+>
+> *His wholesome deed,*
+> *that gift-dharma abandonment,*
+> *doesn't reach even a hundredth part*
+> *of not-a-hundredth part."*
+
+That's said for the purity of home-happiness.
+But by the rule stated before,
+there's no fault.
+
+So that's the summary of protecting enjoyments.
+
+---
+
+## Free from Self-Craving
+
+Now: protecting enjoyments has been stated.
+Time to speak on protecting merit.
+
+Here's the word:¹²
+
+> *"By freedom from craving*
+> *for the ripening of self-interest,*
+> *merit is well-protected."*
+
+The Nārāyaṇa Sūtra¹³ lays it out:
+
+> *"He doesn't protect morality for his own sake—*
+> *not for heaven,*
+> *not for Śakra-hood,*
+> *not for enjoyments,*
+> *not for power,*
+> *not for form,*
+> *not for beauty,*
+> *not for fame.*
+>
+> *Not afraid of hell does he protect morality.*
+> *Not afraid of animal birth...*
+>
+> *Rather, he protects morality*
+> *for establishing the Buddha-guidance,*
+> *seeking the welfare, benefit, happiness, and security*
+> *of ALL beings."*
+
+And a bodhisattva equipped
+with this kind of morality-aggregate?
+
+He doesn't fall away from ten dharmas.
+What ten?
+
+He doesn't fall away from wheel-turning sovereignty.
+And in that, he's heedful, waiting for awakening, waiting to see the Buddha.
+
+He doesn't fall away from Brahma-hood, from seeing Śuddha, from obtaining Edya,
+from hearing Dharma...
+
+All the way to:
+
+He doesn't fall away from accepting the bodhisattva restraint,
+for accomplishing practice according to what's heard.
+
+He doesn't fall away from uncut eloquence,
+from aspiration for all wholesome dharmas,
+from meditation.
+
+And a bodhisattva-mahāsattva established in this morality-aggregate?
+
+He's always honored by gods.
+Always praised by nāgas.
+Always honored by yakṣas.
+Always worshiped by gandharvas.
+Always revered by nāga-lords and asura-lords.
+Always highly regarded by brahmins, kṣatriyas, guild-chiefs, householders.
+Always approached by the wise.
+Always accompanied by Buddhas.
+Approved by the Teacher of the world with its gods.
+Compassionate toward all beings.
+
+And he doesn't go to four destinies.
+What four?
+
+He doesn't go to untimely death (except for ripening beings).
+He doesn't go to a Buddha-less Buddha-field.
+He doesn't go to birth in a wrong-view family.
+He doesn't go to any bad destination.
+
+That's what morality protected for beings' sake gets you.
+
+---
+
+## Even Given-Away Merit Needs Guarding
+
+So even merit that was given away before—
+if it's being taken back under the power of defilement,
+it needs protecting.
+
+Even from merit-giving itself—
+from that merit,
+don't wish for the ripening
+except for others' welfare.
+
+And one wishing to protect merit:¹⁴
+
+> *"Should not create regret afterward."*
+
+As the Ugra Sūtra says:
+
+> *"Having given, don't generate a regretful mind."*
+
+Why? Because subsequent weakness comes from prior weakness.
+
+From regret, even merit gets exhausted like evil.
+That's the intention.
+
+---
+
+## Don't Proclaim Your Good Deeds
+
+> *"And having done, should not make it public."*
+
+The Blessed One praised in many ways:
+**"Concealed good, revealed evil."**¹⁵
+
+What you reveal gets exhausted.
+Evil: exhausted by sorrow.
+Merit: exhausted by elation.
+
+Exception: No offense for one who publicizes for beings' sake,
+with no bait, no hook.
+
+As the Ratnamegha¹⁶ illustrates with the doctor-example:
+Self-exaltation is faultless in that case.
+
+But again, one wishing to protect merit—
+
+---
+
+## Fear Gain and Honor, Avoid Exaltation
+
+Here's the teaching:¹⁷
+
+> *"Should be afraid of gain and honor,*
+> *should always avoid exaltation;*
+> *the bodhisattva should be serene,*
+> *should abandon doubt in the Dharma."*
+
+The Ratnakūṭa Sūtra¹⁸ lists four dharmas:
+
+When a bodhisattva is equipped with these four,
+his arisen wholesome dharmas diminish.
+They don't increase.
+
+What four?
+
+1. **The conceited one's quest for worldly philosophy** (*lokāyata*)
+2. **One intent on gain and honor, looking at families** (sizing up who's got wealth)
+3. **Hatred-accusation of bodhisattvas**
+4. **Rejection of unheard sūtras** (rejecting teachings you ain't heard before)
+
+That's how your wholesome dharmas get drained.
+
+---
+
+## Ill-Will Destroys Kalpas of Merit
+
+The Sarvāstivāda Vinaya¹⁹ tells the story:
+
+Listen up. A monk prostrated at the stūpa of hair and nails,
+generating great faith.
+
+The Blessed One said:
+
+> *"As much earth as he touched—*
+> *down eighty thousand yojanas to the golden wheel—*
+> *as many sand-grains as there are,*
+> *so many thousands of wheel-turning sovereignties*
+> *will be enjoyed by this monk."*
+
+Upāli asked:
+
+> *"Where do these roots of virtue get exhausted?"*
+
+The Blessed One said:
+
+> *"Upāli, I don't see such diminution*
+> *as when a fellow-practitioner*
+> *generates an ill mind*
+> *toward a fellow-practitioner.*
+>
+> *There these roots of virtue*
+> *become thin, exhausted."*
+
+Then he said:
+
+> *"Therefore, Upāli, train thus:*
+> *'We won't corrupt our minds*
+> *even toward a BURNT POST—*
+> *how much less toward a body possessing consciousness.'"*
+
+Even a burnt post. Even a charred stump.
+Don't send bad thoughts toward it.
+How much more toward a living being?
+
+The Mañjuśrīvikrīḍita Sūtra²⁰ adds:
+
+> *"'Opposition, opposition'—*
+> *it destroys roots of virtue*
+> *accumulated over a hundred kalpas;*
+> *therefore it's called 'opposition' (*pratigha*)."*
+
+You hear that?
+One flash of ill-will—one moment of opposition—
+destroys a hundred kalpas of merit.
+
+The Gaṇḍavyūha Sūtra²¹ says:
+
+> *"Through that unwholesome root*
+> *arisen from mutual contempt,*
+> *they fall away even from life-span.*
+> *They fall away from beauty, strength, ease."*
+
+And here, to show that exaltation should *never* be done,
+it says *always*: "always avoid."
+
+---
+
+## When Gain May Be Accepted (But Not for Yourself)
+
+Now, gain and honor are sometimes accepted.
+
+The Ratnamegha Sūtra²² says:
+
+> *"Here, son of the family,*
+> *a bodhisattva,*
+> *even receiving a Sumeru-sized heap of jewels,*
+> *accepts it.*
+> *Even receiving a small, contemptible thing—*
+> *he accepts it.*
+>
+> *Why?*
+>
+> *He thinks this way:*
+> *'These beings are stingy. Greedy.*
+> *Overpowered by greed.*
+> *Because of that, that cause, that condition,*
+> *they're drowning in the ocean of saṃsāra,*
+> *sinking and surfacing.*
+>
+> *'This will be for their long-term welfare,*
+> *their benefit, their happiness.'*
+>
+> *Having accepted everything,*
+> *he DOESN'T MAKE IT HIS OWN.*
+>
+> *He doesn't generate a greedy mind.*
+>
+> *Rather, he makes an offering*
+> *to Buddha, Dharma, and Saṅgha*
+> *in common with all beings.*
+>
+> *He makes it a means of livelihood*
+> *for suffering beings.*
+>
+> *And he encourages and delights that patron."*
+
+And then it says:
+
+> *"And by that gift*
+> *he is NOT EXALTED."*
+
+Then it says again:
+
+> *"If, from that cause, condition, source,*
+> *fame, reputation, renown arise for him—*
+> *he doesn't become one born to conceit,*
+> *born to pride, born to intoxication.*
+>
+> *He thinks this way:*
+> *'Before long,*
+> *that which this fame-reputation-renown was raised for,*
+> *and the fame-reputation-renown itself—*
+> *all three of these*
+> *will be entirely non-existent.*
+>
+> *'What wise-born person*
+> *would generate a fawning mind*
+> *toward impermanent, unstable, unreliable, untrustworthy dharmas?*
+> *Would become exalted, prideful, intoxicated?'*
+>
+> *Thus the bodhisattva dwells*
+> *with well-established mindfulness*
+> *regarding gain, honor, fame, reputation, renown."*
+
+---
+
+## Like a Corpse, Like an Outcaste, Like a Bowl-Liver
+
+Then it says:²³
+
+> *"And they dwell in the world*
+> *like an outcaste youth (*caṇḍālakumāra*),*
+> *with a low, low mind.*
+>
+> *They've let go of pride-intoxication-arrogance.*
+>
+> *Because of the constantly-present perception*
+> *of slander."*
+
+Then it says again:
+
+> *"Here, son of the family,*
+> *the bodhisattva who left home,*
+> *who went forth:*
+
+**Strike down pride** by thinking:
+
+1. *"I'm like a CORPSE to friends, relatives, kin."*
+   —Pride struck down.
+
+2. *"Disfigurement has arisen for me.*
+   *Discolored garments are worn by me."*
+   —Pride struck down.
+
+3. *"Shaved head, bowl in hand,*
+   *I go from family to family for alms,*
+   *for the sake of begging, for the cause of begging."*
+   —Pride struck down.
+
+4. *"With a LOW, LOW MIND,*
+   *like an outcaste youth,*
+   *I go for alms."*
+   —Pride struck down.
+
+5. *"I've become a BOWL-LIVER.*
+   *My livelihood depends on others."*
+   —Pride struck down.
+
+6. *"I accept what's cast off, what's disdained."*
+   —Pride struck down.
+
+7. *"My teachers, masters, venerable ones*
+   *are to be pleased."*
+   —Pride struck down.
+
+8. *"My fellow-practitioners are to be satisfied—*
+   *by this conduct, this range, this practice."*
+   —Pride struck down.
+
+9. *"I shall attain unobtained Buddha-dharmas."*
+   —Pride struck down.
+
+10. *"Among angry, malicious beings,*
+    *I shall dwell abounding in patience."*
+    —Pride struck down.
+
+You see that?
+Corpse-like. Outcaste-like. Bowl-liver.
+Feet in the dirt.
+
+**That's The Low Road.**
+
+---
+
+## Perfect Body, Bowing Mind
+
+The Sāgaramati Sūtra²⁴ adds:
+
+> *"He's purified in body.*
+> *His limbs adorned with the marks,*
+> *his hands and feet soft and tender,*
+> *his body well-divided by the flow of merit,*
+> *his faculties unimpaired,*
+> *all his limbs and parts complete.*
+>
+> *Yet he's not intoxicated by form.*
+> *He's not devoted to adorning the body.*
+>
+> *Even to beings who are lowly,*
+> *to beings deformed in appearance—*
+> *he bows down, he prostrates,*
+> *taking them up for Dharma-receptivity."*
+
+Then it says again:
+
+> *"Just as the great ocean settles*
+> *in a low place of earth—*
+> *because of its lowness,*
+> *all rivers and all streams*
+> *flow into it with little difficulty.*
+>
+> *Just so, Blessed One:*
+> *For the non-prideful bodhisattva*
+> *who has reverence and respect for teachers—*
+> *with little difficulty,*
+> *those profound Dharma-joys*
+> *come to the ear-faculty.*
+> *They abide in memory.*
+>
+> *Therefore, Blessed One:*
+> *Whatever bodhisattva is exalted by pride,*
+> *stiffened by pride,*
+> *who doesn't bow down to the venerable,*
+> *who doesn't prostrate—*
+>
+> *You should know, Blessed One:*
+> *'This bodhisattva is pierced by Māra's hook.'"*
+
+Pride stiffens you.
+Humility makes you low.
+And low is where the water flows.
+Low is where the Dharma comes.
+
+---
+
+## Disrespect, Not Bowing, Conceit
+
+The Lokottaraparivarta Sūtra²⁵ teaches:
+
+> *"These ten, O sons of the Jina,*
+> *are the Māra-works of bodhisattvas.*
+>
+> *What ten?*
+
+**1. Lack of reverence**
+toward teachers, venerable ones, ācāryas, mother, father, śramaṇas, brāhmaṇas,
+those rightly gone, rightly practicing.
+—Māra-work.
+
+**2. Not bowing down** to Dharma-preachers
+who have attained distinguished Dharma,
+who preach vast Dharma,
+who have mounted the Mahāyāna,
+who know the path-method to nirvāṇa,
+who have obtained dhāraṇī and sūtra-sovereignty.
+
+Being arrogant and stiff.
+Not generating reverence, service, honor toward the Dharma-preacher.
+
+While listening to Dharma, while sitting in conversation—
+when a surge of vast Dharma arises from the Dharma-preacher—
+not giving applause: "May no one praise him."
+—Māra-work.
+
+**3. Generating conceit,**
+grasping oneself, not grasping others.
+Not descending to self-knowledge.
+Not generating mental application.
+—Māra-work.
+
+**4. Generating pride,**
+not knowing, not understanding—
+concealing the praise of praiseworthy persons.
+Speaking their dispraise.
+Not delighted by others' excellence-praise.
+—Māra-work.
+
+**5. Knowing**
+"This is Dharma, this is Vinaya, this is the Buddha's word"—
+yet making Dharma-hatred because of person-hatred.
+Rejecting the True Dharma.
+Causing others to quarrel.
+—Māra-work.
+
+**6. Seeking high status.**
+Not rising for elders, long-practiced in the holy life.
+Not going forth to meet them.
+—Māra-work.
+
+**7. Being frown-faced,** not smile-faced.
+Not gentle-harsh-kind-worded.
+Always hard-minded, fault-seeking, flaw-watching.
+—Māra-work.
+
+**8. Having fallen into conceit,**
+not approaching the wise.
+Not serving them, not attending them, not waiting on them.
+Not asking, not inquiring:
+
+*"What is wholesome? What is unwholesome?
+What should be done? What, done, will be for long-term welfare, benefit, happiness?
+What, not done, will be for long-term non-welfare, non-benefit, suffering?"*
+
+Being dull. Becoming duller.
+Covered by delusion, grasped by pride.
+Seeing no escape.
+—Māra-work.
+
+**9. Overpowered by pride,**
+disgusted with Buddha-arising.
+Exhausting former wholesome roots.
+Not raising new ones.
+Teaching what should not be taught.
+Initiating quarrels, abounding in disputes.
+
+One dwelling in dharma this way—
+it's possible he'll fall down the great precipice of wrong (views).
+
+Or, by the power of his bodhicitta-strength,
+by a marvel-favor,
+he regains it.
+
+But for **a hundred thousand kalpas**
+he won't meet Buddha-arising.
+How much less hear Dharma?
+
+**This is the tenth Māra-work.**
+
+> *These, O sons of the Jina,*
+> *are the ten Māra-works.*
+>
+> *Having abandoned these,*
+> *bodhisattvas obtain ten knowledge-works.*
+>
+> *And here, in these knowledge-works,*
+> *they mature:*
+>
+> ***Non-pride toward all beings.***"
+
+There it is. The antidote.
+**Non-pride toward all beings.**
+Going down. Staying low.
+
+---
+
+## The Price of Pride
+
+The Rāṣṭrapāla Sūtra²⁶ sings the blues:
+
+> *"Going to the destinationless realms,*
+> *to untimely places,*
+> *to poverty,*
+> *to low-family birth,*
+> *to birth-blindness, weakness, short-lifespan—*
+> *they grasp these,*
+> *the deluded ones,*
+> *by the power of pride."*
+
+That's what pride gets you.
+Poverty. Blindness. Low birth. Death.
+
+---
+
+## Beings = Buddha-Field
+
+The Dharmasaṃgīti Sūtra²⁷ says:
+
+> *"The being-field*
+> *is the bodhisattva's buddha-field.*
+>
+> *Because from the buddha-field*
+> *comes the acquisition of Buddha-dharmas.*
+>
+> *I'm not fit to err regarding it.*
+>
+> *He thinks this way:*
+> *'All good conduct and bad conduct*
+> *proceed depending on beings.*
+> *From bad conduct: bad destinies.*
+> *From good conduct: gods and humans.'"*
+
+So the Ratnolkā Dhāraṇī²⁸ teaches:
+
+> *"Here, O sons of the Jina,*
+> *the bodhisattva who has generated*
+> *the first thought (of awakening)—*
+> *from the very beginning,*
+> *toward all beings,*
+> *generates mind in ten ways.*
+>
+> *What ten?*
+
+1. Welfare-mind
+2. Happiness-mind
+3. Nurse-mind (*dāyā* — wet-nurse, caretaker)
+4. Affectionate-mind (*snigdha* — tender, loving)
+5. Dear-mind (*priya* — beloved)
+6. Assistance-mind (*anugraha* — favor, help)
+7. Protection-mind (*ārakṣā*)
+8. Equal-mind (*sama* — equality)
+9. Ācārya-mind (teacher-mind)
+10. Śāstṛ-mind (master-mind)
+
+> *"He generates mind in these ten ways."*
+
+That's how you look at beings.
+Parent. Child. Nurse. Teacher. Master.
+All of it. Everyone.
+
+---
+
+## Student of All Beings
+
+The Śraddhābalādhānāvatāramudrā Sūtra²⁹ says:
+
+> *"I'm established*
+> *in being a student of all beings.*
+>
+> *And I shall establish others*
+> *in being students of all beings.*
+>
+> *I'll receive assurance of that.*
+>
+> *(Many details...)*
+>
+> *I'm established*
+> *in bowing and prostrating to all beings."*
+
+And likewise before.
+
+So right there, in bowing-prostrating to all beings:
+**Non-pride toward all beings.**
+
+The Vimalakīrtinirdeśa³⁰ says:
+
+For the arising of a purified buddha-field,
+teacher-love toward all beings is taught.
+
+For the sake of pleasing the world, guarding the world,
+even if you're doing the work of sweeping seats, washing feet—
+toward women, toward those in untimely states, toward the fallen—
+the bodhisattva should cultivate love-regard, reverence-practice.
+
+---
+
+## The King Who Loved Beggars
+
+The Gaṇḍavyūha³¹ tells the story:
+
+> When he sat on that great lion-throne,
+> all that crowd of people
+> became facing him, with joined palms,
+> honoring that king.
+>
+> *(Many details...)*
+>
+> But King Sarvadharmanirnādacchatramaṇḍalanirghoṣa—
+> seeing those beggars,
+> he was more delighted
+> than by seeing himself as king,
+> than by obtaining three-thousand-world wheel-turning sovereignty,
+> than by immeasurable kalpa-duration,
+> than by the peaceful liberation-gates of the Pure Abode gods,
+> than by endless kalpa-ending.
+>
+> It's like a man of singular thirst-wandering nature—
+> separated for a long time
+> from mother, father, brothers, sisters,
+> friends, relatives, kin, sons, daughters, wife—
+> lost in a wilderness, in a desert—
+> desiring to see them.
+>
+> At their seeing, their attention,
+> great joy, elation would arise,
+> insatiability at their seeing.
+>
+> Just so, son of the family:
+> For King Sarvadharmanirnādacchatramaṇḍalanirghoṣa,
+> at the seeing-together of those beggars,
+> great surges of joy were born.
+> Mind-satisfaction-happiness entered.
+> Great surges of mind-exaltation arose.
+>
+> So that toward all those beggars,
+> perception arose:
+>
+> - *Only-son perception*
+> - *Mother-father perception*
+> - *Venerable perception*
+> - *Good friend perception*
+> - *Excellence perception*
+> - *Rare perception*
+> - *Difficult-to-do-doer perception*
+> - *Great-doer perception*
+> - *Supreme benefactor perception*
+> - *Bodhi-path support perception*
+> - *Ācārya-śāstṛ perception*
+
+You see that? The king loved the beggars
+more than his own kingdom.
+
+Because *they* were his field.
+*They* were his teachers.
+*They* were the way to awakening.
+
+---
+
+## Serve Like a Slave Serves a King
+
+So when going to beings in another state,
+when going forward, attending, etc.,
+remember the total offering:
+
+> *"This body of mine belongs to THEM.*
+> *Let them do as they wish with it—*
+> *like earth for sweeping, plastering, etc.,*
+> *for their own happiness."*
+
+Or think like a slave afraid of displeasing the master,
+seeking the master's favor,
+intent on fulfilling the master's command.
+
+Even the Blessed One accepted attendance.
+When a sick monk had no other recourse,
+the Buddha himself attended him.
+
+As taught in the Bhikṣuprakīrṇaka:³²
+
+> The Blessed One said:
+> *"Don't be afraid, monk. Don't be afraid, monk.*
+> *I'll attend you, monk.*
+> *Bring your robes, monk, so I can wash them."*
+>
+> When this was said,
+> Venerable Ānanda said to the Blessed One:
+>
+> *"Don't let the Blessed One wash*
+> *this sick one's impure, soiled robes.*
+> *I'll wash them, Blessed One."*
+>
+> The Blessed One said:
+> *"Then, Ānanda, you wash this monk's robes.*
+> *The Tathāgata will pour the water."*
+>
+> Then Venerable Ānanda washed that sick monk's robes.
+> The Blessed One poured the water.
+>
+> *(Many details...)*
+>
+> Then Venerable Ānanda,
+> having well and properly taken up that sick monk,
+> having brought him outside, bathed him.
+> The Blessed One poured the water.
+
+The Buddha poured the water for a sick monk.
+That's The Low Road.
+
+---
+
+## Those by Whom You Attain Everything
+
+And he says:³³
+
+> *"Those whom, having pleased,*
+> *one attains greatness;*
+> *having opposed,*
+> *one attains terrible ruin—*
+>
+> *Is it not right to satisfy them*
+> *even by abandoning life?"*
+
+> *"These are those beings*
+> *by pleasing whom*
+> *many have attained success.*
+>
+> *There is no field of success*
+> *other than beings in the world."*
+
+> *"These are wish-fulfilling jewels,*
+> *good vessels,*
+> *and wish-granting cows.*
+>
+> *Like a teacher, like a deity—*
+> *therefore they are to be pleased."*
+
+> *"And what of my unending deceitless friends,*
+> *my immeasurable benefactors?*
+>
+> *Having abandoned the pleasing of beings,*
+> *what greater repayment could there be?"*
+
+> *"They are to be carried on the head,*
+> *as I wish, by the Protector.*
+>
+> *The Protector, having dwelt in the hair-matts,*
+> *carried beings with effort, unshakeable."*
+
+> *"They are to be broken into in body,*
+> *entered into Avīci.*
+> *For their sake, if that's done, it's done.*
+>
+> *Even toward great harmers,*
+> *by that, all excellence alone*
+> *should be performed toward these."*
+
+> *"My very masters, after all—*
+> *for whose sake I'm indifferent even to myself—*
+>
+> *How can I make pride toward those masters,*
+> *not servant-nature?"*
+
+> *"Those in whose happiness*
+> *the sage-lords go to joy,*
+> *those in whose suffering*
+> *they enter anger—*
+>
+> *From satisfying them,*
+> *satisfaction of all sage-lords;*
+> *in harm to them,*
+> *harm done to the sages."*
+
+> *"Just as one whose body*
+> *is entirely on fire—*
+> *there's no well-being from all pleasures—*
+>
+> *So too when beings are suffering,*
+> *there's no means of joy*
+> *for the greatly compassionate."*
+
+> *"And I was doing harm*
+> *to the great-hearted ones*
+> *by the suffering of beings.*
+>
+> *I confess that evil today.*
+> *May the sages, who were wearied,*
+> *forgive me."*
+
+> *"And for the sake of pleasing the Tathāgatas,*
+> *I undertake servitude to the world*
+> *with my entire being.*
+>
+> *Let crowds of people*
+> *place their feet on my head,*
+> *or let them strike—*
+> *may the World-Protector be pleased."*
+
+> *"All this world*
+> *has been made their own*
+> *by those compassionate ones—*
+> *there's no doubt about this.*
+>
+> *These very ones are seen*
+> *in the forms of beings, aren't they?*
+> *They themselves are the Protectors—*
+> *why disrespect here?"*
+
+> *"This very thing*
+> *is pleasing of the Tathāgatas;*
+> *this very thing*
+> *is accomplishing one's own aim;*
+> *this very thing*
+> *removes the suffering of the world—*
+>
+> *Therefore, may this be my vow."*
+
+> *"Just as one king's man*
+> *oppresses a great crowd,*
+> *the great crowd cannot act, cannot overcome—*
+> *the long-sighted one."*
+
+> *"Because he's not alone—*
+> *the king's power is his power.*
+>
+> *So too, don't disparage*
+> *any weak one who has done wrong."*
+
+> *"Because the hell-guardians*
+> *and the compassionate ones*
+> *are his power.*
+>
+> *Therefore, please beings*
+> *like a servant pleases a cruel king."*
+
+> *"What could an angry king do*
+> *by which there would be hell-suffering?*
+> *What is experienced*
+> *by beings' displeasure, done."*
+
+> *"What could a pleased king give*
+> *that would equal Buddhahood?*
+> *What is experienced*
+> *by beings' pleasure, done."*
+
+> *"Leave aside future Buddhahood*
+> *arisen from pleasing beings—*
+>
+> *Don't you see right here:*
+> *Good fortune, fame, well-being?"*
+
+> *"Handsomeness, health,*
+> *joy, long life—*
+> *the patient one obtains*
+> *the abundant happiness of a wheel-turner,*
+> *even while transmigrating."*
+
+---
+
+## Loving-Kindness Is Greater Than All Offerings
+
+And from that, the Candrapradīpa Sūtra³⁴ illuminates
+the fruit of the loving mind:
+
+> *"Whatever immeasurable worships*
+> *in hundreds of fields,*
+> *in niyutas and koṭis (billions)—*
+>
+> *Having made that worship*
+> *of incomparable Leaders—*
+>
+> *It doesn't reach even a fraction, a calculation*
+> *of the loving mind."*
+
+Loving-kindness toward beings
+is the greatness of beings.
+
+Merit from Buddha-favor
+is the greatness of Buddhas.
+
+You want to worship the Buddhas?
+Love beings.
+
+---
+
+## The Summary of Merit-Protection
+
+So, in this way,
+toward these great venerable ones,
+avoid exaltation always.
+
+And this exaltation arises from unwise attention.
+
+Effort must be made in its non-arising.
+
+As the Ratnamegha³⁵ says:
+
+> *"And how, son of the family,*
+> *is the bodhisattva free from unwise attention?*
+>
+> *Here, a bodhisattva,*
+> *alone, gone to seclusion, standing in solitude,*
+> *doesn't generate mind like this:*
+>
+> *'I dwell unmixed.*
+> *I'm established in solitude.*
+> *I've practiced in the Tathāgata's Dharma-Vinaya.*
+>
+> *'But those other śramaṇas and brāhmaṇas—*
+> *all of them dwell mixed,*
+> *abounding in association,*
+> *fallen away from the Tathāgata's Dharma-Vinaya.'*
+>
+> *Thus the bodhisattva is free from unwise attention."*
+
+Then it says again:
+
+> *"Here, a bodhisattva initiating vigor*
+> *doesn't taste that great vigor.*
+> *Doesn't exalt himself by that vigor.*
+> *Doesn't despise others.*
+>
+> *He thinks this way:*
+> *'What wise-natured person,*
+> *engaged in his own work,*
+> *would also urge others on?'*
+>
+> *Thus the bodhisattva is one of non-exalted vigor."*
+
+No exaltation. No pride. No high.
+Stay low. Always low.
+
+**That's The Low Road.**
+
+---
+
+## Merit Dedicated to Awakening Is Inexhaustible
+
+Now this is the summary of merit-protection:
+**Dedication to awakening** (*bodhipariṇāmanā*).
+
+As taught in the Akṣayamati Sūtra:³⁶
+
+> *"There's no intermediate exhaustion*
+> *of a wholesome root dedicated to awakening,*
+> *until sitting on the seat of enlightenment.*
+>
+> *Just as, Venerable Śāradvatīputra,*
+> *for a drop of water that's fallen into the great ocean—*
+> *there's no intermediate exhaustion*
+> *until the end of the kalpa."*
+
+Dedicate your merit to awakening.
+It becomes inexhaustible.
+Like a drop in the ocean,
+lasting until the kalpa ends.
+
+---
+
+*Thus ends the Seventh Chapter of the Compendium of Training:*
+***The Low Road***
+*(Bhogapuṇyarakṣā — Protection of Enjoyments and Merit)*
+
+---
+
+# Theological Notes
+
+### The Root Metaphor: "The Low Road"
+
+This chapter is about one thing: **going down**.
+
+- Going down in humility (like a corpse, an outcaste, a bowl-liver)
+- Going down to serve (student of all beings, feet on head)
+- Going down to protect (merit protected by not seeking honor)
+
+The "Low Road" is the path of descending to serve. It's the Blues tradition of "taking the low road home"—not the high road of pride, but the low road of humility. The lower you go, the more you receive. Like the ocean settling in the lowest place, all rivers flow into it.
+
+### The Chain: Fear → Greatness → Equality → Liberation
+
+The Vimalakīrti exchange gives the blueprint:
+1. You start scared of saṃsāra
+2. You reach for the Buddha's greatness
+3. You find equality with all beings
+4. You work for everyone's liberation
+
+That's The Low Road in four steps.
+
+### The Corpse-Outcaste-Bowl-Liver Triple
+
+The renunciant strikes down pride by seeing himself as:
+- **Corpse-like** (dead to friends and family)
+- **Outcaste-like** (lowest caste, caṇḍāla)
+- **Bowl-liver** (livelihood depends on others' bowls)
+
+This is radical self-lowering. Not false humility—real recognition of dependence.
+
+### Beings as Buddha-Field
+
+The chapter's central teaching: "The being-field is the bodhisattva's buddha-field."
+
+Beings aren't obstacles—they're the source of Buddha-dharmas. You don't attain awakening *despite* beings; you attain it *through* beings. There is no field of success other than beings in the world.
+
+The King Who Loved Beggars story illustrates this perfectly: The king was more delighted to see beggars than to have his kingdom. Why? Because they were his teachers, his field, his path to awakening.
+
+### The Ten Māra-Works
+
+This list is a self-examination for bodhisattvas:
+- Am I disrespectful to teachers? (Māra-work)
+- Do I not bow to Dharma-preachers? (Māra-work)
+- Am I conceited? (Māra-work)
+- Am I prideful? (Māra-work)
+- Do I hate Dharma because I hate a person? (Māra-work)
+- Do I seek high position? (Māra-work)
+- Am I frown-faced, not smile-faced? (Māra-work)
+- Do I not approach the wise? (Māra-work)
+- Am I overcome by pride? (Māra-work)
+- Do I exhaust old merit without raising new? (Māra-work)
+
+The antidote to all ten? **Non-pride toward all beings.**
+
+### Ill-Will Destroys Kalpas
+
+One of the most dramatic teachings: One flash of ill-will toward a fellow-practitioner destroys a hundred kalpas of accumulated merit.
+
+"Don't corrupt your mind even toward a burnt post—how much less toward a body possessing consciousness."
+
+Even a charred stump deserves respect. How much more a living being?
+
+### Feet on Your Head
+
+The Service Verses climax with this image:
+
+> "Let crowds of people place their feet on my head,
+> or let them strike—may the World-Protector be pleased."
+
+This is the ultimate expression of The Low Road. Not passive victimhood—active service. You offer your head for their feet *because* that pleases the Tathāgatas, accomplishes your own aim, and removes the world's suffering.
+
+### Dedication to Awakening
+
+The chapter's final teaching: Dedicate your merit to awakening, and it becomes inexhaustible—like a drop fallen into the great ocean, lasting until the end of the kalpa.
+
+This is the summary of all merit-protection. Not holding on. Not hoarding. Dedicating it all to awakening, for all beings.
+
+**That's The Low Road.**
+
+---
+
+## AUDIO CHAPTER 08
+--------------------------------------------------------------------------------
+
+# Chapter 8: The Laundry (Pāpaśodhana)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The eighth chapter of Śāntideva's Compendium of Training, on how to wash out the evil through the four dharmas: confession, antidote practice, restraint-power, and refuge-power. Includes the famous confession verses and teachings on bodhicitta as the supreme cleanser.*
+
+---
+
+# Getting Clean
+
+Listen now.
+
+You been guarding your body. Guarding your goods. Guarding your merit.¹
+Now we gotta talk about **washing the dirt out**.
+
+Why you gotta get clean?
+
+The Book says it straight:
+
+> **Of one whose person is purified, enjoyment will be wholesome,**
+> **like food for embodied beings, rightly prepared, free from husk.** (Kārikā 17)
+
+You clean yourself? Then what you got becomes medicine. What you give becomes food.
+But if you still got the dirt in you? Everything you touch gets contaminated.
+
+---
+
+## The Purified Body Feeds Beings
+
+The Tathāgataguhya Sūtra tells a story:²
+
+> "In great cities there are great charnel grounds, filled with hundreds of thousands of living beings. There the bodhisattva displays a great dead body. Those animals, having eaten their fill for a month, at the end of their lifespan, are reborn among the gods of the heavenly world. He becomes the cause for them up to nirvāṇa—by the complete purity of that bodhisattva's former aspiration."
+
+You hear that?
+
+**A purified body benefits beings even after death.**
+
+The bodhisattva made a prayer: "May those who eat my dead body for a month become happy. May they go all the way to nirvāṇa."
+
+The prayer worked. The aspiration came true.
+
+**Why? Because that bodhisattva's body was clean.**
+
+The Sūtra says more:
+
+> "He, empowered by the Dharma-body, does benefit for beings even by being seen. By being heard. By being touched.
+>
+> Just as the physician-king Jīvaka gathered all medicines and made a girl-form composed of medicine-trees—pleasing, beautiful, well-made. She comes, goes, stands, sits, lies down. Those who come—kings, ministers, merchants—the physician-king joins them with that medicine-girl. Having joined with her, all their diseases are calmed, and they become healthy, happy, without affliction.
+>
+> Just so, that bodhisattva empowered by the Dharma-body—whatever beings touch his body, women, men, boys, girls, afflicted by desire, hatred, and delusion—for them, having been touched, all afflictions are calmed, and they perceive the body as free from burning. By the complete purity of that very bodhisattva's former aspiration."
+
+You understand?
+
+**A clean body heals on contact.** Touch it, and the afflictions calm down.
+
+That's what purification does.
+
+---
+
+## The Danger of Staying Dirty
+
+If you don't purify, you can't grow. The Book says:
+
+> **Just as grain covered by grass withers by diseases and doesn't thrive,**
+> **so the Buddha-sprout, covered by afflictions, doesn't go to growth.** (Kārikā 18)
+
+The grain is there. The seed is there. But it's **covered**.
+Grass chokes it. Disease kills it.
+
+Same with the Buddha-seed in you.
+**Covered by afflictions, it can't grow.**
+
+You gotta clear the weeds. You gotta **wash the dirt out**.
+
+---
+
+## The Caturdharma Teaching
+
+How you clean out the evil? **Four ways.** Four tools. Four roads.
+
+The Caturdharma Sūtra lays it out:³
+
+> "By four dharmas, O Maitreya, a bodhisattva overcomes evil that has been done and accumulated. Which four?
+>
+> 1. **Condemnation-practice** (*vidūṣaṇā*)
+> 2. **Antidote-practice** (*pratipakṣa*)
+> 3. **Restraint-power** (*pratyāpatti*)
+> 4. **Refuge-power** (*āśraya*)
+>
+> With a strong support, you can't be overcome by evil."
+
+Let me break that down:
+
+### Tool #1: Feel the Shame (Condemnation)
+
+You gotta **condemn** what you done. Feel the weight of it. Feel remorse.
+Don't shrug it off. Don't excuse it.
+**Stand in the dirt and say, "This is dirt."**
+
+### Tool #2: Do the Opposite (Antidote)
+
+You done wrong? Now do right. **Intense.** Don't hold back.
+Evil karma? Counter it with wholesome karma.
+**Pour the good on top of the bad until the bad drowns.**
+
+### Tool #3: Make the Vow (Restraint-Power)
+
+Say it out loud: **"I won't do that again."**
+Undertake the restraint. Get the power of non-doing.
+**Lock the door you used to walk through.**
+
+### Tool #4: Run to the Refuge (Refuge-Power)
+
+Go to Buddha, Dharma, Saṅgha. Don't let go of bodhicitta.
+**Grab onto something stronger than your dirt.**
+
+> **"With a strong support, evil can't overcome you."**
+
+You got that? Four tools. Four ways to get clean.
+
+Now let's go through each one.
+
+---
+
+## Standing Before the Buddhas
+
+How you cultivate the shame? How you stand before the Boss and confess?
+
+The Suvarṇaprabhāsottama Sūtra gives you the words.⁴
+
+Listen to this confession. Every line hits:
+
+> *May the Buddhas attend to me, with minds of compassion and care.*
+> *May they accept my transgression, established in the ten directions.*
+>
+> *Whatever evil karma I've done before, most terrible—*
+> *all that I will confess, standing before those of ten powers.*
+>
+> *Not knowing parents, not knowing Buddhas,*
+> *not knowing the wholesome—whatever evil was done by me.*
+>
+> *Drunk with the intoxication of lordship, with the intoxication of family and enjoyments,*
+> *drunk with the intoxication of youth—whatever evil was done by me.*
+>
+> *By ill-thought, ill-spoken, and by ill-done action,*
+> *not seeing danger—whatever evil was done by me.*
+>
+> *By the conduct of a fool's understanding, with mind covered by ignorance,*
+> *by the power of evil companions, with mind disturbed by afflictions—*
+> *whatever evil was done by me.*
+>
+> *By the power of play and delight, by the power of sorrow and disease,*
+> *by the fault of unsatisfied wealth—whatever evil was done by me.*
+>
+> *By association with ignoble people, by the cause of envy and stinginess,*
+> *by the fault of guile and poverty—whatever evil was done by me.*
+>
+> *By the power of an unsteady mind, by the power of desire and anger,*
+> *even afflicted by hunger and thirst—whatever evil was done by me.*
+>
+> *For the sake of drink, for the sake of food, for the sake of clothes, for the cause of women,*
+> *by various affliction-torments—whatever evil was done by me.*
+>
+> *The evil of body, speech, and mind, the threefold misconduct accumulated—*
+> *whatever was done, all that I confess.*
+>
+> *Whatever disrespect toward Buddhas, Dharma, Śrāvakas,*
+> *Pratyekabuddhas, Bodhisattvas, Dharma-preachers—*
+> *all that I confess.*
+>
+> *If the True Dharma was rejected by me, always not knowing,*
+> *disrespect toward parents—all that I confess.*
+>
+> *By foolishness, by childishness, covered by pride and arrogance,*
+> *by desire, hatred, and delusion—all that I confess.*
+>
+> *May the Buddhas look upon me, with minds of attention.*
+> *May they accept my transgression, with minds offered to compassion.*
+>
+> *Whatever evil was done before by me, in hundreds of kalpas,*
+> *on account of that I'm sorrowful-minded, pitiful, tormented by fear.*
+>
+> *I fear the evil karma, constantly with a despairing mind.*
+> *Wherever I'll go, there's no power for me anywhere.*
+>
+> *All Buddhas are compassionate, all are removers of fear in the world.*
+> *May they accept my transgression and release me from fear.*
+>
+> *May the Tathāgatas wash away the fruit of affliction and karma for me.*
+> *May the Buddhas bathe me with the waters of the river of compassion.*
+>
+> *All evil I confess, whatever was done before by me.*
+> *Whatever evil is mine now—all that I confess.*
+>
+> *For the future, I undertake restraint from all evil actions.*
+> *I don't hide that evil, whatever misconduct may have been mine.*
+>
+> *The threefold bodily karma, and the fourfold of speech,*
+> *by three kinds from mind—all that I confess.*
+>
+> *Done by body, done by speech, and thought by mind,*
+> *the tenfold karma done—all that I confess.*
+
+---
+
+## You Hear That?
+
+Every kind of evil. Every cause. Every excuse.
+
+Drunk on power. Drunk on youth. Drunk on money.
+Evil friends. Weak mind. Hunger. Lust. Anger.
+Poverty. Pride. Ignorance. Delusion.
+
+**All of it confessed. Nothing hidden. Nothing covered up.**
+
+You stand before the Buddhas—the ten directions, the ten powers—
+and you **lay it all out**.
+
+Not knowing better? Confess it.
+Knowing better but doing it anyway? Confess it.
+Body misconduct? Confess it.
+Speech misconduct? Confess it.
+Mind misconduct? Confess it.
+
+**Everything. Comprehensive. Nothing held back.**
+
+And the prayer at the end:
+
+> *May the Tathāgatas wash away the fruit of affliction and karma for me.*
+> *May the Buddhas bathe me with the waters of the river of compassion.*
+
+**That's the Laundry. That's getting clean.**
+
+---
+
+## The Heavy Offense and the Light Offense
+
+Now the Upāliparipṛcchā drops something radical.⁵ Listen close:
+
+> "If a bodhisattva set out in the Mahāyāna should incur offenses connected with **desire** equal to the sands of the Ganges, and should incur a single offense connected with **hatred**—this latter is a heavier offense.
+>
+> Why? **Hatred conduces to the abandonment of beings.** Desire conduces to the gathering of beings.
+>
+> With regard to the affliction that gathers beings—there the bodhisattva has no deception, no fear...
+>
+> Therefore, whatever offenses are connected with desire—all those I call non-offenses."
+
+You hear that?
+
+A thousand offenses tied to desire.
+One offense tied to hatred.
+
+**The one hatred-offense is heavier than all the desire-offenses combined.**
+
+Why?
+
+**Hatred abandons beings. Desire gathers beings.**
+
+You break the vow out of lust? You still holding onto beings.
+You break the vow out of hate? You **letting them go**. You abandoning them.
+
+For a bodhisattva, **abandonment is the cardinal sin.**
+
+So the teaching says:
+
+> "Whatever offenses are connected with desire—all those I call **non-offenses**."
+
+You understand? The rules change for the bodhisattva. Different game.
+
+---
+
+## Who's Skillful in Means?
+
+The Sūtra continues:
+
+> "Bodhisattvas who are unskillful in means fear offenses connected with desire. But bodhisattvas who are **skillful in means** fear offenses connected with hatred, not those connected with desire."
+
+Who's skillful in means?
+
+**Those restrained from abandoning beings by wisdom AND compassion together.**⁶
+
+Not just wisdom cutting beings loose because "they're empty anyway."
+Not just compassion drowning in afflictions because "I gotta save them all."
+
+**Wisdom and compassion holding you steady.** Both. Together.
+
+That's skillful means.
+
+The unskillful bodhisattva fears desire-offenses.
+The **skillful** bodhisattva fears **hatred-offenses**.
+
+Because **hatred abandons beings**. And that's the one thing a bodhisattva can't do.
+
+---
+
+## The Jyotirmāṇavaka Story
+
+The Upāyakauśalya Sūtra tells of Jyotirmāṇavaka, who practiced celibacy for forty-two thousand years:⁷
+
+A woman is desperate, on the verge of suicide. She wants him.
+
+He walks away. Seven steps.
+
+Then compassion arises:
+
+> "Even if I, having broken this vow, would be destined for hell—still I'm able to experience hellish suffering. And may this woman be happy. May she not make an end of herself."
+
+So Jyotirmāṇavaka turns back. Takes the woman by the right hand. Says:
+
+> "Rise, O beautiful one. I'll do whatever you wish."
+
+The Buddha comments:
+
+> "And I, by a great-compassion-mind-arising, though urgent, connected with desire, turned back for ten thousand kalpas.
+>
+> See: **what for others is karma conducing to hell, for the bodhisattva skillful in means is karma conducing to rising in a Brahma-world.**"
+
+You hear what I'm saying?
+
+Breaking the vow out of compassion **doesn't lead to hell**—it leads to **Brahma-world**.
+
+**Because the motive was gathering beings, not abandoning beings.**
+
+That's the difference.
+
+---
+
+## The Teaching Summarized
+
+Later in the same Sūtra:
+
+> "If a bodhisattva, for the sake of a single being's wholesome root, should incur an offense by which he'd burn in hell for a hundred thousand kalpas—**he should undergo that offense. He should undergo that hellish suffering. He should not abandon that single being's wholesome root.**"
+
+You understand?
+
+**Don't abandon beings.** Even if it means hell.
+
+That's the bodhisattva vow. That's the line you don't cross.
+
+Desire-offenses? They gather beings.
+Hatred-offenses? They abandon beings.
+
+**Fear the abandonment. Don't fear the desire.**
+
+---
+
+## The Advantage of Desire
+
+The Upāyakauśalya Sūtra says more about the bodhisattva Priyaṃkara:
+
+A woman is obsessed with him. Can't stop thinking about him.
+
+The Buddha says:
+
+> *Whoever woman should look at Priyaṃkara again and again with an attached mind,*
+> *she, having abandoned the female state, becomes a man of noble character.*
+
+And then:
+
+> *See, O Ānanda, such qualities—by which other beings go to hell,*
+> *by that very thing, having produced desire in the heroes, they go to heaven and obtain manhood itself.*
+>
+> *Who would produce hatred toward the bodhisattvas, great in fame, Medicine Kings,*
+> *whose even affliction is a giver of happiness? What then of one who would honor them?*
+
+You hear that?
+
+**Even affliction, if it gathers beings toward the bodhisattva, gives happiness.**
+
+What leads others to hell, in the bodhisattva's case **leads to heaven**.
+
+---
+
+## The Real Sin: Hatred
+
+So the Upāliparipṛcchā concludes:
+
+> "Therefore, hatred should not be given an opening. For bodhisattvas, O Śāriputra, there are two great-offense transgressions: **hatred-accompanied** and **delusion-accompanied**.
+>
+> Hatred-offense should be confessed in the presence of ten, as a heavy offense. Even a single angry thought toward one or two persons—that's heavy."
+
+Five immediate-retribution offenses? Confess them.
+Hatred toward a single being? **Confess that too. Heavy.**
+
+Why?
+
+**Because hatred abandons beings. And abandonment is the cardinal sin.**
+
+---
+
+## Profound Sūtras Exhaust Evil
+
+By familiarity with profound sūtras, evil is exhausted. The Vajracchedikā says:⁸
+
+> "Whatever sons or daughters of good family will take up these sūtras—they'll be despised, greatly despised. Why? Whatever karma of those beings done in former births, conducing to bad destinies—by that state of being despised, in this very life they'll exhaust it, and will attain Buddha-awakening."
+
+You study the deep teaching? People gonna despise you.
+
+But that despising **exhausts your evil karma**.
+
+What would have sent you to bad destinies—**burned out in this life by being despised**.
+
+**That's the antidote. That's the medicine.**
+
+Study the Dharma intensely, and the karma burns off.
+
+---
+
+## Emptiness Purifies Everything
+
+By intent on emptiness, too, purification of evil occurs. The Tathāgatakoṣa Sūtra:⁹
+
+Listen to this list. This is the **ten extreme evils**:
+
+> "Even if a single being were endowed with:
+>
+> - Killing a Pratyekabuddha father
+> - Stealing Three Jewels property
+> - Sexual misconduct with an arhat mother
+> - Slandering the Tathāgata
+> - Disparaging the Saṅgha
+> - Reviling Noble Ones
+> - Distracting Dharma-seekers
+> - Dragging others into immediate-retribution crimes
+> - Coveting the gains of the rightly-going
+> - Holding the entangled-view
+>
+> **If he should enter the Tathāgata's Dharma-teaching:**
+>
+> > 'There's no self here, no being, no person who acts or experiences. Uncreated, uncompounded, dream-nature, naturally luminous, originally pure'—
+>
+> **I don't say that being goes to bad destinies.**"
+
+You hear what I'm saying?
+
+The worst evil. Father-killing. Mother-defiling. Buddha-slandering. Sangha-disparaging.
+**All ten extreme evils.**
+
+But if that person **enters the emptiness-teaching**—hears the truth about no-self, no agent, dream-nature, original purity—
+
+**He doesn't go to bad destinies.**
+
+**The truth sets you free.** Emptiness purifies what seems impossible to purify.
+
+---
+
+## Mantras and Dhāraṇīs
+
+The Trisamayarāja teaches:¹⁰
+
+> "Closing the eyes, with mind focused on Buddhas and Bodhisattvas, recite the hundred-syllable mantra eight thousand times. With eyes closed, you see Buddhas and Bodhisattvas; you become free from evil."
+
+Recite the mantra. See the Buddhas. Evil gone.
+
+---
+
+## Dream-Signs of Purification
+
+The Cundā Dhāraṇī teaches you'll know evil is exhausted when you see signs in dreams:¹¹
+
+Listen to what purification looks like when you're sleeping:
+
+- Weeping, shelter, eating yogurt or milk
+- Vomiting
+- Seeing sun and moon
+- Traveling through space
+- Defeating blazing fire, black buffalo, black man
+- Seeing monks and nuns
+- Ascending a milk-tree, mountain, lion-throne, palace, or ship
+- Hearing the Dharma
+
+When you see these dream-signs, **evil is exhausted**.
+
+The dirt is out. The stain is gone.
+
+---
+
+## The Medicine Buddha's Power
+
+The Bhaiṣajyaguru Sūtra:¹²
+
+> "Those who hold the five training-precepts, the ten, the bodhisattva-vow of four hundred, the monks' two hundred fifty, the nuns' five hundred—and those who've fallen from some precept—if those, afraid of bad-destiny fear, should hold the name of that Blessed One, the **Tathāgata Bhaiṣajyaguru Vaidūryaprabharāja**, and should worship according to their capacity—**no going to bad destinies is to be expected for them ever again.**"
+
+You broke a precept? You afraid you going to hell?
+
+Hold the Medicine Buddha's name. Worship him.
+
+**No bad destinies. Ever again.**
+
+That's his power. That's his vow.
+
+---
+
+## The Wheel That Crushes
+
+The Kṣitigarbha Sūtra teaches the ten wholesome karma-paths:¹³
+
+> "A bodhisattva, having refrained from taking life, gives fearlessness to all beings. By that root of virtue, whatever karma-obstruction, affliction-obstruction, dharma-obstruction was done by taking life—all that he crushes by the wheel of refraining."
+
+You hear how it works?
+
+You quit killing? You **crush** the killing-obstruction.
+You quit stealing? You **crush** the stealing-obstruction.
+You quit lying? You **crush** the lying-obstruction.
+
+**Each wholesome path is a wheel. And that wheel runs over the evil you done.**
+
+Ten wholesome paths. Ten wheels. Each one crushing its opposite.
+
+**That's restraint-power. That's the vow holding you up.**
+
+---
+
+## Run to the Boss
+
+The Pig-Story is cited:¹⁴
+
+> *Those who go to the Buddha for refuge don't go to bad destinies.*
+> *Having abandoned human bodies, they obtain divine bodies.*
+
+You run to Buddha, Dharma, Saṅgha for refuge?
+
+**You got support. You got power. Evil can't touch you.**
+
+Go to the Triple Gem. Don't let go of bodhicitta.
+
+That's **āśraya-bala**—support-power.
+
+**Grab onto something stronger than your dirt.**
+
+---
+
+## The Maitreyavimokṣa Teaching
+
+The Maitreyavimokṣa teaches: **Bodhicitta is the supreme purifier.**¹⁵
+
+Listen to what bodhicitta does:
+
+### Bodhicitta Is Fire
+
+> "Like a kalpa-end fire, by burning all misconduct.
+> Like the netherworld, by consuming all unwholesome dharmas."
+
+**It burns. It consumes. Nothing survives that fire.**
+
+---
+
+### Bodhicitta Is Gold
+
+The Book says there's a gold-substance called **Hāṭakaprabhāsa**:
+
+> "One pala of it makes a thousand iron palas into gold, and that pala can't be consumed by those thousand iron palas, can't be made into iron."
+
+Just so:
+
+> "A single **omniscience-mind-arising substance**, held by the knowledge of dedicating roots of virtue, consuming all karma-and-affliction-obstruction-iron, makes all dharmas into the color of omniscience. And the omniscience-mind-arising substance can't be afflicted or consumed by all karma-affliction-iron."
+
+You hear that?
+
+**Bodhicitta turns iron into gold.**
+
+A little bit of gold transforms a thousand pounds of iron.
+And the gold don't get corrupted by the iron.
+
+**The gold changes the iron. The iron can't change the gold.**
+
+That's bodhicitta-power.
+
+---
+
+### Bodhicitta Is a Lamp
+
+> "Just as a single lamp, in whatever house or cave it's brought, even darkness accumulated for a thousand years it dispels, and makes light—
+>
+> Just so, a single **omniscience-mind-arising-lamp**, in whatever being's thicket of ignorance-darkness it's brought—it dispels even karma-affliction-obstruction-darkness accumulated for ineffable hundred thousand kalpas, and makes the light of knowledge."
+
+**A thousand years of darkness.**
+
+One lamp walks in.
+
+**The darkness is gone.**
+
+Not gradually. Not slowly.
+
+**Instantly. The lamp dispels a thousand years' darkness in one moment.**
+
+That's bodhicitta. That's the Waking-Up Heart.
+
+---
+
+### Bodhicitta Is a Jewel-Crown
+
+> "Just as for great nāga-kings crowned with the wish-fulfilling-jewel-king-diadem, there's no fear of attack from others—
+>
+> Just so, for bodhisattvas crowned with the **bodhicitta-great-compassion-wish-fulfilling-jewel-king-diadem**, there's no fear of attack from bad destinies."
+
+You wear the jewel-crown?
+
+**Nothing can touch you. No attack. No fear.**
+
+Hell can't reach you. Bad destinies can't reach you.
+
+**The jewel-crown protects from everything.**
+
+---
+
+## The Teaching Summarized
+
+You understand now?
+
+Bodhicitta is **fire**—burns all misconduct.
+Bodhicitta is **gold**—transforms all iron into gold.
+Bodhicitta is a **lamp**—dispels a thousand years' darkness.
+Bodhicitta is a **jewel-crown**—protects from all attack.
+
+**That's the supreme purifier. That's the cleanser that cleans everything.**
+
+---
+
+## The Bodhisattva's Boundless Morality
+
+The Upāliparipṛcchā adds:¹⁶
+
+> "If a bodhisattva set out in the Mahāyāna—if he should incur an offense in the morning, and in the midday should dwell **not separated from the omniscience-mind**—the bodhisattva's morality-aggregate is boundless.
+>
+> If he should incur an offense in the midday, and in the evening should be not separated from the omniscience-mind—the bodhisattva's morality-aggregate is boundless.
+>
+> Thus the procedure for each watch.
+>
+> The bodhisattva shouldn't generate excessive remorse, shouldn't be excessively regretful.
+>
+> But if a Śrāvaka-vehicle person should incur offense again and again—the morality-aggregate of that Śrāvaka person is destroyed."
+
+You hear the difference?
+
+**Bodhisattva:**
+- Falls in the morning
+- Gets up in the midday, holds bodhicitta
+- **Morality is boundless**
+
+**Śrāvaka:**
+- Falls again and again
+- **Morality is destroyed**
+
+What's the difference?
+
+**Bodhicitta.**
+
+The bodhisattva holds the Waking-Up Heart. Doesn't let go of omniscience-mind.
+Falls? Gets back up. Holds bodhicitta.
+**Morality remains boundless.**
+
+The Śrāvaka? No bodhicitta. Falls? Stays down.
+**Morality destroyed.**
+
+---
+
+## Don't Generate Excessive Remorse
+
+The teaching says:
+
+> "The bodhisattva shouldn't generate excessive remorse, shouldn't be excessively regretful."
+
+You fell? Confess it. Get back up. Hold bodhicitta.
+
+Don't drown in the shame. Don't wallow in the guilt.
+
+**Confession, yes. Despair, no.**
+
+Get clean. Hold the Waking-Up Heart. Keep moving.
+
+**That's boundless morality. That's the power of bodhicitta.**
+
+---
+
+*Thus ends the Eighth Chapter: The Laundry.*
+
+---
+
+## Theological Notes
+
+### The Four Dharmas Structure
+
+This chapter's framework is the **four dharmas** from the Caturdharma Sūtra:
+
+1. **Condemnation** (*vidūṣaṇā*): Feel remorse, stand in the dirt and call it dirt
+2. **Antidote** (*pratipakṣa*): Do wholesome karma intensely—profound sūtras, emptiness, mantras
+3. **Restraint** (*pratyāpatti*): Undertake the vow of non-doing—ten wholesome paths as wheels crushing obstructions
+4. **Refuge** (*āśraya*): Buddha, Dharma, Saṅgha, bodhicitta as strong support
+
+These four together overcome any evil. The chapter follows this structure precisely.
+
+---
+
+### Hatred vs. Desire: The Radical Teaching
+
+The Upāli teaching is radical in Buddhist ethics: **desire-offenses are lighter than hatred-offenses**.
+
+Why? The bodhisattva's mission is **gathering beings, not abandoning them**.
+
+- Desire gathers beings (even if afflicted)
+- Hatred abandons beings (the cardinal sin)
+
+Therefore:
+- Skillful bodhisattvas fear hatred-offenses, not desire-offenses
+- Breaking vows out of compassion (Jyotirmāṇavaka story) leads to Brahma-world, not hell
+- The motive determines the destination
+
+This teaching is grounded in **wisdom AND compassion together**—not just wisdom cutting beings loose ("they're empty anyway") or just compassion drowning in afflictions.
+
+---
+
+### Emptiness Purifies the Unpurifiable
+
+The Tathāgatakoṣa teaching: even the **ten extreme evils** are purified by entering the emptiness-teaching.
+
+This is one of the most dramatic claims in the text: father-killing, mother-defiling, Buddha-slandering—**all purified by no-self understanding**.
+
+The mechanism: understanding uncreated, uncompounded, dream-nature, natural luminosity, original purity.
+
+**The truth sets you free.** Not by magic, but by seeing through the agent who did the deed.
+
+---
+
+### Bodhicitta as Supreme Purifier
+
+The Maitreyavimokṣa teaching places bodhicitta above all other purifiers. Four metaphors:
+
+1. **Fire**: Burns all misconduct, consumes all unwholesome dharmas
+2. **Gold** (Hāṭakaprabhāsa): One pala transforms thousand iron palas; iron can't corrupt the gold
+3. **Lamp**: Dispels thousand years' darkness instantly
+4. **Jewel-Crown**: Protects from all attack, all bad destinies
+
+The key teaching: **If you hold bodhicitta, even offenses don't destroy your morality—it remains boundless.**
+
+Bodhisattva: Falls → Holds bodhicitta → Morality boundless
+Śrāvaka: Falls repeatedly → No bodhicitta → Morality destroyed
+
+The difference is the Waking-Up Heart.
+
+---
+
+### The Laundry Metaphor
+
+This chapter's root metaphor: **The Laundry**—washing out stains, getting clean, scrubbing the dirt.
+
+Four tools for cleaning:
+1. Confession—standing in the dirt and naming it
+2. Antidote—pouring good on top of bad until bad drowns
+3. Restraint—locking the door you used to walk through
+4. Refuge—grabbing onto something stronger than your dirt
+
+And the supreme cleanser: **bodhicitta**—fire, gold, lamp, jewel-crown.
+
+The purified body becomes medicine that heals on contact.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 09
+--------------------------------------------------------------------------------
+
+# Chapter 9: The Perfection of Patience (Kṣāntipāramitā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The ninth chapter of Śāntideva's Compendium of Training, on the Perfection of Patience. Contains the famous Sarvadharmasukhākrānta samādhi teaching—how the bodhisattva attains a concentration where all dharmas are pervaded by happiness, feeling pleasure even under torture.*
+
+---
+
+## From Patience to Purification
+
+Protecting against immorality, removing karma-obstruction, you strive for purification of afflictions.¹ That's what we've covered. Now the sequence:
+
+> **One should be patient.**
+> **One should approach learning.**
+> **Therefore one should resort to the forest.**
+> **One should apply oneself to concentration.**
+> **One should cultivate the foul and the rest.** (Kārikā 20)
+
+That's the path in five steps:
+1. **Patience**—without it, your vigor for learning gets obstructed
+2. **Learning**—without it, you don't know the method of concentration
+3. **Forest**—concentration is hard for one whose conduct is mixed
+4. **Concentration**—calming distraction
+5. **Foul meditation**—for the final purification of afflictions
+
+---
+
+## The Dharmasaṃgīti Teaching
+
+Listen. Patience comes in three forms:²
+
+**1. Patience of enduring suffering** (*duḥkhādhivāsanakṣānti*)
+Standing your ground when life hurts.
+
+**2. Patience of contemplating dharmas** (*dharmanidhyānakṣānti*)
+Standing your ground in the truth.
+
+**3. Patience of bearing harm from others** (*parāpakāramarṣaṇakṣānti*)
+Standing your ground when people come at you.
+
+What breaks the first kind?
+When the undesired arrives: **suffering-wailing**—you crying out.
+When the desired gets blocked: **clinging to pleasure**—you holding on tight.
+
+From these? Sorrow rises. Then hatred. Then depression.
+You fall apart.
+
+---
+
+## Don't Cling, Don't Recoil
+
+The Candrapradīpa Sūtra lays it down:³
+
+> "Non-attachment to pleasure.
+> Non-aversion to pain."
+
+That's the key. That's the whole thing.
+Don't cling to what feels good.
+Don't recoil from what hurts.
+
+Stand your ground.
+
+---
+
+## The Eight Worldly Dharmas
+
+The Ugradattaparipṛcchā teaches:⁴
+
+> "A householder bodhisattva should be free from attraction and repulsion,
+> unstained by the eight worldly dharmas.
+
+What does that look like?
+
+> By gain, by gain of wife and son, by gain of wealth—
+> he should not be elated, should not be overjoyed.
+>
+> And in all misfortunes,
+> he should not be cast down. He should not be sorrowful.
+
+Win? Don't get happy.
+Lose? Don't get sad.
+
+How do you do that?
+
+> Thus he should contemplate:
+> 'All conditioned things are magically created,
+> characterized by the presence of disappearance.
+> These—mother, father, son, wife, servants, relatives—
+> are produced by karma-ripening.
+> ***These are not mine, I am not theirs.***'"
+
+You hear that last line?
+**These are not mine, I am not theirs.**
+
+That's the teaching.
+The eight worldly dharmas—gain/loss, fame/disrepute, praise/blame, pleasure/pain—
+**you're unstained by all of them.**
+
+They don't touch you. They pass through you like wind.
+
+---
+
+## Stop Worrying
+
+Listen to this logic:
+
+> *If there is indeed a remedy, what use is sorrow?*
+
+You can fix it? Then why you sad?
+
+> *Even in remedy, the sorrowful one, faint with anger, is confused.*
+
+Even when you fixing it, if you sorrowful, you confused.
+
+What about when you can't fix it?
+
+> *Or, depressed, with killed vigor, he's seized by the opponent's misfortune.*
+> *By that worry, his short life goes vainly, moment by moment.*
+
+Depressed? Vigor dies. Life goes vainly.
+Moment by moment, you wasting it.
+
+So what you gonna do?
+
+> *Therefore, by practice, one should abandon this useless, harm-bringing affliction.*
+
+Abandon worry. It's useless. It brings harm.
+
+How do you abandon sorrow?
+By relinquishing the light, delicate mind.⁵
+Stop being soft. Get hard.
+
+The Gaṇḍavyūha gives you three minds to cultivate:⁶
+
+**1. Difficult-to-conquer mind**
+For destroying all afflictions. Hard to beat.
+
+**2. Unconquered mind**
+For breaking through all attachments. Can't be conquered.
+
+**3. Imperturbable mind**
+For those in ocean-whirlpools of corrupt intentions. Can't be disturbed.
+
+Get those three minds. Stop worrying.
+
+---
+
+## Nothing's Difficult for Practice
+
+Nothing is difficult for practice.⁷ Even the foolish—burden-carriers, fishermen, farmers—by practice of suffering, in trivial matters, the mind marked with hardened calluses is not overcome by discouragement.
+
+How much more so for work whose fruit is the unsurpassed state of all saṃsāra-happiness, all bodhisattva-happiness!
+
+Even ordinary people fight unto death over small harms. How much more should there be vigor toward affliction-enemies:
+- Who harm over long periods
+- Who steal even a fragment of wholesomeness
+- Who do not kill in hell but make one wander
+- Who destroy the door of escape
+- Who are enemies for immeasurable kalpas
+
+Especially for one who has bound on armor for conquering the three worlds, fighting for the release of the world-captive seized by Māra!
+
+---
+
+## Feeling Pleasure Under Torture
+
+Listen to this.⁸
+
+Just as by practice, beings learn to feel suffering and pleasure—
+so by practicing the perception of pleasure in all suffering,
+the perception of pleasure alone arises.
+
+This is the fruit: you attain the concentration called **Sarvadharmasukhākrānta**—
+"All-Dharmas-Pervaded-by-Happiness."
+
+The Pitāputrasamāgama explains what this means:⁹
+
+> "There is a concentration called Sarvadharmasukhākrānta.
+> By its attainment, the bodhisattva experiences only pleasant feeling
+> in all object-matters.
+
+What does that mean?
+
+> For him, even when hellish torture is being done,
+> ***the perception of pleasure alone arises.***
+
+Listen to what that looks like:
+
+> Even when hands are being cut off—pleasure alone.
+> When feet are being cut off—pleasure alone.
+> When ears, when nose are being cut off—pleasure alone.
+>
+> Even when being beaten with rods, with whips—pleasure alone.
+>
+> Even when being boiled in oil,
+> pounded like sugarcane,
+> pressed like reeds,
+> burned with oil-lamps—
+> ***pleasure alone arises.***
+>
+> Even when eyes are being plucked out—pleasure alone.
+> Even when being impaled alive—pleasure alone.
+> Even when the head is being split—
+> ***pleasure alone proceeds, not suffering.***
+
+You hear what I'm saying?
+They cutting you, beating you, burning you, killing you—
+and you feeling pleasure.
+
+How is that possible?
+
+> Why? The bodhisattva practicing for a long time
+> had this aspiration:
+
+Listen to the aspiration:
+
+> 'Those who would feed me—
+> may they attain the happiness of calm.'
+>
+> 'Those who would protect me, honor me, worship me—
+> may all attain the happiness of peace.'
+>
+> '**Those who would revile me, strike me, cut me with weapons, even kill me—**
+> **may all attain the happiness of awakening.**'
+
+You understand?
+You been wishing awakening for them.
+For years. For lifetimes.
+So when they torture you? That wish rises.
+And that wish? That wish feels like pleasure.
+
+> By this karma, by these aspirations,
+> he attains the concentration called Sarvadharmasukhākrānta.
+>
+> At that time he becomes imperturbable,
+> unassailable by all Māra-works."
+
+That's the teaching.
+The bodhisattva feels pleasure even under torture—
+**because he's wishing awakening for those who torture him.**
+
+That's the happiness that can't be killed.
+
+---
+
+## The Supreme Practice
+
+This practice fulfills all relinquishment, accomplishes all difficult practices, makes firm all patience, brings all vigor to non-failure.¹⁰
+
+Therefore, one should always be joyful. The Candrapradīpa says:
+
+> *With respect, with pleased mind, he should always be;*
+> *he should always stand with gentle gaze.*
+
+---
+
+## Sailing to Hell
+
+The Mahāmegha says trained bodhisattvas are:¹¹
+
+Listen to this description:
+
+> "Those whose minds are constantly concentrated on the **hell-destiny**—
+> those who **love** the hell-destiny—
+> those who are **merchants sailing to the hell-destiny.**
+
+You hear that? Merchants sailing to hell.
+Not running from it. Sailing toward it.
+
+> Those who **desire** hell.
+> Those who are **stingy-greedy** for hell.
+> Those whose minds are **attuned to hell-fire.**"
+
+Stingy-greedy for hell. Clutching it tight.
+Attuned to hell-fire. In tune with the flames.
+
+That's the training.
+**You're not avoiding hell—you're sailing to it.**
+For the sake of beings.
+
+You a merchant, and your destination is hell.
+You gonna trade there. You gonna work there.
+You gonna save folks there.
+
+---
+
+## The Sāgaramati Armor
+
+The Sāgaramati Sūtra teaches all three patience types:¹²
+
+Listen to what "not broken" means:
+
+> "The bodhisattva, regarding the jewel of the omniscience-mind-arising,
+> being harassed, disturbed, struck by ignoble beings,
+> by Māras, by Māra-possessed beings—
+> ***he is not broken.***
+
+Why not broken?
+
+> He is not broken due to the vigor of great compassion for all beings.
+> He is not broken due to exertion for the Three Jewel lineage.
+> He is not broken due to wholesome application.
+> He is not broken due to accumulating the merit-equipment.
+> He is not broken due to eagerness for buddha-field purification.
+> He is not broken due to relinquishment of body and life.
+> He is not broken due to non-reliance on self-happiness.
+
+Eight reasons he don't break.
+
+Now watch what he bears:
+
+> He bears the looking-down of all beings.
+> He bears the contempt of all beings.
+> He bears the reviling and abuse of all beings.
+> He bears the oppression of all beings.
+> He bears the burdens of all beings and raises them up.
+
+You understand? He carrying it all.
+
+What don't he do?
+
+> He is not wearied. He is not depressed.
+> He does not shrink. He does not despair.
+
+What does he do?
+
+> He displays strength.
+> He generates firmness.
+> He undertakes vigor.
+
+Now here's the refrain—listen to the beat:
+
+> ***Reviled, he does not revile in return.***
+> ***Struck, he does not strike in return.***
+> ***Provoked, he does not provoke in return.***
+> ***Angered at, he does not become angry in return.***"
+
+That's the armor.
+**Not broken by anything**—
+not by Māra, not by beings, not by torture.
+
+You hit him? He don't hit back.
+You curse him? He don't curse back.
+You provoke him? He don't provoke back.
+You get angry? He don't get angry.
+
+**Unbreakable.**
+
+---
+
+## The Armor You Put On
+
+The bodhisattva binds on the armor:¹³
+
+Listen to this resolve:
+
+> "If all beings in the ten directions pursued me with swords, spears, javelins, clubs—
+> in whatever place I stand and generate bodhicitta—
+> they would cut my body into jujube-leaf pieces,
+> wound it, destroy it—
+
+Cut into jujube-leaf pieces. Tiny pieces. Shredded.
+
+> ***Still I should not generate a hostile mind toward any being.***
+
+Why not?
+
+> Why? The beginningless beginning of saṃsāra is immeasurable.
+> This person of mine has been cut a hundredfold, wounded, tortured—
+> and from that, neither my purpose was accomplished nor others' purpose.
+
+You been cut before. Hundred times. Thousand times.
+Didn't help you. Didn't help them.
+So what's the point of getting hostile now?
+
+> If all beings were to cut and destroy me to the end of the future—still:
+
+Listen to the three things that don't change:
+
+> ***Omniscience is not to be abandoned.***
+> ***All beings are not to be abandoned.***
+> ***The wholesome Dharma-desire is not to be abandoned.***
+
+They can cut you forever.
+Those three things? You don't abandon.
+
+Now here's the perspective:
+
+> All this bodily oppression does not equal even a hundredth part of hellish suffering.
+> I'm able to bear even dwelling in hell.
+> But the Buddha-dharmas are not to be abandoned, nor the great compassion."
+
+You understand?
+This torture? It ain't nothing compared to hell.
+You can bear hell. You can bear this.
+
+But you can't abandon the Buddha-dharmas.
+You can't abandon great compassion.
+
+That's the armor you put on.
+
+---
+
+## Abandon Body-Love
+
+> "Whatever is the cause from which ill-will arises—that dharma we will abandon. What is it? **Body-love, body-nest, body-reliance.**¹⁴
+>
+> The body is relinquished; ill-will is relinquished."
+
+That's the root. Body-attachment is the cause of ill-will. Relinquish the body; ill-will is relinquished.
+
+---
+
+## All Six Arise from Torture
+
+Listen to this teaching:¹⁵
+
+When the body is being cut, all six perfections arise.
+
+Watch how:
+
+**1. Giving**
+Relinquishment of the body.
+You giving your body away.
+
+**2. Morality**
+Pervading all beings with loving-kindness, not withdrawing the feelings.
+You loving them even as they cut you.
+
+**3. Patience**
+Enduring for the liberation of those who cut, not injured in mind.
+You enduring for their freedom. Your mind ain't injured.
+
+**4. Vigor**
+Not abandoning omniscience-desire, taking hold of mind-power.
+You still holding onto awakening. You holding your mind strong.
+
+**5. Meditation**
+Not confused regarding the omniscience-jewel, contemplating awakening alone.
+You not confused. You contemplating awakening.
+
+**6. Wisdom**
+Examining the grass-wood-wall-like appearance of the body,
+the dream-nature, the true impermanence, suffering, non-self, peace.
+You seeing the body like grass, like wood, like a wall.
+Like a dream. Impermanent, suffering, no-self, peace.
+
+You understand?
+**All six perfections arise from patience under torture.**
+
+They cutting you? You perfecting all six at once.
+That's the mastery.
+
+---
+
+## Who Reviles? Who Is Reviled?
+
+> "Come! We will resort to the Dharmatā. Who reviles, or is reviled? Searching, he does not find that dharma.¹⁶
+>
+> He, with the view of non-apprehension of self and other removed, is patient."
+
+That's the ultimate patience. You search for reviler and reviled—you find nothing. From that, patience arises naturally.
+
+---
+
+## Like a Deaf-Mute Sheep
+
+The Prajñāpāramitā gives you the discipline:¹⁷
+
+Listen to the bodhisattva thinking:
+
+> "I, by whom the dispute of all beings is to be removed—
+> I myself am disputing!
+> My gains are ill-gotten, that I'm speaking back when spoken to.
+
+Think about that. You supposed to remove disputes, and you disputing.
+
+> I, by whom a bridge for all beings is to be made—
+> I speak even 'you' to another, or give a harsh reply.
+
+You supposed to build the bridge, and you throwing harsh words.
+
+So what you gonna do?
+
+> This should not be spoken by me, being **like a dumb fool.**
+> In quarrels and disputes, I should be **like a deaf-mute sheep.**
+
+You hear that? **Deaf-mute sheep.**
+Can't hear. Can't speak. Can't fight back.
+
+> Hearing harsh, ill-mannered speech,
+> I should not injure my mind.
+
+They speaking harsh? Don't let it hurt your mind.
+
+> It is not proper for me to generate fault-finding toward another.
+> It is not proper for me even to hear of another's fault-finding.
+
+Don't find fault. Don't even listen to fault-finding.
+
+Why not?
+
+> My intention is not to be corrupted.
+> By me all beings are to be made happy, brought to parinirvāṇa.
+> There I should not be ill-willed.
+
+You got a job. Make 'em happy. Bring 'em to nirvāṇa.
+Can't do that if you ill-willed.
+
+So what should you do?
+
+> But this should be done by me:
+> I should exert with firm exertion.
+> Not even when life-obstruction is being made should agitation be made.
+> ***I should not raise a frown on my face.***"
+
+You hear that final command?
+They obstructing your life? Trying to kill you?
+**Don't even frown.**
+
+That's the bodhisattva's discipline in speech.
+**Deaf-mute sheep.**
+**No frown.**
+
+---
+
+## Soothing the Angry
+
+The Bodhisattvaprātimokṣa says:¹⁸
+
+> "Those beings who are angry—he soothes them, makes them patient, makes them conformable, satisfies them with the Dharma."
+
+Not reacting to anger—soothing it.
+
+---
+
+*Thus ends the Ninth Chapter: The Perfection of Patience.*
+
+---
+
+## Theological Notes
+
+### The Sarvadharmasukhākrānta Samādhi
+This is one of the most extraordinary teachings in Buddhist literature. The bodhisattva attains a concentration where **all dharmas are pervaded by happiness**. Even under torture—hands cut off, eyes plucked out, impaled alive—"the perception of pleasure alone proceeds."
+
+How? By aspiration. The bodhisattva's long-time aspiration: "Those who revile me, strike me, cut me, kill me—may all become attainers of the happiness of awakening."
+
+### The Three Patience Types
+1. **Enduring suffering**: Non-attachment to pleasure, non-aversion to pain
+2. **Contemplating dharmas**: Understanding emptiness and dharmatā
+3. **Bearing harm**: Not reviling in return, not striking in return
+
+### Hell-Bound Resolve
+Trained bodhisattvas are "merchants sailing to hell"—not avoiding it but desiring it. Why? For the sake of beings. "I'm able to bear even dwelling in hell. But the Buddha-dharmas are not to be abandoned."
+
+### The Six Perfections from Torture
+When the body is being cut, all six perfections arise:
+- **Giving**: Relinquishing the body
+- **Morality**: Loving-kindness to those cutting
+- **Patience**: Enduring for their liberation
+- **Vigor**: Not abandoning omniscience-desire
+- **Meditation**: Contemplating awakening
+- **Wisdom**: Seeing body as grass-wood-wall, dream-nature
+
+---
+
+*Blues Vernacular Translation by William Altig*  
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 10
+--------------------------------------------------------------------------------
+
+# Chapter 10: The Chase (Vīryapāramitā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The tenth chapter of Śāntideva's Compendium of Training, on the Perfection of Vigor—chasing after wisdom like your head's on fire, the eighty ways to run after truth, and what books to read and what to burn.*
+
+---
+
+## You Gotta Have Both
+
+So you're established in patience.¹ Now you start vigor in learning.
+
+But listen close: If you don't got morality to go with that learning,
+learning itself becomes your destruction.
+
+The Candrapradīpa Sūtra² says it plain:
+
+> *"Though you comprehend many dharmas—*
+> *if you don't guard morality,*
+> *intoxicated by learning—*
+>
+> *You can't be protected by much learning,*
+> *the immoral one,*
+> *going to bad destinies."*
+
+You hear that?
+Learning without morality?
+You're going down.
+
+Knowledge puffs you up.
+Morality keeps you humble.
+You need both.
+
+---
+
+## The Chain (Learning → Wisdom → Freedom)
+
+The Nārāyaṇa Sūtra³ gives the benefits:
+
+> *"For one with learning,*
+> *there's the attainment of wisdom.*
+>
+> *For one with wisdom,*
+> *there's the calming of afflictions.*
+>
+> *For one free from afflictions,*
+> *Māra finds no opening."*
+
+That's the chain:
+
+**Learning → Wisdom**
+**Wisdom → Calming afflictions**
+**Calming → Māra finds no opening**
+
+No crack in the door.
+No way in for the devil.
+
+That's The Chase.
+You're running toward freedom.
+
+---
+
+## The Great Rishi's Story
+
+Now, having told the jātaka of the great rishi Uttara at length,⁴
+He says:
+
+Listen to what happens
+when you desire Dharma—
+when you got that hunger, that thirst—
+
+> *"For those who desire the Dharma,*
+> *for bodhisattvas with respect and confidence—*
+>
+> *Even Buddhas established in other world-realms*
+> *DISPLAY THEIR FACES*
+> *and cause them to hear the Dharma.*
+>
+> *For those who desire the Dharma,*
+> *Dharma-treasures are deposited*
+> *in mountain-caves and among trees.*
+> *Innumerable Dharma-gates, in books,*
+> *come to hand.*
+>
+> *For those who desire the Dharma,*
+> *deities who have seen Buddhas before*
+> *bring Buddha-inspiration.*
+>
+> *(Many details...)*
+>
+> *For those whose lifespan is exhausted,*
+> *Buddhas and deities*
+> *bring strength of life.*
+>
+> *By Buddha-empowerment,*
+> *by deity-empowerment,*
+> *when they desire it,*
+> *they remain for a thousand years...*
+> *up to a kalpa,*
+> *as long as they desire.*
+>
+> *For those born with Dharma-respect,*
+> *Buddhas remove even OLD AGE.*
+> *They remove illness.*
+> *They bring memory.*
+> *They bring movement, understanding, eloquence.*
+>
+> *(Many details...)*
+>
+> *They remove wrong views.*
+> *They bring right view.*
+>
+> *By Dharma-respect,*
+> *there's no fear of any harm.*
+>
+> *Therefore,*
+> *a bodhisattva should be devoted*
+> *to skill in the learning-accumulation."*
+
+You got that?
+
+If you desire Dharma bad enough:
+- **Buddhas in other worlds show their faces**
+- **Hidden teachings appear in caves and trees**
+- **Deities bring you inspiration**
+- **Your life extends**
+- **Old age and sickness removed**
+- **Memory restored**
+- **Wrong views pulled out like bad teeth**
+- **Right view planted**
+- **No fear of any harm**
+
+That's what The Chase gets you.
+
+---
+
+## What Kind of Learning Is Praised?
+
+What kind of learning is praised in the bodhisattva-discipline?⁵
+
+The Akṣayamati Sūtra gives **eighty modes of entering learning**.
+
+Not just "study."
+Eighty different ways to chase after truth.
+
+Listen to all of them:
+
+### The Foundation (Modes 1-10): Getting Started
+
+**1. Desire-mode** (*chandākāra*)
+You gotta want it. That's where it starts.
+
+**2. Intention-mode** (*āśayākāra*)
+Not just wanting. Intending. Deciding.
+
+**3. Sincere intention-mode** (*adhyāśayākāra*)
+Not half-hearted. Full intention. Sincere.
+
+**4. Application-mode** (*prayogākāra*)
+Now you apply yourself. You get to work.
+
+**5. Emanation-mode** (*nirmāṇākāra*)
+You manifest the practice. You become it.
+
+**6. Immeasurability-mode** (*apramāṇākāra*)
+Your learning ain't got limits. Boundless.
+
+**7. Spiritual friend-mode** (*kalyāṇamitrākāra*)
+You find good friends. Teachers. Guides.
+
+**8. Respect-mode** (*gauravākāra*)
+You honor them. You show reverence.
+
+**9. Circumambulation-mode** (*pradakṣiṇākāra*)
+You circle the teacher. Ancient respect.
+
+**10. Good speech-mode** (*suvacanākāra*)
+You speak well. You ask good questions.
+
+---
+
+### The Practice (Modes 11-30): How to Listen and Study
+
+**11. Attendance-mode** (*paryupāsanākāra*)
+You show up. You wait on the teacher.
+
+**12. Attentive hearing-mode** (*avahitaśrotrākāra*)
+You listen with your whole ear. Not distracted.
+
+**13. Mental application-mode** (*manaskārākāra*)
+You apply your mind. You think about it.
+
+**14. Non-distraction-mode** (*avikṣepākāra*)
+No wandering mind. Focused.
+
+**15. Stability-mode** (*avasthānākāra*)
+You stand steady. Stable.
+
+**16. Jewel-perception-mode** (*ratnasaṃjñākāra*)
+You see the teaching as a jewel. Precious.
+
+**17. Medicine-perception-mode** (*bhaiṣajyasaṃjñākāra*)
+You see it as medicine. Healing.
+
+**18. Calming all diseases-mode** (*sarvavyādhiśamanākāra*)
+It calms every sickness. Every affliction.
+
+**19. Practicing mindfulness-mode** (*smṛtibhajanākāra*)
+You cultivate memory. Recollection.
+
+**20. Awakening movement-mode** (*gatibodhanākāra*)
+The teaching awakens you. Gets you moving.
+
+**21. Illuminating understanding-mode** (*matirocanākāra*)
+It lights up your mind. Brightens understanding.
+
+**22. Penetrating wisdom-mode** (*buddhipraveśākāra*)
+Wisdom enters deep. Penetrates.
+
+**23. Insatiable Buddha-dharma hearing-mode** (*atṛptabuddhadharmaśravaṇākāra*)
+You can't get enough. Never satisfied.
+Always hungry for more teaching.
+
+**24. Increasing generosity-mode** (*tyāgabṛṃhaṇākāra*)
+The more you learn, the more you give away.
+
+**25. Tamed thoroughbred-mode** (*dāntājāneyākāra*)
+Like a trained horse. Disciplined. Noble.
+
+**26. Much learning service-mode** (*bahuśrutasevanākāra*)
+You serve those who learned much. You attend them.
+
+**27. Respectful joyful experience-mode** (*satkṛtyaprītyanubhavanākāra*)
+You experience it with respect and joy combined.
+
+**28. Body refreshment-mode** (*kāyaudbilyākāra*)
+Your body refreshes. Vitality returns.
+
+**29. Mind gladdening-mode** (*cittaprahlādanākāra*)
+Your mind becomes glad. Happy.
+
+**30. Tireless hearing-mode** (*aparikhedaśravaṇākāra*)
+You don't get tired of hearing. Never weary.
+
+---
+
+### The Content (Modes 31-45): What You're Learning
+
+**31. Dharma hearing-mode** (*dharmaśravaṇākāra*)
+You hear the Dharma itself. The teaching.
+
+**32. Practice hearing-mode** (*pratipattiśravaṇākāra*)
+You hear how to practice. How to walk the path.
+
+**33. Instruction hearing-mode** (*paradeśanāśravaṇākāra*)
+You hear instructions. Directions.
+
+**34. Unheard hearing-mode** (*aśrutaśravaṇākāra*)
+You hear what you never heard before.
+
+**35. Superknowledge hearing-mode** (*abhijñāśravaṇākāra*)
+You hear about the six superknowledges.
+
+**36. No-desire-for-other-vehicles hearing-mode** (*anyayānāspṛhaṇāśravaṇākāra*)
+You don't want the small vehicles.
+You want the Great Vehicle only.
+
+**37. Perfection of wisdom hearing-mode** (*prajñāpāramitāśravaṇākāra*)
+You hear the Perfection of Wisdom teachings.
+
+**38. Bodhisattva collection hearing-mode** (*bodhisattvapiṭakaśravaṇākāra*)
+You hear the Bodhisattva scriptures. The collection.
+
+**39. Gathering factors hearing-mode** (*saṃgrahavastuśravaṇākāra*)
+You hear the four ways to gather beings.
+
+**40. Skillful means hearing-mode** (*upāyakauśalyaśravaṇākāra*)
+You hear about skill in means. Compassionate tricks.
+
+**41. Divine abidings hearing-mode** (*brahmavihāraśravaṇākāra*)
+You hear the four immeasurables:
+loving-kindness, compassion, joy, equanimity.
+
+**42. Mindfulness and clear knowing hearing-mode** (*smṛtisaṃprajanyaśravaṇākāra*)
+You hear about mindfulness combined with awareness.
+
+**43. Respect-mode** (*gauravākāra*)
+[Repeated for emphasis - reverence]
+
+**44. Skillful arising hearing-mode** (*utpādakauśalyaśravaṇākāra*)
+You hear how things arise skillfully.
+
+**45. Skillful non-arising hearing-mode** (*anutpādakauśalyaśravaṇākāra*)
+You hear how to stop things from arising.
+How to not create more suffering.
+
+---
+
+### The Deepening (Modes 46-60): Going Deeper
+
+**46. Foulness-mode** (*aśubhākāra*)
+You contemplate the foul. The impure.
+Antidote to lust.
+
+**47. Loving-kindness hearing-mode** (*maitryāḥ śravaṇākāra*)
+You hear about mettā. Universal love.
+
+**48. Dependent origination-mode** (*pratītyasamutpādākāra*)
+You hear how things lean on things.
+The deep tangle. Conditioned arising.
+
+**49. Impermanence-mode** (*anityākāra*)
+Everything changes. Nothing lasts.
+
+**50. Suffering-mode** (*duḥkhākāra*)
+You see the suffering in all conditioned things.
+
+**51. No-self-mode** (*anātmākāra*)
+No permanent self anywhere.
+
+**52. Peace-mode** (*śāntākāra*)
+Nirvāṇa. The cooling. The peace.
+
+**53. Emptiness-signless-wishless-mode** (*śūnyatānimittāpraṇihitākāra*)
+The three liberations:
+Emptiness. No signs. No wishes.
+
+**54. Non-construction-mode** (*anabhisaṃskārākāra*)
+Don't fabricate. Don't construct.
+
+**55. Wholesome construction-mode** (*kuśalābhisaṃskārākāra*)
+But when you do construct, make it wholesome.
+
+**56. Beings-as-foundation-mode** (*sattvādhiṣṭhānākāra*)
+Beings are your foundation. Your field.
+
+**57. Non-decline-mode** (*abipraṇāśākāra*)
+You don't fall away. You don't decline.
+
+**58. Self-mastery-mode** (*svādhīnākāra*)
+You master yourself. You're in control.
+
+**59. Guarding your own mind-mode** (*svacittārakṣaṇākāra*)
+You watch your mind. You guard it.
+
+**60. Vigor's non-slackening-mode** (*vīryasyāstraṃsanākāra*)
+Your vigor doesn't slack. Doesn't weaken.
+You keep running.
+
+---
+
+### The Battle (Modes 61-70): Fighting Defilements
+
+**61. Dharma-application-mode** (*dharmanidhyaptyākāra*)
+You apply the Dharma. Put it to work.
+
+**62. Defilement-opposition-mode** (*kleśavipakṣākāra*)
+You oppose the defilements. Fight them.
+
+**63. Own-side-drawing-mode** (*svapakṣaparikarṣaṇākāra*)
+You pull your own side closer. Strengthen wholesomeness.
+
+**64. Other-side-hair-grasping-mode** (*parapakṣakeśanigrahākāra*)
+You grab the enemy by the hair.
+You seize unwholesomeness.
+
+**65. Seven treasures attainment-mode** (*saptadhanasamavaśaraṇākāra*)
+You attain the seven treasures:
+faith, morality, learning, generosity,
+shame, conscience, wisdom.
+
+**66. All poverty cutting-mode** (*sarvadāridyopacchedākāra*)
+You cut off all spiritual poverty.
+
+**67. All the learned's praise-mode** (*sarvavidvatpraśastākāra*)
+The learned ones praise you.
+
+**68. The wise's delight-mode** (*paṇḍitābhinandanākāra*)
+The wise delight in you.
+
+**69. Noble approval-mode** (*āryasaṃmatākāra*)
+The noble ones approve.
+
+**70. Ignoble satisfaction-mode** (*anāryaprasādanākāra*)
+Even the ignoble are satisfied by you.
+Everyone's pleased.
+
+---
+
+### The Fruit (Modes 71-80): What You Get
+
+**71. Truth-seeing-mode** (*satyadarśanākāra*)
+You see truth. Directly.
+
+**72. Aggregate-fault-avoidance-mode** (*skandhadoṣavivarjanākāra*)
+You avoid the faults of the five aggregates.
+
+**73. Conditioned-fault-weighing-mode** (*saṃskṛtadoṣaparitulanākāra*)
+You weigh the faults of conditioned things.
+You see them clear.
+
+**74. Meaning-as-refuge-mode** (*arthapratiśaraṇākāra*)
+You take refuge in meaning, not words.
+
+**75. Dharma-as-refuge-mode** (*dharmapratiśaraṇākāra*)
+You take refuge in Dharma, not persons.
+
+**76. All evil non-doing-mode** (*sarvapāpākaraṇākāra*)
+You stop doing all evil.
+
+**77. Self and other benefit-mode** (*ātmaparahitākāra*)
+You benefit yourself and others both.
+
+**78. Well-done action non-regret-mode** (*sukṛtakarmānanutapyanākāra*)
+You don't regret your good actions.
+No second-guessing.
+
+**79. Excellence-going-mode** (*viśeṣagamanākāra*)
+You go to excellence. You rise.
+
+**80. All Buddha-dharma attainment-mode** (*sarvabuddhadharmapratilābhākāra*)
+You attain all Buddha-dharmas.
+The whole treasure.
+
+---
+
+**That's the eighty ways.**
+
+Eighty modes of entering learning.
+Eighty ways to chase after truth.
+
+---
+
+## How the Yogin Lives
+
+Then it says again:⁶
+
+> *"Whatever is the yoga of dharma-accumulation,*
+> *that very thing is his knowledge-accumulation.*
+>
+> *What is the yoga of dharma-accumulation?*
+
+Listen to what it looks like:
+
+**Little desire** (*alpārthatā*)
+You don't want much.
+
+**Few duties** (*alpakṛtyatā*)
+You keep your obligations small.
+
+**Little speech** (*alpabhāṣatā*)
+You don't talk much.
+
+**Few possessions** (*alpapariṣkāratā*)
+You travel light.
+
+**Vigilance in the first and last watch** (*pūrvarātrāpararātraṃ jagarikāyogam*)
+You stay awake. First watch of night. Last watch.
+You don't sleep through your life.
+
+**Weighing the meaning of what's heard** (*śrutārthaparitulanatā*)
+You weigh what you learned. Think it through.
+
+**Repeated seeking** (*bhūyobhūyaḥ paryeṣaṇatā*)
+You seek again and again. Keep searching.
+
+**Mind not muddied** (*cittasyānāvilatā*)
+Your mind stays clear. Not clouded.
+
+**Hindrances expelled** (*nīvaraṇānāṃ viṣkambhanatā*)
+The five hindrances? Gone.
+You push them out.
+
+**Knowledge of escape from offenses** (*āpattiṣu niḥsaraṇajñānam*)
+When you mess up, you know how to get out.
+
+**Non-remorse** (*akaukṛtyatā*)
+You don't wallow in regret.
+
+**Non-disturbance** (*aparyutthānatā*)
+Nothing disturbs you.
+
+**Practice as essence** (*pratipattisāratā*)
+The essence is practice. Walking the path.
+
+**Inclined to Dharma** (*dharmanimnatā*)
+Your mind slopes toward Dharma.
+
+**Flowing to Dharma** (*dharmapravaṇatā*)
+Like water flowing downhill to Dharma.
+
+**Leaning forward to Dharma** (*dharmaprāgbhāratā*)
+Your whole weight leaning that way.
+
+**Endowed with heroism** (*parākramasaṃpannatā*)
+You got courage. Strength.
+
+**Like one whose head and clothes are on fire** (*ādīptaśiraścailopamatā*)
+In seeking knowledge.
+
+You hear that? **Like your head's on fire.**
+That's the urgency.
+That's The Chase.
+
+**Dwelling in that alone** (*tanmayavihāritā*)
+You live in it. Absorbed.
+
+**Morality not loosened** (*aśithilaśīlatā*)
+Your discipline ain't slack.
+
+**Not dropping the burden** (*anikṣiptadhuratā*)
+You don't put down the yoke.
+
+**Going to excellence** (*viśeṣagāmitā*)
+Moving toward the high teaching.
+
+**Avoiding association** (*saṃgaṇikāvivarjanam*)
+You avoid the crowd. The gang.
+
+**Solitary delight** (*ekārāmatā*)
+You delight in being alone.
+
+**Mind inclined to forest** (*araṇyābhimukhamanaskāratā*)
+Your thoughts turn to the forest. The quiet.
+
+**Noble clan contentment** (*āryavaṃśasaṃtuṣṭiḥ*)
+Content with what the noble ones had:
+any robe, any food, any shelter, any medicine.
+Delight in cultivation and abandonment.
+
+**Immovability in ascetic qualities** (*dhutaguṇeṣvacalanatā*)
+You don't budge from the austere practices.
+
+**Always devoted to Dharma-parks** (*dharmārāmaratiratatā*)
+Always in the Dharma-grove. Always there.
+
+**Non-recollection of worldly mantras** (*laukikamantrāsmaraṇatā*)
+You don't remember the worldly chants.
+You forget that stuff.
+
+**Seeking supramundane dharmas** (*lokottaradharmaparyeṣṭitā*)
+You seek what's beyond the world.
+
+**Mindfulness not forgotten** (*smṛtyapramoṣatā*)
+You don't lose your mindfulness.
+
+**Following the meaning** (*arthagatyanugamatā*)
+You follow meaning, not just words.
+
+**Understanding conforming to the path** (*matyā mārgānulomatā*)
+Your understanding lines up with the path.
+
+**By firmness: knowledge following restraint precepts** (*dhṛtyā saṃvarapratyayairjñānānugamaḥ*)
+By steadfastness, your knowledge follows the restraints.
+
+**Adorned with shame and conscience** (*hīrapatrāpyālaṃkāratā*)
+You're decorated with shame and conscience.
+That's your jewelry.
+
+**Knowledge-following as essence** (*jñānānugamanasāratā*)
+The essence is following knowledge.
+
+**Crushing ignorance** (*ajñānavidhamanatā*)
+You smash ignorance.
+
+**Purification of wisdom-eye** (*avidyāmohatamastimirapaṭalaparyavanaddhasya prajñācakṣurviśuddhiḥ*)
+The wisdom-eye,
+covered by ignorance, delusion, darkness, blindness, membrane—
+purified.
+
+**Very pure understanding** (*suviśuddhabuddhitā*)
+Your understanding completely pure.
+
+**Vast understanding** (*buddhivistīrṇatā*)
+Wide. Spacious.
+
+**Unconstricted understanding** (*asaṃkucitabuddhitā*)
+Not narrow. Not tight.
+
+**Broken-through understanding** (*prabhinnabuddhitā*)
+Broken open. Penetrated.
+
+**Direct understanding** (*pratyakṣabuddhitā*)
+Face-to-face. Immediate.
+
+**Not dependent on others for qualities** (*aparādhīnaguṇatā*)
+Your virtues don't depend on anyone else.
+
+**Delighting in your own qualities** (*svaguṇairamanyanatā*)
+You delight in your own good qualities.
+
+**Celebrating others' qualities** (*paraguṇaparikīrtanatā*)
+You celebrate others' qualities too.
+You announce them. You praise them.
+
+**Doing well-done actions** (*sukṛtakarmakāritā*)
+You do good work.
+
+**Rising from karmic ripening** (*karmavipākānudbhuratā*)
+You emerge from karmic results.
+
+**Knowledge of karma-purification** (*karmapariśuddhijñānam*)
+You know how to purify karma."
+
+---
+
+**That's what dharma-accumulation looks like.**
+
+That's how you live when you're on The Chase.
+
+---
+
+## The Lord's Warning
+
+What should be studied?⁷
+
+The Blessed One said in the Jñānavaipulya Sūtra:
+
+> *"Meaningful treatises should be studied.*
+> *Meaningless ones should be avoided.*
+>
+> *What are meaningless?*
+
+Listen to the list:
+
+- **Lokāyata treatises** (materialism, hedonism)
+- **Daṇḍanīti treatises** (politics of punishment)
+- **Kākhorda treatises** [obscure worldly texts]
+- **Vādavidyā treatises** (debate-skill for winning arguments)
+- **Kumārakrīḍā treatises** (children's games)
+- **Jambhaka-vidyā treatises** (magic tricks, illusions)
+
+*(Many others...)*
+
+**Whatever other treatises**
+**are contrary to liberation,**
+**lead to delusion—**
+
+**All of these**
+**should be avoided**
+**by one mounted on the Bodhisattva Vehicle."**
+
+You hear that?
+
+Don't waste time on worldly philosophy.
+Don't study politics and punishment.
+Don't learn debate-tricks to win arguments.
+Don't chase magic illusions.
+
+Study what leads to liberation.
+Everything else? Burn it.
+
+---
+
+## You Need the Quiet
+
+So one who has learned—
+to purify the mind—
+should resort to the forest.⁸
+
+"But wait," you say.
+"The Ugradatta Sūtra
+permits the household
+even for one with full intention."
+
+Sure. For one making effort
+but lacking capacity.
+
+"Then wouldn't there be no offense
+even regarding others' spouses and such?"
+
+No. Because even when there's lack of capacity,
+those things are corrupt by nature.
+
+And the household is blameworthy by designation.
+
+So the forest is where you go.
+The quiet is where you purify.
+
+**That's The Chase.**
+
+You run after wisdom
+like your head's on fire.
+You find the eighty ways.
+You go to the forest.
+You study what matters.
+You burn the rest.
+
+---
+
+*Thus ends the Tenth Chapter of the Compendium of Training:*
+***The Chase***
+*(Vīryapāramitā — Perfection of Vigor)*
+
+---
+
+# Theological Notes
+
+### The Root Metaphor: "The Chase"
+
+This chapter is about pursuit. What you're running after (wisdom, Dharma) and how hard you run (vigor, urgency). The Blues tradition knows this chase - the pursuit of freedom, the hunger for truth, the running from bondage toward liberation.
+
+The key image: **"Like one whose head and clothes are on fire"** (*ādīptaśiraścailopamatā*) - that's the urgency of The Chase. You don't walk leisurely toward wisdom. You run like you're burning.
+
+### The Warning: Learning Without Morality Destroys
+
+The chapter opens with a stark warning: If you pursue learning without morality, that learning becomes your destruction. Knowledge without ethics puffs up. Learning without discipline leads to bad destinies.
+
+This is the Blues wisdom of "what good is it to gain the whole world and lose your soul?" You can know everything and still be lost.
+
+### The Chain: Learning → Wisdom → Freedom
+
+The Nārāyaṇa Sūtra gives the progression:
+- **Learning** leads to **wisdom**
+- **Wisdom** leads to **calming afflictions**
+- **Calming afflictions** means **Māra finds no opening**
+
+No crack in the door. No way in for the devil. That's the goal of The Chase.
+
+### The Uttara Jātaka: When You Want It Bad Enough
+
+The story of the great rishi Uttara illustrates what happens when you desire Dharma with everything you got:
+
+- Buddhas in other worlds show their faces
+- Hidden teachings appear (in caves, in trees)
+- Deities bring inspiration
+- Your lifespan extends
+- Old age and illness removed
+- Memory restored
+- Wrong views extracted, right view planted
+- No fear of any harm
+
+This isn't metaphor - it's the teaching that when the student is ready, the teacher appears. When you want truth bad enough, the universe conspires to teach you.
+
+### The Eighty Modes: Not Just "Studying"
+
+The eighty modes aren't abstract categories - they're lived practices. Each mode is a way of approaching learning, from the first stirring of desire (Mode 1: Desire-mode) to the final attainment (Mode 80: All Buddha-dharma attainment-mode).
+
+Key modes to note:
+
+- **Mode 23: Insatiable Buddha-dharma hearing** - Never satisfied, always hungry for more
+- **Mode 60: Vigor's non-slackening** - You keep running, don't stop
+- **Mode 76: All evil non-doing** - The Buddhist precept as learning-mode
+
+The modes move through stages:
+1. Getting started (1-10: desire, intention, application)
+2. How to listen (11-30: attention, stability, perception)
+3. What you're learning (31-45: dharma, practice, perfection of wisdom)
+4. Going deeper (46-60: emptiness, dependent origination, no-self)
+5. Fighting defilements (61-70: opposition, treasures, noble approval)
+6. The fruit (71-80: truth-seeing, refuge, Buddha-dharma attainment)
+
+### The Practice: Dharma-Accumulation Yoga
+
+The chapter's longest section describes what the yogin's life looks like. Key elements:
+
+- **Little desire, few duties, little speech, few possessions** - The minimalist path
+- **Like one whose head's on fire** - The central image of urgency
+- **Avoiding association, solitary delight** - The hermit path
+- **Adorned with shame and conscience** - These are your jewelry
+- **Celebrating others' qualities** - Not competitive, but generous
+
+The yogin lives with urgency but without anxiety, with discipline but not rigidity, alone but not lonely.
+
+### What to Study (And What to Burn)
+
+The Jñānavaipulya Sūtra gives the blunt list:
+- Lokāyata (materialism)
+- Daṇḍanīti (politics of punishment)
+- Vādavidyā (debate-tricks)
+- Kumārakrīḍā (children's games)
+- Jambhaka-vidyā (magic illusions)
+
+**All treatises contrary to liberation should be avoided.**
+
+This isn't anti-intellectual - it's focused. Don't waste time on what doesn't lead to freedom. Study what matters. Burn the rest.
+
+### The Forest: Where to Purify
+
+The chapter ends with the necessity of forest dwelling for purifying the mind. The householder life is "blameworthy by designation" - not evil by nature, but obstructive by circumstance.
+
+The forest is where you go to complete The Chase. The quiet is where wisdom ripens.
+
+---
+
+## AUDIO CHAPTER 11
+--------------------------------------------------------------------------------
+
+# Chapter 11: The Woodshed (Araṇyasaṃśraya)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The eleventh chapter of Śāntideva's Compendium of Training, on the necessity of leaving the City of Noise, facing the Hellhounds, and finding the place where the body ain't got no landlord.*
+
+---
+
+## Leave the Burning House
+
+You heard the teaching.¹ You seen the faults of that householder life—that **City of Noise**. You know it's a trap.
+
+So now you gotta go. You gotta take your heavy heart to **The Woodshed**—the quiet place—to scrub it clean.
+
+The Moon-Lamp Sūtra² sings it like this:
+
+> *"As long as you chasing comfort,*
+> *craving for wife and child,*
+> *dwelling in that house so despicable—*
+> *you ain't never gonna touch the High Note.*
+>
+> *But them that leave desire like a pit of fire,*
+> *walking out on family and home,*
+> *terrified of the burning—*
+> *for them, the Supreme Awakening ain't hard to find.*
+>
+> *Ain't never been a Buddha in the past,*
+> *ain't never gonna be one in the future,*
+> *who stayed sitting on the porch*
+> *and got enlightened.*
+>
+> *Leave the kingdom like you spitting out phlegm.*
+> *Go to the Woodshed.*
+> *Crush your pride. Break the chains.*
+> *Wake up spotless."*
+
+---
+
+## The Jina Don't Need No Room Service
+
+Listen now:
+
+> *"The best of men—the Conquerors—*
+> *they don't get served fine food and perfume*
+> *like they did back home.*
+> *They get served by the Truth.*
+>
+> *So if you tired of this fake world,*
+> *if you weary of the constructions,*
+> *take **seven steps** toward the forest.*
+> *Even that walk makes you a king."*
+
+---
+
+## Don't Argue with Fools
+
+Now, maybe you thinking: "I'll stay a little longer. For my friends. For the crowd. For the money."
+
+Don't do it. The Book says:
+
+> *"A wise man don't argue with a fool.*
+> *He honors him—then he walks away.*
+>
+> *You can serve a fool forever,*
+> *but turn your back and he's your enemy.*
+> *The wise man knows the fool's nature:*
+> *broken.*
+>
+> *Where can you find a friend in the crowd?*
+> *You speak truth, they get angry.*
+> *You speak righteousness, they get hateful.*
+> *A pure heart knows: don't trust the fool.*
+>
+> *Fools mix with fools—like dirt with dirt.*
+> *Wise mix with wise—like cream with cream."*
+
+---
+
+## Walk That Lonesome Road
+
+So who's happy? I'll tell you who's happy.
+
+> *"Happy is the one with no beloved anywhere.*
+> *Happy is the one with no enemy anywhere.*
+>
+> *Those who don't love the cave*
+> *miss the great joy of the wandering life.*
+>
+> *No 'mine' anywhere.*
+> *No dragging weight at all.*
+>
+> *They wander the world **like a rhinoceros**—³*
+> *just like the wind wanders in the sky.*
+>
+> *Happy is the man whose mind don't stick.*
+> *Like the wind—passing through, never holding on.*
+> *Beloved? Unloved? Don't mean a thing."*
+
+---
+
+## The Benefits of the Quiet
+
+> *"Yoked to few duties.*
+> *Yoked to the yoke.*
+> *No disputes. No noise.*
+> *Restrained in speech, restrained in mind.*
+>
+> *Weary of everything made and built.*
+> *No desire anywhere in the world.*
+> *No flowing-in of trouble.*
+>
+> *Liberation comes easy in the Woodshed.*
+> *The peace settles deep.*
+> *All these qualities belong to the lonesome traveler."*
+
+---
+
+## Like a Rhinoceros (The Refrain)
+
+He says it again. Listen to the beat:
+
+> *"Go to the thickets. Stay hidden.*
+> *Forget the village. Forget the town.*
+> *Be without a second.*
+> *Always.*
+> **Like a rhinoceros.**
+> *Before long, you'll hit the Supreme Note."*
+
+And the Rāṣṭrapāla Sūtra picks up the chorus:⁴
+
+> *"Walking out on the infinite faults of home,*
+> *regardless of worry,*
+> *finding joy in the wild,*
+> *peaceful senses, gentle heart.*
+>
+> *No woman, no man found there.*
+> *Walking alone—**ekākī**—like a rhinoceros.*
+> *Pure intention. Stainless.*
+>
+> *Gain don't thrill him.*
+> *Loss don't scare him.*
+> *Few desires. Satisfactions.*
+> *No deceit. No mask."*
+
+---
+
+## Don't Die of Thirst in the Water
+
+Now listen close. Just knowing the words ain't enough.
+
+If a learned man, holding this precious moment, still clings to money and fame... if he don't clean his mind... oh, the tragedy!
+
+The Ratnakūṭa Sūtra lays down the saddest blues of all:⁵
+
+> *"It's like a man being carried away by a Great Flood.*
+> *Water everywhere.*
+> *But he dies of thirst.*
+>
+> *Just so, Kāśyapa—*
+> *some folks learn all the Dharmas.*
+> *They talk the talk.*
+> *But they don't drop the thirst for passion.*
+> *They don't drop the thirst for hate.*
+> *They don't drop the thirst for delusion.*
+>
+> *Carried away by the Great Flood of Dharma—*
+> *they die of the thirst for defilements.*
+> *And down they go."*
+
+Water everywhere, and not a drop to drink. Don't be that man.
+
+---
+
+## How to Live in the Woodshed
+
+So you go to the forest. Find a place with clear water, fruit trees, caves.
+
+And there, you recite. Three times a night, three times a day.
+Not too loud. Not too soft.
+Not excited. Not scattered.
+Living on faith. Holding the text. Driving away sleep.
+
+If a king comes? Or a minister?
+Welcome him. Sit if he sits.
+"You're lucky, King. Virtuous folks live in your land."
+
+If he's steady? Teach him the Dharma.
+If he's bored? Shock him with *agitation* (saṃvega).
+If even that don't work? Tell him about the Buddha's glory.
+
+But don't rely on him. Don't become his servant. You ain't there to wait tables.
+
+---
+
+The Ugradatta asks: "Why did I come to this forest?"
+
+It ain't just to watch the deer. Thieves live in the forest too. Monkeys live there. That don't make 'em holy.
+
+No. I came because I was **terrified**.⁶
+
+I got the hellhounds on my trail.
+"Fear of what?" you ask.
+
+I was scared of **Society** (*saṃgaṇikā*).
+I was scared of that **Connection**.
+I was scared of Lust, Hate, and Delusion.
+I was scared of Pride, the Big Head.
+I was scared of Greed, the Tight Fist.
+I was scared of Form, Sound, Taste, and Touch.
+
+I was scared of "I-making" and "Mine-making."
+I was scared of the **Māra of the Aggregates**.
+I was scared of the **Māra of Death**.
+
+I was scared of seeing Permanent in the Impermanent.
+Self in the No-Self.
+Happiness in Suffering.
+
+I was scared of my own Mind.
+I was scared of Gain and Honor.
+I was scared of Bad Friends.
+I was scared of untimely words.
+
+I was scared of the "Seen" in the unseen.
+I was scared of Hell.
+I was scared of the Animal life.
+
+Terrified by these fears—shaking like a leaf—I ran to the Woodshed.
+
+---
+
+## The Antidote: No Self
+
+But here's the turn. Here's where the music changes key.
+
+> *"Whatever fears arise, they all come from grasping at a Self (*ātmagrāha*)."*
+
+If I sit in the woods holding onto "Me" and "Mine"—my forest dwelling means nothing.
+There ain't no forest dwelling for a man who perceives a Self.
+
+**Forest dwelling is the dwelling of No-Arising.**
+
+---
+
+## Be Like the Grass
+
+Look at the grass. Look at the trees.
+They don't fear. They don't tremble.
+Why? Because they got no "Mine."
+
+You gotta make your body like that grass. Like a wall. Like an illusion.
+
+> *"Who fears here? Who trembles?*
+> *This body? It ain't got no soul. It ain't got no person.*
+> *This fear? It's just a false imagination.*
+> *I won't imagine it."*
+
+Just as the trees accept the rain and the sun without owning them...
+**Forest dwelling is the Cutting of Conflict (*raṇaccheda*).**
+
+---
+
+## Radical Generosity
+
+But what if the beasts come? What if the tigers come?⁷
+
+The Ratnarāśi Sūtra says: Don't panic.
+Think like this:
+
+> *"Man, I already gave this body up a long time ago.*
+> *I came here to lose myself.*
+> *So I ain't gonna be afraid.*
+>
+> *I'll send 'em loving-kindness.*
+> *But if they eat me anyway?*
+> *Use me up.*
+>
+> *My gains are easily obtained.*
+> *They take the essence-less part (the meat).*
+> *I get the Essence (the Merit).*
+>
+> *I can't satisfy 'em with Dharma.*
+> *So let 'em be satisfied with flesh.*
+> *Let 'em have a good meal."*
+
+That's the deal. They get a meal. I get free.
+
+---
+
+## Dealing with Spirits
+
+If non-human spirits come? Don't be drawn in. Don't be pushed away.
+
+If ancient deities come asking questions? Teach 'em what you know.
+If they ask deep stuff you don't know? Don't fake it. Don't shame yourself.
+
+Just say: "I'm still working on it. I'm striving. One day I'll know. Meanwhile, you listen to the intention."
+
+---
+
+## The Ownerless House
+
+Finally, take a look at the woods again.⁸
+
+The grass, the shrubs, the trees.
+Who owns 'em? **Nobody.** (*asvāmika*)
+Who claims 'em? **Nobody.**
+Who makes 'em grow or stop? **Nobody.**
+
+They just arise from conditions. Cause and effect. No boss.
+
+> *"So too this body.*
+> *It's like an apparition of sticks and walls.*
+> *Ownerless.*
+> *Without a 'Mine'.*
+> *Without a Controller.*
+> *Motionless. Inactive.*
+>
+> *It rises by causes. It stops by causes.*
+> *But ultimately?*
+> *No dharma ever rises or ceases."*
+
+That's the heavy truth. The Old Willow don't pay rent. The River don't pay rent.
+And this body? It ain't got no Landlord.
+
+## The Witnesses
+
+But don't think you're alone in a bad way.
+"I got no companion to judge me," you think.
+
+Wrong.
+The Buddhas know. The Deities know. The Spirits know.
+**They are my Witnesses.** (*sākṣiṇaḥ*)
+
+If I dwell here in the holy quiet
+and let my mind run back to the City—
+thinking of lust, thinking of hate—
+I'm deceiving the whole universe.
+
+I'd be no different from the crowd.
+And the Witnesses would know I'm a fake.
+
+So keep it true. Keep it ownerless. Keep it pure.
+
+---
+
+*Thus ends the Eleventh Chapter: The Woodshed.*
+
+---
+
+# Theological Notes
+
+### On the Rhinoceros
+The *Khaṅgasama* ("Like a Rhinoceros") verses are the essential Blues motif of this chapter. The "Lonesome Road" is not a place of sadness, but of strength. In Blues mythology, the traveler leaves home not because he hates it, but because he has to find something that can't be found in the crowd. The Rhinoceros is the ultimate non-conformist.
+
+### The Flood Paradox
+The *Ratnakūṭa* citation—dying of thirst in a flood—is one of the most tragic images in Mahayana literature. It perfectly captures the "Blues condition": surrounded by the very thing that could save you (Dharma), but unable to drink because of your own internal blockage (thirst for defilements). It's the spiritual equivalent of "Water, water everywhere, nor any drop to drink."
+
+### The Beast Offering
+This restored section is the gritty core of the chapter. It's not a passive death wish; it's an active, radical trade. "They get a meal, I get free." This transforms the fear of death into an act of supreme generosity. In Blues terms, it's making a deal with the reality of the grave—you can have my body, but you can't take my soul.
+
+### The Hellhounds Testimony
+Translating the *Ugradattaparipṛcchā*'s list of fears as a first-person testimony ("I was scared of...") turns abstract doctrine into felt experience. This mirrors the Blues structure of "confession"—listing one's troubles to master them.
+
+### No Landlord (*Asvāmika*)
+The final metaphor of the "Ownerless" body is the liberation point. If there's no Landlord (Self), there's no rent to pay (suffering). The body is just like the woods—wild, conditioned, free.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 12
+--------------------------------------------------------------------------------
+
+# Chapter 12: The Workshop (Cittaparikarma)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The twelfth chapter of Śāntideva's Compendium of Training, on mind-training—going to the Workshop to work on your mind, using the tools of concentration, facing the three poisons (desire, hatred, delusion), and building the unshakeable foundation.*
+
+---
+
+## You Gotta Work on Your Mind
+
+So you dwelling in the forest now.¹
+You left the City of Noise behind.
+Now what?
+
+**Now you gotta work on your mind.**
+
+> *Dwelling in the forest, devote yourself to concentration.* (Kārikā)
+
+The Bhagavatī says it plain:²
+
+> "He, for the sake of those very beings, practicing the perfection of meditation, becomes one of undistracted mind.
+>
+> Why? He thinks like this:
+>
+> 'Even worldly meditation is hard to obtain for one of distracted mind—how much more the supreme perfect awakening!
+>
+> Therefore, I must be of undistracted mind, until I awaken to supreme perfect awakening.'"
+
+You understand? Even worldly meditation is hard when your mind scattered.
+How you gonna get supreme awakening with a scattered mind?
+
+You can't.
+
+So you gotta get undistracted. You gotta focus.
+**You gotta work on your mind.**
+
+---
+
+## The Workshop Opens: Sense Restraint
+
+The Prajñāpāramitā teaches:³
+
+Listen to what the bodhisattva does from the first mind-arising:
+
+> "Practicing the perfection of meditation, with mental attention yoked to all-aspect knowledge, he enters meditation.
+
+What does that look like?
+
+> "Seeing forms with the eye, he does not grasp at signs, does not grasp at features.
+>
+> For one dwelling with the eye-faculty unguarded, desire and depression, and other unwholesome states would assault the mind—
+> he practices their restraint, guards the eye-faculty.
+
+Same for the rest:
+
+> "Hearing sounds with the ear—
+> Smelling scents with the nose—
+> Tasting flavors with the tongue—
+> Touching tangibles with the body—
+> Knowing mental objects with the mind—
+>
+> He does not grasp at signs, does not grasp at features.
+>
+> For one dwelling with the mind-faculty unguarded, unwholesome states would assault the mind—
+> he practices their restraint, guards the mind-faculty."
+
+Now watch what this restraint looks like in practice:
+
+> "Walking, standing, sitting, lying down, speaking—
+> he does not abandon the state of concentration.
+
+How does he carry himself?
+
+> "He is not one whose hands are restless.
+> Not one whose feet are restless.
+> Not one whose face is restless.
+> Not one of scattered speech.
+> Not one of distracted faculties.
+> Not agitated. Not inflated. Not restless.
+> Not lazy.
+> Not of confused body. Not of confused mind.
+>
+> Calmed in body. Calmed in speech. Calmed in mind.
+>
+> In secret and in public, proper in conduct.
+> Content.
+> Easy to support. Easy to maintain.
+> Of excellent conduct and dwelling.
+>
+> Even in a gathering, delighting in solitude.
+> In gain and loss, even, unchanged.
+> Not elated, not dejected.
+>
+> Thus in pleasure and pain—
+> in praise and blame—
+> in fame and disrepute—
+> in life and death—
+> even, unchanged, not elated, not dejected.
+>
+> Thus with enemy and friend.
+> In pleasant and unpleasant events.
+> In noble and ignoble people.
+> In pure and mixed sounds.
+> In agreeable and disagreeable forms—
+> even, unchanged, not elated, not dejected.
+> Free from attraction and repulsion.
+
+Why?
+
+> "Because he sees all dharmas as empty of own-nature, unborn, unproduced, unarisen."
+
+That's the foundation.
+**That's how you work in the Workshop.**
+
+You see forms? Don't grab the sign.
+You hear sounds? Don't grab the feature.
+You stay even. Unchanged.
+
+Walking or sitting, eating or sleeping—
+**you don't abandon concentration.**
+
+That's the work.
+
+---
+
+## When the Mind Gets Sleepy
+
+When the mind sinks into torpor (*līna*), what you do?
+
+**Stir it up with joy meditation** (*muditā bhāvanā*).**
+
+When the mind gets agitated (*uddhata*), what you do?
+
+**Calm it down with impermanence reflection.**
+
+---
+
+## The Medicine for Both: Remember the Rarity
+
+The Rāṣṭrapāla gives you verses for when you need both—
+to counter torpor and agitation together:⁴
+
+> *"After hundreds of millions of kalpas,*
+> *once in a while a Buddha arises—*
+> *a Great Sage, benefactor of the world.*
+>
+> *That supreme moment has been obtained today.*
+> *If you want liberation, abandon heedlessness!*
+
+Think about it:
+
+> *"Seeing that conditioned things are like illusions,*
+> *like lies, like dreams—*
+> *separation from all the beloved will come soon.*
+> *Nothing here lasts.*
+>
+> *Exert yourself! Strive always*
+> *in the perfections, in the grounds, in the powers!*
+> *Never let vigor slip*
+> *until you awaken to supreme awakening!"*
+
+That's the tool.
+When you drowsy? Remember the rarity.
+When you agitated? Remember impermanence.
+
+---
+
+## The Burning House
+
+The Lalitavistara adds more fuel:⁵
+
+Listen to this:
+
+> *"The triple world is ablaze—*
+> *burning with old age, disease, suffering,*
+> *blazing with the fire of death.*
+> *This helpless world, without refuge,*
+> *wanders constantly like a bee trapped in a pot.*
+
+That's where you at. Trapped in the pot.
+
+> *"The triple world is impermanent,*
+> *like autumn clouds.*
+> *Birth and death in the world*
+> *are like a stage performance, like actors.*
+>
+> *Life passes quickly in the world—*
+> *quick as lightning in the sky,*
+> *like water rushing down a mountain river.*
+
+You hear that? Quick as lightning. Water rushing down.
+
+> *"Beings in the world—*
+> *on earth, in divine realms, in the three wretched paths—*
+> *wandering in the five destinies,*
+> *driven by thirst and ignorance,*
+> *unaware—*
+> *like pots spinning on the potter's wheel.*
+
+Spinning on the wheel. Round and round.
+
+> *"This world filled with Kalpa's snares—*
+> *surrounded by pleasant forms,*
+> *loving sounds,*
+> *beautiful scents, tastes, and touch-pleasures—*
+> *like a monkey caught in a hunter's trap.*
+
+Caught in the trap.
+
+> *"The pleasures of desire—*
+> *always frightening, always creating enemies,*
+> *full of sorrow and calamity.*
+> *Like swords, like poison leaves—*
+> *abandoned by the noble like a dung-pit.*
+
+Like a dung-pit. That's what desire is.
+
+> *"Destroying mindfulness,*
+> *creating darkness,*
+> *always causes of fear,*
+> *roots of suffering—*
+> *increasing the creeper of thirst for existence—*
+> *frightening, no refuge—*
+> *such are the pleasures of desire.*
+
+That's what you working against.
+That's what you in the Workshop to fix.
+
+> *"Like blazing fire-pits—frightening—*
+> *so are these desires, known by the noble.*
+> *Like great swamps.*
+> *Like sword-points.*
+> *Like honey smeared on a razor's edge.*
+>
+> *Like a serpent's head.*
+> *Like a dung-pit.*
+> *Like sword-points.*
+> *Like dogs and jackals with hostile faces fighting over carrion.*
+>
+> *Fleeting as the moon's reflection.*
+> *Like echoes in mountain caves.*
+> *Like reflections.*
+> *Like stage performances.*
+> *Like dreams—known by the noble.*
+>
+> *Momentary, transient—such are the pleasures of desire.*
+> *Like illusions, like mirages, false.*
+> *Like bubbles, like foam, hollow.*
+> *Conceptually constructed—known by the Buddhas.*"
+
+You in the Workshop now.
+You know what you working with.
+**Momentary. Transient. Hollow. False.**
+
+That's the raw material you dealing with.
+Now let's get the tools out and start working.
+
+## You Can't Run From These
+
+The Rājāvavādaka Sūtra gives you the hardest teaching:⁶
+
+Listen, Great King:
+
+> "Suppose from the four directions four mountains came—
+> solid, substantial, unbroken, without cracks, without holes,
+> well-compacted, one solid mass,
+> touching the sky, scraping the earth,
+> crushing all grass, wood, branches, leaves, and straw,
+> grinding all beings, all creatures, all living things.
+>
+> From them it would not be easy to escape by speed,
+> or to turn them back by strength, wealth, mantras, or medicines.
+
+You can't run. You can't buy your way out. You can't spell your way out.
+
+> "Just so, Great King, four great terrors come,
+> from which it is not easy to escape by speed
+> or to turn them back by strength, wealth, mantras, or medicines.
+>
+> What are the four?
+
+**The Four Mountains:**
+
+**1. Old Age** comes, crushing youth.
+**2. Disease** comes, crushing health.
+**3. Death** comes, crushing life.
+**4. Loss** comes, crushing all prosperity.
+
+> "Why? Just as a lion, king of beasts—
+> beautiful, swift, well-formed with claws and fangs, terrifying—
+> enters a herd of deer,
+> seizes a deer,
+> and does what he wants with it—
+> that deer, encountering that powerful, fierce mouth,
+> becomes powerless—
+>
+> Just so, Great King,
+> for one pierced by death's arrow,
+> with pride departed,
+> without refuge,
+> with vital points being cut and loosened,
+> with flesh and blood drying up,
+> with parched throat, thirsty, disturbed face,
+> limbs thrashing about,
+> unable to function, without strength,
+> smeared with saliva, snot, pus, urine, and feces,
+> with only a breath of life remaining,
+> depending on karma for the next birth,
+> terrified by Yama's messengers,
+> fallen under the power of the night of death,
+> on the last breaths being obstructed—
+>
+> Alone, without companion,
+> leaving this world,
+> entering the next world,
+> walking the great path,
+> entering the great wilderness,
+> descending into the great abyss,
+> proceeding into the great darkness,
+> being carried away by the great ocean,
+> blown by the wind of karma,
+> going to a signless direction—
+>
+> **There is no other protection,**
+> **no other refuge,**
+> **no other resort**
+> **except the Dharma.**
+
+You hear that? **Except the Dharma.**
+
+> "The Dharma, Great King, at that time becomes protection, shelter, refuge, resort.
+>
+> Just as for one afflicted by cold—the warmth of fire.
+> For one whose fire has gone out—extinction.
+> For one afflicted by heat—coolness.
+> For one on a journey—a cool, shady grove.
+> For the thirsty—cold water.
+> For the hungry—excellent food.
+> For the sick—doctor, medicine, attendants.
+> For the frightened—powerful helpers, good companions, protection—
+>
+> Just so, Great King, for one pierced by death's arrow,
+> with pride departed,
+> without protection, without refuge—
+> there is no other protection, no other refuge
+> except the Dharma.
+
+That's the hard truth.
+When the four mountains come?
+**Only the Dharma can save you.**
+
+---
+
+## So What You Gonna Do?
+
+The Buddha tells the King straight:
+
+> "Therefore, Great King,
+> you should be one who sees impermanence,
+> one who sees decay and destruction,
+> one frightened by the terror of death.
+>
+> By Dharma, Great King, should you rule your kingdom—
+> not by unrighteousness.
+>
+> Why? Even this body of yours, Great King—
+> even though carefully protected for a long time,
+> even though satisfied with excellent, pure, delicious food and drink,
+> supplied with what removes hunger and thirst—
+> **the time of death will come.**
+
+Even if you eat the best food, wear the best clothes—
+
+> "Even though covered with fine garments—
+> Kāśi silk, Kauśeya, Dūkūla, cotton, wool—
+> lying on the ultimate bed—
+> **the time of death will come,**
+> your body covered with sweat-soaked, dirty, foul clothes.
+
+Even if you smell good now—
+
+> "Even though this body of yours, Great King,
+> is perfumed with bath oils, unguents, incense, and flowers—
+> in a short time **it will become foul-smelling.**
+
+Even if you surrounded by lovers—
+
+> "Even though dwelling in women's quarters,
+> surrounded by groups of women,
+> sung to with various instruments, songs, music, and dances,
+> happy, playing, enjoying, being served—
+> **the time of death will come**
+> with extreme suffering and depression.
+
+Even if you live in a mansion—
+
+> "Even though dwelling in houses
+> plastered and painted,
+> with well-secured bolts,
+> with well-shut windows,
+> with many incense, perfume, flower lamps burning,
+> with hanging silk garlands and wreaths,
+> scattered with pearl flowers,
+> fumigated with scent vessels,
+> with arranged foot-stools, cushions, spreads, coverings, and pillows on couches—
+> lying there—
+>
+> Yet again, in the charnel ground,
+> extremely repulsive,
+> filled with jackals, crows, vultures, and corpse-eaters,
+> with meat, bones, hair, blood, and fat—
+> **there this body of yours will lie powerless on the earth.**
+
+That's where you end up. The charnel ground.
+
+---
+
+## The Final Journey
+
+Listen to the rest:
+
+> "Even though mounted on elephants, horses, chariots,
+> with conches and drums being struck,
+> held under an umbrella,
+> fanned with yak-tail fans,
+> followed by many elephants, horses, chariots, and foot-soldiers,
+> bowed to by hundreds of thousands with joined palms—
+> after experiencing such departure—
+>
+> Soon, motionless,
+> mounted on the death bed,
+> lifted by four men,
+> carried out through the southern gate of the city,
+> by mother, father, brothers, sisters, wife, sons, daughters, relatives, servants, workers, and employees—
+> with grieving hearts,
+> with disheveled arms,
+> beating their breasts,
+> crying out extremely pitifully—
+> 'Alas, son! Alas, master! Alas, dear one! Alas, lord!'—
+> cried out by townsfolk and countryfolk,
+> seen with contempt,
+> carried to the charnel ground—
+>
+> Again, eaten by crows, vultures, dogs, jackals, and others—
+> or those bones burned by fire,
+> or buried in the earth,
+> or washed by water,
+> or pulverized by wind, heat, and rain,
+> scattered in all directions—
+> **there they will reach the state of rot.**
+
+You understand?
+
+> "Thus are all conditioned things impermanent.
+> Thus are they unstable."
+
+That's the reality.
+That's what you working with in the Workshop.
+
+---
+
+## Desire, Hatred, Delusion—Choose Your Tool
+
+Among the defilements (*kleśa*), the main ones are:⁷
+**desire** (*rāga*),
+**hatred** (*dveṣa*),
+and **delusion** (*moha*).
+
+For whichever one is strongest in you,
+first cultivate its antidote.
+And avoid its causes.
+
+---
+
+## Tool #1: Foulness Meditation (Desire's Antidote)
+
+The Ratnamegha says:⁸
+
+> "He practices the antidote to desire.
+> He avoids the causes that produce desire.
+>
+> What is the antidote to desire?
+> **Foulness meditation** (*aśubhā bhāvanā*).
+>
+> What are the causes that produce desire?
+> Beautiful forms in villages and towns.
+
+What is foulness meditation?
+
+Listen to what's actually in this body:
+
+> "In this body there are:
+> head-hair, body-hair, nails, teeth, dust, dirt,
+> skin, flesh, bones, sinews, veins,
+> kidneys, heart, spleen, lungs,
+> intestines, mesentery,
+> stomach, bowels,
+> belly-content, liver, feces, snot, sweat, phlegm, saliva, mucus,
+> fat, lymph, marrow, grease,
+> bile, phlegm, pus, blood,
+> brain, brain-membrane, tears."
+
+That's what in the body.
+
+Now the bodhisattva investigates these things:
+
+> "In these substances the bodhisattva becomes one who examines.
+>
+> Examining thus, he thinks:
+> 'Even a fool, a stupid one, incapable, unskilled—
+> if he knew these substances,
+> he would not generate desire-mind.
+> How much more one of wisdom-nature!'
+>
+> Thus the bodhisattva becomes one abundant in foulness meditation."
+
+You see what you looking at?
+Head-hair, snot, pus, feces, blood.
+
+You understand that? Even a fool wouldn't get desire if he saw it clearly.
+
+**That's the tool for desire.**
+**Foulness meditation.**
+
+---
+
+## The Butcher's Eye
+
+The Prajñāpāramitā gives another angle:⁹
+
+> "The bodhisattva practicing prajñāpāramitā
+> knows this very body as it really is.
+>
+> Just as a butcher or butcher's apprentice,
+> having killed a cow,
+> having made four cuts with a sharp knife,
+> examines them standing or sitting—
+>
+> Just so, the bodhisattva practicing prajñāpāramitā
+> knows this very body by elements as it really is:
+>
+> 'In this body there is earth-element,
+> water-element, fire-element, wind-element.'"
+
+Like a butcher looking at cuts of meat.
+Not seeing "cow"—seeing parts.
+
+Not seeing "body"—seeing elements.
+
+That's the tool.
+**The butcher's eye.**
+
+---
+
+## The Grain Bag
+
+The text continues:¹⁰
+
+> "Just as a farmer's bag is full of various grains—
+> rice, wheat, sesame, millet, peas, beans, barley, lentils, mustard—
+> and a sighted person examining them would say:
+> 'This is rice, this is wheat, these are sesame,
+> these are millet, these are peas, these are beans,
+> this is barley, these are lentils, these are mustard'—
+>
+> Just so, the bodhisattva practicing prajñāpāramitā
+> examines this very body from the crown of the head down to the soles of the feet,
+> enclosed by skin, surrounded by hair,
+> full of various kinds of impurity, as it really is:
+>
+> 'In this body there are head-hair, body-hair, nails... [full list]...
+> brain, brain-membrane, eye-fluid, ear-fluid.'"
+
+Like looking in a grain bag.
+Separating the types.
+Seeing clearly.
+
+**That's foulness meditation.**
+**That's the tool for desire.**
+
+---
+
+## The Charnel Ground Workshop
+
+But the real work? It happens at the charnel ground.¹¹
+
+The Prajñāpāramitā continues:
+
+> "The bodhisattva goes to the charnel ground.
+> He sees various forms of dead bodies
+> thrown in the charnel ground,
+> discarded on corpse-beds—
+> dead one day, two days, three days, four days, five days—
+> swollen, blue, putrid, decaying.
+>
+> He applies this to his own body:
+> **'This body too is of that nature,**
+> **of that character,**
+> **has not escaped that law.'**
+
+You see a corpse one day dead? Apply it to yourself.
+Two days dead, swollen, blue? Apply it to yourself.
+
+> "Thus the bodhisattva dwells contemplating the body in the body externally.
+>
+> Again, when he sees dead bodies thrown in the charnel ground,
+> being eaten by crows, vultures, dogs, jackals,
+> and other various kinds of creatures—
+>
+> He applies this to his own body:
+> **'This body too is of that nature.'**
+
+Crows eating it. Dogs fighting over it.
+That's your body too.
+
+> "Again, when he sees dead bodies thrown in the charnel ground—
+> devoured, impure, foul-smelling—
+>
+> He applies this to his own body."
+
+Keep applying it. Keep seeing it.
+
+> "Again, when he sees on the corpse-path
+> a skeleton of bones,
+> smeared with flesh and blood,
+> held together by sinews—
+>
+> He applies this to his own body."
+
+Skeleton with some meat still on it.
+Sinews holding it together.
+That's you.
+
+> "Again, when he sees on the corpse-path
+> bones become a skeleton,
+> flesh and blood gone,
+> sinew-bonds gone—
+>
+> He applies this to his own body."
+
+Just bones now. Sinews gone.
+That's you.
+
+> "Again, when he sees on the corpse-path
+> bones scattered in all directions—
+> here foot-bones,
+> here shin-bones,
+> here thigh-bones,
+> here hip-bones,
+> here spine,
+> here rib-bones,
+> here neck-bones,
+> here arm-bones—
+>
+> He applies this to his own body."
+
+Scattered everywhere. Separated.
+That's you.
+
+> "Again, when he sees on the corpse-path
+> bones many years old,
+> dried by wind,
+> resembling shells—
+>
+> He applies this to his own body:
+> **'This body too is of that nature,**
+> **of that character,**
+> **has not escaped that law.'**
+
+Years old. Wind-dried. White like shells.
+That's you.
+
+> "Again, the bodhisattva practicing prajñāpāramitā,
+> when he sees on the corpse-path
+> bones many years old—
+> blue, pigeon-colored,
+> rotten, pulverized,
+> become dust on the earth,
+> mixed with dust, indistinguishable—
+>
+> He applies this to his own body:
+> **'This body too is of that nature,**
+> **of that character,**
+> **has not escaped that law.'**"
+
+Finally? Dust. Just dust.
+Mixed with the earth. Can't tell the difference.
+
+**That's where your body goes.**
+**That's the Workshop reality.**
+
+When you see it clear like that?
+Desire ain't got nowhere to stand.
+
+---
+
+## The Antidote to Hatred
+
+Briefly stated: **Loving-kindness** (*maitrī*) is the antidote to hatred.¹²
+
+And the cause of hatred?
+Seeing unpleasant beings.
+Or being forced to share food and such with them,
+which generates dislike.
+
+What is loving-kindness?
+
+> "Wishing for the happiness of others.
+> Praying for it.
+> Thirsting for it.
+> Delighting in it.
+>
+> **This is loving-kindness**—
+> undefiled affection,
+> not caused by sensual desire or expectation of return."
+
+You want them happy. You pray they happy. You thirst for their happiness.
+That's loving-kindness.
+
+---
+
+## Three Types of Loving-Kindness
+
+The Akṣayamati Sūtra teaches three types:¹³
+
+**1. Loving-kindness with beings as object**
+For bodhisattvas of first mind-arising.
+
+**2. Loving-kindness with dharmas as object**
+For bodhisattvas in the practice stage.
+
+**3. Loving-kindness with no object** (*anārambaṇā maitrī*)
+For bodhisattvas who have attained acceptance of non-arising dharmas.
+
+---
+
+## How to Practice: Start With the Easy Ones
+
+The method:¹⁴
+
+> "First, for dear beings, do not cultivate meditation
+> by bringing to mind their benefit and happiness.
+>
+> Cultivate loving-kindness for those equal to you.
+> Then for those you've associated with before.
+> Then for indifferent ones.
+> Then for those dwelling nearby.
+> Then for those dwelling in your own village.
+> Then in another village.
+>
+> Thus, having resolved on one direction,
+> having pervaded and entered it, dwell.
+> Thus in the ten directions."
+
+Start with people you already like—but don't make it attachment.
+Then move to neutral folks.
+Then the difficult ones.
+Expand it out—your street, your town, other towns.
+Then all directions.
+
+For Buddha-object, bodhisattva-object, śrāvaka-pratyekabuddha-object loving-kindness?
+You don't need this gradual practice. Just do it directly.
+
+---
+
+## The Dedication Prayer: Make Them Happy
+
+The Vajradhvaja Pariṇāmanā gives the full teaching:¹⁵
+
+Listen to how the bodhisattva dedicates merit:
+
+> "Practicing bodhisattva conduct,
+> whatever forms are seen—pleasing or disagreeable,
+> whatever sounds, scents, flavors, tangibles, mental objects—
+> pleasing or disagreeable,
+> pure, excellent, bright, brilliant—
+> from which gladness arises,
+> happiness descends,
+> serenity arises,
+> joy is born,
+> delight abides,
+> rapture appears,
+> depression departs,
+> mental pliancy appears,
+> the mind becomes workable,
+> intentions become soft,
+> faculties attain delight—
+>
+> Constantly experiencing happiness,
+> **he dedicates thus:**
+
+Now listen to the dedication:
+
+> **"By this dedication, in greater measure,**
+> **may all those Buddhas, Blessed Ones,**
+> **be endowed with inconceivable Buddha-dwelling happiness!**
+> **Be well-gathered by incomparable Buddha-samādhi happiness!**
+> **Be supported by boundless happiness in greater measure!**
+> **Be endowed with immeasurable Buddha-liberation happiness!**
+> **Be well-gathered by immeasurable Buddha-miracle happiness!**
+> **Be well-grasped by inconceivable Buddha-unimpeded-dwelling happiness!**
+> **Be covered by difficult-to-approach Buddha-fearlessness happiness!**
+> **Be supremely happy with immeasurable Buddha-power happiness!**
+> **Be happy with mastery-happiness of all-knowing pacified non-arising happiness!**
+> **Be happy with unimpeded happiness of the attachment-free dwelling,**
+> **constantly concentrated Tathāgata happiness,**
+> **non-dual conduct!"**
+
+That's for the Buddhas.
+
+Now for the bodhisattvas:
+
+> "Having thus dedicated that wholesome root to the Tathāgatas,
+> he dedicates to the bodhisattvas:
+>
+> For the fulfillment of incomplete intentions!
+> For the purification of unpurified omniscience-aspirations!
+> For the completion of incomplete perfections!
+> For the stabilization of vajra-like bodhicitta-arising!
+> For the non-turning-back of the irrevocable omniscience-armor!
+> For the strengthening of bodhisattvas' wholesome roots!
+> For the fulfillment of the great aspiration dwelling in equality with all worlds!
+> For the attainment of all bodhisattva-dwellings!
+> For the sharpening of all bodhisattva faculties!
+> For all bodhisattvas' wholesome roots to contact omniscience!"
+
+For the śrāvakas and pratyekabuddhas:
+
+> "Having thus dedicated that wholesome root for the benefit of bodhisattvas,
+> he dedicates that very wholesome root
+> to all śrāvakas and pratyekabuddhas dwelling in the Buddha's teaching:
+>
+> For Buddha-recollection fulfillment!
+> For Dharma-recollection practice!
+> For reverence for the noble Sangha!
+> For not-long-delayed Buddha-vision!
+> For mind-purification!
+> For penetration of Buddha-dharmas!
+> For attainment of immeasurable qualities!
+> For purification of all superknowledge skills!
+> For removal of doubt about the Dharma!"
+
+And for all beings who hear even one syllable of Buddha's teaching:
+
+> "Whatever beings hear even one syllable of the Buddha's word,
+> the Dharma word,
+> or attend upon the noble Sangha—
+> for them he dedicates that wholesome root to supreme perfect awakening!"
+
+That's the dedication.
+You make everybody happy.
+Buddhas, bodhisattvas, disciples, all beings.
+
+**That's loving-kindness.**
+**That's the tool for hatred.**
+
+---
+
+## Seeing How Things Lean on Things
+
+For the underlying tendency of delusion (*moha*),
+the antidote is **seeing dependent origination** (*pratītyasamutpāda darśana*).¹⁶
+
+---
+
+## The Śālistamba Teaching: How It All Connects
+
+The Śālistamba Sūtra teaches:¹⁷
+
+> "What is the causal basis of internal dependent origination?
+>
+> **Conditioned by ignorance, formations.**
+> **Conditioned by formations, consciousness.**
+> [And so on through the twelve links]
+> **Conditioned by birth, old age and death.**
+
+Now listen close to how it works:
+
+> "If ignorance did not exist,
+> formations would not come to be.
+>
+> If birth did not exist,
+> old age and death would not come to be.
+>
+> But when ignorance exists,
+> the arising of formations occurs.
+>
+> When birth exists,
+> the arising of old age and death occurs."
+
+You understand? It's all connected. Leaning on each other.
+
+But here's the key—nothing's doing it on purpose:
+
+> "Ignorance does not think:
+> 'I produce formations.'
+>
+> Formations do not think:
+> 'We are produced by ignorance.'
+>
+> Birth does not think:
+> 'I produce old age and death.'
+>
+> Old age and death do not think:
+> 'We are produced by birth.'
+>
+> **But when ignorance exists,**
+> **the arising and appearance of formations occurs.**
+>
+> **When birth exists,**
+> **the arising and appearance of old age and death occurs.**
+
+Nobody's running it. It just happens.
+Conditions meet. Things arise.
+
+**That's how you should see internal dependent origination's causal basis.**
+
+---
+
+## The Six Elements: The Conditions
+
+How should you see the conditional basis?¹⁸
+
+> "By the coming together of six elements.
+>
+> What six?
+> Earth-element, water-element, fire-element,
+> wind-element, space-element, consciousness-element.
+
+What do they do?
+
+**Earth-element:**
+> "What produces the body's solidity, hardness—
+> this is called earth-element."
+
+**Water-element:**
+> "What performs the function of holding the body together—
+> this is called water-element."
+
+**Fire-element:**
+> "What digests the body's eaten, drunk, chewed food—
+> this is called fire-element."
+
+**Wind-element:**
+> "What performs the function of in-breath and out-breath—
+> this is called wind-element."
+
+**Space-element:**
+> "What produces the body's internal hollowness—
+> this is called space-element."
+
+**Consciousness-element:**
+> "What produces name-and-form,
+> conjoined with the five-consciousness-group
+> and defiled mental consciousness—
+> this is called consciousness-element."
+
+When the conditions ain't complete? The body don't arise.
+
+When the internal earth-element is complete,
+and water, fire, wind, space, consciousness-elements are complete,
+then from the coming together of all,
+**the body arises.**
+
+But here's what they don't do:
+
+> "The earth-element does not think:
+> 'I produce the body's hardness.'
+>
+> The water-element does not think:
+> 'I perform the holding-together function.'
+>
+> The fire-element does not think:
+> 'I digest the food.'
+>
+> The wind-element does not think:
+> 'I perform the breathing function.'
+>
+> The space-element does not think:
+> 'I make internal hollowness.'
+>
+> The consciousness-element does not think:
+> 'I am produced by these conditions.'
+>
+> **But when these conditions exist,**
+> **the body arises.**"
+
+Nobody planning it. Nobody making it happen.
+Conditions meet. Body arises.
+
+---
+
+## What They Ain't
+
+Now here's what's important:¹⁹
+
+> "The earth-element is not a self,
+> not a being, not a life, not a person,
+> not a human, not a man,
+> not a woman, not a male, not a neuter,
+> not 'I', not 'mine',
+> not anyone else's.
+>
+> So too the water-element, fire-element, wind-element,
+> space-element, consciousness-element—
+> not a being, not a life, not a person,
+> not a human, not a man,
+> not a woman, not a male, not a neuter,
+> not 'I', not 'mine',
+> not anyone else's."
+
+You hear that? Not 'I'. Not 'mine'. Not anybody's.
+
+---
+
+## What Ignorance Is
+
+So what's ignorance?²⁰
+
+> "Whatever perception of oneness in these six elements,
+> perception of a lump,
+> perception of permanence,
+> perception of stability,
+> perception of eternity,
+> perception of pleasure,
+> perception of self,
+> perception of being, life, person, human—
+> perception of 'I-making' and 'mine-making'—
+> such various non-knowing—
+> **this is called ignorance.**
+
+That's delusion. Seeing one where there's many. Seeing permanent where it's changing. Seeing self where there ain't none.
+
+> "When ignorance exists,
+> desire, hatred, and delusion operate toward objects.
+>
+> Whatever desire, hatred, delusion toward objects—
+> these are called formations.
+>
+> Cognition of objects is consciousness.
+>
+> The four formless aggregates together with consciousness—
+> that's name[-and-form].
+>
+> The four great elements and the form derived from them,
+> briefly combined—
+> that's name-and-form.
+>
+> The faculties based on name-and-form—
+> the six sense-bases.
+>
+> The meeting of three dharmas—contact.
+>
+> Experience of contact—feeling.
+>
+> Grasping at feeling—craving.
+>
+> Amplification of craving—clinging.
+>
+> Karma born from clinging that produces next-becoming—becoming.
+>
+> Appearance of aggregates from that cause—birth.
+>
+> Maturation of aggregates—old age.
+>
+> Destruction of aggregates—death."
+
+You see how it all connects?
+**Ignorance** → formations → consciousness → name-and-form → six sense-bases → contact → feeling → craving → clinging → becoming → birth → old age and death.
+
+One leans on the next. The next leans on the next.
+Like dominoes falling.
+
+---
+
+## The Rice-Seedling Example
+
+The text gives an example:²¹
+
+> "Just as from five causes eye-consciousness arises:
+>
+> Depending on the eye,
+> and on form,
+> and on light,
+> and on space,
+> and on appropriate mental attention—
+> eye-consciousness arises.
+>
+> The eye performs the function of basis.
+> Form performs the function of object.
+> Light performs the function of illumination.
+> Space performs the function of non-obstruction.
+> Appropriate mental attention performs the function of bringing together.
+>
+> When the conditions don't exist,
+> eye-consciousness doesn't arise.
+>
+> When the internal eye sense-base is complete,
+> and form, light, space, appropriate mental attention are complete,
+> then from the coming together of all,
+> **eye-consciousness arises.**"
+
+Same thing. Conditions meet. Consciousness arises.
+
+> "The eye does not think:
+> 'I perform the basis function for eye-consciousness.'
+>
+> Form does not think:
+> 'I perform the object function.'
+>
+> Light does not think:
+> 'I perform the illumination function.'
+>
+> Space does not think:
+> 'I perform the non-obstruction function.'
+>
+> Appropriate mental attention does not think:
+> 'I perform the bringing-together function.'
+>
+> Eye-consciousness does not think:
+> 'I am produced by these conditions.'
+>
+> **But when these conditions exist,**
+> **eye-consciousness arises, appears.**"
+
+Nobody making it happen. Nobody running it.
+Conditions meet. It arises.
+
+**That's dependent origination.**
+**That's how you see through delusion.**
+
+---
+
+## Five Ways to See It
+
+Internal dependent origination should be seen five ways:²²
+
+**1. Not eternal**
+> "Because different are the death-moment aggregates,
+> different the birth-moment aggregates.
+> Not the very same death-moment aggregates
+> are the birth-moment aggregates.
+> But the death-moment aggregates cease,
+> the birth-moment aggregates appear.
+> **Therefore, not eternal.**"
+
+**2. Not annihilated**
+> "Not after aggregates have ceased
+> do birth-moment aggregates appear,
+> nor while they haven't ceased.
+> But the death-moment aggregates cease,
+> the birth-moment aggregates appear.
+> Like a balance beam rising and falling.
+> **Therefore, not annihilated.**"
+
+**3. Not transferred**
+> "From a different being-collection,
+> different aggregates arise in another birth.
+> **Therefore, not transferred.**"
+
+**4. Small cause, big result**
+> "Small karma is done,
+> large fruit-ripening is experienced.
+> **Therefore, from small cause, large result arises.**"
+
+**5. Similar continuity**
+> "As the karma is done to be felt,
+> so the ripening is felt.
+> **Therefore, similar continuity.**"
+
+You understand?
+Not eternal—but not annihilated.
+Not transferred—but it continues.
+Small causes, big results.
+Similar to what you did.
+
+**That's the Workshop understanding.**
+**That's how you work with the mind.**
+
+---
+
+## The Final Word
+
+Briefly stated:²³
+
+This is the antidote to desire-manifestation—**foulness meditation.**
+
+This is the antidote to hatred-manifestation—**loving-kindness.**
+
+This is the antidote to delusion—**seeing dependent origination.**
+
+---
+
+*Thus ends the Twelfth Chapter: The Workshop.*
+
+---
+
+# Theological Notes
+
+### The Workshop Metaphor
+The forest becomes the Workshop—the place where you go to do the hard work of mind-training. This isn't passive meditation; it's active craftsmanship. You've got tools (foulness, loving-kindness, dependent origination), raw material (the untrained mind with its three poisons), and the work of transformation.
+
+### The Four Mountains
+The Rājāvavādaka's teaching of the four mountains (old age, disease, death, loss) coming from the four directions is one of the most powerful memento mori teachings in Buddhism. You can't run. You can't buy your way out. Only the Dharma protects.
+
+### The Charnel Ground as Workshop Floor
+The extended charnel ground contemplations transform the graveyard into the ultimate workshop floor. You work with the reality of decay, applying each stage to your own body. This isn't morbid—it's clear-eyed realism that cuts through delusion and desire.
+
+### Three Tools for Three Poisons
+
+| Poison | Tool | Method |
+|:---|:---|:---|
+| **Desire** (rāga) | Foulness meditation | See body as hair, snot, pus, blood; charnel ground stages |
+| **Hatred** (dveṣa) | Loving-kindness | Wish happiness for all; dedicate merit systematically |
+| **Delusion** (moha) | Dependent origination | See how things lean on things; no self running it |
+
+### Dependent Origination as Blues Wisdom
+The teaching that "nobody's making it happen—conditions meet, things arise" is pure Blues wisdom. It's not fatalism (that would be eternal), not randomness (that would be annihilation), but the middle way—things happen because of conditions, not because of a self or an external controller. Small actions, big consequences. Similar to what you did.
+
+### The Six Elements Teaching
+Breaking the body down into earth (hardness), water (cohesion), fire (digestion), wind (breath), space (hollowness), and consciousness (awareness) shows there's no "you" running it—just elements doing their thing. Not 'I', not 'mine', not anybody's.
+
+---
+
+## AUDIO CHAPTER 13
+--------------------------------------------------------------------------------
+
+# Chapter 13: The Four Posts (Smṛtyupasthāna)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The thirteenth chapter of Śāntideva's Compendium of Training, on the four foundations of mindfulness: mindfulness of body, feelings, mind, and dharmas. Includes teachings on contemplating impermanence, emptiness, and dependent origination.*
+
+---
+
+# Standing Guard
+
+You got your mind working now.¹ You cleaned it out. You trained it in the Workshop.
+
+Now you gotta **stand guard**. You gotta set up your posts.
+
+Four posts. Four places to stand and watch.
+
+This is **smṛtyupasthāna**—the Four Foundations of Mindfulness.
+
+Let me show you where to stand.
+
+---
+
+## What Is This Body?
+
+We already talked about the body in the Workshop—foulness meditation, the Butcher's Eye.² Now we go deeper.
+
+The Dharmasaṃgīti Sūtra says:³
+
+A bodhisattva establishes mindfulness in the body like this:
+
+> "This body is a collection of feet-toes-shins-thighs-belly-navel-back-spine-heart-ribs-hands-arms-shoulders-neck-jaw-forehead-skull-head. Accumulated by karma, inhabited by a hundred thousand thought-constructions and afflictions.
+>
+> And in this body, many substances are assembled: hair, body-hair, nails, teeth, bones, skin, flesh, fat, sinews, marrow, liver, lungs, intestines, urine, feces, bile, phlegm, pus, mucus, brain.
+>
+> So many substances assembled here. **What is this body?**"
+
+When you examine it like that, you see:
+
+> "**This body is like space.**"
+
+He establishes mindfulness in the body as space. Sees all this as **space**.
+
+Then, because he knows the body, his mindfulness doesn't wander. Doesn't scatter. Doesn't run away.
+
+---
+
+## The Body Has No Owner
+
+The Sūtra continues:
+
+> "This body did not come from the past. It does not transmigrate to the future. It does not stand between past and future. It arises from false imaginings. It has no maker, no experiencer. It is not established at beginning, middle, or end.
+>
+> **It has no owner. Nothing is 'mine.' Nothing is grasped.**
+>
+> It is spoken of by visitors as 'body,' 'form,' 'enjoyment,' 'support,' 'corpse,' 'sense-sphere.'
+>
+> This body is essenceless. Born from mother's blood and father's semen. Impure by nature, putrid, foul-smelling. Full of desire, hatred, delusion, fear, depression, thievishness. Always subject to death, falling, breaking, scattering, destruction. Led by a hundred thousand diseases."
+
+You hear that?
+
+**No owner. No landlord. No "I" running it.**
+
+Just conditions meeting. Just blood and semen. Just impurity, decay, and death.
+
+---
+
+## Three Essences from an Impermanent Body
+
+The Ratnacūḍa Sūtra says:⁴
+
+> "Knowing this body is impermanent, unstable, ending in death, he does not live dangerously for the sake of the body. But he **takes the essence**.
+>
+> He takes three essences: **body-essence, wealth-essence, life-essence**.
+>
+> **Body-essence**: Knowing 'the body is impermanent,' he undertakes servanthood and discipleship toward all beings, eager to serve.
+>
+> He does not commit body-faults, deceit, hypocrisy, concealment, trickery.
+>
+> **Life-essence**: Knowing 'the body is impermanent,' having obtained the relief of life, he does not do evil karma even for the sake of life.
+>
+> **Wealth-essence**: Knowing 'the body is impermanent,' he does not settle into craving for enjoyments. He becomes like one who has abandoned everything."
+
+You understand?
+
+The body is impermanent, unstable, ending in death.
+
+So you don't live dangerously for it. You don't cheat, deceive, or trick for it.
+
+**You take the essence.** You use the body to serve beings. You don't do evil for life. You don't crave wealth.
+
+**That's body-essence. That's the essence you extract from an impermanent body.**
+
+---
+
+## Establishing All Bodies in Buddha-Body
+
+The Ratnacūḍa continues:
+
+> "A bodhisattva, cultivating mindfulness-of-body contemplation, binds all beings' bodies to his own body. And this is his thought:
+>
+> 'All beings' bodies should be established by me in Buddha-body.'
+>
+> And as there are no outflows in the Tathāgata's body, so he contemplates the dharma-nature of his own body. He becomes skillful in the dharma-nature of no-outflows, and he knows all beings' bodies to have that very characteristic."
+
+You see what he's doing?
+
+He's not just contemplating his own body. He's **binding all beings' bodies to his body**.
+
+"All beings' bodies should be established by me in Buddha-body."
+
+**That's the bodhisattva's body-contemplation.** Not just cleaning your own body. Establishing all bodies in Buddha-body.
+
+---
+
+## Sixty-One Body-Metaphors
+
+The Vīradattaparipṛcchā gives sixty-one metaphors for this body:⁵
+
+Listen to this list. Every image cuts:
+
+> This body is:
+>
+> - Gradually arisen, gradually destroyed, a heap of atoms
+> - Full of holes, bowing and rising
+> - Streaming from nine wound-openings, like an anthill housing serpents
+> - An unconquered enemy
+> - A monkey-faced friend—betrays like a false friend
+> - Like a bad friend—speaks falsely by nature
+> - Like a foam-ball—weak by nature
+> - Like water-bubbles—arisen, broken, dissolved
+> - Like a mirage—deceptive by nature
+> - Like a banana tree—when examined, essenceless
+> - Like an illusion—by nature deceitful
+> - Like a king—full of commands
+> - Like an enemy—always watching for openings
+> - Like a thief—not to be trusted
+> - Like a condemned man—followed by the executioner
+> - Like an enemy—wishing harm
+> - Like a killer—obstructing wisdom-life
+> - Like an empty village—devoid of self
+> - Like a potter's vessel—ending in breakage
+> - Like a latrine—full of various impurities
+> - Like a pot of fat—streaming with impurities
+> - Like a wound—unable to bear rubbing
+> - Like a thorn—torturing by nature
+> - Like an old house—requiring repair
+> - Like old vehicles and vessels—requiring repair
+> - Like a raw pot—requiring protection with effort
+> - Like a riverbank tree—unstable, moving
+> - Like a great river-current—ending in death-ocean
+> - Like a traveler's inn—dwelling-place of all suffering
+> - Like an orphanage—unprotected
+> - Like a marketplace—obtained by bribes
+> - Like a child—constantly requiring protection
+
+You got sixty-one images. Every one showing the body's nature.
+
+Unstable. Impermanent. Full of holes. Betraying. Deceitful. Requiring protection. Ending in death.
+
+**That's body-mindfulness. That's the First Post.**
+
+---
+
+## The Body Verses
+
+The Vīradattaparipṛcchā concludes with verses:
+
+> *One who considers this body—a heap of filth—as beautiful,*
+> *that fool of limited understanding goes carrying a pot of shit, senseless.*
+>
+> *The nose carries a rampart of pus, the mouth always carries foul smell,*
+> *and like worms in the eyes of beings—who has desire or pride in that?*
+>
+> *Just as a fool, taking a coal, rubs it thinking "This will become white"—*
+> *it goes to destruction, not to whiteness—the fool's mind has false pride.*
+>
+> *So whoever thinks "I'll make this filthy body pure"—*
+> *bathed in a hundred pilgrimage waters, rubbed with unguents—*
+> *it goes to destruction by death's power, not to purity.*
+
+You hear that?
+
+You can't make the body pure. You can bathe it in a hundred holy rivers. You can rub it with perfumes.
+
+**It goes to destruction, not to purity.**
+
+That's the body. That's the First Post. Keep watching it.
+
+---
+
+## Three Feelings, Three Compassions
+
+The Ratnacūḍa Sūtra teaches:⁶
+
+> "A bodhisattva, cultivating mindfulness of feelings, obtains great compassion for beings attached to pleasant feeling. And he trains thus:
+>
+> 'That pleasure where no feeling exists—that's where there's no suffering.'
+>
+> He cultivates mindfulness of feelings for the cessation of beings' feeling. He straps on armor for beings' feeling-cessation. But he doesn't make feeling-cessation himself.
+>
+> Whatever feeling he feels, he feels it all embraced by great compassion."
+
+Listen to how this works:
+
+### When Pleasant Feeling Arises
+
+> "When he feels pleasant feeling, he obtains great compassion for beings of desire-nature, and **abandons the tendency to attachment** in himself."
+
+Pleasant feeling comes. He doesn't grasp it. He doesn't get pulled by it.
+
+But he feels compassion for all the beings grasping at pleasure. **Pulled by the tendency to attachment.**
+
+### When Painful Feeling Arises
+
+> "When he feels painful feeling, he obtains great compassion for beings of hatred-nature, and **abandons the tendency to aversion** in himself."
+
+Painful feeling comes. He doesn't push it away. He doesn't hate it.
+
+But he feels compassion for all the beings pushing away pain. **Pulled by the tendency to aversion.**
+
+### When Neither-Pleasant-Nor-Painful Feeling Arises
+
+> "When he feels neither-pleasant-nor-painful feeling, he obtains great compassion for beings of delusion-nature, and **abandons the tendency to ignorance** in himself."
+
+Neutral feeling comes. He doesn't space out. He doesn't get confused.
+
+But he feels compassion for all the beings confused by neutral feeling. **Pulled by the tendency to ignorance.**
+
+---
+
+## The Three Abandonings
+
+The Sūtra continues:
+
+> "In pleasant feeling, he is not drawn in—but he **uproots attachment**.
+>
+> In painful feeling, he is not struck down—but he **uproots aversion**.
+>
+> In neither-pleasant-nor-painful feeling, he does not become ignorant—but he **uproots ignorance**."
+
+You understand?
+
+**Three feelings. Three compassions. Three uprooting.**
+
+Feel pleasure? Compassion for the attached. Uproot attachment.
+Feel pain? Compassion for the averse. Uproot aversion.
+Feel neutral? Compassion for the deluded. Uproot ignorance.
+
+---
+
+## Three Knowledges
+
+> "Whatever feeling he knows, he knows it all as **impermanent feeling**, as **suffering feeling**, as **non-self feeling**.
+>
+> In pleasant feeling, he is a **knower of impermanence**.
+> In painful feeling, he is a **knower of the thorn** (painful feeling is like a thorn).
+> In neither-pleasant-nor-painful feeling, he is a **knower of peace**.
+>
+> Thus:
+> **What is pleasant is impermanent.**
+> **What is painful is suffering.**
+> **What is neither-pleasant-nor-painful is non-self.**"
+
+Three feelings. Three knowledges.
+
+Pleasant = impermanent
+Painful = thorn (suffering)
+Neutral = peace (non-self)
+
+---
+
+## Feeling Is Not the Feeler
+
+The Akṣayamati Sūtra teaches:⁷
+
+> "Touched by painful feeling, he generates great compassion for beings fallen into all painful states...
+>
+> But truly, **fixation is feeling, grasping is feeling, clinging is feeling, perceiving is feeling, distortion is feeling, conceptualization is feeling**."
+
+The Dharmasaṃgīti Sūtra says:⁸
+
+> *Feeling is spoken of as experience. By what is it experienced?*
+> *The feeler is not separate from feeling. It does not exist apart.*
+>
+> *Thus mindfulness should be established in feeling by the wise,*
+> *Just as in awakening—peaceful, pure, luminous.*
+
+You hear that?
+
+**There's no feeler separate from feeling.**
+
+Feeling arises. But there's no "I" experiencing the feeling.
+
+Just feeling. Just arising. Just ceasing.
+
+**That's the Second Post. Mindfulness of Feelings.**
+
+---
+
+## Where Is This Mind?
+
+The Ratnacūḍa Sūtra:⁹
+
+A bodhisattva searches for mind like this:
+
+> "Which mind? Does it get attached? Does it get angry? Does it get deluded? Is it past, future, present?"
+
+He searches:
+
+> "What is past is destroyed.
+> What is future has not arrived.
+> **What is present has no stability.**
+>
+> Mind, O Kāśyapa, is not found inside, not outside, not between both.
+>
+> **Mind has not been seen by all Buddhas, is not seen, will not be seen.**
+>
+> What all Buddhas have not seen, do not see, will not see—what kind of behavior can be seen in that?
+>
+> Only by false, mistaken perception do dharmas proceed.
+>
+> Mind is like an illusion—by false imagination it takes on various rebirths."
+
+You understand?
+
+**The mind can't be found.**
+
+Not inside. Not outside. Not in between.
+Not past. Not future. Not present.
+
+**All Buddhas never saw mind. Never see mind. Never will see mind.**
+
+If Buddhas can't see it, what is there to see?
+
+**Only false imagination. Only illusion.**
+
+---
+
+## Twenty-One Mind-Metaphors
+
+The Ratnacūḍa continues with metaphors:
+
+> Mind is **like a river-current**—unstable, arisen-broken-dissolved.
+>
+> Mind is **like a lamp-flame**—proceeding by causes and conditions.
+>
+> Mind is **like lightning**—momentary-breaking, unstable.
+>
+> Mind is **like space**—afflicted by adventitious defilements.
+>
+> Mind is **like an evil friend**—generating all suffering.
+>
+> Mind is **like a fish-hook**—perception of pleasure in pain.
+>
+> Mind is **like a blue fly**—perception of purity in impurity.
+>
+> Mind is **like an enemy**—acting in various harmful ways.
+>
+> Mind is **like a life-stealing yakṣa**—always searching for openings.
+>
+> Mind is **like a thief**—stealing all wholesome roots.
+>
+> Mind **delighting in form** is like a moth's eye (drawn to flame).
+>
+> Mind **delighting in sound** is like a war-drum.
+>
+> Mind **delighting in smell** is like a pig in filth.
+>
+> Mind **delighting in taste** is like a servant who only eats leftovers.
+>
+> Mind **delighting in touch** is like a fly in an oil-pot.
+
+You got twenty-one metaphors for mind.
+
+River-current. Lamp-flame. Lightning. Space. Evil friend. Fish-hook. Blue fly. Enemy. Yakṣa. Thief.
+
+Moth-eye for forms. War-drum for sounds. Pig for smells. Leftover-eater for tastes. Fly in oil for touch.
+
+**Every metaphor showing mind's nature—unstable, deceptive, harmful, grasping.**
+
+---
+
+## Mind Cannot Be Found
+
+The Sūtra concludes:
+
+> "Mind, when searched for, is not obtained. **What is not obtained is not perceived.** What is not perceived is neither past, future, nor present.
+>
+> **What is neither past, future, nor present has transcended the three times.**
+>
+> What has transcended the three times—there, **'it exists' and 'it does not exist'** don't apply."
+
+You search for mind?
+
+**You won't find it.**
+
+You don't find it? **You don't perceive it.**
+
+You don't perceive it? **It's not in the three times.**
+
+Not in the three times? **It transcends past, future, present.**
+
+Transcends the three times? **"Exists" and "doesn't exist" don't apply.**
+
+**That's mind-nature. Empty. Unfindable. Beyond existence and non-existence.**
+
+---
+
+## Mind Cannot See Itself
+
+The Ratnacūḍa adds:¹⁰
+
+> "He searches for mind but doesn't see mind inside, doesn't see mind outside, doesn't see mind in the aggregates, elements, or sense-spheres.
+>
+> Not seeing mind, he searches for mind's stream: 'Where does mind arise?'
+>
+> It occurs to him: '**When there's an object, mind arises.**'
+>
+> But what is that object? Is the object different from mind? Or is the object identical with mind?
+>
+> If the object is different from mind, there would be two minds. But if the object is identical with mind, **how can mind see mind?**
+>
+> **Mind cannot see mind.**
+>
+> Just as: the same sword-edge cannot cut that same sword-edge. The same fingertip cannot touch that same fingertip. **So mind cannot see that same mind.**"
+
+You hear that logic?
+
+Mind needs an object to arise. But what's the object?
+
+If the object is different from mind, you got two minds.
+If the object is the same as mind, **mind would have to see mind**.
+
+But **mind can't see mind**.
+
+Like a sword can't cut itself. Like a fingertip can't touch itself.
+
+**Mind can't see itself.**
+
+---
+
+## One-Pointedness of Mind
+
+The Ratnacūḍa concludes:
+
+> "The stability, the one-pointedness, the non-scattering, the non-wandering, the calm one-pointedness of this far-going, unembodied, lightly-turning, sense-object-rolling, six-sense-sphere-ranging, ever-changing mind that is like a troubled, disturbed, unstable monkey, like the wind—
+>
+> **This is called mindfulness of mind.**"
+
+You got this wild mind. Monkey-mind. Wind-mind. Troubled. Disturbed. Far-going. Rolling through sense-objects.
+
+You establish it. You make it stable. One-pointed. Not scattering. Not wandering.
+
+**That's mindfulness of mind. That's the Third Post.**
+
+---
+
+## No Dharma to Be Found
+
+The Ratnacūḍa teaches:¹¹
+
+> "Dwelling in dharmas, observing dharmas, **a bodhisattva does not see any dharma**. He does not see dharma as Buddha-dharma. He does not see dharma as awakening. He does not see dharma as path. He does not see dharma as escape.
+>
+> Knowing all dharmas as escapeless, he enters the samādhi called 'No Obstruction,' born from great compassion.
+>
+> He obtains artificial perception regarding all dharmas and all afflictions:
+>
+> **'These dharmas are unafflicted. These are not defilements.'**
+>
+> Why? Because they proceed to ultimate meaning. There is no accumulation of afflictions, no heap of them. No attachment-nature, no aversion-nature, no delusion-nature.
+>
+> **By awakening to these very afflictions, there is awakening.**
+> **The afflictions' own-nature is awakening's own-nature.**
+>
+> Thus he establishes mindfulness."
+
+You hear that radical teaching?
+
+**The afflictions' own-nature is awakening's own-nature.**
+
+By awakening to the afflictions, there's awakening.
+
+**Afflictions and awakening—same nature.**
+
+---
+
+## Dharmas Arise and Cease—No Self Inside
+
+The Ratnacūḍa continues:
+
+> "A bodhisattva dwelling with mindfulness of dharmas observing dharmas thinks thus:
+>
+> **'Dharmas arising, arise. Dharmas ceasing, cease.**
+>
+> But there is no self-existence here, no being, no life, no creature, no nourisher, no person, no human who is born, ages, dies, falls, or arises.
+>
+> **This is the dharma-nature of dharmas.**
+>
+> If they are gathered together, they come together. If they are not gathered together, they do not come together. Wholesome, unwholesome, or immovable—whatever type they are gathered as, that type they come together as.
+>
+> **There is no gatherer of dharmas. There is no arising of causeless dharmas.**'"
+
+You understand?
+
+Dharmas arise when conditions meet. Dharmas cease when conditions separate.
+
+But **there's no "I" making them arise. There's no "I" making them cease.**
+
+Just conditions. Just gathering. Just scattering.
+
+**No gatherer. No agent. No self running the show.**
+
+---
+
+## Never Abandoning Bodhicitta
+
+The Ratnacūḍa adds:
+
+> "Even while contemplating profound dharmas, **he does not abandon mindfulness of bodhicitta, of omniscience.**"
+
+You contemplate emptiness? You see no-self? You see dharmas as empty?
+
+**Don't abandon bodhicitta. Don't let go of the Waking-Up Heart.**
+
+That's the key. Emptiness **with** bodhicitta.
+
+Not just emptiness cutting beings loose. **Emptiness holding all beings.**
+
+---
+
+## Sixteen Verses on How Things Arise
+
+The Lalitavistara Sūtra gives verses on the nature of conditioned things (saṃskāras):¹²
+
+Listen to these sixteen verses. Every one a teaching:
+
+### Verse 1: Impermanence
+
+> *Conditioned things are impermanent, unstable, like raw pots—breaking by nature.*
+> *Borrowed, like begged things, like a sand-city—temporary.*
+
+### Verse 2: Falling Apart
+
+> *Conditioned things have falling-apart nature, like plaster in the rainy season,*
+> *like a riverbank with sand—dependent on conditions, weak by nature.*
+
+### Verse 3: Arising and Ceasing
+
+> *Conditioned things are like lamp-flames—quick arising-ceasing nature,*
+> *unstable, like wind, weak, essenceless like foam-balls.*
+
+### Verse 4: Empty
+
+> *Conditioned things are without agency, empty, like banana-trunks to one who examines.*
+> *Illusion-like, mind-deluding, like fooling children, like empty fists.*
+
+### Verse 5: Dependent Origination
+
+> *By causes and by conditions, all conditioned-things-movement proceeds.*
+> *Depending on each other from causes—this fools don't understand.*
+
+### Verse 6: The Rope Example
+
+> *Just as muñja-grass depends on valbaja-grass, rope is twisted by effort's power.*
+> *A well-wheel with buckets turns—in each one individually there is no turning.*
+
+**Explanation**: Like two grasses leaning on each other. Like a rope twisted from strands. Like a well-wheel turning—each part depends on the others. **None of them turning by themselves.**
+
+### Verse 7: The Becoming-Wheel
+
+> *So the whole becoming-wheel turns, supported by mutual arising.*
+> *In each one individually there is no turning—not found in past or future end.*
+
+**You hear that?** The wheel of becoming turns. But **each part individually doesn't turn**.
+
+It's **mutual arising**. Leaning on each other. Supporting each other.
+
+**No individual mover. No "I" running the wheel.**
+
+### Verse 8: Seed and Sprout
+
+> *Just as when there's a seed, a sprout—but what is seed is not sprout,*
+> *nor is it other than that, nor is it that—thus uncut, non-eternal, dharma-nature.*
+
+Seed becomes sprout. But seed is not sprout. Sprout is not seed.
+
+Yet they're not completely different either.
+
+**That's the middle way. Not cut off. Not eternal. Arising without "sameness" or "difference."**
+
+### Verse 9: Conditions Are Empty
+
+> *Conditioned things have ignorance as condition. But those conditioned things don't truly exist.*
+> *Conditioned things and ignorance both—these are empty, without agency by nature.*
+
+Ignorance causes conditioned things. But **ignorance itself is empty**. And **conditioned things are empty**.
+
+**Empty causes. Empty effects. No agent anywhere.**
+
+### Verse 10: Seal and Impression
+
+> *From a seal, an impression is seen. The seal's transference is not perceived.*
+> *Not in it, nor outside, nor in both—thus conditioned things: non-cut, non-eternal.*
+
+Like a seal stamping wax. You see the impression. But you don't see "seal-substance" transferring.
+
+**The form appears. But nothing transfers. Nothing moves across.**
+
+That's how conditioned things arise. **Appearance without transference. Effect without substance moving.**
+
+### Verse 11: Eye and Form
+
+> *Eye and form depending—eye-consciousness arises here.*
+> *Form is not based in eye. Form's transference is not into eye.*
+
+Eye meets form. Consciousness arises.
+
+But **form doesn't live in the eye**. And **form doesn't transfer into the eye**.
+
+Just: **conditions meet, consciousness arises.**
+
+### Verse 12: False Constructions
+
+> *No-self and foul by dharma-nature—yet they're constructed as self and pure.*
+> *By false, mistaken construction, eye-consciousness arises from that.*
+
+Reality is no-self and foul. But we construct it as self and pure.
+
+**From false construction, consciousness arises.**
+
+---
+
+### Verse 13: Fire from Sticks
+
+> *Just as from a fire-stick and upper stick, hand-effort meeting three ways,*
+> *from conditions, fire is born—having done its work, it quickly ceases.*
+
+Rub two sticks. Fire arises. Fire does its work. Fire goes out.
+
+> *Now if someone asks: Where did that fire come from? Where is it going?*
+> *Searching all directions and places—no going is found, no non-going found.*
+
+**Where does the fire come from?** Nowhere.
+**Where does it go?** Nowhere.
+
+Just conditions meeting. Fire arising. Fire ceasing.
+
+**No coming. No going. Just arising and ceasing from conditions.**
+
+### Verse 14: No Being to Be Found
+
+> *Aggregates, sense-spheres, elements, craving, ignorance—these are karma-conditions.*
+> *Their assembly suggests "being." But in ultimate truth, it's not obtained.*
+
+Five aggregates. Twelve sense-spheres. Eighteen elements. Craving. Ignorance.
+
+These **suggest** "being." These **point to** a person.
+
+But **in ultimate truth**? **No being is found.**
+
+Just conditions. Just assembly. **No person running it.**
+
+### Verse 15: Sound from Conditions
+
+> *Throat, lips, palate depending, tongue turning, syllables arise.*
+> *Not found in throat, not in palate—each syllable individually not obtained.*
+
+Sound arises from throat, lips, tongue meeting.
+
+But **sound doesn't live in the throat**. **Sound doesn't live in the tongue.**
+
+And **each syllable by itself? Not obtained.**
+
+> *From assembly, depending, by mind and understanding's power, speech proceeds.*
+> *Mind and speech, invisible-formed, not found outside or inside.*
+
+Mind and speech—**invisible form**.
+
+Not outside. Not inside.
+
+Just: **conditions meet, speech arises.**
+
+### Verse 16: The Lute Example
+
+> *Just as lute depends on wood, hand-effort meeting three ways,*
+> *with resonance-box, vīṇā, good sound-instruments—sound proceeds, born from that.*
+>
+> *Now if a wise one asks: Where did that sound come from? Where is it going?*
+> *Searching all directions and places—sound's going and coming are not obtained.*
+
+Same as the fire example.
+
+Lute-body. Strings. Fingers. They meet. Sound arises.
+
+**Where does sound come from?** Nowhere.
+**Where does it go?** Nowhere.
+
+Just conditions meeting. Sound arising. Sound ceasing.
+
+### Verse 17: The Yogi Sees Emptiness
+
+> *Thus by causes and by conditions, all conditioned-things-movement proceeds.*
+> *But the yogi, by seeing reality, sees conditioned things as empty, without agency.*
+
+Causes and conditions make everything turn.
+
+But **the yogi sees through it**. Sees it all as **empty**. Sees it all **without agency**.
+
+No "I" making it happen. No self running the show.
+
+**Just conditions. Just arising. Just ceasing.**
+
+### Verse 18: All Dharmas Are Space
+
+> *Aggregates, sense-spheres, elements—empty inside, empty outside,*
+> *devoid of being-soul-dwelling, characterized by dharma-space nature.*
+
+Aggregates, sense-spheres, elements—**all empty**.
+
+Empty inside. Empty outside.
+
+**No being. No soul. No dwelling-place.**
+
+Their nature is **space**. Open. Empty. Without substance.
+
+**That's dependent origination. That's how things arise. That's the Fourth Post.**
+
+---
+
+## The Lokanāthavyākaraṇa Verses
+
+The Lokanāthavyākaraṇa Sūtra concludes:¹³
+
+> *Dharmas are empty, nameless—what name do you ask about?*
+> *Emptiness has no gods, no nāgas, no rākṣasas,*
+> *no humans, no non-humans—all that exists is name.*
+>
+> *By name, the name-ness is empty. In name, no name is found.*
+> *All dharmas are nameless, but illuminated by names.*
+>
+> *The own-nature of name has never been seen, never been heard,*
+> *never arisen, never ceased—whose name do you ask about here?*
+>
+> *Name is conventional usage. Name is a designation shown.*
+> *Ratnacitra by name, Ratnottama supreme.*
+
+You understand?
+
+**Dharmas are empty. Names are empty.**
+
+You call something "Ratnacitra." You call something "Ratnottama."
+
+But **in the name itself, no name is found**.
+
+The name points. The name designates. But **the name-nature is empty.**
+
+All dharmas are nameless. But we **illuminate them by names**.
+
+**That's the emptiness of names. That's the Fourth Post.**
+
+---
+
+*Thus ends the Thirteenth Chapter: The Four Posts.*
+
+---
+
+## Theological Notes
+
+### The Four Foundations of Mindfulness
+
+This chapter covers the **four smṛtyupasthānas** (foundations of mindfulness):
+
+1. **Kāyasmṛtyupasthāna** (Body): Body as space, no owner, impermanent, 61 metaphors showing decay/suffering
+2. **Vedanāsmṛtyupasthāna** (Feeling): Three feelings generate three compassions, three uprooting, three knowledges
+3. **Cittasmṛtyupasthāna** (Mind): Mind unfindable, 21 metaphors, can't see itself, wild monkey-wind needing one-pointedness
+4. **Dharmasmṛtyupasthāna** (Dharmas): No dharma found, afflictions' nature is awakening's nature, dependent origination
+
+These are the **four posts** where mindfulness is established—four places to stand guard and watch.
+
+---
+
+### Bodhisattva's Unique Contemplations
+
+Unlike Śrāvaka contemplation (focused on one's own liberation), bodhisattva contemplation includes:
+
+1. **Body**: Binding all beings' bodies to own body, establishing all in Buddha-body
+2. **Feeling**: Three feelings generate three compassions for beings of three natures
+3. **Mind**: Contemplating mind's emptiness while **never abandoning bodhicitta**
+4. **Dharmas**: Seeing afflictions' nature as awakening's nature
+
+**Key principle**: Emptiness contemplation **with** bodhicitta, not abandoning beings.
+
+---
+
+### Afflictions Are Awakening
+
+The radical teaching from Ratnacūḍa:
+
+> "By awakening to these very afflictions, there is awakening. The afflictions' own-nature is awakening's own-nature."
+
+This is **not** saying "stay afflicted" or "don't purify."
+
+This is saying: **The nature of afflictions is empty—same as the nature of awakening.**
+
+When you awaken to the afflictions' empty nature, that very awakening-to-afflictions **is** awakening.
+
+Not two natures. **One nature—emptiness.**
+
+---
+
+### Dependent Origination—The Lalitavistara Teaching
+
+Sixteen verses systematically showing:
+
+1. **Impermanence**: Raw pots breaking, rainy-season plaster falling, lamp-flame arising-ceasing
+2. **Emptiness**: Banana trunk essenceless, illusion, empty fist
+3. **Dependent arising**: Muñja-valbaja grass leaning on each other, rope twisted, well-wheel turning
+4. **No individual agent**: In each part, no turning found individually
+5. **Not-same, not-different**: Seed-sprout example—not identical, not completely other
+6. **No transference**: Seal-impression (form appears, nothing moves), eye-form (no form entering eye)
+7. **Arising from conditions**: Fire from sticks, sound from lute—where from? nowhere; where to? nowhere
+
+**The point**: Everything arises from conditions meeting. Nothing has independent existence. No agent making it happen.
+
+**Just conditions. Just arising. Just ceasing.**
+
+---
+
+### The Four Posts Metaphor
+
+This chapter's root metaphor: **The Four Posts**—four places to stand and establish mindfulness.
+
+1. **Body-Post**: Stand and watch the body—impermanent, essenceless, no owner
+2. **Feeling-Post**: Stand and watch feelings—three feelings, three compassions, three uprooting
+3. **Mind-Post**: Stand and watch mind—unfindable, like wind, needing one-pointedness
+4. **Dharma-Post**: Stand and watch dharmas—arising and ceasing, no self inside, afflictions' nature is awakening's nature
+
+**Four posts. Four places to stand guard. Four ways to establish mindfulness.**
+
+Guard them all. Don't let mindfulness wander.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 14
+--------------------------------------------------------------------------------
+
+# Chapter 14: The Empty House (Ātmabhāvapariśuddhi)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The fourteenth chapter of Śāntideva's Compendium of Training, on purifying the person—realizing that this body is an empty house, the elements are visitors who don't pay rent, and the whole world is a dream you gotta wake up from.*
+
+---
+
+## When the Root Is Cut, the Leaves Wither
+
+You done the *Four Posts*. You stood guard.¹
+Now you gotta ask: **Who are you guarding?**
+
+You gotta descend into the **Empty Open Road** (*śūnyatā*).
+Why? To lift this world out of the ocean of suffering.
+
+Because here's the truth:
+If you think there's a "Person" standing there, the dirt (*kleśas*) keeps growing back.
+You can chop the branches all day. But if the root is still there, the tree grows back.
+
+The *Tathāgataguhya Sūtra*² says it plain:
+
+> *"Listen, Śāntamati:*
+> *When the root of a tree is cut,*
+> *all the branches, leaves, and foliage wither.*
+> *Dry up. Gone.*
+>
+> *Just so, Śāntamati:*
+> *When you quiet the view of 'This is My Body' (*satkāyadṛṣṭi*),*
+> *all the demons die down.*
+> *All the dirt dries up."*
+
+You want to stop the sin?
+Don't just scrubbing the surface.
+**Cut the root.**
+
+---
+
+## He Don't Tremble
+
+What happens when you realize the house is empty?
+The *Moon-Lamp Sūtra*³ sings the blues about it:
+
+> *"He don't shake when he hears the Deep Teaching.*
+> *He don't tremble.*
+> *That hero don't fall under the sway of seduction.*
+>
+> *He finds his joy in the Sugata's word—*
+> *The one who knows the nature of things is Peace.*
+>
+> *Before long, he becomes the Boss Man (Buddha).*
+> *He becomes the Doctor, the Healer, the Giver of Joy.*
+> *He pulls the arrow out of those in pain.*
+>
+> *He stands his ground like the Moon of Men.*
+> *They throw rocks? He don't get mad.*
+> *They hit him with sticks? He don't mind.*
+> *Even if they cut him limb from limb—*
+> *He don't get agitated.*
+>
+> *Why?*
+> *Because he knows:*
+> *Nobody is being cut.*
+> *Nobody is hitting.*
+> *The house is empty."*
+
+---
+
+## Where Did It Come From? Where Does It Go?
+
+You think this "Person" is real?
+The *Father-Son Meeting Sūtra*⁴ breaks it down.
+
+Here's the inventory of the property:
+**Six Elements** (*dhātu*).
+**Six Windows** (*āyatana* - senses).
+**Eighteen Ways the Mind Moves**.
+
+Let's look at the foundation.
+
+### 1. Earth (The Hard Stuff)
+What's the Earth in you?
+Hair, nails, teeth, skin, flesh, bone. The solid stuff.
+
+Now ask yourself:
+When that solidity arises, where did it come from?
+Use your wisdom-eye. Look.
+Did it come from the East? West?
+No.
+
+And when it ceases—when you die and turn to dust—
+Where does it go? Does it pack a bag?
+No.
+
+Look at the embryo.
+Man meets woman. Sperm meets blood.
+But is the "Man" in the sperm? No.
+Is the "Woman" in the blood? No.
+It's just an intention arising from confusion.
+Ideally unreal.
+
+**Ideally empty.**
+There ain't no "Earth-nature" in the earth.
+It's just a name we give to hardness.
+
+### 2. Water (The Wet Stuff)
+What's the Water in you?
+Tears, sweat, spit, blood, piss, bile.
+
+When you see your baby, tears flow.
+When you lose your money, tears flow.
+Where did that water come from? Was it hiding in your eyes like a reservoir?
+No.
+
+And when the body dries up in the grave?
+Where did the water go?
+Even the great oceans dry up at the end of the world.
+
+**Ideally empty.**
+Water ain't got no "Water-soul." It's just wetness appearing.
+
+### 3. Fire (The Heat)
+What's the Fire in you?
+Digestion. Fever. The warmth of life.
+
+It burns. It cooks your food.
+But where does the fire hide when you're cold?
+Nowhere.
+It comes from conditions (fuel). It goes nowhere.
+It exists after not existing. Then it disappears.
+
+** Ideally empty.**
+No self-nature. Just heat doing its thing.
+
+### 4. Wind (The Motion)
+What's the Wind in you?
+Breath coming in. Breath going out.
+Wind in the belly. Wind in the limbs.
+
+Just like a storm rises, knocks down a tree, and vanishes.
+Where did the storm go?
+It didn't go home. It just stopped.
+
+### 5. Space (The Holes)
+What's the Space in you?
+Eye-sockets. Mouth. Throat. Entrails.
+The gaps.
+
+Listen: If a man digs a well in dry ground, he makes a hole.
+Where did that "Space" come from?
+Did he dig up the earth and find space underneath?
+No. Space was there, just filled.
+
+**Space is empty.**
+Motionless. Immutable.
+You can't hurt space. You can't burn space.
+You are mostly space.
+
+### 6. Consciousness (The Knowing)
+What's the Consciousness?
+The eye sees a form, and you "know" it.
+
+But does that knowing sit inside your eye like a little man looking out?
+No.
+Does it come from the object?
+No.
+Does it float in the air between them?
+No.
+
+It arises dependent on conditions.
+Like fire from two sticks rubbing.
+**Ideally empty.**
+
+---
+
+## Waking Up in a Stranger's Bed
+
+Here is the perfect teaching.
+**The senses are a magic show (*māyā*).**
+**The objects are a dream (*svapna*).**
+
+> *"Listen, Great King:*
+> *A man is sleeping. He has a dream.*
+> *In the dream, he meets a beautiful woman.*
+> *A 'Country Beauty.'*
+> *He laughs with her. He plays with her. He loves her.*
+>
+> *Then he wakes up.*
+>
+> *Does that woman exist now?*
+> *No.*
+> *Did she exist in the dream?*
+> *No.*
+>
+> *Now, if that man wakes up and starts crying:*
+> *'Where is my beautiful woman? I want her back!'*
+> *Is he a wise man?*
+> *No. He's a fool."*
+
+**You are that man.**
+You see forms with your eye. You cling to them.
+"That's mine! I want that!"
+You generate passion. You create karma.
+
+But listen:
+**No dharma goes from this world to the next.**
+When you die, the Final Consciousness ceases.
+The First Consciousness of the next life arises.
+Like a flame passing from candle to candle.
+
+Is it the same flame? No.
+Is it a different flame? No.
+It's the heat passing through conditions.
+
+**There is no Agent (*kartā*) here.**
+**There is no Experiencer (*bhoktā*).**
+Nobody is driving the bus.
+It's just the bus moving.
+
+---
+
+## The Lion's Roar
+
+The Boss—the Lion of Men—he taught us two truths.
+
+1.  **Street Truth (*Saṃvṛti*)**: "Be decent. Be kind. Don't go to hell. Hell is hot."
+    He talked about hell-beings, ghosts, gods, and men.
+    Why? To help us.
+
+2.  **Ultimate Truth (*Paramārtha*)**:
+    "Ultimately, no 'being' is found."
+
+> *"The Lion of Men taught the street-talk*
+> *Speaking of the six roads,*
+> *But in the deep reality,*
+> *Nobody is walking the road."*
+
+---
+
+## Looking for the Driver
+
+The *Druma-Kinnara Sūtra*⁵ lays it down with the Chariot:
+
+> *"Look at the parts of the chariot.*
+> *Wheels. Axle. Yoke. Seat.*
+> *Where is the 'Chariot'?*
+>
+> *Is it the wheels? No.*
+> *Is it the axle? No.*
+> *Is it the pile of parts? No.*
+> *Is it separate from them? No.*
+>
+> *It's a designation. A name.*
+> *'Chariot.'*
+>
+> *Just so, look at the Person.*
+> *Earth, Water, Fire, Wind.*
+> *Where is the 'Doer'?*
+>
+> *The Doer is not found in the ten directions."*
+
+---
+
+## Don't Be Shaken
+
+So how do you purify the person?
+By realizing **the person ain't there.**
+
+The *Saṃgīti Sūtra* gives the sign of the one who knows:
+
+> *"He ain't shaken by worldly things.*
+> *Gain comes? He don't get high.*
+> *Loss comes? He don't get low.*
+> *Fame comes? He don't puff up.*
+> *Blame comes? He don't shrink.*
+>
+> *Pleasure? Pain?*
+> *It's all same to him.*
+>
+> *He who ain't shaken by the world—*
+> *He knows the Open Road."*
+
+That's the purification (*pariśuddhi*).
+Not scrubbing the skin.
+Scrubbing the "Self" out of the mind.
+
+**That's The Empty House.**
+Nobody home.
+Door open.
+Wind blowing through.
+Peace.
+
+---
+
+*Thus ends the Fourteenth Chapter: The Empty House.*
+*(Ātmabhāvapariśuddhi — Purification of the Person)*
+
+---
+
+## Bluesman's Notes
+
+1.  **The Root**: You can trim the branches of bad habits all day. But if you believe "I Am," the tree grows back. Wisdom cuts the root.
+2.  **The Elements**: This ain't physics class. It's an inspection. Look at your body. Hard stuff? Earth. Wet stuff? Water. Warmth? Fire. Breath? Wind. Where is "You"? You're just the space these things move in.
+3.  **The Dream**: This is the heart of the chapter. We are sleepwalking. We fall in love with dream-women and fight dream-battles. Waking up means realizing *none of it was ever real*.
+4.  **No Agent**: This is the hardest pill. "Nobody is driving the bus." Karma works, but there's no "Soul" carrying the bags. It's just the flow. Like a river.
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 15
+--------------------------------------------------------------------------------
+
+# Chapter 15: The Sky (Bhogapuṇyaśuddhi)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The fifteenth chapter of Śāntideva's Compendium of Training, on purifying your money and your merit—how to make a living without running a con, and how to give it all away like the sky raining on everybody.*
+
+---
+
+## Don't Hustle the Hustle
+
+We talked about purifying the Person. Now we gotta talk about the goods.
+Why is this separate?
+Because the bodhisattva **don't accumulate.**¹
+There ain't no pile of money sitting there. It moves.
+
+But how do you get it?
+Through **Right Livelihood** (*samyagājīva*).
+
+The *Ugra Sūtra* lays it down:
+
+> *"Listen, homeowner:*
+> *You seek your goods by the Dharma.*
+> *Not by the crooked way. By the straight way.*
+> *Fair. Not unfair.*
+> *You don't hustle the hustle."*
+
+## The Five Ways to Run a Con (Kuhanā)
+
+The *Ratnamegha Sūtra*² tells you exactly how NOT to act when you see a patron coming.
+Don't be a hypocrite.
+
+**1. The Walk (Bodily Hypocrisy)**
+> *"When he sees a big donor coming,*
+> *he don't act all holy.*
+> *He don't walk slow... slow... like a turtle.*
+> *He don't look down at his feet like he's holding the world up.*
+>
+> *He walks natural. He walks free.*
+> *He don't put on a show for the money."*
+
+**2. The Talk (Vocal Hypocrisy)**
+> *"He don't sweet-talk.*
+> *He don't get all soft and gentle just because there's a check involved.*
+> *He don't flatter.*
+> *He tells it straight."*
+
+**3. The Fake Humble (Mental Hypocrisy)**
+> *"Even when they offer him the world,*
+> *he acts like he don't want it.*
+> *But inside? He's burning for it.*
+>
+> *'This is the internal fire, son:*
+> *Mouth says no, Mind says gimme.'*
+>
+> *That's the con."*
+
+**4. The Hint (Nimitta)**
+> *"He don't drop hints:*
+> *'Oh, my robe is dragged out...'*
+> *'Man, this bowl is cracked...'*
+> *'I sure am sick, need some medicine...'*
+>
+> *He don't beg without begging.*
+> *He don't use signs."*
+
+**5. The Interest Scheme**
+> *"He don't say:*
+> *'That guy over there? He gave me a gold watch.*
+> *Because he knows I'm holy.'*
+>
+> *Trying to make the new guy jealous.*
+> *Trying to get interest on his reputation.*
+> *That ain't the way."*
+
+You see?
+No acting. No hints. No games.
+If it comes, it comes. If it don't, it don't.
+That's pure goods.
+
+---
+
+## Giving Like the Sky
+
+Okay, you got the goods clean. Now how do you give 'em away?
+How do you purify the merit?
+
+The *Gaganagañja Sūtra* gives the root metaphor:
+**Be like the Sky (*Gagana*).**
+
+> *"He gives the gift purified of 'Me'.*
+> *Purified of 'Mine'.*
+> *Purified of 'I want a receipt'.*
+> *Purified of 'I hope I get to heaven'.*
+>
+> *He gives a **Sky-Like Gift**.*
+>
+> *Just as the Sky is boundless:*
+> *He gives with a boundless mind.*
+>
+> *Just as the Sky covers everything:*
+> *He gives to everybody. No favorites.*
+>
+> *Just as the Sky don't hold onto clouds:*
+> *He don't hold onto the gift.*
+>
+> *Just as a Magician gives to a Magician:*
+> *Without thinking.*
+> *Without effort.*
+> *Without wondering if it's real.*
+>
+> *He knows it's all a dream.*
+> *So he gives the dream-gift to the dream-man.*
+> *And he feels the Sky."*
+
+## The Sky-Like Perfections
+
+It ain't just giving. Everything gets the Sky treatment.
+
+**Sky-Like Morality**
+It's pure. Stainless.
+It don't get puffed up. "I'm moral."
+It's calm like the blue yonder.
+
+**Sky-Like Patience**
+It's equal.
+> *"Imagine a forest of trees.*
+> *Someone comes and cuts down one tree.*
+> *The other trees don't say:*
+> *'Oh, he got cut! We're safe!'*
+> *They don't hate the cutter.*
+> *They don't love the safety.*
+> *They just stand there.*
+> *That's Sky-Patience."*
+
+**Sky-Like Meditation**
+It's cool but it burns.
+It's quiet but it works.
+It's peaceful by nature, but it's busy saving the world.
+It's the "Best of All Forms" (*sarvākāra*)—because it's empty of forms.
+
+---
+
+## The Range
+
+Where does this Sky-Man live?
+The *Vimalakīrti Sūtra* tells you his range (*gocara*):
+
+> *"Turning the Wheel of the Truth—that's his range.*
+> *Showing the Great Final Peace (Parinirvāṇa)—that's his range.*
+> *And never abandoning the world—that's his range.*
+>
+> *He walks in the world.*
+> *He walks in the peace.*
+> *He walks in the Sky."*
+
+---
+
+*Thus ends the Fifteenth Chapter: The Sky.*
+*(Bhogapuṇyaśuddhi — Purification of Goods and Merit)*
+
+---
+
+## Bluesman's Notes
+
+1.  **The Con Game**: This chapter is all about checking your hustle. Are you "acting holy" to get paid? Are you dropping hints? Are you walking slow to look spiritual? That's the "Posturing" (*kuhanā*)—it's just a spiritual con. Cut it out.
+2.  **The Sky Metaphor**: This is beautiful. *Gagana* (Sky) is the ultimate symbol of emptiness because it holds everything but sticks to nothing. A "Sky-Like Gift" asks for nothing back because the Sky doesn't need anything.
+3.  **The Trees**: The image of the trees witnessing the cutting without judgment is powerful. That's true equanimity. Not indifference, just vastness.
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 16
+--------------------------------------------------------------------------------
+
+# Chapter 16: The Big Prayer (Bhadracaryāvidhi)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The sixteenth chapter of Śāntideva's Compendium of Training, on the Practice of Good Conduct—cranking up the volume on your strength, intention, and compassion, and singing the King of Prayers until the walls shake.*
+
+---
+
+## Why You Need More
+
+You got purity. Good. You got a clean house.
+But is it enough?
+No.
+
+> *"There's a lot of hungry mouths out there.*
+> *If your pot is small, what's the use?*
+> *It don't bring the Deep Satisfaction (*atitṛpti*).*
+> *You gotta make it bigger.*
+> *You gotta increase it."*
+
+Clean ain't enough. You need **POWER**.
+
+## Increasing the Person (Strength & Vigor)
+
+How do you make your "Person" bigger?
+Two ways: **Strength** (*bala*) and **Non-Laziness** (*anālasya*).
+
+The *Ratnamegha Sūtra* says:
+> *"There ain't nobody in the universe*
+> *who can crush the bodhisattva's strength."*
+
+How do you get muscles like that? The *Tathāgataguhya Sūtra* gives you the workout plan.
+Ten reps:
+
+1.  **Give your life**, but keep the Truth.
+2.  **Bow down low**, but don't puff up.
+3.  **Take the hit** from weak people (don't hit back).
+4.  **Feed the hungry** the best stuff.
+5.  **Heal the sick.** Be the doctor.
+6.  **Fill the pockets** of the poor.
+7.  **Paint the church.** (Plaster the shrine).
+8.  **Talk joy.** Speak words that make people smile.
+9.  **Share your stuff.**
+10. **Carry the load.** When they're tired, you pick it up.
+
+And **Vigor**:
+Thinking about it ain't doing it.
+The *Sāgaramati Sūtra* says:
+> *"Lazy man got no enlightenment.*
+> *Lazy man got no giving.*
+> *Lazy man got no wisdom.*
+> *Lazy man got nothing."*
+
+You grow like a lotus in the water. Keep pushing up.
+
+---
+
+## Firm Up Your Stance
+
+Before you start The Big Prayer, you gotta get your stance right.
+The Root of all Increase is **Merit**.
+
+> *"First, lock in your Effort and Intention.*
+> *Make 'em hard as rock.*
+> *Then put Compassion in the front.*
+> *Now you're ready to grow."*
+
+### 1. Effort (*Vyavasāya*)
+Like Sudhana going to Maitreya. You don't stop.
+You look at the past—all that wasted time chasing dreams—and you say: *"Never again."*
+You look at the future—Buddhahood—and you say: *"I'm coming."*
+
+### 2. Intention (*Āśaya*)
+The *Dharmasaṃgīti* says:
+> *"Intention is the fuel.*
+> *No fuel? No fire.*
+> *Good fuel? The Dharma blazes up."*
+
+Keep it honest. Keep it straight. No curves.
+
+### 3. Compassion (*Karuṇā*)
+> *"You don't need a thousand rules.*
+> *You need ONE thing.*
+> *Great Compassion.*
+>
+> *When the King's wheel rolls, the army follows.*
+> *When Compassion rolls, the whole Dharma follows."*
+
+How do you feel it?
+Look at the world.
+See them drowning in the river of thirst.
+See them locking themselves in the prison of "Me."
+See them blind, scared, alone.
+And say: *"I got you. I'm carrying this."*
+
+---
+
+## The Daily Grind
+
+Now you do the work. The *Bhadracaryā*—The Good Conduct.
+Three times in the day. Three times in the night.
+The **Three Piles** (*Triskandha*):
+
+1.  **Confession**: "I messed up. I own it. I drop it."
+2.  **Rejoicing**: "You did good? Awesome. I love it."
+3.  **Requesting**: "Please, Teachers, don't leave. Teach us. Turn the wheel."
+
+## The Offering
+You ain't got money? No problem.
+The *Ratnamegha Sūtra* says:
+> *"All the flowers in the wild.*
+> *All the fruit on the unclaimed trees.*
+> *All the jewels deep in the ocean.*
+> *All the clear water in the rivers.*
+> *Nobody owns them.*
+>
+> *Take 'em with your mind.*
+> *Offer 'em up.*
+> *'I give this to the Buddhas.'*
+> *It counts."*
+
+---
+
+## The Daśabhūmaka Manifesto
+
+This is it. The promise. The Vow.
+(From the *Daśabhūmaka Sūtra*)
+
+1.  **I worship every Buddha.** None left out.
+2.  **I hold the Truth.** I guard the Dharma-eye.
+3.  **I show up.** Wherever a Buddha is born, walks, or dies—I'm there.
+4.  **I practice.** I walk the walk. The whole vast conduct.
+5.  **I ripen the people.** I get them ready. All of them.
+6.  **I enter the worlds.** I go into every universe.
+7.  **I clean the place up.** I make every land a Pure Land.
+8.  **I roll with the crew.** I stick with the bodhisattvas who have the same heart.
+9.  **I don't miss.** My actions are *Amogha*—unfailing. Fruitful. If you see me, you get blessed.
+10. **I wake up.** I show the supreme awakening in every world.
+
+---
+
+## The King of Prayers
+
+Finally, you seal it. You dedicate the merit.
+You sing the song that Mañjuśrī and Samantabhadra accept.
+The *Bhadracaryā*.
+
+> *"Just like Mañjuśrī the Hero knows,*
+> *And Samantabhadra too—*
+> *Just like them,*
+> *I follow their lead.*
+> *I dedicate all this good stuff.*
+>
+> *Whatever dedication the Victors of the past, present, and future*
+> *Say is the best—*
+> *Whatever is the Supreme Dedication—*
+> *That's what I do.*
+>
+> *I dedicate all this merit*
+> *To the Good Conduct.*
+> *To the Bhadracaryā.*
+> *To the Freedom of All Beings."*
+
+---
+
+*Thus ends the Sixteenth Chapter: The Big Prayer.*
+*(Bhadracaryāvidhi — The Practice of Good Conduct)*
+
+---
+
+## Bluesman's Notes
+
+1.  **Supreme Satisfaction**: The text says "a little merit causes satisfaction." But we want *Atitṛpti*—**Supreme Satisfaction**. We ain't snacking; we're feasting. We want Buddhahood for everyone.
+2.  **The Three Piles**: This is the daily hygiene. Confess the dirt. Rejoice in the clean. Ask for the light. Do it three times a day, three times a night. Keep the engine running.
+3.  **The Offering**: I love this part. You can offer "unowned" things. The wild flowers, the stars, the ocean. You don't need a wallet to be a great patron. You just need a big mind.
+4.  **The Anthem**: The *Bhadracaryā* gives me chills. "Just like Mañjuśrī knows." It's not about "my" little prayer. It's about joining the Great Current. Plugging into the cosmic grid.
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 17
+--------------------------------------------------------------------------------
+
+# Chapter 17: The Payoff (Vandanānuśaṃsā)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The seventeenth chapter of Śāntideva's Compendium of Training, on the benefits of worship—why dropping a single flower on a shrine or just feeling good about someone else's grace pays out more than a billion dollars.*
+
+---
+
+## One Good Moment
+
+You did the work. You said the prayers.
+Now, what's the payoff?
+The *Avalokana Sūtra* tells you about the Lucky Break.
+
+> *"You dodge the eight bad births.*
+> *You don't get born in hell.*
+> *You don't get born as a ghost.*
+> *You don't get born in a place with no internet and no Dharma.*
+>
+> *You get the One Golden Moment (*Ekakṣaṇa*).*
+> *You meet the Boss.*
+>
+> *You come out looking good.*
+> *Strong. Rich. Cannot be bullied.*
+> *Why?*
+> *Because you lit a lamp for the Lamp of the World."*
+
+## Keep It to the Right
+
+> *"You can talk for a million years,*
+> *And you still couldn't list all the good stuff*
+> *That happens to the man who walks the circle around the Stūpa.*
+>
+> *He never goes blind.*
+> *He never goes lame.*
+> *Not for a billion years.*
+>
+> *He gets tough. High stamina. Deep courage.*
+> *He gets the Skill.*
+> *All because he walked the circle with a waking-up mind."*
+
+## Small Change, Big Return
+
+You think you need a lot? No.
+You just need faith.
+
+### 1. A Handful of Flowers
+> *"You take a handful of flowers.*
+> *You throw them up in the air.*
+> *'For the Boss.'*
+> *Bam.*
+> *You're a human with merit.*
+> *You're standing in the protection zone."*
+
+### 2. The Garland
+> *"You hang a garland on the shrine.*
+> *Next thing you know, you're born in the Thirty-Three Heavens.*
+> *You got a divine swimming pool.*
+> *You become the King."*
+
+### 3. The Incense (Just a Pinch)
+> *"Even a pinch of incense.*
+> *Smaller than a mustard seed.*
+> *If you burn it for the Bhagavan:*
+> *You walk free from disease.*
+> *You walk firm.*
+> *Everybody loves you."*
+
+### 4. Lamps (The Light)
+> *"You light one candle.*
+> *Just one.*
+> *And nobody can measure your glory.*
+> *You get the Eye.*
+> *You see the light in a dark world."*
+
+## Taking Out the Trash
+
+> *"You see some old, withered flowers on the shrine?*
+> *Take 'em off. Clean it up.*
+> *What happens?*
+> *You clean the agitation out of your heart.*
+> *You wipe away the hate.*
+> *You wipe away the disease.*
+> *Infinite comfort."*
+
+## The Oil in the Wick
+
+Now the *Ratnarāśi Sūtra* tells you the secret.
+It ain't about the stuff. It's about the **Mind**.
+
+> *"Imagine the billionaires building shrines as big as mountains.*
+> *Mount Everest made of gold.*
+> *That's nice.*
+>
+> *But imagine a Bodhisattva—broke, homeless.*
+> *He takes a little wick. Soaks it in oil.*
+> *And lights it.*
+> *But he has the **Mind of All-Knowledge**.*
+> *He's doing it to save everyone.*
+>
+> *That little wick?*
+> *It blows the mountain of gold away.*
+> *It ain't even close."*
+
+## Unimaginable Interest
+
+And here is the ultimate hack.
+**Rejoicing (*Anumodanā*).**
+
+The *Prajñāpāramitā* says:
+> *"Subhūti, imagine a guy works hard for a billion eons.*
+> *Meditating. Sweating.*
+>
+> *Now imagine you see him.*
+> *And you say:*
+> *'That is awesome! I am so happy for him!*
+> *I rejoice in his goodness!*
+> *May it save the world!'*
+>
+> *Guess what?*
+> *Your pile of merit is bigger than his.*
+> *Why?*
+> *Because you are free from jealousy.*
+> *You are riding his train to the destination."*
+
+It's called **The Supreme Rejoicing**.
+You don't have to lift the heavy weight.
+You just have to love that the weight is being lifted.
+
+**That's the Payoff.**
+Infinite wealth. Zero cost.
+Just an open heart.
+
+---
+
+*Thus ends the Seventeenth Chapter: The Payoff.*
+*(Vandanānuśaṃsā — The Benefits of Worship)*
+
+---
+
+## Bluesman's Notes
+
+1.  **The Lucky Break**: The "Eight Akṣaṇas" are the "Bad Beats." Being born a hell-being, a dumb animal, or a long-lived god who sleeps through the sermon. The "One Moment" is being born human, smart, with a Buddha in town. Don't waste it.
+2.  **The Small Pinch**: I love this. You don't need a kilo of incense. You need a pinch "smaller than a mustard seed." It proves it's not the chemical reaction making the merit; it's the intent.
+3.  **The Cleanup**: Sometimes religion is just doing the dishes. Cleaning the withered flowers off the altar is a high practice. It clears the rot out of your own soul.
+4.  **Rejoicing**: This is the best deal in town. If you get jealous of someone else's spiritual progress, you lose. If you rejoice, you get their merit plus interest. It's compound interest on the goodness of the universe.
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 18
+--------------------------------------------------------------------------------
+
+# Chapter 18: The Three on Repeat (Ratnatrayānusmṛti)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The eighteenth chapter of Śāntideva's Compendium of Training, on remembering the Three Jewels—keeping Buddha, Dharma, and Sangha playing on repeat in your mind like a song you can't stop humming.*
+
+---
+
+## What Keeps You From Falling Back
+
+We talked about increasing your merit.¹ Now we gotta talk about **remembering**.
+
+Why remember? Because if you don't keep the Three Jewels in your mind, you slide back. You lose ground.
+
+The *Tathāgataguhya Sūtra* lays down the four things you gotta practice every day:
+
+**1. Faith (*Śraddhā*)**
+You gotta believe the road goes somewhere.
+You approach the Wise Ones. You don't do what shouldn't be done.
+That's faith with feet.
+
+**2. Respect (*Gaurava*)**
+When someone speaks the truth, you listen.
+You don't got your headphones in. You got your ears open.
+You hear the Dharma with an ear that don't wander off.
+
+**3. Humility (*Nirmānatā*)**
+You bow down to the Worthy Ones.
+You honor them. You show reverence.
+You ain't the center of the universe.
+
+**4. Vigor (*Vīrya*)**
+You move. You don't sit still.
+Your body gets light. Your mind gets light.
+You carry all the work through to the end.
+
+---
+
+## Or Think of It Like This
+
+The *Akṣayamati Sūtra* breaks it down five ways.
+Five faculties (*Indriya*). Five instruments you play.
+
+### 1. Faith-Faculty
+You believe four things:
+
+- **Street-level right view**: Karma works. What you do comes back.
+- **The Bodhisattva Path**: You don't get distracted by the small roads. You walk the big one.
+- **Dependent Origination**: You hear the deep teaching—emptiness, no-self, no-being, no-person—and you believe it. You don't cling to views.
+- **Buddha-Dharmas**: You believe in the Ten Powers, the Four Fearlessnesses. You got no doubt.
+
+### 2. Vigor-Faculty
+Whatever you believe, you work for.
+You make it real. You don't just nod your head.
+
+### 3. Memory-Faculty
+Whatever you work for, you don't forget.
+You keep it in your mind. You don't lose it.
+
+### 4. Concentration-Faculty
+Whatever you remember, you focus on.
+You make it one-pointed. You don't scatter.
+
+### 5. Wisdom-Faculty
+Whatever you focus on, you see through.
+You penetrate it. You know it for yourself.
+Not because someone told you. Because you **saw it**.
+
+---
+
+## The Golden One
+
+How do you remember the Boss?
+The *Rāṣṭrapāla Sūtra* sings it like this:
+
+> *I bow to You, Golden One, with the Perfect Marks.*
+> *Your face is like the spotless moon.*
+> *Nobody in the three worlds compares to You.*
+> *You are without dust.*
+
+> *Your hair is beautiful. Your appearance is flawless.*
+> *You look at this suffering world with eyes like cool water.*
+> *You know the score.*
+
+> *You speak the truth, and it tastes sweet.*
+> *You tell us: this world is a stage, a hustle, a dream.*
+> *You tell us the "Self" is just a costume we wear.*
+
+> *We're all running around sick,*
+> *Chasing things we can't keep.*
+> *And here You come, the Great Physician,*
+> *Handing out the cure for free.*
+
+You remember His body. You remember His teaching. You remember His compassion.
+You keep Him in your mind like a lamp in the dark.
+
+---
+
+## The Law That Don't Play Favorites
+
+The Dharma ain't just rules. It's the **Law of Gravity**.
+The *Dharmasaṃgīti Sūtra* tells you how it works:
+
+> *The Law is Equal (*Sama*).*
+> *It don't care if you're a king or a beggar.*
+> *Gravity pulls you down the same.*
+
+> *The Law is Timeless (*Akālika*).*
+> *It don't wait for Tuesday. It's happening right now.*
+> *"Come and see."*
+
+> *The Law is Impartial.*
+> *It don't shine brighter for the rich.*
+> *It works the night shift and the day shift.*
+
+> *The Law is Fearless.*
+> *It don't need you to protect it.*
+> *It protects **you**.*
+
+You gotta think like the Dharma:
+- The Dharma don't look for high or low. **Neither should you.**
+- The Dharma don't need praise. **Neither should you.**
+- The Dharma don't run out. **Neither should your compassion.**
+
+---
+
+## The Shape-Shifters
+
+The Sangha ain't just the folks in robes.
+The *Vimalakīrti Sūtra* tells you who they really are:
+
+> *In a split second, they can look like anything.*
+> *They play old. They play sick. They play dead—*
+> *Just to wake you up.*
+
+> *If the world is ending, they show you the fire.*
+> *If you think you're gonna live forever, they show you the clock ticking.*
+
+> *They walk into a famine and become bread.*
+> *They walk into a plague and become medicine.*
+> *They walk into a war zone and become the peace treaty.*
+
+> *They infiltrate every scene.*
+> *They could be the bartender, the bus driver, or the King of Gods.*
+> *They act the part perfectly, just to get you to drop the script.*
+
+They are the **Skillful Ones** (*Upāyakuśala*).
+They take a thousand forms to save you.
+
+You remember them. You honor them. You walk with them.
+
+---
+
+## What the Buddha Does
+
+The *Ratnolkādhāraṇī* tells you what happens when the Buddha sends out light.
+He's like a radio tower, broadcasting on a million frequencies at once.
+
+Whatever you need, He's got a station for it.
+
+**The Flower Station (*Mālyavyūhā*)**
+Rains down flowers and jewels so you stop gripping your wallet so tight.
+
+**The Peace Station (*Śāntikarī*)**
+Cools down your anger. Makes you wanna go sit in the woods and listen to the birds.
+
+**The Harvest Station (*Sasyasaṃpādanī*)**
+Makes the crops grow. Feeds the hungry so they can think about something other than their belly.
+
+**The Wisdom Station (*Prajñāpradīpa*)**
+Turns on the lights. Shows you the monsters under the bed are just piles of laundry.
+Shows you the "Self" is a magic trick.
+
+**The Fearless Station (*Abhayaṃdadā*)**
+Breaks the chains. If you're locked up, He sets you free.
+If you're scared, He stands in front of you.
+
+**The Medicine Station (*Indriyaviśodhanī*)**
+Cleans your eyes so you can see.
+Cleans your ears so you can hear the music.
+Fixes the broken connection.
+
+You see?
+The Buddha ain't sitting still. He's working.
+**Light pouring out. Stations broadcasting. Help coming in.**
+
+---
+
+## Why All This Matters
+
+The *Candrapradīpa Sūtra* tells you the secret:
+
+> *You can make offerings to Buddhas*
+> *In billions of worlds,*
+> *But it don't compare*
+> *To the merit of a loving mind.*
+
+**Loving-kindness (*Maitrī*) is the power source.**
+
+No matter how much you give, how many prayers you say, how many shrines you build—
+If your mind ain't got love in it, you're running on empty.
+
+But if you got love?
+**You're unstoppable.**
+
+---
+
+*Thus ends the Eighteenth Chapter: The Three on Repeat.*
+*(Ratnatrayānusmṛti — Remembering the Three Jewels)*
+
+---
+
+## Bluesman's Notes
+
+1. **The Four and the Five**: The text gives you two frameworks: Four Dharmas (faith, respect, humility, vigor) and Five Faculties (faith, vigor, memory, concentration, wisdom). They overlap. Use whichever one sticks.
+2. **The Buddha Verses**: The *Rāṣṭrapāla* verses are beautiful. They describe the Buddha's physical form, but they're really about His compassion. He looks at the world "with eyes like cool water"—that's the key line.
+3. **The Dharma as Law**: The Dharma is described as "sama" (equal), "akālika" (timeless), "ehipaśyika" (come and see). It's not a religion you join; it's a law you discover.
+4. **The Sangha as Skillful**: The bodhisattvas in the *Vimalakīrti Sūtra* are undercover agents. They take every form imaginable to save beings. That's the Sangha at its deepest.
+5. **The Light Rays**: The *Ratnolkādhāraṇī* describes the Buddha's light rays by function. Each ray has a job: one gives fearlessness, one gives food, one gives wisdom. The Buddha is broadcasting help on every frequency.
+6. **Loving-Kindness**: The chapter ends with *maitrī*—loving-kindness—as the ultimate merit-maker. Without love, all the practice is empty.
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+--------------------------------------------------------------------------------
+## AUDIO CHAPTER 19
+--------------------------------------------------------------------------------
+
+# Chapter 19: The Long Game (Puṇyavṛddhi)
+## Śikṣāsamuccaya — Blues Vernacular Translation by William Altig
+
+---
+
+*The nineteenth and final chapter of Śāntideva's Compendium of Training, on increasing merit—turning every moment of your life into gold, playing the long game with patience and love, and never giving up until everybody's free.*
+
+---
+
+## The 24/7 Practice
+
+We talked about remembering the Three Jewels.¹ Now we gotta talk about **increasing** what you got.
+
+How? By making **every move count**.
+
+The *Ratnamegha Sūtra* tells you how to turn ordinary life into practice:
+
+> *When you offer flowers at the shrine, you say:*
+> *"May all beings smell the sweet scent of freedom,*
+> *Not the stink of their own dirt."*
+
+> *When you clean the temple, you say:*
+> *"May I sweep the junk out of everyone's head."*
+
+> *When you open a door, you say:*
+> *"I'm opening the door to the Great Freedom."*
+
+> *When you close a door, you say:*
+> *"I'm locking out the devil and his bad news."*
+
+> *When you sit down, you say:*
+> *"May everyone find their seat at the Great Table."*
+
+> *When you lie down to sleep, you say:*
+> *"May I lead everyone to the Great Rest (Nirvāṇa)."*
+
+> *When you wake up, you say:*
+> *"Wake up, world! The nightmare is over."*
+
+> *When you wash your hands, you say:*
+> *"I'm washing off the sticky residue of the past."*
+
+Every move. Every breath. Every step.
+**Nothing is wasted.**
+
+---
+
+## When the Road Gets Rough
+
+The *Prajñāpāramitā* tells you what to do when you step into the bad neighborhoods.
+
+### 1. The Jungle (*Vyālakāntāra*)
+If the tigers are hungry, you say:
+"Eat up, brothers. This body was a loaner anyway.
+Now I fulfill the Perfection of Giving.
+And when I become a Buddha, there won't be no animals in my world
+hurting each other for food."
+
+### 2. The Thieves' Road (*Corakāntāra*)
+If the robbers strip you clean, you say:
+"Take it. It's heavy carrying all this stuff anyway.
+No anger here. Just donations.
+I already let go of everything—body, goods, the whole pile.
+May my patience be perfected.
+And when I become a Buddha, there won't be no thieves in my world."
+
+### 3. The Desert (*Pānīyakāntāra*)
+If you're dying of thirst, you say:
+"I'm gonna cut the thirst of all beings.
+I don't fear. I stay steady.
+And if I die here, I feel compassion:
+These beings got so little merit, they gotta walk through deserts.
+When I become a Buddha, water will flow everywhere.
+Eight-fold excellent water. Nobody will thirst."
+
+### 4. The Famine (*Bubhukṣākāntāra*)
+If there's no food, you armor up:
+"I'm gonna make a world where the fridge is always full.
+Where you can eat just by thinking about it.
+Like the gods in the Thirty-Three Heavens—
+Whatever you want, it appears.
+That's the world I'm building."
+
+---
+
+## Better Than Money
+
+What's the best thing you can give?
+**The Teaching (*Dharmadāna*).**
+
+The *Adhyāśayasaṃcodana Sūtra* lists twenty benefits of giving the Dharma **without asking for anything back** (*Nirāmiṣa*):
+
+You get memory. You get intelligence. You get wisdom.
+Your mind gets light. Your enemies can't touch you.
+Māra can't find a way in. The Buddhas take notice.
+The gods protect you. Your friends don't betray you.
+People listen when you speak. You got confidence.
+**You never forget that teaching you gave.**
+
+The *Prajñāpāramitā* says it plain:
+
+> *Ānanda, imagine you teach the Śrāvaka path*
+> *To all beings in a billion worlds,*
+> *And they all become Arhats.*
+>
+> *That's good.*
+>
+> *But if you teach a Bodhisattva*
+> *Just **one verse** about the Perfection of Wisdom,*
+> *You done me a bigger service.*
+>
+> *Why?*
+> *Because the Bodhisattva path leads to the freedom of **everyone**.*
+> *Not just one person. **Everyone**.*
+
+### How to Give the Teaching
+
+The *Saddharmapuṇḍarīka* tells you the protocol:
+
+> *Sit in a clean place.*
+> *Wear a clean robe.*
+> *Don't look tired. Don't look mad.*
+> *Look at the crowd like they are your own children.*
+>
+> *And lay it down.*
+>
+> *Don't ask for food. Don't ask for thanks.*
+> *Don't ask for anything.*
+> *Just think:*
+> *"I want them to be Buddhas. I want them to be free."*
+
+---
+
+## The Foundation of Everything
+
+How do you protect what you got? How do you purify it? How do you increase it?
+
+**The Four Right Efforts (*Samyakprahāṇa*).**
+
+1. **Stop the bad from arising.**
+   You see the dirt coming? You shut the door.
+
+2. **Drop the bad that's already there.**
+   You got dirt in you? You wash it out.
+
+3. **Start the good that ain't there yet.**
+   You see an opportunity to do right? You take it.
+
+4. **Increase the good that's already there.**
+   You got something good going? You double down.
+
+And all of this is held together by **Non-Carelessness (*Apramāda*).**
+
+The *Candrapradīpa Sūtra* says it straight:
+
+> *All the good dharmas—*
+> *Morality, learning, giving, patience—*
+> *They all got one root:*
+> *Non-carelessness.*
+> *The treasure-find the Sugata taught.*
+
+What's non-carelessness?
+It's guarding your senses. Not grabbing at signs.
+Seeing pleasure, pain, and freedom in everything—seeing it as it really is.
+
+---
+
+## Self and Other Ain't Different
+
+Why do all this? Why sweat for people you don't know?
+
+**Because the "Self" you're protecting? It's a lie.**
+
+Listen:
+
+> *You protect your foot with your hand.*
+> *Why?*
+> *The hand don't feel the foot's pain.*
+> *But they're on the same team—the same body.*
+
+> *The whole world is one Body (*Ātmabhāva*).*
+
+> *"I'll suffer later"—that's a lie.*
+> *The "You" that sins today is dead by Tuesday.*
+> *The "You" that burns in hell is a stranger.*
+
+> *So why care?*
+> *Because **suffering is suffering**.*
+> *It don't have a nametag.*
+> *If it hurts, stop it.*
+> *Don't ask "Whose hurt is this?"*
+> *Just put out the fire.*
+
+This is **Self-Other Equality (*Parātmasamatā*).**
+
+You practice it. You meditate on it.
+You make your Bodhicitta **firm**.
+
+And when you do?
+**You can't be turned back.**
+
+---
+
+## Bodhicitta is the Root
+
+The *Ratnakaraṇḍaka Sūtra* tells you the secret:
+
+> *Just like fragrant trees grow when watered,*
+> *So does your merit grow when held by Bodhicitta.*
+> *And when you dedicate it to All-Knowledge,*
+> *It keeps growing forever.*
+
+**Bodhicitta is the root of all increase.**
+
+Everything you do—giving, patience, morality, wisdom—
+If it's got Bodhicitta in it, it grows.
+If it don't, it dries up.
+
+That's the Long Game.
+You plant the seed. You water it with love.
+You wait. You endure.
+And one day, the whole world blooms.
+
+---
+
+## The Final Bow
+
+We end where we started.
+With the Prince of Wisdom, **Mañjuśrī**.
+
+> *I tip my hat to the Prince.*
+> *He's the Cool Lake when the world is on fire.*
+> *He's the General who crushes the Devil's army.*
+> *He's the condensed goodness of the whole universe.*
+
+> *To Mañjughoṣa, the realest player in the game:*
+> *I bow down.*
+
+> *He walks through hell like a swan through a lotus pond.*
+> *He relieves the suffering of the scorched.*
+> *He fills the abyss of craving in the three worlds.*
+> *He's the Great Cloud raining down what the world needs.*
+
+> *He's the Tree of the Ten Directions,*
+> *Bearing the fruit beings long for.*
+> *He's honored by bodhisattvas whose hair stands on end*
+> *Just thinking about His greatness.*
+
+> *To the Doctor of All Suffering,*
+> *To the Giver of the Feast of Happiness,*
+> *To the One who feeds all beings—*
+> *To Mañjughoṣa, I bow again and again.*
+
+---
+
+## The End of the Training
+
+**This wraps up the Compendium of Training.**
+
+We guarded the body. We protected the goods. We purified the mind.
+We learned the moves. We sang the prayers. We walked the road.
+
+Now **the music starts**.
+
+**Get on the floor and dance.**
+
+---
+
+*Thus ends the Nineteenth and Final Chapter: The Long Game.*
+*(Puṇyavṛddhi — Increase of Merit)*
+
+**The Śikṣāsamuccaya is complete.**
+
+---
+
+## Bluesman's Notes
+
+1. **Daily Life Sanctification**: The opening section is powerful. Every ordinary action—opening a door, washing hands, lying down—becomes a prayer. This is the "24/7 Hustle." You don't clock out.
+
+2. **The Four Wildernesses**: The *Prajñāpāramitā* gives four scenarios: tigers, thieves, thirst, famine. In each one, the Bodhisattva doesn't panic. He transforms the danger into a vow: "When I'm a Buddha, this won't exist." That's the Long Game.
+
+3. **Dharmadāna**: Giving the Dharma is better than any material gift because it lasts forever. The key is *nirāmiṣa*—"without bait." You don't teach to get paid, to get famous, or to feel good. You teach because beings need to be free.
+
+4. **The Four Right Efforts**: This is the engine of the whole path. Stop bad. Drop bad. Start good. Increase good. And hold it all together with *apramāda*—non-carelessness. Stay awake.
+
+5. **Self-Other Equality**: This is the heart of Mahāyāna. You practice seeing "other" as "self" until the distinction disappears. The hand protects the foot not because the hand will get a reward, but because they're the same body. That's how you gotta see the world.
+
+6. **Bodhicitta as Root**: Everything grows from Bodhicitta. Without it, you got nothing. With it, you got everything. That's why we end the whole book with Bodhicitta.
+
+7. **Mañjuśrī Homage**: The final verses are a love song to Mañjuśrī, the embodiment of wisdom. He's the one who cuts ignorance. He's the one who shows you the empty house. He gets the last word.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+**END OF THE ŚIKṢĀSAMUCCAYA**
+
+---
+
+# EPILOGUE: The Road Ahead
+
+You've walked through 19 chapters of Śāntideva's training manual.
+
+You've heard about:
+- Giving everything away (Chapter 1)
+- Holding on to what's real (Chapter 2)
+- Protecting the preachers (Chapter 3)
+- Avoiding harm (Chapter 4)
+- Living with discipline (Chapter 5)
+- Protecting your body and your merit (Chapters 6-7)
+- Purifying your evil (Chapter 8)
+- Practicing patience and effort (Chapters 9-10)
+- Going to the Woodshed—the forest—to find freedom (Chapter 11)
+- Preparing your mind and watching it closely (Chapters 12-13)
+- Purifying everything you've got (Chapters 14-15)
+- Conducting yourself properly (Chapter 16)
+- Worshiping with your whole heart (Chapter 17)
+- Remembering the Three Jewels (Chapter 18)
+- Increasing your merit (Chapter 19)
+
+That's the training. That's the path.
+
+Now the question is: **What are you gonna do with it?**
+
+---
+
+## The Bodhisattva Vow (Simplified)
+
+If this teaching has moved you, consider taking the vow:
+
+> **I vow to wake up—not just for myself, but for all beings.**
+> **I vow to walk the road—no matter how long it takes.**
+> **I vow to hold the dharma—and never let it go.**
+
+That's it. That's the whole thing.
+
+Everything else is just commentary.
+
+---
+
+## Acknowledgments
+
+**Śāntideva** (8th c. CE) - For compiling this training manual and trusting us to use it.
+
+**The Mahāyāna Sutras** - For providing the source quotations Śāntideva drew from.
+
+**Cecil Bendall & W.H.D. Rouse** (1922) - For the first English translation, which laid the groundwork.
+
+**The Blues Tradition** - Delta Blues, Storefront Church, Chain Gang songs, and The Road—for teaching me how dharma sounds in American English.
+
+**You, the listener** - For trusting this unconventional approach and walking the 19 chapters with me.
+
+---
+
+## About the Translator
+
+**William Altig** is a scholar, translator, and practitioner working at the intersection of Buddhist studies and American vernacular spirituality.
+
+His translations include the *Lotus Sutra* (Blues edition), the *Vimalakīrti Sutra*, and now the *Śikṣāsamuccaya*—all rendered in Blues/gospel register to make Mahāyāna Buddhism accessible to contemporary American audiences.
+
+He believes the dharma always sounds better when it's sung.
+
+---
+
+## Colophon
+
+**Title**: *The Śikṣāsamuccaya: A Compendium of Training*
+**Author**: Śāntideva (8th c. CE)
+**Translator**: William Altig
+**Translation Style**: Blues Vernacular
+**Completion Date**: January 2026
+**Audio Production**: ElevenReader TTS (ElevenLabs)
+**Duration**: Approximately 8-10 hours
+
+**Source Text**: Sanskrit *Śikṣāsamuccaya* (ed. Bendall, 1902)
+**Reference Translation**: Bendall & Rouse (1922)
+
+---
+
+*Thus ends the Śikṣāsamuccaya—A Compendium of Training.*
+
+*May all beings benefit.*
+*May all beings wake up.*
+*May all beings walk the road home.*
+
+**Dedicated to the liberation of all beings.**
+
+---
+
+
+
+---
+
+# Endnotes
+
+### Chapter 2
+
+¹ **Reference to Chapter 1**: The three-fold giving of self, enjoyments, and merit.
+
+² **"Don't do evil—not even to save your life"**: From the Bodhisattvaprātimokṣa. The protection of self IS the protection of others.
+
+³ **"Carry this body like a wagon"**: From the Vīradattaparipṛcchā. The body is just a vehicle for Dharma-work.
+
+⁴ **Spiritual friends (kalyāṇamitra)**: Your people. Your congregation. The ones who keep you honest. Without them, you fall.
+
+⁵ **Flower Ornament teaching**: The Gaṇḍavyūha, from which the famous Sudhana pilgrimage comes.
+
+⁶ **"Like the earth... like a diamond... like a dog"**: These similes for approaching teachers come from Śrīsaṃbhava's teaching to Sudhana.
+
+⁷ **The four perceptions**: Seeing yourself as sick and your teacher as doctor is classic Buddhist pedagogy.
+
+⁸ **"All your purposes come face to face"**: When you trust your teachers completely, everything you need shows up.
+
+⁹ **Sudhana's devotion**: The model lay practitioner. His journey through 52 teachers is the heart of the Gaṇḍavyūha.
+
+¹⁰ **Walking away weeping**: Sudhana wept leaving Megha the Dramiḍa, knowing his wisdom came from his teachers.
+
+¹¹ **The Sadāprarudita story**: From the Aṣṭasāhasrikā Prajñāpāramitā, this is the most extreme model of Dharma-devotion in Buddhist literature.
+
+¹² **Sadāprarudita ("Ever-Weeping")**: Named for his constant tears of longing for Prajñāpāramitā.
+
+¹³ **Dharmodgata ("Dharma-Exalted")**: The teacher Sadāprarudita seeks. His name means one from whom Dharma flows upward.
+
+¹⁴ **Māra's interference**: The Evil One always tries to block the Dharma. Here he makes the marketplace deaf to Sadāprarudita's cry.
+
+¹⁵ **Śakra's test**: The king of the gods in disguise, testing Sadāprarudita's sincerity.
+
+¹⁶ **Piercing himself for the sale**: Sadāprarudita literally begins selling his body parts—heart, blood, marrow—before being stopped.
+
+¹⁷ **The merchant's daughter**: She recognizes the value of what he's doing and provides material support so he doesn't have to sell his flesh.
+
+¹⁸ **Seven years of meditation**: Dharmodgata enters deep samādhi; Sadāprarudita waits—standing or walking only—for seven years.
+
+¹⁹ **Only two postures**: The 500 maidens never sat or lay down for seven years. Extreme dedication.
+
+²⁰ **Divine voice**: A common sign in Buddhist literature that a teaching moment is approaching.
+
+²¹ **Māra made the water disappear**: Another attempt to break Sadāprarudita's resolve.
+
+²² **The blood-offering**: Sadāprarudita and all 500 maidens pierce themselves to sprinkle the teaching ground with blood.
+
+²³ **Caturdharmakasūtra**: "Never abandon your spiritual friend—not even to save your life."
+
+²⁴ **Sāgaramatisūtra**: Extensive definition of what counts as "holding the Dharma."
+
+²⁵ **Queen Śrīmālā**: The Śrīmālāsiṃhanādasūtra, taught by a laywoman queen. "All vows are in one vow."
+
+²⁶ **"Even a little Dharma-holding hurts Māra"**: Striking image—the Evil One is wounded by even small practice.
+
+²⁷ **"Higher than Mount Sumeru"**: Dharma-holding with heedlessness of body surpasses all other good.
+
+²⁸ **Sāgaramati verses**: Enumeration of the benefits of upholding the true Dharma.
+
+²⁹ **"Those who look at you never get full"**: The beauty of a Buddha-body never satisfies the gaze—always fresh, always wonderful.
+
+---
+
+---
+
+### Chapter 3
+
+¹ **Chapters 1-2 recap**: Giving (Chapter 1) and protecting through spiritual friends (Chapter 2).
+
+² **Kārikā 7**: "Protection = avoiding harm"—deceptively simple, but the rest of the chapter shows how complex it gets.
+
+³ **Two-way protection**: Not getting destroyed AND not destroying others.
+
+⁴ **Gaganagañja Sūtra**: The "Space-Treasury" Sūtra. These verses are a collective vow for the age after Buddha's death.
+
+⁵ **Lotus Sūtra**: These guidelines for "safe conduct" for Dharma-preachers have been controversial—they reflect an ascetic wariness of women, entertainers, and worldly power.
+
+⁶ **Māra's work (mārakarma)**: Everything that obstructs the path—external opposition or internal discord. Māra is the devil, the tempter, the obstructor.
+
+⁷ **The discord principle**: Any disagreement between teacher and student is Māra's work. That's sobering.
+
+⁸ **Everything unwholesome is Māra**: Not just demonic attacks—laziness, clinging, abandoning good.
+
+⁹ **Ten Māra-hooks (mārāṅkuśa)**: These are specific traps. The seventh is lazy forest-dwelling; the tenth is false spiritual friends; the eleventh is bad company.
+
+¹⁰ **Burnout is danger**: Too much effort at the wrong time destroys the seed of awakening in others who depend on you.
+
+¹¹ **Impatience is Māra**: Expecting results before the right time—that's the devil's work.
+
+¹² **The paradox of practice**: You must practice giving the body gradually, or you'll never be ready when the time comes.
+
+¹³ **Flesh-eaters (piśitāśana)**: Demons or beings who would consume your offered body destructively, wasting the gift.
+
+¹⁴ **The medicine tree**: Your body is like a medicinal tree whose seed should be protected for proper harvest—not consumed too early by wrong agents.
+
+¹⁵ **Cloud of Jewels (Ratnamegha)**: How to avoid Māra's traps—avoid wrong friends, wrong places, wrong pursuits.
+
+¹⁶ **Evil friend characteristics**: Failed morality, view, conduct, livelihood; drama-lovers; lazy; saṃsāra-lovers; awakening-avoiders; householder-cling.
+
+¹⁷ **Bodhicitta confusion (bodhicittasaṃpramoṣa)**: When the awakening-mind gets stolen or fogged—one of the worst harms.
+
+¹⁸ **Four clarities**: Never lie; stand genuine; see bodhisattvas as teachers; praise them everywhere.
+
+¹⁹ **Lion's Questions (Siṃhaparipṛcchā)**: Never block Dharma-giving—it generates lifetime memory and keeps bodhicitta alive.
+
+²⁰ **Four non-falling dharmas**: Pride struck, jealousy avoided, not conceited at others' success.
+
+²¹ **Make bodhicitta first**: Cultivate it in every posture. That's the clearest prevention of confusion.
+
+²² **Moon-Lamp Sūtra**: "You become what you keep thinking."
+
+²³ **Discouragement (avasāda)**: Thinking "I can't do this" is harm—it abandons the path.
+
+²⁴ **Four stumblings (skhalita)**: Wrong trust, wrong teaching, looking down on the virtuous.
+
+²⁵ **Lack of aspiration (anadhimukti)**: No faith = lower rebirths.
+
+²⁶ **Tathāgata as witness**: For teachings too deep, don't reject—say "The Buddha knows; I don't."
+
+²⁷ **Service skill (vaiyāvṛtyakuśala)**: If you serve the Saṅgha, know the rules or you'll hurt yourself.
+
+²⁸ **Heap of Jewels (Ratnarāśi)**: Extensive service guidelines—protect forest-dwellers, yoga-practitioners, Dharma-preachers.
+
+²⁹ **Saṃgharakṣita narrative**: Monks who misused Saṅgha property reborn as objects. Vivid karmic warning.
+
+³⁰ **The mortar-monk**: Didn't acknowledge his transgression against an arhat. Harsh speech, no confession = mortar-shaped rebirth.
+
+---
+
+---
+
+### Chapter 4
+
+¹ **Chapter scope**: This is the longest chapter so far. It catalogs specific harms from multiple sūtras.
+
+² **Ākāśagarbha Sūtra ("Space-Treasury")**: Enumerates root offenses for consecrated kings (5+) and beginner bodhisattvas (8).
+
+³ **Stūpa-property, Saṅgha-property**: These are communal sacred holdings. Stealing from them is a root offense regardless of your reason.
+
+⁴ **Ādikarmiṇa ("beginner")**: Newly set out on the Mahāyāna. Their offenses relate to teaching, discouraging, and double-tongued hypocrisy.
+
+⁵ **Ākāśagarbha confession**: The remedy involves invoking the god Aruṇa and receiving confession through a dream-vision.
+
+⁶ **Summary verses (saṃgrahakārikā)**: Intended for memorization. The śloka meter makes them easier to remember.
+
+⁷ **Kṣitigarbha Sūtra**: Even a "dead" (disgraced) monk in dyed robes shouldn't be harmed—his visible renunciation plants merit in viewers.
+
+⁸ **Saddharmasmṛtyupasthāna ("Foundations of True Dharma Mindfulness")**: The most extensive hell-description text. Each sin has its own geography.
+
+⁹ **Women as harm**: These verses reflect the renunciant male perspective of the original text. The Bluesman presents them without endorsement—they're part of the historical record of how desire was addressed in these monastic contexts.
+
+¹⁰ **Kāmamūla ("sensual root")**: The logic behind all the anti-desire passages. Every harm traced back to craving.
+
+¹¹ **Saptamaithunsaṃyuktasūtra ("Seven Sexual-Union Sūtra")**: Celibacy extends beyond the physical act—gazing, playing, savoring sounds, dedicating for heaven all count.
+
+¹² **Kāmāpavādakasūtra ("Sūtra Rejecting Pleasures")**: Vivid similes—trap, net, fishhook, glue, fire. Pull-quotes intended to shock.
+
+¹³ **Praśāntaviniścaya Sūtra**: Obstructing even one bodhisattva-thought is worse than killing all Jambudvīpa. The asymmetry is staggering.
+
+¹⁴ **Śūraṅgamasamādhisūtra**: Even uninitiated persons may be predicted bodhisattvas. Treat all as potential teachers.
+
+¹⁵ **Sarvadharmavaipulyasaṃgraha**: The subtlest teaching on Dharma-rejection. Saying "this teaching is good, that one bad" is already rejection.
+
+---
+
+---
+
+### Chapter 5
+
+¹ *Reference to Chapter 4*: "We talked about harm" refers to the previous chapter on *Anarthavarjana* (Avoiding Harm).
+
+² *Adhyāśayasaṃcodana Sūtra* ("Awakening Higher Intention"): Contains the thirteen vows made by beginner bodhisattvas. Key phrase: "we deceive the Tathāgata" (*tathāgataṃ vañcayāmaḥ*) - fundamental betrayal of one's word to the Buddha.
+
+³ *Sarvadharmāpravṛttinirdeśa*: "Bow three times daily; don't search for faults. A person shouldn't be measured by another person. Either I [the Buddha] would measure, or one like me."
+
+⁴ *Kṣitigarbha Sūtra*: Learned beings pray NOT to attain positions of power until they have obtained patience. "Power without patience damages Buddha's teaching."
+
+⁵ *Candrapradīpa Sūtra* ("Moon-Lamp"): Verses on "smiling moon-face" - be first to speak, bow to elders, help with robes and food. "All will become Leaders."
+
+⁶ *Gaṇḍavyūha*: Maitreya's praise to Sudhana on bodhicitta-holders. They are the Buddha-sun, Buddha-moon, Buddha-embryo, Dharma-lamp, knowledge-vajra that shatters suffering.
+
+⁷ *Four dharmas for safety* (plus four more): (1) examine own faults, (2) don't accuse others, (3) don't compete for patrons, (4) refrain from heedless speech; (5) avoid beings of little learning, (6) don't build assembly, (7) dwell in border places, (8) devoted to self-discipline and tranquility.
+
+⁸ *Lābhasatkāra* (gain and honor): Twenty-five dangers listed, culminating in "like Devadatta's conduct." Antidote: *alpecchatā* (few desires).
+
+⁹ *Kārikā 7*: "Avoidance of all fruitless activity" (*anarthakriyāsarvavarjana*). Fruit (*artha*) = benefit to others. Everything else is fruitless, to be avoided.
+
+¹⁰ *Dharmasaṃgīti Sūtra*: "All bodhisattva action proceeds with great compassion as chief, with aim of establishing beings' welfare."
+
+¹¹ *Gaganagañja Sūtra* ("Sky Treasure"): "Wind enters through cracks; Māra enters through mind-cracks. Cultivate **crackless mind** (*achidramanas*). That cracklessness is fulfillment of emptiness of all-aspect knowledge."
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+
+
+
+--------------------------------------------------------------------------------
+
+---
+
+### Chapter 6
+
+¹ **Chapter structure**: Mindfulness → Earnestness → Calm → Mind-training → Speech → Food/Medicine → Servant's mind.
+
+² **Akṣayamati Sūtra**: Comprehensive list of "inexhaustible calm" qualities.
+
+³ **Key teaching**: *samāhito yathābhūtaṃ prajānāti*—"One who is concentrated knows things as they are." Calm (śamatha) generates insight (vipaśyanā).
+
+⁴ **Ratnacūḍa Sūtra**: Right mindfulness is the "gatekeeper" (*dauvārika*) that doesn't let unwholesome states through.
+
+⁵ **Prajñāpāramitā**: Clear comprehension (*saṃprajanya*) is knowing each action in the moment—walking, standing, sitting, lying.
+
+⁶ **Mind-training** (*cittaparikarma*): This is the essence of bodhisattva training because mind is the root of all dharmas.
+
+⁷ **Gaṇḍavyūha**: The "city of the mind" (*cittanagara*) metaphor—guard it, purify it, expand it, make it impregnable.
+
+⁸ **Kārikā 10**: Attracting beings through gentle speech is "the bodhisattva's very task."
+
+⁹ **Sāgaramati Sūtra**: Twelve kinds of unwholesome speech to avoid.
+
+¹⁰ **Tathāgataguhya Sūtra**: Speech free from desire, hatred, delusion, victory-seeking.
+
+¹¹ **Daśabhūmika Sūtra**: The ideal speech—affectionate, sweet, heart-going, love-producing, affliction-pacifying.
+
+¹² **Single dharma**: "By examining your own faults, you protect all beings." The summary of Mahāyāna.
+
+¹³ **Ratnamegha**: Four portions of alms—fellow practitioners, suffering, destitute, yourself.
+
+¹⁴ **Ratnarāśi Sūtra**: The "Dharma-armor" for alms-gathering, including the 80,000 worm families.
+
+¹⁵ **Laṅkāvatāra Sūtra**: Prohibition of meat for bodhisattvas. No "three-fold pure" exception.
+
+¹⁶ **Servant's mind**: Everything belongs to beings. You're their servant. If you partake with craving, that's offense.
+
+---
+
+---
+
+### Chapter 7
+
+¹ *Reference to Chapter 6*: Protecting the body (ātmabhāvarakṣā) was the previous chapter.
+
+² *Kārikā 14*: The verse on protecting enjoyments through knowing measure.
+
+³ *Ugraparipṛcchā*: "Well-examined action, well-done action"—the rule for using goods properly.
+
+⁴ *Proper use of household*: Don't block awakening-factors by giving up or holding on inappropriately.
+
+⁵ *Bodhisattvaprātimokṣa*: The Bodhisattva Code's teaching that the renunciant gives Dharma, not material. A single verse surpasses Ganges-sand buddha-fields of treasure.
+
+⁶ *Sāgaramati Sūtra*: Lists "too much possessing" among the obstructions to the Mahāyāna.
+
+⁷ *Vimalakīrtinirdeśa*: The famous chain—fear of saṃsāra → Buddha-greatness → equality with all beings → liberation of all beings.
+
+⁸ *Dharmasaṃgīti Sūtra*: "Awakening first for all beings, not for himself"—the essence of bodhisattva practice.
+
+⁹ *Ratnakūṭa Sūtra*: Lists the four bodhisattva-imitations, including the one who seeks his own happiness rather than removing beings' suffering.
+
+¹⁰ *Nirārambha Dharmasaṃgīti Sūtra*: Defines great loving-kindness (bringing out body, life, wholesome roots for beings without expecting return) and great compassion (wishing awakening first for beings). States that all bodhisattva training has great compassion as its root.
+
+¹¹ *Praśāntaviniścayaprātihārya Sūtra*: A king's hundred-thousand-year expenditure combined equals one monk's daily food. But a bodhisattva studying Dharma who accepts an offering thinking "I'll obtain the Dharma-quest by this" generates far more merit.
+
+¹² *Kārikā 15ab*: Merit is well-protected by freedom from craving for self-benefit.
+
+¹³ *Nārāyaṇaparipṛcchā*: The bodhisattva doesn't protect morality for heaven, Śakra-hood, power, beauty, fame—not afraid of hell or animal birth—but for establishing the Buddha-guidance and the welfare of all beings.
+
+¹⁴ *Kārikā 15c*: "Should not create regret afterward."
+
+¹⁵ *Pracchannakalyāṇatā*: "Concealed good, revealed evil"—the Blessed One's praise. What you reveal gets exhausted (evil by sorrow, merit by elation).
+
+¹⁶ *Ratnamegha*: Illustrates with doctor-example that self-exaltation is faultless when done for beings' sake.
+
+¹⁷ *Kārikā 16*: "Should be afraid of gain and honor, should always avoid exaltation; the bodhisattva should be serene, should abandon doubt in the Dharma."
+
+¹⁸ *Ratnakūṭa Sūtra*: Four dharmas that diminish wholesome dharmas: (1) conceited quest for worldly philosophy, (2) intent on gain/honor, (3) hatred-accusation of bodhisattvas, (4) rejection of unheard sūtras.
+
+¹⁹ *Sarvāstivāda Vinaya*: The monk who prostrated at the stūpa would enjoy thousands of wheel-turning sovereignties. But these roots of virtue become thin and exhausted when a fellow-practitioner generates ill-mind toward a fellow-practitioner. "Don't corrupt your mind even toward a burnt post."
+
+²⁰ *Mañjuśrīvikrīḍita Sūtra*: "'Opposition' (pratigha) destroys roots of virtue accumulated over a hundred kalpas."
+
+²¹ *Gaṇḍavyūha Sūtra*: Samantasattvaparitāṇyojaḥśrī recounts that through mutual contempt's unwholesome root, beings fall away from life-span, beauty, strength, ease.
+
+²² *Ratnamegha Sūtra*: The bodhisattva accepts even a Sumeru-sized heap of jewels or small contemptible things, thinking "These stingy, greedy beings drown in saṃsāra because of this. This will be for their long-term welfare." Having accepted, he doesn't make it his own, doesn't generate greed, but offers it to Buddha-Dharma-Saṅgha in common with all beings and uses it as livelihood for suffering beings. And by that gift he is not exalted.
+
+²³ *Ratnamegha*: The eleven forms of "pride struck down"—dwelling like a corpse, wearing discolored garments, shaved head with bowl, like an outcaste youth, bowl-liver, accepting what's cast off, pleasing teachers, satisfying fellow-practitioners, attaining unobtained Buddha-dharmas, dwelling in patience among angry beings.
+
+²⁴ *Sāgaramati Sūtra*: The bodhisattva is purified in body with perfect limbs yet not intoxicated by form. Even to lowly, deformed beings he bows and prostrates. Just as the ocean settles in a low place and all rivers flow into it with little difficulty, so for the non-prideful bodhisattva the profound Dharma-joys come to the ear with little difficulty. The prideful bodhisattva is "pierced by Māra's hook."
+
+²⁵ *Lokottaraparivarta Sūtra*: The ten Māra-works: (1) lack of reverence, (2) not bowing to Dharma-preachers, (3) generating conceit, (4) generating pride, (5) making Dharma-hatred due to person-hatred, (6) seeking high position, (7) being frown-faced, (8) not approaching the wise, (9) overpowered by pride, exhausting merit, (10) result: not meeting Buddha for a hundred thousand kalpas. The antidote: non-pride toward all beings.
+
+²⁶ *Rāṣṭrapāla Sūtra*: Those grasped by pride go to bad destinies, poverty, low birth, birth-blindness, weakness, short life.
+
+²⁷ *Dharmasaṃgīti Sūtra*: "The being-field is the bodhisattva's buddha-field, because from the buddha-field comes acquisition of Buddha-dharmas."
+
+²⁸ *Ratnolkā Dhāraṇī*: The bodhisattva generates ten kinds of mind toward all beings from the very beginning: welfare-mind, happiness-mind, nurse-mind, affectionate-mind, dear-mind, assistance-mind, protection-mind, equal-mind, ācārya-mind, śāstṛ-mind.
+
+²⁹ *Śraddhābalādhānāvatāramudrā Sūtra*: "I'm established in being a student of all beings. I'm established in bowing and prostrating to all beings."
+
+³⁰ *Vimalakīrtinirdeśa*: For pure buddha-field arising, teacher-love toward all beings is taught. Even when sweeping seats or washing feet, the bodhisattva should cultivate love-regard and reverence-practice toward women, those in untimely states, the fallen.
+
+³¹ *Gaṇḍavyūha Sūtra*: The story of King Sarvadharmanirnādacchatramaṇḍalanirghoṣa who was more delighted to see beggars than to have his kingdom. Toward all beggars he generated only-son perception, mother-father perception, venerable perception, good friend perception, rare perception, difficult-doer perception, supreme benefactor perception, bodhi-path support perception, ācārya-śāstṛ perception.
+
+³² *Bhikṣuprakīrṇaka*: The Blessed One attended a sick monk, saying "I'll attend you, monk. I'll wash your robes." Ānanda said "I'll wash them, Blessed One." The Buddha replied "Then you wash, Ānanda. The Tathāgata will pour the water." The Buddha poured water while Ānanda washed the robes and bathed the sick monk.
+
+³³ *Service Verses*: The extended verse section (lines 178-285 of Sanskrit) on serving beings as serving Buddhas. Beings are wish-fulfilling jewels. The bodhisattva's masters. "Let crowds place their feet on my head, or let them strike—may the World-Protector be pleased." This is pleasing the Tathāgatas, accomplishing one's own aim, removing the world's suffering.
+
+³⁴ *Candrapradīpa Sūtra*: Whatever immeasurable worships in hundreds of fields, in billions—having worshiped incomparable Leaders—doesn't equal a fraction of the loving mind.
+
+³⁵ *Ratnamegha*: How the bodhisattva is free from unwise attention: doesn't think "I dwell unmixed in solitude, practiced in the Dharma, while other śramaṇas and brāhmaṇas dwell mixed, fallen from the Dharma." Doesn't taste great vigor, doesn't exalt himself, doesn't despise others.
+
+³⁶ *Akṣayamati Sūtra*: Merit dedicated to awakening has no intermediate exhaustion until sitting on the enlightenment-seat. Like a drop fallen into the great ocean—no exhaustion until kalpa's end.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+
+
+
+--------------------------------------------------------------------------------
+
+---
+
+### Chapter 8
+
+¹ **Chapter scope**: Purification (*śodhana*) after the three protections (person, enjoyments, merit).
+
+² **Tathāgataguhya Sūtra**: The bodhisattva's purified body benefits beings even after death—animals eat the corpse, are reborn in heaven.
+
+³ **Caturdharma Sūtra**: The four dharmas—condemnation (*vidūṣaṇā*), antidote (*pratipakṣa*), restraint (*pratyāpatti*), refuge (*āśraya*).
+
+⁴ **Suvarṇaprabhāsottama Sūtra**: The famous confession verses, comprehensive enumeration of evil's causes—ignorance, intoxication, foolishness, evil companions, afflictions, poverty, desire, anger, hunger.
+
+⁵ **Upāliparipṛcchā**: Hatred-offenses are heavier than desire-offenses because hatred abandons beings, desire gathers beings.
+
+⁶ **Skillful means** (*upāyakauśalya*): Those restrained from abandoning beings by wisdom and compassion together—not just wisdom alone (cutting beings loose) or compassion alone (drowning in afflictions).
+
+⁷ **Upāyakauśalya Sūtra**: Jyotirmāṇavaka's story—42,000 years of celibacy, breaks vow out of compassion to save woman from suicide, turns back for 10,000 kalpas but conducing to Brahma-world, not hell.
+
+⁸ **Vajracchedikā** (Diamond Sūtra): Being despised for studying profound sūtras exhausts evil karma that would have led to bad destinies.
+
+⁹ **Tathāgatakoṣa Sūtra**: Even the ten extreme evils (killing Pratyekabuddha father, defiling arhat mother, slandering Tathāgata, etc.) are purified by entering the emptiness-teaching on no-self.
+
+¹⁰ **Trisamayarāja**: The hundred-syllable mantra recited 8,000 times with closed eyes brings sight of Buddhas and freedom from evil.
+
+¹¹ **Cundā Dhāraṇī**: Dream-signs of evil's exhaustion—weeping, vomiting, seeing sun/moon, traveling through space, defeating fire/buffalo/black man, seeing monastics, ascending milk-tree/mountain/throne/palace/ship, hearing Dharma.
+
+¹² **Bhaiṣajyaguru Sūtra** (Medicine Buddha): Holding the Medicine Buddha's name protects from bad destinies for those who've broken precepts—no bad destinies ever again.
+
+¹³ **Kṣitigarbha Sūtra**: Each wholesome karma-path (refraining from killing, stealing, lying, etc.) crushes its opposite obstruction by the "wheel of refraining."
+
+¹⁴ **Pig-Story** (*Sūkarikāvadāna*): "Those who go to the Buddha for refuge don't go to bad destinies; having abandoned human bodies, they obtain divine bodies."
+
+¹⁵ **Maitreyavimokṣa**: Bodhicitta as supreme purifier—**fire** (burning all misconduct), **gold** (Hāṭakaprabhāsa substance transforming thousand iron palas, can't be consumed by iron), **lamp** (dispelling thousand years' darkness instantly), **jewel-crown** (protecting from all attack).
+
+¹⁶ **Upāliparipṛcchā**: Bodhisattva's morality is boundless if not separated from omniscience-mind (bodhicitta)—can fall in morning, rise in midday, morality remains boundless. Śrāvaka's morality destroyed by repeated offense. Bodhisattva shouldn't generate excessive remorse.
+
+---
+
+---
+
+### Chapter 9
+
+¹ **Chapter context**: Chapter 9 follows purification (Ch 8) with the first of the six perfections.
+
+² **Dharmasaṃgīti**: Three types of patience—enduring suffering, contemplating dharmas, bearing harm.
+
+³ **Candrapradīpa**: "Non-attachment to pleasure. Non-aversion to pain."
+
+⁴ **Ugradattaparipṛcchā**: Unstained by eight worldly dharmas; all relations karma-produced.
+
+⁵ **Relinquishing delicate mind**: "Gone is the cotton-fluff-likeness of the mind."
+
+⁶ **Gaṇḍavyūha**: Three minds—difficult-to-conquer, unconquered, imperturbable.
+
+⁷ **Nothing difficult**: Even the foolish endure hardship for trivial gains.
+
+⁸ **Practice perception**: By practicing pleasure-perception in suffering, pleasure alone arises.
+
+⁹ **Pitāputrasamāgama**: Sarvadharmasukhākrānta samādhi—pleasure even under torture.
+
+¹⁰ **Supreme practice**: Fulfills all relinquishment, accomplishes all difficult practices.
+
+¹¹ **Mahāmegha**: Bodhisattvas are merchants sailing to hell.
+
+¹² **Sāgaramati**: "Not broken"—not by Māra, not by beings, not by torture.
+
+¹³ **Armor**: Even if beings cut the body, not generating hostile mind.
+
+¹⁴ **Body-love**: The cause of ill-will. Relinquish body; ill-will relinquished.
+
+¹⁵ **Six perfections**: All arise from patience under torture.
+
+¹⁶ **Searching**: Who reviles, who is reviled? None found. Patience arises.
+
+¹⁷ **Prajñāpāramitā**: "Like a deaf-mute sheep" in quarrels. No frown on face.
+
+¹⁸ **Bodhisattvaprātimokṣa**: Those who are angry—he soothes them.
+
+---
+
+---
+
+### Chapter 10
+
+¹ *Reference to Chapter 9*: "Established in patience" refers to the previous chapter on Kṣāntipāramitā (Perfection of Patience).
+
+² *Candrapradīpa Sūtra*: "Though you comprehend many dharmas, if you don't guard morality, intoxicated by learning—you can't be protected by much learning, the immoral one going to bad destinies."
+
+³ *Nārāyaṇaparipṛcchā*: The chain - "For one with learning there's attainment of wisdom. For one with wisdom there's calming of afflictions. For one free from afflictions, Māra finds no opening."
+
+⁴ *Uttara Jātaka*: The story of the great rishi Uttara who desired Dharma intensely. The text lists miraculous benefits: Buddhas display faces, Dharma-treasures appear, lifespan extends, old age removed, no fear of harm.
+
+⁵ *Akṣayamati Sūtra*: Lists eighty modes of entering learning (*aśītyākārapraveśaṃ śrutam*). Each mode is a compound ending in *-ākāra* (mode/aspect/way).
+
+⁶ *Dharma-accumulation yoga*: Extensive description of the yogin's practice, including the key image "like one whose head and clothes are on fire" (*ādīptaśiraścailopamatā*) - the urgency of seeking wisdom.
+
+⁷ *Jñānavaipulya Sūtra*: Lists treatises to avoid (lokāyata, daṇḍanīti, vādavidyā, kumārakrīḍā, jambhaka-vidyā) - all contrary to liberation.
+
+⁸ *Forest dwelling*: "One who has learned should resort to forest to purify mind." The Ugradatta Sūtra permits household for one lacking capacity, but notes that household is "blameworthy by designation."
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+
+
+
+--------------------------------------------------------------------------------
+
+---
+
+### Chapter 12
+
+¹ **Chapter opening**: Following forest dwelling (Ch 11), the work of concentration begins.
+
+² **Bhagavatī**: "Even worldly meditation is difficult for distracted mind—how much more supreme awakening!"
+
+³ **Prajñāpāramitā sense restraint**: Full teaching on not grasping signs/features while maintaining concentration in all postures. The bodhisattva remains "even, unchanged, not elated, not dejected" through all circumstances because he sees dharmas as empty of own-nature.
+
+⁴ **Rāṣṭrapāla verses**: Antidote for both torpor and agitation—remember rarity of Buddha-appearance, impermanence of conditioned things.
+
+⁵ **Lalitavistara extended similes**: Triple world as burning house, potter's wheel, bee in pot; life as lightning, rushing water; desires as fire-pits, swamps, sword-points, razor's edge, serpent's head, dung-pit, stage performance, dreams, illusions, mirages, bubbles, foam.
+
+⁶ **Rājāvavādaka Sūtra**: The four mountains teaching—old age, disease, death, and loss come from four directions like solid mountains. Cannot escape by speed or turn back by wealth, mantras, medicines. Only Dharma protects. Extended description of death process and charnel ground destination.
+
+⁷ **Three main defilements**: Among kleśas, rāga (desire), dveṣa (hatred), and moha (delusion) are primary. Cultivate the antidote for whichever is strongest; avoid its causes.
+
+⁸ **Ratnamegha on desire antidote**: Aśubhā bhāvanā (foulness meditation) is the antidote. Causes of desire: beautiful forms in villages/towns. Method: investigate the 32 parts of the body—head-hair to brain-membrane. "Even a fool wouldn't generate desire if he knew these substances."
+
+⁹ **Prajñāpāramitā butcher simile**: Just as butcher makes four cuts and examines them, bodhisattva knows body by four elements—earth, water, fire, wind.
+
+¹⁰ **Grain bag simile**: Just as sighted person separates grain types in farmer's bag, bodhisattva examines body parts from crown to soles, seeing various impurities clearly.
+
+¹¹ **Charnel ground contemplations**: Nine stages—1) Dead 1-5 days, swollen, blue, putrid; 2) Eaten by crows, vultures, dogs, jackals; 3) Devoured, foul-smelling; 4) Skeleton with flesh/blood, held by sinews; 5) Skeleton without flesh/blood; 6) Bones scattered in directions; 7) Bones years old, white like shells; 8) Bones blue, pigeon-colored, rotten; 9) Bones pulverized to dust, mixed with earth. At each stage: "This body too is of that nature, has not escaped that law."
+
+¹² **Maitrī defined**: Wishing for others' happiness, praying for it, thirsting for it, delighting in it. Undefiled affection not caused by sensual desire or expectation of return. Seeing unpleasant beings is the cause of hatred.
+
+¹³ **Three types of maitrī** (Akṣayamati Sūtra): 1) Beings-as-object (first mind-arising bodhisattvas), 2) Dharmas-as-object (practice-stage bodhisattvas), 3) No-object/anārambaṇā (bodhisattvas with non-arising dharma acceptance).
+
+¹⁴ **Method of practice**: Don't cultivate by bringing to mind benefit/happiness of dear beings (to avoid attachment). Start with equals, then associates, indifferent ones, nearby dwellers, own village, other villages. Expand to one direction, then all ten directions. Buddha/bodhisattva/śrāvaka-object maitrī doesn't need gradual practice.
+
+¹⁵ **Vajradhvaja Pariṇāmanā**: Extended dedication prayer dedicating all pleasant experiences to: 1) Buddhas' inconceivable happiness; 2) Bodhisattvas' completion of intentions, perfections, grounds; 3) Śrāvakas/pratyekabuddhas' recollection, purification; 4) All beings who hear even one syllable of teaching—for supreme awakening.
+
+¹⁶ **Delusion antidote**: Pratītyasamutpāda darśana (seeing dependent origination) is the antidote to moha's underlying tendency.
+
+¹⁷ **Śālistamba Sūtra teaching**: Internal dependent origination—twelve links from ignorance to old age/death. Key point: "Ignorance does not think 'I produce formations.' Formations do not think 'We are produced by ignorance.'" But when ignorance exists, formations' arising occurs. Mutual arising without agent.
+
+¹⁸ **Six elements**: Earth (solidity/hardness), water (holding together), fire (digestion), wind (breath), space (internal hollowness), consciousness (producing name-and-form with five consciousness groups). When conditions incomplete, body doesn't arise. When complete elements come together, body arises—but none think "I perform this function."
+
+¹⁹ **What elements are not**: Not self, being, life, person, human, man, woman, male, neuter, 'I', 'mine', anyone else's. Same for all six elements.
+
+²⁰ **Ignorance defined**: Perception of oneness, lump, permanence, stability, eternity, pleasure, self, being, 'I-making', 'mine-making' in the six elements. Various non-knowing. From ignorance → formations (desire/hatred/delusion toward objects) → consciousness → name-and-form → six sense-bases → contact → feeling → craving → clinging → becoming → birth → old age/death.
+
+²¹ **Eye-consciousness example**: Arises from five causes—eye (basis), form (object), light (illumination), space (non-obstruction), mental attention (bringing together). None think "I perform this function." When conditions exist, eye-consciousness arises.
+
+²² **Five ways to see dependent origination**: 1) Not eternal (different death/birth aggregates); 2) Not annihilated (like balance beam); 3) Not transferred (different being-collection); 4) Small cause, large result; 5) Similar continuity (as karma done, so ripening felt).
+
+²³ **Summary**: Desire → foulness; Hatred → loving-kindness; Delusion → dependent origination.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+¹ **Chapter context**: Following forest dwelling (Ch 11), now actual meditation practice begins.
+
+² **Bhagavatī** (Prajñāpāramitā): "Even worldly meditation is hard for distracted mind."
+
+³ **Prajñāpāramitā sense restraint**: Not grasping signs/features; maintaining concentration in all postures.
+
+⁴ **Rāṣṭrapāla verses**: Remember rarity of Buddha, impermanence of conditioned things.
+
+⁵ **Lalitavistara**: Extended metaphors for saṃsāra and desire—burning house, potter's wheel, hunter's trap, dung-pit, razor's edge, serpent's head, stage performance, dreams.
+
+---
+
+*Blues Vernacular Translation by William Altig*
+*Śikṣāsamuccaya Project • 2026*
+
+
+
+
+--------------------------------------------------------------------------------
+
+---
+
+### Chapter 13
+
+¹ **Chapter connection**: After mind-training (cittaparikarma, Ch 12) and purification (pāpaśodhana, Ch 8), now establish the four foundations of mindfulness (smṛtyupasthāna).
+
+² **Body contemplation**: Already covered in Chapter 12 via aśubhā bhāvanā (foulness meditation), the Butcher's Eye, and 32 body parts. Chapter 13 deepens this with no-self contemplation.
+
+³ **Dharmasaṃgīti Sūtra**: Body as collection of parts, substances (hair, nails, bones, flesh, fat, etc.), ultimately like space—no owner, no "mine."
+
+⁴ **Ratnacūḍa Sūtra**: Three essences from impermanent body—body-essence (serve beings), life-essence (don't do evil for life), wealth-essence (don't crave). Bodhisattva binds all beings' bodies to his own, establishing them in Buddha-body.
+
+⁵ **Vīradattaparipṛcchā**: 61 body-metaphors (anthill housing serpents, unconquered enemy, monkey-faced friend, foam-ball, water-bubbles, mirage, banana tree, illusion, king, enemy, thief, condemned man, killer, empty village, potter's vessel, latrine, fat-pot, wound, thorn, old house, old vehicles, raw pot, riverbank tree, river-current, traveler's inn, orphanage, marketplace, child). Body can't be made pure—bathed in hundred pilgrimage waters, goes to destruction not purity.
+
+⁶ **Ratnacūḍa on feeling**: Three feelings generate three compassions—pleasant feeling/desire-nature/uproot attachment, painful feeling/hatred-nature/uproot aversion, neutral feeling/delusion-nature/uproot ignorance. Three knowledges: pleasant=impermanent, painful=thorn, neutral=peace/non-self.
+
+⁷ **Akṣayamati Sūtra**: Painful feeling generates compassion. Fixation/grasping/clinging/perceiving/distortion/conceptualization are all feeling.
+
+⁸ **Dharmasaṃgīti on feeling**: No feeler separate from feeling. Mindfulness of feeling same as awakening—peaceful, pure, luminous.
+
+⁹ **Ratnacūḍa on mind**: Mind unfindable—not inside, outside, or between; not past, future, present; never seen by Buddhas; like illusion, river-current, lamp-flame, lightning, space, evil friend, fish-hook, blue fly, enemy, yakṣa, thief. Mind delighting in five sense-objects like moth-eye, war-drum, pig, leftover-eater, fly in oil.
+
+¹⁰ **Mind cannot see itself**: Like sword-edge can't cut itself, fingertip can't touch itself. When object exists, mind arises—but if object same as mind, mind would see mind (impossible); if object different from mind, two minds (absurd). One-pointedness of wild monkey-wind mind is mindfulness of mind.
+
+¹¹ **Ratnacūḍa on dharmas**: No dharma found as Buddha-dharma, awakening, path, or escape. Afflictions unafflicted by nature—**by awakening to afflictions, there's awakening; afflictions' own-nature is awakening's own-nature**. Dharmas arise and cease with no self inside—no gatherer, no arising of causeless dharmas. Never abandon bodhicitta even while contemplating profound dharmas.
+
+¹² **Lalitavistara verses**: Sixteen verses on dependent origination—conditioned things impermanent (raw pots, borrowed things, sand-city), falling apart (rainy season plaster, riverbank), quick arising-ceasing (lamp-flame, wind, foam), empty (banana trunk, illusion, empty fist). By causes/conditions all proceeds—muñja-valbaja grass, rope twisted, well-wheel turning (no individual turning). Seed-sprout (not same, not different, uncut, non-eternal). Ignorance-conditions empty. Seal-impression (no transference). Eye-form (no transference into eye). Fire from sticks, sound from throat-lips-tongue, lute-sound (where from? where to? nowhere). Yogi sees emptiness. Aggregates/sense-spheres/elements empty inside-outside, dharma-space nature.
+
+¹³ **Lokanāthavyākaraṇa**: Dharmas empty, nameless—name-ness empty, in name no name found. Name's own-nature never seen/heard/arisen/ceased. Names are conventional usage, designations.
+
+---

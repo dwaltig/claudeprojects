@@ -1,0 +1,3 @@
+I want to share my thoughts on the universality of the Dharma. I hold the teachings of Nichiren Buddhism in high esteem and also see the wisdom within various other traditions. The prayer I shared was a reflection of my personal understanding and appreciation of the Dharma's universal qualities, which, I believe, extend beyond the confines of any single religion.  
+  
+In focusing on the core values that are celebrated across different faiths—compassion, wisdom, and love—I hope to foster a deeper understanding among us all. The Buddhas themselves guide us with skillful means; by embracing these universal virtues, we lay the groundwork for finding common ground and celebrating the rich diversity of our collective spiritual paths.  

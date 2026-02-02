@@ -1,0 +1,35 @@
+# Surangama Sutra Git Repository - Ignore File
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+~$*
+
+# Microsoft Office temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
+# Backup files created during editing
+*.backup
+*.old
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Do NOT ignore actual content files - we want to track everything else

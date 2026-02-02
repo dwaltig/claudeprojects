@@ -1,0 +1,62 @@
+ElevenReader Publishing Content Guidelines
+
+Last updated: March 25, 2025
+
+To ensure a high-quality experience, ElevenLabs reserves the right to remove content if it does not meet our standards for customer satisfaction, if it violates the intellectual property of another, or if required by law. We actively listen to feedback from users and investigate concerns they may raise. Authors, publishers, and selling partners are responsible for adhering to these content guidelines, which we enforce through a combination of machine learning, automation, and human review. Content that does not meet these guidelines will be rejected or removed, and we promptly investigate any book flagged for potential noncompliance.
+
+Prohibited Content
+
+We take violations of laws and proprietary rights very seriously. It is your responsibility to ensure that your content doesn’t violate laws or copyright, trademark, brand, privacy, publicity, or other rights
+
+Please also ensure that your content does not violate our Use Policy by including illegal, offensive, or prohibited material.
+
+Public Domain Content
+
+We do not accept undifferentiated public domain content.
+
+Content Quality Standards
+
+We are committed to providing a positive, trustworthy reading experience. We will not accept any book that misleads, promotes, or misrepresents its content. Books that do not meet these quality standards may be removed, and/or additional information may be requested before approving the book. Publishers and authors must adhere to the following guidelines: 
+
+Formatting Guidelines:
+
+    Error-Free Text: Content should be free from typos, unsupported characters, formatting issues (e.g., excessive whitespace, inconsistent layout), and duplicated or missing text.
+    Accurate Metadata: Metadata should fully and accurately represent the book’s content to ensure reliable search results.
+    High-Quality cover image: Cover images should be of high quality; avoid low-resolution images. 
+
+Content Restrictions: 
+
+    Restricted Content Types: Content should not redirect readers to external resources, include excessive links, or serve solely as a promotional tool.
+    Minimum Content Length: Content should meet minimum length requirements to ensure a fulfilling reading experience.
+    Insufficient quality: Low-quality or poorly translated content will be flagged for removal.
+    Spam or Non-Book Content: Content must clearly resemble a book or similar literary work. Any material that does not meet this standard or could be considered spam will be removed.
+    Literary Works Only: This program is intended for literary works, such as books, or short stories, starting at 2,500 words. It does not support news content, articles, newsletters, or blogs. 
+    Full Literary Works Only: We only accept complete literary works. Splitting books into parts or chapters as separate submissions is not allowed.
+
+Current Platform Limitations
+
+    Language Requirement: Currently, we accept content in the following languages: English, Spanish, Portuguese, French, German and Polish. Additional language support will be added in the future.
+    Text-Only Content: At this time, we cannot process books with images or other graphical elements. The platform supports text-based content only. Image support will be added in the future.
+
+These guidelines help maintain a consistent and engaging experience on the ElevenReader platform. By following these standards, authors and publishers contribute to a high-quality, trusted library for all users.
+
+If you encounter content that violates our guidelines, please report it to us. You can find instructions on how to report content here
+
+Mature Rating
+
+All publishers and authors are required to assign a maturity rating to their content. Marking a book as “Mature” in the ElevenReader program does not allow prohibited content; any material that violates our guidelines will be removed, regardless of its rating. The “Mature” rating is intended for an audience aged 18 and up. To ensure it reaches the appropriate readers, mature content has restricted visibility within ElevenReader. A book should be rated “Mature” if it includes any of the following: 
+
+    Explicit sexual scenes
+    Themes or depictions of self-harm
+    Graphic violence 
+
+Prohibited Conduct
+
+You are strictly prohibited from engaging in fraudulent or abusive activities, including without limitation to:
+
+    Artificial Manipulation: Using bots, automated scripts, or other similar methods to artificially inflate views, downloads, interactions, or other engagement metrics associated with your content;
+    Fraudulent Transactions: Generating fraudulent transactions, including self-purchases or coordinating with others to manipulate performance metrics or payouts; 
+    Deceptive Practices: Engaging in click fraud, submission of false or misleading reviews, or other activities designed to misrepresent legitimate user behavior or engagement, or submitting content that mimics popular titles, with similar covers, titles, or author names, intended to mislead readers; or 
+    Unauthorized Content: Uploading content without proper rights or permissions, including unlicensed or infringing materials.
+
+Violations of this policy may result in actions such as content removal, withholding of payouts, suspension, or termination of your account, at our sole discretion. We reserve the right to monitor and audit your activities to ensure compliance with these guidelines and to protect the integrity of our platform.  

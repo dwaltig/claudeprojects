@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lotus Sutra - Concept Network Explorer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { height: 100%; width: 100%; }
+        body { font-family: 'Georgia', serif; background: #ffffff; color: #333333; }
+
+        .container { display: flex; flex-direction: column; height: 100vh; }
+
+        /* HEADER */
+        .header {
+            background: #1a4d7a;
+            color: #ffffff; padding: 30px 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        .header h1 { font-size: 2.4em; margin: 0 0 10px 0; color: #ffffff; font-weight: 700; letter-spacing: 0.5px; }
+        .header p { font-size: 1em; color: #ffffff; margin: 0; letter-spacing: 0.3px; }
+
+        .chapter-selector { margin-top: 15px; }
+        .chapter-select {
+            padding: 12px 18px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.4);
+            color: white; border-radius: 4px; cursor: pointer; font-size: 1em; min-width: 350px;
+        }
+        .chapter-select:hover { background: rgba(255,255,255,0.25); }
+
+        /* MAIN LAYOUT - TWO PANELS */
+        .main { display: flex; flex: 1; overflow: hidden; gap: 0; }
+
+        /* LEFT PANEL - READER */
+        .reader-panel {
+            flex: 1; display: flex; flex-direction: column; overflow: hidden;
+            border-right: 2px solid #d4e6f1;
+        }
+
+        .reader-content {
+            flex: 1; overflow-y: auto; padding: 40px 45px;
+            background: #ffffff; font-size: 1.05em; line-height: 1.8;
+        }
+        .reader-content::-webkit-scrollbar { width: 10px; }
+        .reader-content::-webkit-scrollbar-thumb { background: #1a4d7a; border-radius: 5px; }
+
+        .chapter-title {
+            color: #1a4d7a; font-size: 2.2em; margin-bottom: 40px; padding-bottom: 20px;
+            border-bottom: 3px solid #1a4d7a; font-weight: 600;
+        }
+        .reader-content h4 {
+            color: #1a4d7a; margin: 35px 0 20px 0; font-size: 1.4em; font-weight: 600;
+        }
+        .reader-content p {
+            margin-bottom: 20px; line-height: 1.9; text-align: justify;
+            color: #333333;
+        }
+        .reader-content strong { color: #fef9e7; background: #1a4d7a; padding: 2px 6px; font-weight: 700; border-radius: 2px; }
+        .reader-content .start-msg strong { color: #ffffff; background: #1a4d7a; padding: 2px 6px; border-radius: 2px; font-size: 1.4em; }
+        .reader-content em { color: #1a4d7a; font-style: italic; }
+
+        .chapter-verses {
+            margin-top: 40px; padding-top: 30px; border-top: 2px solid #d4e6f1;
+        }
+        .verse-block {
+            background: #e8f0f8; border-left: 4px solid #1a4d7a; padding: 20px;
+            margin: 20px 0; border-radius: 4px; font-style: italic; color: #1a4d7a;
+            line-height: 1.8; font-size: 1em;
+        }
+
+        /* CONCEPT LINK STYLING */
+        .concept-link {
+            color: #0066cc; border-bottom: 2px dotted #0066cc; cursor: pointer;
+            font-weight: 500; padding: 2px 4px; border-radius: 2px;
+            transition: all 0.2s;
+        }
+        .concept-link:hover {
+            background: rgba(26, 77, 122, 0.1);
+            border-bottom: 2px solid #0066cc;
+        }
+
+        /* RIGHT PANEL - CONCEPT EXPLORER */
+        .concept-panel {
+            width: 380px; background: #f5f5f5; display: flex; flex-direction: column;
+            overflow: hidden; padding: 20px;
+            border-left: 2px solid #d4e6f1;
+        }
+
+        .concept-panel-header {
+            font-size: 0.85em; text-transform: uppercase; color: #ffffff;
+            font-weight: 600; margin-bottom: 15px; padding-bottom: 10px;
+            border-bottom: 2px solid #1a4d7a; background: #1a4d7a; padding: 10px;
+            border-radius: 3px; margin: -20px -20px 15px -20px; padding-left: 20px; padding-right: 20px;
+        }
+
+        .concept-panel-content {
+            flex: 1; overflow-y: auto;
+        }
+        .concept-panel-content::-webkit-scrollbar { width: 6px; }
+        .concept-panel-content::-webkit-scrollbar-thumb { background: #1a4d7a; border-radius: 3px; }
+
+        .start-msg {
+            color: #333333; text-align: center; padding: 40px 20px;
+            font-size: 0.95em; line-height: 1.6;
+            background: transparent;
+        }
+        .start-msg strong { color: #000000; font-weight: 700; font-size: 1.4em; }
+
+        /* BREADCRUMB NAVIGATION */
+        .breadcrumb {
+            padding: 12px 0; border-bottom: 1px solid #d4e6f1; margin-bottom: 20px;
+            font-size: 0.85em; color: #999;
+        }
+        .breadcrumb-item {
+            display: inline-block; color: #0066cc; cursor: pointer; margin-right: 8px;
+            padding: 4px 8px; border-radius: 3px; transition: all 0.2s;
+        }
+        .breadcrumb-item:hover { background: rgba(26, 77, 122, 0.1); }
+        .breadcrumb-separator { color: #999; margin: 0 4px; }
+
+        /* CONCEPT CARD */
+        .concept-card {
+            background: #ffffff; border: 1px solid #d4e6f1; border-radius: 4px;
+            padding: 20px; margin-bottom: 20px;
+        }
+        .concept-term {
+            font-weight: 700; color: #1a4d7a; font-size: 1.3em; margin-bottom: 8px;
+        }
+        .concept-sanskrit {
+            color: #1a4d7a; font-style: italic; font-size: 0.95em; margin-bottom: 12px;
+        }
+        .concept-definition {
+            color: #333333; font-size: 0.95em; line-height: 1.6; margin-bottom: 15px;
+        }
+        .concept-chapters {
+            font-size: 0.85em; color: #777; margin-bottom: 15px;
+        }
+        .tag {
+            display: inline-block; background: #e8f0f8; color: #1a4d7a;
+            padding: 4px 8px; border-radius: 3px; margin-right: 6px; border: 1px solid #d4e6f1;
+        }
+
+        /* RELATED CONCEPTS */
+        .related-concepts { display: flex; flex-wrap: wrap; gap: 8px; }
+        .related-link {
+            background: #1a4d7a; color: white; padding: 8px 12px;
+            border-radius: 4px; cursor: pointer; font-size: 0.9em;
+            transition: all 0.2s; border: none;
+        }
+        .related-link:hover { background: #0d3b61; transform: scale(1.05); }
+
+        .placeholder { color: #999; font-size: 0.9em; padding: 20px; text-align: center; }
+
+        /* ACCORDION SECTIONS */
+        .accordion-section {
+            margin-top: 20px; border-top: 1px solid #d4e6f1; padding-top: 15px;
+        }
+        .accordion-header {
+            font-size: 0.9em; font-weight: 600; color: #1a4d7a; text-transform: uppercase;
+            cursor: pointer; padding: 10px 0; display: flex; align-items: center;
+            gap: 8px; transition: all 0.2s;
+        }
+        .accordion-header:hover { color: #0066cc; }
+        .accordion-toggle { display: inline-block; width: 16px; text-align: center; transition: transform 0.3s; }
+        .accordion-toggle.open { transform: rotate(90deg); }
+        .accordion-content { display: none; }
+        .accordion-content.open { display: block; }
+
+        /* READER ACCORDION SECTIONS */
+        .reader-accordion {
+            margin: 25px 0; border-left: 4px solid #d4e6f1; padding-left: 20px;
+            background: #e8f0f8; padding: 15px; border-radius: 3px;
+        }
+        .reader-header {
+            font-size: 1.2em; font-weight: 600; color: #1a4d7a; text-transform: none;
+            padding: 12px 0; margin-bottom: 0;
+        }
+        .reader-header:hover { color: #0066cc; }
+        .reader-accordion .accordion-content {
+            padding-left: 10px; margin-top: 10px; color: #333333;
+        }
+
+        .verse-display {
+            background: #e8f0f8; border-left: 3px solid #1a4d7a; padding: 15px;
+            margin: 10px 0; border-radius: 3px; font-size: 0.9em;
+            line-height: 1.7; color: #1a4d7a; white-space: pre-wrap; word-wrap: break-word;
+            font-style: italic;
+        }
+
+        /* FOOTNOTE REFERENCES */
+        .footnote-ref {
+            cursor: help; color: #0066cc; font-weight: 600; position: relative;
+        }
+        .footnote-ref:hover {
+            color: #1a4d7a; text-decoration: underline;
+        }
+        .footnote-ref sup { margin: 0 2px; }
+
+        .footnote-num {
+            color: #999; font-size: 0.75em; vertical-align: super;
+            margin: 0 2px;
+        }
+
+        .footnote-tooltip {
+            position: fixed; background: #fef9e7; border: 2px solid #1a4d7a;
+            border-radius: 4px; padding: 12px 15px; max-width: 300px;
+            color: #333333; font-size: 0.9em; line-height: 1.6;
+            z-index: 10000; box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            pointer-events: none;
+        }
+        .footnote-tooltip::after {
+            content: ''; position: absolute; width: 8px; height: 8px;
+            background: #16a085; top: -4px; left: 20px; transform: rotate(45deg);
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER -->
+        <div class="header">
+            <h1>🌸 Lotus Sutra - Concept Network</h1>
+            <p>Click concepts to explore connections</p>
+            <div class="chapter-selector">
+                <select class="chapter-select" id="chapter-select" onchange="loadChapter(this.value)">
+                    <option value="">📖 Select a Chapter</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- MAIN CONTENT: TWO PANELS -->
+        <div class="main">
+            <!-- LEFT PANEL: READER -->
+            <div class="reader-panel">
+                <div class="reader-content" id="reader-content">
+                    <div class="start-msg">
+                        <strong>Welcome to the Lotus Sutra</strong>
+                        <p style="margin-top: 20px;">Select a chapter from the dropdown to begin reading.</p>
+                        <p style="margin-top: 15px;">Click any highlighted concept in the text to explore its connections and related teachings.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT PANEL: CONCEPT EXPLORER -->
+            <div class="concept-panel">
+                <div class="concept-panel-header">✨ Concept Explorer</div>
+                <div class="concept-panel-content" id="concept-panel-content">
+                    <div class="start-msg">
+                        <strong>No concept selected</strong>
+                        <p style="margin-top: 15px;">Click a highlighted concept in the chapter to see its definition, Sanskrit term, and related concepts.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+// DATA LOADING
+let CHAPTERS = {};
+
+// Initialize chapters from embedded data
+function loadChaptersData() {
+    if (typeof CHAPTERS_DATA !== 'undefined') {
+        Object.keys(CHAPTERS_DATA).forEach(num => {
+            CHAPTERS[num] = {
+                title: CHAPTERS_DATA[num].title,
+                prose_html: CHAPTERS_DATA[num].prose_html,
+                full_html: CHAPTERS_DATA[num].full_html
+            };
+        });
+        populateChapterSelector();
+        console.log('✓ Loaded', Object.keys(CHAPTERS).length, 'chapters');
+    }
+}
+
+// CONCEPTS DATA (65 core concepts)
+const CONCEPTS = [
+{id:"buddha",term:"Buddha",sanskrit:"बुद्ध",definition:"The Awakened One; one who has achieved enlightenment and perfect wisdom, transcending all suffering.",chapters:[1,2,3,4,5,6,7,8,9,10],related:["enlightenment","dharma","tathagata"]},
+{id:"dharma",term:"Dharma",sanskrit:"धर्म",definition:"The Buddha's teaching; the cosmic principle underlying all phenomena; the law of nature and spiritual truth.",chapters:[1,2,3,4,5,6,7,8,9,10],related:["buddha","teaching","enlightenment"]},
+{id:"bodhisattva",term:"Bodhisattva",sanskrit:"बोधिसत्त्व",definition:"An enlightenment-being; one dedicated to achieving enlightenment for all beings through compassion and wisdom.",chapters:[2,3,4,5,6,7],related:["compassion","vow","enlightenment"]},
+{id:"enlightenment",term:"Enlightenment",sanskrit:"बोधि",definition:"Awakening to the true nature of reality; liberation from ignorance and the direct realization of Buddha-nature.",chapters:[1,2,3,4,5,6,7,8],related:["buddha","wisdom","buddha-nature"]},
+{id:"compassion",term:"Compassion",sanskrit:"करुणा",definition:"The wish for all beings to be free from suffering; the fundamental motivation of the Bodhisattva path.",chapters:[2,3,5,7,8],related:["bodhisattva","vow","dharma"]},
+{id:"wisdom",term:"Wisdom",sanskrit:"प्रज्ञा",definition:"Transcendent wisdom that perceives the true nature of reality beyond conceptual limitations.",chapters:[1,2,3,4,5,6],related:["enlightenment","emptiness","buddha-nature"]},
+{id:"emptiness",term:"Emptiness",sanskrit:"शून्यता",definition:"The absence of fixed, independent, permanent identity in all phenomena; the fundamental empty nature of existence.",chapters:[4,5,6,7,8],related:["wisdom","buddha-nature","non-self"]},
+{id:"buddha-nature",term:"Buddha-Nature",sanskrit:"बुद्धत्व",definition:"The inherent potential for Buddhahood present in all sentient beings; the capacity for enlightenment.",chapters:[3,4,5,6,7,8],related:["enlightenment","buddha","emptiness"]},
+{id:"tathagata",term:"Tathagata",sanskrit:"तथागत",definition:"The Buddha; literally 'one who has thus gone' (thus come); an epithet emphasizing the Buddha's transcendence.",chapters:[1,2,3,4,5],related:["buddha","dharma","enlightenment"]},
+{id:"vow",term:"Vow",sanskrit:"प्रणिधान",definition:"The solemn commitment to liberate all beings; the foundational aspiration of Bodhisattva practice.",chapters:[2,5,6,7],related:["bodhisattva","compassion","dharma"]},
+{id:"samsara",term:"Samsara",sanskrit:"संसार",definition:"The cycle of suffering and rebirth; the realm of conditioned existence characterized by impermanence.",chapters:[2,3,4,5],related:["suffering","dharma","nirvana"]},
+{id:"nirvana",term:"Nirvana",sanskrit:"निर्वाण",definition:"The ultimate state of liberation from suffering and the cycle of rebirth; the unconditioned state.",chapters:[1,2,3,4,5],related:["samsara","enlightenment","dharma"]},
+{id:"karma",term:"Karma",sanskrit:"कर्म",definition:"Action and its consequences; the law of cause and effect governing all phenomena and existence.",chapters:[3,4,5,6],related:["dharma","samsara","action"]},
+{id:"meditation",term:"Meditation",sanskrit:"ध्यान",definition:"Mental discipline and concentration for spiritual development; direct cultivation of calm and insight.",chapters:[1,2,3],related:["wisdom","enlightenment","dharma"]},
+{id:"teaching",term:"Teaching",sanskrit:"शासन",definition:"The Buddha's doctrine and guidance for spiritual practice; the transmission of dharma.",chapters:[1,2,3,4,5],related:["dharma","buddha","sutra"]},
+{id:"sangha",term:"Sangha",sanskrit:"संघ",definition:"The community of Buddhist practitioners; the spiritual fellowship that supports the dharma.",chapters:[4,5,6],related:["bodhisattva","dharma","teaching"]},
+{id:"suffering",term:"Suffering",sanskrit:"दुःख",definition:"Dukkha; the dissatisfaction inherent in conditioned existence; the fundamental problem Buddhism addresses.",chapters:[2,3,4,5],related:["samsara","dharma","enlightenment"]},
+{id:"non-self",term:"Non-Self",sanskrit:"अनात्मन्",definition:"Anatman; the absence of a permanent, unchanging self; the lack of independent essence.",chapters:[4,5,6],related:["emptiness","buddha-nature","dharma"]},
+{id:"merit",term:"Merit",sanskrit:"पुण्य",definition:"Punya; positive karma generated through virtuous actions; the accumulation of spiritual benefit.",chapters:[2,3,4,5],related:["karma","dharma","enlightenment"]},
+{id:"practice",term:"Practice",sanskrit:"साधना",definition:"Sadhana; spiritual discipline and methods for achieving enlightenment; the active path.",chapters:[1,2,3,4],related:["dharma","meditation","teaching"]},
+{id:"sutra",term:"Sutra",sanskrit:"सूत्र",definition:"Buddhist scriptural texts; discourses of the Buddha; the Lotus Sutra is the supreme teaching.",chapters:[1,2,3],related:["dharma","teaching","buddha"]},
+{id:"prophecy",term:"Prophecy",sanskrit:"व्याकरण",definition:"Vyakarana; the Buddha's prediction of future Buddhahood for practitioners and disciples.",chapters:[2,3,4],related:["bodhisattva","enlightenment","dharma"]},
+{id:"transformation",term:"Transformation",sanskrit:"परिवर्तन",definition:"The radical change from ignorance to enlightenment; the fundamental shift in understanding.",chapters:[2,3,4,5],related:["enlightenment","dharma","wisdom"]},
+{id:"rebirth",term:"Rebirth",sanskrit:"जन्म",definition:"The continuous cycle of birth and death in samsara driven by karma and craving.",chapters:[3,4,5],related:["samsara","karma","dharma"]},
+{id:"path",term:"Path",sanskrit:"मार्ग",definition:"Marga; the way to enlightenment taught by the Buddha; the journey of spiritual practice.",chapters:[1,2,3,4],related:["dharma","practice","teaching"]},
+{id:"mind",term:"Mind",sanskrit:"चित्त",definition:"Citta; consciousness; the fundamental awareness that experiences reality; the seat of practice.",chapters:[2,3,4,5],related:["consciousness","wisdom","enlightenment"]},
+{id:"liberation",term:"Liberation",sanskrit:"मोक्ष",definition:"Moksha; freedom from suffering and the cycle of rebirth; the ultimate goal of practice.",chapters:[1,2,3,4,5],related:["enlightenment","nirvana","dharma"]},
+{id:"awareness",term:"Awareness",sanskrit:"ज्ञान",definition:"Jnana; conscious knowledge and perception of reality; direct insight into truth.",chapters:[2,3,4],related:["wisdom","mind","consciousness"]},
+{id:"consciousness",term:"Consciousness",sanskrit:"विज्ञान",definition:"Vijnana; mental awareness and the capacity for knowing; one of the five aggregates.",chapters:[3,4,5,6],related:["mind","awareness","dharma"]},
+{id:"virtue",term:"Virtue",sanskrit:"शील",definition:"Sila; ethical conduct and moral discipline; the foundation of spiritual practice.",chapters:[1,2,3,4],related:["dharma","practice","teaching"]},
+{id:"discipline",term:"Discipline",sanskrit:"शिक्षा",definition:"Training the mind through study and practice; systematic spiritual development.",chapters:[2,3,4],related:["practice","virtue","dharma"]},
+{id:"truth",term:"Truth",sanskrit:"सत्य",definition:"Satya; the ultimate nature of reality as taught by the Buddha; what is ultimately real.",chapters:[1,2,3,4,5],related:["dharma","wisdom","enlightenment"]},
+{id:"beginning",term:"Beginning",sanskrit:"आदि",definition:"The origination of all phenomena; the initial cause in dependent origination.",chapters:[1,2,3],related:["dharma","causality","truth"]},
+{id:"end",term:"End",sanskrit:"अन्त",definition:"The cessation of suffering; the goal of Buddhist practice; ultimate liberation.",chapters:[1,2,3,4],related:["enlightenment","liberation","nirvana"]},
+{id:"middle",term:"Middle",sanskrit:"मध्य",definition:"The middle way between extremes; the balanced path of Buddhist practice.",chapters:[1,2,3],related:["path","dharma","truth"]},
+{id:"time",term:"Time",sanskrit:"काल",definition:"The dimension of temporal change and continuity; the flow of existence.",chapters:[2,3,4],related:["dharma","causality","change"]},
+{id:"space",term:"Space",sanskrit:"आकाश",definition:"Akasha; the dimension of extension and location; the field of phenomena.",chapters:[3,4,5],related:["dharma","phenomena"]},
+{id:"cause",term:"Cause",sanskrit:"कारण",definition:"The originating factor that produces effects; one side of cause-and-effect.",chapters:[3,4,5],related:["karma","dharma","causality"]},
+{id:"effect",term:"Effect",sanskrit:"फल",definition:"The result produced by causes and conditions; the outcome of action.",chapters:[3,4,5],related:["karma","dharma","cause"]},
+{id:"condition",term:"Condition",sanskrit:"प्रतिभू",definition:"Circumstances that allow causes to produce effects; supporting conditions.",chapters:[3,4,5],related:["causality","dharma"]},
+{id:"dependent-origination",term:"Dependent Origination",sanskrit:"प्रतीत्य समुत्पाद",definition:"Pratityasamutpada; all phenomena arise through interconnected causes and conditions.",chapters:[1,2,3,4,5],related:["dharma","truth","causality"]},
+{id:"causality",term:"Causality",sanskrit:"कार्य-कारण",definition:"The relationship between causes and their effects; the principle governing all change.",chapters:[2,3,4,5],related:["karma","dependent-origination","dharma"]},
+{id:"ignorance",term:"Ignorance",sanskrit:"अविद्या",definition:"Avidya; lack of understanding of the true nature of reality; the root of suffering.",chapters:[2,3,4,5],related:["samsara","suffering","dharma"]},
+{id:"knowledge",term:"Knowledge",sanskrit:"विद्या",definition:"Vidya; direct understanding of the true nature of phenomena; wisdom.",chapters:[1,2,3,4],related:["wisdom","enlightenment","dharma"]},
+{id:"perception",term:"Perception",sanskrit:"संज्ञा",definition:"Samjna; the mental process of recognizing and interpreting sensory information.",chapters:[3,4,5],related:["consciousness","mind","awareness"]},
+{id:"sensation",term:"Sensation",sanskrit:"वेदना",definition:"Vedana; physical and emotional feelings arising from sensory contact.",chapters:[3,4,5],related:["suffering","perception","consciousness"]},
+{id:"form",term:"Form",sanskrit:"रूप",definition:"Rupa; matter and physical phenomena; the material aspect of existence.",chapters:[3,4,5],related:["phenomena","dharma"]},
+{id:"aggregates",term:"Aggregates",sanskrit:"स्कन्ध",definition:"Skandha; the five categories composing sentient beings: form, sensation, perception, mental formations, consciousness.",chapters:[3,4,5],related:["non-self","dharma","consciousness"]},
+{id:"action",term:"Action",sanskrit:"कर्म",definition:"Intentional deed; the basis of karma; what shapes destiny.",chapters:[3,4,5],related:["karma","dharma","causality"]},
+{id:"intention",term:"Intention",sanskrit:"चेतना",definition:"Cetana; the will or motivation behind an action; the essence of karma.",chapters:[3,4,5],related:["karma","action","dharma"]},
+{id:"effort",term:"Effort",sanskrit:"वीर्य",definition:"Virya; energy and exertion in spiritual practice; determined perseverance.",chapters:[2,3,4],related:["practice","discipline","dharma"]},
+{id:"joy",term:"Joy",sanskrit:"आनन्द",definition:"Ananda; happiness and delight arising from understanding dharma.",chapters:[1,2,3],related:["enlightenment","bliss","dharma"]},
+{id:"bliss",term:"Bliss",sanskrit:"सुख",definition:"Sukha; deep happiness independent of external circumstances; peace.",chapters:[1,2,3,4],related:["enlightenment","liberation","nirvana"]},
+{id:"peace",term:"Peace",sanskrit:"शान्ति",definition:"Shanti; inner tranquility and freedom from disturbance.",chapters:[1,2,3],related:["enlightenment","bliss","nirvana"]},
+{id:"harmony",term:"Harmony",sanskrit:"समन्वय",definition:"The balanced integration of all aspects of being and practice.",chapters:[2,3,4],related:["dharma","peace"]},
+{id:"balance",term:"Balance",sanskrit:"समता",definition:"Samata; equanimity and the middle path between extremes.",chapters:[1,2,3,4],related:["dharma","harmony","middle"]},
+{id:"unity",term:"Unity",sanskrit:"एकता",definition:"The fundamental interconnectedness of all phenomena; non-duality.",chapters:[2,3,4,5],related:["dharma","dependent-origination","emptiness"]},
+{id:"diversity",term:"Diversity",sanskrit:"विविधता",definition:"The multiplicity of forms and manifestations in unified reality.",chapters:[3,4,5],related:["phenomena","dharma","unity"]},
+{id:"phenomena",term:"Phenomena",sanskrit:"धर्म",definition:"All things and events that arise in experience; dharmas as the building blocks of reality.",chapters:[2,3,4,5],related:["dharma","form"]},
+{id:"existence",term:"Existence",sanskrit:"सत्ता",definition:"The state of being and presence in reality; conditioned existence.",chapters:[2,3,4],related:["phenomena","being","dharma"]},
+{id:"being",term:"Being",sanskrit:"सत्व",definition:"The fundamental nature of existence and reality; sentient being.",chapters:[2,3,4],related:["existence","consciousness","dharma"]},
+{id:"becoming",term:"Becoming",sanskrit:"भवन",definition:"The process of continuous change and transformation; dynamic existence.",chapters:[3,4,5],related:["change","samsara","dharma"]},
+{id:"change",term:"Change",sanskrit:"परिणाम",definition:"Parinam; the constant transformation of all conditioned things.",chapters:[2,3,4,5],related:["becoming","impermanence","dharma"]},
+{id:"impermanence",term:"Impermanence",sanskrit:"अनित्य",definition:"Anitya; the characteristic of all phenomena to be temporary and in flux.",chapters:[2,3,4,5],related:["change","dharma","non-self"]},
+{id:"permanence",term:"Permanence",sanskrit:"निरवधि",definition:"The unchanging nature of ultimate truth beyond time.",chapters:[1,2,3],related:["truth","dharma","enlightenment"]},
+{id:"ultimate",term:"Ultimate",sanskrit:"परमार्थ",definition:"Paramartha; the highest truth and deepest reality; absolute reality.",chapters:[1,2,3,4,5],related:["truth","enlightenment","dharma"]},
+{id:"relative",term:"Relative",sanskrit:"सापेक्ष",definition:"The conventional, interdependent nature of phenomena in relation to each other.",chapters:[3,4,5],related:["phenomena","dharma","truth"]},
+{id:"absolute",term:"Absolute",sanskrit:"निरपेक्ष",definition:"The unconditioned, independent ultimate reality beyond all relations.",chapters:[1,2,3],related:["ultimate","truth","dharma"]}
+];
+
+let navigationHistory = [];
+let currentChapter = '';
+
+// Initialize
+function init() {
+    loadChaptersData();
+}
+
+function populateChapterSelector() {
+    const select = document.getElementById('chapter-select');
+    Object.keys(CHAPTERS).sort((a,b) => parseInt(a) - parseInt(b)).forEach(num => {
+        const opt = document.createElement('option');
+        opt.value = num;
+        opt.text = CHAPTERS[num].title;
+        select.appendChild(opt);
+    });
+}
+
+function loadChapter(num) {
+    if (!num || !CHAPTERS[num]) return;
+
+    currentChapter = num;
+    navigationHistory = [];
+
+    const ch = CHAPTERS[num];
+    const content = document.getElementById('reader-content');
+
+    // Convert to accordion format
+    const accordionHtml = convertToAccordion(ch.full_html);
+    content.innerHTML = accordionHtml;
+
+    // Make concepts clickable
+    addConceptLinks();
+
+    // Clear concept panel
+    clearConceptPanel();
+}
+
+function convertToAccordion(html) {
+    // Use regex to find h4 headers and split content accordingly
+    const h4Pattern = /<h4[^>]*>(.*?)<\/h4>/g;
+    const chapterTitlePattern = /<div[^>]*class="chapter-title"[^>]*>.*?<\/div>/;
+    const versesPattern = /<div[^>]*class="chapter-verses"[^>]*>[\s\S]*?<\/div>/;
+
+    // Extract chapter title
+    let accordionHtml = '';
+    const titleMatch = html.match(chapterTitlePattern);
+    if (titleMatch) {
+        accordionHtml += titleMatch[0];
+        html = html.replace(titleMatch[0], '');
+    }
+
+    // Extract verses section separately
+    let versesHtml = '';
+    const versesMatch = html.match(versesPattern);
+    if (versesMatch) {
+        versesHtml = versesMatch[0];
+        html = html.replace(versesMatch[0], '');
+    }
+
+    // Split by h4 headers
+    const sections = html.split(h4Pattern);
+
+    // Process sections (odd indices are headers, even are content)
+    for (let i = 1; i < sections.length; i += 2) {
+        const headerText = sections[i];
+        const content = sections[i + 1] || '';
+
+        // Wrap in accordion
+        accordionHtml += `
+            <div class="accordion-section reader-accordion">
+                <div class="accordion-header reader-header" onclick="toggleReaderAccordion(this)">
+                    <span class="accordion-toggle">▶</span>
+                    <span>${headerText}</span>
+                </div>
+                <div class="accordion-content">
+                    ${content}
+                </div>
+            </div>`;
+    }
+
+    // Add verses section as accordion at the end
+    if (versesHtml) {
+        accordionHtml += `
+            <div class="accordion-section reader-accordion">
+                <div class="accordion-header reader-header" onclick="toggleReaderAccordion(this)">
+                    <span class="accordion-toggle">▶</span>
+                    <span>✨ Verses</span>
+                </div>
+                <div class="accordion-content">
+                    ${versesHtml}
+                </div>
+            </div>`;
+    }
+
+    return accordionHtml;
+}
+
+function toggleReaderAccordion(headerEl) {
+    const toggle = headerEl.querySelector('.accordion-toggle');
+    const content = headerEl.nextElementSibling;
+
+    toggle.classList.toggle('open');
+    content.classList.toggle('open');
+}
+
+function showFootnoteTooltip(event) {
+    event.preventDefault();
+    event.stopPropagation();
+
+    const ref = event.currentTarget;
+    const footnoteText = ref.getAttribute('data-text');
+    const footnoteNum = ref.getAttribute('data-note');
+
+    if (!footnoteText) return; // No tooltip text available
+
+    // Remove existing tooltip
+    const existing = document.querySelector('.footnote-tooltip');
+    if (existing) existing.remove();
+
+    // Create new tooltip
+    const tooltip = document.createElement('div');
+    tooltip.className = 'footnote-tooltip';
+    tooltip.innerHTML = `<strong>Note ${footnoteNum}:</strong> ${footnoteText}`;
+
+    document.body.appendChild(tooltip);
+
+    // Position tooltip near the footnote reference
+    const rect = ref.getBoundingClientRect();
+    tooltip.style.left = Math.max(10, rect.left - 150) + 'px';
+    tooltip.style.top = (rect.bottom + 10) + 'px';
+
+    // Close tooltip when clicking elsewhere
+    const closeTooltip = () => {
+        tooltip.remove();
+        document.removeEventListener('click', closeTooltip);
+    };
+
+    setTimeout(() => {
+        document.addEventListener('click', closeTooltip);
+    }, 100);
+}
+
+function addConceptLinks() {
+    CONCEPTS.forEach(concept => {
+        // Create regex to find exact term matches
+        const regex = new RegExp(`\\b${concept.term}\\b`, 'g');
+
+        // Find all text nodes and replace with clickable links
+        const walker = document.createTreeWalker(
+            document.getElementById('reader-content'),
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const nodesToReplace = [];
+        let node;
+        while (node = walker.nextNode()) {
+            if (regex.test(node.textContent)) {
+                nodesToReplace.push(node);
+            }
+        }
+
+        nodesToReplace.forEach(textNode => {
+            const span = document.createElement('span');
+            span.innerHTML = textNode.textContent.replace(
+                regex,
+                `<span class="concept-link" onclick="selectConcept('${concept.id}'); return false;">${concept.term}</span>`
+            );
+            textNode.parentNode.replaceChild(span, textNode);
+        });
+    });
+
+    // Add hover tooltip support for footnotes
+    document.querySelectorAll('.footnote-ref').forEach(ref => {
+        ref.addEventListener('mouseenter', (e) => {
+            showFootnoteTooltipOnHover(e);
+        });
+        ref.addEventListener('mouseleave', () => {
+            // Keep tooltip visible until user clicks elsewhere
+        });
+    });
+}
+
+function showFootnoteTooltipOnHover(event) {
+    const ref = event.currentTarget;
+    const footnoteText = ref.getAttribute('data-text');
+    const footnoteNum = ref.getAttribute('data-note');
+
+    if (!footnoteText) return;
+
+    // Remove existing tooltip
+    const existing = document.querySelector('.footnote-tooltip');
+    if (existing) existing.remove();
+
+    // Create new tooltip
+    const tooltip = document.createElement('div');
+    tooltip.className = 'footnote-tooltip';
+    tooltip.innerHTML = `<strong>Note ${footnoteNum}:</strong> ${footnoteText}`;
+
+    document.body.appendChild(tooltip);
+
+    // Position tooltip near the footnote reference
+    const rect = ref.getBoundingClientRect();
+    tooltip.style.left = Math.max(10, rect.left - 150) + 'px';
+    tooltip.style.top = (rect.bottom + 10) + 'px';
+}
+
+function selectConcept(id) {
+    const concept = CONCEPTS.find(c => c.id === id);
+    if (!concept) return;
+
+    // Add to navigation history if not already there
+    if (!navigationHistory.includes(id)) {
+        navigationHistory.push(id);
+    }
+
+    // Display concept details
+    const panel = document.getElementById('concept-panel-content');
+
+    let html = '';
+
+    // Breadcrumb
+    if (navigationHistory.length > 0) {
+        html += '<div class="breadcrumb">';
+        navigationHistory.forEach((histId, idx) => {
+            const histConcept = CONCEPTS.find(c => c.id === histId);
+            if (histConcept) {
+                html += `<span class="breadcrumb-item" onclick="selectConcept('${histId}'); return false;">${histConcept.term}</span>`;
+                if (idx < navigationHistory.length - 1) {
+                    html += '<span class="breadcrumb-separator">→</span>';
+                }
+            }
+        });
+        html += '</div>';
+    }
+
+    // Concept card
+    html += '<div class="concept-card">';
+    html += `<div class="concept-term">${concept.term}</div>`;
+    html += `<div class="concept-sanskrit">${concept.sanskrit}</div>`;
+    html += `<div class="concept-definition">${concept.definition}</div>`;
+    html += `<div class="concept-chapters"><span class="tag">Chapters: ${concept.chapters.join(', ')}</span></div>`;
+
+    // Related concepts (accordion)
+    if (concept.related && concept.related.length > 0) {
+        html += '<div class="accordion-section">';
+        html += '<div class="accordion-header" onclick="toggleAccordion(this)">';
+        html += '<span class="accordion-toggle open">▶</span>';
+        html += `<span>🔗 Related Concepts (${concept.related.length})</span>`;
+        html += '</div>';
+        html += '<div class="accordion-content open">';
+        html += '<div class="related-concepts">';
+        concept.related.forEach(relId => {
+            const related = CONCEPTS.find(c => c.id === relId);
+            if (related) {
+                html += `<button class="related-link" onclick="selectConcept('${relId}'); return false;">${related.term}</button>`;
+            }
+        });
+        html += '</div>';
+        html += '</div>';
+        html += '</div>';
+    } else {
+        html += '<div class="placeholder">No related concepts</div>';
+    }
+
+    html += '</div>';
+
+    // Add verses from current chapter if available (accordion style)
+    if (currentChapter && CHAPTERS_DATA && CHAPTERS_DATA[currentChapter]) {
+        const chapterVerses = CHAPTERS_DATA[currentChapter].verses || [];
+        if (chapterVerses && chapterVerses.length > 0) {
+            const verseCount = chapterVerses.filter(v => v && v.trim()).length;
+            html += '<div class="accordion-section">';
+            html += '<div class="accordion-header" onclick="toggleAccordion(this)">';
+            html += '<span class="accordion-toggle">▶</span>';
+            html += `<span>✨ Verses from This Chapter (${verseCount})</span>`;
+            html += '</div>';
+            html += '<div class="accordion-content">';
+            // Show all verses
+            chapterVerses.forEach((verse, idx) => {
+                if (verse && verse.trim()) {
+                    html += `<div class="verse-display">${verse}</div>`;
+                }
+            });
+            html += '</div>';
+            html += '</div>';
+        }
+    }
+
+    panel.innerHTML = html;
+}
+
+function toggleAccordion(headerEl) {
+    const toggle = headerEl.querySelector('.accordion-toggle');
+    const content = headerEl.nextElementSibling;
+
+    toggle.classList.toggle('open');
+    content.classList.toggle('open');
+}
+
+function clearConceptPanel() {
+    const panel = document.getElementById('concept-panel-content');
+    panel.innerHTML = `
+        <div class="start-msg">
+            <strong>No concept selected</strong>
+            <p style="margin-top: 15px;">Click a highlighted concept in the chapter to see its definition and related concepts.</p>
+        </div>
+    `;
+}
+
+window.addEventListener('DOMContentLoaded', init);
+    </script>
+    <script src="chapters_data.js"></script>
+</body>
+</html>

@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Coworker Prototype</title>
+    <!-- Google Fonts for Headline -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            /* Palette */
+            --bg-app: #FDFBF8;
+            /* Soft warm beige */
+            --bg-sidebar: #F7F5F0;
+            --bg-card: #FFFFFF;
+            --bg-surface: #F2F0EB;
+
+            --text-primary: #2D2D2D;
+            --text-secondary: #6B6B6B;
+            --text-tertiary: #989898;
+
+            --accent-color: #E66E45;
+            /* Muted Orange */
+            --accent-hover: #D15F38;
+
+            --border-subtle: #E8E6E1;
+            --border-focus: #D4D2CD;
+
+            --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.03);
+            --shadow-medium: 0 8px 24px rgba(0, 0, 0, 0.06);
+
+            /* Typography */
+            --font-display: 'Instrument Serif', 'Georgia', serif;
+            --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        body {
+            height: 100vh;
+            width: 100vw;
+            background-color: #EFEDE8;
+            /* Outer desktop bg */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: var(--font-ui);
+            color: var(--text-primary);
+            overflow: hidden;
+        }
+
+        /* App Window */
+        .app-window {
+            width: 90vw;
+            height: 90vh;
+            max-width: 1600px;
+            max-height: 1000px;
+            background-color: var(--bg-app);
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1), 0 0 0 1px rgba(0, 0, 0, 0.05);
+            display: grid;
+            grid-template-columns: 240px 1fr 300px;
+            grid-template-rows: 52px 1fr;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Traffic Lights */
+        .traffic-lights {
+            position: absolute;
+            top: 18px;
+            left: 20px;
+            display: flex;
+            gap: 8px;
+            z-index: 100;
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .dot.red {
+            background-color: #FF5F57;
+            border: 1px solid #E0443E;
+        }
+
+        .dot.yellow {
+            background-color: #FEBC2E;
+            border: 1px solid #D89E24;
+        }
+
+        .dot.green {
+            background-color: #28C840;
+            border: 1px solid #1AAB29;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            grid-row: 1 / span 2;
+            grid-column: 1;
+            background-color: var(--bg-sidebar);
+            border-right: 1px solid var(--border-subtle);
+            padding: 80px 20px 20px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-section-title {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 12px;
+        }
+
+        .task-list {
+            list-style: none;
+            overflow-y: auto;
+            flex-grow: 1;
+        }
+
+        .task-item {
+            display: flex;
+            align-items: center;
+            padding: 8px 10px;
+            margin-bottom: 4px;
+            border-radius: 6px;
+            color: var(--text-secondary);
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .task-item:hover {
+            background-color: rgba(0, 0, 0, 0.03);
+            color: var(--text-primary);
+        }
+
+        .task-item.active {
+            background-color: #ECEAE5;
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        .task-icon {
+            width: 16px;
+            height: 16px;
+            margin-right: 10px;
+            opacity: 0.6;
+            border: 1.5px solid currentColor;
+            border-radius: 4px;
+        }
+
+        .new-task-btn {
+            margin-top: 20px;
+            border: 1px dashed var(--border-focus);
+            color: var(--text-secondary);
+            background: transparent;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 13px;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s;
+            flex-shrink: 0;
+        }
+
+        .new-task-btn:hover {
+            border-color: var(--text-tertiary);
+            color: var(--text-primary);
+        }
+
+        /* Top Bar & Segment Control */
+        .top-bar {
+            grid-row: 1;
+            grid-column: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 1px solid transparent;
+            padding-top: 10px;
+            z-index: 10;
+        }
+
+        .pill-control {
+            background-color: var(--bg-surface);
+            border-radius: 8px;
+            padding: 3px;
+            display: flex;
+            gap: 2px;
+        }
+
+        .pill {
+            padding: 4px 16px;
+            font-size: 13px;
+            font-weight: 500;
+            border-radius: 6px;
+            border: none;
+            background: transparent;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .pill:hover {
+            color: var(--text-primary);
+        }
+
+        .pill.active {
+            background-color: #fff;
+            color: var(--text-primary);
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Main Canvas */
+        .main-canvas {
+            grid-row: 2;
+            grid-column: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* Grid Pattern Background */
+            background-image:
+                linear-gradient(var(--border-subtle) 1px, transparent 1px),
+                linear-gradient(90deg, var(--border-subtle) 1px, transparent 1px);
+            background-size: 40px 40px;
+            background-position: center top;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .main-canvas::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(circle at center, transparent 30%, var(--bg-app) 100%);
+            pointer-events: none;
+        }
+
+        /* View Containers */
+        .view-content {
+            width: 100%;
+            height: 100%;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 2;
+        }
+
+        /* Dashboard Hero */
+        .hero-content {
+            z-index: 1;
+            width: 100%;
+            max-width: 680px;
+            text-align: center;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        h1 {
+            font-family: var(--font-display);
+            font-size: 42px;
+            font-weight: 400;
+            color: var(--text-primary);
+            margin-bottom: 40px;
+            letter-spacing: -0.01em;
+        }
+
+        /* Action Tiles Grid */
+        .actions-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-bottom: 40px;
+        }
+
+        .action-tile {
+            background: rgba(255, 255, 255, 0.6);
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 24px 20px;
+            text-align: left;
+            cursor: pointer;
+            transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            box-shadow: var(--shadow-soft);
+        }
+
+        .action-tile:hover {
+            transform: translateY(-2px);
+            background: white;
+            box-shadow: var(--shadow-medium);
+            border-color: var(--border-focus);
+            z-index: 10;
+        }
+
+        .tile-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            background-color: var(--bg-surface);
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+        }
+
+        .tile-label {
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+
+        /* Task Input Bar */
+        .task-composer {
+            background: white;
+            padding: 8px;
+            border-radius: 12px;
+            box-shadow: var(--shadow-medium), 0 0 0 1px rgba(0, 0, 0, 0.04);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            width: 100%;
+            transition: box-shadow 0.2s;
+        }
+
+        .task-composer:focus-within {
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08), 0 0 0 2px rgba(230, 110, 69, 0.1);
+        }
+
+        .mode-dropdown {
+            background: var(--bg-surface);
+            border: none;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-primary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .mode-dropdown::after {
+            content: "▼";
+            font-size: 8px;
+            margin-left: 4px;
+            opacity: 0.5;
+        }
+
+        .task-input {
+            flex: 1;
+            border: none;
+            outline: none;
+            font-size: 15px;
+            color: var(--text-primary);
+            font-family: var(--font-ui);
+            background: transparent;
+        }
+
+        .task-input::placeholder {
+            color: var(--text-tertiary);
+        }
+
+        .start-btn {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            padding: 10px 24px;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .start-btn:hover {
+            background-color: var(--accent-hover);
+        }
+
+        /* Right Rail */
+        .right-rail {
+            grid-row: 1 / span 2;
+            grid-column: 3;
+            border-left: 1px solid var(--border-subtle);
+            background-color: var(--bg-app);
+            padding: 60px 20px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .rail-card {
+            background: white;
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 16px;
+            box-shadow: var(--shadow-soft);
+            opacity: 0;
+            transform: translateY(10px);
+            animation: slideIn 0.6s ease-out forwards;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .card-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-tertiary);
+            font-weight: 600;
+        }
+
+        .progress-bar {
+            height: 4px;
+            background: var(--bg-surface);
+            border-radius: 2px;
+            overflow: hidden;
+            margin-top: 8px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: var(--accent-color);
+            width: 65%;
+            border-radius: 2px;
+        }
+
+        .context-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 10px;
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        .file-icon {
+            width: 24px;
+            height: 30px;
+            background: #F0F4F8;
+            border: 1px solid #DEE5EB;
+            border-radius: 4px;
+            flex-shrink: 0;
+        }
+
+        /* Interactive State Classes */
+        .hidden {
+            display: none !important;
+        }
+
+        .flex {
+            display: flex !important;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Stagger rail cards */
+        .rail-card:nth-child(1) {
+            animation-delay: 0.2s;
+        }
+
+        .rail-card:nth-child(2) {
+            animation-delay: 0.3s;
+        }
+
+        .rail-card:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .app-window {
+                grid-template-columns: 200px 1fr 240px;
+            }
+
+            .actions-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .app-window {
+                width: 100vw;
+                height: 100vh;
+                border-radius: 0;
+                grid-template-columns: 60px 1fr;
+                /* Collapsed sidebar */
+            }
+
+            .right-rail {
+                display: none;
+            }
+
+            .sidebar {
+                padding-top: 60px;
+                padding-left: 10px;
+                padding-right: 10px;
+                align-items: center;
+            }
+
+            .sidebar-section-title,
+            .task-text,
+            .new-task-btn {
+                display: none;
+            }
+
+            .task-item {
+                justify-content: center;
+                padding: 10px;
+            }
+
+            .task-icon {
+                margin-right: 0;
+            }
+
+            .traffic-lights {
+                top: 12px;
+                left: 12px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .actions-grid {
+                grid-template-columns: repeat(2, 1fr);
+                margin-bottom: 20px;
+            }
+
+            .top-bar {
+                justify-content: flex-end;
+                padding-right: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="app-window">
+        <!-- Decoration -->
+        <div class="traffic-lights">
+            <div class="dot red"></div>
+            <div class="dot yellow"></div>
+            <div class="dot green"></div>
+        </div>
+
+        <div class="top-bar">
+            <div class="pill-control">
+                <button class="pill" id="nav-chat">Chat</button>
+                <button class="pill active" id="nav-cowork">Cowork</button>
+            </div>
+        </div>
+
+        <!-- Left Sidebar -->
+        <div class="sidebar">
+            <div class="sidebar-section-title">Today</div>
+            <ul class="task-list" id="today-task-list">
+                <li class="task-item active" onclick="activateTask(this)">
+                    <div class="task-icon"></div>
+                    <span class="task-text">Project Apollo</span>
+                </li>
+                <li class="task-item" onclick="activateTask(this)">
+                    <div class="task-icon"></div>
+                    <span class="task-text">Q4 Report Analysis</span>
+                </li>
+                <li class="task-item" onclick="activateTask(this)">
+                    <div class="task-icon"></div>
+                    <span class="task-text">Design Review</span>
+                </li>
+            </ul>
+
+            <div style="margin-top: 30px;" class="sidebar-section-title">History</div>
+            <ul class="task-list">
+                <li class="task-item" onclick="activateTask(this)">
+                    <div class="task-icon"></div>
+                    <span class="task-text">Marketing Plan</span>
+                </li>
+            </ul>
+
+            <button class="new-task-btn" onclick="resetToDashboard()">+ New Context</button>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="main-canvas" id="main-canvas">
+            <!-- View: Dashboard (Default) -->
+            <div class="view-content" id="view-dashboard">
+                <div class="hero-content">
+                    <h1>Let’s knock something off your list.</h1>
+
+                    <div class="actions-grid">
+                        <div class="action-tile" onclick="switchView('editor', 'New Document')">
+                            <div class="tile-icon">📄</div>
+                            <div class="tile-label">Draft a document</div>
+                        </div>
+                        <div class="action-tile" onclick="switchView('data', 'Data Analysis')">
+                            <div class="tile-icon">📊</div>
+                            <div class="tile-label">Analyze data</div>
+                        </div>
+                        <div class="action-tile" onclick="switchView('editor', 'New Prototype')">
+                            <div class="tile-icon">🖌️</div>
+                            <div class="tile-label">Design prototype</div>
+                        </div>
+                        <div class="action-tile" onclick="switchView('chat', 'Deep Research')">
+                            <div class="tile-icon">🔍</div>
+                            <div class="tile-label">Deep Research</div>
+                        </div>
+                        <div class="action-tile" onclick="switchView('editor', 'Code Snippet')">
+                            <div class="tile-icon">💻</div>
+                            <div class="tile-label">Write code</div>
+                        </div>
+                        <div class="action-tile" onclick="switchView('chat', 'Brainstorming')">
+                            <div class="tile-icon">✨</div>
+                            <div class="tile-label">Brainstorm</div>
+                        </div>
+                    </div>
+
+                    <div class="task-composer">
+                        <button class="mode-dropdown">Planning</button>
+                        <input type="text" class="task-input" id="new-task-input" placeholder="Describe your task..."
+                            onkeypress="handleEnter(event)">
+                        <button class="start-btn" onclick="createNewTask()">Start</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View: Editor -->
+            <div class="view-content hidden" id="view-editor" style="width: 100%; max-width: 800px; height: 100%;">
+                <div
+                    style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; width: 100%;">
+                    <button class="pill" onclick="switchView('dashboard')">← Back</button>
+                    <div style="font-weight: 500; color: var(--text-secondary);" id="editor-title">Untitled Document
+                    </div>
+                    <button class="start-btn" style="padding: 6px 12px; font-size: 13px;">Save</button>
+                </div>
+                <div
+                    style="background: white; width: 100%; height: calc(100% - 60px); border-radius: 8px; box-shadow: var(--shadow-soft); padding: 40px;">
+                    <h2
+                        style="font-family: var(--font-display); font-size: 32px; margin-bottom: 20px; color: var(--text-primary);">
+                        Proposal Draft</h2>
+                    <p style="color: var(--text-secondary); line-height: 1.6;">Here is a starting point for the document
+                        you requested...</p>
+                    <br>
+                    <div
+                        style="width: 100%; height: 12px; background: #F0F0F0; border-radius: 4px; margin-bottom: 12px;">
+                    </div>
+                    <div
+                        style="width: 90%; height: 12px; background: #F0F0F0; border-radius: 4px; margin-bottom: 12px;">
+                    </div>
+                    <div
+                        style="width: 95%; height: 12px; background: #F0F0F0; border-radius: 4px; margin-bottom: 12px;">
+                    </div>
+                    <div
+                        style="width: 80%; height: 12px; background: #F0F0F0; border-radius: 4px; margin-bottom: 12px;">
+                    </div>
+                </div>
+            </div>
+
+            <!-- View: Data -->
+            <div class="view-content hidden" id="view-data" style="width: 100%; max-width: 800px; height: 100%;">
+                <div
+                    style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; width: 100%;">
+                    <button class="pill" onclick="switchView('dashboard')">← Back</button>
+                    <div style="font-weight: 500; color: var(--text-secondary);">Q3 Financials</div>
+                    <button class="start-btn" style="padding: 6px 12px; font-size: 13px;">Export</button>
+                </div>
+                <div
+                    style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; height: calc(100% - 60px); width: 100%;">
+                    <div
+                        style="background: white; border-radius: 8px; box-shadow: var(--shadow-soft); padding: 20px; display: flex; align-items: flex-end; justify-content: space-around;">
+                        <div style="width: 40px; height: 40%; background: #FFE0D6; border-radius: 4px 4px 0 0;"></div>
+                        <div style="width: 40px; height: 70%; background: #FFC0AD; border-radius: 4px 4px 0 0;"></div>
+                        <div style="width: 40px; height: 50%; background: #FF9F85; border-radius: 4px 4px 0 0;"></div>
+                        <div
+                            style="width: 40px; height: 85%; background: var(--accent-color); border-radius: 4px 4px 0 0;">
+                        </div>
+                    </div>
+                    <div style="background: white; border-radius: 8px; box-shadow: var(--shadow-soft); padding: 20px;">
+                        <div style="font-weight: 600; margin-bottom: 10px;">Key Metrics</div>
+                        <div
+                            style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 13px; border-bottom: 1px solid #eee; padding-bottom: 4px;">
+                            <span>Revenue</span><span>$1.2M</span></div>
+                        <div
+                            style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 13px; border-bottom: 1px solid #eee; padding-bottom: 4px;">
+                            <span>Growth</span><span>+12%</span></div>
+                        <div
+                            style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 13px; border-bottom: 1px solid #eee; padding-bottom: 4px;">
+                            <span>CAC</span><span>$45</span></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View: Chat -->
+            <div class="view-content hidden" id="view-chat"
+                style="width: 100%; max-width: 700px; height: 100%; flex-direction: column;">
+                <div
+                    style="flex: 1; overflow-y: auto; padding-right: 10px; width: 100%; display: flex; flex-direction: column;">
+                    <!-- AI Message -->
+                    <div style="display: flex; gap: 12px; margin-bottom: 24px;">
+                        <div
+                            style="width: 32px; height: 32px; background: var(--accent-color); border-radius: 8px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; color: white;">
+                            AI</div>
+                        <div
+                            style="background: white; padding: 16px; border-radius: 0 12px 12px 12px; box-shadow: var(--shadow-soft); font-size: 15px; line-height: 1.5; color: var(--text-primary); max-width: 80%;">
+                            Hello! I'm ready to help. What are we working on today?
+                        </div>
+                    </div>
+
+                    <!-- User Message Placeholder (Hidden initially) -->
+                    <div id="chat-user-message-mock"
+                        style="display: none; gap: 12px; margin-bottom: 24px; flex-direction: row-reverse; align-self: flex-end; width: 100%;">
+                        <div style="width: 32px; height: 32px; background: #222; border-radius: 50%; flex-shrink: 0;">
+                        </div>
+                        <div
+                            style="background: #F0F0F0; padding: 16px; border-radius: 12px 0 12px 12px; font-size: 15px; line-height: 1.5; color: var(--text-primary); max-width: 80%;">
+                            <span id="chat-user-text"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="task-composer" style="margin-top: auto;">
+                    <input type="text" class="task-input" id="chat-input" placeholder="Ask anything..."
+                        onkeypress="handleChatEnter(event)">
+                    <button class="start-btn" onclick="sendChatMessage()">Send</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Rail -->
+        <div class="right-rail" id="right-rail">
+            <div class="rail-card">
+                <div class="card-header">
+                    <div class="card-title">Token Usage</div>
+                    <span style="font-size: 12px; color: var(--text-tertiary);">Reset</span>
+                </div>
+                <div style="font-size: 24px; font-weight: 500; font-family: var(--font-display);">12.5k</div>
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                </div>
+            </div>
+
+            <div class="rail-card">
+                <div class="card-header">
+                    <div class="card-title" id="artifacts-title">Artifacts</div>
+                </div>
+                <!-- Dynamic Artifacts Container -->
+                <div id="artifacts-list">
+                    <div class="context-item">
+                        <div class="file-icon"></div>
+                        <div>
+                            <div style="color: var(--text-primary); font-weight: 500;">Q3_Report.pdf</div>
+                            <div style="font-size: 11px; color: var(--text-tertiary);">Added 2m ago</div>
+                        </div>
+                    </div>
+                    <div class="context-item">
+                        <div class="file-icon"></div>
+                        <div>
+                            <div style="color: var(--text-primary); font-weight: 500;">Data_v2.csv</div>
+                            <div style="font-size: 11px; color: var(--text-tertiary);">Added 1h ago</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rail-card">
+                <div class="card-header">
+                    <div class="card-title">Coworkers</div>
+                </div>
+                <div style="display: flex; gap: -8px;">
+                    <div
+                        style="width: 32px; height: 32px; background: #ddd; border-radius: 50%; border: 2px solid white;">
+                    </div>
+                    <div
+                        style="width: 32px; height: 32px; background: #bbb; border-radius: 50%; border: 2px solid white; margin-left: -8px;">
+                    </div>
+                    <div
+                        style="width: 32px; height: 32px; background: #2D2D2D; color: white; border-radius: 50%; border: 2px solid white; margin-left: -8px; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 600;">
+                        +2</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- State ---
+        const state = {
+            currentView: 'dashboard',
+            tasks: ['Project Apollo', 'Q4 Report Analysis', 'Design Review'],
+            artifacts: ['Q3_Report.pdf', 'Data_v2.csv']
+        };
+
+        // --- DOM Elements ---
+        const views = {
+            dashboard: document.getElementById('view-dashboard'),
+            editor: document.getElementById('view-editor'),
+            data: document.getElementById('view-data'),
+            chat: document.getElementById('view-chat')
+        };
+        const navChat = document.getElementById('nav-chat');
+        const navCowork = document.getElementById('nav-cowork');
+        const taskList = document.getElementById('today-task-list');
+        const newItemInput = document.getElementById('new-task-input');
+        const artifactsList = document.getElementById('artifacts-list');
+        const chatInput = document.getElementById('chat-input');
+        const chatUserMsg = document.getElementById('chat-user-message-mock');
+        const chatUserText = document.getElementById('chat-user-text');
+
+        // --- Navigation Logic ---
+        navChat.addEventListener('click', () => {
+            navChat.classList.add('active');
+            navCowork.classList.remove('active');
+            switchView('chat');
+        });
+
+        navCowork.addEventListener('click', () => {
+            navCowork.classList.add('active');
+            navChat.classList.remove('active');
+            switchView('dashboard');
+        });
+
+        function switchView(viewName, contextTitle = '') {
+            state.currentView = viewName;
+            
+            // Hide all views & remove animated classes to reset
+            Object.values(views).forEach(el => {
+                el.classList.add('hidden');
+            });
+            
+            // Show target view
+            const target = views[viewName];
+            if(target) {
+                target.classList.remove('hidden');
+                
+                // Entrance animation
+                target.style.opacity = '0';
+                target.style.transform = 'translateY(10px)';
+                
+                requestAnimationFrame(() => {
+                    target.style.transition = 'all 0.3s ease-out';
+                    target.style.opacity = '1';
+                    target.style.transform = 'translateY(0)';
+                });
+            }
+
+            // Update Context if needed
+            if (viewName === 'editor' && contextTitle) {
+                document.getElementById('editor-title').innerText = contextTitle;
+            }
+            
+            // Ensure nav pills match
+            if (viewName === 'chat') {
+                navChat.classList.add('active');
+                navCowork.classList.remove('active');
+            } else {
+                navCowork.classList.add('active');
+                navChat.classList.remove('active');
+            }
+        }
+
+        function resetToDashboard() {
+            switchView('dashboard');
+        }
+
+        // --- Task Logic ---
+        function activateTask(el) {
+            document.querySelectorAll('.task-item').forEach(i => i.classList.remove('active'));
+            el.classList.add('active');
+        }
+
+        function createNewTask(titleOverride = null) {
+            const title = titleOverride || newItemInput.value.trim();
+            if (!title) return;
+
+            // 1. Add to sidebar
+            const li = document.createElement('li');
+            li.className = 'task-item';
+            li.innerHTML = `
+                <div class="task-icon"></div>
+                <span class="task-text">${title}</span>
+            `;
+            li.onclick = function() { activateTask(this); };
+            
+            // Insert at top
+            taskList.insertBefore(li, taskList.firstChild);
+            
+            // Activate new task
+            activateTask(li);
+            
+            // Clear input
+            newItemInput.value = '';
+
+            // 2. Simulate "Starting" action based on keyword
+            const lowerTitle = title.toLowerCase();
+            setTimeout(() => {
+                if (lowerTitle.includes('write') || lowerTitle.includes('draft') || lowerTitle.includes('doc')) {
+                    switchView('editor', title);
+                    addArtifact('Draft: ' + title);
+                } else if (lowerTitle.includes('data') || lowerTitle.includes('analysis')) {
+                    switchView('data', title);
+                } else if (lowerTitle.includes('research') || lowerTitle.includes('ask')) {
+                    switchView('chat');
+                    // Simulate putting the prompt in chat
+                    chatUserText.innerText = title;
+                    chatUserMsg.style.display = 'flex';
+                }
+            }, 500);
+        }
+
+        function handleEnter(e) {
+            if (e.key === 'Enter') createNewTask();
+        }
+
+        // --- Chat Logic ---
+        function sendChatMessage() {
+            const text = chatInput.value.trim();
+            if (!text) return;
+            
+            chatUserText.innerText = text;
+            chatUserMsg.style.display = 'flex';
+            chatInput.value = '';
+            
+            // Simulate AI working
+            setTimeout(() => {
+                addArtifact('Chat Summary');
+            }, 1500);
+        }
+        
+        function handleChatEnter(e) {
+             if (e.key === 'Enter') sendChatMessage();
+        }
+
+        // --- Artifact Logic ---
+        function addArtifact(name) {
+            const div = document.createElement('div');
+            div.className = 'context-item';
+            div.style.animation = 'slideIn 0.4s ease-out';
+            div.innerHTML = `
+                <div class="file-icon"></div>
+                <div>
+                    <div style="color: var(--text-primary); font-weight: 500;">${name}</div>
+                    <div style="font-size: 11px; color: var(--text-tertiary);">Just now</div>
+                </div>
+            `;
+            artifactsList.insertBefore(div, artifactsList.firstChild);
+        }
+
+        // --- Initial Hover Effects (Preserved) ---
+        const tiles = document.querySelectorAll('.action-tile');
+        tiles.forEach(tile => {
+            tile.addEventListener('mouseenter', () => tile.style.zIndex = '2');
+            tile.addEventListener('mouseleave', () => setTimeout(() => tile.style.zIndex = '1', 200));
+        });
+    </script>
+</body>
+
+</html>

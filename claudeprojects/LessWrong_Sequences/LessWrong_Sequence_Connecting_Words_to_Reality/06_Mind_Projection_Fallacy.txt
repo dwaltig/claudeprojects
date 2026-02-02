@@ -1,0 +1,16 @@
+Mind Projection Fallacy
+Eliezer Yudkowsky
+
+In the dawn days of science fiction, alien invaders would occasionally kidnap a girl in a torn dress and carry her off for intended ravishing, as lovingly depicted on many ancient magazine covers. Oddly enough, the aliens never go after men in torn shirts.
+
+Would a non-humanoid alien, with a different evolutionary history and evolutionary psychology, sexually desire a human female? It seems rather unlikely. People don't make mistakes like that by deliberately reasoning. Instead, a human female in a torn dress is sexy—inherently so, as an intrinsic property.
+
+They focus on the woman's torn dress. If the dress were not torn, the woman would be less sexy; the alien monster doesn't enter into it. Apparently we instinctively represent Sexiness as a direct attribute of the Woman object, like height or weight.
+
+If your brain uses that data structure, then from the inside it feels like sexiness is an inherent property of the woman, not a property of the alien looking at the woman. Since the woman is attractive, the alien monster will be attracted to her—isn't that logical?
+
+E. T. Jaynes used the term Mind Projection Fallacy to denote the error of projecting your own mind's properties into the external world. Jaynes was most concerned with the mistreatment of probabilities as inherent properties of objects, rather than states of partial knowledge in some particular mind.
+
+But the Mind Projection Fallacy generalizes as an error. It is in the argument over the real meaning of the word sound, and in the magazine cover of the monster carrying off a woman, and Kant's declaration that space by its very nature is flat, and Hume's definition of a priori ideas as those "discoverable by the mere operation of thought, without dependence on what is anywhere existent in the universe"...
+
+(Incidentally, I once read an SF story about a human male who entered into a sexual relationship with a sentient alien plant; discovered that it was a male plant; agonized for a bit; and finally decided that it didn't really matter. And in Illegal Aliens, the humans land on a planet of sentient insects, and see a movie advertisement showing a human carrying off a bug in a delicate chiffon dress.)

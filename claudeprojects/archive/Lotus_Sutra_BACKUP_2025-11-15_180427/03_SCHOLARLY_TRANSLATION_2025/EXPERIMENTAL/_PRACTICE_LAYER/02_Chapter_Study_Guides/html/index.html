@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Lotus Sutra Study Guides - Comprehensive chapter guides for practice and learning">
+    <title>Study Guides - The Lotus Sutra</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        header {
+            background: linear-gradient(135deg, #16a085 0%, #128070 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #16a085;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        .filters {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.75rem 1.5rem;
+            border: 2px solid #16a085;
+            background: white;
+            color: #16a085;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: #16a085;
+            color: white;
+        }
+
+        .guides-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .guide-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .guide-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+        }
+
+        .guide-header {
+            padding: 1.5rem;
+            border-bottom: 3px solid #16a085;
+        }
+
+        .guide-tier {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .tier-1 {
+            background: #fff3cd;
+            color: #856404;
+        }
+
+        .tier-2 {
+            background: #d1ecf1;
+            color: #0c5460;
+        }
+
+        .tier-3 {
+            background: #e8daef;
+            color: #6c3483;
+        }
+
+        .guide-number {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+
+        .guide-title {
+            font-size: 1.4em;
+            color: #2c3e50;
+            margin-bottom: 0.3rem;
+        }
+
+        .guide-subtitle {
+            font-size: 0.9em;
+            color: #999;
+            font-style: italic;
+        }
+
+        .guide-content {
+            padding: 1.5rem;
+        }
+
+        .guide-description {
+            color: #555;
+            margin-bottom: 1rem;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+
+        .guide-features {
+            list-style: none;
+            margin-bottom: 1.5rem;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .guide-features li {
+            padding: 0.3rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        .guide-features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #16a085;
+            font-weight: bold;
+        }
+
+        .guide-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #16a085 0%, #128070 100%);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .guide-link:hover {
+            transform: translateX(2px);
+            box-shadow: 0 4px 8px rgba(22, 160, 133, 0.3);
+        }
+
+        .completion-banner {
+            background: linear-gradient(135deg, #27ae60 0%, #229954 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 1.1em;
+        }
+
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+
+        .back-button {
+            display: inline-block;
+            margin-bottom: 2rem;
+            padding: 0.75rem 1.5rem;
+            background: white;
+            color: #16a085;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .back-button:hover {
+            background: #16a085;
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .guides-grid {
+                grid-template-columns: 1fr;
+            }
+
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .container {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌸 Lotus Sutra Study Guides</h1>
+        <p>Comprehensive Chapter Guides for Deep Learning and Practice</p>
+    </header>
+
+    <div class="container">
+        <a href="../../../index.html" class="back-button">← Back to Main Site</a>
+
+        <div class="completion-banner">
+            ✨ All 28 chapters now have beautifully formatted, interactive study guides! ✨
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">28</div>
+                <div class="stat-label">Study Guides Available</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">100%</div>
+                <div class="stat-label">Project Completion</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">28</div>
+                <div class="stat-label">Total Chapters</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">~450K</div>
+                <div class="stat-label">Words Created</div>
+            </div>
+        </div>
+
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">All Chapters</button>
+            <button class="filter-btn" data-filter="tier-1">Tier 1: Critical</button>
+            <button class="filter-btn" data-filter="tier-2">Tier 2: Foundation</button>
+            <button class="filter-btn" data-filter="tier-3">Tier 3: Supporting</button>
+        </div>
+
+        <div class="guides-grid" id="guidesGrid">
+            <!-- Generated by JavaScript -->
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Lotus Sutra Scholarly Translation Project</p>
+        <p>Study guides created to deepen understanding and practice of the Lotus Sutra</p>
+    </footer>
+
+    <script>
+        const guides = [
+            // Tier 1: Critical Chapters
+            {
+                chapter: 16,
+                title: "Buddha's Eternal Lifespan",
+                subtitle: "如來壽量品第十六",
+                tier: "tier-1",
+                tierLabel: "Tier 1: Critical",
+                description: "The Buddha is eternal; all teachings about time and change are skillful means. Establishes metaphysical foundation.",
+                features: ["Physician parable", "5 key passages", "7 reflection questions", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 23,
+                title: "Medicine King's Original Practice",
+                subtitle: "藥王菩薩本事品第二十三",
+                tier: "tier-1",
+                tierLabel: "Tier 1: Critical",
+                description: "Ultimate offering through bodily self-sacrifice; enlightenment through infinite dharma commitment.",
+                features: ["Burning body teaching", "Saturation practice", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 25,
+                title: "Avalokiteśvara",
+                subtitle: "觀世音菩薩普門品第二十五",
+                tier: "tier-1",
+                tierLabel: "Tier 1: Critical",
+                description: "The Bodhisattva of Compassion manifests in infinite forms to save suffering beings.",
+                features: ["Compassion teachings", "33 forms", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+
+            // Tier 2: Foundation Chapters
+            {
+                chapter: 2,
+                title: "Skillful Means",
+                subtitle: "方便品第二",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "The Buddha teaches through skillful means; all paths lead to universal Buddhahood.",
+                features: ["Three vehicles unification", "5 key passages", "7 reflection questions", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 3,
+                title: "Parables: The Burning House",
+                subtitle: "譬喻品第三",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "The famous burning house parable: the dharma attracts all beings to enlightenment.",
+                features: ["Burning house parable", "5 key passages", "7 reflection questions", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 4,
+                title: "Faith & Understanding",
+                subtitle: "信解品第四",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "You are already the heir to Buddha's wisdom; practice is remembering, not acquiring.",
+                features: ["Prodigal son parable", "5 key passages", "7 reflection questions", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 5,
+                title: "Medicinal Herbs",
+                subtitle: "藥草喻品第五",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "One dharma manifests infinitely; different beings receive according to their nature.",
+                features: ["Medicinal herbs parable", "One-taste teaching", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 6,
+                title: "Prophecies",
+                subtitle: "授記品第六",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "Individual disciples receive prophecy of their Buddhahood, making it personal and real.",
+                features: ["Individual prophecies", "Four disciples", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 7,
+                title: "Phantom City Parable",
+                subtitle: "化城喻品第七",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "All foundational teachings are skillful means; true destination is universal Buddhahood.",
+                features: ["Phantom city parable", "Skillful means", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 8,
+                title: "Pearl in the Garment",
+                subtitle: "五百弟子受記品第八",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "Buddha-nature is inherent, not acquired. You carry enlightenment already.",
+                features: ["Pearl parable", "Hidden treasure", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 10,
+                title: "Dharma-Teacher",
+                subtitle: "法師品第十",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "Those who teach the dharma are Bodhisattva-incarnates. Universal prophecy for all.",
+                features: ["Universal prophecy", "Dharma-teacher role", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 14,
+                title: "Peaceful Practice",
+                subtitle: "安樂行品第十四",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "How to practice peacefully and safely in a degenerate age.",
+                features: ["Four peaceful practices", "5 key passages", "7 reflection questions", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 20,
+                title: "Never-Despiser Bodhisattva",
+                subtitle: "常不輕菩薩品第二十",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "Universal reverence toward all beings as future Buddhas is the ultimate practice.",
+                features: ["Never-Despiser practice", "Reverence teaching", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 21,
+                title: "Cosmic Supernatural Powers",
+                subtitle: "如來神力品第二十一",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "The entire cosmos verifies the Lotus Sutra. Buddhas from all directions gather.",
+                features: ["Cosmic verification", "Buddha-fields unify", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 22,
+                title: "Entrustment",
+                subtitle: "囑累品第二十二",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "The Buddha formally entrusts the dharma to all beings, creating sacred responsibility.",
+                features: ["Formal entrustment", "Three vows", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 28,
+                title: "Samantabhadra's Vows",
+                subtitle: "普賢菩薩勸發品第二十八",
+                tier: "tier-2",
+                tierLabel: "Tier 2: Foundation",
+                description: "Samantabhadra Bodhisattva protects those who maintain the Lotus Sutra eternally.",
+                features: ["Eternal protection", "Samantabhadra vows", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+
+            // Tier 3: Supporting Chapters
+            {
+                chapter: 9,
+                title: "Learning & Unlearning Disciples",
+                subtitle: "授學無學人記品第九",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Original vows determine destiny. Your present role expresses eternal aspiration.",
+                features: ["Original vow teaching", "Ānanda's recognition", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 11,
+                title: "Emergence of Prabhūtaratna's Stupa",
+                subtitle: "見寶塔品第十一",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Past Buddhas manifest eternally to verify the sutra. The cosmos becomes pure.",
+                features: ["Stupa emergence", "Cosmic gathering", "5 key passages", "5 practices", "40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 12,
+                title: "Devadatta & Naga Princess",
+                subtitle: "提婆達多品第十二",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Even enemies and non-humans can attain Buddhahood through the Lotus Sutra.",
+                features: ["Devadatta prophecy", "Naga princess transformation", "6 key passages", "30-40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 13,
+                title: "Exhortation to Uphold",
+                subtitle: "勸持品第十三",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Bodhisattvas formally vow to protect and uphold the sutra after Buddha's extinction.",
+                features: ["Bodhisattva vows", "Transmission commitment", "6 key passages", "30-40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 15,
+                title: "Emerging Bodhisattvas",
+                subtitle: "從地湧出品第十五",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Infinite Bodhisattvas emerge from the earth to receive the dharma-transmission.",
+                features: ["Earth emergence", "Infinite assembly", "6 key passages", "30-40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 17,
+                title: "Merit Discrimination",
+                subtitle: "分別功德品第十七",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "The merits of various forms of engagement with the sutra are enumerated.",
+                features: ["Merit multiplication", "Transmission amplification", "6 key passages", "30-40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 18,
+                title: "Merit & Rejoicing",
+                subtitle: "隨喜功德品第十八",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "The merit of rejoicing in another's practice is incalculably vast.",
+                features: ["Rejoicing practice", "Encouragement as service", "5 key passages", "30-40 min meditation"],
+                available: true
+            },
+            {
+                chapter: 19,
+                title: "Dharma-Teacher's Merits",
+                subtitle: "法師功德品第十九",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Those who teach the dharma develop six perfected senses and infinite capacity.",
+                features: ["Six sense-perfections", "Cosmic consciousness", "6 key passages", "35-45 min meditation"],
+                available: true
+            },
+            {
+                chapter: 24,
+                title: "Wonderful-Sound Bodhisattva",
+                subtitle: "妙音菩薩品第二十四",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "The Bodhisattva manifesting infinite forms across all worlds to teach dharma.",
+                features: ["Infinite manifestation", "Form-transcendence", "4 key passages", "20 min meditation"],
+                available: true
+            },
+            {
+                chapter: 26,
+                title: "Dharani Formulas",
+                subtitle: "陀羅尼品第二十六",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "Sacred formulas that protect and empower dharma-keepers across all worlds.",
+                features: ["Protective formulas", "Cosmic protection", "5 key passages", "20 min meditation"],
+                available: true
+            },
+            {
+                chapter: 27,
+                title: "Wonderful-Adornment King",
+                subtitle: "妙莊嚴王本事品第二十七",
+                tier: "tier-3",
+                tierLabel: "Tier 3: Supporting",
+                description: "A king attains enlightenment through his sons' skillful miracles and the Sutra.",
+                features: ["Skillful adaptation", "Virtuous teachers", "6 key passages", "20 min meditation"],
+                available: true
+            }
+        ];
+
+        let currentFilter = 'all';
+
+        function renderGuides() {
+            const grid = document.getElementById('guidesGrid');
+            grid.innerHTML = '';
+
+            guides.forEach(guide => {
+                if (currentFilter === 'all' || guide.tier === currentFilter) {
+                    const card = document.createElement('div');
+                    card.className = 'guide-card';
+
+                    const tierClass = guide.tier;
+                    const link = guide.available ? `<a href="chapter_${guide.chapter.toString().padStart(2, '0')}.html" class="guide-link">📖 Open Study Guide</a>` : '<span style="color: #999;">Coming Soon</span>';
+
+                    card.innerHTML = `
+                        <div class="guide-header">
+                            <div class="guide-tier ${tierClass}">${guide.tierLabel}</div>
+                            <div class="guide-number">Chapter ${guide.chapter}</div>
+                            <h3 class="guide-title">${guide.title}</h3>
+                            <p class="guide-subtitle">${guide.subtitle}</p>
+                        </div>
+                        <div class="guide-content">
+                            <p class="guide-description">${guide.description}</p>
+                            <ul class="guide-features">
+                                ${guide.features.map(feature => `<li>${feature}</li>`).join('')}
+                            </ul>
+                            ${link}
+                        </div>
+                    `;
+
+                    grid.appendChild(card);
+                }
+            });
+        }
+
+        // Setup filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentFilter = btn.getAttribute('data-filter');
+                renderGuides();
+            });
+        });
+
+        // Initial render
+        renderGuides();
+    </script>
+</body>
+</html>

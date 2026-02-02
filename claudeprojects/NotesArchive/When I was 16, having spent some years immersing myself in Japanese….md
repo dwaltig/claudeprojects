@@ -1,0 +1,7 @@
+When I was 16, having spent some years immersing myself in Japanese culture, my grandmother took me on a grand tour of Europe. As I had been wanting to visit Japan to understand my childhood visions and learn more about who I was, I convinced her to make a stop in Kyoto, Japan, considered to be the spiritual capital of the world.  
+   
+ It was during our second day, as we walked by the Imperial Palace, that I began to experience a moment of clairvoyance. As I passed a tan stucco wall, I could see that there would be a plum and a cherry tree to my left and right, respectively. As I came to the end of the wall, I saw the two trees like I had seen in my vision and stopped dead in my tracks. As I stood there, I heard the faint echoes of voices in revelry, and I realized that I had been here before underneath these trees.  
+   
+ This moment was an incredible relief, confirming that not only were my life-long imaginings real and that I wasn’t crazy, but that I had lived before and made the first step in discovering who I had been. Next, I just had to figure out how to get back here to stay.  
+   
+ In my forthcoming book LIVE, DIE, REPEAT: ONE WOMAN’S WILD RIDE ON THE CYCLE OF LIFE AND DEATH, I recount my trip around Europe, my experiences in Kyoto, my encounter with Dr. Motoyama and studying his teachings, and the seemingly unplanned move from Kyoto to Kathmandu to learn Tibetan Buddhism that helped reunite me with my past lives.  

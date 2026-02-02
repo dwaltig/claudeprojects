@@ -1,0 +1,43 @@
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.vscode/
+
+# Large media files (keep source texts, exclude large videos/images)
+*.mp4
+*.mov
+*.m4v
+*.mp3
+*.wav
+*.flac
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Node modules (if used)
+node_modules/
+.npm
+
+# IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+.env.local

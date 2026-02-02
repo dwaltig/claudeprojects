@@ -1,0 +1,426 @@
+================================================================================
+          SANSKRIT TRANSLITERATION RULES - CORRECTED VERSION
+        For Lotus Sutra Narrated Manuscript Production v1
+================================================================================
+
+DOCUMENT PURPOSE: This document provides the CORRECTED transliteration rules
+for converting Sanskrit diacritical marks to English pronunciation-based
+spelling for voice actors and general readers.
+
+VERSION: 2.0 - CORRECTED
+DATE: November 7, 2025
+STATUS: PRODUCTION STANDARD
+
+================================================================================
+CRITICAL CORRECTION MADE
+================================================================================
+
+ERROR IDENTIFIED IN PREVIOUS VERSION:
+The palatal sibilant ś was incorrectly converted to "s" instead of "sh"
+
+CORRECTED CONVERSION:
+ś → sh (NOT s)
+
+IMPACT:
+This affects major character names and technical terms throughout the
+manuscript. The correction ensures proper pronunciation for voice actors
+and matches standard English transliteration conventions.
+
+================================================================================
+COMPLETE CHARACTER CONVERSION TABLE - VERIFIED
+================================================================================
+
+VOWELS (Long vowels simplified to regular vowels):
+────────────────────────────────────────────────────────────────────────
+Original | Converted | Sound Description              | Examples
+─────────|───────────|────────────────────────────────|──────────────────
+ā        | a         | Long 'a' as in "father"        | Śāriputra → Shariputra
+ī        | i         | Long 'i' as in "machine"       | Manjuśrī → Manjushri
+ū        | u         | Long 'u' as in "rude"          | Subhūti → Subhuti
+ē        | e         | Long 'e' as in "they"          | (rare in manuscript)
+ō        | o         | Long 'o' as in "go"            | (rare in manuscript)
+
+RATIONALE: English does not distinguish vowel length in spelling. The long
+vowels are pronounced naturally in English rendering (e.g., "father" has
+a long 'a' sound without needing a macron).
+
+CONSONANTS (Specialized Sanskrit sounds → English equivalents):
+────────────────────────────────────────────────────────────────────────
+Original | Converted | Sound Description              | Pronunciation
+─────────|───────────|────────────────────────────────|──────────────────
+ś        | sh        | Palatal sibilant (like 'sh')   | SHAH-ree-poo-truh
+ṇ        | n         | Retroflex 'n'                  | Standard 'n' sound
+ṃ        | m         | Anusvara (nasal 'm')           | Standard 'm' sound
+ñ        | n         | Palatal 'n' (like Spanish ñ)   | Standard 'n' sound
+ṭ        | t         | Retroflex 't'                  | Standard 't' sound
+ḍ        | d         | Retroflex 'd'                  | Standard 'd' sound
+ḷ        | l         | Retroflex 'l'                  | Standard 'l' sound
+ḥ        | h         | Visarga (aspirated 'h')        | Standard 'h' sound
+
+DETAILED EXPLANATIONS:
+────────────────────────────────────────────────────────────────────────
+
+1. ś → sh (CORRECTED - This was the error)
+   ─────────────────────────────────────
+   PHONETIC DESCRIPTION: The palatal sibilant ś is pronounced exactly like
+   English "sh" in "ship" or "shine". This is NOT the same as regular 's'.
+
+   WHY "sh" NOT "s":
+   - The ś sound is produced with the tongue against the palate (roof of mouth)
+   - This creates a "sh" sound, not an "s" sound
+   - Standard English transliteration uses "sh" for ś
+   - Academic convention (IAST, Harvard-Kyoto) represents ś as "sh" when
+     converting to ASCII-only text
+
+   EXAMPLES OF CORRECTION:
+   - Śāriputra → Shariputra (NOT Sariputra)
+   - Śākyamuni → Shakyamuni (already correct in previous version)
+   - śrāvaka → shravaka (NOT sravaka)
+   - Mañjuśrī → Manjushri (the final ś was correct)
+   - Mahākāśyapa → Mahakashyapa (NOT Mahakasyapa)
+   - Avalokiteśvara → Avalokiteshvara (already correct)
+
+   PRONUNCIATION VERIFICATION:
+   - Shariputra: SHAH-ree-poo-truh ✓ (correct)
+   - Sariputra: SAR-ee-poo-truh ✗ (wrong - would be सरिपुत्र not शारिपुत्र)
+
+2. ṇ → n (Retroflex n)
+   ──────────────────────
+   PHONETIC DESCRIPTION: The retroflex ṇ is pronounced with the tongue
+   curled back, touching the roof of the mouth behind the teeth.
+
+   WHY "n" NOT "ny" OR OTHER:
+   - English has no distinction between dental n and retroflex ṇ
+   - Both are rendered as "n" in English transliteration
+   - The difference is negligible to English speakers
+   - Standard convention is simple "n"
+
+   EXAMPLES:
+   - Pūrṇa → Purna
+   - Kauṇḍinya → Kaundinya
+
+   VERDICT: ✓ CORRECT (no change needed)
+
+3. ṃ → m (Anusvara)
+   ──────────────────
+   PHONETIC DESCRIPTION: The anusvara ṃ is a nasal sound that can be
+   pronounced as "m", "n", or "ng" depending on what follows it.
+
+   WHY "m" (or sometimes left silent):
+   - In English, it's typically rendered as "m"
+   - Sometimes it represents nasalization of the preceding vowel
+   - Standard transliteration uses "m"
+
+   EXAMPLES:
+   - saṃsāra → samsara
+   - saṃgha → sangha (sometimes "samgha")
+
+   VERDICT: ✓ CORRECT (standard convention)
+
+4. ñ → n (Palatal n)
+   ────────────────────
+   PHONETIC DESCRIPTION: The palatal ñ is pronounced like Spanish "ñ"
+   (as in "señor") or like "ny" in "canyon".
+
+   WHY "n" NOT "ny":
+   - Standard English transliteration uses simple "n"
+   - While "ny" would be more phonetically accurate, it's not conventional
+   - Academic systems (IAST) use "ñ" in Unicode, but "n" in ASCII
+   - Consistency with established transliterations
+
+   EXAMPLES:
+   - Mañjuśrī → Manjushri (NOT Manyushri)
+   - Ājñāta → Ajnata (NOT Ajnyata)
+
+   NOTE: Some systems do use "ny" (e.g., some Japanese romanizations), but
+   for Sanskrit-to-English, "n" is standard.
+
+   VERDICT: ✓ CORRECT (standard convention)
+
+5. ṭ, ḍ, ḷ → t, d, l (Retroflex consonants)
+   ─────────────────────────────────────────
+   PHONETIC DESCRIPTION: These are pronounced with tongue curled back,
+   touching the roof of the mouth.
+
+   WHY SIMPLE LETTERS:
+   - English doesn't distinguish dental vs. retroflex consonants
+   - Standard transliteration simplifies to regular letters
+   - The difference is negligible to English speakers
+
+   VERDICT: ✓ CORRECT (standard convention)
+
+6. ḥ → h (Visarga)
+   ─────────────────
+   PHONETIC DESCRIPTION: A voiceless aspiration sound after a vowel.
+
+   WHY "h":
+   - Approximates the sound in English
+   - Standard transliteration
+
+   VERDICT: ✓ CORRECT (standard convention)
+
+================================================================================
+MAJOR CHARACTER NAMES - CORRECTED CONVERSIONS
+================================================================================
+
+PRINCIPAL DISCIPLES:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Pronunciation Guide
+─────────────────|───────────────────|─────────────────────────────────
+Śāriputra        | Shariputra        | SHAH-ree-POO-truh
+Mahākāśyapa      | Mahakashyapa      | muh-HAH-kah-SHAH-puh
+Ānanda           | Ananda            | ah-NUN-duh
+Subhūti          | Subhuti           | soo-BOO-tee
+Rāhula           | Rahula            | RAH-hoo-luh
+Pūrṇa            | Purna             | POOR-nuh
+Ājñāta-Kauṇḍinya | Ajnata-Kaundinya  | ahj-NYAH-tuh KOWN-din-yuh
+
+BODHISATTVAS:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Pronunciation Guide
+─────────────────|───────────────────|─────────────────────────────────
+Mañjuśrī         | Manjushri         | mun-JOO-shree
+Avalokiteśvara   | Avalokiteshvara   | uh-vuh-loh-kee-TESH-vuh-ruh
+Mahāsthāmaprāpta | Mahasthamaprapta  | muh-hah-STAH-muh-PRAHP-tuh
+
+OTHER IMPORTANT FIGURES:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Pronunciation Guide
+─────────────────|───────────────────|─────────────────────────────────
+Mahāprajāpatī    | Mahaprajapati     | muh-hah-pruh-JAH-puh-tee
+Yaśodharā        | Yashodhara        | yah-SHOH-dhar-uh
+
+BUDDHA EPITHETS:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Pronunciation Guide
+─────────────────|───────────────────|─────────────────────────────────
+Śākyamuni        | Shakyamuni        | SHAH-kyuh-moo-nee
+
+================================================================================
+TECHNICAL BUDDHIST TERMS - CORRECTED CONVERSIONS
+================================================================================
+
+PRACTITIONER TYPES:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Meaning
+─────────────────|───────────────────|─────────────────────────────────
+śrāvaka          | shravaka          | Voice-hearer, disciple
+pratyekabuddha   | pratyekabuddha    | Solitary realizer (no ś)
+
+STATES & PRACTICES:
+────────────────────────────────────────────────────────────────────────
+Original         | CORRECTED         | Meaning
+─────────────────|───────────────────|─────────────────────────────────
+nirvāṇa          | nirvana           | Liberation, extinction
+samādhi          | samadhi           | Meditative absorption
+dhāraṇī          | dharani           | Magical formula, spell
+
+UNCHANGED TERMS (No diacritics in original):
+────────────────────────────────────────────────────────────────────────
+Dharma, Bodhisattva, Tathagata, Arhat, Buddha, Maitreya
+
+================================================================================
+CORRECTION SUMMARY - WHAT CHANGED FROM VERSION 1.0
+================================================================================
+
+ERRORS FIXED:
+1. ś → sh (was incorrectly ś → s)
+
+TERMS REQUIRING CORRECTION:
+────────────────────────────────────────────────────────────────────────
+Incorrect (v1.0)    | CORRECTED (v2.0)   | Instances
+────────────────────|────────────────────|──────────
+Sariputra           | Shariputra         | ~109
+Mahakasyapa         | Mahakashyapa       | ~9
+sravaka             | shravaka           | ~18
+Yasodhari           | Yashodhara         | ~4
+
+TERMS THAT WERE ALREADY CORRECT:
+────────────────────────────────────────────────────────────────────────
+Shakyamuni (already had "sh") - ~87 instances ✓
+Manjushri (already had "sh" at end) - ~60 instances ✓
+Avalokiteshvara (already had "sh") - ~39 instances ✓
+
+================================================================================
+PRONUNCIATION GUIDE FOR VOICE ACTORS
+================================================================================
+
+CRITICAL: The corrected transliteration now properly represents pronunciation.
+
+VOWEL SOUNDS:
+─────────────
+a = "ah" as in "father" (NOT "ay" as in "day")
+i = "ee" as in "machine"
+u = "oo" as in "rude"
+e = "ay" as in "they"
+o = "oh" as in "go"
+
+CONSONANT COMBINATIONS:
+────────────────────────
+sh = "sh" as in "ship" (this is the critical correction)
+kh = "k" + breath (aspirated k)
+gh = "g" + breath (aspirated g)
+ch = "ch" as in "church"
+jh = "j" + breath (aspirated j)
+th = "t" + breath (NOT "th" as in "the")
+dh = "d" + breath (aspirated d)
+ph = "p" + breath (NOT "f")
+bh = "b" + breath (aspirated b)
+
+STRESS PATTERNS:
+────────────────
+Most Sanskrit names: stress on SECOND syllable
+- sha-REE-pu-tra
+- mun-JOO-shree
+- uh-vuh-loh-kee-TESH-vuh-ruh
+
+Final "a": Usually pronounced as unstressed "uh"
+- Shariputra = Shah-ree-POO-truh (not Shah-ree-POO-trah)
+
+================================================================================
+EXAMPLES - BEFORE & AFTER CORRECTION
+================================================================================
+
+EXAMPLE 1: Shariputra
+─────────────────────
+Incorrect (v1.0): "Sariputra, you ought to know this"
+CORRECTED (v2.0):  "Shariputra, you ought to know this"
+
+Pronunciation: SHAH-ree-POO-truh
+Meaning: "Sharp-Eyes" - the Buddha's chief disciple
+
+EXAMPLE 2: Mahakashyapa
+──────────────────────
+Incorrect (v1.0): "Mahakasyapa stepped forward"
+CORRECTED (v2.0):  "Mahakashyapa stepped forward"
+
+Pronunciation: muh-HAH-kah-SHAH-puh
+Meaning: "Great Kashyapa" - a principal elder disciple
+
+EXAMPLE 3: shravaka
+───────────────────
+Incorrect (v1.0): "the sravaka assembly"
+CORRECTED (v2.0):  "the shravaka assembly"
+
+Pronunciation: SHAH-ruh-vuh-kuh
+Meaning: "Voice-hearers" - disciples who heard the Buddha's voice
+
+EXAMPLE 4: Yashodhara
+─────────────────────
+Incorrect (v1.0): "Yasodhari, the Buddha's former wife"
+CORRECTED (v2.0):  "Yashodhara, the Buddha's former wife"
+
+Pronunciation: yah-SHOH-dhar-uh
+Meaning: "Bearer of Glory"
+
+================================================================================
+VERIFICATION & QUALITY ASSURANCE
+================================================================================
+
+CONVERSION ACCURACY CHECKLIST:
+✓ All ś converted to sh (NOT s)
+✓ All ā, ī, ū converted to a, i, u
+✓ All ṇ, ṃ, ñ converted to n, m, n
+✓ All retroflex consonants simplified
+✓ Consistent application across all instances
+✓ Pronunciation-accurate for English speakers
+✓ Matches academic transliteration standards
+
+PRONUNCIATION ACCURACY CHECKLIST:
+✓ Voice actors can pronounce correctly from spelling
+✓ "sh" sound clearly indicated for ś
+✓ Stress patterns documented
+✓ Vowel sounds clarified (especially 'a' = "ah")
+✓ Aspirated consonants explained
+✓ Final vowel reduction noted
+
+CONSISTENCY CHECKLIST:
+✓ Same term always spelled the same way
+✓ No mixing of old/new spellings
+✓ All proper names updated
+✓ All technical terms updated
+✓ Glossary entries match manuscript usage
+
+================================================================================
+TRANSLITERATION SYSTEMS REFERENCE
+================================================================================
+
+This corrected transliteration follows these standards:
+
+PRIMARY STANDARD:
+IAST (International Alphabet of Sanskrit Transliteration) - converted to
+ASCII-compatible English spelling with pronunciation priority.
+
+COMPARISON WITH OTHER SYSTEMS:
+────────────────────────────────────────────────────────────────────────
+Devanagari | IAST    | Harvard-Kyoto | Our ASCII  | Pronunciation
+───────────|─────────|───────────────|────────────|──────────────
+श          | śa      | za            | sha        | "sha"
+शारिपुत्र  | śāriputra| zAriputra    | Shariputra | SHAH-ree-poo-truh
+
+Our system prioritizes:
+1. Pronunciation accuracy for English speakers
+2. Voice actor accessibility
+3. Standard academic conventions (when compatible with #1-2)
+4. Consistency with established Buddhist terminology
+
+================================================================================
+USAGE NOTES
+================================================================================
+
+FOR VOICE ACTORS:
+- Use this guide for correct pronunciation
+- The spelling now matches the sound
+- "sh" is pronounced as in "ship"
+- Practice names before recording
+- Refer to pronunciation guides for each name
+
+FOR EDITORS:
+- All instances of each term must match exactly
+- Use search/replace to verify consistency
+- Check that no old spellings remain
+- Cross-reference with this guide
+
+FOR SCHOLARS:
+- Original diacritical forms available in source manuscript
+- This is a pronunciation-based transliteration
+- Follows standard IAST → ASCII conventions
+- Can be reverse-mapped to Sanskrit/Devanagari
+
+FOR PUBLISHERS:
+- This version is accessible to all readers
+- No special fonts or Unicode support needed
+- Pronunciations are self-evident from spelling
+- Compatible with all distribution platforms
+
+================================================================================
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+CHARACTER SET: ASCII (A-Z, a-z, 0-9, basic punctuation)
+ENCODING: UTF-8 (backward compatible with ASCII)
+COMPATIBILITY: Universal - all systems, all platforms
+REVERSIBILITY: Can be mapped back to IAST/Devanagari with conversion table
+
+FILES USING THESE RULES:
+- narrated_manuscript_production_v1_english_transliteration_CORRECTED.txt
+- All future production manuscripts
+
+AUTHORITATIVE VERSION: This document (v2.0)
+SUPERSEDES: SANSKRIT_TRANSLITERATION_GUIDE.txt (v1.0)
+
+================================================================================
+DOCUMENT METADATA
+================================================================================
+
+Title: Sanskrit Transliteration Rules - Corrected Version
+Version: 2.0
+Date: November 7, 2025
+Purpose: Production-ready transliteration standards
+Correction: ś → sh (was incorrectly ś → s in v1.0)
+Status: AUTHORITATIVE - Use for all future production
+Prepared by: Editorial review based on IAST and pronunciation standards
+
+================================================================================
+END OF CORRECTED TRANSLITERATION RULES
+================================================================================

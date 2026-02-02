@@ -1,0 +1,20 @@
+How An Algorithm Feels From Inside
+Eliezer Yudkowsky
+
+"If a tree falls in the forest, and no one hears it, does it make a sound?" I remember seeing an actual argument get started on this subject. The standard rationalist view would be that the first person means acoustic vibrations; the second means an auditory experience. The argument is really about the definition.
+
+I think the standard analysis is correct. But why do people get into such an argument? What's the underlying psychology?
+
+In Disguised Queries, I introduced the blegg/rube classification. Bleggs are blue eggs (usually contain vanadium); rubes are red cubes (usually contain palladium). Suppose you have an object that is blue and egg-shaped but contains palladium. If you ask "Is it a blegg?", the answer depends on what you do with it. If you ask "Which bin?", it's a rube. If you ask "Will it glow?", it's a blegg.
+
+Now suppose you have already observed everything about the object. There's nothing left for a disguised query to stand for. So why feel an impulse to argue whether it's "really" a blegg?
+
+Network 1 has every unit corresponding to a testable query. Network 2 has an extra dangling unit in the center. Network 2 is a better candidate for the human brain. Even after you've observed everything, it feels like there's a leftover, unanswered question: But is it really a blegg?
+
+When you look at Network 2 from the outside, you see the algorithm. But from the inside, if you are a brain running that algorithm, it feels like you're still wondering about the "real" status.
+
+We don't instinctively see our intuitions as "intuitions", we just see them as the world. When you look at a green cup, you don't think of yourself as seeing a picture in your visual cortex; you just see a green cup.
+
+Similarly, when people argue over the tree or Pluto, they don't see themselves as arguing over whether a categorization should be active in their neural networks. It seems like the tree makes a sound, or not. Even saying "it depends on the definition" is a Network 2 perspective. A Network 1 mind would just say "Given that we know all the properties, there is no question left to ask."
+
+Before you can question your intuitions, you have to realize that what your mind's eye is looking at is an intuition—a cognitive algorithm seen from the inside—rather than a direct perception of the Way Things Really Are.

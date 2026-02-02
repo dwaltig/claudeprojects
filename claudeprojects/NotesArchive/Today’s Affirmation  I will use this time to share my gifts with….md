@@ -1,0 +1,1 @@
+**Today’s Affirmation:***  "I will use this time to share my gifts with the world, shining my light as a source of illumination and inspiration to others. I trust that my path is unfolding with ease and grace."*  

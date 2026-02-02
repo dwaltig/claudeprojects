@@ -1,0 +1,111 @@
+Formatting Structure
+1. Headings and Sections
+
+Main Chapter Title:
+
+Formatted as a bold, uppercase heading:
+## **CHAPTER 1: THE OPENING** [Chapter_01...ening.docx]
+
+
+Subsections:
+
+Each major part of the narrative is introduced with a bold heading, often in uppercase or title case, e.g.
+### **THE GATHERING**
+### **THE TEACHING BEFORE THE SILENCE**
+### **THE LIGHT FROM BETWEEN THE EYEBROWS**
+### **MAITREYA ASKS, MAÑJUŚRĪ REMEMBERS**
+### **MAÑJUŚRĪ REMEMBERS THE ANCIENT PATTERN**
+### **INTERPRETATION NOTES**
+### **What I kept**
+### **What I changed** [Chapter_01...ening.docx]
+
+
+
+2. Line Numbering and Paragraphs
+
+Each line or paragraph is labeled with an “L” and a number (e.g., L1, L2, L3), which helps organize the text and makes referencing specific passages easier.
+Paragraphs are separated by double spaces or line breaks for clarity.
+
+3. Text Styles
+
+Bold: Used for headings and section titles.
+Italics: Used for subtitles and some interpretive notes, e.g.,
+_Blues Interpretation from Classical Chinese by Kumārajīva_ [Chapter_01...ening.docx]
+Plain Text: The main narrative and verses are in regular font.
+
+4. Lists
+
+Bulleted Lists:
+
+Used in the “What I kept” and “What I changed” sections to highlight key points.
+Bullets are represented with a dash (-) for each item. [Chapter_01...ening.docx]
+
+
+
+5. Verses and Rhythm
+
+Verse Sections:
+
+Verses are presented in short, rhythmic lines, often grouped together and separated from prose sections.
+These lines mimic blues lyrics, with repetition and call-and-response elements.
+Example:
+Mañjuśrī, tell me why—
+Why the Teacher's shining bright
+From that white hair between his eyes,
+Pouring out that great big light?
+
+(Each line is a separate paragraph for clarity.) [Chapter_01...ening.docx]
+
+
+
+6. Interpretation Notes
+
+At the end, there’s a dedicated section for interpretation notes, explaining the stylistic choices and translation approach.
+This section uses headings, italics, and bulleted lists for clarity. [Chapter_01...ening.docx]
+
+
+Summary Table of Formatting Elements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ElementExample/UsageMain Heading## **CHAPTER 1: THE OPENING**Subheading### **THE GATHERING**Italics_Blues Interpretation from Classical Chinese..._Bulleted List- The famous names like Mañjuśrī...Numbered LinesL1: ..., L2: ...Verse FormattingShort, rhythmic lines, separated by line breaksInterpretation NotesDedicated section at the end
+
+Layout and Flow
+
+The document flows from prose narrative to verse, with clear section breaks and headings.
+Lists and notes at the end provide context and explanation for the stylistic choices.
+

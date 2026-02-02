@@ -1,0 +1,1 @@
+Friend, May we be mindful of our body, speech, and mind. May we transform poison into medicine through our god-given insight. May we make this the day we plant good seeds. What we sow today, we reap tomorrow, next month, next year, etc.   

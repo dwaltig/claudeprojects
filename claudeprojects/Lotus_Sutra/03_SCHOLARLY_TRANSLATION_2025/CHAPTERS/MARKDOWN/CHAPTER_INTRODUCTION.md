@@ -1,0 +1,591 @@
+# Chapter 1: Introduction
+
+*序品第一*
+
+Thus have I heard. At one time, the Buddha was dwelling at Mount Gṛdhrakūṭa near the city of Rājagṛha, together with a great assembly of twelve thousand bhikṣus. All were Arhats whose outflows had been exhausted, who had no further afflictions, who had attained their own benefit, who had severed all bonds of existence, and whose minds had attained freedom. Their names were: Ājñātakauṇḍinya, Mahākāśyapa, Uruvilvākāśyapa, Gayākāśyapa, Nadīkāśyapa, Śāriputra, Mahāmaudgalyāyana, Mahākātyāyana, Aniruddha, Kapphiṇa, Gavāṃpati, Revata, Pilindavatsa, Bakkula, Mahākauṣṭhila, Nanda, Sundarananda, Pūrṇamaitrāyaṇīputra, Subhūti, Ānanda, and Rāhula—great Arhats such as these, well known to all.
+
+Furthermore, there were two thousand persons of learning and those beyond learning. The bhikṣuṇī Mahāprajāpatī was present with her retinue of six thousand. The bhikṣuṇī Yaśodharā, mother of Rāhula, was also present with her retinue. There were eighty thousand Bodhisattva-Mahāsattvas, all of whom were irreversible from anuttarā-samyak-saṃbodhi. All had attained dhāraṇī, eloquence in joyful exposition, and had turned the irreversible Dharma wheel. They had made offerings to innumerable hundreds of thousands of Buddhas, and in the presence of all Buddhas had planted roots of virtue. They were constantly praised by all Buddhas. They cultivated themselves with compassion, skillfully entered into Buddha-wisdom, thoroughly penetrated the great wisdom, and reached the farther shore. Their fame was universally heard throughout immeasurable worlds, and they were able to liberate innumerable hundreds of thousands of living beings. Their names were: the Bodhisattva Mañjuśrī, the Bodhisattva Avalokiteśvara, the Bodhisattva Mahāsthāmaprāpta, the Bodhisattva Nityodyukta, the Bodhisattva Aniksiptadhura, the Bodhisattva Ratnapāṇi, the Bodhisattva Medicine King, the Bodhisattva Pradānaśūra, the Bodhisattva Ratnacandra, the Bodhisattva Candraprabha, the Bodhisattva Pūrṇacandra, the Bodhisattva Mahāvikramin, the Bodhisattva Anantavikramin, the Bodhisattva Trailokyavikrama, the Bodhisattva Bhadrapāla, the Bodhisattva Maitreya, the Bodhisattva Ratnākara, and the Bodhisattva Susārthavāha—eighty thousand Bodhisattva-Mahāsattvas such as these were all present.
+
+At that time Śakra Devānām Indra was present with his retinue of twenty thousand celestial sons. Also present were the celestial sons Candravimala, Manojñasvara, Ratnacchattra, and the Four Great Heavenly Kings, with their retinue of ten thousand celestial sons. The celestial sons Īśvara and Maheśvara were present with their retinue of thirty thousand celestial sons. The Brahmā Heavenly King, lord of the Sahā world, together with Śikhin Mahābrahman, Jyotiṣprabha Mahābrahman and others, were present with their retinue of twelve thousand celestial sons. There were eight Dragon Kings: the Dragon King Nanda, the Dragon King Upananda, the Dragon King Sāgara, the Dragon King Vāsukin, the Dragon King Takṣaka, the Dragon King Anavatapta, the Dragon King Manasvin, and the Dragon King Utpalaka—each with several hundreds of thousands of retinue members. There were four Kiṃnara Kings: the Kiṃnara King Dharma, the Kiṃnara King Sudharma, the Kiṃnara King Mahādharma, and the Kiṃnara King Dharmadhara—each with several hundreds of thousands of retinue members. There were four Gandharva Kings: the Gandharva King Manojña, the Gandharva King Manojñasvara, the Gandharva King Madhura, and the Gandharva King Madhurasvara—each with several hundreds of thousands of retinue members. There were four Asura Kings: the Asura King Balin, the Asura King Kharaskandha, the Asura King Vemacitra, and the Asura King Rāhu—each with several hundreds of thousands of retinue members. There were four Garuḍa Kings: the Garuḍa King Mahātejas, the Garuḍa King Mahākāya, the Garuḍa King Mahāpūrṇa, and the Garuḍa King Manojña—each with several hundreds of thousands of retinue members. King Ajātaśatru, son of Vaidehī, was present with several hundreds of thousands of retinue members. Each bowed at the Buddha's feet and withdrew to sit to one side.
+
+At that time the World-Honored One, surrounded by the fourfold assembly, having received offerings with reverence, honor, and praise, expounded for the Bodhisattvas a Mahāyāna sutra entitled the Sutra of Immeasurable Meanings, a teaching for Bodhisattvas, treasured by the Buddhas. Having concluded the exposition of this sutra, the Buddha sat in full lotus posture and entered the samādhi of the abode of immeasurable meanings, his body and mind unmoving. Thereupon heavenly mandārava flowers, great mandārava flowers, mañjūṣaka flowers, and great mañjūṣaka flowers rained down, scattering upon the Buddha and the great assembly. The entire Buddha-world quaked and trembled in six ways.
+
+At that time, all in the assembly—bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, lesser kings, and wheel-turning sage kings—the entire great assembly experienced what they had never experienced before. They rejoiced, placed their palms together, and single-mindedly gazed upon the Buddha.
+
+At that time the Buddha emitted a ray of light from the tuft of white hair between his eyebrows, illuminating eighteen thousand worlds to the east, omitting none, extending downward to the Avīci hells and upward to the Akaniṣṭha Heaven. From this world, the beings of the six destinies in all those lands were completely visible. Moreover, the Buddhas presently dwelling in those lands were seen, and the sutras and Dharma that those Buddhas expounded were heard. Also visible were the bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās who had cultivated practice and attained the Way. Furthermore, the Bodhisattva-Mahāsattvas were seen practicing the Bodhisattva path through various causes and conditions, various faiths and understandings, and various appearances and forms. Also seen were Buddhas entering parinirvāṇa. Also seen, after those Buddhas' parinirvāṇa, were stūpas of the seven precious materials being erected for their śarīra.
+
+At that time the Bodhisattva Maitreya had this thought: "Now the World-Honored One has manifested this spiritual transformation. For what cause and condition has this auspicious sign appeared? Now the Buddha, the World-Honored One, has entered samādhi—this inconceivable manifestation of rare phenomena—whom should I ask? Who can answer?" Then he had this further thought: "This Mañjuśrī, prince of the Dharma King, has previously drawn near and made offerings to immeasurable Buddhas of the past. Surely he must have witnessed this rare sign. I shall now inquire of him."
+
+At that time the bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, and all the devas, nāgas, and spirits all had this thought: "This Buddha-light and spiritual power—of whom should we now inquire?"
+
+At that time the Bodhisattva Maitreya, wishing to resolve his own doubt and observing the minds of the fourfold assembly—bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, and all the devas, nāgas, and spirits of the assembly—addressed Mañjuśrī, saying: "For what cause and condition has this auspicious spiritual sign appeared—this emission of great light illuminating the eighteen thousand lands to the east, whereby all the adornments of those Buddha-lands are completely visible?"
+
+Thereupon the Bodhisattva Maitreya, wishing to restate this meaning, spoke in verse, inquiring:
+
+"Mañjuśrī!
+Why does the Guide,
+From the white hair between his brows,
+Universally illuminate with great light?
+
+"Raining mandārava
+And mañjūṣaka flowers,
+While sandalwood-scented breezes
+Delight the hearts of all—
+
+"By this cause and condition,
+The earth is perfectly adorned,
+And this world
+Quakes in six ways.
+
+"At this time the fourfold assembly
+All rejoice,
+Their bodies and minds delighted,
+Experiencing what they have never experienced.
+
+"The light between the brows
+Illuminates the east—
+Eighteen thousand lands
+All become golden in hue.
+
+"From Avīci hell
+Up to the Summit of Existence,
+In all those worlds,
+The beings of the six paths—
+
+"Where birth and death lead,
+The karmic connections of good and evil,
+The beautiful and ugly results they receive—
+All these are seen here.
+
+"Also visible are the Buddhas,
+Those sage lords and lions,
+Expounding sutras and teachings,
+Most subtle and supreme.
+
+"Their voices pure,
+Emitting gentle tones,
+Teaching Bodhisattvas
+Numbering countless myriads—
+
+"Brahman voices profound and wondrous,
+Causing people to delight in hearing.
+In each world,
+They expound the correct Dharma—
+
+"Through various causes and conditions,
+With immeasurable parables,
+Illuminating the Buddha-Dharma,
+Awakening living beings.
+
+"If people encounter suffering,
+Weary of old age, sickness, and death,
+For them they expound nirvāṇa,
+The ending of all suffering's limits.
+
+"If people possess merit,
+Having made offerings to Buddhas,
+And aspire to the supreme Dharma,
+For them they expound pratyekabuddhas.
+
+"If there are sons of Buddha
+Cultivating various practices
+And seeking supreme wisdom,
+For them they expound the pure path.
+
+"Mañjuśrī!
+Dwelling here,
+I see and hear such things,
+And thousands of billions more—
+
+"So numerous,
+I shall now briefly speak.
+I see in those lands
+Bodhisattvas numerous as Ganges' sands,
+
+"Through various causes and conditions
+Seeking the Buddha-Way.
+Some practice giving—
+Gold, silver, coral,
+
+"Pearls, māṇi jewels,
+Giant clam shells, agate,
+Diamonds and precious things,
+Servants, carriages,
+
+"Jeweled palanquins and sedan chairs—
+Joyfully giving these as gifts,
+Dedicating toward the Buddha-Way,
+Wishing to attain this vehicle,
+
+"First in the three realms,
+Praised by all Buddhas.
+Or there are Bodhisattvas
+Giving teams of jeweled carriages,
+
+"With railings and canopies
+Exquisitely adorned, as gifts.
+I also see Bodhisattvas
+Giving their body's flesh, hands, and feet,
+
+"Even wives and children,
+Seeking the supreme Way.
+I also see Bodhisattvas
+Joyfully giving their heads, eyes, and bodies,
+
+"Seeking Buddha-wisdom.
+Mañjuśrī!
+I see various kings
+Going to where the Buddhas are,
+
+"Inquiring about the supreme Way,
+Then abandoning their delightful lands,
+Palaces and consorts,
+Shaving hair and beards,
+
+"Donning the Dharma robes.
+Or I see Bodhisattvas
+Becoming bhikṣus,
+Dwelling alone in quietude,
+
+"Delighting in reciting sutras.
+I also see Bodhisattvas
+Vigorously and energetically advancing,
+Entering deep into mountains,
+
+"Contemplating the Buddha-Way.
+I also see those renouncing desire,
+Always dwelling in empty places,
+Deeply cultivating dhyāna concentration,
+
+"Attaining the five spiritual powers.
+I also see Bodhisattvas
+Peacefully meditating with palms joined,
+With thousands upon myriads of verses
+
+"Praising the Dharma Kings.
+I again see Bodhisattvas
+Whose wisdom is profound and resolve firm,
+Able to question the Buddhas,
+
+"Hearing and completely upholding all.
+I also see sons of Buddha
+Perfected in concentration and wisdom,
+Who, through immeasurable parables,
+
+"Expound Dharma for the multitudes,
+Joyfully teaching the Dharma,
+Transforming all Bodhisattvas,
+
+"Defeating the hosts of Māra,
+Beating the Dharma drum.
+I also see Bodhisattvas
+Serene in silent tranquility,
+
+"Though devas and nāgas revere them,
+They take no joy in this.
+I also see Bodhisattvas
+Dwelling in forests, emitting light,
+
+"Relieving the suffering of hells,
+Causing entry to the Buddha-Way.
+I also see sons of Buddha
+Who have never slept,
+
+"Walking through forests,
+Diligently seeking the Buddha-Way.
+I also see those perfected in precepts,
+Whose deportment is flawless,
+
+"Pure as precious gems,
+Thus seeking the Buddha-Way.
+I also see sons of Buddha
+Dwelling in the power of patience—
+
+"When arrogant people
+Revile and beat them,
+They are able to endure all,
+Thus seeking the Buddha-Way.
+
+"I also see Bodhisattvas
+Who have left frivolous laughter
+And foolish companions,
+Drawing near to the wise,
+
+"Single-mindedly eliminating confusion,
+Gathering their thoughts in mountain forests
+For myriads of thousands of years,
+Thus seeking the Buddha-Way.
+
+"Or I see Bodhisattvas
+Offering choice foods and beverages
+And hundreds of medicinal remedies
+To the Buddha and the Saṃgha.
+
+"Fine robes and superior garments
+Worth thousands of myriads,
+Or priceless robes,
+Offered to Buddha and Saṃgha.
+
+"Thousands of myriads of billions of kinds
+Of sandalwood treasure houses,
+Marvelous beds and bedding,
+Offered to Buddha and Saṃgha.
+
+"Pure gardens and forests
+Where flowers and fruits flourish,
+With flowing springs and bathing pools,
+Offered to Buddha and Saṃgha.
+
+"Such giving as this,
+Of various wondrous things,
+With joy and without weariness,
+Seeking the supreme Way.
+
+"Or there are Bodhisattvas
+Expounding the Dharma of tranquil extinction,
+Teaching and instructing in various ways
+Countless multitudes of beings.
+
+"Or I see Bodhisattvas
+Contemplating the nature of dharmas—
+That there is no duality,
+Like empty space.
+
+"I also see sons of Buddha
+Whose minds cling to nothing,
+Who, through this wondrous wisdom,
+Seek the supreme Way.
+
+"Mañjuśrī!
+I also see Bodhisattvas
+Who, after the Buddha's final nirvāṇa,
+Make offerings to his śarīra.
+
+"I also see sons of Buddha
+Constructing stūpas and shrines
+Numerous as Ganges' sands,
+Adorning the lands,
+
+"Jeweled stūpas lofty and wondrous,
+Five thousand yojanas high,
+Their length and breadth equal,
+Two thousand yojanas each.
+
+"Each stūpa and shrine
+Has a thousand banners and pennants,
+With pearl-woven canopies and curtains,
+And precious bells harmoniously chiming.
+
+"Devas, nāgas, spirits,
+Humans and non-humans,
+With incense, flowers, and music
+Constantly make offerings.
+
+"Mañjuśrī!
+These sons of Buddha,
+To make offerings to śarīra,
+Adorn stūpas and shrines—
+
+"Causing those lands naturally
+To become extraordinarily wondrous and beautiful,
+Like heavenly jeweled trees
+Whose flowers have opened.
+
+"The Buddha emitted one light,
+And I and this assembly
+See these lands'
+Various wondrous things.
+
+"The Buddhas' spiritual powers
+And wisdom are rare—
+Emitting one pure light,
+Illuminating immeasurable lands.
+
+"We, seeing this,
+Attain what we have never attained.
+Son of Buddha, Mañjuśrī,
+We pray you resolve the assembly's doubts.
+
+"The fourfold assembly looks with longing,
+Gazing at you and me—
+Why has the World-Honored One
+Emitted this light?
+
+"Son of Buddha, answer now,
+Resolve our doubts and bring us joy.
+What benefit is to be gained?
+For what purpose is this light manifested?
+
+"The Dharma attained by the Buddha
+As he sat at the place of enlightenment—
+Does he wish to expound this?
+Or is he about to bestow predictions?
+
+"The manifestation of those Buddha-lands,
+Adorned with all precious things,
+And the sight of those Buddhas—
+This is no small matter.
+
+"Mañjuśrī, you should know—
+The fourfold assembly, nāgas, and spirits
+Gaze upon you, worthy one,
+Awaiting your explanation."
+
+At that time Mañjuśrī addressed the Bodhisattva-Mahāsattva Maitreya and all the great beings, good men and others: "According to my consideration, the Buddha, the World-Honored One, now wishes to expound the great Dharma, to rain down the great Dharma rain, to blow the great Dharma conch, to beat the great Dharma drum, to elucidate the meaning of the great Dharma. Good men! In the presence of past Buddhas, I have witnessed this auspicious sign. After emitting this light, they immediately expounded the great Dharma. Therefore you should know that now, when the Buddha manifests this light, it is likewise thus—he wishes to cause all living beings to hear and know the Dharma that is difficult for all the world to believe, and therefore he manifests this auspicious sign.
+
+"Good men! In the past, immeasurable, limitless, inconceivable, asaṃkhya kalpas ago, there was a Buddha named Candrasūryapradīpa Tathāgata, Arhat, Samyak-saṃbuddha, Vidyācaraṇa-saṃpanna, Sugata, Lokavid, Anuttara, Puruṣa-damya-sārathi, Śāstā-deva-manuṣyānām, Buddha, Bhagavat. He expounded the correct Dharma, good in the beginning, good in the middle, and good in the end, profound in meaning and skillful in wording, pure and unmixed, complete, and perfecting the characteristics of the pure holy life. For those seeking to be śrāvakas, he expounded the Dharma appropriate to the Four Noble Truths, ferrying them across birth, old age, sickness, and death, and ultimately to nirvāṇa. For those seeking to be pratyekabuddhas, he expounded the Dharma appropriate to the twelve links of dependent origination. For the Bodhisattvas, he expounded the Dharma appropriate to the six pāramitās, causing them to attain anuttarā-samyak-saṃbodhi and perfect the wisdom of all modes.
+
+"Next there was another Buddha, also named Candrasūryapradīpa. Next there was another Buddha, also named Candrasūryapradīpa. In this way there were twenty thousand Buddhas, all sharing the same single name, Candrasūryapradīpa, and all sharing the same surname, the surname Bharadvāja. Maitreya, you should know that from the first Buddha to the last Buddha, all shared the same name, Candrasūryapradīpa, and were perfected in the ten epithets. The Dharma they expounded was good in the beginning, middle, and end. The very last Buddha, before leaving the household life, had eight royal sons: the first named Sumati, the second named Sudhārmati, the third named Amitamati, the fourth named Ratnāmati, the fifth named Viśeṣamati, the sixth named Vimatipranaśana, the seventh named Abhimati, and the eighth named Dharmāmati. These eight princes were majestic and self-possessed, each ruling over four continents. When these princes heard that their father had left home and attained anuttarā-samyak-saṃbodhi, they all renounced their royal positions and likewise left home, generated the intention for the Great Vehicle, constantly cultivated the pure holy life, and all became Dharma teachers, having planted roots of goodness in the presence of thousands of myriads of Buddhas.
+
+"At that time, the Buddha Candrasūryapradīpa expounded the Mahāyāna sutra entitled the Sutra of Immeasurable Meanings, a teaching for Bodhisattvas, treasured by the Buddhas. Having concluded the exposition of this sutra, immediately before the great assembly he sat in full lotus posture and entered the samādhi of the abode of immeasurable meanings, his body and mind unmoving. At that time, heavenly mandārava flowers, great mandārava flowers, mañjūṣaka flowers, and great mañjūṣaka flowers rained down, scattering upon the Buddha and the great assembly. The entire Buddha-world quaked and trembled in six ways. At that time, all in the assembly—bhikṣus, bhikṣuṇīs, upāsakas, upāsikās, devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, lesser kings, wheel-turning sage kings, and others—the entire great assembly experienced what they had never experienced before. They rejoiced, placed their palms together, and single-mindedly gazed upon the Buddha.
+
+"At that time the Tathāgata emitted a ray of light from the tuft of white hair between his eyebrows, illuminating eighteen thousand Buddha-lands to the east, omitting none, just as those Buddha-lands are now seen. Maitreya, you should know that at that time there were two billion Bodhisattvas in the assembly who delighted in hearing the Dharma. These Bodhisattvas, seeing this light universally illuminating the Buddha-lands, experienced what they had never experienced before and wished to know the cause and condition of this light. At that time there was a Bodhisattva named Varaprabha who had eight hundred disciples. Then the Buddha Candrasūryapradīpa arose from samādhi, and because of the Bodhisattva Varaprabha, he expounded the Mahāyāna sutra entitled the Lotus Sutra of the Wonderful Dharma, a teaching for Bodhisattvas, treasured by the Buddhas. For sixty lesser kalpas he did not rise from his seat. Those listening in the assembly also sat in one place for sixty lesser kalpas, their bodies and minds unmoving, listening to what the Buddha expounded, each regarding it as if only a mealtime had passed. At that time, among the multitude, not a single person, whether in body or mind, experienced weariness or exhaustion.
+
+"After the Buddha Candrasūryapradīpa had expounded this sutra for sixty lesser kalpas, he then made this proclamation before the assembly of Brahmas, Māras, śramaṇas, brāhmaṇas, devas, humans, and asuras: 'The Tathāgata shall enter parinirvāṇa without residue at midnight this very day.' At that time there was a Bodhisattva named Yaśaskāma. The Buddha Candrasūryapradīpa then conferred upon him a prediction, telling the bhikṣus: 'This Bodhisattva Yaśaskāma shall next become a Buddha named Vimalakāya, Tathāgata Arhat Samyak-saṃbuddha.' After the Buddha bestowed this prediction, at midnight he entered parinirvāṇa without residue. After the Buddha's final nirvāṇa, the Bodhisattva Varaprabha upheld the Lotus Sutra of the Wonderful Dharma and for a full eighty lesser kalpas expounded it for people. The eight sons of the Buddha Candrasūryapradīpa all took Varaprabha as their teacher. Varaprabha taught and transformed them, causing them to become firmly established in anuttarā-samyak-saṃbodhi. These princes, having made offerings to immeasurable hundreds of thousands of myriads of billions of Buddhas, all accomplished the Buddha-Way. The last to become Buddha was named Dīpaṃkara. Among the eight hundred disciples, there was one person named Yaśaskāma who was greedy for gain and offerings. Though he repeatedly recited numerous sutras, he did not penetrate them and forgot much, hence his name Yaśaskāma—Fame-Seeker. Yet this person also, through having planted various roots of goodness, encountered immeasurable hundreds of thousands of myriads of billions of Buddhas, making offerings with reverence, honor, and praise.
+
+"Maitreya, you should know that the Bodhisattva Varaprabha at that time—could he have been anyone else? He was none other than myself. The Bodhisattva Yaśaskāma was none other than you. Now, witnessing this auspicious sign is no different from before. Therefore I consider that today the Tathāgata shall expound the Mahāyāna sutra entitled the Lotus Sutra of the Wonderful Dharma, a teaching for Bodhisattvas, treasured by the Buddhas."
+
+At that time Mañjuśrī, wishing to restate this meaning before the great assembly, spoke in verse, saying:
+
+"I recall ages past,
+Immeasurable countless kalpas—
+There was a Buddha, honored among people,
+Named Candrasūryapradīpa.
+
+"The World-Honored One expounded Dharma,
+Ferrying across immeasurable beings,
+Countless billions of Bodhisattvas,
+Causing them to enter Buddha-wisdom.
+
+"Before the Buddha left the household,
+The eight princes born to him—
+Seeing the Great Sage leave home,
+Also followed in cultivating the pure life.
+
+"At that time the Buddha expounded the Great Vehicle,
+A sutra named Immeasurable Meanings,
+Before the great assembly
+He extensively explained and clarified it.
+
+"After the Buddha expounded this sutra,
+Immediately upon the Dharma seat,
+He sat in lotus samādhi
+Named the Abode of Immeasurable Meanings.
+
+"Heaven rained mandārava flowers,
+Heavenly drums spontaneously sounded,
+Devas, nāgas, ghosts, and spirits
+Made offerings to the Honored One among humans.
+
+"All those Buddha-lands
+At once greatly quaked and trembled.
+The Buddha emitted light from between his brows,
+Manifesting various rare phenomena.
+
+"This light illuminated to the east
+Eighteen thousand Buddha-lands,
+Revealing all living beings'
+Places of birth-death karmic retribution.
+
+"I saw those Buddha-lands,
+Adorned with various precious things,
+The color of lapis lazuli and crystal—
+This was due to the Buddha's illuminating light.
+
+"And I saw devas and humans,
+Nāgas, spirits, yakṣas,
+Gandharvas and kiṃnaras,
+Each making offerings to their Buddha.
+
+"I also saw those Tathāgatas
+Naturally accomplishing the Buddha-Way,
+Their body color like golden mountains,
+Supremely dignified and most wondrous—
+
+"Like pure lapis lazuli
+Containing a true golden image within.
+The World-Honored Ones, in great assemblies,
+Expounded the profound Dharma's meaning.
+
+"In each of those Buddha-lands,
+Śrāvakas beyond counting—
+Due to the Buddha's illuminating light—
+That entire great assembly was visible.
+
+"Or there were bhikṣus
+In mountain forests,
+Energetically upholding pure precepts,
+Guarding them like bright pearls.
+
+"I also saw Bodhisattvas
+Practicing giving, patience, and the like,
+Their number like Ganges' sands—
+This was due to the Buddha's illuminating light.
+
+"I also saw Bodhisattvas
+Deeply entering various dhyāna concentrations,
+Bodies and minds serene and unmoving,
+Thus seeking the supreme Way.
+
+"I also saw Bodhisattvas
+Who knew the Dharma's mark of tranquil extinction,
+Each in their own lands
+Expounding Dharma, seeking the Buddha-Way.
+
+"At that time the fourfold assembly,
+Seeing the Buddha Candrasūryapradīpa
+Manifest great spiritual powers,
+All rejoiced in their hearts,
+
+"Each asking one another,
+'What is the cause of this?'
+The Honored One revered by devas and humans
+Had just arisen from samādhi,
+
+"And praised the Bodhisattva Varaprabha:
+'You are the eye of the world,
+Trusted and taken refuge in by all,
+Able to uphold the Dharma treasury.
+
+"'The Dharma I have expounded—
+Only you can bear true witness to it.'
+The World-Honored One, having offered this praise,
+Causing Varaprabha to rejoice,
+
+"Expounded this Lotus Sutra
+For a full sixty lesser kalpas
+Without rising from his seat.
+The supreme wondrous Dharma he expounded
+
+"Was completely upheld and received
+By that Dharma Teacher Varaprabha.
+After the Buddha expounded the Lotus,
+Causing the assembly to rejoice,
+
+"On that very day
+He proclaimed to the assembly of devas and humans:
+'The true characteristics of all dharmas' meaning
+Has already been expounded for you.
+
+"'I now at midnight
+Shall enter into nirvāṇa.
+You must single-mindedly advance with vigor,
+Separating from indolence.
+
+"'Buddhas are extremely difficult to encounter—
+Once in billions of kalpas.'
+The World-Honored One's disciples,
+Hearing the Buddha would enter nirvāṇa,
+
+"Each harbored grief and distress:
+'How quickly the Buddha is extinguished!'
+The Sage Lord, King of Dharma,
+Comforted the immeasurable multitudes:
+
+"'When the time of my final nirvāṇa comes,
+You should not worry or fear.
+This Bodhisattva Yaśaskāma
+Has penetrated in mind the true mark without outflows.
+
+"'He shall next become Buddha,
+Named Vimalakāya,
+Also ferrying across immeasurable multitudes.'
+That night the Buddha was extinguished,
+
+"Like firewood exhausted and fire extinguished.
+Śarīra were distributed
+And immeasurable stūpas erected.
+
+"Bhikṣus and bhikṣuṇīs,
+Their number like Ganges' sands,
+Redoubled their energetic vigor,
+Seeking the supreme Way.
+
+"That Dharma Teacher Varaprabha
+Upheld the Buddha's Dharma treasury—
+For eighty lesser kalpas
+He extensively proclaimed the Lotus Sutra.
+
+"Those eight princes
+Were taught and transformed by Varaprabha,
+Firm in the supreme Way—
+They would see innumerable Buddhas.
+
+"Having made offerings to all Buddhas,
+Following and practicing the great Way,
+They successively accomplished Buddhahood,
+Conferring predictions in turn.
+
+"The last among heavenly honored ones
+Was named the Buddha Dīpaṃkara,
+Guide of all seers,
+Who liberated immeasurable multitudes.
+
+"That Dharma Teacher Varaprabha
+At that time had one disciple
+Whose mind constantly harbored indolence,
+Greedily attached to fame and gain.
+
+"Seeking fame and gain without satiation,
+Frequently visiting noble households,
+He abandoned what he had memorized,
+Forgot it and could not penetrate it.
+
+"Because of this cause and condition,
+He was called Yaśaskāma.
+Yet he also practiced various good deeds,
+And was able to see innumerable Buddhas.
+
+"Making offerings to all Buddhas,
+Following and practicing the great Way,
+Perfecting the six pāramitās,
+He now sees the Lion of the Śākyas.
+
+"Afterward he shall become a Buddha
+Whose name shall be Maitreya,
+Widely ferrying across living beings,
+Their number beyond measure.
+
+"After that Buddha's final nirvāṇa,
+The indolent one—that is you.
+That Dharma Teacher Varaprabha
+Is now my very self.
+
+"I witnessed the Buddha Dīpaṃkara—
+The original light-sign was like this.
+From this I know the present Buddha
+Wishes to expound the Lotus Sutra.
+
+"The present sign is like the original auspice—
+This is the skillful means of all Buddhas.
+Now the Buddha emits this light
+To help reveal the meaning of true characteristics.
+
+"All people should now know:
+Join your palms single-mindedly and wait—
+The Buddha shall rain down the Dharma rain,
+Satisfying all who seek the Way.
+
+"Those seeking the Three Vehicles—
+If they harbor doubts or regrets—
+The Buddha shall dispel and sever them,
+Causing them to be exhausted without remainder."
+
+### Philosophical Implications
+
+The Introduction (Prologue) establishes the foundational scene and reveals the Buddha's intention to teach. The manifestation of supernatural signs—the light from the Buddha's brow, the raining of flowers, the earth trembling—indicates the advent of extraordinary teaching. This chapter introduces the theme of *upāya* (skillful means), the fundamental insight that the Buddha's teaching employs diverse methods suited to beings of different capacities.
+
+The revelation through Mañjuśrī and the recollection of the Buddha Candrasūryapradīpa suggests that profound teachings transcend temporal boundaries, appearing again and again through the "bell-strike" of enlightened consciousness. The identity between Mañjuśrī and the Bodhisattva Varaprabha, and between Maitreya and the disciple Yaśaskāma, points to the non-duality of roles in the unfolding of dharma.
+
+### Apparatus Summary
+
+- **Primary Theme**: The Buddha's intention to expound the Lotus Sutra and the assembly's recognition of this through supernatural signs
+- **Key Figures**: Buddha Śākyamuni, Mañjuśrī, Maitreya, the Buddha Candrasūryapradīpa
+- **Central Teaching**: Skillful means (*upāya*) as the method by which the Buddha guides beings toward enlightenment
+- **Structural Function**: Establishes the setting, assembles the listeners, and presages the ultimate revelation of the One Vehicle
+
+### Footnotes
+
+[Scholarly apparatus notes and cross-references would be placed here in a complete scholarly edition]
+
+═══════════════════════════════════════════════════════════════════════

@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lotus Sutra Practice Layer - Complete Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        header {
+            background: linear-gradient(135deg, #16a085 0%, #128070 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1em;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .intro-banner {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-left: 4px solid #16a085;
+        }
+
+        .intro-banner h2 {
+            color: #16a085;
+            margin-bottom: 1rem;
+        }
+
+        .quick-start {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .quick-start-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: all 0.3s ease;
+            border-top: 3px solid #16a085;
+        }
+
+        .quick-start-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(22, 160, 133, 0.2);
+        }
+
+        .quick-start-card .emoji {
+            font-size: 3em;
+            margin-bottom: 1rem;
+        }
+
+        .quick-start-card h3 {
+            color: #16a085;
+            margin-bottom: 0.5rem;
+        }
+
+        .quick-start-card p {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 1rem;
+        }
+
+        .materials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .material-card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .material-card:hover {
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+            transform: translateY(-3px);
+        }
+
+        .material-header {
+            background: linear-gradient(135deg, #16a085 0%, #128070 100%);
+            color: white;
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .material-header .icon {
+            font-size: 2.5em;
+        }
+
+        .material-header h3 {
+            flex: 1;
+        }
+
+        .material-header .label {
+            font-size: 0.8em;
+            background: rgba(255,255,255,0.3);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            white-space: nowrap;
+        }
+
+        .material-content {
+            padding: 1.5rem;
+        }
+
+        .material-content h4 {
+            color: #128070;
+            margin-bottom: 0.5rem;
+            font-size: 1em;
+        }
+
+        .material-content p {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+
+        .material-content ul {
+            list-style: none;
+            margin-left: 0;
+            margin-bottom: 1rem;
+        }
+
+        .material-content li {
+            color: #666;
+            padding: 0.4rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+            font-size: 0.9em;
+        }
+
+        .material-content li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #16a085;
+            font-weight: bold;
+        }
+
+        .material-footer {
+            padding: 1rem 1.5rem;
+            border-top: 1px solid #eee;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 0.6rem 1.2rem;
+            border: none;
+            border-radius: 4px;
+            font-weight: 500;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+            font-size: 0.9em;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #16a085 0%, #128070 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            box-shadow: 0 4px 8px rgba(22, 160, 133, 0.3);
+            transform: translateX(2px);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: #16a085;
+            border: 2px solid #16a085;
+        }
+
+        .btn-secondary:hover {
+            background: #f9f9f9;
+        }
+
+        .pathways {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .pathways h2 {
+            color: #16a085;
+            margin-bottom: 1.5rem;
+        }
+
+        .pathway-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+        }
+
+        .pathway {
+            border-left: 4px solid #16a085;
+            padding-left: 1.5rem;
+        }
+
+        .pathway h3 {
+            color: #128070;
+            margin-bottom: 0.8rem;
+        }
+
+        .pathway p {
+            color: #666;
+            font-size: 0.95em;
+            margin-bottom: 1rem;
+        }
+
+        .pathway ol {
+            margin-left: 1.5rem;
+            color: #666;
+            font-size: 0.9em;
+        }
+
+        .pathway li {
+            margin-bottom: 0.5rem;
+        }
+
+        .stats {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 3rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .stats h2 {
+            color: #16a085;
+            margin-bottom: 1.5rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+        }
+
+        .stat-box {
+            text-align: center;
+            padding: 1.5rem;
+            background: linear-gradient(135deg, #f9f9f9 0%, #ecf0f1 100%);
+            border-radius: 6px;
+            border-top: 3px solid #16a085;
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            color: #16a085;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.95em;
+        }
+
+        footer {
+            background: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+
+        footer a {
+            color: #16a085;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .quick-start,
+            .materials-grid,
+            .pathway-list,
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .material-header {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌸 Lotus Sutra Practice Layer</h1>
+        <p>Complete Guidance for Buddhist Study, Meditation & Community Practice</p>
+    </header>
+
+    <div class="container">
+        <div class="intro-banner">
+            <h2>Welcome to Your Practice Journey</h2>
+            <p>The Lotus Sutra Practice Layer offers 7 integrated pathways for engaging with the teaching—from 5-minute daily practice to comprehensive 28-week study. Whether you're a solo practitioner, group facilitator, meditation deepener, or scholar, these materials meet you where you are.</p>
+        </div>
+
+        <h2 style="color: #16a085; margin-bottom: 1.5rem; font-size: 1.8em;">🚀 Quick Start Paths</h2>
+        <div class="quick-start">
+            <div class="quick-start-card">
+                <div class="emoji">⏱️</div>
+                <h3>5 Min Daily</h3>
+                <p>One teaching per day</p>
+                <a href="03_Daily_Practice/daily_dharma_extracts.html" class="btn btn-primary">Start Now</a>
+            </div>
+            <div class="quick-start-card">
+                <div class="emoji">🧘</div>
+                <h3>Meditation</h3>
+                <p>13 guided practices</p>
+                <a href="04_Meditation_Practice/meditation_focal_points_compiled.html" class="btn btn-primary">Begin</a>
+            </div>
+            <div class="quick-start-card">
+                <div class="emoji">📚</div>
+                <h3>Deep Study</h3>
+                <p>28 chapter guides</p>
+                <a href="02_Chapter_Study_Guides/html/index.html" class="btn btn-primary">Explore</a>
+            </div>
+            <div class="quick-start-card">
+                <div class="emoji">👥</div>
+                <h3>Group Practice</h3>
+                <p>Facilitation guide</p>
+                <a href="05_Group_Practice/teaching_circles_facilitation.html" class="btn btn-primary">Lead</a>
+            </div>
+        </div>
+
+        <h2 style="color: #16a085; margin-bottom: 1.5rem; font-size: 1.8em;">📖 Practice Materials</h2>
+        <div class="materials-grid">
+            <!-- START HERE -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">📍</div>
+                    <div>
+                        <h3>Start Here</h3>
+                    </div>
+                    <div class="label">Entry Point</div>
+                </div>
+                <div class="material-content">
+                    <h4>Orientation & Navigation</h4>
+                    <p>New to the practice? Start with these foundational guides that explain all materials and help you choose your path.</p>
+                    <ul>
+                        <li>INDEX_READ_ME_FIRST - Quick navigation guide</li>
+                        <li>PRACTITIONER_GUIDE_INTRODUCTION - Understand all materials</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="00_START_HERE/index_read_me_first.html" class="btn btn-primary">Read First</a>
+                    <a href="00_START_HERE/practitioner_introduction.html" class="btn btn-secondary">Full Guide</a>
+                </div>
+            </div>
+
+            <!-- STUDY PROGRAMS -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">⏱️</div>
+                    <div>
+                        <h3>Study Programs</h3>
+                    </div>
+                    <div class="label">Curriculum</div>
+                </div>
+                <div class="material-content">
+                    <h4>Structured Learning Paths</h4>
+                    <p>Complete 28-chapter curriculum in organized time blocks. Includes daily templates and pacing guides.</p>
+                    <ul>
+                        <li>4-Week Intensive Program</li>
+                        <li>Daily study templates</li>
+                        <li>Integration ceremonies</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="01_Study_Programs/four_week_intensive_study_program.html" class="btn btn-primary">4-Week Course</a>
+                </div>
+            </div>
+
+            <!-- DAILY PRACTICE -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">📅</div>
+                    <div>
+                        <h3>Daily Practice</h3>
+                    </div>
+                    <div class="label">5-45 min</div>
+                </div>
+                <div class="material-content">
+                    <h4>Daily Engagement</h4>
+                    <p>Quick daily teachings from each chapter plus comprehensive journaling templates for deeper reflection and integration.</p>
+                    <ul>
+                        <li>5-minute daily extracts</li>
+                        <li>Reflection journaling</li>
+                        <li>Integration tracking</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="03_Daily_Practice/daily_dharma_extracts.html" class="btn btn-primary">Daily Extracts</a>
+                    <a href="03_Daily_Practice/reflection_journal.html" class="btn btn-secondary">Journal</a>
+                </div>
+            </div>
+
+            <!-- MEDITATION -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">🧘</div>
+                    <div>
+                        <h3>Meditation Practice</h3>
+                    </div>
+                    <div class="label">15-35 min</div>
+                </div>
+                <div class="material-content">
+                    <h4>Contemplative Depth</h4>
+                    <p>13 guided meditation practices organized by 8 themes. Beginner through advanced progressions for sustained deepening.</p>
+                    <ul>
+                        <li>13 complete practices</li>
+                        <li>8 thematic categories</li>
+                        <li>Multiple progressions</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="04_Meditation_Practice/meditation_focal_points_compiled.html" class="btn btn-primary">Meditations</a>
+                </div>
+            </div>
+
+            <!-- STUDY GUIDES -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">📚</div>
+                    <div>
+                        <h3>Chapter Study Guides</h3>
+                    </div>
+                    <div class="label">30-60 min</div>
+                </div>
+                <div class="material-content">
+                    <h4>Deep Chapter Engagement</h4>
+                    <p>Complete study guides for all 28 chapters with learning objectives, key passages, practices, and discussion questions.</p>
+                    <ul>
+                        <li>28 comprehensive guides</li>
+                        <li>Learning objectives</li>
+                        <li>Practice applications</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="02_Chapter_Study_Guides/html/index.html" class="btn btn-primary">All Guides</a>
+                </div>
+            </div>
+
+            <!-- GROUP PRACTICE -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">👥</div>
+                    <div>
+                        <h3>Group Practice</h3>
+                    </div>
+                    <div class="label">Facilitation</div>
+                </div>
+                <div class="material-content">
+                    <h4>Community & Leadership</h4>
+                    <p>Complete manual for leading study circles and teaching groups. Includes 90-minute session structure and facilitation skills.</p>
+                    <ul>
+                        <li>Leadership training</li>
+                        <li>Session structures</li>
+                        <li>Community building</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="05_Group_Practice/teaching_circles_facilitation.html" class="btn btn-primary">Facilitation Guide</a>
+                </div>
+            </div>
+
+            <!-- ADVANCED PRACTICE -->
+            <div class="material-card">
+                <div class="material-header">
+                    <div class="icon">🚀</div>
+                    <div>
+                        <h3>Advanced Practice</h3>
+                    </div>
+                    <div class="label">Mastery Path</div>
+                </div>
+                <div class="material-content">
+                    <h4>Bodhisattva Methodology</h4>
+                    <p>Sequenced practice stages drawn from exemplar chapters. Learn to embody each bodhisattva's compassionate approach.</p>
+                    <ul>
+                        <li>Bodhisattva methodology</li>
+                        <li>Sequenced stages</li>
+                        <li>Exemplar studies</li>
+                    </ul>
+                </div>
+                <div class="material-footer">
+                    <a href="06_Advanced_Practice/bodhisattva_path_methodology_extracted.html" class="btn btn-primary">Bodhisattva Path</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="pathways">
+            <h2>🎯 Choose Your Path</h2>
+            <div class="pathway-list">
+                <div class="pathway">
+                    <h3>⏱️ Time-Pressed Path</h3>
+                    <p><strong>5 minutes per day</strong></p>
+                    <ol>
+                        <li>Read "START HERE" intro</li>
+                        <li>Do Daily Dharma Extract</li>
+                        <li>Optional: 15-min meditation once weekly</li>
+                    </ol>
+                </div>
+
+                <div class="pathway">
+                    <h3>📚 Student Path</h3>
+                    <p><strong>30-45 minutes, 3-4x weekly</strong></p>
+                    <ol>
+                        <li>Complete START HERE orientation</li>
+                        <li>Study one chapter guide per week</li>
+                        <li>Keep reflection journal</li>
+                        <li>Practice weekly meditation</li>
+                    </ol>
+                </div>
+
+                <div class="pathway">
+                    <h3>🧘 Meditation Path</h3>
+                    <p><strong>45-60 minutes, 3-4x weekly</strong></p>
+                    <ol>
+                        <li>Read Meditation guide intro</li>
+                        <li>Choose theme (8 available)</li>
+                        <li>Practice progressions for 4+ weeks</li>
+                        <li>Combine with daily extracts</li>
+                    </ol>
+                </div>
+
+                <div class="pathway">
+                    <h3>👥 Leadership Path</h3>
+                    <p><strong>Variable; leads others</strong></p>
+                    <ol>
+                        <li>Complete START HERE fully</li>
+                        <li>Study facilitation guide</li>
+                        <li>Review 2-3 chapter guides</li>
+                        <li>Lead your first circle</li>
+                    </ol>
+                </div>
+
+                <div class="pathway">
+                    <h3>🔥 Intensive Path</h3>
+                    <p><strong>60+ minutes daily, 4 weeks</strong></p>
+                    <ol>
+                        <li>Complete 4-Week Intensive Program</li>
+                        <li>Study all 28 chapter guides</li>
+                        <li>Practice 3-4 meditations weekly</li>
+                        <li>Complete reflection journal</li>
+                    </ol>
+                </div>
+
+                <div class="pathway">
+                    <h3>⭐ Mastery Path</h3>
+                    <p><strong>Ongoing; deepening engagement</strong></p>
+                    <ol>
+                        <li>Complete all previous paths</li>
+                        <li>Study Bodhisattva methodology</li>
+                        <li>Lead teaching circles</li>
+                        <li>Develop personal teaching</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <h2>📊 By The Numbers</h2>
+            <div class="stats-grid">
+                <div class="stat-box">
+                    <div class="stat-number">28</div>
+                    <div class="stat-label">Chapter Guides</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">450K+</div>
+                    <div class="stat-label">Words of Content</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">13</div>
+                    <div class="stat-label">Meditation Practices</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">8</div>
+                    <div class="stat-label">Thematic Paths</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">∞</div>
+                    <div class="stat-label">Possible Outcomes</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Lotus Sutra Scholarly Translation Project</p>
+        <p><a href="00_START_HERE/index_read_me_first.html">Start Here</a> | <a href="../../chapters/index.html">Back to Main Site</a></p>
+    </footer>
+</body>
+</html>

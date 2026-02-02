@@ -1,0 +1,22 @@
+The Second Law of Thermodynamics, and Engines of Cognition
+Eliezer Yudkowsky
+
+Maxwell once asked: Why can't we take a uniformly hot gas, and partition it into two volumes A and B, and let only fast-moving molecules pass from B to A, while only slow-moving molecules are allowed to pass from A to B? If you could build a gate like this, soon you would have hot gas on the A side, and cold gas on the B side. That would be a cheap way to refrigerate food, right?
+
+The agent who inspects each gas molecule, and decides whether to let it through, is known as "Maxwell's Demon". And the reason you can't build an efficient refrigerator this way, is that Maxwell's Demon generates entropy in the process of inspecting the gas molecules and deciding which ones to let through.
+
+But suppose you already knew where all the gas molecules were? Then you actually could run Maxwell's Demon and extract useful work. So if you know the states of all the molecules in a glass of hot water, it is cold in a genuinely thermodynamic sense: you can take electricity out of it and leave behind an ice cube.
+
+For M (Maxwell’s Demon) to physically represent an accurate picture of the state of Y (the water), M's physical state must correlate with the state of Y. You can take thermodynamic advantage of that - it's called a Szilard engine.
+
+Or as E.T. Jaynes put it, "The old adage 'knowledge is power' is a very cogent truth, both in human relations and in thermodynamics."
+
+And conversely, one subsystem cannot increase in mutual information with another subsystem, without (a) interacting with it and (b) doing thermodynamic work. Otherwise you could build a Maxwell's Demon and violate the Second Law of Thermodynamics.
+
+Which is to say: To form accurate beliefs about something, you really do have to observe it. It's a very physical, very real process: any rational mind does "work" in the thermodynamic sense, not just the sense of mental effort.
+
+"Forming accurate beliefs requires a corresponding amount of evidence" is a very cogent truth both in human relations and in thermodynamics: if blind faith actually worked as a method of investigation, you could turn warm water into electricity and ice cubes. Just build a Maxwell's Demon that has blind faith in molecule velocities.
+
+Engines of cognition are not so different from heat engines, though they manipulate entropy in a more subtle form than burning gasoline. For example, to the extent that an engine of cognition is not perfectly efficient, it must radiate waste heat, just like a car engine or refrigerator.
+
+"Cold rationality" is true in a sense that Hollywood scriptwriters never dreamed (and false in the sense that they did dream). So unless you can tell me which specific step in your argument violates the laws of physics by giving you true knowledge of the unseen, don't expect me to believe that a big, elaborate clever argument can do it either.

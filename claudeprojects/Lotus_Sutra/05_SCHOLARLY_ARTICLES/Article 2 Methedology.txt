@@ -1,0 +1,268 @@
+Singing the Dharma True: Vernacular Interpretation as Rigorous Scholarship
+William Altig
+
+Independent Scholar
+
+Abstract
+This article presents a methodology for validating vernacular interpretations of Buddhist sacred texts, using as its primary example a Blues/Gospel English rendering of the Lotus Sutra and Heart Sutra. The central question—"How do we know when a vernacular interpretation remains faithful to the original teaching?"—is addressed through a three-layer validation process: (1) AI-powered semantic verification comparing source texts with interpretations, (2) scholarly critique ensuring doctrinal accuracy, and (3) vernacular review confirming cultural authenticity. This multi-agent methodology, tested on translations from Classical Chinese Buddhist texts into African American vernacular English, demonstrates that semantic meaning can be preserved across radical tonal divergence. The article argues that vernacular interpretation, when rigorously validated and transparent about its creative choices, constitutes authentic dharma transmission—following the precedent of Kumārajīva, who dressed Sanskrit wisdom in Chinese clothes, and Luther, who made Scripture speak "as the mother in the home speaks." The Blues tradition, with its deep engagement with suffering and liberation, provides a particularly appropriate American vehicle for Buddhist teaching.
+
+Keywords:Translation methodology, vernacular interpretation, Buddhist texts, African American religious traditions, Blues, skillful means, Lotus Sutra, Heart Sutra
+
+Introduction
+Buddhist texts in English have a peculiar problem. They are technically in our language, yet they often remain inaccessible—not because of vocabulary, but because of register.The elevated, formal, slightly archaic tone of most Buddhist translations creates distance between the reader and the teaching. We can understand the words, but we struggle to feel them. The dharma, which in its original contexts was spoken in the vernacular, arrives in English dressed in academic robes.
+
+This essay argues for a different approach: vernacular interpretation that prioritizes accessibility while maintaining doctrinal integrity. But such an approach immediately raises a critical question: How do we know when a vernacular interpretation crosses the line from legitimate adaptation to distortion? How do we validate that the "spirit" of the teaching has been preserved even when the "letter" has been deliberately altered?
+
+The answer, I propose, lies in methodology. A rigorous process of validation—using AI verification, scholarly review, and vernacular critique—can demonstrate whether a creative interpretation remains faithful to its source. This article presents such a methodology, developed through the creation of African American vernacular (specifically Blues and Gospel register) interpretations of the Lotus Sutra, Heart Sutra, and other canonical Buddhist texts.
+
+The Precedent of Kumārajīva
+When Kumārajīva (344-413 CE) translated the Lotus Sutra from Sanskrit into Chinese, he made what his contemporaries considered radical choices. He did not produce word-for-word translations but rather sense-for-sense renderings that prioritized meaning and readability over literal fidelity. His Chinese Lotus Sutra became the definitive version for East Asian Buddhism—not despite his interpretive freedom, but because of it. He understood that translation is always, at some level, interpretation.
+
+The question for contemporary translators is not whether to interpret—we have no choice—but how to interpret responsibly. What might it mean to dress the dharma in "Blues clothes" as Kumārajīva dressed it in Chinese clothes?
+
+The Present Contribution
+This article proceeds in five sections. First, I examine historical precedents for vernacular translation of sacred texts, from Luther's German Bible to Buddhist translation traditions. Second, I argue for the Blues tradition as a legitimate vehicle for dharma transmission, identifying structural and epistemological parallels between Blues wisdom and Buddhist teaching. Third, I present the multi-layer validation methodology developed for this project. Fourth, I offer case studies of specific translation choices, demonstrating how the methodology works in practice. Finally, I address theological objections and argue that vernacular interpretation, properly validated, constitutes authentic transmission.
+
+1. Historical Precedents for Vernacular Translation
+The translation of sacred texts into vernacular languages has always been controversial—and always transformative. Each major shift in translation philosophy has opened scripture to new communities while drawing criticism from guardians of tradition.
+
+1.1 The Western Tradition
+Martin Luther's 1534 German Bible exemplifies the vernacular revolution. Luther explicitly rejected the elevated Latin of the Vulgate in favor of everyday speech. "We must ask the mother in the home, the children on the street, the common man in the marketplace," he wrote, "and look them in the mouth, how they speak, and afterwards translate; then they will understand it and see that one speaks German with them."[^1]
+
+Luther's principle—that translation should mirror how ordinary people actually speak—was revolutionary. It democratized access to scripture while drawing fierce criticism from those who believed sacred texts required sacred language.
+
+William Tyndale (1526) sought to make the Bible accessible to "the ploughboy"—to ordinary workers in the fields. His translation philosophy prioritized comprehension over formality, and his influence on English prose style persists to this day. Like Luther, Tyndale understood that accessibility was itself a theological value.
+
+1.2 The Buddhist Tradition
+Buddhist translation has its own rich history of vernacular adaptation. The Buddha himself, according to tradition, rejected the suggestion that his teachings be preserved in Sanskrit (the "refined" language of the Brahmins) and instead permitted transmission in local dialects. This choice—to prioritize accessibility over prestige—set a precedent that echoes through Buddhist history.
+
+Kumārajīva's Chinese translations (early 5th century) exemplify skillful adaptation. Working with teams of scholar-monks, Kumārajīva rendered Indian Buddhist texts into readable Chinese prose. His translations were not mechanical; they were interpretive acts that made foreign concepts comprehensible within Chinese philosophical categories. Jan Nattier notes that Kumārajīva often simplified complex Indian Buddhist arguments, prioritizing "the general meaning" over technical precision.[^2]
+
+The Japanese tradition continued this adaptive approach. When Pure Land Buddhism spread among ordinary Japanese, teachers like Shinran (1173-1263) wrote in vernacular Japanese rather than Classical Chinese, understanding that dharma must speak in the listener's mother tongue.
+
+1.3 The Missing Voice
+Yet within English Buddhist translation, one linguistic register has been notably absent: African American vernacular. Despite the rich spiritual wisdom embedded in Blues, Gospel, and Black preaching traditions, these voices have rarely been employed to transmit Buddhist teaching. This absence matters for several reasons.
+
+First, it limits accessibility. African American vernacular English is a distinct linguistic system with its own grammar, rhetoric, and aesthetic values. Translations pitched to academic or mainstream registers may not resonate with communities for whom this vernacular is home.
+
+Second, it wastes an opportunity. The Blues tradition has developed sophisticated responses to suffering that parallel Buddhist insights in striking ways. A vernacular interpretation that draws on this wisdom is not "dumbing down" the dharma but rather enriching it with additional cultural resources.
+
+Third, it matters for the future of Western Buddhism. If Buddhism in the West is to move beyond predominantly white, middle-class communities, it must find expression in diverse linguistic registers. Vernacular interpretation is not optional; it is essential for genuine transmission.
+
+2. The Blues Tradition as Dharma Vehicle
+Why Blues? Of all possible vernacular registers, why choose this particular tradition as a vehicle for Buddhist teaching?
+
+The answer lies in deep structural and epistemological parallels between Blues wisdom and Buddhist insight. Both traditions begin with an unflinching acknowledgment of suffering. Both develop sophisticated practices for engaging suffering rather than avoiding it. Both understand that liberation comes not through denial but through truth-telling.
+
+2.1 Parallel Epistemologies
+The First Noble Truth states that life involves dukkha—suffering, unsatisfactoriness, dis-ease. This is not pessimism but diagnosis. Before healing can begin, the illness must be named.
+
+The Blues proceeds from identical ground. As Ralph Ellison observed, the Blues is "an impulse to keep the painful details and episodes of a brutal experience alive in one's aching consciousness, to finger its jagged grain, and to transcend it, not by the consolation of philosophy but by squeezing from it a near-tragic, near-comic lyricism."[^3]
+
+Both traditions reject the comforting lie that everything is fine. Both insist that we look clearly at what is. Muddy Waters singing "I got my mojo working, but it just won't work on you" and the Buddha teaching that "attachment leads to suffering" are making cognate observations about the nature of desire and disappointment.
+
+Cornel West, in his reflections on Blues philosophy, notes that the tradition embodies a "tragicomic sensibility"—the capacity to stare at catastrophe and nevertheless find grounds for joy.[^4] This parallels the Buddha's claim that looking clearly at suffering is not depressing but liberating. Truth, even painful truth, sets us free.
+
+2.2 Structural Parallels
+Beyond epistemological kinship, Blues and Buddhist discourse share structural features:
+
+|Blues Element |Buddhist Parallel ||---------------|-------------------||Call and Response |Teacher-Student Dialogue ||Repetition with Variation |Dharani, Sutra Recitation ||"Testifying" (Bearing Witness) |First-Person Awakening Narrative ||The "Feeling" Over Doctrine |Direct Experience Over Conceptualization ||Community Affirmation |Sangha as Witness Community |
+
+Call and response—the singer offering a line, the community answering—mirrors the dialogic structure of sutras, where disciples ask questions and the Buddha responds. The repetitive structure of Blues (verse-chorus-verse) echoes the repetitive structure of dharani and mantra, where truth is reinforced through recurrence.
+
+Perhaps most significantly, both traditions prioritize feeling over mere doctrinal knowledge. A Blues singer who doesn't feel the song, however technically accurate, has missed the point. Similarly, Buddhist teaching insists that intellectual understanding alone is insufficient; the dharma must be realized,not just comprehended.
+
+2.3 Suffering as Teacher
+Both traditions understand suffering as teacher rather than merely enemy. The Blues does not try to escape pain; it transforms pain into art, into community, into wisdom. Angela Davis notes that Blues singers "transformed experiences of pain, loss, and loneliness into art that could speak to—and for—entire communities."[^5]
+
+This transformative relationship to suffering—neither denying it nor drowning in it, but using it as raw material for liberation—is precisely what Buddhism teaches. The lotus grows from mud; the Blues grows from sorrow. In both cases, the suffering is not eliminated but transfigured.
+
+2.4 The Vernacular as Sacred
+Finally, both traditions understand that wisdom need not speak in elevated registers. The Buddha taught in Pali, not Sanskrit—the language of the people, not the priests. Blues wisdom lives in everyday speech, in vernacular idiom, in the grit of ordinary language.
+
+When we speak of translating Buddhist texts into Blues vernacular, then, we are not departing from Buddhist tradition but returning to it. We are recovering the Buddha's original insistence that dharma speak in the mother tongue.
+
+3. Methodology: Multi-Layer Validation
+The core challenge for any vernacular interpretation is validation. How do we know the interpretation is accurate? How do we distinguish legitimate adaptation from distortion?
+
+This section presents a three-layer validation methodology developed through the creation of Blues interpretations of the Lotus Sutra and Heart Sutra.
+
+3.1 The Challenge
+The question "How do you know your interpretation is accurate?" admits no easy answer. Translation is not mathematics; there is no algorithm for determining correctness. Different translation philosophies will yield different results, and reasonable scholars can disagree.
+
+Nevertheless, we can distinguish responsible interpretation from carelessness. We can ask whether the interpreter has engaged the source text seriously, understood its meaning, and made intentional rather than accidental choices. We can evaluate whether creative liberties serve the teaching or obscure it.
+
+The methodology presented here does not claim to prove that a particular interpretation is "correct"—a claim that would be philosophically naive. Rather, it demonstrates rigorous engagement and creates transparency about interpretive choices.
+
+3.2 Layer One: AI Verification
+The first layer of validation uses large language models (specifically Google's Gemini 1.5 Pro, accessed through NotebookLM) to compare source texts with vernacular interpretations.
+
+Process:The original Chinese text (in this case, Xuanzang's Heart Sutra translation, T0251) and the Blues interpretation were loaded as separate sources. The AI was then queried:
+
+"Compare the Chinese text with the English translation. Identify any sentences where the meaning is inconsistent."
+"Does the tone of the English translation match the original Chinese text?"
+"Are there any mistranslations in the English version?"
+Findings:The AI verification yielded a crucial distinction: meaning remained consistent across the two versions, even though tone diverged dramatically. The AI characterized the relationship as follows:
+
+The Chinese text reads like a classical sheet music score—precise, formal, requiring strict adherence. The English translation reads like a jazz improvisation on that same score—swinging the rhythm, bending the notes, adding soul, while keeping the underlying chord progression (the doctrine) exactly the same.
+
+This finding—that semantic meaning can be preserved across radical tonal divergence—provides empirical support for the vernacular interpretation project. The "chord progression" (dharma) remains intact; the "performance" (register) changes.
+
+Limitations:AI verification tests semantic consistency, not spiritual authenticity. A passage might be semantically accurate yet spiritually misleading. For this reason, AI verification is necessary but not sufficient.
+
+3.3 Layer Two: Scholarly Critique
+The second layer subjects the interpretation to scholarly review, evaluating doctrinal precision and theological accuracy.
+
+For this project, a "Professor" persona was employed—a scholarly critic trained in Buddhist studies who evaluated each translation choice against canonical Buddhist doctrine. The Professor asked:
+
+Is the distinction between śūnyatā (emptiness) and anitya (impermanence) maintained?
+Are technical terms like saṃskāra (volitional formations) rendered accurately?
+Do vernacular metaphors (like "flowing river") risk conflating distinct Buddhist concepts?
+Example Finding:The Professor identified a potential theological ambiguity in describing emptiness as "flow." The concern: conflating śūnyatā (lack of inherent existence) with anitya (impermanence). The response was to add clarifying language:
+
+"When this song uses words like 'Flow,' understand: the Buddha wasn't just saying things change. He was saying the 'thing' that seems to change never had solid edges in the first place. The river flows, but there ain't no fixed river."
+
+This scholarly review catches conceptual slippage that AI verification might miss.
+
+3.4 Layer Three: Vernacular Validation
+The third layer ensures that the interpretation is authentic to its vernacular register—that it actually works as Blues.
+
+A "Bluesman" persona was employed—a vernacular critic who evaluated whether the translation felt true to the Blues tradition. The Bluesman asked:
+
+Does this sound like something a Blues singer would actually say?
+Is the language honest and direct?
+Does it reach people in their hearts, not just their heads?
+Example Finding:The Bluesman approved the substitution of "doubt" for "mind" in a verse section, despite its technical inaccuracy, because it captured the function of the teaching:
+
+"Doubt is what keeps us stuck. When you clear the doubt, you see clear. It ain't just a rhyme; it's the truth of the experience."
+
+This vernacular validation ensures that the interpretation serves its intended audience.
+
+3.5 The Transparency Principle
+Perhaps most importantly, the methodology requires documentation of every significant divergence from literal translation. Readers are told explicitly when the interpretation has taken creative liberties and why.
+
+This transparency—what we might call a "Translator's Note" approach—respects readers' intelligence. It says: "Here is what we did and why. You can evaluate our choices."
+
+The precedent is Kumārajīva's own practice. Later Chinese scholars could compare his translations with Sanskrit originals and identify his interpretive choices. Transparency does not undermine authority; it establishes it.
+
+4. Case Studies: Specific Translation Choices
+The methodology is best understood through specific examples. This section examines three translation choices, demonstrating how the validation process works in practice.
+
+4.1 Case Study: "Skillful Means" →"Loving Tricks"
+The Sanskrit term upāya (Chinese: 方便) is typically rendered "skillful means" or "expedient methods." This translation is technically accurate but tonally problematic: "expedient" sounds calculating, even manipulative.
+
+The Vernacular Choice:In the Blues interpretation, upāya becomes "loving tricks"—the compassionate strategems a teacher uses to reach students where they are.
+
+Validation:-AI Verification:Confirmed that "loving tricks" preserves the semantic content of upāya—strategic adaptations made for the benefit of others. -Scholarly Review:The Professor noted that "loving tricks" captures both the strategic dimension (tricks) and the compassionate motivation (loving) that characterize upāya in Mahayana Buddhism. -Vernacular Review:The Bluesman affirmed that "loving tricks" sounds natural in Blues register and avoids the clinical feel of "expedient means."
+
+Pedagogical Weaving:To bridge vernacular and traditional terminology, the interpretation employs a "weaving" technique: occasional phrases like "loving tricks—what the scholars call skillful means—" that explicitly connect the vernacular term with its traditional equivalent. This teaches readers traditional Buddhist vocabulary while maintaining vernacular accessibility.
+
+Result:Analysis showed a 1,350% increase in term linkage after implementing pedagogical weaving—dramatically improving readers' connection between vernacular and scholarly terminology.
+
+4.2 Case Study: "Never Disparaging" →"Never Looked Down"
+Lotus Sutra Chapter 20 tells the story of a bodhisattva named 常不輕 (Japanese: Jōfukyō; Sanskrit: Sadāparibhūta), traditionally rendered "Never Disparaging" or "Never Despising."
+
+The Vernacular Choice:The Blues interpretation uses "Never Looked Down"—a phrase that carries the weight of social hierarchy, racism, and systemic degradation in African American English.
+
+Validation:-AI Verification:Confirmed semantic equivalence—both phrases describe a consistent refusal to regard others as inferior. -Scholarly Review:The Professor noted that "Never Looked Down" captures the active, ongoing nature of the Chinese construction (不輕 bu qing—"not treating lightly"). -Vernacular Review:The Bluesman identified powerful cultural resonance: "Looking down on somebody" is how systemic degradation is described in African American English.
+
+Cultural Significance:This translation choice connects ancient Buddhist teaching to lived experience of marginalization. When Never Looked Down bows to people who beat him, declaring "I would never dare look down on you—you're going to become a Buddha," he enacts a radical theology: seeing Buddha-nature in those who cannot see it in themselves.
+
+This parallels African American spiritual resistance: maintaining dignity and prophesying liberation even in the face of violent oppression.
+
+4.3 Case Study: The Heart Sutra "Doubt" Substitution
+The Heart Sutra's famous negation series—"No eye, ear, nose, tongue, body, mind" (無眼、耳、鼻、舌、身、意)—was adapted in the Blues verse section to "No nose to smell, no doubt to clear."
+
+The Problem:This substitutes a psychological state ("doubt") for an ontological category ("mind"). It is, strictly speaking, a theological deviation.
+
+The Defense:-Rhyme Requirements:The verse section requires rhyme to function as song. "Doubt" rhymes with "shout" (in a nearby line); "mind" does not fit the rhyme scheme. -Functional Equivalence:The Buddhist teaching negates the mind to point toward a state beyond conceptual obstruction. "Doubt" functions as exactly such an obstruction. Clearing doubt and clearing the conceptual mind produce equivalent results. -Transparency:The Translator's Note explicitly documents this substitution, explaining both the practical reason (rhyme) and the theological rationale (functional equivalence).
+
+Scholarly Approval:The Professor accepted this substitution as "defensible"—not technically precise, but theologically reasonable within the constraints of poetic form.
+
+5. Theological Defense
+The methodology and case studies demonstrate rigor, but theological objections may remain. This section addresses common criticisms.
+
+5.1 Objection: "This is reinterpretation, not translation."
+All translation involves interpretation. The only question is whether the interpretation is conscious and reasoned or unconscious and arbitrary.
+
+Every word choice in every translation reflects interpretive decisions. When a translator chooses "suffering" rather than "stress" or "unsatisfactoriness" for dukkha,interpretation has occurred. The virtue of the present methodology is that interpretation is explicit, documented, and defensible.
+
+Moreover, the term "interpretation" may be more honest than "translation" for any rendering of ancient sacred texts. We are not producing originals but interpretive performances—like jazz musicians interpreting standards. The test is not literal fidelity but whether the performance communicates the essential meaning.
+
+5.2 Objection: "Vernacular dumbs down the teaching."
+This objection reflects an unsupported assumption that elevated register equals intellectual seriousness. Luther's German Bible did not dumb down Christianity; it made Scripture available to those previously excluded. Accessibility and depth are not opposites.
+
+In fact, vernacular interpretation may increase depth of engagement. A teaching that enters through familiar language and cultural resonance reaches deeper than one that remains abstract and foreign. The test is not how sophisticated the translation sounds but how effectively it transforms readers.
+
+5.3 Objection: "Blues is entertainment, not scripture."
+This objection misunderstands the Blues tradition. Blues emerged from spirituals, work songs, and field hollers—sacred forms developed under slavery. It has always carried profound truth in "secular" clothing.
+
+The distinction between sacred and secular is, in any case, a Western imposition. Buddhist teaching recognizes no such boundary. If a Blues song about suffering and liberation communicates dharma, it is dharma—regardless of genre classification.
+
+5.4 Objection: "AI cannot validate spiritual accuracy."
+This objection contains an important truth. AI validates semantic consistency, not spiritual authenticity. A passage might be semantically accurate yet spiritually misleading.
+
+For this reason, the methodology includes human layers—scholarly and vernacular review—that evaluate dimensions AI cannot assess. The AI catches mechanical translation errors; the human reviewers evaluate theological implications and pastoral wisdom.
+
+5.5 The Theological Argument: Upāya
+The strongest theological argument for vernacular interpretation comes from Buddhism itself: the doctrine of upāya (skillful means).
+
+The Buddha, according to Mahayana teaching, adapts his message to the capabilities of his audience. He teaches meditation to one person, ethical conduct to another, philosophical analysis to a third—not because these represent different truths but because different listeners need different doors into the same truth.
+
+Vernacular interpretation is upāya.It opens a door that formal translations keep closed. If the dharma is to fulfill its function—"establishing all living beings in the Buddha way"—it must be accessible to all communities, not only those comfortable with academic register.
+
+The Lotus Sutra itself makes this argument. In the Burning House parable (Chapter 3), the father uses "loving tricks" to get his children out of danger—promising them goat carts, deer carts, and ox carts, then giving them all the magnificent white-ox cart once they are safe. The diversity of provisional teachings serves the single goal of liberation.
+
+Conclusion
+This article has proposed a methodology for validating vernacular interpretation of Buddhist sacred texts. The three-layer process—AI verification, scholarly critique, and vernacular review—provides rigor without rigidity. It honors the source text while acknowledging that translation is always, at some level, creative interpretation.
+
+The Methodology Summarized
+Begin with rigorous study of the source text in its original language and cultural context.
+Develop vernacular interpretation through immersive engagement with the target register.
+Validate against the original using AI-powered semantic verification.
+Subject to multi-agent critique:scholarly review for doctrinal precision, vernacular review for cultural authenticity.
+Document all divergences transparently, explaining the reason for each choice.
+Weave traditional terminology pedagogically, bridging vernacular and scholarly vocabulary.
+The Larger Claim
+Buddhist dharma has always traveled by adapting to new cultures. It dressed in Chinese clothes, Japanese clothes, Tibetan clothes. In each case, the adaptation was not betrayal but renewal.
+
+The Blues tradition represents a profound American wisdom—a sophisticated response to suffering developed over centuries of struggle. To dress the dharma in Blues clothes is to continue the ancient process of adaptation, making the teaching accessible to communities for whom academic Buddhism remains foreign.
+
+This matters not just for accessibility but for authenticity. Buddhism teaches that wisdom arises through lived experience, not merely through study. A vernacular interpretation that connects dharma to the life-world of its readers may be more authentic than a literal translation that remains intellectually accurate but experientially inert.
+
+Final Words
+The Blues has always known how to carry heavy truth with a light touch, how to make the cosmic feel personal, how to honor both suffering and joy. Buddhist teaching knows the same things.
+
+When these two wisdom traditions meet—when the ancient dharma is sung in contemporary Blues—something remarkable happens. Barriers dissolve. The teaching enters not just the head but the heart. People who would never open a scholarly Buddhist volume find themselves nodding, humming, feeling the truth.
+
+That feeling is not distortion. It is transmission.
+
+Notes
+[^1]: Martin Luther, "On Translating: An Open Letter" (1530), translated by Charles M. Jacobs.
+
+[^2]: Jan Nattier, "The Heart Sutra: A Chinese Apocryphal Text?" Journal of the International Association of Buddhist Studies 15.2 (1992): 153-223.
+
+[^3]: Ralph Ellison, "Richard Wright's Blues," Shadow and Act (New York: Random House, 1964), 78-79.
+
+[^4]: Cornel West, "The Tragicomic in the Blues," in Hope on a Tightrope (New York: Smiley Books, 2008).
+
+[^5]: Angela Y. Davis, Blues Legacies and Black Feminism (New York: Vintage Books, 1999), 4.
+
+Bibliography
+Davis, Angela Y. Blues Legacies and Black Feminism: Gertrude "Ma" Rainey, Bessie Smith, and Billie Holiday.New York: Vintage Books, 1999.
+
+Ellison, Ralph. Shadow and Act.New York: Random House, 1964.
+
+Lakoff, George, and Mark Johnson. Metaphors We Live By.Chicago: University of Chicago Press, 1980.
+
+Luther, Martin. "On Translating: An Open Letter." 1530. Translated by Charles M. Jacobs.
+
+Nattier, Jan. "The Heart Sutra: A Chinese Apocryphal Text?" Journal of the International Association of Buddhist Studies 15.2 (1992): 153-223.
+
+Nida, Eugene A. Toward a Science of Translating.Leiden: E.J. Brill, 1964.
+
+Ricoeur, Paul. On Translation.Translated by Eileen Brennan. London: Routledge, 2006.
+
+West, Cornel. Hope on a Tightrope: Words and Wisdom.New York: Smiley Books, 2008.
+
+William Altig is an independent scholar specializing in Buddhist translation and textual interpretation. His work includes Blues vernacular interpretations of the Lotus Sutra, Heart Sutra, Diamond Sutra, and Dhammapada. This is his first submission to an academic journal.

@@ -1,0 +1,666 @@
+================================================================================
+VOICE TAG QUICK REFERENCE FOR CHAPTER FILES
+Lotus Sutra Blues Interpretation - Audio Production
+================================================================================
+
+This reference shows EXACTLY which voice tags belong in each chapter file,
+with line numbers from the master file for precise location reference.
+
+--------------------------------------------------------------------------------
+CHAPTER 01: THE OPENING
+Total Tags: 3
+--------------------------------------------------------------------------------
+Master Line 628  → [Puck]
+Master Line 647  → [Puck]
+Master Line 702  → [Puck]
+
+--------------------------------------------------------------------------------
+CHAPTER 02: THE LOVING TRICKS
+Total Tags: 23
+--------------------------------------------------------------------------------
+Master Line 962  → [Iapetus]
+Master Line 1086 → [Charon]
+Master Line 1089 → [Rasalgethi]
+Master Line 1098 → [Orus]
+Master Line 1156 → [Charon]
+Master Line 1159 → [Iapetus]
+Master Line 1164 → [Orus]
+Master Line 1174 → [Triton]
+Master Line 1184 → [Orus]
+Master Line 1207 → [Charon]
+Master Line 1210 → [Rasalgethi]
+Master Line 1215 → [Iapetus]
+Master Line 1218 → [Orus]
+Master Line 1221 → [Charon]
+Master Line 1224 → [Iapetus]
+Master Line 1243 → [Charon]
+Master Line 1248 → [Iapetus]
+Master Line 1259 → [Charon]
+Master Line 1276 → [Iapetus]
+Master Line 1709 → [Rasalgethi]
+Master Line 1887 → [Charon]
+Master Line 1909 → [Orus]
+Master Line 1916 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 03: THE PARABLE
+Total Tags: 41
+--------------------------------------------------------------------------------
+Master Line 1923 → [Orus]
+Master Line 1926 → [Orus]
+Master Line 1937 → [Charon]
+Master Line 2007 → [Rasalgethi]
+Master Line 2025 → [Iapetus]
+Master Line 2041 → [Rasalgethi]
+Master Line 2075 → [Charon]
+Master Line 2078 → [Iapetus]
+Master Line 2085 → [Iapetus]
+Master Line 2100 → [Charon]
+Master Line 2165 → [Orus]
+Master Line 2168 → [Rasalgethi]
+Master Line 2177 → [Charon]
+Master Line 2219 → [Orus]
+Master Line 2230 → [Rasalgethi]
+Master Line 2233 → [Iapetus]
+Master Line 2242 → [Rasalgethi]
+Master Line 2253 → [Jove]
+Master Line 2258 → [Charon]
+Master Line 2263 → [Jove]
+Master Line 2266 → [Jove]
+Master Line 2279 → [Jove]
+Master Line 2284 → [Jove]
+Master Line 2295 → [Aoede]
+Master Line 2304 → [Jove]
+Master Line 2319 → [Orus]
+Master Line 2326 → [Rasalgethi]
+Master Line 2329 → [Iapetus]
+Master Line 2332 → [Iapetus]
+Master Line 2347 → [Charon]
+Master Line 2394 → [Triton]
+Master Line 2397 → [Charon]
+Master Line 2512 → [Rasalgethi]
+Master Line 2731 → [Charon]
+Master Line 3248 → [Rasalgethi]
+Master Line 3252 → [Charon]
+Master Line 3278 → [Orus]
+Master Line 3287 → [Rasalgethi]
+Master Line 3300 → [Charon]
+Master Line 3311 → [Rasalgethi]
+Master Line 3328 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 04: FAITH AND UNDERSTANDING
+Total Tags: 12
+--------------------------------------------------------------------------------
+Master Line 3503 → [Vulcan]
+Master Line 3540 → [Charon]
+Master Line 3575 → [Rasalgethi]
+Master Line 3590 → [Charon]
+Master Line 3593 → [Iapetus]
+Master Line 3606 → [Charon]
+Master Line 3613 → [Iapetus]
+Master Line 3626 → [Charon]
+Master Line 3629 → [Vulcan]
+Master Line 3637 → [Iapetus]
+Master Line 3710 → [Rasalgethi]
+Master Line 4067 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 05: THE PARABLE OF THE MEDICINAL HERBS
+Total Tags: 7
+--------------------------------------------------------------------------------
+Master Line 4103 → [Iapetus]
+Master Line 4110 → [Rasalgethi]
+Master Line 4155 → [Charon]
+Master Line 4174 → [Rasalgethi]
+Master Line 4177 → [Charon]
+Master Line 4474 → [Orus]
+Master Line 4497 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 06: THE NAMING
+Total Tags: 4
+--------------------------------------------------------------------------------
+Master Line 4504 → [Iapetus]
+Master Line 4507 → [Iapetus]
+Master Line 4629 → [Iapetus]
+Master Line 4846 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 07: THE PHANTOM CITY BLUES
+Total Tags: 20
+--------------------------------------------------------------------------------
+Master Line 4895 → [Iapetus]
+Master Line 4953 → [Charon]
+Master Line 4966 → [Sadaltager]
+Master Line 5017 → [Charon]
+Master Line 5020 → [Sadaltager]
+Master Line 5054 → [Iapetus]
+Master Line 5089 → [Rasalgethi]
+Master Line 5094 → [Charon]
+Master Line 5225 → [Orus]
+Master Line 5268 → [Rasalgethi]
+Master Line 5297 → [Iapetus]
+Master Line 5302 → [Rasalgethi]
+Master Line 5381 → [Charon]
+Master Line 5447 → [Orus]
+Master Line 5470 → [Rasalgethi]
+Master Line 5559 → [Sadaltager]
+Master Line 5560 → [Sadaltager]
+Master Line 5643 → [Charon]
+Master Line 5670 → [Sulafat]
+Master Line 5681 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 08: WHEN THE FIVE HUNDRED FINALLY HEARD THEIR NAMES CALLED
+Total Tags: 5
+--------------------------------------------------------------------------------
+Master Line 5703 → [Iapetus]
+Master Line 5708 → [Charon]
+Master Line 5836 → [Iapetus]
+Master Line 5882 → [Iapetus]
+Master Line 5921 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 09: WHEN THE FAITHFUL GET THEIR DUE
+Total Tags: 2
+--------------------------------------------------------------------------------
+Master Line 6144 → [Rasalgethi]
+Master Line 6210 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 10: HONOR THE WORD-CARRIERS
+Total Tags: 3
+--------------------------------------------------------------------------------
+Master Line 6231 → [Iapetus]
+Master Line 6340 → [Rasalgethi]
+Master Line 6411 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 11: WHEN THE JEWELED TOWER ROSE UP
+Total Tags: 2
+--------------------------------------------------------------------------------
+Master Line 6581 → [Rasalgethi]
+Master Line 6700 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 12: WHEN YOUR ENEMY WAS YOUR TEACHER
+Total Tags: 7
+--------------------------------------------------------------------------------
+Master Line 7016 → [Rasalgethi]
+Master Line 7033 → [Charon]
+Master Line 7108 → [Rasalgethi]
+Master Line 7190 → [Lyra]
+Master Line 7243 → [Charon]
+Master Line 7250 → [Lyra]
+Master Line 7271 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 13: WHEN THE ROAD GETS ROUGH, YOU GOTTA KEEP WALKING
+Total Tags: 13
+--------------------------------------------------------------------------------
+Master Line 7297 → [Rasalgethi]
+Master Line 7306 → [Charon]
+Master Line 7309 → [Leda]
+Master Line 7312 → [Iapetus]
+Master Line 7321 → [Orus]
+Master Line 7328 → [Charon]
+Master Line 7331 → [Leda]
+Master Line 7334 → [Iapetus]
+Master Line 7337 → [Leda]
+Master Line 7346 → [Orus]
+Master Line 7349 → [Leda]
+Master Line 7384 → [Rasalgethi]
+Master Line 7387 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 14: HOW TO KEEP YOUR SOUL CLEAN WHEN THE WORLD'S GONE WRONG
+Total Tags: 7
+--------------------------------------------------------------------------------
+Master Line 7603 → [Iapetus]
+Master Line 7608 → [Charon]
+Master Line 7627 → [Sulafat]
+Master Line 7648 → [Charon]
+Master Line 7965 → [Sulafat]
+Master Line 7982 → [Rasalgethi]
+Master Line 8015 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 15: WHEN THE UNDERGROUND ARMY ROSE UP
+Total Tags: 20
+--------------------------------------------------------------------------------
+Master Line 8293 → [Orus]
+Master Line 8310 → [Charon]
+Master Line 8342 → [Iapetus]
+Master Line 8355 → [Orus]
+Master Line 8358 → [Charon]
+Master Line 8379 → [Orion]
+Master Line 8386 → [Charon]
+Master Line 8389 → [Orion]
+Master Line 8490 → [Charon]
+Master Line 8501 → [Charon]
+Master Line 8504 → [Charon]
+Master Line 8507 → [Orion]
+Master Line 8521 → [Charon]
+Master Line 8548 → [Orion]
+Master Line 8603 → [Rasalgethi]
+Master Line 8615 → [Charon]
+Master Line 8618 → [Orion]
+Master Line 8633 → [Charon]
+Master Line 8670 → [Orion]
+Master Line 8769 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 16: HOW LONG THE TATHAGATA'S BEEN ALIVE
+Total Tags: 11
+--------------------------------------------------------------------------------
+Master Line 8779 → [Rasalgethi]
+Master Line 8792 → [Charon]
+Master Line 8803 → [Charon]
+Master Line 8826 → [Rasalgethi]
+Master Line 8831 → [Iapetus]
+Master Line 8840 → [Iapetus]
+Master Line 8853 → [Charon]
+Master Line 8942 → [Rasalgethi]
+Master Line 8985 → [Charon]
+Master Line 9052 → [Iapetus]
+Master Line 9208 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 17: COUNTING UP THE GRACE
+Total Tags: 12
+--------------------------------------------------------------------------------
+Master Line 9238 → [Iapetus]
+Master Line 9267 → [Orus]
+Master Line 9276 → [Rasalgethi]
+Master Line 9289 → [Charon]
+Master Line 9292 → [Orion]
+Master Line 9390 → [Charon]
+Master Line 9393 → [Iapetus]
+Master Line 9431 → [Charon]
+Master Line 9434 → [Iapetus]
+Master Line 9535 → [Charon]
+Master Line 9586 → [Iapetus]
+Master Line 9687 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 18: THE JOY THAT MULTIPLIES
+Total Tags: 12
+--------------------------------------------------------------------------------
+Master Line 9718  → [Charon]
+Master Line 9730  → [Charon]
+Master Line 9733  → [Iapetus]
+Master Line 9736  → [Orus]
+Master Line 9759  → [Charon]
+Master Line 9822  → [Orion]
+Master Line 9831  → [Charon]
+Master Line 9834  → [Orion]
+Master Line 9845  → [Rasalgethi]
+Master Line 9898  → [Charon]
+Master Line 10123 → [Orus]
+Master Line 10129 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 19: WHEN YOUR SENSES WAKE UP
+Total Tags: 2
+--------------------------------------------------------------------------------
+Master Line 10157 → [Rasalgethi]
+Master Line 10193 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 20: THE BODHISATTVA WHO NEVER LOOKED DOWN
+Total Tags: 5
+--------------------------------------------------------------------------------
+Master Line 10896 → [Iapetus]
+Master Line 10905 → [Orus]
+Master Line 10914 → [Charon]
+Master Line 11240 → [Orus]
+Master Line 11252 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 21: WHEN THE LORD SHOWED HIS HAND
+Total Tags: 9
+--------------------------------------------------------------------------------
+Master Line 11292 → [Orus]
+Master Line 11307 → [Rasalgethi]
+Master Line 11314 → [Charon]
+Master Line 11329 → [Rasalgethi]
+Master Line 11346 → [Charon]
+Master Line 11349 → [Iapetus]
+Master Line 11373 → [Charon]
+Master Line 11550 → [Orus]
+Master Line 11563 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 22: THE PASSING ON
+Total Tags: 2
+--------------------------------------------------------------------------------
+Master Line 11779 → [Iapetus]
+Master Line 11784 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 23: MEDICINE KING BODHISATTVA - THE STORY OF HOW HE GAVE IT ALL
+Total Tags: 8
+--------------------------------------------------------------------------------
+Master Line 11843 → [Iapetus]
+Master Line 11854 → [Charon]
+Master Line 11921 → [Iapetus]
+Master Line 11932 → [Charon]
+Master Line 11975 → [Iapetus]
+Master Line 12010 → [Charon]
+Master Line 12097 → [Iapetus]
+Master Line 12104 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 24: WONDERFUL SOUND BODHISATTVA
+Total Tags: 15
+--------------------------------------------------------------------------------
+Master Line 12435 → [Iapetus]
+Master Line 12444 → [Charon]
+Master Line 12448 → [Puck]
+Master Line 12461 → [Iapetus]
+Master Line 12467 → [Charon]
+Master Line 12542 → [Iapetus]
+Master Line 12550 → [Charon]
+Master Line 12557 → [Iapetus]
+Master Line 12586 → [Charon]
+Master Line 12662 → [Iapetus]
+Master Line 12669 → [Charon]
+Master Line 12789 → [Rasalgethi]
+Master Line 12802 → [Charon]
+Master Line 12809 → [Rasalgethi]
+Master Line 12816 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 25: THE ONE WHO HEARS THE WORLD CRYING
+Total Tags: 37
+--------------------------------------------------------------------------------
+Master Line 12876 → [Charon]
+Master Line 12879 → [Rasalgethi]
+Master Line 12882 → [Sulafat]
+Master Line 12885 → [Iapetus]
+Master Line 12890 → [Charon]
+Master Line 12939 → [Sulafat]
+Master Line 12945 → [Charon]
+Master Line 12953 → [Sulafat]
+Master Line 12973 → [Charon]
+Master Line 12989 → [Sulafat]
+Master Line 12992 → [Charon]
+Master Line 13003 → [Iapetus]
+Master Line 13013 → [Charon]
+Master Line 13017 → [Sulafat]
+Master Line 13022 → [Iapetus]
+Master Line 13080 → [Sulafat]
+Master Line 13090 → [Charon]
+Master Line 13094 → [Sulafat]
+Master Line 13107 → [Iapetus]
+Master Line 13115 → [Rasalgethi]
+Master Line 13117 → [Sulafat]
+Master Line 13128 → [Charon]
+Master Line 13266 → [Sulafat]
+Master Line 13279 → [Charon]
+Master Line 13286 → [Sulafat]
+Master Line 13299 → [Charon]
+Master Line 13322 → [Sulafat]
+Master Line 13346 → [Charon]
+Master Line 13355 → [Sulafat]
+Master Line 13364 → [Charon]
+Master Line 13393 → [Sulafat]
+Master Line 13406 → [Rasalgethi]
+Master Line 13423 → [Charon]
+Master Line 13426 → [Sulafat]
+Master Line 13458 → [Charon]
+Master Line 13524 → [Sulafat]
+Master Line 13550 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 26: THE PROTECTION SONGS
+Total Tags: 18
+--------------------------------------------------------------------------------
+Master Line 13561 → [Rasalgethi]
+Master Line 13566 → [Iapetus]
+Master Line 13569 → [Rasalgethi]
+Master Line 13574 → [Charon]
+Master Line 13587 → [Iapetus]
+Master Line 13590 → [Charon]
+Master Line 13597 → [Rasalgethi]
+Master Line 13611 → [Charon]
+Master Line 13620 → [Rasalgethi]
+Master Line 13627 → [Charon]
+Master Line 13634 → [Rasalgethi]
+Master Line 13641 → [Charon]
+Master Line 13649 → [Rasalgethi]
+Master Line 13670 → [Charon]
+Master Line 13676 → [Rasalgethi]
+Master Line 13710 → [Charon]
+Master Line 13717 → [Iapetus]
+Master Line 13722 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 27: THE BEAUTIFUL KING AND HIS GOOD FRIENDS
+Total Tags: 7
+--------------------------------------------------------------------------------
+Master Line 13924 → [Sulafat]
+Master Line 13951 → [Charon]
+Master Line 13986 → [Iapetus]
+Master Line 13995 → [Sadaltager]
+Master Line 14008 → [Iapetus]
+Master Line 14011 → [Sulafat]
+Master Line 14090 → [Charon]
+
+--------------------------------------------------------------------------------
+CHAPTER 28: UNIVERSAL WORTHY COMES TO ENCOURAGE YOU
+Total Tags: 197 (MOST INTENSIVE CHAPTER!)
+--------------------------------------------------------------------------------
+Master Line 14166 → [Rasalgethi]
+Master Line 14169 → [Zubenelgenubi]
+Master Line 14176 → [Iapetus]
+Master Line 14193 → [Zubenelgenubi]
+Master Line 14230 → [Orus]
+Master Line 14239 → [Rasalgethi]
+Master Line 14242 → [Zubenelgenubi]
+Master Line 14277 → [Orus]
+Master Line 14284 → [Zubenelgenubi]
+Master Line 14287 → [Orus]
+Master Line 14290 → [Zubenelgenubi]
+Master Line 14296 → [Zubenelgenubi]
+Master Line 14300 → [Charon]
+Master Line 14303 → [Charon]
+Master Line 14306 → [Orus]
+Master Line 14312 → [Charon]
+Master Line 14315 → [Orus]
+Master Line 14319 → [Sulafat]
+Master Line 14323 → [Orus]
+Master Line 14330 → [Orus]
+Master Line 14332 → [Orus]
+Master Line 14341 → [Zubenelgenubi]
+Master Line 14343 → [Orus]
+Master Line 14349 → [Charon]
+Master Line 14352 → [Orus]
+Master Line 14359 → [Orus]
+Master Line 14361 → [Orus]
+Master Line 14376 → [Charon]
+Master Line 14379 → [Orus]
+Master Line 14440 → [Charon]
+Master Line 14443 → [Orus]
+Master Line 14459 → [Charon]
+Master Line 14462 → [Orus]
+Master Line 14484 → [Charon]
+Master Line 14487 → [Orus]
+Master Line 14494 → [Charon]
+Master Line 14497 → [Orus]
+Master Line 14509 → [Charon]
+Master Line 14512 → [Orus]
+Master Line 14541 → [Charon]
+Master Line 14544 → [Orus]
+Master Line 14556 → [Charon]
+Master Line 14559 → [Orus]
+Master Line 14562 → [Charon]
+Master Line 14565 → [Orus]
+Master Line 14568 → [Charon]
+Master Line 14571 → [Orus]
+Master Line 14574 → [Charon]
+Master Line 14576 → [Orus]
+Master Line 14583 → [Charon]
+Master Line 14585 → [Orus]
+Master Line 14592 → [Charon]
+Master Line 14604 → [Charon]
+Master Line 14612 → [Charon]
+Master Line 14618 → [Charon]
+Master Line 14622 → [Charon]
+Master Line 14630 → [Charon]
+Master Line 14634 → [Charon]
+Master Line 14638 → [Charon]
+Master Line 14644 → [Charon]
+Master Line 14648 → [Charon]
+Master Line 14658 → [Charon]
+Master Line 14671 → [Charon]
+Master Line 14674 → [Orus]
+Master Line 14693 → [Zubenelgenubi]
+Master Line 14696 → [Orus]
+Master Line 14705 → [Zubenelgenubi]
+Master Line 14710 → [Orus]
+Master Line 14715 → [Zubenelgenubi]
+Master Line 14718 → [Orus]
+Master Line 14742 → [Zubenelgenubi]
+Master Line 14745 → [Orus]
+Master Line 14754 → [Zubenelgenubi]
+Master Line 14759 → [Orus]
+Master Line 14770 → [Zubenelgenubi]
+Master Line 14773 → [Orus]
+Master Line 14776 → [Zubenelgenubi]
+Master Line 14779 → [Orus]
+Master Line 14790 → [Orus]
+Master Line 14792 → [Orus]
+Master Line 14808 → [Orus]
+Master Line 14811 → [Orus]
+Master Line 14872 → [Orus]
+Master Line 14875 → [Orus]
+Master Line 14888 → [Orus]
+Master Line 14891 → [Orus]
+Master Line 14908 → [Charon]
+Master Line 14911 → [Orus]
+Master Line 14930 → [Charon]
+Master Line 14933 → [Orus]
+Master Line 14967 → [Charon]
+Master Line 14970 → [Orus]
+Master Line 14973 → [Charon]
+Master Line 14976 → [Orus]
+Master Line 14995 → [Charon]
+Master Line 14998 → [Orus]
+Master Line 15013 → [Charon]
+Master Line 15016 → [Orus]
+Master Line 15029 → [Sulafat]
+Master Line 15034 → [Orus]
+Master Line 15037 → [Charon]
+Master Line 15040 → [Orus]
+Master Line 15049 → [Charon]
+Master Line 15052 → [Orus]
+Master Line 15067 → [Charon]
+Master Line 15070 → [Orus]
+Master Line 15095 → [Charon]
+Master Line 15098 → [Orus]
+Master Line 15115 → [Charon]
+Master Line 15118 → [Orus]
+Master Line 15135 → [Charon]
+Master Line 15138 → [Orus]
+Master Line 15141 → [Sulafat]
+Master Line 15144 → [Orus]
+Master Line 15155 → [Charon]
+Master Line 15158 → [Orus]
+Master Line 15176 → [Charon]
+Master Line 15179 → [Orus]
+Master Line 15194 → [Charon]
+Master Line 15197 → [Orus]
+Master Line 15240 → [Charon]
+Master Line 15246 → [Orus]
+Master Line 15250 → [Charon]
+Master Line 15252 → [Orus]
+Master Line 15257 → [Charon]
+Master Line 15259 → [Orus]
+Master Line 15264 → [Charon]
+Master Line 15266 → [Orus]
+Master Line 15271 → [Charon]
+Master Line 15273 → [Orus]
+Master Line 15277 → [Charon]
+Master Line 15279 → [Orus]
+Master Line 15284 → [Charon]
+Master Line 15286 → [Orus]
+Master Line 15291 → [Charon]
+Master Line 15293 → [Orus]
+Master Line 15298 → [Charon]
+Master Line 15300 → [Orus]
+Master Line 15304 → [Charon]
+Master Line 15306 → [Orus]
+Master Line 15311 → [Charon]
+Master Line 15313 → [Orus]
+Master Line 15317 → [Charon]
+Master Line 15319 → [Orus]
+Master Line 15324 → [Charon]
+Master Line 15326 → [Orus]
+Master Line 15331 → [Charon]
+Master Line 15333 → [Orus]
+Master Line 15337 → [Charon]
+Master Line 15339 → [Orus]
+Master Line 15344 → [Charon]
+Master Line 15348 → [Sulafat]
+Master Line 15350 → [Orus]
+Master Line 15354 → [Charon]
+Master Line 15356 → [Orus]
+Master Line 15360 → [Charon]
+Master Line 15362 → [Orus]
+Master Line 15364 → [Orus]
+Master Line 15367 → [Charon]
+Master Line 15369 → [Orus]
+Master Line 15373 → [Charon]
+Master Line 15375 → [Orus]
+Master Line 15379 → [Charon]
+Master Line 15383 → [Orus]
+Master Line 15387 → [Charon]
+Master Line 15389 → [Orus]
+Master Line 15394 → [Charon]
+Master Line 15396 → [Orus]
+Master Line 15399 → [Charon]
+Master Line 15401 → [Orus]
+Master Line 15405 → [Charon]
+Master Line 15408 → [Orus]
+Master Line 15411 → [Charon]
+Master Line 15413 → [Orus]
+Master Line 15417 → [Charon]
+Master Line 15419 → [Orus]
+Master Line 15424 → [Charon]
+Master Line 15426 → [Orus]
+Master Line 15429 → [Charon]
+Master Line 15433 → [Orus]
+Master Line 15438 → [Charon]
+Master Line 15440 → [Orus]
+Master Line 15445 → [Charon]
+Master Line 15447 → [Orus]
+Master Line 15451 → [Charon]
+Master Line 15453 → [Orus]
+Master Line 15457 → [Charon]
+Master Line 15459 → [Orus]
+Master Line 15463 → [Charon]
+Master Line 15465 → [Orus]
+Master Line 15468 → [Charon]
+Master Line 15472 → [Orus]
+Master Line 15477 → [Charon]
+Master Line 15479 → [Orus]
+Master Line 15485 → [Charon]
+
+NOTE: Chapter 28 continues with back-matter (chapter themes, etc.) 
+The above represents all narrative voice tags.
+
+================================================================================
+TOTAL TAGS MAPPED: 504
+READY FOR CHAPTER FILE INTEGRATION
+================================================================================
+
+USAGE INSTRUCTIONS:
+1. Match master file line numbers to content in each chapter file
+2. Insert voice tag at beginning of corresponding paragraph/dialogue
+3. Ensure tags appear on their own line before the text they apply to
+4. Verify all 504 tags are successfully placed
+
+For detailed character analysis and spiritual significance of each voice,
+see: VOICE_TAG_DETAILED_ANALYSIS.md

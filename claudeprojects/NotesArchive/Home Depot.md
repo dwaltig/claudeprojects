@@ -1,0 +1,26 @@
+# Home Depot  
+  
+- [x] Two bedroom door knobs with locks  
+- [x] Water airator - see picture  
+- [x] 10 utility covers  
+- [x] GPS 2020 Antique white 3 gals  
+- [x] AC Front room grill 16x8 (8.5x17) ordered  
+- [x] Draino  
+- [x] Mirror hangers - SEE PICTURE  
+- [x] AC Register 4x8 (6x10)  
+- [x] 12x6  
+- [x] Replace Bathroom fan  
+- [x] Light switch cover  
+- [x] Utilities outlet cover  
+- [x] Sink outlet cover  
+- [x] Kitchen light fixture  
+- [x] 18x18 air filter  
+- [x] 12x6  
+- [x] Front 2 light faceplate  
+- [x] Faceplate cover  
+- [x] One regular light faceplate  
+- [x] Stacked W/D w 27x75x30  
+- [x] 2 fire alarms  
+- [x] 7 door knobs  
+- [x] 2 bathroom door knobs  
+- [x] 1 front door with dead bolt  

@@ -1,0 +1,1 @@
+My lyrics about finding enlightenment are meant to be inspiring! I Hope have to use rap to share my spiritual journey. It's awesome that we’ve blended different styles of music with Buddhist teachings. Help me to keep up the great work!  

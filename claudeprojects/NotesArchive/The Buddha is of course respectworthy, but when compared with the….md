@@ -1,0 +1,1 @@
+The Buddha is of course respectworthy, but when compared with the Lotus Sutra he is like a firefly beside the sun or moon. The superiority of the Lotus Sutra to Shakyamuni Buddha is as great as the distance from heaven to earth. Presenting offerings to the Bud- dha produces benefits like that. How much more so is this true of the Lotus Sutra?  

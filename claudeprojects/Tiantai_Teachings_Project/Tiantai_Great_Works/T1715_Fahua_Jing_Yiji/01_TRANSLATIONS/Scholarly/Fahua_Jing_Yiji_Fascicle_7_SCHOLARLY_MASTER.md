@@ -1,0 +1,50 @@
+# Fahua Jing Yiji - Fascicle 7: Prophecies & Phantom City (Scholarly)
+
+## Source Text (T.1715)
+> 授記品第六... 此品中為四人授當果之記...
+> 化城喻品第七... 譬如五百由旬... 嶮難惡道曠絕無人...
+> 導師多諸方便... 告眾人言：汝等勿怖，隨汝所欲皆當與汝... 今此大城... 即滅化城。
+
+## 🏛️ The Guangzhai Master's Translation
+
+"**1. The Nature of Prophecy (*Shòujì*):**
+Fayun explains that 'Prophecy' involves two aspects:
+1.  **The Granting (*Shòu*):** The Buddha's act of giving the prediction (The Teacher's side).
+2.  **The Receiving (*Jì*):** The disciple's act of taking the assurance of future Buddhahood (The Student's side).
+Prophecy is not just a 'fortune telling'; it is the formalizing of the 'One Vehicle' cause. It transforms the Arhat's mind into a Bodhisattva's mind by giving them a specific target (a future Buddha-name and land).
+
+**2. The Parable of the Phantom City (*Huàchéng Pì*):**
+Fayun breaks this down into five logical sub-metaphors:
+1.  **The Guide:** The Buddha.
+2.  **The Travelers:** Sentient beings seeking the Treasure.
+3.  **The Difficult Path:** The 500 *yojanas* of the Three Realms and the secondary afflictions.
+4.  **The Phantom City:** Nirvana as understood by the Sravakas. It is a 'conjured' city, a place to rest, not the final destination.
+5.  **The Treasure Land:** The ultimate Buddhahood (One Vehicle).
+
+**3. The '300 and 500' Logic:**
+Fayun argues that the 300 *yojanas* represent the point where the Sravakas 'rest' in Arhatship (The Phantom City). The final 200 *yojanas* represent the distance from Arhatship to Buddhahood. The Phantom City is necessary because the travelers are 'exhausted' and 'terrified' by the long road. Without the rest stop, they would give up and turn back."
+# Fahua Jing Yiji - Fascicle 7: The Mass Prophecy & The Jeweled Stupa (Scholarly)
+
+## Source Text (T.1715)
+> 授學無學人記品第九... 佛告阿難汝於來世...
+> 爾時世尊見學無學人其意柔軟... 
+> 見寶塔品第十一... 爾時寶塔中出大音聲...
+> 爾時釋迦牟尼佛見所分身佛悉已來集... 即時以右指開七寶塔戶。
+
+## 🏛️ The Guangzhai Master's Translation
+
+"**1. The Prophecy for Ananda and Rahula:**
+Fayun explains why these two specific disciples are singled out in Chapter 9:
+*   **Ananda:** Represents those who are 'Learners' (*Xué*). He is the Keeper of the Dharma Storehouse. His prophecy ensures the transmission of the teaching.
+*   **Rahula:** Represents the 'Non-Learners' (*Wú Xué* - in practice, though technically he might still be learning in some classifications, here he stands for the quiet practice). As the Buddha's biological son, his prophecy resolves the doubt that 'family connection' is a barrier to enlightenment.
+
+**2. The Prophecy for the 2,000:**
+The simultaneous prophecy for the 2,000 Learners and Non-Learners signifies the 'Universal Rain.' It shows that the One Vehicle is not just for the elite leaders (like Sariputra and Kashyapa) but for the mass of the Sangha. Fayun notes they all receive the same title: **Jewel Sign Tathagata** (*Baoxiang Rulai*), indicating the uniformity of their realization.
+
+**3. The Jeweled Stupa (*Bǎo Tǎ*):**
+Fayun divides the miraculous appearance of the Stupa into specific doctrinal functions:
+1.  **Verification (*Zhèng Míng*):** The Stupa rises from the earth to verify the truth of the Lotus Sutra. The past Buddha (Many Jewels) comes to witness the present Buddha (Shakyamuni).
+2.  **The Two Buddhas Seated Together:** When Shakyamuni opens the Stupa and sits next to Many Jewels, it symbolizes the **Non-Duality of the Trace and the Origin**.
+    *   *Many Jewels:* Represents the Eternal Dharma Body (Origin).
+    *   *Shakyamuni:* Represents the Manifested Response Body (Trace).
+    *   *Sitting Together:* Shows that the Phenomenal and the Noumenal are one reality."

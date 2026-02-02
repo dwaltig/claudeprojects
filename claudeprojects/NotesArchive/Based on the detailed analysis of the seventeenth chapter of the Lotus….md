@@ -1,0 +1,8 @@
+Based on the detailed analysis of the seventeenth chapter of the *Lotus Sūtra* ("Discrimination of Merit and Virtue"), the following comma-separated SEO search tags are supported by the source material:  
+**Core Texts and Concepts** Lotus Sūtra, Saddharmapuṇḍarīka-sūtra, King of Sūtras, Chapter 17, Discrimination of Merit and Virtue, Fumbetsu Kudoku Hon, Mahāyāna Buddhism, Devotional Practices, Skillful Means, Upāya, Eternal Buddha, Dharma Body, Dharmakāya.  
+**Spiritual Goals and Merit** Limitless Merit, Puṇya, Virtue (De), Merit Transference, Pariṇāmanā, Bodhisattva Path, Bodhisattva ideal, Compassion, Enlightenment, Awakening, Buddha-nature, Pure Land, Non-duality.  
+**Specific Devotional Acts (The Five Practices and Offerings)** Faith (Śraddhā), Keeping the Sutra, Reading the Sutra, Reciting the Sutra, Sūtra Copying, Shakyō, Making Offerings, Flowers (Puṣpa), Incense (Dhūpa), Light Offering, Wisdom (Prajñā).  
+**East Asian Traditions** Tiantai, Tendai, Nichiren, One Vehicle (Ekayāna), Daimoku, Namu Myōhō-renge-kyō, Final Dharma Age (mappō).  
+  
+**Comma Separated List:**  
+**Lotus Sūtra, Saddharmapuṇḍarīka-sūtra, King of Sūtras, Chapter 17, Discrimination of Merit and Virtue, Mahāyāna Buddhism, Devotional Practices, Skillful Means, Upāya, Eternal Buddha, Dharma Body, Limitless Merit, Puṇya, Virtue, Merit Transference, Pariṇāmanā, Bodhisattva Path, Compassion, Enlightenment, Awakening, Pure Land, Non-duality, Faith, Śraddhā, Keeping the Sutra, Reading the Sutra, Reciting the Sutra, Sūtra Copying, Shakyō, Making Offerings, Flowers, Incense, Light Offering, Wisdom, Prajñā, Tiantai, Tendai, Nichiren, Daimoku, Namu Myōhō-renge-kyō, Final Dharma Age**.  

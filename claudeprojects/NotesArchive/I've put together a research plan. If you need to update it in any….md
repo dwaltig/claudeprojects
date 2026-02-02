@@ -1,0 +1,13 @@
+# I've put together a research plan. If you need to update it in any way, let me know.  
+  
+Lotus Sūtra and Kannon's Compassion  
+Research Websites  
+If anyone, guilty or not, calls the name of World-Voice-Perceiver Bodhisattva when he is bound up in manacles, fetters, pillories or chains, those things [in which he is bound up] will break asunder, and he will be saved. The Buddha gives this description of World-Voice-Perceiver Bodhisattva (Kannon, Kanzeon, Kuan Yin, Avalokitesvara) to Endless-Intent Bodhisattva in Chapter Twenty-Five of the Lotus Sūtra. The bonds of ignorance and delusion in which we find ourselves are not the result of our personal inadequacy, and neither do they come entirely from the circumstances of the world around us. But these bonds are real, and in our struggles to escape we often just make them worse. When we remember World-Voice Perceiver, the embodiment of compassion, and call on her for help, then we awaken compassion within ourselves and others in the world, and break the bonds of delusion for everyone. (1) Search for the exact quote provided from Chapter Twenty-Five of the Lotus Sūtra to verify its accuracy and context within the chapter. (2) Research the different names mentioned for World-Voice-Perceiver Bodhisattva (Kannon, Kanzeon, Kuan Yin, Avalokitesvara) and their corresponding origins and usage in different Buddhist traditions. (3) Explore the Buddhist concept of "bonds of ignorance and delusion" as described in the Lotus Sūtra and related Buddhist teachings. (4) Investigate the significance of compassion (as embodied by World-Voice-Perceiver Bodhisattva) in the context of breaking free from these "bonds" according to the Lotus Sūtra. (5) Find different interpretations and commentaries on this specific passage from Chapter Twenty-Five of the Lotus Sūtra by various Buddhist scholars and practitioners. (6) Research the overall themes and teachings of the Lotus Sūtra to understand the broader context of this description of World-Voice-Perceiver Bodhisattva. (7) Explore the symbolism of the physical bonds (manacles, fetters, pillories, chains) in relation to the metaphorical "bonds of ignorance and delusion" in Buddhist philosophy. (8) Investigate how the practice of calling upon World-Voice-Perceiver Bodhisattva is understood and practiced in different Buddhist communities and traditions.  
+Analyze Results  
+  
+Create Report  
+  
+Ready in a few mins  
+  
+  
+A research plan has been prepared for the Lotus Sūtra and Kannon’s Compassion. The plan includes researching the quote from Chapter Twenty-Five, exploring the concept of “bonds of ignorance and delusion,” and investigating the significance of compassion in breaking free from these bonds.  

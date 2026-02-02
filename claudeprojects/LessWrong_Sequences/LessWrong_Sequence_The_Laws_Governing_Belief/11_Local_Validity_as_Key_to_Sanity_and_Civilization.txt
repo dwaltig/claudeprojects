@@ -1,0 +1,48 @@
+Local Validity as a Key to Sanity and Civilization
+Eliezer Yudkowsky
+
+## 0.
+Tl;dr: There's a similarity between these three concepts:
+- A locally valid proof step in mathematics is one that, in general, produces only true statements from true statements. This is a property of a single step, irrespective of whether the final conclusion is true or false.
+- There's such a thing as a bad argument even for a good conclusion. In order to arrive at sane answers to questions of fact and policy, we need to be curious about whether arguments are good or bad, independently of their conclusions. The rules against fallacies must be enforced even against arguments for conclusions we like.
+- For civilization to hold together, we need to make coordinated steps away from Nash equilibria in lockstep. This requires general rules that are allowed to impose penalties on people we like or reward people we don't like. When people stop believing the general rules are being evaluated sufficiently fairly, they go back to the Nash equilibrium and civilization falls.
+
+## i.
+The notion of a locally evaluated argument step is simplest in mathematics, where it is a formalizable idea in model theory. In math, a general type of step is 'valid' if it only produces semantically true statements from other semantically true statements, relative to a given model.
+
+Once you've grasped that, it may even be possible to convince you of mathematical results that sound counterintuitive. When your understanding of the rules governing allowable argument steps has become stronger than your faith in your ability to judge whole intuitive conclusions, you may be convinced of truths you would not otherwise have grasped.
+
+## ii.
+More generally in life, even outside of mathematics, there such things as bad arguments for good conclusions.
+
+One of the marks of an intellectually strong mind is that they are able to take a curious interest in whether a particular argument is a good argument or a bad argument, independently of whether they agree with the conclusion of that argument.
+
+The second person has something more like the strict mindset of a mathematician when it comes to local validity. They are able to praise some proof steps as obeying the rules, irrespective of which side those steps are on, without a sense that they are thereby betraying their side.
+
+## iii.
+This essay has been bubbling in the back of my mind since I read that potential juror #70 for the Martin Shkreli trial was rejected when they replied, "I can be fair to one side but not the other." why that was possibly a harbinger of the collapse of civilization.
+
+This is a conceptual knot that results from not explicitly distinguishing game theory from goodness. There is an intuitive idea that ideally the Law is supposed to embody a subset of morality. But there's more than one function of legal codes. You can also look at laws as a kind of game theory played with people who might not share your morality at all.
+
+In its function as game theory, the law (ideally) enables people with different utility functions to move from bad Nash equilibria to better Nash equilibria, closer to the Pareto frontier. Everything rests on notions like "fairness", "impartiality", "equality before the law". If the so-called law punishes your defection but lets the other's defection pass, it is in your interest to blow up the current equilibrium.
+
+## iv.
+The way humans do law, it depends on the existence of what feel like simple general rules that apply to all cases. This is not a universal truth of decision theory, it's a consequence of our cognitive limitations.
+
+The Law also breaks down if people start believing that, when the simple rules say one thing, the deciders will instead look at whose ox got gored, evaluate their personal interest, and enforce a different conclusion instead.
+
+## v.
+The game-theoretic function of law can make following those simple rules feel like losing something. You don't get that delicious (5, 0) payoff instead of (3, 3). So long as the rules are seen as moving from a bad global equilibrium to a global equilibrium seen as better, and so long as the rules are mostly-equally enforced on everyone, people are sometimes able to take a step backward and see that larger picture.
+
+This mental motion goes by names like "justice", "fairness", and "impartiality". It has ancient exemplars like the Chinese general who sentenced his own son to death for looting. If you don't have some people like that, and you don't appreciate what they're trying to do even when they rule against you, sooner or later your tribe ends.
+
+The notion that you can "be fair to one side but not the other", that what's called "fairness" is a kind of favor you do for people you like, says even the instinctive sense people had of law-as-game-theory is being lost in the modern memetic collapse.
+
+## vi.
+The mental motion to evenhandedly apply The Rules irrespective of their conclusion is a kind of thinking that human beings appreciate intuitively. In fact, we appreciate The Law more natively than we appreciate the notion of local syntactic rules capturing semantically valid steps in mathematical proofs.
+
+So the legal metaphor is where a lot of people get started on epistemology: by seeing the local rules of valid argument as The Law, fallacies as crimes. The unusually healthy of mind will reject bad allied arguments with an emotional sense of practicing the way of an impartial judge.
+
+It's ironic, because there is no game theory and no morality to the true way of the map that reflects the territory. A paperclip maximizer would also strive to debias its cognitive processes, alone in its sterile universe.
+
+I've just sometimes thought of late that it would be nice if more of the extremely basic rules of thinking were written down.

@@ -1,0 +1,24 @@
+Say Not "Complexity"
+Eliezer Yudkowsky
+
+This is a story from when I first met Marcello. I had asked Marcello to say how he thought an AI might discover how to solve a Rubik’s Cube. At some point in this discussion, Marcello said: “Well, I think the AI needs complexity to do X, and complexity to do Y—”
+
+And I said, “Don’t say ‘complexity.’ ”
+
+Marcello said, “Why not?”
+
+I said, “Complexity should never be a goal in itself. You may need to use a particular algorithm that adds some amount of complexity, but complexity for the sake of complexity just makes things harder.” (I was thinking of the people advocating that the Internet would “wake up” when it became “sufficiently complex.”)
+
+And Marcello said, “But there’s got to be some amount of complexity that does it.”
+
+I said, “Saying ‘complexity’ doesn’t concentrate your probability mass.”
+
+“Oh,” Marcello said, “like ‘emergence.’ Huh. So . . . now I’ve got to think about how X might actually happen . . .”
+
+Complexity is not a useless concept. It has mathematical definitions. But concepts are not useful or useless of themselves. Only usages are correct or incorrect. Marcello was trying to explain something for free. It is an extremely common misstep. You can join a discussion on AGI and watch people doing the same thing—constantly skipping over things they don’t understand.
+
+What you must avoid is skipping over the mysterious part; you must linger at the mystery to confront it directly. There are many words that can skip over mysteries—“complexity,” for example. But the essential mistake is that skip-over. You have to pay close attention to catch yourself at it. And when you train yourself to avoid skipping, it will become a matter of instinct. You have to feel which parts of your map are still blank.
+
+I suspect academia has huge pressure to sweep problems under the rug to present a paper with the appearance of completeness. You’ll get more kudos for a seemingly complete model that includes some “emergent phenomena,” versus an explicitly incomplete map where the label says “I got no clue.”
+
+Marcello and I developed a convention: when we ran into something we didn’t understand, we would say “magic”—to remind ourselves that here was an unsolved problem. It is far better to say “magic” than “complexity” or “emergence”; the latter words create an illusion of understanding. Wiser to say “magic,” and leave yourself a placeholder.

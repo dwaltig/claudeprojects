@@ -1,0 +1,1 @@
+The William Altig Choir is sharing our passion for language and music. Inspired by the teachings of the Lotus Sutra, we create heartfelt songs that explore ancient wisdom for our modern age. Follow along as we blend Blues, Jazz, Country, Rap, and Folk to bring timeless stories to life. Always learning, always growing.  

@@ -1,0 +1,4 @@
+**Today’s Affirmation:***  "I will receive divine guidance to reveal the things and people that no longer fit on my path and how to let them know there is room for me to receive the abundant gifts the Universe has waiting for me."*  
+**Today’s Affirmation:***  "I will receive divine guidance to reveal the things and people that no longer fit on my path and how to let them know there is room for me to receive the abundant gifts the Universe has waiting for me."*  
+**Today’s Affirmation:***  "I will receive divine guidance to reveal the things and people that no longer fit on my path and how to let them know there is room for me to receive the abundant gifts the Universe has waiting for me."*  
+**Today’s Affirmation:***  "I will receive divine guidance to reveal the things and people that no longer fit on my path and how to let them know there is room for me to receive the abundant gifts the Universe has waiting for me."*  

@@ -1,0 +1,118 @@
+:
+
+🪷
+— • —
+Production Notes for Print & Digital Editions
+
+Immeasurable Meanings Sutra – Formatting Guide
+(Friendly Radiant Lotus Edition)
+
+🌿 Overview
+
+This guide outlines the formatting and layout choices used in
+The Immeasurable Meanings Sutra: A Blues Translation (Master Edition, 2025).
+It ensures consistency for future projects and updates in the Songs of Awakening series.
+
+✨ General Formatting
+
+Trim Size: 6″ × 9″ (Trade Paperback, KDP Standard)
+
+Font Family: Georgia (Regular, 11 pt body / 12 pt verse lines)
+
+Line Spacing: 1.15 for prose, single for verse
+
+Text Color: Standard black (#000000)
+
+Alignment: Justified text with left-aligned verse indentations
+
+Paragraph Indent: 0.25″ (first line, except for verse stanzas)
+
+Margins: 1″ top, bottom, and outside; 1.25″ inside (for binding)
+
+📘 Front Matter
+
+Half-Title Page – Centered title only
+
+Full Title Page – Title, subtitle, author, imprint
+
+Copyright Page – Legal text + publication info
+
+Dedication Page – Centered poetic dedication
+
+Table of Contents – Hyperlinked; italic note: “Click any title below to jump to that section.”
+
+Opens automatically in Print Layout view
+
+🎶 Chapter Layout
+
+Chapter Header: Centered “✦” symbol above title
+
+Title Font: Georgia, 14 pt, Bold
+
+Drop Cap: 2-line height, left-aligned on first paragraph
+
+Section Dividers: Centered “— • —”
+
+Spacing: One blank line before and after dividers
+
+Verse Formatting:
+
+Italics for emphasis or sutra quotations
+
+Line breaks preserved exactly as written
+
+No forced justification for short lines
+
+📄 Additional Elements
+
+Headers:
+
+Left pages: The Immeasurable Meanings Sutra: A Blues Translation
+
+Right pages: William Altig
+
+Suppressed on first page of each chapter
+
+Page Numbers:
+
+Start after the dedication page
+
+Centered in footer
+
+Notes & Glossary: Placeholder headers included for future use
+
+About the Author: Includes Book Description, Bio, and SEO Tags
+
+Final Page:
+
+Divider “— • —”
+
+Italicized closing line: End of Text — The Immeasurable Meanings Sutra: A Blues Translation, 2025
+
+One blank page following
+
+🔖 Digital Navigation
+
+Invisible Word Bookmarks:
+HalfTitle, TitlePage, Copyright, Dedication, TableOfContents, Introduction, Preface, Chapter1, Chapter2, Chapter3, Notes, Glossary, AboutAuthor, ClosingNote
+
+Hyperlinked TOC auto-generates links for each bookmark
+
+Kindle Create compatible
+
+🧭 Editing Notes
+
+Document left unlocked for full future editing
+
+Designed to preserve blues-poetic line rhythm
+
+When converting to EPUB, ensure “Preserve line breaks” is selected
+
+If exporting to PDF for print, check margin bleed on 6×9 KDP template
+
+🪷 Signature
+
+Prepared by Radiant Lotus Publishing Assistant for William Altig, 2025
+
+Version 1.0 – Initial Master Edition (October 2025)
+For Internal Use Only — Not for Distribution

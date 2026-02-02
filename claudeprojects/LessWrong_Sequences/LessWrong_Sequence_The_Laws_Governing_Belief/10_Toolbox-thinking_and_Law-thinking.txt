@@ -1,0 +1,20 @@
+Toolbox-thinking and Law-thinking
+Eliezer Yudkowsky
+
+Not to commit the fallacy of the golden mean or anything, but the two viewpoints are both metatools in the metatoolbox, as it were. You're better off if you can use both in ways that depend on context and circumstance, rather than insisting that only toolbox reasoning is the universally best context-insensitive metaway to think.
+
+Thinking in terms of Law is often useful. You just have to be careful to understand the context and the caveats: when is the right time to think in Law, how to think in Law, and what type of problems call for Lawful thinking.
+
+Thermodynamics still holds even at times, like playing tennis, when it's not a good time to be thinking about thermodynamics. If you thought that every Law had exceptions because it wasn't always useful to think about that Law, you'd be rejecting the metatool of Law entirely, and thinking in toolbox terms at a time when it wasn't useful to do so.
+
+To close out, one recipe I'd prescribe to reduce confusion in the toolbox-inclined is to try to see the Laws as descriptive statements, rather than being any kind of normative ideal at all.
+
+The idea that there's a shortest path through the maze isn't a "normative ideal" instead of a "prescriptive ideal", it's just true. Once you define distance there is in fact a shortest path through the maze.
+
+The statement that you can't have a heat-pressure engine more efficient than a Carnot cycle isn't about gathering in a cultish circle to sing praises of the Carnot cycle as being the ideally best possible kind of engine. It's just a true fact of thermodynamics.
+
+You can't extract any more evidence from an observation than is given by its likelihood ratio. This is a law saying that you can't get a higher expected score by making any different update. This is a generalization that holds over both Bayes-inspired recipes and non-Bayes-inspired recipes.
+
+It's a relatively shallow understanding of the coherence theorems to say "Well, they show that if you don't use probabilities and expected utilities you'll be incoherent, which is bad, so you shouldn't do that." It's a deeper understanding to state, "If you do something that is incoherent in way X, it will correspond to a dominated strategy in fashion Y. This is a universal generalization that is true about every tool in the statistical toolbox."
+
+In simpler matters of math and science, a "normative ideal" like the Carnot cycle or Bayesian decision theory is almost always the manifestation of some simpler fact that is so closely related to something we want that we are tempted to take one step to the right and view it as a "normative ideal". If you're allergic to normative ideals, maybe a helpful course would be to discard the view of whatever-it-is as a normative ideal and try to understand it as a fact.

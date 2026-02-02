@@ -1,0 +1,18 @@
+Expecting Short Inferential Distances
+Eliezer Yudkowsky
+
+Homo sapiens’s environment of evolutionary adaptedness consisted of hunter-gatherer bands of at most 200 people, with no writing. All inherited knowledge was passed down by speech. In a world like that, all background knowledge is universal.
+
+In the ancestral environment, you were unlikely to end up more than one inferential step away from anyone else. When you discover an oasis, you don’t have to explain what an oasis is. Everyone has the background to understand your description. You almost never have to explain your concepts.
+
+In the ancestral environment, anyone who says something with no obvious support is a liar or an idiot. You’re not likely to think they have well-supported background knowledge you haven't heard of. Conversely, if you say something obvious and the other person doesn’t see it, they’re the idiot or being obstinate.
+
+Combined with the illusion of transparency and self-anchoring, this explains the difficulty scientists have in communicating. Explainers often take one step back when they need to take two or more. Listeners assume things should be visible in one step. Both sides expect very short inferential distances.
+
+A biologist might justify evolution as the "simplest explanation." To them, this is a Word of Power. To a layperson, it sounds like an interesting but hardly knockdown argument. They might think the biologist is arrogant. From the biologist’s perspective, if someone rejects evolution after that explanation, they must be an idiot.
+
+A clear argument has to lay out an inferential pathway, starting from what the audience already accepts. If you don’t recurse far enough, you’re just talking to yourself.
+
+This also happens when you attach greater weight to an argument than is justified in the eyes of the audience. And you’d better not drop hints that you think you have special background knowledge. They’ll just think you’re condescending.
+
+And if you think you can explain the concept of “systematically underestimated inferential distances” briefly, in just a few words, I’ve got some sad news for you . . .

@@ -1,0 +1,262 @@
+================================================================================
+CHAPTER FORMATTING FIXES - BEFORE AND AFTER EXAMPLES
+================================================================================
+
+This document shows concrete examples of each formatting inconsistency 
+and the recommended fixes.
+
+================================================================================
+EXAMPLE 1: CHAPTER CLOSING FORMAT INCONSISTENCY
+================================================================================
+
+INCONSISTENCY: Some chapters have title in "END OF CHAPTER" line, others don't
+
+BEFORE (Line 3230 - Chapter 3):
+---
+END OF CHAPTER THREE
+
+TRANSLATION NOTES:
+
+---
+
+AFTER (Recommended - add title for consistency):
+---
+END OF CHAPTER THREE: THE PARABLE
+
+TRANSLATION NOTES:
+
+---
+
+WHY: The opening header is "CHAPTER THREE: THE PARABLE" so the closing 
+should match with the full title for parallel structure.
+
+SIMILAR FIXES NEEDED (18 total):
+  Line 3230: Add "THE PARABLE"
+  Line 4424: Add "THE PARABLE OF THE MEDICINAL HERBS"
+  Line 6021: Add "WHEN THE FIVE HUNDRED FINALLY HEARD THEIR NAMES CALLED"
+  Line 6213: Add "WHEN THE FAITHFUL GET THEIR DUE"
+  Line 6555: Add "HONOR THE WORD-CARRIERS"
+  Line 6997: Add "WHEN THE JEWELED TOWER ROSE UP"
+  Line 7305: Add "WHEN YOUR ENEMY WAS YOUR TEACHER"
+  Line 7620: Add "WHEN THE ROAD GETS ROUGH, YOU GOTTA KEEP WALKING"
+  Line 8273: Add "HOW TO KEEP YOUR SOUL CLEAN WHEN THE WORLD'S GONE WRONG"
+  Line 8803: Add "WHEN THE UNDERGROUND ARMY ROSE UP"
+  Line 10207: Add "THE JOY THAT MULTIPLIES"
+  Line 10959: Add "WHEN YOUR SENSES WAKE UP"
+  Line 11173: Add "THE BODHISATTVA WHO NEVER LOOKED DOWN"
+  Line 11559: Add "WHEN THE LORD SHOWED HIS HAND"
+  Line 11914: Add "THE PASSING ON"
+  Line 12910: Add "WONDERFUL SOUND BODHISATTVA"
+  Line 13463: Add "THE ONE WHO HEARS THE WORLD CRYING"
+  Line 13903: Add "THE PROTECTION SONGS"
+
+================================================================================
+EXAMPLE 2: SUBTITLE ATTRIBUTION INCONSISTENCY
+================================================================================
+
+INCONSISTENCY: Only Chapters 1-7 have attribution subtitles; Chapters 8-28 don't
+
+BEFORE (Line 291-293 - Chapter 1):
+---
+CHAPTER ONE: THE OPENING
+A Blues Translation from the Classical Chinese
+
+---
+
+AFTER (Recommended - remove for consistency with Chapters 8-28):
+---
+CHAPTER ONE: THE OPENING
+
+---
+
+WHY: Only 5 out of 28 chapters have this subtitle. Removing it brings 
+consistency with the final 22 chapters which have no attribution subtitles.
+
+SIMILAR FIXES (5 total to remove):
+  Line 292: DELETE "A Blues Translation from the Classical Chinese"
+  Line 982: DELETE "Blues Translation from Classical Chinese by Kumārajīva"
+  Line 1933: DELETE "(Blues Translation from Classical Chinese)"
+  Line 4068: DELETE "A Blues Translation from Kumārajīva's Classical Chinese"
+  Line 4841: DELETE "A Blues Translation from Kumārajīva's Classical Chinese"
+
+================================================================================
+EXAMPLE 3: SEPARATOR LINE INCONSISTENCY
+================================================================================
+
+INCONSISTENCY: Some chapters have "---", Chapter 3 has "***", most have neither
+
+BEFORE (Line 1933-1936 - Chapter 3):
+---
+CHAPTER THREE: THE PARABLE
+(Blues Translation from Classical Chinese)
+
+***
+
+ŚĀRIPUTRA'S JOY
+
+---
+
+AFTER Option A (Recommended - remove all separators):
+---
+CHAPTER THREE: THE PARABLE
+
+ŚĀRIPUTRA'S JOY
+
+---
+
+AFTER Option B (Alternative - standardize to "---"):
+---
+CHAPTER THREE: THE PARABLE
+
+---
+
+ŚĀRIPUTRA'S JOY
+
+---
+
+WHY Option A: Cleaner appearance; no separators needed with section headers
+WHY Option B: Adds visual separation if deemed important
+
+SIMILAR FIXES (if removing all):
+  Line 294: DELETE "---" (Chapter 1)
+  Line 1935: DELETE "***" or change to "---" (Chapter 3)
+  Line 4070: DELETE "---" (Chapter 5)
+  Line 4844: DELETE "---" (Chapter 7)
+  Plus: Multiple "***" in Chapter 3 verses (lines 1947-2314)
+
+================================================================================
+EXAMPLE 4: LOWERCASE DUPLICATE CHAPTER HEADER INCONSISTENCY
+================================================================================
+
+INCONSISTENCY: Chapters 3-6 and 25-26 have lowercase headers after chapter ends
+
+BEFORE (Lines 3230-3235 - Chapter 3):
+---
+END OF CHAPTER THREE
+
+TRANSLATION NOTES:
+
+Chapter 3: 
+(The Burning House)
+
+---
+
+AFTER (Recommended - remove lowercase headers entirely):
+---
+END OF CHAPTER THREE: THE PARABLE
+
+TRANSLATION NOTES:
+
+[Notes content begins here]
+
+---
+
+WHY: These lowercase headers appear to be formatting artifacts. They appear 
+AFTER the chapter ends and after TRANSLATION NOTES begins, which is illogical. 
+None of the other chapters have this pattern.
+
+SIMILAR FIXES (6 total to remove):
+  Lines 3234-3235: DELETE "Chapter 3:" and "(The Burning House)"
+  Line 4046: DELETE "Chapter 4:"
+  Line 4429: DELETE "Chapter 5"
+  Line 4819: DELETE "Chapter 6"
+  Lines 14048-14049: DELETE "Chapter 25 (Avalokiteshvara)..." and "Chapter 26 (Dharani)..."
+
+================================================================================
+EXAMPLE 5: SEPARATOR WITH INCONSISTENT SUBTITLE
+================================================================================
+
+BEFORE (Lines 4065-4072 - Chapter 5):
+---
+CHAPTER FIVE: THE PARABLE OF THE MEDICINAL HERBS
+A Blues Translation from Kumārajīva's Classical Chinese
+
+---
+
+PART ONE: THE BUDDHA PRAISES MAHĀKĀŚYAPA
+
+---
+
+AFTER (Recommended - remove both subtitle and separator):
+---
+CHAPTER FIVE: THE PARABLE OF THE MEDICINAL HERBS
+
+PART ONE: THE BUDDHA PRAISES MAHĀKĀŚYAPA
+
+---
+
+WHY: Removes two sources of inconsistency (subtitle and separator) while 
+maintaining clear section headers like "PART ONE".
+
+================================================================================
+SUMMARY OF RECOMMENDED CHANGES
+================================================================================
+
+Four main types of fixes:
+
+TYPE 1: CHAPTER CLOSING TITLES (18 lines to modify)
+  Action: Add chapter title to all "END OF CHAPTER X" lines
+  Format: "END OF CHAPTER X: [TITLE]"
+  Time: 20-30 minutes
+  Risk: VERY LOW
+
+TYPE 2: REMOVE SUBTITLE ATTRIBUTIONS (5 lines to delete)
+  Action: Delete attribution lines after chapter headers
+  Chapters: 1, 2, 3, 5, 7
+  Time: 5 minutes
+  Risk: LOW
+
+TYPE 3: REMOVE LOWERCASE HEADERS (6-8 lines to delete)
+  Action: Delete duplicate lowercase chapter headers
+  Chapters: 3, 4, 5, 6, 25, 26
+  Time: 5-10 minutes
+  Risk: LOW
+
+TYPE 4: SEPARATOR LINES (4-30 lines decision-dependent)
+  Action: Either remove all OR standardize to "---"
+  Recommendation: Remove all (5 lines) for clean look
+  Alternative: Add "---" to all 28 chapters (~24 new lines)
+  Time: 10-20 minutes
+  Risk: MEDIUM (depends on decision)
+
+================================================================================
+TOTAL CHANGES FOR COMPLETE STANDARDIZATION
+================================================================================
+
+Lines to DELETE:     ~15-20 lines
+Lines to MODIFY:     ~18 lines
+Lines to ADD:        0 lines (if removing separators) OR ~24 lines (if adding)
+
+Total effort:        ~1 hour 10 minutes
+Risk level:          LOW
+Complexity:          Very simple (mostly text deletion and replacement)
+
+================================================================================
+STANDARD FORMAT AFTER ALL FIXES
+================================================================================
+
+CHAPTER ONE: THE OPENING
+
+[Chapter content - no separator line]
+
+END OF CHAPTER ONE: THE OPENING
+
+TRANSLATION NOTES:
+
+[Translation notes content]
+
+---
+
+CHAPTER TWO: THE LOVING TRICKS
+
+[Chapter content]
+
+END OF CHAPTER TWO: THE LOVING TRICKS
+
+TRANSLATION NOTES:
+
+[Translation notes content]
+
+[etc. - pattern repeats for all 28 chapters]
+
+================================================================================

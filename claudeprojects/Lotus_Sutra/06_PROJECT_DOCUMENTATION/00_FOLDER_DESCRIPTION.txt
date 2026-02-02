@@ -1,0 +1,12 @@
+================================================================================
+06_PROJECT_DOCUMENTATION
+================================================================================
+
+PURPOSE: Project guides, summaries, and metadata
+
+This folder contains organized materials related to:
+Project guides, summaries, and metadata
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

@@ -1,0 +1,471 @@
+================================================================================
+LOTUS SUTRA PROJECT - MASTER INDEX & NAVIGATION
+================================================================================
+
+ORGANIZED: November 9, 2025
+CREATOR: William Altig
+
+================================================================================
+QUICK START: WHERE TO FIND WHAT YOU NEED
+================================================================================
+
+LOOKING FOR...                          →  GO TO...
+─────────────────────────────────────────────────────────────────────────────
+
+Complete finished translations          →  00_MASTER_VERSIONS/
+The three complete versions side-by-side
+
+Your Blues interpretation               →  01_BLUES_INTERPRETATION/
+All Blues versions in various formats
+
+Scholarly English translation           →  03_SCHOLARLY_TRANSLATION_2025/
+Academic version with all 1,554 footnotes (AUTHORITATIVE)
+
+Original Chinese source text            →  03_CLASSICAL_CHINESE/
+Classical Chinese (Kumārajīva, 406 CE)
+
+Audio production materials              →  04_AUDIO_PRODUCTION/
+Voice tags, narration, chapters with tags
+
+Scholarly articles you've written       →  05_SCHOLARLY_ARTICLES/
+Academic papers and research
+
+Project guides and documentation        →  06_PROJECT_DOCUMENTATION/
+How to use this project, creation reports
+
+Publishing & distribution materials     →  07_PUBLISHING_MATERIALS/
+Book proposals, query letters, publishing info
+
+Reference materials                     →  08_REFERENCE_MATERIALS/
+Glossaries, voice guides, terminology, pronunciation
+
+Working drafts & experimental versions  →  09_WORKING_DRAFTS/
+Draft chapters, scripts, previous iterations
+
+Archive & older materials               →  10_ARCHIVE/
+Historical versions, backups, superseded files
+
+================================================================================
+FOLDER ORGANIZATION OVERVIEW
+================================================================================
+
+00_MASTER_VERSIONS/
+───────────────────
+Purpose: Complete, publication-ready translations
+Contains:
+  ├─ LS_final_version/ (organized preservation folder with all 3 versions)
+  ├─ THE_LOTUS_SUTRA_OF_THE_WONDERFUL_DHARMA.txt (Scholarly English)
+  ├─ narrated_manuscript_production_v1_english_transliteration_CORRECTED.txt
+  │  (Master narrated version with all voice tags)
+  └─ [Other complete versions ready for publication]
+
+→ USE FOR: Final publication, distribution to academic institutions
+
+─────────────────────────────────────────────────────────────────────────────
+
+01_BLUES_INTERPRETATION/
+────────────────────────
+Purpose: All versions of your Blues interpretation
+Contains:
+  ├─ Blues_Lotus_Sutra_MASTER_CLEAN.txt (Best version)
+  ├─ Blues_Lotus_Sutra_CLEAN.txt
+  ├─ Blues_Lotus_Sutra_CLEAN.rtf (for Word processing)
+  ├─ Blues_version_of_the_Lotus_Sutra_-_GENDER_INCLUSIVE.txt
+  ├─ Blues_version_of_the_Lotus_Sutra_-_ENHANCED_EDITION.txt
+  ├─ Blues_Lotus_Sutra_FOR_GOOGLE_DOCS.txt/.html
+  ├─ Blues Lotus Sutra WAV files/ (audio files)
+  └─ [Other Blues versions in various formats]
+
+→ USE FOR: Reading the vernacular interpretation, teaching, marketing
+
+─────────────────────────────────────────────────────────────────────────────
+
+02_SCHOLARLY_ENGLISH/ [DEPRECATED - ARCHIVED 2025-11-17]
+────────────────────────────────────────────────────────
+Status: ARCHIVED to 10_ARCHIVE/02_SCHOLARLY_ENGLISH_DEPRECATED_2025-11-17_AI_DRIFT_CORRECTION/
+Reason: AI Drift resulted in creation of more complete 2025 folder with full scholarly apparatus
+
+USE INSTEAD: 03_SCHOLARLY_TRANSLATION_2025/ (see below - contains all 1,554 footnotes)
+
+─────────────────────────────────────────────────────────────────────────────
+
+03_CLASSICAL_CHINESE/
+──────────────────────
+Purpose: Original Classical Chinese source material
+Contains:
+  └─ 妙法蓮華經 Lotus Sutra.txt (Kumārajīva's original, 406 CE)
+
+→ USE FOR: Source study, historical scholarship, comparative analysis
+
+─────────────────────────────────────────────────────────────────────────────
+
+03_SCHOLARLY_TRANSLATION_2025/ [AUTHORITATIVE - NEW SOURCE OF TRUTH]
+────────────────────────────────────────────────────────────────────
+Purpose: Complete scholarly translation with full apparatus (REPLACES 02_SCHOLARLY_ENGLISH)
+Contains:
+  ├─ Scholarly_Chapters/ (28 chapter files with 1,554 integrated footnotes)
+  ├─ COMPREHENSIVE_AUDIT_REPORT_2025-11-16.md (detailed verification)
+  ├─ AUDIT_EXECUTIVE_BRIEF.md (quick summary)
+  ├─ GLOSSARY_BUDDHIST_TERMS.md (3,242 lines)
+  └─ LOTUS_SUTRA_SCHOLARLY_APPARATUS.md (philosophical references)
+
+Footnote Distribution:
+  - Phase 1 (Ch 1-8): 152 footnotes
+  - Phase 2 (Ch 9-16): 130 footnotes
+  - Phase 3 (Ch 17-22): 80 footnotes
+  - Phase 4 (Ch 23-28): 118 footnotes
+  - TOTAL: 1,554 footnotes
+
+→ USE FOR: Academic research, citations, scholarly publications, translations
+→ REASON FOR EXISTENCE: AI Drift correction - Created as newer, more complete version
+
+─────────────────────────────────────────────────────────────────────────────
+
+04_AUDIO_PRODUCTION/
+──────────────────────
+Purpose: All audio production materials and narration setup
+Contains:
+  ├─ chapters/ (28 files with voice tags)
+  ├─ front_material/ (introduction, pronunciation guides)
+  ├─ ending_material/ (conclusions, scholarly apparatus)
+  ├─ 00_AUDIO_PRODUCTION_INDEX.txt (navigation)
+  ├─ FINAL_PRODUCTION_PREPARATION_SUMMARY.txt (production guide)
+  ├─ VOICE_TAG_DETAILED_ANALYSIS.md (voice analysis)
+  ├─ VOICE_TAGS_FINAL_VERIFICATION.txt (verification report)
+  ├─ AUDIO_PRODUCTION_MASTER_GUIDE.txt (comprehensive guide)
+  ├─ voice_specifications/ (technical specs)
+  ├─ reference_guides/ (voice guides)
+  ├─ quality_control/ (QC documentation)
+  └─ [Voice scripts and extraction scripts]
+
+→ USE FOR: Audio narration, voice production, ACX preparation
+
+─────────────────────────────────────────────────────────────────────────────
+
+05_SCHOLARLY_ARTICLES/
+─────────────────────────
+Purpose: Academic articles and research papers
+Contains:
+  ├─ ARTICLE_4_DRAFT_Blues_Buddhist_Epistemology.txt
+  │  "The Blues as Buddhist Epistemology: How African-American
+  │   Musical Tradition and Mahayana Buddhist Philosophy Address
+  │   Suffering and Liberation" (5,000-7,000 words)
+  └─ article_materials_checklist.md
+
+→ USE FOR: Publishing in peer-reviewed journals, academic credibility
+
+Next articles to write:
+  1. "Cultural Relevance & Inclusivity in Spiritual Practice" (8,000-12,000 words)
+  2. "Translation Methodology for Vernacular Dharma" (8,000-10,000 words)
+  3. "Interactive Spiritual Self-Discovery in Digital Format" (8,000-10,000 words)
+
+─────────────────────────────────────────────────────────────────────────────
+
+06_PROJECT_DOCUMENTATION/
+─────────────────────────────
+Purpose: Guides, summaries, and project metadata
+Contains:
+  ├─ NAME_CHANGE_UPDATE_REPORT.txt
+  │  (Complete documentation of name change from "Duane William Altig"
+  │   to "William Altig" across 35 public-facing files)
+  └─ 00_START_HERE.txt (initial project overview)
+
+→ USE FOR: Understanding project evolution, metadata, changes made
+
+─────────────────────────────────────────────────────────────────────────────
+
+07_PUBLISHING_MATERIALS/
+─────────────────────────
+Purpose: Publisher contacts, proposals, distribution materials
+Contains:
+  ├─ BEACON_PRESS_QUERY_LETTER.txt
+  ├─ BOOK_PROPOSAL_DETAILED.md
+  ├─ BOOK_PROPOSAL_PACKAGE.md
+  ├─ BOOK_SUBMISSION_PACKAGE_README.md
+  ├─ QUERY_LETTER_WISDOM_PUBLICATIONS.txt
+  ├─ BookFormatters_LayoutDesigners.txt
+  └─ [Other publishing-related materials]
+
+→ USE FOR: Submitting to publishers, managing distribution, marketing
+
+─────────────────────────────────────────────────────────────────────────────
+
+08_REFERENCE_MATERIALS/
+────────────────────────
+Purpose: Guides, glossaries, pronunciation aids, character mappings
+Contains:
+  ├─ CHARACTER_VOICE_MAPPING_TABLE.txt (characters → voice assignments)
+  ├─ CHARACTER_VOICE_MAPPING_TABLE_ENHANCED.txt
+  ├─ CHARACTER_VOICE_MAPPING_FINAL.txt
+  ├─ VOICE_CASTING_GUIDE.txt
+  ├─ Gemini Speaker Voices.txt (voice descriptions)
+  ├─ TABLE_OF_CONTENTS_WITH_DESCRIPTIONS.txt
+  ├─ AUTHOR_BIOGRAPHY.txt (your professional biography)
+  ├─ TERMINOLOGY_CORRECTIONS_SUMMARY.md
+  ├─ ENHANCED_EDITION_SUMMARY.md
+  ├─ Gender_Inclusive_Recommendations_Blues_Lotus_Sutra.md
+  ├─ AUTHOR_NOTE_Chapters_3_and_11.txt
+  └─ [Other reference materials]
+
+→ USE FOR: Quick lookup, voice assignments, terminology, pronunciation
+
+─────────────────────────────────────────────────────────────────────────────
+
+09_WORKING_DRAFTS/
+──────────────────
+Purpose: Draft versions, experimental work, and scripts
+Contains:
+  ├─ Individual chapter files (experimental drafts)
+  ├─ Various narrated manuscript versions (V1, enhanced, professional)
+  ├─ Python scripts for text processing
+  ├─ Translation and transliteration guides
+  ├─ Narration project summaries
+  ├─ Voice enhancement logs
+  └─ [Other working materials]
+
+→ USE FOR: Understanding development process, referencing older approaches
+
+─────────────────────────────────────────────────────────────────────────────
+
+10_ARCHIVE/
+────────────
+Purpose: Older versions, backups, superseded materials
+Contents: [To be populated with materials no longer in active use]
+
+→ USE FOR: Historical reference, recovery if needed
+
+================================================================================
+PROJECT STATISTICS
+================================================================================
+
+TOTAL FOLDERS: 11 (10 organized + main project folder)
+TOTAL FILES: 194 items organized
+
+THREE COMPLETE TRANSLATIONS:
+  ✓ Scholarly English translation (28 chapters, individual files)
+  ✓ Blues interpretation (multiple format versions)
+  ✓ Classical Chinese original (Kumārajīva, 406 CE)
+
+AUDIO PRODUCTION:
+  ✓ 28 chapters with voice tags
+  ✓ Front material and ending material
+  ✓ Voice specifications and reference guides
+  ✓ Quality control documentation
+
+SCHOLARLY WORK:
+  ✓ 1 completed article draft
+  ✓ 3 articles identified for future writing
+  ✓ Article checklist and planning materials
+
+PUBLISHING READY:
+  ✓ Complete manuscripts in multiple formats
+  ✓ Query letters to major publishers
+  ✓ Book proposals and submission packages
+  ✓ Author biography and promotional materials
+
+================================================================================
+RECOMMENDED READING SEQUENCE
+================================================================================
+
+IF YOU'RE NEW TO THIS PROJECT:
+1. Read: 00_PROJECT_INDEX.txt (you are here)
+2. Read: 06_PROJECT_DOCUMENTATION/00_START_HERE.txt
+3. Choose a version:
+   - For accessibility: 01_BLUES_INTERPRETATION/
+   - For scholarship: 02_SCHOLARLY_ENGLISH/scholarly_english_chapters/
+   - For authenticity: 03_CLASSICAL_CHINESE/
+
+IF YOU'RE WORKING ON PUBLICATION:
+1. Check: 07_PUBLISHING_MATERIALS/
+2. Review: 00_MASTER_VERSIONS/ for final versions
+3. Reference: 08_REFERENCE_MATERIALS/AUTHOR_BIOGRAPHY.txt
+4. Submit: Using materials in PUBLISHING_MATERIALS folder
+
+IF YOU'RE WRITING SCHOLARLY ARTICLES:
+1. See: 05_SCHOLARLY_ARTICLES/
+2. Start with: Article 4 (shortest, broadest appeal)
+3. Reference: 08_REFERENCE_MATERIALS/ for terminology
+4. Use: 02_SCHOLARLY_ENGLISH/scholarly_english_chapters/ for citations
+
+IF YOU'RE PREPARING AUDIO:
+1. Go to: 04_AUDIO_PRODUCTION/
+2. Read: 00_AUDIO_PRODUCTION_INDEX.txt
+3. Check: VOICE_TAGS_FINAL_VERIFICATION.txt
+4. Review: AUDIO_PRODUCTION_MASTER_GUIDE.txt
+
+================================================================================
+KEY FILES TO KNOW
+================================================================================
+
+MOST IMPORTANT - START HERE:
+→ 00_PROJECT_INDEX.txt (this file - master navigation)
+→ 06_PROJECT_DOCUMENTATION/00_START_HERE.txt (project overview)
+
+FOR FINAL VERSIONS:
+→ 00_MASTER_VERSIONS/THE_LOTUS_SUTRA_OF_THE_WONDERFUL_DHARMA.txt
+→ 00_MASTER_VERSIONS/narrated_manuscript_production_v1_english_transliteration_CORRECTED.txt
+→ 01_BLUES_INTERPRETATION/Blues_Lotus_Sutra_MASTER_CLEAN.txt
+
+FOR ACADEMIC WORK:
+→ 02_SCHOLARLY_ENGLISH/scholarly_english_chapters/00_INDEX_GUIDE.txt
+→ 05_SCHOLARLY_ARTICLES/ARTICLE_4_DRAFT_Blues_Buddhist_Epistemology.txt
+
+FOR AUDIO PRODUCTION:
+→ 04_AUDIO_PRODUCTION/00_AUDIO_PRODUCTION_INDEX.txt
+→ 04_AUDIO_PRODUCTION/AUDIO_PRODUCTION_MASTER_GUIDE.txt
+
+FOR REFERENCE:
+→ 08_REFERENCE_MATERIALS/CHARACTER_VOICE_MAPPING_FINAL.txt
+→ 08_REFERENCE_MATERIALS/AUTHOR_BIOGRAPHY.txt
+→ 08_REFERENCE_MATERIALS/Gemini Speaker Voices.txt
+
+================================================================================
+FILE NAMING CONVENTIONS
+================================================================================
+
+Throughout this project:
+
+MASTER VERSIONS:
+  - "MASTER_CLEAN" = Best, final version ready for use
+  - "FINAL" = Complete, final version
+  - "PROFESSIONAL" = Formatted for publication
+
+BLUES VERSIONS:
+  - "GENDER_INCLUSIVE" = Inclusive language version
+  - "ENHANCED_EDITION" = Version with additions/improvements
+  - "CLEAN" = Streamlined, no markup version
+
+SCHOLARLY MATERIALS:
+  - "ARTICLE_" = Academic paper
+  - "SCHOLARLY_" = Academic version
+  - "_SUMMARY.txt" = Project documentation
+
+WORKING FILES:
+  - "Chapter_" = Draft chapter versions
+  - "narrated_manuscript_" = Earlier versions of narration
+  - ".py" = Python processing scripts
+
+================================================================================
+QUICK REFERENCE: FILE LOCATIONS BY PURPOSE
+================================================================================
+
+TO READ THE LOTUS SUTRA:
+  Blues (contemporary):          01_BLUES_INTERPRETATION/Blues_Lotus_Sutra_MASTER_CLEAN.txt
+  English (formal):              00_MASTER_VERSIONS/THE_LOTUS_SUTRA_OF_THE_WONDERFUL_DHARMA.txt
+  English (by chapter):          02_SCHOLARLY_ENGLISH/scholarly_english_chapters/
+  Chinese (original):            03_CLASSICAL_CHINESE/妙法蓮華經 Lotus Sutra.txt
+
+FOR ACADEMIC WORK:
+  Article draft:                 05_SCHOLARLY_ARTICLES/ARTICLE_4_DRAFT_Blues_Buddhist_Epistemology.txt
+  Scholarly chapters:            02_SCHOLARLY_ENGLISH/scholarly_english_chapters/
+  Character voices:              08_REFERENCE_MATERIALS/CHARACTER_VOICE_MAPPING_FINAL.txt
+  Voice guide:                   08_REFERENCE_MATERIALS/VOICE_CASTING_GUIDE.txt
+
+FOR AUDIO PRODUCTION:
+  Complete guide:                04_AUDIO_PRODUCTION/AUDIO_PRODUCTION_MASTER_GUIDE.txt
+  Chapters with tags:            04_AUDIO_PRODUCTION/chapters/
+  Voice specifications:          04_AUDIO_PRODUCTION/voice_specifications/
+  Verification report:           04_AUDIO_PRODUCTION/VOICE_TAGS_FINAL_VERIFICATION.txt
+
+FOR PUBLISHING:
+  Publisher queries:             07_PUBLISHING_MATERIALS/QUERY_LETTER_*.txt
+  Book proposals:                07_PUBLISHING_MATERIALS/BOOK_PROPOSAL_*.md
+  Author bio:                    08_REFERENCE_MATERIALS/AUTHOR_BIOGRAPHY.txt
+  Submission guide:              07_PUBLISHING_MATERIALS/BOOK_SUBMISSION_PACKAGE_README.md
+
+================================================================================
+NAVIGATION TIPS
+================================================================================
+
+✓ Each folder contains a 00_FOLDER_DESCRIPTION.txt file with folder-specific info
+
+✓ Use File → Open to navigate by folder number:
+  00_ → master content
+  01_ → blues versions
+  02_ → scholarly English
+  ... and so on
+
+✓ Search by file type:
+  .txt = plain text (most content)
+  .md = markdown (formatted documents)
+  .docx = Word documents
+  .html = web-ready formats
+  .py = Python scripts
+
+✓ Key index files to know:
+  00_AUDIO_PRODUCTION_INDEX.txt
+  scholarly_english_chapters/00_INDEX_GUIDE.txt
+  NAME_CHANGE_UPDATE_REPORT.txt
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+IMMEDIATE ACTIONS:
+□ Explore the organized folder structure
+□ Open and read files in order of interest
+□ Reference this index when looking for something
+
+SHORT-TERM (1-4 weeks):
+□ Use Scholarly English chapters for research/writing
+□ Write the next article (Article 1: Cultural Relevance)
+□ Submit queries to academic journals
+□ Prepare materials for publishers
+
+LONG-TERM:
+□ Publish scholarly articles
+□ Distribute complete translations
+□ Record audio narration
+□ Launch app/digital platform
+□ Build academic presence
+
+================================================================================
+QUESTIONS? USE THIS INDEX
+================================================================================
+
+This master index organizes all 194 files into 11 logical folders.
+
+If you can't find something:
+1. Check the "QUICK START" section at the top
+2. Browse the folder descriptions
+3. Search using the "FILE LOCATIONS BY PURPOSE" section
+4. Check the individual folder's 00_FOLDER_DESCRIPTION.txt
+
+Each folder is self-contained and professional.
+Each subfolder has its own index guide.
+Everything is organized for easy access and navigation.
+
+================================================================================
+PROJECT COMPLETION NOTES
+================================================================================
+
+WHAT'S DONE:
+✓ Three complete translations organized
+✓ 28 scholarly chapters extracted individually
+✓ Audio production materials consolidated
+✓ Article 4 drafted and ready for submission
+✓ All author names updated consistently
+✓ Publishing materials prepared
+✓ Reference materials organized
+
+WHAT'S NEXT:
+→ Write Articles 1, 2, and 3
+→ Submit article queries to academic journals
+→ Record audio narration (ACX-ready)
+→ Launch app/digital platform
+→ Distribute to Buddhist studies departments
+
+STRATEGIC ADVANTAGE:
+You now have three complete, professionally organized versions of the
+Lotus Sutra, ready for academic publication, teaching, spiritual practice,
+and digital distribution.
+
+Everything is organized. Everything is ready.
+
+================================================================================
+Created: November 9, 2025
+William Altig
+Houston, Texas
+
+"May this organization serve the dharma and benefit all beings."
+================================================================================

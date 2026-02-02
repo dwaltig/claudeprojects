@@ -1,0 +1,664 @@
+================================================================================
+                    PINYIN CONVERSION GUIDE
+                    Production Manuscript v1.0
+================================================================================
+
+Created: November 7, 2025
+For: The Lotus Sutra of the Wonderful Dharma: A Blues Interpretation
+Purpose: Gemini AI Voice Production Manuscript
+Total Conversions: 105 Chinese terms → Pinyin romanization
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This guide documents all Chinese-to-Pinyin conversions made in creating the
+production manuscript (narrated_manuscript_production_v1.txt) from the final
+annotated manuscript.
+
+WHY PINYIN CONVERSION IS CRITICAL FOR AI VOICES:
+
+AI text-to-speech systems (including Google Gemini voices) CANNOT properly
+pronounce Chinese characters. When encountering "妙法蓮華經", the AI will
+attempt to read each character as if it were a word, resulting in:
+
+   INCORRECT: "character-name character-name character-name..."
+   CORRECT:   "Miào Fǎ Liánhuá Jīng" (phonetically approximates Chinese)
+
+Pinyin romanization allows AI voices to produce phonetically accurate
+approximations of Chinese pronunciation using English phonetic rules.
+
+================================================================================
+PINYIN TONE MARK GUIDE
+================================================================================
+
+Pinyin uses four tones plus neutral tone, marked with diacritics:
+
+TONE 1 (High level):      ā ē ī ō ū     Example: Fā (發) "to emit"
+TONE 2 (Rising):          á é í ó ú     Example: Fá (乏) "lack"
+TONE 3 (Falling-rising):  ǎ ě ǐ ǒ ǔ     Example: Fǎ (法) "Dharma/law"
+TONE 4 (Falling):         à è ì ò ù     Example: Fà (髮) "hair"
+NEUTRAL (no mark):        a e i o u     Example: ma (嗎) question particle
+
+GEMINI VOICE INTERPRETATION:
+- Tone marks provide prosodic guidance
+- AI voices will interpret these as stress/pitch variations
+- Result approximates (but does not perfectly replicate) Chinese tones
+- This is INTENTIONAL and acceptable for multilingual narration
+
+================================================================================
+COMPLETE CONVERSION LIST
+================================================================================
+
+MAJOR TITLE AND TEXT REFERENCES
+--------------------------------------------------------------------------------
+
+妙法蓮華經 → Miào Fǎ Liánhuá Jīng
+   MEANING: The Lotus Sutra of the Wonderful Dharma
+   LITERAL: Wonderful-Dharma-Lotus-Flower-Sutra
+   INSTANCES: 5
+   CONTEXT: Main title of the sutra (Kumārajīva's Classical Chinese version)
+   PRONUNCIATION: "mee-YOW fah lee-AHN-hwah jing"
+
+   Miào (妙) = wonderful, subtle, profound [4th tone - falling]
+   Fǎ (法)   = dharma, law, teaching [3rd tone - falling-rising]
+   Liánhuá (蓮華) = lotus flower [2nd + 2nd tone]
+   Jīng (經) = sutra, scripture [1st tone - high level]
+
+法華經 → Fǎhuá Jīng
+   MEANING: The Lotus Sutra (short form)
+   INSTANCES: 1
+   CONTEXT: Abbreviated title reference
+   PRONUNCIATION: "fah-HWAH jing"
+
+CHAPTER TITLES (Official Chinese Section Names)
+--------------------------------------------------------------------------------
+
+囑累品第二十二 → Zhǔlěi Pǐn Dì Èrshíèr
+   MEANING: Chapter 22: Entrustment
+   INSTANCES: 1
+   CONTEXT: Chapter 22 title (The Passing On / The Laying On of Hands)
+
+藥王菩薩本事品第二十三 → Yàowáng Púsà Běnshì Pǐn Dì Èrshísān
+   MEANING: Chapter 23: The Medicine King Bodhisattva's Past Deeds
+   INSTANCES: 1
+   CONTEXT: Chapter 23 title
+
+觀世音菩薩普門品第二十五 → Guānshìyīn Púsà Pǔmén Pǐn Dì Èrshíwǔ
+   MEANING: Chapter 25: The Universal Gate of Avalokiteśvara Bodhisattva
+   INSTANCES: 1
+   CONTEXT: Chapter 25 title (most famous chapter in East Asian Buddhism)
+
+陀羅尼品第二十六 → Tuóluóní Pǐn Dì Èrshíliù
+   MEANING: Chapter 26: Dhāraṇīs
+   INSTANCES: 1
+   CONTEXT: Chapter 26 title (mantra/spell chapter)
+
+常不輕菩薩品第二十 → Cháng Bù Qīng Púsà Pǐn Dì Èrshí
+   MEANING: Chapter 20: Never Disparaging Bodhisattva
+   INSTANCES: 1
+   CONTEXT: Chapter 20 title
+
+如來神力品第二十一 → Rúlái Shénlì Pǐn Dì Èrshíyī
+   MEANING: Chapter 21: The Supernatural Powers of the Tathāgata
+   INSTANCES: 1
+
+分別功德品第十七 → Fēnbié Gōngdé Pǐn Dì Shíqī
+   MEANING: Chapter 17: Distinction of Merits
+   INSTANCES: 1
+
+隨喜功德品第十八 → Suíxǐ Gōngdé Pǐn Dì Shíbā
+   MEANING: Chapter 18: Merits of Joyful Acceptance
+   INSTANCES: 1
+
+法師功德品第十九 → Fǎshī Gōngdé Pǐn Dì Shíjiǔ
+   MEANING: Chapter 19: Merits of the Dharma Teacher
+   INSTANCES: 1
+
+勸持品第十三 → Quànchí Pǐn Dì Shísān
+   MEANING: Chapter 13: Encouragement to Uphold [the Sutra]
+   INSTANCES: 1
+
+從地湧出品 → Cóng Dì Yǒngchū Pǐn
+   MEANING: [Chapter 15:] Emerging from the Earth
+   INSTANCES: 1
+
+安樂行品 → Ānlè Xíng Pǐn
+   MEANING: [Chapter 14:] Peaceful Practices
+   INSTANCES: 1
+
+藥草喻品 → Yàocǎo Yù Pǐn
+   MEANING: [Chapter 5:] Parable of the Medicinal Herbs
+   INSTANCES: 1
+
+PROPER NAMES (Translators, Figures, Deities)
+--------------------------------------------------------------------------------
+
+瞿曇鳩摩羅什 → Qútán Jiūmóluóshí
+   MEANING: Kumārajīva (full Chinese transliteration)
+   INSTANCES: 2
+   CONTEXT: The great translator (344-413 CE) who created the Classical
+            Chinese version of the Lotus Sutra in 406 CE
+   PRONUNCIATION: "choo-TAHN jyoh-mwoh-lwoh-SHER"
+
+觀世音菩薩 → Guānshìyīn Púsà
+   MEANING: Avalokiteśvara Bodhisattva (Observer of World's Sounds)
+   INSTANCES: Used in compound (see Námó Guānshìyīn Púsà)
+   CONTEXT: The Bodhisattva of Compassion
+
+常不輕 → Cháng Bù Qīng
+   MEANING: Never Disparaging / Never Looked Down
+   INSTANCES: 2
+   CONTEXT: Bodhisattva Sadāparibhūta (the one who never despised anyone)
+   INTERPRETATION NOTE: This translation renders this as "Never Looked Down"
+
+日月燈明如來 → Rìyuè Dēngmíng Rúlái
+   MEANING: Sun-Moon-Lamp-Light Tathāgata
+   INSTANCES: 1
+   CONTEXT: Ancient buddha mentioned in opening chapter
+
+普賢 → Pǔxián
+   MEANING: Samantabhadra (Universal Worthy)
+   INSTANCES: 1
+   CONTEXT: Great Bodhisattva, subject of final chapter
+
+跋陀婆羅等五百菩薩 → Bátuópóluó děng wǔbǎi púsà
+   MEANING: Bhadrapāla and five hundred other bodhisattvas
+   INSTANCES: 1
+   CONTEXT: Group of disciples mentioned in Chapter 20
+
+DEVOTIONAL FORMULAS
+--------------------------------------------------------------------------------
+
+南無觀世音菩薩 → Námó Guānshìyīn Púsà
+   MEANING: Homage to Avalokiteśvara Bodhisattva
+   INSTANCES: 1
+   CONTEXT: Devotional invocation (Chapter 25 - Universal Gate)
+   PRONUNCIATION: "NAH-mwoh gwahn-shir-yeen poo-SAH"
+   NOTE: "Námó" (南無) = Sanskrit "namo" (homage, refuge)
+
+南無釋迦牟尼佛 → Námó Shìjiāmóuní Fó
+   MEANING: Homage to Śākyamuni Buddha
+   INSTANCES: 1
+   CONTEXT: Primary devotional formula
+   PRONUNCIATION: "NAH-mwoh shir-jyah-moh-nee foh"
+
+TECHNICAL BUDDHIST TERMS
+--------------------------------------------------------------------------------
+
+阿羅漢 → āluóhàn
+   MEANING: Arhat (awakened disciple who attained liberation)
+   INSTANCES: 2
+   CONTEXT: Chinese transliteration of Sanskrit "arhat"
+   NOTE: This translation often renders as "made it through to the other side"
+
+菩薩 → púsà
+   MEANING: Bodhisattva (enlightenment being)
+   INSTANCES: 1 (standalone), many in compounds
+   CONTEXT: Chinese transliteration of Sanskrit "bodhisattva"
+
+方便 → fāngbiàn
+   MEANING: Skillful means (upāya in Sanskrit)
+   INSTANCES: 3
+   CONTEXT: Buddha's adaptive teaching methods
+   NOTE: This translation often renders as "loving tricks"
+
+涅槃 → nièpán
+   MEANING: Nirvāṇa (final liberation/extinction)
+   INSTANCES: 1
+   CONTEXT: Chinese transliteration of Sanskrit "nirvāṇa"
+
+佛 → Fó
+   MEANING: Buddha
+   INSTANCES: 1 (standalone), many in compounds
+   CONTEXT: Chinese transliteration of Sanskrit "buddha"
+
+DOCTRINAL CONCEPTS
+--------------------------------------------------------------------------------
+
+一佛乘 → Yī Fó Shèng
+   MEANING: One Buddha Vehicle
+   INSTANCES: 1
+   CONTEXT: Central teaching of Lotus Sutra (all paths converge)
+
+三乘 → Sānshèng
+   MEANING: Three Vehicles (śrāvaka, pratyekabuddha, bodhisattva)
+   INSTANCES: 1
+   CONTEXT: Provisional teaching transcended by One Vehicle
+
+大乘 → Dàshèng
+   MEANING: Mahāyāna (Great Vehicle)
+   INSTANCES: 1
+   CONTEXT: Branch of Buddhism emphasizing bodhisattva path
+
+三界 → Sānjiè
+   MEANING: Three Realms (desire, form, formless)
+   INSTANCES: 2
+   CONTEXT: Cosmological structure of saṃsāra
+
+三界火宅 → Sānjiè Huǒzhái
+   MEANING: Burning House of the Three Realms
+   INSTANCES: 1
+   CONTEXT: Central parable (Chapter 3) - saṃsāra as burning house
+
+PARABLE IMAGERY
+--------------------------------------------------------------------------------
+
+鹿車 → lùchē
+   MEANING: Deer cart
+   INSTANCES: 1
+   CONTEXT: Burning House parable - vehicle for śrāvakas
+
+羊車 → yángchē
+   MEANING: Goat cart
+   INSTANCES: 1
+   CONTEXT: Burning House parable - vehicle for pratyekabuddhas
+
+牛車 → niúchē
+   MEANING: Ox cart
+   INSTANCES: 1
+   CONTEXT: Burning House parable - vehicle for bodhisattvas
+
+一大車 → Yī Dàchē
+   MEANING: One Great Cart
+   INSTANCES: 1
+   CONTEXT: Burning House parable - the superior ultimate vehicle
+
+SCRIPTURAL PHRASES
+--------------------------------------------------------------------------------
+
+汝等皆當作佛 → rǔ děng jiē dāng zuò Fó
+   MEANING: "You all shall become buddhas"
+   INSTANCES: 1
+   CONTEXT: Buddha's universal prophecy
+
+決定無有疑 → juédìng wú yǒu yí
+   MEANING: "Certainly there is no doubt"
+   INSTANCES: 1
+   CONTEXT: Verse formula affirming certainty of prophecy
+
+是處即是道場 → shì chù jí shì dàochǎng
+   MEANING: "This very place is the place of enlightenment"
+   INSTANCES: 1
+   CONTEXT: Teaching about omnipresence of practice
+
+先所說法華經二十千萬億偈 → xiān suǒ shuō Fǎhuá Jīng èrshí qiān wàn yì jì
+   MEANING: "The Lotus Sutra previously taught - twenty thousand myriads of
+            millions of verses"
+   INSTANCES: 1
+   CONTEXT: Chapter 20 - Never Disparaging hears cosmic recitation at death
+
+於虛空中 → yú xūkōng zhōng
+   MEANING: "In empty space / in the sky"
+   INSTANCES: 1
+   CONTEXT: Location of miraculous manifestations
+
+具聞威音王佛 → jù wén Wēiyīn Wáng Fó
+   MEANING: "Completely heard [the teaching of] Bhīṣmagarjitasvararāja Buddha"
+   INSTANCES: 1
+   CONTEXT: Ancient buddha whose teaching is heard
+
+今此會中 → jīn cǐ huì zhōng
+   MEANING: "Now in this assembly"
+   INSTANCES: 1
+   CONTEXT: Reference to present gathering listening to sutra
+
+EPITHETS AND DESCRIPTIONS
+--------------------------------------------------------------------------------
+
+世尊使 → Shìzūn Shǐ
+   MEANING: Messenger/Envoy of the World-Honored One
+   INSTANCES: 1
+
+世間之父 → Shìjiān Zhī Fù
+   MEANING: Father of the World
+   INSTANCES: 1
+   CONTEXT: Buddha as compassionate father figure
+
+大慈大悲 → dà cí dà bēi
+   MEANING: Great compassion and great mercy
+   INSTANCES: 1
+   CONTEXT: Attribute of buddhas and bodhisattvas
+
+丈夫 → zhàngfu
+   MEANING: Great man, hero, spiritual warrior
+   INSTANCES: 1
+   CONTEXT: Term for accomplished practitioner
+
+RELIGIOUS PRACTICES
+--------------------------------------------------------------------------------
+
+書寫 → shūxiě
+   MEANING: Copying [the sutra]
+   INSTANCES: 1
+   CONTEXT: One of five practices (copy, uphold, read, recite, explain)
+
+受持 → shòuchí
+   MEANING: Upholding, maintaining [the teaching]
+   INSTANCES: 1
+
+讀 → dú
+   MEANING: Reading [aloud]
+   INSTANCES: 1
+
+誦 → sòng
+   MEANING: Reciting [from memory]
+   INSTANCES: 1
+
+解說 → jiěshuō
+   MEANING: Explaining, expounding
+   INSTANCES: 1
+
+禮拜 → lǐbài
+   MEANING: Paying respects, bowing
+   INSTANCES: 1
+
+SPIRITUAL ATTRIBUTES AND STATES
+--------------------------------------------------------------------------------
+
+學無學 → xué wú xué
+   MEANING: "Learners and those beyond learning"
+   INSTANCES: 1
+   CONTEXT: Disciples still training vs. arhats who completed training
+
+悉能受持 → xī néng shòuchí
+   MEANING: "All able to receive and uphold"
+   INSTANCES: 1
+
+通達無礙 → tōngdá wú'ài
+   MEANING: "Penetrating understanding without obstruction"
+   INSTANCES: 1
+
+忍辱鎧 → rěnrǔ kǎi
+   MEANING: Armor of patience/forbearance
+   INSTANCES: 1
+   CONTEXT: Chapter 20 - Never Disparaging's protective virtue
+
+踴躍歡喜 → yǒngyuè huānxǐ
+   MEANING: "Leaping up with joy"
+   INSTANCES: 1
+   CONTEXT: Standard response to dharma teaching
+
+IMAGERY AND METAPHOR
+--------------------------------------------------------------------------------
+
+小藥草 → xiǎo yàocǎo
+   MEANING: Small medicinal herbs
+   INSTANCES: 1
+   CONTEXT: Chapter 5 parable categories
+
+中藥草 → zhōng yàocǎo
+   MEANING: Medium medicinal herbs
+   INSTANCES: 1
+
+上藥草 → shàng yàocǎo
+   MEANING: Superior medicinal herbs
+   INSTANCES: 1
+
+小樹 → xiǎo shù
+   MEANING: Small trees
+   INSTANCES: 1
+
+大樹 → dà shù
+   MEANING: Large trees
+   INSTANCES: 1
+
+甘露 → gānlù
+   MEANING: Amṛta, sweet dew, nectar of immortality
+   INSTANCES: 1
+   CONTEXT: Metaphor for dharma teaching
+
+BODHISATTVA PRACTICES (Four Practices of Samantabhadra)
+--------------------------------------------------------------------------------
+
+安立行 → ānlì xíng
+   MEANING: Practice of Peaceful Abiding
+   INSTANCES: 1
+
+上行 → shàngxíng
+   MEANING: Superior Practice
+   INSTANCES: 1
+
+無邊行 → wúbiān xíng
+   MEANING: Limitless Practice
+   INSTANCES: 1
+
+淨行 → jìngxíng
+   MEANING: Pure Practice
+   INSTANCES: 1
+
+密行 → mìxíng
+   MEANING: Secret/Esoteric Practice
+   INSTANCES: 1
+
+NARRATIVE EXPRESSIONS
+--------------------------------------------------------------------------------
+
+終日竟夜 → zhōng rì jìng yè
+   MEANING: "All day and all night"
+   INSTANCES: 1
+   CONTEXT: Duration expression
+
+經歷多年 → jīnglì duō nián
+   MEANING: "After many years passed"
+   INSTANCES: 1
+   CONTEXT: Temporal expression in parables
+
+醉酒而臥 → zuì jiǔ ér wò
+   MEANING: "Drunk with wine and lying down"
+   INSTANCES: 1
+   CONTEXT: Parable of the Jewel in the Robe (Chapter 8)
+
+甚自感傷 → shèn zì gǎnshāng
+   MEANING: "Deeply moved with grief"
+   INSTANCES: 1
+
+甚大艱難 → shèn dà jiānnán
+   MEANING: "Very great hardship"
+   INSTANCES: 1
+
+勤力求索 → qínlì qiúsuǒ
+   MEANING: "Diligently seeking"
+   INSTANCES: 1
+
+以衣祴 → yǐ yī jué
+   MEANING: "With robe wrapped/sewn"
+   INSTANCES: 1
+   CONTEXT: Jewel sewn in garment (Chapter 8 parable)
+
+避走遠住 → bì zǒu yuǎn zhù
+   MEANING: "Flee and dwell far away"
+   INSTANCES: 1
+
+EXCLAMATIONS AND FORMULAIC SPEECH
+--------------------------------------------------------------------------------
+
+咄哉 → duō zāi
+   MEANING: "Alas! How sad!"
+   INSTANCES: 1
+   CONTEXT: Exclamation of lamentation
+
+猶高聲唱言 → yóu gāoshēng chàng yán
+   MEANING: "Still loudly proclaiming/crying out"
+   INSTANCES: 2
+   CONTEXT: Chapter 20 - Never Disparaging's constant proclamation
+
+惡鬼入其身 → è guǐ rù qí shēn
+   MEANING: "Evil spirits enter their bodies"
+   INSTANCES: 1
+   CONTEXT: Warning about hostile opponents
+
+COSMOLOGICAL TERMS
+--------------------------------------------------------------------------------
+
+於時十方世界 → yú shí shífāng shìjiè
+   MEANING: "At that time the worlds of the ten directions"
+   INSTANCES: 1
+   CONTEXT: Description of cosmic scope
+
+六種震動 → liù zhǒng zhèndòng
+   MEANING: Six kinds of earthquakes/tremors
+   INSTANCES: 1
+   CONTEXT: Miraculous response to dharma teaching
+
+如一佛土 → rú yī Fó tǔ
+   MEANING: "Like one buddha-land"
+   INSTANCES: 1
+   CONTEXT: Unity of all realms
+
+威威德德力力具具足足 → wēi wēi dé dé lì lì jù jù zú zú
+   MEANING: "Awesome awesome virtue virtue power power complete complete full full"
+   INSTANCES: 1
+   CONTEXT: Reduplication for emphasis (poetic/mantra-like)
+
+險 → xiǎn
+   MEANING: Danger, peril,險道 (dangerous road)
+   INSTANCES: 1 (+ variant forms)
+
+险险險 → xiǎn xiǎn xiǎn
+   MEANING: "Danger danger danger" (triple emphasis)
+   INSTANCES: 1
+
+MISCELLANEOUS TERMS
+--------------------------------------------------------------------------------
+
+善意 → shànyì
+   MEANING: Good will, good intention
+   INSTANCES: 1
+
+善男子 → shàn nánzǐ
+   MEANING: Good sons, virtuous men
+   INSTANCES: 1
+   CONTEXT: Standard address to male disciples
+
+如是之人 → rúshì zhī rén
+   MEANING: "Such a person"
+   INSTANCES: 1
+
+即是 → jíshì
+   MEANING: "Precisely is, exactly is"
+   INSTANCES: 1
+
+有意 → yǒuyì
+   MEANING: "Having intention"
+   INSTANCES: 1
+
+志樂 → zhìlè
+   MEANING: "Aspiration and joy"
+   INSTANCES: 1
+
+乃可為說 → nǎi kě wèi shuō
+   MEANING: "Only then can it be taught"
+   INSTANCES: 1
+
+若以幾案 → ruò yǐ jǐàn
+   MEANING: "If by means of table/desk"
+   INSTANCES: 1
+
+則我身是 → zé wǒ shēn shì
+   MEANING: "Then my body is"
+   INSTANCES: 1
+
+不 → bù
+   MEANING: "Not" (negative particle)
+   INSTANCES: 1 (standalone usage)
+
+常 → cháng
+   MEANING: "Always, constant"
+   INSTANCES: 1 (standalone usage)
+
+不輕 → bù qīng
+   MEANING: "Not look down upon"
+   INSTANCES: 1
+
+猶 → yóu
+   MEANING: "Still, yet"
+   INSTANCES: 1
+
+种 → zhǒng
+   MEANING: "Kind, type, seed"
+   INSTANCES: 1
+
+================================================================================
+PRONUNCIATION GUIDE FOR VOICE ACTORS
+================================================================================
+
+GEMINI AI VOICE INTERPRETATION:
+
+When Gemini API voices encounter pinyin romanization with tone marks, they will:
+
+1. Read it phonetically as if it were English text with diacritics
+2. Interpret tone marks as prosodic/stress cues (not perfect tone replication)
+3. Produce approximations that sound closer to Chinese than character names would
+
+EXAMPLE COMPARISON:
+
+Chinese characters (WRONG for AI):
+   Input: "妙法蓮華經"
+   AI reads: "[character name] [character name] [character name]..."
+   Result: Unintelligible
+
+Pinyin romanization (CORRECT for AI):
+   Input: "Miào Fǎ Liánhuá Jīng"
+   AI reads: "mee-OW fah lee-AHN-hwah jing"
+   Result: Phonetically approximates Chinese pronunciation
+
+TONE MARK PRONUNCIATION HINTS:
+
+ā, ē, ī, ō, ū (Tone 1): Read with HIGH, LEVEL pitch
+á, é, í, ó, ú (Tone 2): Read with RISING intonation (like a question)
+ǎ, ě, ǐ, ǒ, ǔ (Tone 3): Read with DIP then RISE (falling-rising)
+à, è, ì, ò, ù (Tone 4): Read with sharp FALLING pitch (emphatic)
+
+COMMON SYLLABLES:
+
+Miào   = "mee-OW" (like cat sound, 4th tone - falling)
+Fǎ     = "FAH" (like "fa" in music, 3rd tone - dip and rise)
+Lián   = "lee-AHN" (2nd tone - rising)
+huá    = "HWAH" (2nd tone - rising)
+Jīng   = "JING" (1st tone - high and level)
+
+Púsà   = "POO-sah" (Bodhisattva)
+Guānshìyīn = "GWAHN-shir-YEEN" (Avalokiteśvara)
+Námó   = "NAH-mwoh" (Homage/refuge, from Sanskrit "namo")
+
+================================================================================
+VERIFICATION CHECKLIST
+================================================================================
+
+✓ All 105 unique Chinese character sequences converted to pinyin
+✓ Total 117 instances converted across manuscript
+✓ All 553 Gemini voice tags preserved intact
+✓ Sanskrit terms with diacritics (Śāriputra, Mañjuśrī, etc.) UNCHANGED
+✓ File encoding: UTF-8 maintained
+✓ File size: 805,842 bytes (795 KB)
+✓ Total lines: 15,663
+
+PRODUCTION MANUSCRIPT STATUS: READY FOR GEMINI VOICE SYNTHESIS
+
+================================================================================
+TECHNICAL NOTES
+================================================================================
+
+CONVERSION METHODOLOGY:
+- Longest phrases converted first to avoid partial replacements
+- All tone marks preserved using Unicode combining characters
+- Capitalization follows standard pinyin conventions:
+  * Proper names: Initial caps (Miào Fǎ Liánhuá Jīng)
+  * Common nouns: Lowercase (púsà, fāngbiàn)
+  * Sentence-initial: Always capitalized
+
+UNICODE PRESERVATION:
+- Pinyin tone marks: ā á ǎ à ē é ě è ī í ǐ ì ō ó ǒ ò ū ú ǔ ù ǖ ǘ ǚ ǜ
+- Sanskrit diacritics: ś ṇ ū ā ṃ ī (preserved in names like Śāriputra)
+- File encoding: UTF-8 with BOM support for maximum compatibility
+
+GEMINI API COMPATIBILITY:
+- All voice tags format: [VoiceName] on standalone line
+- 553 voice tags verified in production manuscript
+- Pinyin readable by Gemini phonetic engine
+- Tone marks interpreted as prosodic markup
+
+================================================================================
+END OF PINYIN CONVERSION GUIDE
+================================================================================

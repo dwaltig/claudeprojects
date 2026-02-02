@@ -1,0 +1,389 @@
+# Chapter 7: The Parable of the Phantom City
+
+*化城喻品第七*
+
+The Buddha addressed the bhikṣus: "In the past, throughout immeasurable, limitless, inconceivable, asaṃkhyeya kalpas, there was a Buddha named Mahābhijñājñānābhibhū Tathāgata, Arhat, Samyak-saṃbuddha, One Perfect in Knowledge and Conduct, Well-Gone One, Knower of the World, Unsurpassed One, Tamer of Persons, Teacher of Devas and Humans, Buddha, World-Honored One. His land was called Surāja, and the kalpa was called Mahārūpa. O bhikṣus, it has been exceedingly long and distant since that Buddha entered extinction. Suppose there were a person who ground all the earth-element of a great trichiliocosm into ink, and after passing through one thousand lands to the east, let fall one dot the size of a mote of dust, then after passing through another thousand lands let fall another dot—in this manner proceeding until all the earth-element ink was exhausted. What do you think? Could an arithmetician or an arithmetician's disciple reach the limit and know the number of all those lands?" "No, World-Honored One." "O bhikṣus, if all the lands that person passed through, whether marked with dots or not, were all ground into dust, and each dust-mote counted as one kalpa—the time since that Buddha entered extinction surpasses even this number by immeasurable, limitless, hundreds of thousands of myriads of koṭis of asaṃkhyeya kalpas. Through the power of the Tathāgata's knowledge and vision, I regard that distant past as though it were this very day."
+
+At that time the World-Honored One, wishing to restate this meaning, spoke in verse:
+
+"I remember a past age,
+Immeasurable, limitless kalpas ago—
+There was a Buddha, Most Honored of Two-Legged Beings,
+Named Mahābhijñājñānābhibhū.
+
+"Suppose a person, exerting strength, were to grind
+The earth of the great trichiliocosm,
+Exhausting all these earth-elements,
+All completely making them into ink,
+
+"Then after passing through one thousand lands
+Let fall a single dust-dot,
+And proceeding in this manner, marking with dots,
+Exhaust all this dust-ink—
+
+"Suppose all such lands,
+Both dotted and un-dotted,
+Were again completely ground into dust,
+With each dust-mote as one kalpa—
+
+"The number of these dust-motes,
+And kalpas surpassing even this—
+Since that Buddha entered extinction,
+Such immeasurable kalpas have passed.
+
+"Through the Tathāgata's unobstructed wisdom
+I know of that Buddha's extinction,
+And of the śrāvakas and Bodhisattvas—
+As though seeing an extinction today.
+
+"You bhikṣus should know:
+Buddha-wisdom is pure, subtle, and wondrous,
+Without outflows, without obstructions,
+Penetrating immeasurable kalpas."
+
+The Buddha addressed the bhikṣus: "The lifespan of Mahābhijñājñānābhibhū Buddha was five hundred forty myriads of koṭis of nayutas of kalpas. Originally that Buddha, while sitting at the place of enlightenment, after defeating the armies of Māra and being on the verge of attaining anuttarā-samyak-saṃbodhi, the dharmas of Buddhahood did not yet manifest before him. Thus for one intermediate kalpa, and up to ten intermediate kalpas, he sat in full lotus posture, body and mind unmoving, yet the dharmas of Buddhahood still did not appear before him."
+
+"At that time the devas of Trāyastriṃśa had previously prepared a lion throne beneath the bodhi-tree for that Buddha, one yojana in height. The Buddha was to sit upon this seat and attain anuttarā-samyak-saṃbodhi. Just as he sat upon this seat, the Brahmā Heavenly Kings rained down celestial flowers covering a hundred yojanas. Fragrant breezes came from time to time, blowing away the withered flowers and raining down fresh ones. In this manner, without cease, for a full ten intermediate kalpas they made offerings to the Buddha, continuing thus until his extinction, constantly raining down these flowers. The Four Heavenly Kings, to make offerings to the Buddha, constantly beat heavenly drums. The remaining devas played heavenly music—for a full ten intermediate kalpas, until his extinction, likewise continuing thus."
+
+"O bhikṣus, after Mahābhijñājñānābhibhū Buddha had passed ten intermediate kalpas, the dharmas of Buddhahood then manifested before him, and he accomplished anuttarā-samyak-saṃbodhi. Before that Buddha left home, he had sixteen sons. The eldest was named Jñānākara. Each of the sons possessed various rare and marvelous playthings. When they heard that their father had accomplished anuttarā-samyak-saṃbodhi, they all abandoned their precious possessions and proceeded to the Buddha's presence. Their mothers, weeping, followed after them. Their grandfather, a wheel-turning sage king, together with one hundred great ministers and hundreds of thousands of myriads of koṭis of other people, all surrounded them and accompanied them to the place of enlightenment, all desiring to draw near to Mahābhijñājñānābhibhū Tathāgata and to make offerings, show reverence, honor, and praise. Having arrived, they bowed with their heads at the Buddha's feet, circumambulated him, then with palms joined as one gazed up at the World-Honored One, speaking in verse:
+
+"'Great [Spiritual Authority] World-Honored One,
+For the sake of liberating living beings,
+Throughout immeasurable koṭis of kalpas,
+You have now at last accomplished Buddhahood.
+
+"'All vows already fulfilled,
+How excellent and auspicious beyond compare!
+The World-Honored One is exceedingly rare—
+Sitting for ten intermediate kalpas,
+
+"'Your body and hands and feet
+Serene, peaceful, and unmoving.
+Your mind constantly tranquil,
+Never having been scattered or confused.
+
+"'Ultimately and permanently quiescent,
+Abiding secure in outflow-free dharmas.
+Now we see the World-Honored One
+Peacefully accomplishing the Buddha-Way.
+
+"'We have obtained wholesome benefit,
+Our praise and celebration great and joyful.
+Living beings constantly suffer affliction,
+Blind and dark without a guide.
+
+"'They do not recognize the path to the cessation of suffering,
+Nor know to seek liberation.
+Throughout the long night they increase in evil destinies,
+Diminishing the multitudes of devas.
+
+"'From darkness they enter into darkness,
+Never hearing the Buddha's name.
+Now the Buddha has attained the supreme,
+Peaceful, outflow-free Way.
+
+"'We and all devas and humans
+Have obtained the greatest benefit.
+Therefore we all bow our heads,
+Taking refuge in the Unsurpassed Honored One.'"
+
+At that time, after the sixteen princes had praised the Buddha in verse, they entreated the World-Honored One to turn the Dharma-wheel, all speaking these words: "World-Honored One, expound the Dharma! May there be much peace, tranquility, compassion, benefit, and nourishment for all devas and human beings!" They restated this in verse, saying:
+
+"'World Hero without equal,
+Adorned by the hundred meritorious marks,
+Having attained unsurpassed wisdom—
+Please expound it for the world!
+
+"'To liberate us
+And all classes of living beings,
+Discriminate and reveal,
+Causing us to attain this wisdom.
+
+"'If we and others attain Buddhahood,
+Living beings will likewise be so.
+The World-Honored One knows living beings'
+Deep mental thoughts,
+
+"'And also knows the paths they practice,
+Their wisdom-power as well,
+Their desires, joys, and cultivation of merit,
+And the karmic actions of their past lives.
+
+"'The World-Honored One, having fully known all this,
+Should turn the unsurpassed wheel!'"
+
+The Buddha addressed the bhikṣus: "When Mahābhijñājñānābhibhū Buddha attained anuttarā-samyak-saṃbodhi, in each of the ten directions, five hundred myriads of koṭis of Buddha-worlds quaked and trembled in six ways. In the dark interstices between those lands—places where the awesome light of the sun and moon could not illuminate—all became greatly illumined. The living beings therein each beheld one another and all said: 'How is it that beings have suddenly been born here?' Moreover, in those lands the palaces of all the devas, up to the Brahmā palaces, quaked and trembled in six ways, and great light universally shone, pervading the worlds, surpassing the light of the devas."
+
+At that time, in five hundred myriads of koṭis of lands to the east, the palaces of the Brahmā Heavenly Kings shone with light and radiance doubly brilliant beyond their usual brightness. Each of the Brahmā Heavenly Kings had this thought: "Now the light of our palaces is unprecedented. For what cause and condition does this sign appear?" At that time the Brahmā Heavenly Kings immediately visited one another to discuss this matter together. At that time, within that assembly, there was a Great Brahmā Heavenly King named Sarveṣvararakṣa who, on behalf of the Brahmā assembly, spoke in verse:
+
+"'Our various palaces,
+Their light unprecedented—
+What is the cause and condition for this?
+We should all seek it together.
+
+"'Has a deva of great virtue been born,
+Or has a Buddha appeared in the world?
+For this great light
+Universally illumines the ten directions.'"
+
+At that time five hundred myriads of koṭis of lands' worth of Brahmā Heavenly Kings, together with their palaces, each carrying robes filled with celestial flowers, proceeded together toward the west to investigate this sign. They beheld Mahābhijñājñānābhibhū Tathāgata at the place of enlightenment, beneath the bodhi-tree, sitting upon the lion throne, with devas, nāgas, gandharvas, kiṃnaras, mahoragas, humans, and non-humans respectfully surrounding him. They also beheld the sixteen princes entreating the Buddha to turn the Dharma-wheel.
+
+Immediately the Brahmā Heavenly Kings bowed with their heads at the Buddha's feet, circumambulated him hundreds of thousands of times, then scattered celestial flowers upon the Buddha. The flowers they scattered were like Mount Sumeru. They also made offerings to the Buddha's bodhi-tree. That bodhi-tree was ten yojanas in height. Having made offerings with flowers, they each presented their palaces to that Buddha, speaking these words: "May you mercifully pity and benefit us. These palaces we offer—may you graciously consent to accept them." At that time the Brahmā Heavenly Kings, in the Buddha's presence, with minds unified in one voice, spoke in verse:
+
+"'The World-Honored One is exceedingly rare,
+Difficult to encounter and meet.
+Possessing immeasurable merits,
+Able to save and protect all.
+
+"'Great Teacher of devas and humans,
+Compassionate toward the world—
+The ten directions' living beings
+All universally receive your nourishment and benefit.
+
+"'The lands from which we have come—
+Five hundred myriads of koṭis—
+We abandon the bliss of deep meditation
+For the sake of making offerings to the Buddha.
+
+"'Our merit from former lives—
+Our palaces magnificently adorned—
+Now we offer them to the World-Honored One,
+Praying you mercifully consent to accept them.'"
+
+At that time, after the Brahmā Heavenly Kings had praised the Buddha in verse, they each spoke thus: "We pray the World-Honored One will turn the Dharma-wheel, liberate living beings, and open the path of nirvāṇa!" At that time the Brahmā Heavenly Kings, with minds unified in one voice, spoke in verse:
+
+"'World Hero, Most Honored of Two-Legged Beings,
+We pray you expound the Dharma!
+With the power of great compassion,
+Liberate suffering and afflicted living beings!'"
+
+At that time Mahābhijñājñānābhibhū Tathāgata silently consented.
+
+"Moreover, O bhikṣus, to the southeast, in five hundred myriads of koṭis of lands, all the Great Brahmā Kings each beheld their own palaces' light and radiance shining brilliantly, unprecedented. Joyful, exultant, and giving rise to a sense of rarity, they immediately visited one another to discuss this matter together. At that time, within that assembly, there was a Great Brahmā Heavenly King named Mahākruṇā who, on behalf of the Brahmā assembly, spoke in verse:
+
+"'For what cause and condition
+Does such a sign as this appear?
+Our various palaces,
+Their light unprecedented.
+
+"'Has a deva of great virtue been born,
+Or has a Buddha appeared in the world?
+We have never seen such a sign—
+We should with unified mind seek it.
+
+"'Passing beyond one thousand myriads of koṭis of lands,
+Following the light, let us all investigate together.
+Most likely a Buddha has appeared in the world
+To liberate suffering living beings.'"
+
+At that time five hundred myriads of koṭis of Brahmā Heavenly Kings, together with their palaces, each carrying robes filled with celestial flowers, proceeded together toward the northwest to investigate this sign. They beheld Mahābhijñājñānābhibhū Tathāgata at the place of enlightenment, beneath the bodhi-tree, sitting upon the lion throne, with devas, nāgas, gandharvas, kiṃnaras, mahoragas, humans, and non-humans respectfully surrounding him. They also beheld the sixteen princes entreating the Buddha to turn the Dharma-wheel.
+
+At that time the Brahmā Heavenly Kings bowed with their heads at the Buddha's feet, circumambulated him hundreds of thousands of times, then scattered celestial flowers upon the Buddha. The flowers they scattered were like Mount Sumeru. They also made offerings to the Buddha's bodhi-tree. Having made offerings with flowers, they each presented their palaces to that Buddha, speaking these words: "May you mercifully pity and benefit us. These palaces we offer—may you graciously consent to accept them." At that time the Brahmā Heavenly Kings, in the Buddha's presence, with minds unified in one voice, spoke in verse:
+
+"'Sacred Lord, Heavenly King Among Kings,
+With the voice of the kalaviṅka,
+You who compassionately pity living beings—
+We now bow in reverence.
+
+"'The World-Honored One is exceedingly rare,
+Only appearing once after a very long time.
+One hundred eighty kalpas
+Pass by empty, without a Buddha.
+
+"'The three evil destinies are full,
+The multitudes of devas diminished.
+Now the Buddha has appeared in the world,
+Becoming eyes for living beings—
+
+"'That to which the world returns and tends,
+Savior and protector of all,
+Father of living beings,
+You who compassionately pity and nourish them.
+
+"'Through our merit and blessings from former lives,
+Now we are able to encounter the World-Honored One.'"
+
+At that time, after the Brahmā Heavenly Kings had praised the Buddha in verse, they each spoke thus: "We pray the World-Honored One will compassionately pity all and turn the Dharma-wheel to liberate living beings!" At that time the Brahmā Heavenly Kings, with minds unified in one voice, spoke in verse:
+
+"'Great Sage, turn the Dharma-wheel!
+Reveal the characteristics of all dharmas!
+Liberate suffering and afflicted living beings,
+Causing them to obtain great joy!
+
+"'Living beings hearing this Dharma
+Will attain the Way or be born in heaven.
+All evil destinies will be diminished,
+And those enduring and wholesome will increase.'"
+
+At that time Mahābhijñājñānābhibhū Tathāgata silently consented.
+
+"Moreover, O bhikṣus, to the south, in five hundred myriads of koṭis of lands, all the Great Brahmā Kings each beheld their own palaces' light and radiance shining brilliantly, unprecedented. Joyful, exultant, and giving rise to a sense of rarity, they immediately visited one another to discuss this matter: 'For what cause and condition do our palaces have this radiance?' At that time, within that assembly, there was a Great Brahmā Heavenly King named Sudhārma who, on behalf of the Brahmā assembly, spoke in verse:
+
+"'Our various palaces,
+Their light most majestic and radiant—
+This is not without cause and condition;
+This sign should be sought.
+
+"'Throughout more than one hundred thousand kalpas
+We have never seen such a sign.
+Has a deva of great virtue been born,
+Or has a Buddha appeared in the world?'"
+
+At that time five hundred myriads of koṭis of Brahmā Heavenly Kings, together with their palaces, each carrying robes filled with celestial flowers, proceeded together toward the north to investigate this sign. They beheld Mahābhijñājñānābhibhū Tathāgata at the place of enlightenment, beneath the bodhi-tree, sitting upon the lion throne, with devas, nāgas, gandharvas, kiṃnaras, mahoragas, humans, and non-humans respectfully surrounding him. They also beheld the sixteen princes entreating the Buddha to turn the Dharma-wheel.
+
+At that time the Brahmā Heavenly Kings bowed with their heads at the Buddha's feet, circumambulated him hundreds of thousands of times, then scattered celestial flowers upon the Buddha. The flowers they scattered were like Mount Sumeru. They also made offerings to the Buddha's bodhi-tree. Having made offerings with flowers, they each presented their palaces to that Buddha, speaking these words: "May you mercifully pity and benefit us. These palaces we offer—may you graciously consent to accept them." At that time the Brahmā Heavenly Kings, in the Buddha's presence, with minds unified in one voice, spoke in verse:
+
+"'The World-Honored One is most difficult to see—
+Destroyer of all afflictions.
+More than one hundred thirty kalpas have passed;
+Now at last we are able to see you once.
+
+"'All those famished, thirsty living beings
+Are filled with the Dharma-rain.
+Never before have we beheld
+This one of immeasurable wisdom—
+
+"'Like the udumbara flower,
+Today at last we encounter you.
+Our various palaces,
+Made splendid through this light—
+
+"'World-Honored One of great compassion,
+We pray you graciously consent to accept them.'"
+
+At that time, after the Brahmā Heavenly Kings had praised the Buddha in verse, they each spoke thus: "We pray the World-Honored One will turn the Dharma-wheel, causing all worlds—devas, Māra, Brahmā, śramaṇas, and brāhmaṇas—to obtain peace, tranquility, and liberation!" At that time the Brahmā Heavenly Kings, with minds unified in one voice, spoke in verse:
+
+"'We pray the Most Honored of Devas and Humans
+Will turn the unsurpassed Dharma-wheel,
+Beat the great Dharma-drum,
+And blow the great Dharma-conch,
+
+"'Universally rain down the great Dharma-rain
+To liberate immeasurable living beings!
+We all take refuge and entreat—
+May you proclaim the deep and far-reaching sound!'"
+
+At that time Mahābhijñājñānābhibhū Tathāgata silently consented. The southwest through the nadir directions were likewise thus.
+
+At that time, in five hundred myriads of koṭis of lands in the upward direction, all the Great Brahmā Kings each completely beheld their own dwelling palaces' light and majesty shining radiantly, unprecedented. Joyful, exultant, and giving rise to a sense of rarity, they immediately visited one another to discuss this matter: "For what cause and condition do our palaces have this light?" At that time, within that assembly, there was a Great Brahmā Heavenly King named Śikhin who, on behalf of the Brahmā assembly, spoke in verse:
+
+"'Now for what cause and condition
+Do our various palaces
+Display such majestic light and radiance,
+Adorned as never before?
+
+"'Such wondrous signs as these—
+Never before heard or seen—
+Has a deva of great virtue been born,
+Or has a Buddha appeared in the world?'"
+
+At that time five hundred myriads of koṭis of Brahmā Heavenly Kings, together with their palaces, each carrying robes filled with celestial flowers, proceeded together toward the nadir to investigate this sign. They beheld Mahābhijñājñānābhibhū Tathāgata at the place of enlightenment, beneath the bodhi-tree, sitting upon the lion throne, with devas, nāgas, gandharvas, kiṃnaras, mahoragas, humans, and non-humans respectfully surrounding him. They also beheld the sixteen princes entreating the Buddha to turn the Dharma-wheel.
+
+At that time the Brahmā Heavenly Kings bowed with their heads at the Buddha's feet, circumambulated him hundreds of thousands of times, then scattered celestial flowers upon the Buddha. The flowers they scattered were like Mount Sumeru. They also made offerings to the Buddha's bodhi-tree. Having made offerings with flowers, they each presented their palaces to that Buddha, speaking these words: "May you mercifully pity and benefit us. These palaces we offer—may you graciously consent to accept them." At that time the Brahmā Heavenly Kings, in the Buddha's presence, with minds unified in one voice, spoke in verse:
+
+"'Excellent to behold all Buddhas,
+Savior Sages who rescue the world,
+Able within the prison of the three realms
+To liberate all living beings!
+
+"'Universal Wisdom, Most Honored of Devas and Humans,
+Compassionate toward the multitudes of beings,
+Able to open the sweet-dew gate,
+Extensively liberating all!
+
+"'In countless kalpas of the past,
+Empty, passing without a Buddha—
+Before the World-Honored One appeared,
+The ten directions were constantly dark.
+
+"'The three evil destinies increased,
+Asuras likewise prospered,
+The multitudes of devas progressively diminished,
+Many dying and falling into evil paths.
+
+"'Not hearing the Dharma from Buddhas,
+Constantly practicing unwholesome deeds,
+Physical strength and wisdom—
+All these decreased,
+
+"'Due to the causes and conditions of sinful karma,
+Losing happiness and thoughts of happiness,
+Dwelling in dharmas of wrong views,
+Not recognizing wholesome rules and principles.
+
+"'Not receiving the Buddha's transforming influence,
+Constantly falling into evil paths.
+The Buddha is the eye of the world,
+Appearing only after a very long time—
+
+"'Compassionately pitying all living beings,
+Therefore appearing in the world.
+Transcending all, accomplishing Perfect Enlightenment—
+We are profoundly joyful and celebrating!
+
+"'And all the remaining multitudes
+Rejoice and acclaim as never before!
+Our various palaces,
+Made splendid through this light—
+
+"'Now we offer them to the World-Honored One,
+Praying you graciously consent to accept them.
+May, through these merits,
+They universally reach all—
+
+"'May we together with all living beings
+All jointly accomplish the Buddha-Way!'"
+
+At that time, after five hundred myriads of koṭis of Brahmā Heavenly Kings had praised the Buddha in verse, they each addressed the Buddha, saying: "We pray the World-Honored One will turn the Dharma-wheel—much peace, tranquility, much liberation!" At that time the Brahmā Heavenly Kings spoke in verse:
+
+"'World-Honored One, turn the Dharma-wheel!
+Beat the sweet-dew Dharma-drum!
+Liberate suffering and afflicted living beings!
+Open and reveal the path of nirvāṇa!
+
+"'We pray you accept our entreaty!
+With the great subtle and wondrous sound,
+Compassionately elucidate and expound
+The Dharma accumulated over immeasurable kalpas!'"
+
+At that time Mahābhijñājñānābhibhū Tathāgata, accepting the entreaty of the Brahmā Heavenly Kings of the ten directions and the sixteen princes, immediately turned the Dharma-wheel three times with twelve revolutions—a Dharma-wheel that śramaṇas, brāhmaṇas, devas, Māra, Brahmā, and the remaining world could not turn. He declared: 'This is suffering. This is the arising of suffering. This is the cessation of suffering. This is the path to the cessation of suffering.' He also extensively expounded the Dharma of the twelve causes and conditions: ignorance conditions formations; formations condition consciousness; consciousness conditions name-and-form; name-and-form conditions the six sense-bases; the six sense-bases condition contact; contact conditions feeling; feeling conditions craving; craving conditions grasping; grasping conditions becoming; becoming conditions birth; birth conditions aging-and-death, sorrow, lamentation, suffering, and distress. When ignorance ceases, formations cease. When formations cease, consciousness ceases. When consciousness ceases, name-and-form ceases. When name-and-form ceases, the six sense-bases cease. When the six sense-bases cease, contact ceases. When contact ceases, feeling ceases. When feeling ceases, craving ceases. When craving ceases, grasping ceases. When grasping ceases, becoming ceases. When becoming ceases, birth ceases. When birth ceases, aging-and-death, sorrow, lamentation, suffering, and distress cease.
+
+"When the Buddha was expounding this Dharma in the midst of the great assembly of devas and humans, six hundred myriads of koṭis of nayutas of persons, through not grasping any dharma, attained liberation of mind from all outflows. All attained profound and wondrous meditative concentration, the three clear knowledges, the six spiritual powers, and complete possession of the eight liberations. During the second, third, and fourth expositions of the Dharma, thousands of myriads of koṭis of Ganges' sands of nayutas of living beings also, through not grasping any dharma, attained liberation of mind from all outflows. From that time forward, the multitude of śrāvakas became immeasurable, limitless, beyond calculation.
+
+"At that time the sixteen princes all left home as youths to become śrāmaṇeras. Their faculties were keen and perceptive, their wisdom clear and illumined. They had previously made offerings to hundreds of thousands of myriads of koṭis of Buddhas, purely cultivating the holy practices, and sought anuttarā-samyak-saṃbodhi. Together they addressed the Buddha, saying: 'World-Honored One, these immeasurable thousands of myriads of koṭis of great and virtuous śrāvakas have all achieved realization. World-Honored One, you should also expound for us the Dharma of anuttarā-samyak-saṃbodhi. Having heard it, we shall all together cultivate and learn it. World-Honored One, we aspire to the knowledge and vision of the Tathāgata. Our deep minds' thoughts the Buddha himself bears witness to.' At that time, within the multitude the wheel-turning sage king had brought, eight hundred myriads of koṭis of persons, seeing the sixteen princes leave home, also sought to leave home. The king immediately granted them permission.
+
+"At that time that Buddha, accepting the śrāmaṇeras' entreaty, after twenty thousand kalpas had passed, in the midst of the fourfold assembly expounded this Mahāyāna sutra named the Lotus Sutra of the Wonderful Dharma, a teaching for Bodhisattvas, treasured by the Buddhas. Having expounded this sutra, the sixteen śrāmaṇeras, for the sake of anuttarā-samyak-saṃbodhi, all together accepted, upheld, recited, and mastered it thoroughly. When this sutra was being expounded, the sixteen Bodhisattva-śrāmaṇeras all believed and accepted it with faith. Among the śrāvaka assembly there were also those who believed and understood. The remaining living beings—thousands of myriads of koṭis of species—all gave rise to doubts and perplexity. The Buddha expounded this sutra for eight thousand kalpas without ever resting or ceasing. Having expounded this sutra, he immediately entered a quiet chamber and dwelt in meditative concentration for eighty-four thousand kalpas. At that time the sixteen Bodhisattva-śrāmaṇeras, knowing the Buddha had entered the chamber in quiescent meditation, each ascended the Dharma-seat and likewise, for eighty-four thousand kalpas, discriminately expounded the Wonderful Dharma Lotus Sutra extensively for the fourfold assembly. Each one liberated six hundred myriads of koṭis of nayutas of Ganges' sands of living beings, teaching, benefiting, and delighting them, causing them to arouse the mind of anuttarā-samyak-saṃbodhi.
+
+"After Mahābhijñājñānābhibhū Buddha had passed eighty-four thousand kalpas, he arose from samādhi, proceeded to the Dharma-seat, sat calmly and peacefully, and universally addressed the great assembly: 'These sixteen Bodhisattva-śrāmaṇeras are exceedingly rare. Their faculties are keen and perceptive, their wisdom clear and illumined. They have previously made offerings to immeasurable thousands of myriads of koṭis of numbers of Buddhas. In the presence of all Buddhas they have constantly cultivated the holy practices, accepting and upholding the Buddha's wisdom, opening and revealing it to living beings, causing them to enter into it. You should all repeatedly draw near to and make offerings to them. Why? If śrāvakas, Pratyekabuddhas, and Bodhisattvas are able to believe the sutras expounded by these sixteen Bodhisattvas, accepting and upholding them without destroying them, such persons shall all attain anuttarā-samyak-saṃbodhi, the wisdom of the Tathāgata.'
+
+"The Buddha addressed the bhikṣus: 'These sixteen Bodhisattvas constantly delighted in expounding this Wonderful Dharma Lotus Sutra. Each Bodhisattva transformed six hundred myriads of koṭis of nayutas of Ganges' sands of living beings. Life after life, wherever they were born, they were together with that Bodhisattva. They heard the Dharma from him and all believed and understood. Through these causes and conditions they encountered four hundred myriads of koṭis of Buddhas, World-Honored Ones, and to this day have not yet exhausted this.'"
+
+"'O bhikṣus, I now tell you: Those sixteen śrāmaṇeras who were disciples of that Buddha have now all attained anuttarā-samyak-saṃbodhi. In lands throughout the ten directions they are presently expounding the Dharma, with immeasurable hundreds of thousands of myriads of koṭis of Bodhisattvas and śrāvakas as their retinue. Two of the śrāmaṇeras became Buddhas in the east: one is named Akṣobhya, in the land Abhirati; the other is named Merukūṭa. In the southeast are two Buddhas: one is named Siṃhanāda; the other is named Siṃhadhvaja. In the south are two Buddhas: one is named Ākāśapratiṣṭhita; the other is named Nityaparinirvṛta. In the southwest are two Buddhas: one is named Īśvaralakṣaṇa; the other is named Brahmalakṣaṇa. In the west are two Buddhas: one is named Amitāyus; the other is named Sarvalokadhātupadravodvegapratyuttīrṇa. In the northwest are two Buddhas: one is named Tamālapatracandanagandhābhijña; the other is named Merudhvajarāja. In the north are two Buddhas: one is named Meghasvararāja; the other is named Meghsvaravararāja. In the northeast the Buddha is named Sarvalokabhayastambhitvavidhvaṃsanakara. The sixteenth is I, Śākyamuni Buddha, who in the Sahā land accomplished anuttarā-samyak-saṃbodhi.'"
+
+"'O bhikṣus, when we were śrāmaṇeras, each of us taught and transformed immeasurable hundreds of thousands of myriads of koṭis of Ganges' sands of living beings. Those who heard the Dharma from me [aspired to] anuttarā-samyak-saṃbodhi. Among these living beings, to this day there are those dwelling at the ground of śrāvakas. I constantly teach and transform them toward anuttarā-samyak-saṃbodhi. These persons, through this Dharma, shall gradually enter the Buddha-Way. Why is this? The Tathāgata's wisdom is difficult to believe and difficult to understand. The immeasurable Ganges' sands of living beings transformed at that time—you bhikṣus, and those śrāvaka disciples after my extinction in a future age, are they. After my extinction, there will again be disciples who do not hear this sutra, do not know or perceive what Bodhisattvas practice, but who, regarding the merits they have themselves obtained, give rise to thoughts of extinction and enter nirvāṇa. In another land I shall become a Buddha with a different name. Though those persons give rise to thoughts of extinction and enter nirvāṇa, in that land they will seek the Buddha's wisdom and will be able to hear this sutra. Only through the Buddha Vehicle will they attain extinction—there is no other vehicle, except when Tathāgatas expound the Dharma through skillful means.'"
+
+"'O bhikṣus, if the Tathāgata knows that the time for nirvāṇa has arrived, and the assembly is again pure, with faith, understanding, and resolve firm, fully comprehending the Dharma of emptiness and deeply entered into meditation, then he gathers together all Bodhisattvas and the śrāvaka assembly to expound this sutra. In the world there are no two vehicles by which to attain extinction—there is only the one Buddha Vehicle by which to attain extinction. Bhikṣus should know: the Tathāgata's skillful means deeply penetrate the natures of living beings. Knowing their delight in lesser dharmas and their deep attachment to the five desires, for the sake of such persons he expounds nirvāṇa. If such persons hear it, they then believe and accept it.'"
+
+"'Suppose there were a险难 evil road of five hundred yojanas, a vast and barren expanse without people—a frightening place. If there were a large group wishing to traverse this road to reach a place of precious jewels, there would be a guide, intelligent and wise, well knowing the险道 and whether it was passable or blocked, who would lead and guide the people, desiring to pass through this difficulty. The people being led, midway through, grew weary and withdrew, addressing the guide: "We are utterly exhausted, and moreover we are afraid. We cannot proceed further. The road ahead is still far. Now we wish to turn back." The guide, possessing many skillful means, had this thought: "These people are pitiable—how can they abandon the great precious jewels and wish to turn back?" Having had this thought, through the power of skillful means, at a险道 he had passed three hundred yojanas along, he conjured a城. He told the people: "Do not be afraid! Do not turn back! Now there is this great city where you can stop and rest, doing as you wish. If you enter this city, you will quickly attain peace and tranquility. If you are able to proceed forward to the jewel-place, you may also go there." At that time the exhausted multitude, their minds greatly joyful, acclaimed as never before: "Now we have escaped this evil road and quickly attained peace and tranquility!" Thereupon the people proceeded forward and entered the conjured city, giving rise to thoughts of having crossed over and thoughts of peace and tranquility. At that time the guide, knowing these people had already obtained rest and were no longer exhausted, immediately caused the conjured city to vanish, saying to the people: "Come, let us go! The jewel-place is near. That great city just before—I conjured it merely as a resting place."'"
+
+
+═══════════════════════════════════════════════════════════════════════
+
+### Philosophical Implications
+
+This chapter develops the Lotus Sutra's central themes of universal Buddha-nature and the single vehicle of enlightenment. The teachings presented here connect to contemporary philosophical traditions including phenomenology, systems theory, and process philosophy.
+
+### Apparatus Summary
+
+- **Chapter Number**: 7
+- **Chinese Title**: See chapter heading
+- **Primary Theme**: [Theme description to be filled]
+- **Key Figures**: [To be completed]
+- **Central Teaching**: [To be completed]
+- **Structural Function**: [To be completed]
+
+### Footnotes
+
+[Scholarly apparatus notes and cross-references would be placed here in a complete scholarly edition]
+
+═════════════════════════════════════════════════════════════════════════

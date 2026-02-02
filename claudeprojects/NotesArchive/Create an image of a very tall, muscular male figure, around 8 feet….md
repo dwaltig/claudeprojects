@@ -1,0 +1,7 @@
+    * "Create an image of a very tall, muscular male figure, around 8 feet in height. His physique should closely resemble the idealized form of a classical Greek statue, with well-defined muscle tone."  
+    * "Ensure that he has a well-defined six-pack abs, embodying the peak of human athletic form. His body should not show any exaggerated alien features; aim for a realistic human look."  
+    * "His face should be symmetrical with classical human features. This includes a strong jawline, well-defined facial characteristics, and a normal human skull shape. He should not have any alien-like facial traits."  
+    * "Dress him in a fusion of ancient Greek clothing and futuristic elements. This combination should reflect a blend of classical heritage and advanced technology."  
+    * "The background should subtly suggest a sophisticated, Greek-inspired alien cityscape. It should blend elements of ancient Greek architecture with futuristic designs."  
+    * "It's important that the figure predominantly resembles a human being, with any alien aspects being very subtle and not immediately noticeable."  
+    * "The overall tone should be heroic and noble, capturing the essence of ancient Greek heroes and their aesthetic."  

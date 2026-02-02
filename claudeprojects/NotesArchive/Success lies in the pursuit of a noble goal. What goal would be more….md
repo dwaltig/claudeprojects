@@ -1,0 +1,20 @@
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+Success lies in the pursuit of a noble goal. What goal would be more dignified than Kosen-Rufu-widely Proclaiming the truth all beings have the potential for enlightenment in this present moment?  
+  
+The pursuit of Kosen-Rufu, which involves widely proclaiming the true potential of enlightenment for all beings, can be considered a noble goal. It entails spreading awareness and understanding of this potential to help individuals achieve enlightenment and contribute to the betterment of society. By dedicating oneself to this pursuit, one can strive to bring peace, harmony, and spiritual growth to humanity, making it a profoundly noble endeavor.  

@@ -1,0 +1,12 @@
+================================================================================
+10_ARCHIVE
+================================================================================
+
+PURPOSE: Older versions, backups, and historical materials
+
+This folder contains organized materials related to:
+Older versions, backups, and historical materials
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

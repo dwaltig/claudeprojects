@@ -1,0 +1,12 @@
+================================================================================
+02_SCHOLARLY_ENGLISH
+================================================================================
+
+PURPOSE: Scholarly English translation materials
+
+This folder contains organized materials related to:
+Scholarly English translation materials
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

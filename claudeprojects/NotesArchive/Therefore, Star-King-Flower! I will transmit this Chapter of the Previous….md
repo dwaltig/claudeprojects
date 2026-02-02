@@ -1,0 +1,6 @@
+#   
+  
+***Therefore, Star-King-Flower! I will transmit this Chapter of the Previous Life of Medicine-King Bodhisattva to you. Propagate this chapter throughout the Jambudvīpa in the later five hundred years after my extinction lest it should be lost, and lest Māra the Evil One, the followers of Māra, gods, dragons, yakṣas, and kumbhāṇḍas should take advantage *and plunge the people further into ignorance and suffering, hindering their path to enlightenment*. ***  
+  
+  
+**The Buddha gives this explanation to Star-King-Flower Bodhisattva in Chapter Twenty-Three of the Lotus Sūtra. The Jambudvīpa is the name the Buddha gives to this world of conflict and attachment in which we live. Nichiren interprets “the later five hundred years” as the time in which we are living today. The story of Medicine-King Bodhisattva is one of a being who does not spare any part of his life to benefit others. This Bodhisattva is confident that he will become enlightened, and that whatever happens to his physical body, he will always be reborn in worlds where he has the chance to benefit others and lead them by the wisdom of the Buddha. This chapter, and all those towards the end of the Lotus Sūtra, give us examples of how to bring the teachings of the Buddha to life.**  

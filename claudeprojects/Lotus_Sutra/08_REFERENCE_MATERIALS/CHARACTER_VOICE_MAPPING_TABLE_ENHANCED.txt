@@ -1,0 +1,406 @@
+================================================================================
+                    LOTUS SUTRA NARRATED MANUSCRIPT
+                    CHARACTER VOICE MAPPING TABLE
+                         ENHANCED EDITION
+================================================================================
+
+This table documents all major character-to-voice assignments in the ENHANCED
+narrated manuscript version of The Lotus Sutra (Blues Interpretation from
+Classical Chinese by Kumārajīva).
+
+ENHANCEMENT OVERVIEW:
+- Original version: 11 distinct voices, 540 voice tags
+- Enhanced version: 17 distinct voices, 554 voice tags
+- New additions: 6 individual character voices (disciples + parable characters)
+- [Gacrux] generic male voice: ELIMINATED (replaced with individual voices)
+
+================================================================================
+
+PRIMARY CHARACTERS AND VOICE ASSIGNMENTS
+================================================================================
+
+┌──────────────────────────┬──────────────┬─────────────────┬──────────────────────────────────────────┬──────────────┬────────────────────────────────────────┐
+│ CHARACTER/SPEAKER        │ VOICE TAG    │ CHARACTER TYPE  │ VOICE CHARACTERISTICS                    │ CHAPTERS     │ CONTEXT/NOTES                          │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ NARRATOR/EPIC VOICE      │ [Charon]     │ Narrator        │ Primary narrative voice; blues/gospel    │ All chapters │ Most frequent voice (211 occurrences). │
+│                          │              │                 │ storytelling register; introduces        │              │ Provides scene-setting, transitions,   │
+│                          │              │                 │ scenes, provides transitions and         │              │ context. Think: deep, authoritative    │
+│                          │              │                 │ context. Warm, authoritative,            │              │ narrator with storytelling gravitas.   │
+│                          │              │                 │ scene-setting.                           │              │ The "voice of the text itself."        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE BUDDHA               │ [Iapetus]    │ Buddha          │ Buddha's primary speaking voice for      │ 1-28         │ Prose dialogue (60 occurrences).       │
+│ (Śākyamuni/World-        │              │                 │ prose dialogue. Calm, wise, teaching     │              │ Used when Buddha speaks directly to    │
+│ Honored One)             │              │                 │ voice. Should convey depth, compassion,  │              │ disciples: "The Buddha told            │
+│                          │              │                 │ authority without harshness. The voice   │              │ Śāriputra..." For teachings, parables, │
+│                          │              │                 │ of the eternal teacher.                  │              │ explanations, responses.               │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE BUDDHA               │ [Rasalgethi] │ Buddha          │ Buddha's voice for VERSES and poetic     │ 1-28         │ Verses and some narrative (56          │
+│ (Verses/Poetic Form)     │              │                 │ sections. More musical, rhythmic,        │              │ occurrences). When Buddha "speaks in   │
+│                          │              │                 │ elevated. Can carry melody and           │              │ verse" or repeats meaning poetically.  │
+│                          │              │                 │ repetition. Blues/gospel preaching       │              │ More elevated, more musical than       │
+│                          │              │                 │ cadence.                                 │              │ [Iapetus].                             │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE BUDDHA               │ [Orus]       │ Buddha          │ Buddha when telling STORIES OF THE PAST  │ 7, 20, 28    │ Past-tense narratives (117             │
+│ (Past Stories/Parables)  │              │                 │ (ancient Buddhas, former lives,          │              │ occurrences). Parable of Phantom City, │
+│                          │              │                 │ parables). Storyteller mode - less       │              │ Never Looked Down story, etc. When     │
+│                          │              │                 │ formal than direct teaching, more        │              │ Buddha becomes storyteller rather than │
+│                          │              │                 │ like a preacher spinning out a tale.     │              │ direct teacher.                        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ ŚĀRIPUTRA                │ [Śāriputra]  │ Chief Disciple  │ **NEW INDIVIDUAL VOICE**                 │ 1-3, 15      │ Individual voice (7 occurrences).      │
+│ (Chief Disciple)         │              │                 │ Intellectual brilliance, quick           │              │ First to receive prophecy. Asks        │
+│                          │              │                 │ understanding, respectful inquiry,       │              │ questions, makes statements, recites   │
+│                          │              │                 │ scholarly precision. Voice should be     │              │ verses. Sharp, earnest, wondering.     │
+│                          │              │                 │ respectful but engaged, capable of       │              │ Voice of the intelligent seeker.       │
+│                          │              │                 │ wonder and realization.                  │              │                                        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ MAÑJUŚRĪ                 │ [Mañjuśrī]   │ Bodhisattva     │ **NEW INDIVIDUAL VOICE**                 │ 1, 24        │ Individual voice (4 occurrences).      │
+│ (Dharma Prince,          │              │                 │ Articulate, poetic, transcendent wisdom, │              │ In Ch. 1, answers Maitreya's questions │
+│ Bodhisattva of Wisdom)   │              │                 │ slightly playful/paradoxical. Ancient    │              │ about the Buddha's light. Tells story  │
+│                          │              │                 │ knowledge, elegant speech. The one who   │              │ of past Buddhas. Voice of paradoxical  │
+│                          │              │                 │ has seen it all before. Voice should     │              │ wisdom and ancient memory.             │
+│                          │              │                 │ carry depth and subtle knowing.          │              │                                        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ MAITREYA BODHISATTVA     │ [Maitreya]   │ Bodhisattva     │ **NEW INDIVIDUAL VOICE**                 │ 1, 15        │ Individual voice (9 occurrences).      │
+│ (Future Buddha)          │              │                 │ Prophetic authority, gentle, future-     │              │ In Ch. 1, questions Mañjuśrī. In       │
+│                          │              │                 │ looking, balanced wisdom. Represents     │              │ Ch. 15, questions Buddha about         │
+│                          │              │                 │ the assembly's wonder and aspiration.    │              │ bodhisattvas emerging from earth.      │
+│                          │              │                 │ Voice of the one who will come next,     │              │ Voice of reverent questioning and      │
+│                          │              │                 │ curious and hopeful.                     │              │ future hope.                           │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ MAHĀKĀŚYAPA              │ [Mahākāśyapa]│ Elder Disciple  │ **NEW INDIVIDUAL VOICE**                 │ 4            │ Individual voice (2 occurrences).      │
+│ (Great Kāśyapa,          │              │                 │ Austere wisdom earned through            │              │ Speaks on behalf of four elder        │
+│ Leader of Elders)        │              │                 │ asceticism, grounded, ancient presence.  │              │ disciples who tell the Prodigal Son    │
+│                          │              │                 │ "That stern old man who knew how to      │              │ parable. Voice of earned wisdom,       │
+│                          │              │                 │ live with nothing." Voice should carry   │              │ ascetic dignity, elder authority.      │
+│                          │              │                 │ weight of discipline and age.            │              │                                        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ AVALOKITEŚVARA           │ [Sulafat_F]  │ Bodhisattva     │ FEMALE VOICE. Bodhisattva of Compassion, │ 25           │ The "One Who Hears the World Crying"   │
+│ (Observer of Sounds)     │              │ (Female)        │ "Observer of the World's Sounds."        │              │ (27 occurrences). Central figure of    │
+│                          │              │                 │ Compassionate, powerful, protective.     │              │ Chapter 25. Delivers beings from       │
+│                          │              │                 │ Voice of mercy and deliverance.          │              │ suffering. Appears in multiple forms.  │
+│                          │              │                 │ Maternal but mighty.                     │              │ Referenced as "she" in this version.   │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ INEXHAUSTIBLE INTENTION  │ [Sulafat_F]  │ Bodhisattva     │ Shares voice with Avalokiteśvara.        │ 25           │ Questions the Buddha about             │
+│ BODHISATTVA              │              │                 │ Questioner in Chapter 25. Respectful,    │              │ Avalokiteśvara's name and practices.   │
+│                          │              │                 │ seeking to understand.                   │              │ Opens the teaching of Chapter 25.      │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ MAHĀPRAJĀPATĪ GAUTAMĪ    │ [Leda]       │ Bhikṣuṇī        │ FEMALE VOICE. The Buddha's aunt who      │ 13           │ First woman to receive prophecy of     │
+│ (The Buddha's Aunt)      │              │ (Female)        │ raised him. Leader of nuns. Voice        │              │ Buddhahood (4 occurrences). Leads 6000 │
+│                          │              │                 │ should carry dignity, maternal           │              │ nuns. Narrative voice and dialogue.    │
+│                          │              │                 │ strength, spiritual authority. Elder     │              │ Voice of female monastics claiming     │
+│                          │              │                 │ woman who demands recognition.           │              │ their inheritance.                     │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ YAŚODHARĀ                │ [Leda]       │ Bhikṣuṇī        │ FEMALE VOICE. The Buddha's former wife,  │ 13           │ Shares voice with Mahāprajāpatī.       │
+│ (Rāhula's Mother)        │              │ (Female)        │ Rāhula's mother. Receives her own        │              │ Receives prophecy of becoming          │
+│                          │              │                 │ prophecy of Buddhahood. Voice of         │              │ "Possessing-Myriad-Light-Marks Buddha."│
+│                          │              │                 │ quiet strength, inner knowing.           │              │ Sings with Mahāprajāpatī.              │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ DRAGON PRINCESS          │ [Schedar]    │ Non-human       │ Eight-year-old dragon king's daughter.   │ 12           │ Revolutionary figure (2 occurrences).  │
+│ (Eight Years Old)        │              │ (Female)        │ Young, confident, spiritually powerful.  │              │ Demonstrates instant enlightenment.    │
+│                          │              │                 │ Voice of one who knows her Buddha-       │              │ Challenges gender barriers. Transforms │
+│                          │              │                 │ nature and won't be denied. Fearless.    │              │ and becomes Buddha immediately.        │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ UNIVERSAL WORTHY         │ [Zubenelgenubi]│ Bodhisattva   │ (Samantabhadra) Represents practice and  │ 28           │ Final chapter (15 occurrences). Arrives│
+│ (Samantabhadra)          │              │                 │ vows. Powerful, protective, committed.   │              │ on white elephant. Makes vows to       │
+│                          │              │                 │ Voice of fierce dedication and           │              │ protect Lotus Sutra practitioners.     │
+│                          │              │                 │ protective devotion. Guardian energy.    │              │ Speaks dharanis. Embodies completion.  │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE SIXTEEN PRINCES      │ [Sadaltager] │ Royal Sons      │ GROUP VOICE. The sixteen sons of Great   │ 7            │ Collective voice (3 occurrences).      │
+│                          │              │                 │ Universal Wisdom Excellence Buddha.      │              │ Ancient story from Chapter 7 (Phantom  │
+│                          │              │                 │ Youthful, earnest, united in purpose.    │              │ City). Speak together, act together.   │
+│                          │              │                 │ Chorus effect.                           │              │ Later became Buddhas.                  │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ SECTION HEADERS/         │ [Aoede]      │ Editorial       │ Chapter titles, section headings,        │ All chapters │ Structural markers (27 occurrences).   │
+│ EDITORIAL MARKERS        │              │                 │ transitional markers. Clear, neutral,    │              │ "ŚĀRIPUTRA'S JOY" / "THE QUESTION" etc.│
+│                          │              │                 │ organizational voice. Not dramatic -     │              │ Can be read distinctly or treated as   │
+│                          │              │                 │ functional. Also: pronunciation guides,  │              │ textual markers only. Includes some    │
+│                          │              │                 │ glossary, editorial commentary.          │              │ editorial commentary and analysis.     │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ COMMENTARY/EDITORIAL     │ [Schedar]    │ Editorial       │ Interpretive commentary, editorial notes,│ 12, others   │ Meta-textual voice (2 occurrences).    │
+│ COMMENTARY               │              │                 │ explanatory passages. Voice of the       │              │ "This chapter carries one of the most  │
+│                          │              │                 │ interpreter explaining context,          │              │ revolutionary messages..." Could be     │
+│                          │              │                 │ significance, blues parallels.           │              │ same reader as [Aoede] or distinct.    │
+└──────────────────────────┴──────────────┴─────────────────┴──────────────────────────────────────────┴──────────────┴────────────────────────────────────────┘
+
+================================================================================
+
+NEW PARABLE CHARACTER VOICES (ENHANCED EDITION)
+================================================================================
+
+┌──────────────────────────┬──────────────┬─────────────────┬──────────────────────────────────────────┬──────────────┬────────────────────────────────────────┐
+│ CHARACTER/SPEAKER        │ VOICE TAG    │ CHARACTER TYPE  │ VOICE CHARACTERISTICS                    │ CHAPTERS     │ CONTEXT/NOTES                          │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE ELDER                │ [Elder_      │ Parable         │ **NEW PARABLE CHARACTER VOICE**          │ 3            │ Burning House parable (6 occurrences). │
+│ (Burning House Parable)  │  Parable]    │ Character       │ Paternal, urgent, creative, compassionate│              │ The rich elder/father figure who sees  │
+│                          │              │                 │ Uses skillful means. Voice should carry  │              │ his children trapped in burning house. │
+│                          │              │                 │ parental urgency, protective love,       │              │ Calls to them, promises toys, saves    │
+│                          │              │                 │ creative problem-solving. Desperate      │              │ them with skillful means. Represents   │
+│                          │              │                 │ father trying to save his kids.          │              │ the Buddha's compassionate methods.    │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE CHILDREN             │ [Children_   │ Parable         │ **NEW PARABLE CHARACTER VOICE**          │ 3            │ Burning House parable (1 occurrence).  │
+│ (Burning House Parable)  │  Voices]     │ Characters      │ Innocent, eager, playful, asking,        │              │ The children trapped in burning house  │
+│                          │              │                 │ multiple young voices (can be group or   │              │ who don't know danger. After escaping, │
+│                          │              │                 │ chorus). Voice should be youthful,       │              │ ask father for promised toys. Voice    │
+│                          │              │                 │ innocent, excited. Unaware of danger     │              │ should be young, hopeful, trusting.    │
+│                          │              │                 │ until saved, then grateful and eager.    │              │ Represents unenlightened beings.       │
+├──────────────────────────┼──────────────┼─────────────────┼──────────────────────────────────────────┼──────────────┼────────────────────────────────────────┤
+│ THE GUIDE                │ [Guide_      │ Parable         │ **NEW PARABLE CHARACTER VOICE**          │ 7            │ Phantom City parable (2 occurrences).  │
+│ (Phantom City Parable)   │  Phantom]    │ Character       │ Authoritative guide, protective,         │              │ The skillful leader/general who guides │
+│                          │              │                 │ creative teacher, strategist. Voice      │              │ weary travelers on dangerous path.     │
+│                          │              │                 │ should carry wisdom of experience,       │              │ Creates phantom city as rest stop.     │
+│                          │              │                 │ protective authority, patient teaching.  │              │ Then reveals it's an illusion and leads│
+│                          │              │                 │ One who knows the way and adapts         │              │ to true treasure. Represents Buddha's  │
+│                          │              │                 │ teaching to travelers' capacity.         │              │ progressive teaching methods.          │
+└──────────────────────────┴──────────────┴─────────────────┴──────────────────────────────────────────┴──────────────┴────────────────────────────────────────┘
+
+NOTE: The Prodigal Son parable (Chapter 4) is narrated by Mahākāśyapa and other
+elders, telling the story to the Buddha. Their narration uses [Mahākāśyapa] voice
+and [Charon] (narrator), rather than separate character voices for father and son
+within the parable.
+
+================================================================================
+
+VOICE FREQUENCY SUMMARY (ENHANCED EDITION)
+================================================================================
+
+Voice Tag              Frequency    Primary Assignment
+---------------------------------------------------------
+[Charon]                  211       Narrator/Epic Voice
+[Orus]                    117       Buddha (Past Stories/Parables)
+[Iapetus]                  60       Buddha (Prose Dialogue)
+[Rasalgethi]               56       Buddha (Verses/Poetic)
+[Sulafat_F]                27       Avalokiteśvara/Inexhaustible Intention
+[Aoede]                    27       Section Headers/Editorial Markers
+[Zubenelgenubi]            15       Universal Worthy (Samantabhadra)
+[Maitreya]                  9       Maitreya Bodhisattva (NEW)
+[Śāriputra]                 7       Śāriputra, Chief Disciple (NEW)
+[Elder_Parable]             6       Elder in Burning House parable (NEW)
+[Mañjuśrī]                  4       Mañjuśrī, Bodhisattva of Wisdom (NEW)
+[Leda]                      4       Mahāprajāpatī/Yaśodharā
+[Sadaltager]                3       The Sixteen Princes (Group)
+[Schedar]                   2       Commentary/Dragon Princess
+[Mahākāśyapa]               2       Mahākāśyapa, Elder Disciple (NEW)
+[Guide_Phantom]             2       Guide in Phantom City parable (NEW)
+[Children_Voices]           1       Children in Burning House (NEW)
+
+Total Voice Tags: 554 across entire manuscript (up from 540)
+Distinct Character Voices: 17 (up from 11)
+
+NEW VOICES ADDED IN ENHANCEMENT: 7
+  • [Śāriputra] - Individual voice for chief disciple (7)
+  • [Mañjuśrī] - Individual voice for wisdom bodhisattva (4)
+  • [Maitreya] - Individual voice for future Buddha (9)
+  • [Mahākāśyapa] - Individual voice for elder disciple (2)
+  • [Elder_Parable] - Elder in Burning House parable (6)
+  • [Guide_Phantom] - Guide in Phantom City parable (2)
+  • [Children_Voices] - Children in Burning House (1)
+
+ELIMINATED: [Gacrux] - Generic male disciple voice (previously 51 occurrences)
+All former [Gacrux] instances now assigned to:
+  • Individual disciples: Śāriputra, Mañjuśrī, Maitreya, Mahākāśyapa
+  • Buddha voices: Iapetus (prose), Rasalgethi (verse)
+  • Narrator/editorial: Charon, Aoede
+
+================================================================================
+
+GENDER REPRESENTATION IN VOICE CASTING
+================================================================================
+
+FEMALE VOICES (3 distinct tags):
+  • [Sulafat_F] - Avalokiteśvara, Inexhaustible Intention (27 occurrences)
+  • [Leda] - Mahāprajāpatī, Yaśodharā (4 occurrences)
+  • [Schedar] - Dragon Princess (2 occurrences, plus editorial)
+
+MALE VOICES (11 distinct tags):
+  • [Charon] - Narrator (211)
+  • [Orus] - Buddha storytelling (117)
+  • [Iapetus] - Buddha prose (60)
+  • [Rasalgethi] - Buddha verses (56)
+  • [Zubenelgenubi] - Universal Worthy (15)
+  • [Maitreya] - Maitreya Bodhisattva (9) **NEW**
+  • [Śāriputra] - Chief Disciple (7) **NEW**
+  • [Elder_Parable] - Burning House elder (6) **NEW**
+  • [Mañjuśrī] - Wisdom Bodhisattva (4) **NEW**
+  • [Sadaltager] - Sixteen Princes group (3)
+  • [Mahākāśyapa] - Elder Disciple (2) **NEW**
+  • [Guide_Phantom] - Phantom City guide (2) **NEW**
+
+NEUTRAL/GENDER-AMBIGUOUS (2 tags):
+  • [Children_Voices] - Can be mixed group of children (1) **NEW**
+
+NEUTRAL/STRUCTURAL (2 tags):
+  • [Aoede] - Section markers (27)
+  • [Schedar] - Commentary (2)
+
+================================================================================
+
+PRODUCTION NOTES FOR VOICE ACTORS
+================================================================================
+
+BUDDHA'S THREE VOICES:
+The Buddha requires THREE distinct vocal approaches depending on context:
+  1. [Iapetus] - Direct teaching prose: calm, clear, authoritative (60)
+  2. [Rasalgethi] - Verses: more musical, rhythmic, elevated (56)
+  3. [Orus] - Storytelling: warm, narrative, preacher spinning a tale (117)
+
+Consider using:
+  • Same actor with different registers, OR
+  • Three actors with timbral similarity but different performance styles
+
+NARRATOR [Charon]:
+This is the spine of the entire work (211 occurrences). Needs:
+  • Stamina for long-form narration
+  • Blues/gospel storytelling authenticity
+  • Ability to shift between scene-setting and intimate address
+  • Warm authority without being preachy
+  • Think: August Wilson narrator, gospel DJ, blues documentarian
+
+INDIVIDUAL DISCIPLE VOICES (NEW):
+These voices replace the generic [Gacrux]. Each should be distinct:
+
+  • [Śāriputra] (7): Intellectual, sharp, earnest questioning. Quick understanding
+    but respectful. The brilliant student who gets it fast. Scholarly precision.
+
+  • [Mañjuśrī] (4): Transcendent wisdom, slightly playful/paradoxical. Ancient
+    knowledge, elegant speech. Has seen it all before. Subtle, knowing smile in
+    the voice. Articulate and poetic.
+
+  • [Maitreya] (9): Future-oriented, hopeful, gentle authority. Represents the
+    assembly's wonder. Prophetic but humble. Voice of what's coming next. Balanced
+    wisdom without Mañjuśrī's paradox.
+
+  • [Mahākāśyapa] (2): Austere elder, grounded in ascetic practice. "Stern old man
+    who knew how to live with nothing." Weight of discipline and age. Speaks for
+    the four elders who tell Prodigal Son parable.
+
+PARABLE CHARACTER VOICES (NEW):
+These bring the parables to life as dramatic scenes:
+
+  • [Elder_Parable] (6): Desperate father in burning house. Urgent, creative,
+    loving. Parental authority mixed with fear and relief. Uses tricks to save
+    children. Voice should shift: panic → creative scheming → relief → joy.
+
+  • [Children_Voices] (1): Can be single voice or chorus/group. Young, innocent,
+    eager. Asking for promised toys. Trusting their father. Youthful energy.
+
+  • [Guide_Phantom] (2): Authoritative but compassionate leader. Strategic mind,
+    protective heart. Patient teacher who adapts to students' capacity. Wisdom of
+    experience guiding weary travelers.
+
+FEMALE VOICES:
+Critical that these are STRONG, AUTHORITATIVE voices, not soft or submissive:
+  • [Leda] needs elder-woman dignity and spiritual power
+  • [Sulafat_F] needs compassionate strength, protective maternal energy
+  • [Schedar] (Dragon Princess) needs youthful confidence and fearlessness
+
+CHAPTER-BY-CHAPTER VOICE DISTRIBUTION:
+  • Chapter 1: Mañjuśrī and Maitreya dialogue (NEW individual voices)
+  • Chapters 1-3: Heavy Buddha/Śāriputra dialogue (NEW Śāriputra voice)
+  • Chapter 3: Burning House parable (NEW Elder and Children voices)
+  • Chapter 4: Prodigal Son (Mahākāśyapa narrating - NEW voice)
+  • Chapter 7: Phantom City (NEW Guide voice)
+  • Chapter 12: Dragon Princess appears
+  • Chapter 13: Female monastics (Mahāprajāpatī, Yaśodharā)
+  • Chapter 15: Maitreya questions about bodhisattvas (NEW Maitreya voice)
+  • Chapter 20: Never Looked Down story (Buddha as storyteller)
+  • Chapter 25: Avalokiteśvara chapter (heavy [Sulafat_F])
+  • Chapter 28: Universal Worthy finale
+
+================================================================================
+
+TECHNICAL SPECIFICATIONS
+================================================================================
+
+SOURCE MANUSCRIPT: narrated_manuscript_enhanced.txt
+Location: /Users/williamaltig/claudeprojects/Lotus_Sutra/
+File size: ~800KB
+Total lines: 15,650 lines
+Voice tags: 554 total bracketed assignments (up from 540)
+Distinct voices: 17 (up from 11)
+
+SOURCE TEXT: Kumārajīva's Classical Chinese translation (406 CE)
+妙法蓮華經 (Miàofǎ Liánhuā Jīng)
+
+INTERPRETATION: Blues/Gospel vernacular by William Altig (2025)
+
+================================================================================
+
+ENHANCEMENT METHODOLOGY
+================================================================================
+
+This enhanced edition was created through systematic analysis:
+
+1. SPEAKER IDENTIFICATION: Every instance of generic [Gacrux] tag analyzed for
+   actual speaker identity using context clues (narrative attribution, dialogue
+   patterns, chapter structure).
+
+2. CHARACTER VOICE ASSIGNMENT: Individual voices created for major disciples:
+   - Śāriputra (chief disciple, frequent dialogue partner)
+   - Mañjuśrī (wisdom bodhisattva, Chapter 1 teacher)
+   - Maitreya (future Buddha, questioner in Chapters 1 & 15)
+   - Mahākāśyapa (elder disciple, narrator of Chapter 4)
+
+3. PARABLE CHARACTER DRAMATIZATION: Key parable figures given voices:
+   - Elder in Burning House (urgent father saving children)
+   - Children in Burning House (innocent voices asking for toys)
+   - Guide in Phantom City (wise leader creating rest stops)
+
+4. VOICE ARCHETYPE ALIGNMENT: Each character voice designed to reflect:
+   - Spiritual role (wisdom figure, seeker, teacher, guide)
+   - Emotional register (intellectual, protective, wondering, ancient)
+   - Narrative function (questioner, narrator, dialogue partner)
+   - Blues/dharma synthesis (accessible wisdom, vernacular truth-telling)
+
+5. GENDER AUTHENTICITY: Maintained 100% gender-appropriate voice assignments
+   throughout all 554 voice tags.
+
+DEFENSIBLE PRINCIPLES:
+- Every voice choice serves character development and dharma teaching
+- Parable voices enhance dramatic immediacy and emotional connection
+- Individual disciple voices honor their distinct personalities and roles
+- Blues tradition of characterization through voice maintained
+- Spiritual authenticity preserved in all assignments
+
+================================================================================
+
+REVISION HISTORY
+================================================================================
+
+Version 1.0 - Original Professional Edition
+Created: 2025-11-07
+Voices: 11 distinct
+Tags: 540 total
+Generic male voice: [Gacrux] (51 occurrences)
+
+Version 2.0 - Enhanced Edition
+Created: 2025-11-07
+Voices: 17 distinct (+6 new individual character voices)
+Tags: 554 total (+14 new voice assignments)
+Generic male voice: ELIMINATED
+Enhanced by: Claude (Sonnet 4.5)
+Methodology: Context analysis, character tracking, parable dramatization
+
+New Voices Added:
+- [Śāriputra] - Chief Disciple (7)
+- [Mañjuśrī] - Bodhisattva of Wisdom (4)
+- [Maitreya] - Future Buddha (9)
+- [Mahākāśyapa] - Elder Disciple (2)
+- [Elder_Parable] - Burning House father (6)
+- [Guide_Phantom] - Phantom City guide (2)
+- [Children_Voices] - Burning House children (1)
+
+================================================================================
+
+For questions about voice assignments, character interpretations, or
+pronunciation, consult the source manuscript and supplementary glossary.
+
+This table is designed for professional voice actors, producers, and directors
+working with the narrated/audiobook production of this translation.
+
+The Enhanced Edition brings the "Think Different" approach: creating characters
+through their voices, honoring both blues storytelling tradition and Buddhist
+dharma authenticity.
+
+================================================================================
+                              END OF TABLE
+================================================================================

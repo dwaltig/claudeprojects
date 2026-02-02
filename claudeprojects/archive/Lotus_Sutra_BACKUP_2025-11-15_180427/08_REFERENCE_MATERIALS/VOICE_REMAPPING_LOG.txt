@@ -1,0 +1,347 @@
+VOICE REMAPPING LOG - Gemini Speaker Voices
+================================================
+Timestamp: Fri Nov  7 19:37:32 CST 2025
+
+REMAPPING OPERATIONS:
+
+=== MALE DISCIPLES & CHARACTERS ===
+1. ŚĀRIPUTRA (Chief Disciple - intellectual brilliance)
+  Old: [Śāriputra] → New: [Orus]
+  Occurrences: 7
+  Sample line numbers:
+    Line 1102
+    Line 1168
+    Line 1188
+    Line 1222
+    Line 1931
+
+2. MAÑJUŚRĪ (Bodhisattva of Wisdom - playful, paradoxical)
+  Old: [Mañjuśrī] → New: [Puck]
+  Occurrences: 4
+  Sample line numbers:
+    Line 631
+    Line 650
+    Line 705
+    Line 12488
+
+3. MAITREYA (Future Buddha - prophetic, forward momentum)
+  Old: [Maitreya] → New: [Orion]
+  Occurrences: 9
+  Sample line numbers:
+    Line 8385
+    Line 8395
+    Line 8513
+    Line 8554
+    Line 8624
+
+4. MAHĀKĀŚYAPA (Elder Disciple - austere, grounded)
+  Old: [Mahākāśyapa] → New: [Vulcan]
+  Occurrences: 2
+  Sample line numbers:
+    Line 3509
+    Line 3635
+
+5. ELDER IN BURNING HOUSE (Father figure - commanding authority)
+  Old: [Elder_Parable] → New: [Jove]
+  Occurrences: 6
+  Sample line numbers:
+    Line 2258
+    Line 2268
+    Line 2271
+    Line 2284
+    Line 2289
+
+6. GUIDE IN PHANTOM CITY (Strategic leader - military precision)
+  Old: [Guide_Phantom] → New: [Sadaltager]
+  Occurrences: 2
+  Sample line numbers:
+    Line 5567
+    Line 5568
+
+=== FEMALE DISCIPLES & CHARACTERS ===
+7. AVALOKITEŚVARA (Compassion - ethereal, serene) - Fix tag format
+  Old: [Sulafat_F] → New: [Sulafat]
+  Occurrences: 27
+  Sample line numbers:
+    Line 5679
+    Line 7636
+    Line 7974
+    Line 12914
+    Line 12926
+
+8. DRAGON PRINCESS (Young transformation - sweet, inspiring)
+  Old: [Schedar] → New: [Lyra]
+  Occurrences: 2
+  Sample line numbers:
+    Line 7198
+    Line 7259
+
+9. CHILDREN VOICES (Innocent, playful - youthful optimism)
+  Old: [Children_Voices] → New: [Aoede]
+  Occurrences: 1
+  Sample line numbers:
+    Line 2300
+
+=== EDITORIAL & STRUCTURAL ===
+10. EDITORIAL MARKERS (Structural narration)
+  Old: [Aoede] → New: [Orus]
+  Note: Aoede was used for editorial (27 occurrences)
+  After Children_Voices→Aoede: checking current count...
+  Current Aoede count: 28
+  ACTION NEEDED: Review Aoede contexts - editorial vs children
+
+=== BUDDHA VOICE DIFFERENTIATION ===
+11. BUDDHA VERSES/POETIC MODE
+  Note: Some [Rasalgethi] instances should be [Triton] for verses
+  Current [Rasalgethi]: 56 occurrences
+  ACTION NEEDED: Context-sensitive replacement (verse vs narrative)
+  Keeping [Rasalgethi] for storytelling, manual review needed for verses
+
+=== PRONUNCIATION GUIDES (Kept As-Is) ===
+The following pronunciation tags are preserved:
+[Ah-NAHN-dah]
+[Ah-SOOR-ah]
+[Dah-RAH-nee]
+[Mahn-JOO-shree]
+[My-TRAY-ah]
+[Near-VAH-nah]
+[Praht-YEK-ah-boo-dah]
+[Rah-HOO-lah]
+[Tah-TAH-gah-tah]
+
+
+================================================
+FINAL VOICE TAG STATISTICS
+================================================
+
+ 211 [Charon]
+ 124 [Orus]
+  60 [Iapetus]
+  56 [Rasalgethi]
+  28 [Aoede]
+  27 [Sulafat]
+  15 [Zubenelgenubi]
+   9 [Orion]
+   6 [Jove]
+   5 [Sadaltager]
+   4 [Puck]
+   4 [Leda]
+   2 [Vulcan]
+   2 [Lyra]
+   1 [trouble] comes... call her name... [deliverance]
+   1 [Tah-TAH-gah-tah]
+   1 [STOO-pah]
+   1 [Shah-ree-POO-trah]
+   1 [SHAH-krah]
+   1 [Rah-HOO-lah]
+   1 [Praht-YEK-ah-boo-dah]
+   1 [on anyone]
+   1 [Near-VAH-nah]
+   1 [My-TRAY-ah]
+   1 [Miao Fa Lian Hua Jing/妙法蓮華經]
+   1 [Mahn-JOO-shree]
+   1 [Ma-ha-KASH-yah-pah]
+   1 [KAHL-pah]
+   1 [Day-vah-DAH-tah]
+   1 [Dah-RAH-nee]
+   1 [BRAH-mah]
+   1 [BOO-dah]
+   1 [Boh-dee-SAHT-vah]
+   1 [AR-haht]
+   1 [Ah-vah-loh-kee-TESH-vah-rah]
+   1 [Ah-SOOR-ah]
+   1 [Ah-NYAH-tah Kawn-DIN-yah]
+   1 [Ah-NAHN-dah]
+
+================================================
+REMAPPING COMPLETE
+Output file: /Users/williamaltig/claudeprojects/Lotus_Sutra/narrated_manuscript_final.txt
+================================================
+
+================================================
+PHASE 2: CONTEXT-SENSITIVE REMAPPING
+================================================
+
+AOEDE REMAPPING (Editorial vs Children):
+
+  Line 1914: EDITORIAL marker - CHANGE to [Orus]
+  Line 1928: EDITORIAL marker - CHANGE to [Orus]
+  Line 2170: EDITORIAL marker - CHANGE to [Orus]
+  Line 2300: CHILDREN speaking - KEEP as [Aoede]
+  Line 3284: EDITORIAL marker - CHANGE to [Orus]
+  Line 4482: EDITORIAL marker - CHANGE to [Orus]
+  Line 7330: EDITORIAL marker - CHANGE to [Orus]
+  Line 7355: EDITORIAL marker - CHANGE to [Orus]
+  Line 8299: EDITORIAL marker - CHANGE to [Orus]
+  Line 8361: EDITORIAL marker - CHANGE to [Orus]
+  Line 9274: EDITORIAL marker - CHANGE to [Orus]
+  Line 9745: EDITORIAL marker - CHANGE to [Orus]
+  Line 10132: EDITORIAL marker - CHANGE to [Orus]
+  Line 11255: EDITORIAL marker - CHANGE to [Orus]
+  Line 11309: EDITORIAL marker - CHANGE to [Orus]
+  Line 11567: EDITORIAL marker - CHANGE to [Orus]
+  Line 14275: EDITORIAL marker - CHANGE to [Orus]
+  Line 14383: EDITORIAL marker - CHANGE to [Orus]
+  Line 14412: EDITORIAL marker - CHANGE to [Orus]
+  Line 14682: EDITORIAL marker - CHANGE to [Orus]
+  Line 14688: EDITORIAL marker - CHANGE to [Orus]
+  Line 14718: EDITORIAL marker - CHANGE to [Orus]
+  Line 14860: EDITORIAL marker - CHANGE to [Orus]
+  Line 14878: EDITORIAL marker - CHANGE to [Orus]
+  Line 14942: EDITORIAL marker - CHANGE to [Orus]
+  Line 14958: EDITORIAL marker - CHANGE to [Orus]
+  Line 15432: EDITORIAL marker - CHANGE to [Orus]
+  Line 15478: EDITORIAL marker - CHANGE to [Orus]
+
+  Editorial (→Orus): 27
+  Children (keep Aoede): 1
+
+ŚĀRIPUTRA vs EDITORIAL ORUS USAGE:
+  Note: [Orus] now represents both Śāriputra character voice
+        and editorial/structural markers (both male voice)
+  This is acceptable as they serve different narrative functions
+
+FEMALE ASSEMBLY VOICES:
+  [Leda] occurrences: 4
+  Recommendation: Keep [Leda] for general female assembly
+  Alternative: Could map to [Kore] for warmer, more welcoming tone
+
+BUDDHA VOICE CONTEXTS (Rasalgethi analysis):
+  Checking for verse markers near [Rasalgethi]...
+
+  Line 100: NARRATIVE context (keep Rasalgethi)
+  Line 258: NARRATIVE context (keep Rasalgethi)
+  Line 1093: NARRATIVE context (keep Rasalgethi)
+  Line 1178: VERSE context detected
+  Line 1214: NARRATIVE context (keep Rasalgethi)
+  Line 1713: NARRATIVE context (keep Rasalgethi)
+  Line 2012: NARRATIVE context (keep Rasalgethi)
+  Line 2046: NARRATIVE context (keep Rasalgethi)
+  Line 2173: NARRATIVE context (keep Rasalgethi)
+  Line 2235: NARRATIVE context (keep Rasalgethi)
+  Line 2247: NARRATIVE context (keep Rasalgethi)
+  Line 2331: NARRATIVE context (keep Rasalgethi)
+  Line 2399: VERSE context detected
+  Line 2517: NARRATIVE context (keep Rasalgethi)
+  Line 3253: NARRATIVE context (keep Rasalgethi)
+  Line 3293: NARRATIVE context (keep Rasalgethi)
+  Line 3317: NARRATIVE context (keep Rasalgethi)
+  Line 3581: NARRATIVE context (keep Rasalgethi)
+  Line 3716: NARRATIVE context (keep Rasalgethi)
+  Line 4117: NARRATIVE context (keep Rasalgethi)
+
+  Verse contexts (→Triton): 2
+  Narrative contexts (keep Rasalgethi): 18
+  (Showing first 20 instances only)
+
+================================================
+UPDATED VOICE TAG STATISTICS (After Phase 2)
+================================================
+
+ 211 [Charon]
+ 151 [Orus]
+  60 [Iapetus]
+  54 [Rasalgethi]
+  27 [Sulafat]
+  15 [Zubenelgenubi]
+   9 [Orion]
+   6 [Jove]
+   5 [Sadaltager]
+   4 [Puck]
+   4 [Leda]
+   2 [Vulcan]
+   2 [Triton]
+   2 [Lyra]
+   1 [trouble] comes... call her name... [deliverance]
+   1 [Tah-TAH-gah-tah]
+   1 [STOO-pah]
+   1 [Shah-ree-POO-trah]
+   1 [SHAH-krah]
+   1 [Rah-HOO-lah]
+   1 [Praht-YEK-ah-boo-dah]
+   1 [on anyone]
+   1 [Near-VAH-nah]
+   1 [My-TRAY-ah]
+   1 [Miao Fa Lian Hua Jing/妙法蓮華經]
+   1 [Mahn-JOO-shree]
+   1 [Ma-ha-KASH-yah-pah]
+   1 [KAHL-pah]
+   1 [Day-vah-DAH-tah]
+   1 [Dah-RAH-nee]
+   1 [BRAH-mah]
+   1 [BOO-dah]
+   1 [Boh-dee-SAHT-vah]
+   1 [AR-haht]
+   1 [Aoede]
+   1 [Ah-vah-loh-kee-TESH-vah-rah]
+   1 [Ah-SOOR-ah]
+   1 [Ah-NYAH-tah Kawn-DIN-yah]
+   1 [Ah-NAHN-dah]
+
+PHASE 2 COMPLETE
+================================================
+
+================================================
+GENDER ALIGNMENT VERIFICATION
+================================================
+
+MALE VOICES IN USE:
+  [Charon]: 207354 occurrences
+  [Iapetus]: 246231 occurrences
+  [Jove]: 121925 occurrences
+  [Orion]: 160494 occurrences
+  [Orus]: 94721 occurrences
+  [Puck]: 38488 occurrences
+  [Rasalgethi]: 332838 occurrences
+  [Sadaltager]: 276892 occurrences
+  [Triton]: 217430 occurrences
+  [Vulcan]: 148731 occurrences
+  [Zubenelgenubi]: 221846 occurrences
+
+FEMALE VOICES IN USE:
+  [Aoede]: 144798 occurrences
+  [Leda]: 148258 occurrences
+  [Lyra]: 93886 occurrences
+  [Sulafat]: 158707 occurrences
+
+NON-GEMINI TAGS (pronunciation guides, special markers):
+[Ah-NAHN-dah]
+[Ah-NYAH-tah Kawn-DIN-yah]
+[Ah-SOOR-ah]
+[Ah-vah-loh-kee-TESH-vah-rah]
+[AR-haht]
+[Boh-dee-SAHT-vah]
+[BOO-dah]
+[BRAH-mah]
+[Dah-RAH-nee]
+[Day-vah-DAH-tah]
+[KAHL-pah]
+[Ma-ha-KASH-yah-pah]
+[Mahn-JOO-shree]
+[Miao Fa Lian Hua Jing/妙法蓮華經]
+[My-TRAY-ah]
+[Near-VAH-nah]
+[on anyone]
+[Praht-YEK-ah-boo-dah]
+[Rah-HOO-lah]
+[SHAH-krah]
+[Shah-ree-POO-trah]
+[STOO-pah]
+[Tah-TAH-gah-tah]
+[trouble] comes... call her name... [deliverance]
+
+GENDER ALIGNMENT STATUS:
+  Male characters should use male voices only
+  Female characters should use female voices only
+
+  Total Gemini Male Voice Tags: 519
+  Total Gemini Female Voice Tags: 34
+  Total Gemini Voice Tags: 553
+
+RECOMMENDATION: Generic Male Disciples
+  Consider adding [Gacrux] for unnamed male assembly members
+  [Gacrux] characteristics: Heroism, integrity, leadership
+  Currently male assembly may be using [Charon] or other voices
+
+GENDER ALIGNMENT VERIFICATION COMPLETE
+================================================

@@ -1,0 +1,21 @@
+Science Doesn't Trust Your Rationality
+Eliezer Yudkowsky
+
+Scott Aaronson suggests that Many-Worlds and libertarianism are similar in that they are both cases of bullet-swallowing, rather than bullet-dodging: Libertarianism and MWI are both grand philosophical theories that start from premises that almost all educated people accept (quantum mechanics in the one case, Econ 101 in the other), and claim to reach conclusions that most educated people reject.
+
+I've previously argued that Science rejects Many-Worlds but Bayes accepts it. It furthermore seems to me that there is a deep analogy between (small-'l') libertarianism and Science:
+1. Both are based on a pragmatic distrust of reasonable-sounding arguments.
+2. Both try to build systems that are more trustworthy than the people in them.
+3. Both accept that people are flawed, and try to harness their flaws to power the system.
+
+The core argument for libertarianism is historically motivated distrust of lovely theories of "How much better society would be, if we just made a rule that said XYZ." If that sort of trick actually worked, then more regulations would correlate to higher economic growth. But when some person or interest group gets enough power, history says that what actually happens is Revolutionary France or Soviet Russia.
+
+Science first came to know itself as a rebellion against trusting the word of Aristotle. If the people of that revolution had merely said, "Let us trust ourselves, not Aristotle!" they would have flashed and faded like the French Revolution. But the Scientific Revolution lasted because the architects propounded a stranger philosophy: "Let us trust no one! Not even ourselves!"
+
+We assume and accept that each individual scientist may be crazily attached to their personal theories. Instead, we try to harness the individual scientist's stubborn desire to prove their personal theory, by saying: "Make a new experimental prediction, and do the experiment. If you're right, and the experiment is replicated, you win." Individual selfishness is harnessed to produce a steady stream of knowledge at the group level. The System is somewhat more trustworthy than its parts.
+
+The final upshot is that Science is not easily reconciled with probability theory. If you do a probability-theoretic calculation correctly, you're going to get the rational answer. Science doesn't trust your rationality, and it doesn't rely on your ability to use probability theory as the arbiter of truth. It wants you to set up a definitive experiment.
+
+Regarding Science as a mere approximation to some probability-theoretic ideal of rationality... would certainly seem to be rational. There seems to be an extremely reasonable-sounding argument that Bayes's Theorem is the hidden structure that explains why Science works. But to subordinate Science to the grand schema of Bayesianism, and let Bayesianism come in and override Science's verdict when that seems appropriate, is not a trivial step!
+
+Science is built around the assumption that you're too stupid and self-deceiving to just use Solomonoff induction. After all, if it was that simple, we wouldn't need a social process of science... right?

@@ -1,0 +1,1 @@
+Dharma, the fundamental principles and truths governing existence, encompasses concepts such as duty, righteousness, cosmic order, and the inherent potential for enlightenment within every being. By embracing the Dharma, one aligns themselves with these truths and lives in harmony with the universe’s natural flow.  

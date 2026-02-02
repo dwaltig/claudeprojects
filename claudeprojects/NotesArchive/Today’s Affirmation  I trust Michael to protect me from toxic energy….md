@@ -1,0 +1,2 @@
+**Today’s Affirmation:***  "I trust Michael to protect me from toxic energy, overwhelm, and exhaustion. And I know that Michael will guide me to create boundaries with people and situations who drain me energetically."*  
+**Today’s Affirmation:***  "I trust Michael to protect me from toxic energy, overwhelm, and exhaustion. And I know that Michael will guide me to create boundaries with people and situations who drain me energetically."*  

@@ -1,0 +1,508 @@
+# Chapter 4: Faith and Understanding
+
+*信解品第四*
+
+At that time the Venerable Subhūti, Mahākātyāyana, Mahākāśyapa, and Mahāmaudgalyāyana, hearing from the Buddha this Dharma never before heard, and hearing that the World-Honored One conferred upon Śāriputra the prediction of anuttarā-samyak-saṃbodhi, gave rise to a rare aspiration. Joyful and rapturous, they immediately rose from their seats, adjusted their robes, bared their right shoulders, placed their right knees upon the ground, single-mindedly joined their palms, bent their bodies in reverence, gazed up at the Honored Countenance, and addressed the Buddha, saying:
+
+"We dwell at the head of the Saṅgha, and our years are all declining and aged. Considering ourselves to have already attained nirvāṇa, we felt ourselves incompetent and did not further advance to seek anuttarā-samyak-saṃbodhi. World-Honored One, you have long expounded the Dharma. At that time we sat in the assembly, our bodies growing weary and lax, merely contemplating emptiness, signlessness, and wishlessness. Regarding the Dharma of the Bodhisattvas—the spiritual penetrations through which they play, the purification of Buddha-lands, and the perfection of living beings—our minds took no delight or joy in these. Wherefore is this so? The World-Honored One caused us to emerge from the triple world and attain the realization of nirvāṇa. Moreover, we are now aged and declining. Regarding the Buddha's teaching and transformation of Bodhisattvas toward anuttarā-samyak-saṃbodhi, we did not generate even a single thought of delight or aspiration.
+
+"We now before the Buddha, hearing the conferral of anuttarā-samyak-saṃbodhi upon śrāvakas, experience extreme joy in our hearts and have attained what we never before attained. We did not expect that now, suddenly, we would hear this rare Dharma. We deeply congratulate ourselves on having obtained this great wholesome benefit—immeasurable jewels arriving unsought."
+
+"World-Honored One, we now delight in speaking a parable to clarify this meaning. Suppose there was a person who, while still young in years, abandoned his father, ran away, and for a long time dwelt in another land—perhaps ten, twenty, or as many as fifty years. As his years increased and he grew older, he moreover became impoverished and destitute, running about in the four directions seeking clothing and food. Gradually wandering and traveling, he happened to move toward his original land.
+
+"His father had previously searched for his son but failed to find him, and had settled in a certain city. His household was greatly wealthy, with treasuries and wealth immeasurable—gold, silver, lapis lazuli, coral, amber, crystal, pearls, and such. His various storehouses were all overflowing and full. He had many servants, ministers, assistants, and subjects, as well as elephants, horses, carriages, oxen, and sheep—immeasurable in number. His investments and profits extended throughout other lands, and merchants and traders were also extremely numerous.
+
+"At that time the impoverished son wandered through various villages, passing through states and cities, until he finally arrived at the city where his father had settled. The father's thoughts of his son—they had been separated for over fifty years—yet he had never spoken of this matter to anyone. He merely contemplated it himself, his mind harboring regret and resentment. He reflected to himself: 'I am old and declining. I possess much wealth—gold, silver, and precious jewels. My storehouses are overflowing and full. Yet I have no son or heir. Should I suddenly die one day, my wealth and possessions will scatter and be lost, with no one to entrust them to.' For this reason he earnestly and constantly thought of his son. He furthermore made this reflection: 'If I could obtain my son and entrust my wealth to him, I would be content, happy, and joyful, with no further cares or anxieties.'
+
+"World-Honored One, at that time the impoverished son, hiring himself out and wandering from place to place, happened to arrive at his father's house. He stopped and stood by the gate. From afar he saw his father seated upon a lion throne, his footstool adorned with jewels, with brāhmaṇas, kṣatriyas, and householders all reverently surrounding him. His body was adorned with pearl necklaces worth thousands of myriads. Officials, servants, and attendants, holding white whisks, stood in attendance to his left and right. A jeweled canopy was spread above him, with hanging flowered banners. Fragrant water sprinkled the ground, and scattered renowned flowers. Precious objects were arranged in rows, being brought in and taken out. Such various adornments as these displayed his [awesome virtue] as especially honored.
+
+"The impoverished son, seeing his father possessed of such great power and influence, immediately became fearful and afraid, regretting having come to this place. Secretly he made this thought: 'This person may be a king or equal to a king. This is not a place where I, hiring out my labor, can obtain anything. It would be better to go to an impoverished neighborhood where, exerting my strength, there will be a place [for me], and clothing and food will be easily obtained. If I remain here long, I may be oppressed and forced to work.' Having made this thought, he quickly ran away.
+
+"At that time the wealthy elder, seated upon his lion throne, saw his son and immediately recognized him. His heart experienced great joy. He immediately made this reflection: 'My wealth, treasuries, and storehouses now have someone to whom they can be entrusted! I have constantly thought of this son, with no way to see him, yet suddenly he has come of his own accord—this greatly suits my wishes. Although I am old and declining, I still have greedy attachment [to my possessions].' He immediately dispatched someone nearby to quickly pursue and bring him back.
+
+"At that time the messenger rushed forth and seized him. The impoverished son, alarmed and astonished, cried out in grievance and wailed loudly: 'I have committed no offense against you—why am I being seized?' The messenger held him even more urgently, forcibly dragging him back. At that time the impoverished son thought to himself: 'Though guiltless, I am being imprisoned and seized. I shall certainly die.' He became even more terrified and frightened, fainting and collapsing upon the ground.
+
+"The father, seeing this from afar, spoke to the messenger, saying: 'I have no need of this person. Do not forcibly bring him. Sprinkle cold water on his face to cause him to regain consciousness, but do not speak to him further.' Wherefore was this so? The father knew that his son's aspiration and intention were inferior and lowly. He knew himself to be noble and wealthy, [a status] difficult for his son [to accept]. He was certain this was his son, yet through skillful means he did not tell others, 'This is my son.'
+
+"The messenger spoke to him: 'I now release you. Go wherever you wish.' The impoverished son, joyful and having experienced what he had never before experienced, rose from the ground and went to the impoverished neighborhood to seek clothing and food.
+
+"At that time the elder, wishing to entice his son, established a skillful means. He secretly dispatched two people—haggard and wan in appearance and color, without [dignity or virtue]—[saying]: 'You may go to that place and gently speak to the impoverished son: \"There is work to be done here, and we will pay you double wages.\" If the impoverished son agrees, bring him and put him to work. If he asks what work is to be done, then you may tell him, \"We are hiring you to clear away excrement. We two shall also work together with you.\"'
+
+"At that time the two messengers immediately sought out the impoverished son. Having already found him, they fully related the above matter. At that time the impoverished son first received his wages, then proceeded to clear away excrement.
+
+"His father, seeing his son, pitied yet marveled at him. On another day, through a window, he saw from afar his son's body—emaciated, haggard, and wan, soiled with excrement, dirt, and dust, filthy and impure. He immediately removed his pearl necklaces, fine soft upper garments, and ornamental adornments, and instead put on coarse, shabby, and greasy soiled clothing, his body covered with dust. In his right hand he grasped an implement for clearing excrement, appearing to be fearful. He spoke to the workers: 'You should all work diligently! Do not become lax or idle.' Through this skillful means, he was able to draw near to his son.
+
+"Later he furthermore told him: 'Hey there, fellow! You should constantly work here. Do not go elsewhere again. I shall increase your wages. Whatever you need—bowls, utensils, rice, flour, salt, vinegar, and such—do not hesitate to ask. There are also old and worn-out servants available if needed. Set your mind at ease. I am like your father—you need no longer worry or be anxious. Wherefore is this so? I am old and aged, while you are young and strong. Whenever you work, you are never deceitful, idle, angry, resentful, or complaining. I have never seen you possess such evils as these, unlike other workers. From this day forward, you shall be like my own son.'
+
+"Immediately the elder gave him a new name, calling him his son. At that time the impoverished son, though pleased by this encounter, still considered himself a hired menial worker. For this reason, for twenty years he was constantly made to clear away excrement. After this had passed, their minds mutually trusted one another. He could enter and exit freely without difficulty, yet the place where he stayed was still his original quarters.
+
+"World-Honored One, at that time the elder became ill. Knowing he would soon die, he spoke to the impoverished son, saying: 'I now possess much gold, silver, and precious jewels. My storehouses are overflowing and full. Regarding how much is in them and what should be taken out or brought in, you know all of this completely. My mind is thus—you should understand this intention. Wherefore is this so? Now I and you are not different. You should be even more careful not to allow any loss or waste.'
+
+"At that time the impoverished son immediately received this instruction and command, knowing about all the possessions—gold, silver, precious jewels, and all the storehouses—yet he had not the slightest thought of hoping to acquire even a single meal from them. However, where he stayed was still his original place, and his inferior and lowly mind he also had not yet been able to renounce.
+
+"After a short time had again passed, the father, knowing his son's mind had gradually become open and pervasive, accomplishing great aspirations and feeling disdain for his former mind, approached the time of his end and summoned his son, assembling together relatives, clan members, the king, great ministers, kṣatriyas, and householders, all of whom had already gathered. He then made this proclamation: 'Gentlemen, you should know: this is my son, born of me. In such-and-such a city he abandoned me and ran away, enduring hardship and suffering for over fifty years. His original name was such-and-such, and my name is such-and-such. Long ago in my original city, harboring worry, I searched for him. Suddenly in this place we encountered one another and were reunited. This truly is my son, and I truly am his father. Now all the wealth I possess entirely belongs to my son. What was previously brought out or taken in—all of it was known by my son.'
+
+"World-Honored One, when the impoverished son heard his father speak these words, he experienced great joy, having attained what he had never before attained, and made this reflection: 'Originally I had no mind and harbored no hopes or seeking, yet now this treasury has come of itself.'"
+
+"World-Honored One, the greatly wealthy elder is the Tathāgata. We are all like Buddha-sons. The Tathāgata constantly says we are his sons. World-Honored One, due to the three kinds of suffering, within birth and death we have undergone all manner of heat and torment, being deluded, ignorant, and delighting in attachment to lesser dharmas. Today the World-Honored One causes us to contemplate and eliminate the excrement of the frivolous discussions of all dharmas. Within this we diligently applied vigor and attained nirvāṇa as our day's wages. Having attained this, our minds experienced great joy, considering ourselves satisfied, and we then declared to ourselves: 'Due to our diligent vigor within the Buddha-Dharma, what we have obtained is vast and abundant.'
+
+"Yet the World-Honored One, knowing previously that our minds were attached to shabby desires and delighted in lesser dharmas, then allowed us to go our own way and did not make distinctions for us: 'You should all have a share in the Tathāgata's treasury of insight and vision.' The World-Honored One, through the power of skillful means, has expounded the Tathāgata's wisdom. We, receiving from the Buddha nirvāṇa as our day's wages, considered this a great attainment. Regarding this Great Vehicle, we had no aspiration to seek it.
+
+"We furthermore, because of the Tathāgata's wisdom, demonstrated and expounded it for the Bodhisattvas, yet regarding this ourselves had no aspiration or wish. Wherefore is this so? The Buddha, knowing that our minds delighted in lesser dharmas, through the power of skillful means expounded in accordance with us, and we did not know we were truly Buddha-sons.
+
+"Now we finally know that the World-Honored One regarding Buddha-wisdom is without any stinginess whatsoever. Wherefore is this so? From ancient times until now, we truly have been Buddha-sons, yet we merely delighted in lesser dharmas. Had we possessed minds delighting in the great, the Buddha would have expounded the Great Vehicle Dharma for us.
+
+"Within this sutra, only the One Vehicle is expounded. Yet in the past, before the Bodhisattvas, [the Buddha] disparaged śrāvakas who delight in lesser dharmas. However, in reality the Buddha taught and transformed through the Great Vehicle. Therefore we say: Originally we had no minds harboring hopes or seeking anything. Now the Dharma King's great treasure has arrived of itself. What Buddha-sons should obtain, we have all already obtained."
+
+At that time Mahākāśyapa, wishing to restate this meaning, spoke in verse, saying:
+
+"We today
+Hearing the Buddha's sound and teaching,
+Experience joy and rapture,
+Having attained what we never before had.
+
+"The Buddha says śrāvakas
+Shall attain Buddhahood.
+The supreme jeweled assembly—
+Arrived unsought.
+
+"It is like a young child,
+Young and without understanding,
+Who abandoned his father and ran away,
+Traveling afar to another land,
+
+"Wandering through various states
+For over fifty years.
+His father, anxious and concerned,
+Searched in the four directions.
+
+"Having searched until exhausted,
+He settled in a city,
+Building a house and dwelling,
+Amusing himself with the five desires.
+
+"His household was [immensely wealthy],
+With much gold and silver,
+Giant clam shell and agate,
+Pearls and lapis lazuli,
+
+"Elephants, horses, oxen, and sheep,
+Sedan chairs and carriages,
+Farmland estates and servants—
+His populace numerous.
+
+"His investments and profits
+Extended throughout other lands.
+Merchants and traders—
+There was no place they were not present.
+
+"Thousands of myriads of billions of multitudes
+Surrounded him with reverence.
+He was constantly beloved
+And cherished by kings.
+
+"Ministers and noble clans
+All together honored him.
+Due to various causes and conditions,
+Those coming and going were numerous.
+
+"Wealthy and powerful as this,
+He possessed great influence and power.
+Yet as his years declined and he aged,
+He increasingly thought anxiously of his son.
+
+"Morning and night he solely contemplated:
+'The time of death is approaching.
+My foolish son abandoned me
+For over fifty years.
+
+"'My storehouses and various possessions—
+What shall become of them?'
+At that time the impoverished son,
+Seeking clothing and food,
+
+"Went from town to town,
+From state to state.
+Sometimes he obtained something,
+Sometimes he obtained nothing.
+
+"Starving, emaciated,
+His body afflicted with sores and scabs,
+He gradually passed through and traveled,
+Arriving at the city where his father dwelt.
+
+"Hiring himself out and wandering,
+He finally reached his father's house.
+At that time the elder,
+Within his gate,
+
+"Spread a great jeweled canopy,
+Seated upon a lion throne,
+Surrounded by his retinue,
+With people attending and guarding him.
+
+"Some were calculating
+Gold, silver, and precious objects,
+Taking out and bringing in wealth and assets,
+Recording and registering documents and tallies.
+
+"The impoverished son, seeing his father
+So [noble] and honored in his dignity,
+Thought he was a king
+Or equal to a king.
+
+"Alarmed, afraid, and astonished at himself:
+'Why have I come to this place?'
+He furthermore thought to himself:
+'If I remain here long,
+
+"'I may be oppressed and forced
+To be driven and made to work.'
+Having contemplated this,
+He rushed away and fled,
+
+"Inquiring about an impoverished neighborhood,
+Wishing to go there to hire out his labor.
+The elder at that time,
+Seated upon his lion throne,
+
+"Saw his son from afar
+And silently recognized him.
+He immediately commanded a messenger
+To pursue, seize, and bring him.
+
+"The impoverished son cried out in alarm,
+Fainting and collapsing upon the ground:
+'This person has seized me—
+I shall certainly be killed!
+
+"'Why did the need for clothing and food
+Cause me to come to this place?'
+The elder, knowing his son
+Was foolish, narrow, and inferior,
+
+"Would not believe his words,
+Would not believe he was his father.
+He immediately employed skillful means
+And sent other people—
+
+"Squint-eyed, dwarfed, and ugly,
+Without [dignity or virtue]:
+'You may speak to him,
+Saying we shall hire him,
+
+"'To clear away excrement and filth,
+Paying him double wages.'
+The impoverished son, hearing this,
+Joyfully came along,
+
+"To clear away excrement and filth,
+Cleaning all the rooms and chambers.
+The elder, through a window,
+Constantly saw his son,
+
+"Remembering his son was foolish and inferior,
+Delighting in menial tasks.
+Then the elder
+Put on shabby, soiled clothing,
+
+"Grasping the implement for clearing excrement,
+He went to where his son was.
+Through skillful means drawing near,
+He instructed him to work diligently:
+
+"'I shall furthermore increase your wages
+And also provide foot oil.
+Food shall be sufficient,
+Your mats and bedding thick and warm.'
+
+"With harsh words such as these:
+'You should work diligently!'
+And also with gentle words:
+'You are like my son.'
+
+"The elder, possessing wisdom,
+Gradually caused him to enter and exit.
+After twenty years,
+He managed household affairs,
+
+"Showing him gold and silver,
+Pearls and crystal,
+And how various objects entered and exited—
+All caused him to know this.
+
+"Yet he still dwelt outside the gate,
+Lodging in a grass hut,
+Thinking of his poverty:
+'I do not possess these things.'
+
+"The father, knowing his son's mind
+Had gradually become vast and expansive,
+Wishing to give him his wealth,
+Assembled relatives and clan,
+
+"The king, great ministers,
+Kṣatriyas, and householders.
+Before this great assembly
+He said: 'This is my son,
+
+"'Who abandoned me and went elsewhere
+For fifty years.
+Since seeing my son return,
+Twenty years have already passed.
+
+"'Long ago, in such-and-such a city,
+I lost this son.
+Wandering about searching for him,
+I finally came to this place.
+
+"'All that I possess—
+Dwelling and populace—
+I completely entrust to him,
+For him to use as he wishes.'
+
+"The son, recalling his former poverty,
+His inferior and lowly aspiration,
+Now, at his father's place,
+Has greatly obtained precious jewels,
+
+"Together with dwelling and house,
+And all wealth and possessions.
+He experiences extreme great joy,
+Having attained what he never before had.
+
+"The Buddha too is likewise thus,
+Knowing I delight in the lesser.
+He never once said:
+'You shall all become Buddhas.'
+
+"Instead he said we
+Attained the outflow-free [state],
+Accomplishing the Lesser Vehicle
+As śrāvaka disciples.
+
+"The Buddha commanded us
+To expound the supreme Way.
+Those who cultivate this
+Shall attain Buddhahood.
+
+"Receiving the Buddha's teaching,
+For the sake of great Bodhisattvas,
+Through various causes and conditions,
+And various kinds of parables,
+
+"With manifold expressions,
+I expounded the supreme Way.
+All the Buddha-sons,
+Hearing the Dharma from me,
+
+"Day and night contemplated,
+Diligently cultivating and practicing.
+At that time all the Buddhas
+Immediately conferred predictions upon them:
+
+"'In a future age
+You shall attain Buddhahood.'
+The secret treasury Dharma
+Of all the Buddhas—
+
+"Solely for the sake of Bodhisattvas
+Do they [demonstrate its true reality],
+But not for us
+Do they expound this true essential.
+
+"Like that impoverished son
+Who drew near to his father,
+Though knowing all the possessions,
+His mind did not hope to acquire them.
+
+"Though we expound
+The Buddha-Dharma treasure,
+We ourselves have no aspiration or wish—
+We too are likewise thus.
+
+"We considered our inner extinction
+Sufficient in itself,
+Understanding only this matter—
+No other matter beyond it.
+
+"If we heard of purifying Buddha-lands
+And teaching and transforming living beings,
+We had no delight or joy whatsoever.
+Wherefore was this so?
+
+"All the dharmas
+Are all empty and tranquil,
+Without arising, without ceasing,
+Without great, without small,
+
+"Without outflows, without conditioned action.
+Contemplating thus,
+We did not generate delight or joy.
+
+"We throughout the long night
+Regarding Buddha-wisdom
+Had no greed, no attachment,
+No further aspiration or wish.
+
+"While ourselves regarding the Dharma,
+We thought it was ultimate.
+We throughout the long night
+Cultivated and practiced the Dharma of emptiness,
+
+"Attaining liberation from the triple world's
+Suffering and distress,
+Dwelling in the final body
+With nirvāṇa still remaining.
+
+"The Buddha's teaching and transformation
+Obtained the Way without falsity.
+We considered this as already having attained
+Repayment of the Buddha's kindness.
+
+"Though we, for the sake of
+All the Buddha-sons,
+Expounded the Bodhisattva Dharma
+To seek the Buddha-Way,
+
+"Regarding this Dharma
+We [forever had no aspiration or delight].
+The guiding teacher allowed us to go,
+Observing our minds,
+
+"And initially did not encourage us to advance,
+Expounding that there were true benefits.
+Like the wealthy elder
+Who knew his son's aspirations were inferior,
+
+"Through the power of skillful means
+He gently subdued his mind,
+And only afterward entrusted to him
+All his wealth and possessions.
+
+"The Buddha too is likewise thus,
+Manifesting rare occurrences.
+Knowing those who delight in the lesser,
+Through the power of skillful means
+
+"He tames and subdues their minds,
+Then teaches the great wisdom.
+We today
+Have attained what we never before had—
+
+"Not what we previously hoped for,
+Yet now we have obtained it ourselves,
+Like that impoverished son
+Who obtained immeasurable treasure.
+
+"World-Honored One, I now
+Have obtained the Way and obtained the fruit.
+Regarding the outflow-free Dharma,
+I have obtained pure eyes.
+
+"We throughout the long night
+Have upheld the Buddha's pure precepts.
+Only today
+Have we obtained their fruition and reward.
+
+"Within the Dharma King's Dharma,
+Having long cultivated the holy life,
+Now we have attained the outflow-free,
+Supreme great fruit.
+
+"We now
+Truly are śrāvakas,
+With the sound of the Buddha-Way
+Causing all to hear.
+
+"We now
+Truly are Arhats.
+Among all the world—
+Devas, humans, Māras, and Brahmas—
+
+"Universally among them all
+We should receive offerings.
+The World-Honored One's great kindness,
+Through rare occurrences,
+
+"Showing pity, teaching, and transforming,
+Benefiting us—
+Throughout immeasurable billions of kalpas,
+Who could repay this?
+
+"Offering with hands and feet,
+Bowing heads in reverence,
+All manner of offerings—
+None could repay it.
+
+"Even if bearing [him] on the crown of the head,
+Carrying [him] on both shoulders,
+Throughout kalpas numerous as Ganges' sands,
+Exhausting the mind in reverence,
+
+"Moreover, with fine delicacies,
+Immeasurable jeweled garments,
+And all manner of bedding,
+Various medicinal remedies,
+
+"Ox-head sandalwood
+And various precious jewels,
+With which to erect stūpas and shrines,
+Spreading jeweled garments upon the ground—
+
+"Such matters as these,
+Employed to make offerings
+Throughout kalpas numerous as Ganges' sands,
+Still could not repay it.
+
+"The Buddhas are rare,
+Immeasurable, limitless,
+Inconceivable,
+With great spiritual powers,
+
+"Outflow-free, unconditioned—
+Kings of all dharmas.
+Able, for the sake of the inferior,
+To endure such matters,
+
+"Taking common people attached to marks
+And expounding in accordance with what is suitable.
+The Buddhas, regarding all dharmas,
+Attain utmost sovereignty.
+
+"Knowing all living beings'
+Various delights and joys,
+Together with their powers of aspiration,
+According to what they can bear,
+
+"Through immeasurable parables
+They expound the Dharma for them,
+According to all living beings'
+Past wholesome roots,
+
+"Moreover knowing those mature
+And those not yet mature.
+Through various kinds of deliberation,
+Having made distinctions and knowing this,
+
+"Regarding the path of One Vehicle,
+In accordance with what is suitable, they expound three."
+
+### Philosophical Implications
+
+This chapter develops the Lotus Sutra's central themes of universal Buddha-nature and the single vehicle of enlightenment. The teachings presented here connect to contemporary philosophical traditions including phenomenology, systems theory, and process philosophy.
+
+### Apparatus Summary
+
+- **Chapter Number**: 4
+- **Chinese Title**: See chapter heading
+- **Primary Theme**: [Theme description to be filled]
+- **Key Figures**: [To be completed]
+- **Central Teaching**: [To be completed]
+- **Structural Function**: [To be completed]
+
+### Footnotes
+
+[Scholarly apparatus notes and cross-references would be placed here in a complete scholarly edition]
+
+═════════════════════════════════════════════════════════════════════════

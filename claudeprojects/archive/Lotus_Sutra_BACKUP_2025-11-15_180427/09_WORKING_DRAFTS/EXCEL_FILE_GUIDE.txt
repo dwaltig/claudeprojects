@@ -1,0 +1,390 @@
+================================================================================
+                      CHARACTER VOICE MAPPING - EXCEL FILE
+                              Professional Edition
+================================================================================
+
+FILE: CHARACTER_VOICE_MAPPING.xlsx
+LOCATION: /Users/williamaltig/claudeprojects/Lotus_Sutra/
+FILE SIZE: 13 KB
+FORMAT: Microsoft Excel 2007+ (.xlsx)
+STATUS: ✅ READY TO USE
+
+================================================================================
+
+WHAT'S IN THE EXCEL FILE
+
+6 professionally formatted sheets with complete character-to-voice information:
+
+================================================================================
+
+SHEET 1: CHARACTER VOICE MAPPING
+================================================================================
+
+THE MAIN REFERENCE TABLE
+
+Columns:
+- CHARACTER/SPEAKER: Name of the character or narrator
+- VOICE TAG: The Gemini voice assigned [e.g., [Charon], [Iapetus]]
+- CHARACTER TYPE: Role category (Buddha, Disciple, Bodhisattva, etc.)
+- VOICE CHARACTERISTICS: Description of how the voice should sound
+- PRIMARY CHAPTERS: Which chapters this character appears in
+- CONTEXT/NOTES: Additional details about the role and usage
+
+Characters Included (15 major):
+✓ Narrator/Epic Voice [Charon]
+✓ The Buddha (3 different voice modes)
+✓ Śāriputra (Chief Disciple)
+✓ Maitreya Bodhisattva
+✓ Avalokiteśvara (Bodhisattva of Compassion)
+✓ Inexhaustible Intention Bodhisattva
+✓ Mahāprajāpatī Gautamī (Buddha's Aunt)
+✓ Yaśodharā (Buddha's Former Wife)
+✓ Dragon Princess (8-year-old)
+✓ Universal Worthy/Samantabhadra
+✓ The Sixteen Princes (group voice)
+✓ Section Headers/Editorial Markers
+✓ Commentary/Editorial Notes
+
+Use This Sheet For:
+- Quick reference of who voices which character
+- Understanding voice characteristics
+- Finding chapter locations
+- Getting context for each role
+
+================================================================================
+
+SHEET 2: VOICE FREQUENCY
+================================================================================
+
+STATISTICAL BREAKDOWN
+
+Shows how often each voice appears in the manuscript.
+
+Columns:
+- VOICE TAG: The voice identifier
+- FREQUENCY: Number of occurrences (how many times used)
+- PERCENTAGE: Percentage of total 540 voice tags
+- PRIMARY ASSIGNMENT: What this voice is mainly used for
+
+Key Statistics:
+✓ [Charon] - 208 uses (38.5%) - Most frequent
+✓ [Orus] - 117 uses (21.7%)
+✓ [Rasalgethi] - 54 uses (10.0%)
+✓ [Gacrux] - 51 uses (9.4%)
+✓ [Iapetus] - 47 uses (8.7%)
+✓ Others - Combined 63 uses (11.7%)
+✓ TOTAL: 540 voice tags across entire manuscript
+
+Use This Sheet For:
+- Understanding voice distribution
+- Planning voice actor recording time
+- Identifying most important voices
+- Budget and scheduling planning
+
+================================================================================
+
+SHEET 3: GENDER BREAKDOWN
+================================================================================
+
+ANALYSIS OF MALE, FEMALE, AND NEUTRAL VOICES
+
+Organized by gender representation.
+
+Columns:
+- VOICE TYPE: Category (Female, Male, Structural/Neutral)
+- VOICE TAG: The voice identifier
+- GENDER: Male/Female/Neutral designation
+- CHARACTER/USE: Who uses this voice
+- OCCURRENCES: Number of times this voice is used
+
+Gender Distribution:
+FEMALE VOICES (3 voices, 33 total occurrences):
+✓ [Sulafat_F] - 27 occurrences
+✓ [Leda] - 4 occurrences
+✓ [Schedar] - 2 occurrences
+
+MALE VOICES (7 voices, 495 total occurrences):
+✓ [Charon] - 208
+✓ [Orus] - 117
+✓ [Rasalgethi] - 54
+✓ [Gacrux] - 51
+✓ [Iapetus] - 47
+✓ [Zubenelgenubi] - 15
+✓ [Sadaltager] - 3
+
+STRUCTURAL/NEUTRAL (1 voice, 12 occurrences):
+✓ [Aoede] - 12 occurrences
+
+CRITICAL NOTE:
+100% Gender Alignment is maintained. Male characters use male voices.
+Female characters use female voices. This is a professional standard.
+
+Use This Sheet For:
+- Understanding gender representation
+- Ensuring proper voice casting by gender
+- Identifying female-voiced sections
+- Checking gender accuracy throughout
+
+================================================================================
+
+SHEET 4: BUDDHA'S VOICES
+================================================================================
+
+THE BUDDHA'S THREE DISTINCT SPEAKING MODES
+
+The Buddha does NOT use the same voice for all his speech. This sheet shows
+the three different voices he uses depending on context.
+
+Three Modes:
+
+1. PROSE DIALOGUE [Iapetus]
+   Context: Direct teaching to disciples
+   Usage: "The Buddha told Śāriputra..."
+   Characteristics: Calm, clear, authoritative, compassionate
+   Frequency: 47 occurrences
+
+2. VERSES/POETIC [Rasalgethi]
+   Context: Elevated poetic expression
+   Usage: "At that time, the Buddha, wishing to repeat this meaning, spoke in verse..."
+   Characteristics: Musical, rhythmic, elevated, can carry melody
+   Frequency: 54 occurrences
+
+3. PAST STORIES/PARABLES [Orus]
+   Context: Storytelling mode
+   Usage: "Let me tell you a story from long ago..."
+   Characteristics: Warm, narrative, preacher-like, less formal
+   Frequency: 117 occurrences
+
+Casting Options:
+Option A: Same actor performing all three voices with different registers
+Option B: Three actors with timbral similarity but different styles
+
+Use This Sheet For:
+- Understanding Buddha's vocal variety
+- Planning voice actor strategy (1 vs. 3 actors)
+- Understanding when to shift Buddha's voice
+- Voice director guidance
+
+================================================================================
+
+SHEET 5: SECONDARY CHARACTERS
+================================================================================
+
+MINOR CHARACTERS AND THEIR VOICE ASSIGNMENTS
+
+Characters who appear but don't have dedicated voices (shared voices or
+primarily narrated about).
+
+Columns:
+- CHARACTER: Name of secondary character
+- VOICE ASSIGNMENT: Voice they share or context they appear in
+- NOTES: How they're represented in the text
+- CHAPTERS: Where they appear
+
+Secondary Characters Listed (10):
+✓ Mañjuśrī (Bodhisattva of Wisdom)
+✓ Mahākāśyapa (Elder Disciple)
+✓ Mahāmaudgalyāyana (Great in Supernatural Powers)
+✓ Mahākātyāyana (Great in Discourse)
+✓ Subhūti (Understands Emptiness)
+✓ Medicine King Bodhisattva
+✓ Never Looked Down Bodhisattva
+✓ Devadatta (Treacherous Cousin)
+✓ Ānanda (Buddha's Attendant)
+✓ Rāhula (Buddha's Son)
+
+Use This Sheet For:
+- Understanding minor character representation
+- Identifying how characters are presented (spoken about vs. speaking)
+- Finding where less prominent characters appear
+- Casting decisions for minor roles
+
+================================================================================
+
+SHEET 6: PRONUNCIATION GUIDE
+================================================================================
+
+SANSKRIT NAMES AND TECHNICAL TERMS WITH PRONUNCIATIONS
+
+Essential for voice actors to correctly pronounce Buddhist and Sanskrit names.
+
+Columns:
+- SANSKRIT NAME: Original name with diacriticals (e.g., Śāriputra)
+- PRONUNCIATION: How to pronounce it (phonetic)
+- ENGLISH MEANING: What the name means
+- CHARACTER TYPE: Category (Buddha, Disciple, Bodhisattva, Title, Concept)
+
+Names and Terms Included (15):
+
+MAJOR CHARACTER NAMES:
+✓ Śākyamuni - SHAHK-yuh-MOO-nee - The historical Buddha
+✓ Śāriputra - shah-REE-POO-trah - Chief disciple
+✓ Mañjuśrī - mahn-JOO-shree - Bodhisattva of Wisdom
+✓ Avalokiteśvara - ah-vah-loh-kee-TESH-vah-rah - Bodhisattva of Compassion
+✓ Maitreya - my-TRAY-ah - Future Buddha
+✓ Mahākāśyapa - mah-hah-KASH-yah-pah - Elder disciple
+✓ Mahāprajāpatī - mah-hah-prah-jah-PAH-tee - Buddha's aunt
+✓ Yaśodharā - yah-shoh-dah-RAH - Buddha's former wife
+✓ Samantabhadra - sah-mahn-tah-BHAH-drah - Universal Worthy
+
+TECHNICAL TERMS:
+✓ Tathāgata - tah-TAH-gah-tah - Thus-Come One (Buddha epithet)
+✓ Bodhisattva - boh-dee-SAHT-vah - Enlightenment being
+✓ Dharma - DAHR-mah - Teachings, law, truth
+✓ Nirvāṇa - neer-VAH-nah - Final liberation
+✓ Samādhi - sah-MAH-dee - Meditative concentration
+✓ Dhāraṇī - dah-RAH-nee - Sacred formula
+
+Use This Sheet For:
+- Voice actors learning pronunciations
+- Recording scripts with correct phonetics
+- Pronunciation reference during recording sessions
+- Training new narrators
+
+================================================================================
+
+HOW TO USE THE EXCEL FILE
+
+FOR VOICE ACTORS:
+1. Open the file in Excel or Google Sheets
+2. Go to "Character Voice Mapping" sheet
+3. Find your assigned voice tag
+4. Read the Voice Characteristics to understand how to perform
+5. Check "Pronunciation Guide" for any Sanskrit names
+6. Reference "Buddha's Voices" if you're performing the Buddha
+
+FOR AUDIO PRODUCERS:
+1. Go to "Voice Frequency" sheet to see workload distribution
+2. Use "Character Voice Mapping" for complete reference
+3. Check "Gender Breakdown" to ensure proper casting
+4. Use "Buddha's Voices" to plan Buddha voice strategy
+5. Reference "Secondary Characters" for minor role decisions
+
+FOR AUDIO DIRECTORS:
+1. Review all sheets for comprehensive understanding
+2. Use "Character Voice Mapping" to brief voice actors
+3. Reference "Buddha's Voices" to explain vocal variation
+4. Use "Gender Breakdown" to verify gender-accurate casting
+5. Keep "Pronunciation Guide" handy during sessions
+
+FOR PROJECT MANAGERS/PUBLISHERS:
+1. Go to "Voice Frequency" for at-a-glance statistics
+2. Use "Gender Breakdown" to verify inclusive representation
+3. Reference "Character Voice Mapping" to understand scope
+4. Use for budgeting and scheduling planning
+
+================================================================================
+
+EXCEL FEATURES
+
+PROFESSIONAL FORMATTING:
+✓ Color-coded headers (dark blue background, white text)
+✓ Clearly organized columns and rows
+✓ Borders on all cells for clarity
+✓ Text wrapping for readability
+✓ Optimized column widths
+✓ Aligned headers and content
+
+FUNCTIONALITY:
+✓ Can be printed for physical reference
+✓ Can be filtered by column (e.g., by character type)
+✓ Can be sorted (e.g., by frequency or chapter)
+✓ Compatible with Excel, Google Sheets, and other spreadsheet software
+✓ Mobile-friendly (can be opened on tablets/phones)
+
+DATA ORGANIZATION:
+✓ Easy to search within sheets
+✓ Quick reference format
+✓ Professional appearance suitable for sharing
+✓ Complete information in compact format
+
+================================================================================
+
+RECOMMENDED WORKFLOWS
+
+WORKFLOW 1: QUICK REFERENCE
+1. Character Voice Mapping sheet
+2. Look up character name
+3. Find assigned voice tag
+4. Understand voice characteristics
+5. Reference pronunciation if needed
+
+WORKFLOW 2: PLANNING VOICE PRODUCTION
+1. Voice Frequency sheet - understand workload
+2. Gender Breakdown - verify casting approach
+3. Buddha's Voices - decide on Buddha voice strategy
+4. Character Voice Mapping - create detailed casting sheet
+
+WORKFLOW 3: TRAINING VOICE ACTORS
+1. Character Voice Mapping - distribute to actors
+2. Pronunciation Guide - for proper name pronunciation
+3. Buddha's Voices - explain Buddha's vocal variety
+4. Gender Breakdown - reinforce gender-appropriate casting
+
+WORKFLOW 4: PRODUCTION COORDINATION
+1. Voice Frequency - schedule voice actors by workload
+2. Secondary Characters - identify minor role needs
+3. Character Voice Mapping - create recording schedule
+4. Pronunciation Guide - prepare recording scripts
+
+================================================================================
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: Can I edit this Excel file?
+A: Yes! Feel free to add notes, color-code for your production, or customize
+   for your specific needs.
+
+Q: Can I print it?
+A: Yes! Each sheet is designed to be printable. Set to landscape orientation
+   for best results.
+
+Q: How do I use this with Google Sheets?
+A: Download the .xlsx file and upload to Google Drive. It will open as a
+   Google Sheet automatically.
+
+Q: Are all characters included?
+A: This includes all major speaking characters. Secondary characters who
+   appear primarily in narrative are noted in "Secondary Characters" sheet.
+
+Q: What if I want to add more voices?
+A: The structure allows for easy addition. Follow the same format and add
+   new rows.
+
+Q: Is gender alignment non-negotiable?
+A: Yes. Male characters use male voices, female characters use female voices.
+   This is a professional production standard.
+
+================================================================================
+
+EXCEL FILE STATISTICS
+
+Sheets: 6
+Total Rows: 50+ across all sheets
+Characters Listed: 25+ (major and secondary)
+Voice Tags Covered: All 11 voices
+Occurrences Documented: 540 total voice tags
+File Size: 13 KB
+Format: Excel 2007+ (.xlsx)
+
+================================================================================
+
+NEXT STEPS
+
+1. Open CHARACTER_VOICE_MAPPING.xlsx in Excel or Google Sheets
+2. Review each sheet for comprehensive overview
+3. Use "Character Voice Mapping" as your primary reference
+4. Distribute "Pronunciation Guide" to voice actors
+5. Share entire file with your production team
+6. Reference during voice casting and recording sessions
+
+This Excel file is your complete character-to-voice reference tool.
+Print it, share it, use it throughout your production.
+
+================================================================================
+
+File created: November 7, 2025
+Format: Microsoft Excel 2007+ (.xlsx)
+Status: Ready for immediate use
+
+================================================================================

@@ -1,0 +1,35 @@
+Gemini Speaker Voices
+Male Voices
+* Charon: A deep, solemn baritone that resonates with cosmic authority and the weight of ages. This voice is perfect for ancient gods, eldritch beings in Lovecraftian horror, or narrating epic fantasy sagas about fate and destiny. It carries an intimidating, awe-inspiring quality.
+* Fenrir: A guttural, gravelly rasp that speaks of untamed wilderness and primal power. The ideal voice for monsters, orc chieftains, demonic villains, or savage warriors who are more beast than man. It evokes a sense of raw, untethered danger.
+* Gacrux: A clear, resolute baritone that embodies heroism, integrity, and leadership. The quintessential voice for a noble king, a valiant starship captain, or a trusted mentor. It conveys confidence and is also well-suited for inspiring corporate explainers or political speeches.
+* Iapetus: A soft, grounding presence that feels like ancient stone, worn leather, and quiet forests. A calming voice for contemplative narrators, gentle giants, thoughtful wizards, or nature documentaries. It speaks with patience, wisdom, and a profound sense of peace.
+* Orus: Crisp, articulate, and unflappably precise. The analytical voice of a brilliant scientist, a sophisticated AI, an emotionless android, or a corporate visionary unveiling the future. It delivers complex information with clarity and an air of high-tech intelligence.
+* Puck: A nimble, high-spirited tenor laced with wry, playful mischief. The perfect voice for fae creatures, clever jesters, trickster gods, or a charismatic rogue who never plays by the rules. It possesses a mercurial, youthful, and chaotic energy.
+* Rasalgethi: The warm, comforting sound of a crackling fireplace and a well-loved armchair. A gentle, grandfatherly voice perfect for telling bedtime stories, historical retrospectives, or reminiscing about days gone by. It radiates nostalgia, kindness, and gentle wisdom.
+* Sadaltager: A powerful, authoritative bass that resonates with military precision and unwavering command. The voice of a battlefield general, a stern drill sergeant, a galactic emperor, or the "voice-of-God" narration for an epic movie trailer. It is the sound of absolute control.
+* Zubenelgenubi: A mesmerizing, hypnotic baritone that seems to emanate from deep space, vibrating with hidden knowledge. Ideal for enigmatic aliens, cryptic prophets, or narrators of mind-bending, philosophical science fiction. It is otherworldly, mysterious, and deeply resonant.
+Female Voices
+* Aoede: A bright, melodic voice that sparkles with youthful optimism and boundless creative energy. The sound of a hopeful ingénue, a plucky animated hero, a spirited adventurer, or an upbeat commercial. It is a voice full of light, laughter, and pure positivity.
+* Callirrhoe: A smooth, poised alto that speaks with effortless elegance and quiet authority. The voice of a graceful queen, a sophisticated art curator, a powerful CEO, or a luxury brand advertisement. It conveys intelligence and self-assured, understated power.
+* Erinome: A focused, incisive voice that cuts through the noise with sharp intelligence and unwavering conviction. Perfect for a brilliant detective, a no-nonsense lawyer, a driven academic, or a news reporter delivering breaking news. It is professional, direct, and clear.
+* Kore: A clear, welcoming, and relatable voice that radiates the warmth of a spring day. The perfect friendly guide, the girl-next-door protagonist, a nurturing teacher, or an approachable podcast host. It is the quintessential voice for e-learning and contemporary narration.
+* Leda: A rich, maternal alto filled with wisdom, compassion, and gentle strength. The voice of a family matriarch, a wise healer, a compassionate goddess, or a storyteller who has seen it all. It feels like a warm, comforting hug.
+* Schedar: A confident, resonant alto with a commanding and slightly smoky presence. The voice of a powerful sorceress, a seasoned politician, a world-weary soldier, or the seductive femme fatale in a classic film noir. It speaks with overt power and alluring confidence.
+* Sulafat: A soft, ethereal whisper that calms the soul like a gentle breeze. This delicate and airy voice is perfectly suited for guided meditation, intimate poetry, introspective monologues, or the serene voice of a nature spirit or a ghostly presence.
+* Umbriel: A low, velvety voice shrouded in shadow and intrigue, holding its secrets close. The sound of a smoky jazz club, a cryptic fortune teller, a mysterious video game benefactor, or a spy weaving a web of secrets. It is perfect for noir, mystery, and suspense.
+* Zephyr: A light, breathy voice that feels like a whispered secret or an intimate, heartfelt conversation. More personal than ethereal, it is perfect for a first-person romance novel, a personal diary, a heartfelt confession, or an ad for a personal care product.
+
+New Male Voices
+Jove: A commanding, thunderous bass that speaks with the authority of a king of the gods. Perfect for epic declarations, royal decrees, or a powerful, divine presence that demands respect and attention.
+Orion: A bold, adventurous baritone, clear and confident. The voice of a daring explorer, a heroic star-pilot, or the narrator of a thrilling action-adventure story. It carries a sense of courage and forward momentum.
+Triton: A deep, resonant voice that seems to emerge from the ocean depths. Ideal for sea gods, ancient mariners, or documentaries about the mysterious underwater world. It has a powerful, flowing, and sometimes turbulent quality.
+Vulcan: A gruff, sturdy baritone with a hint of forge-fire in its tone. The voice of a master craftsman, a wise dwarf, a rugged engineer, or a stoic but dependable guardian. It conveys strength, skill, and reliability.
+New Female Voices
+Andromeda: An ethereal, celestial voice that seems to drift from a distant galaxy. Perfect for cosmic beings, high-fantasy elves, or narrating tales of starlight and prophecy. It is serene, otherworldly, and filled with ancient wisdom.
+Cassiopeia: A regal, confident alto with an air of sophisticated vanity. The voice of a powerful queen, a high-society matriarch, or a fashion narrator. It is commanding, slightly imperious, and impeccably polished.
+Lyra: A sweet, lyrical soprano, clear as a silver bell. The ideal voice for a gentle muse, a beloved fairytale princess, or reading poetry. It is artistic, gentle, and evokes a sense of beauty and inspiration.
+Nyx: A dark, seductive alto, laced with mystery and the allure of the night. The voice of a shadow goddess, a cunning vampire, or a noir mystery. It is hypnotic, dangerous, and irresistibly intriguing.
+
+
+Charon (Male) Fenrir (Male) Gacrux (Male) Iapetus (Male) Jove (Male) Orus (Male) Orion (Male) Puck (Male) Rasalgethi (Male) Sadaltager (Male) Triton (Male) Vulcan (Male) Zubenelgenubi (Male) Andromeda (Female) Aoede (Female) Callirrhoe (Female) Cassiopeia (Female) Erinome (Female) Kore (Female) Leda (Female) Lyra (Female) Nyx (Female) Schedar (Female) Sulafat (Female) Umbriel (Female) Zephyr (Female)

@@ -1,0 +1,426 @@
+/* Lotus Sutra: Blues Interpretation with Scholarly Apparatus */
+/* EPUB3 Stylesheet */
+
+html, body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background-color: #fffef5;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 1em;
+  padding: 1.5em;
+}
+
+/* Structural Elements */
+article, section, nav {
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin: 1.5em 0 1em 0;
+  padding: 0;
+  color: #FFD700;
+  border-bottom: 2px solid #FFD700;
+  padding-bottom: 0.5em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 1.3em 0 0.8em 0;
+  padding: 0;
+  color: #FFD700;
+  margin-top: 1.5em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 1em 0 0.6em 0;
+  padding: 0;
+  color: #FFD700;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Paragraphs and Text */
+p {
+  margin: 0.8em 0;
+  padding: 0;
+  text-align: justify;
+  text-indent: 0;
+}
+
+p.first {
+  text-indent: 0;
+}
+
+p + p {
+  margin-top: 0.8em;
+}
+
+/* Emphasis */
+em {
+  font-style: italic;
+  font-weight: normal;
+  color: #1a1a1a;
+}
+
+strong {
+  font-weight: bold;
+  font-style: normal;
+  color: #1a1a1a;
+}
+
+/* Lists */
+ol, ul {
+  margin: 1em 0;
+  padding-left: 2em;
+  line-height: 1.6;
+}
+
+li {
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+dl {
+  margin: 1em 0;
+  padding: 0;
+}
+
+dt {
+  font-weight: bold;
+  margin: 0.8em 0 0.3em 0;
+  padding: 0;
+}
+
+dd {
+  margin: 0 0 0.8em 2em;
+  padding: 0;
+  font-style: italic;
+}
+
+/* Block Quotes (for verse sections) */
+blockquote {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-left: 3px solid #FFD700;
+  font-style: italic;
+  background-color: #f0f8ff;
+  line-height: 1.7;
+  color: #1a1a1a;
+}
+
+blockquote.verse {
+  text-align: center;
+  font-family: Georgia, serif;
+  margin: 1.5em 0;
+  padding: 1.5em;
+  border-left: none;
+  border-top: 2px solid #FFD700;
+  border-bottom: 2px solid #FFD700;
+  background-color: #f0f8ff;
+}
+
+blockquote p {
+  margin: 0.3em 0;
+  text-indent: 0;
+  text-align: center;
+}
+
+/* Footnote/Endnote References */
+a.noteref {
+  color: #FFD700;
+  text-decoration: underline;
+  font-size: 0.85em;
+  vertical-align: super;
+  font-weight: bold;
+}
+
+a.noteref:hover {
+  color: #FFF;
+  text-decoration: underline;
+  background-color: #DAA520;
+}
+
+sup {
+  font-size: 0.75em;
+  vertical-align: super;
+  line-height: 1;
+}
+
+/* Endnotes Section */
+#endnotes {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 2px solid #FFD700;
+}
+
+#endnotes h1 {
+  font-size: 1.6em;
+  margin-bottom: 1.5em;
+  color: #FFD700;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+#endnotes ol {
+  list-style-type: decimal;
+  margin-left: 2em;
+  line-height: 1.8;
+}
+
+#endnotes li {
+  margin: 1em 0;
+  padding: 0;
+}
+
+#endnotes a {
+  color: #FFD700;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#endnotes a:hover {
+  color: #FFF;
+  text-decoration: underline;
+  background-color: #DAA520;
+}
+
+/* Sanskrit and Foreign Terms */
+.sanskrit {
+  font-style: italic;
+  color: #FFD700;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+/* Proper Names */
+.name {
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Assembly Lists and Formal Nomenclature */
+.assembly-list {
+  margin: 1em 0;
+  padding-left: 2em;
+  font-size: 0.95em;
+}
+
+.assembly-list p {
+  margin: 0.5em 0;
+  text-indent: -2em;
+  padding-left: 2em;
+}
+
+/* Cover Page */
+.cover {
+  text-align: center;
+  padding: 3em 0;
+}
+
+.cover h1 {
+  font-size: 2.2em;
+  margin: 2em 0 1em 0;
+  border: none;
+  color: #FFD700;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.15);
+}
+
+.cover .subtitle {
+  font-size: 1.3em;
+  color: #DAA520;
+  margin: 1em 0 2em 0;
+  font-style: italic;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.cover img {
+  max-width: 80%;
+  height: auto;
+  margin: 2em 0;
+  border: 2px solid #8b4513;
+}
+
+.cover .metadata {
+  margin-top: 3em;
+  font-size: 0.95em;
+  color: #DAA520;
+}
+
+/* Table of Contents */
+.toc {
+  margin: 1em 0;
+  padding: 0;
+}
+
+.toc-entry {
+  margin: 0.8em 0;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+.toc-entry a {
+  color: #FFD700;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.toc-entry a:hover {
+  color: #FFF;
+  text-decoration: underline;
+  background-color: #DAA520;
+}
+
+/* Introduction and Front Matter */
+.frontmatter h2 {
+  font-size: 1.4em;
+  margin: 2em 0 1em 0;
+  color: #FFD700;
+  border-bottom: 2px solid #FFD700;
+  padding-bottom: 0.5em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.frontmatter h3 {
+  font-size: 1.1em;
+  margin: 1.3em 0 0.8em 0;
+  color: #FFD700;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.frontmatter table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.95em;
+  border: 2px solid #8b4513;
+}
+
+.frontmatter th,
+.frontmatter td {
+  border: 1px solid #FFD700;
+  padding: 0.8em;
+  text-align: left;
+  color: #1a1a1a;
+}
+
+.frontmatter th {
+  background-color: #1a1a1a;
+  color: #FFD700;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(255, 215, 0, 0.2);
+}
+
+.frontmatter td {
+  background-color: #fffef5;
+}
+
+.frontmatter tbody tr:nth-child(odd) td {
+  background-color: #f8f9fa;
+}
+
+/* Chapter Content */
+.chapter {
+  margin: 0;
+  padding: 0;
+}
+
+.chapter h1 {
+  margin: 2em 0 1em 0;
+  text-align: center;
+}
+
+.chapter p {
+  margin: 0.8em 0;
+  text-align: justify;
+}
+
+.chapter .assembly-list {
+  margin: 1.5em 0;
+  padding-left: 2em;
+}
+
+/* Page Breaks for Print */
+@page {
+  margin: 1in;
+}
+
+/* Accessibility */
+a {
+  color: #FFD700;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+a:visited {
+  color: #DAA520;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: underline;
+  background-color: #DAA520;
+}
+
+/* Print Styles */
+@media print {
+  body {
+    font-size: 11pt;
+    line-height: 1.4;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+}
+
+/* EPUB-specific adjustments */
+@supports (display: none) {
+  body {
+    font-kerning: auto;
+    font-variant-ligatures: common-ligatures;
+  }
+}
+
+/* Responsive typography for small screens */
+@media (max-width: 480px) {
+  body {
+    margin: 0.5em;
+    padding: 1em;
+  }
+
+  h1 {
+    font-size: 1.4em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  blockquote {
+    padding: 0.8em;
+    font-size: 0.95em;
+  }
+}

@@ -1,0 +1,52 @@
+CHAPTER TWENTY-SIX: DHĀRANĪS
+
+At that time, Medicine King Bodhisattva immediately arose from his seat, bared his right shoulder, joined his palms toward the Buddha, and addressed the Buddha, saying: "World-Honored One, if good men and good women are able to receive and uphold the Lotus Sutra, whether they recite it until they have mastered it, or whether they copy the sūtra scrolls, what measure of merit will they obtain?" The Buddha said to Medicine King: "If there are good men and good women who make offerings to eight hundred myriads of koṭis of nayutas of Ganges sands' worth of buddhas, what is your opinion? Would the merit they obtain be much or not?" "Very much, World-Honored One." The Buddha said: "If good men and good women are able to receive and uphold even a single four-line verse of this sūtra, recite it, understand its meaning, and practice in accordance with what it teaches, their merit will be exceedingly abundant." At that time, Medicine King Bodhisattva addressed the Buddha, saying: "World-Honored One, I shall now bestow upon the preachers of the Dharma a dhāraṇī incantation to protect them." Then he spoke the incantation, saying:
+
+an'er man'er moni momanei zhili zhelidei sha□ shalitawei shandi mudi mutuoli suoli aweisafu sangli suoli chaye achaye ajini shandi shalai tuolani alujiaposasuozhe pishani nipiti abiantaoluolieti adantapoluishudie oujuoli moujuoli aluoli poluoli shoujiecha asanmosuanli fotuopijili□di damopolichadei sengqieniejushani posheposhashudi mantaoluao mantaoluochayetuo youloutuao youloutuo jiaoshelüe echachaluao echachaluoyetuoyeo apolu amoruonatuoya
+
+"World-Honored One, this dhāraṇī divine incantation has been spoken by sixty-two koṭis of Ganges sands' worth of buddhas. If anyone violates or harms this Dharma teacher, then he violates and harms all these buddhas."
+
+At that time, Śākyamuni Buddha praised Medicine King Bodhisattva, saying: "Excellent, excellent, Medicine King! Out of compassion, you protect this Dharma teacher and speak this dhāraṇī. It will bring abundant benefit to the multitude of living beings."
+
+At that time, Brave Donor Bodhisattva addressed the Buddha, saying: "World-Honored One, I too, for the sake of protecting those who recite, receive, and uphold the Lotus Sutra, shall speak a dhāraṇī. If this Dharma teacher obtains this dhāraṇī, then whether yakṣas, or rākṣasas, or pūtanas, or kṛtyas, or kumbhāṇḍas, or hungry ghosts, or the like seek to find his faults, they will be unable to gain any advantage." Then, in the Buddha's presence, he spoke the incantation, saying:
+
+zhuoli moheizhuoli yuzhi muzhi ali aluopodi nielidi nieliduopodi yizhinei weizhinei zhizhinei nielichi nei nielichi podi
+
+"World-Honored One, this dhāraṇī divine incantation has been spoken by Ganges sands' worth of buddhas, and all rejoice in it. If anyone violates or harms this Dharma teacher, then he violates and harms all these buddhas."
+
+At that time, Vaiśravaṇa Heavenly King, protector of the world, addressed the Buddha, saying: "World-Honored One, I too, out of compassion for living beings and for the sake of protecting this Dharma teacher, speak this dhāraṇī." Then he spoke the incantation, saying:
+
+ali nali □nali analü nali junaofu
+
+"World-Honored One, with this divine incantation I protect the Dharma teacher. I myself shall also protect those who uphold this sūtra, so that within a hundred yojanas they will have no decline or suffering."
+
+At that time, Dhṛtarāṣṭra Heavenly King was present in this assembly, together with thousands of myriads of koṭis of nayutas of gandharvas respectfully surrounding him. He proceeded to the place where the Buddha was, joined his palms, and addressed the Buddha, saying: "World-Honored One, I too, with the divine incantation of the dhāraṇī, shall protect those who uphold the Lotus Sutra." Then he spoke the incantation, saying:
+
+aganei ganei quli qiantuli zhantuli modengqi changqiuli fuloushani edi
+
+"World-Honored One, this dhāraṇī divine incantation has been spoken by forty-two koṭis of buddhas. If anyone violates or harms this Dharma teacher, then he violates and harms all these buddhas."
+
+At that time there were rākṣasī demonesses and others—the first named Lambā, the second named Vilambā, the third named Crooked Teeth, the fourth named Flower Teeth, the fifth named Black Teeth, the sixth named Much Hair, the seventh named Insatiable, the eighth named Necklace Holder, the ninth named Hārītī, and the tenth named Stealer of the Vital Essence of All Living Beings. These ten rākṣasī demonesses, together with the Mother of Demon Children, her sons, and her retinue, all proceeded to the place where the Buddha was and with one voice addressed the Buddha, saying: "World-Honored One, we too wish to protect those who recite, receive, and uphold the Lotus Sutra, to eliminate their decline and suffering. If there are any who seek to find the faults of the Dharma teacher, we shall cause them to gain no advantage." Then, in the Buddha's presence, they spoke the incantation, saying:
+
+yitili yitimin yitili aitili yitili neili neili neili neili neili louhei louhei louhei louhei duohei duohei duohei douhei □hei
+
+"Let them rather tread upon our heads than torment the Dharma teacher! Whether yakṣas, or rākṣasas, or hungry ghosts, or pūtanas, or kṛtyas, or vetalas, or kaṇṭhakas, or umarakas, or apasmarakas, or yakṣa kṛtyas, or human kṛtyas, or fevers—whether one-day, or two-day, or three-day, or four-day, up to seven-day, or chronic fevers; whether in male form, or female form, or boy form, or girl form—let them not torment even in dreams!" Then, in the Buddha's presence, they spoke verses, saying:
+
+If they do not obey our incantation
+And torment the preacher of the Dharma,
+Their heads shall split into seven pieces
+Like the branches of the arjaka tree.
+
+As with the sin of killing parents,
+Or the calamity of pressing oil,
+Or cheating people with false measures,
+Or Devadatta's sin of splitting the Saṅgha—
+
+Those who violate this Dharma teacher
+Shall obtain such calamities.
+
+After the rākṣasī demonesses spoke these verses, they addressed the Buddha, saying: "World-Honored One, we too shall personally protect those who receive, uphold, recite, and practice this sūtra, causing them to attain peace and be free from all decline and suffering, eliminating all poisonous medicines." The Buddha said to the rākṣasī demonesses: "Excellent, excellent! If you are able to protect those who uphold the name of the Lotus Sutra, your merit will be immeasurable. How much more so if you protect those who perfectly receive and uphold it, making offerings to the sūtra scrolls with flowers, incense, necklaces, powdered incense, paste incense, burning incense, banners, canopies, music, and lighting various lamps—sesame oil lamps, oil lamps, various fragrant oil lamps, sumanā flower oil lamps, campaka flower oil lamps, vārṣika flower oil lamps, utpala flower oil lamps—with hundreds of thousands of kinds of offerings such as these. Hārītī, you and your retinue should protect such Dharma teachers."
+
+When this Chapter on Dhāraṇīs was preached, sixty-eight thousand persons attained the Patient Acceptance of the Unborn Dharmas.
+
+═══════════════════════════════════════════════════════════════════════════════

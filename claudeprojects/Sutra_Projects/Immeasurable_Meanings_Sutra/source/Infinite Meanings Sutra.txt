@@ -1,0 +1,512 @@
+﻿Infinite Meanings Sutra
+Translated by William Altig
+________________
+________________
+
+
+
+
+Copyright
+
+© 2025 Duane William Altig
+All rights reserved.
+Translated from the Chinese version of the Sutra of Infinite Meanings (無量義經), attributed to Tripitaka Master Dharmagathayasas (Xiao-Qi Dynasty, c. 481 CE).
+
+
+________________
+
+
+Introduction
+The Sutra of Infinite Meanings (無量義經) holds a special and profound place in Mahayana Buddhism. Though relatively short, it is traditionally revered as the "opening sutra" or prologue to the Lotus Sutra, one of the most influential scriptures in the entire canon. It serves as a preparatory teaching, setting the stage for the Buddha to reveal his ultimate and final truth.
+The sutra's name is derived from its central thesis: that from one single, formless Dharma, "immeasurable meanings" and countless diverse teachings arise. It masterfully frames all of the Buddha's previous sermons as "expedient means" (方便) —skillful methods designed to guide sentient beings of varying capacities toward enlightenment.
+
+
+The text is traditionally preceded by a brilliant preface written by Liu Qiu (劉虬), a respected recluse from the Xiao-Qi dynasty (479–502 CE). Liu Qiu's preface is a valuable work in its own right, outlining a "Seven Stage" progression of Buddhist teachings. It begins with the five precepts for humans and devas, moves through the paths of the Sravaka (Four Noble Truths) and Pratyekabuddha (Twelve Links), and culminates in the Mahayana path and the ultimate truth of the Lotus Sutra. His preface also captures the fascinating philosophical debate of the time between "Gradual" and "Sudden" enlightenment, a discussion that remains relevant to practitioners today.
+
+
+The preface also recounts the sutra's remarkable journey to China. Although mentioned by name in the Lotus Sutra, the Sutra of Infinite Meanings itself was unknown in China for centuries. The preface tells of a dedicated monk named Hui Biao (慧表) who, in 481 CE, traveled to Guangzhou and met a Central Indian monk, Tripitaka Master Dharmagathayasas (曇伽陀耶舍). It was Dharmagathayasas who translated the text, finally allowing this crucial teaching to be disseminated.
+
+
+This new translation is offered in the spirit of that original transmission. The goal is to present these profound teachings in a clear, accessible, and modern English, allowing the "immeasurable meanings" of this ancient text to resonate with new audiences. It is my hope that this work, like the sutra itself, will serve as a gate, opening the reader's heart to the wisdom and compassion of the one Buddha-vehicle.
+________________
+
+
+A Note on the Assembly: Key Figures
+The Sutra of Infinite Meanings opens with the Buddha attended by a vast assembly. Here are some of the key Bodhisattvas (enlightened beings) and Bhikshus (monks) mentioned by name:
+Great Bodhisattvas
+* Manjushri: The "Dharma Prince," representing "Gentle Glory" and great wisdom.
+* Mahavairocana: The "Great Shining One," often associated with the ultimate Dharma-body of the Buddha.
+* Asoka: "Sorrow-Free."
+* Mahaprajna: "Great Wisdom."
+* Maitreya: "Loving-Kindness" or "The Friendly One." He is the Bodhisattva prophesied to be the next Buddha.
+* Bhaisajyaraja: The "Medicine King."
+* Bhaisajyasamudgata: "Medicine Superior" or "Healer."
+* Avalokiteshvara: "Perceiver of the World's Sounds" or "Regarder of the Cries of the World." The embodiment of great compassion.
+* Mahasthamaprapta: "Attainer of Great Strength."
+* Great Adornment: The primary Bodhisattva in this sutra, who rises to ask the Buddha the main questions on behalf of the assembly.
+Great Bhikshus (Arhats)
+* Shariputra: Known as the "foremost in wisdom" among the Buddha's monks.
+* Maudgalyayana: Known as the "foremost in supernatural powers."
+* Subhuti: Known as the "foremost in understanding emptiness."
+* Mahakasyapa: Known as the "foremost in ascetic practices."
+* Ananda: "Joy" or "Bliss." He was the Buddha's personal attendant, famed for hearing and remembering all his teachings.
+* Rahula: "Fetter." He was the Buddha's only son.
+________________
+
+
+Preface
+
+
+Written by Liu Qiu, a recluse from Jingzhou, Xiao Qi dynasty.
+The Sutra of Infinite Meanings derives its name from its capacity to generate a multitude of teachings and encompass immeasurable meanings, all originating from a single, formless Dharma.
+
+
+Sentient beings across the three realms are bound by their karma, yet the enlightened one skillfully guides them all. Suffering in the cycle of birth and death, they yearn for joy. This inherent desire draws them to the sacred, and the Buddha, in turn, responds with compassion and kindness to save the world, employing various expedient means.
+
+
+The teachings unfold in seven stages, tailored to differing capacities:
+   1. For Polie and others: The Five Precepts were expounded, establishing good roots for humans and devas.
+   2. For Julin and others: The Four Noble Truths were taught, introducing the Sravaka vehicle.
+   3. For those of middle capacity: The twelve links of dependent origination were explained, revealing the Pratyekabuddha vehicle.
+   4. For those of higher capacity: The six paramitas were elucidated, outlining the Mahayana vehicle.
+   5. To harmonize and resolve doubts: The Sutra of Infinite Meanings was then expounded, acknowledging various paths to the Way but also hinting that the ultimate truth remained unrevealed, thereby awakening a deeper quest for truth.
+   6. Revealing the ultimate truth: The Lotus Sutra followed, unifying the teachings and eliminating temporary expedients, aligning with the desire for true understanding.
+   7. Expressing permanency: Even after the truth was revealed, the ultimate meaning of permanency was still veiled. Therefore, as the Buddha neared nirvana between the twin trees, he fully expressed the profound teaching of "I and purity."
+While numerous Dharma gates exist beyond these, their essential meaning culminates here, much as all sounds fall within the five notes and all schools of thought within the six traditions.
+
+
+The Infinite Meanings Sutra, though referenced in the Lotus Sutra, was unknown in China until a remarkable series of events brought it to light. I eagerly awaited its arrival, silencing all conversation upon nearing the lecture hall, yearning to behold the text.
+
+
+Hui Biao, a monk of Qiang lineage from Mount Wudang and nephew of the usurper Yao Lue, was captured by Jin general He Danzhi during the fall of the state. Danzhi, impressed by the young Hui Biao's intelligence, adopted him as "Mingling." Hui Biao was later released to become a monk and dedicated himself to seeking spiritual enlightenment, undertaking perilous journeys across the country.
+
+
+In 481 CE, during the third year of Jianyuan of Qi, Hui Biao traveled to Lingnan in search of rare and esoteric teachings. At Chaoting Temple in Guangzhou, he encountered the Central Indian monk Dharmagathayasas, who was fluent in official script and the Qi language. Dharmagathayasas possessed the Infinite Meanings Sutra but was unsure who was worthy of receiving it. Hui Biao earnestly pleaded for the text, dedicating himself entirely to the task. After a month, he finally obtained a single copy and returned to Wudang.
+
+
+On the eighteenth day of the ninth month of the third year of Yongming (485 CE), Hui Biao brought the sutra down from the mountain for collation and dissemination. Upon seeing the authentic text, I was overcome with inexpressible joy and reverence. To further understanding, I sought the wisdom of accomplished scholars, setting aside personal biases to diligently write this preface and commentary.
+
+
+The ultimate teaching adapts to the world and its customs, and the divine path saves beings by meeting their needs, leading to diverse interpretations. For instance, east of Xuanyu, it's called "Taiyi" (Great One), while west of Jibin, it's "Zhengxue" (Right Learning). Eastern lands speak of a hundred years of misfortune and blessings, whereas Western regions distinguish between good and evil across three lifetimes.
+
+
+The pursuit of nothingness and the cultivation of emptiness are fundamentally the same. However, those who desire nothingness cannot attain it, and those who focus on emptiness lack the insight to enter it. Yet, students of Buddhist teachings sometimes argue that understanding the principle can be gradual, or that entering emptiness must be sudden. Let me clarify this profound meaning.
+
+
+Advocates of gradualism contend that all achievements are invariably gradual. Just as solid ice forms from frost and a tall tower is built from accumulated earth, a practitioner's entry into emptiness, though not yet perfect, is a process of steady reduction, like felling a tree, where each cut diminishes it. The three emptinesses are ascended gradually; therefore, this process must be gradual.
+
+
+Conversely, proponents of suddenness argue that among the merits of seeking good, contemplating the nature of reality is paramount. This nature arises from conditions, being neither existent nor non-existent. To transcend conceptual thought within this state of neither existence nor non-existence, and to gain rational insight into this unity, is to understand emptiness. To maintain conceptual thought in this state, where object and knowledge remain separate, is not yet freedom from existence. Suppressing defilements within existence does not show daily progress, nor does discussing the mind based on emptiness demonstrate entry into the principle. Furthermore, claims of encompassing an Arhat in a single hearing or determining non-arising in one morning are inducements, not facts. Subtle attainment is not gradual; this principle is certainly true.
+
+
+Since these two discussions diverge and these two views contend, with one accepting and one rejecting, neither can be entirely correct.
+
+
+________________
+The Infinite Meanings Sutra
+
+
+Upon examining the enlightened masters, their lineage traces back to Zhi An. Master Zhi taught that non-arising states are achieved in stages: at the seventh stage of abiding, wisdom and mental faculties are fully developed, and by the tenth stage, all directions are open to understanding. While their outward expressions may differ, their core understanding is unified.
+
+
+Master An's discourse on contemplation highlights that the three vehicles—a framework for initial practice—ultimately lead to the same wisdom and concentration. This means that while individuals may begin their spiritual journey in one of three categories based on their capacity, their ultimate understanding converges into an undifferentiated wisdom. An analogy suggests that once great dangers are overcome, the distinction of "three" disappears; when the perilous path ceases, its transformative function also vanishes. This implies that the concept of "one" is expressed as "three" for expedient teaching, but there are not truly three separate enlightenments.
+
+
+Master Sheng further explained that the factors of enlightenment lead to nirvana, but are not the name of an Arhat; similarly, the six perfections lead to Buddhahood, but are not the designation of a Bodhi-tree king. Using the analogy of felling a tree, gradual removal of inches and feet is possible because the tree exists. However, in the realization of non-arising, where existence ceases, insight must be sudden.
+
+
+The teachings of the three vehicles generally agree that when existence ceases and insight is extinguished—abandoning existence and entering emptiness—this is the true path, and one should not cling to images of physical forms. The Infinite Meanings Sutra also grounds itself in formlessness. If the realized truth were truly different, how could it be called formless? If the entry into insight were truly the same, how could there be talk of gradualness? To speak of gradualness when it is not gradual is merely an expedient teaching.
+
+
+The Tathagata himself said, "I use an empty fist to deceive children, and thereby save sentient beings." For subtle texts to connect with a crude understanding, gradual explanations may be appropriate. However, to forget the image and grasp the true meaning, sudden enlightenment is superior. These general points are offered for speakers to consider.
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+Infinite Meanings Sutra
+Translated by William Altig
+________________
+Chapter 1: Virtuous Conduct
+This is what I heard: At one time, the Buddha resided on Vulture Peak Mountain in Rajagriha City, attended by a vast assembly. This included twelve thousand great Bhikshus and eighty thousand Bodhisattva Mahasattvas.
+Also present were celestial beings such as Devas, Nagas, Yakshas, and Gandharvas; warlike beings like Asuras and Garudas; and mythological beings like Kinnaras and Mahoragas. They were joined by the fourfold human assembly of Bhikshus (monks), Bhikshunis (nuns), Upasakas (laymen), and Upasikas (laywomen).
+The gathering also comprised numerous worldly leaders: Great Wheel-Turning Kings, minor Wheel-Turning Kings, and those of the gold and silver wheels. Kings, princes, ministers, and citizens arrived, along with scholars, women, and the great elders of the country. Each of these individuals came with retinues numbering in the hundreds of thousands.
+Upon reaching the Buddha's abode, they performed various acts of homage: bowing their heads at his feet, circumambulating him hundreds of thousands of times, burning incense, scattering flowers, and offering diverse forms of veneration. After presenting their offerings, they respectfully withdrew and seated themselves to one side.
+Among the assembly of Bodhisattvas were eighty thousand Mahasattvas, including eminent figures like Manjushri, Mahavairocana, Asoka, Mahaprajna, Maitreya, Avalokiteshvara, and Mahasthamaprapta. These great beings had attained the Dharma-body and were perfected in precepts, concentration, wisdom, liberation, and the knowledge of liberation.
+Their minds were perpetually tranquil, serene, and free from desire, delusion, and confused thoughts. They maintained this state of profound stillness for countless kalpas, leading to the manifestation of innumerable Dharma gates. They possessed vast wisdom, understanding all phenomena, and clearly discerning the true nature of existence and non-existence, revealing them distinctly.
+Skillful in understanding the inclinations of all beings, they eloquently requested the Buddha to turn the wheel of Dharma. The Buddha responded by first dispelling the dust of desire with a fine mist, opening the gate to Nirvana, and fanning the winds of liberation to bring the coolness of the Dharma, removing worldly defilements.
+Next, he profoundly expounded the twelve links of dependent origination, scattering away ignorance, old age, sickness, death, and the intense suffering of existence. He then poured forth the supreme Mahayana, nurturing the good roots of all sentient beings, sowing good seeds in the field of merit, and causing the shoots of Bodhi to sprout universally.
+The wisdom of sun and moon, and the opportune seasons of skillful means, together enhanced the great work of Mahayana, enabling all beings to swiftly attain Anuttara-samyak-sambodhi and abide in eternal, subtle, and true happiness.
+With boundless compassion, he saved suffering sentient beings. He was their true good friend, their great field of merit, an uninvited teacher, a peaceful and joyful abode, their refuge, protection, and great support. Everywhere, he served as a great guide for the multitudes.
+He provided sight for the blind, and complete senses for the deaf, mute, and those with impaired faculties. For the deranged and confused, he brought great right mindfulness. He was a great boatman, carrying all beings across the river of samsara to the shore of Nirvana.
+He was a great physician, diagnosing diseases, understanding medicines, and prescribing remedies according to the illness, which all beings gladly accepted. He was a great charioteer, without any negligent actions, taming all like an elephant and horse tamer. Like a brave and mighty lion, he subdued all beasts, proving difficult to overcome.
+He moved with joyful ease in the Bodhisattva Paramitas, firm and unmoving in the Tathagata stage, abiding in the power of his vows, purifying the Buddha-land, and soon attaining Anuttara-samyak-sambodhi. These Bodhisattva Mahasattvas all possessed such inconceivable merits.
+Among the twelve thousand Arhat Bhikshus present were: Shariputra, known for his great wisdom; Maudgalyayana, who possessed supernatural powers; the wise Subhuti; Mahakatyayana; Purna Maitrayaniputra; Ajnata Kaundinya; Aniruddha, with his divine eye; Upali, who meticulously upheld the precepts; Ananda, the Buddha's attendant; Rahula, the Buddha's son; Upananda; Revata; Kapphina; Bakula; Achuta; Sagata; and the ascetics Mahakasyapa, Uruvilva-kashyapa, Gaya-kashyapa, and Nadi-kashyapa. All these Bhikshus had eradicated defilements and outflows, were no longer bound by worldly attachments, and had achieved genuine liberation.
+At that moment, Great Adornment Bodhisattva Mahasattva observed the assembly. Once everyone had settled into meditation, he, accompanied by eighty thousand Bodhisattva Mahasattvas, rose from their seats and approached the Buddha's abode. They bowed their heads at his feet, circumambulated him hundreds of thousands of times, and offered celestial gifts. These offerings included celestial flowers, incense, garments, necklaces, and priceless jewels, which descended like clouds from all directions. Celestial food, bowls, and dishes, filled to overflowing with a hundred flavors, satisfied all who saw their color and smelled their aroma. Celestial banners, pennants, canopies, and musical instruments were placed everywhere, and celestial music was played to entertain the Buddha. Then, with one mind, they knelt down, joined their palms, and together spoke these verses of praise:
+Great indeed, the enlightened one, the Holy Master grand,
+No defilement, no stain, no attachment in this land.
+Tamer of devas, humans, elephants, and horses too,
+His path's a gentle breeze, his virtue's fragrance, ever true.
+
+
+His wisdom's calm and serene, his feelings still as night,
+His thoughts are gone, intentions quenched, his mind is pure and bright.
+No dreams or deep delusions, no notions in his head,
+The skandhas, realms, and sense-bases, long since they have fled.
+
+
+His body ain't existent, nor non-existent, you see,
+No cause, no condition, no self for him, nor other be.
+Ain't square, ain't round, ain't short, ain't long at all,
+Ain't appearing, disappearing, ain't gonna rise or fall.
+
+
+Ain't made or arising, ain't done or created, that's a fact,
+Ain't sitting, ain't lying, ain't walkin' a lonely track.
+Ain't moving, ain't turning, ain't quiet, ain't still,
+Ain't advancing, ain't retreating, ain't safe upon the hill.
+
+
+Ain't right, ain't wrong, ain't gain, ain't loss to him,
+Ain't that, ain't this, ain't comin', ain't goin' on a whim.
+No green, no yellow, no red, no white at all,
+No crimson, no purple, no color to enthrall.
+
+
+From precepts, deep concentration, wisdom's gentle light,
+Liberation, insight, they all take their flight.
+Three knowledges, six powers, factors of enlightenment's grace,
+Compassion, ten powers, and fearlessness find their place.
+All born from good karma, for all beings, it's true,
+The conditions are set, for me and for you.
+
+
+He shows a body, sixteen feet, with purple-gold it shines,
+Evenly radiant, clear and bright, crossing all the lines.
+His hair-mark like the moon, a halo 'round his neck, like the sun,
+His spiraling hair, dark blue, a crown where wonders are spun.
+His pure eyes brightly shining, gazing up and down,
+Dark blue eyebrows extended, a square mouth, no frown.
+
+
+His lips and tongue, red and sweet, like vermilion fruit so rare,
+Forty white teeth like the snow, beyond all compare.
+His forehead broad, his nose long, his face open and wide,
+A swastika on his chest, a lion's chest, with nothing to hide.
+His hands and feet are soft, with a thousand-spoked wheel you'll see,
+Armpits and palms webbed, grasping all for eternity.
+
+
+His arms are long, his elbows long, his fingers straight and fine,
+His skin is soft and smooth, his hairs curled right, a divine sign.
+Ankles and knees unseen, his male part like a horse's, withdrawn and deep,
+Fine sinews, locked bones, deer-like calves, while the world does sleep.
+Inside and out transparent, pure and clean, without a stain,
+Like pure water, untouched by dust, again and again.
+
+
+These are his thirty-two marks, so wondrous to behold,
+And eighty secondary traits, a story to be told.
+Yet truly without marks, no color in their face,
+All marked appearances cut off, no eye can truly trace.
+The markless mark is the marked body, yes, it's true,
+The body-marks of all beings, they are like that too.
+
+
+He makes all beings joyful, to prostrate down with grace,
+With devout and sincere hearts, in this holy place.
+Through this, self-importance and arrogance take their leave,
+And such a wondrous body, he does truly weave.
+We, the eighty thousand in this assembly grand,
+Bow our heads together, take refuge in his hand.
+
+
+In the Holy One who quenches thought, mind, and consciousness so deep,
+The tamer of elephants and horses, while the world does sleep.
+We bow our heads and take refuge in the Dharma-body's light,
+The aggregate of precepts, concentration, wisdom, liberation, insight bright.
+We bow our heads and take refuge in the banner-like marks so grand,
+We bow our heads and take refuge in the inconceivable land.
+
+
+His Brahma-like voice thunders, with eight qualities it rings,
+Subtle, pure, profound and far-reaching, the joy it truly brings.
+The Four Noble Truths, Six Paramitas, Twelve Links of Dependent Origination,
+Proclaimed in tune with minds and karma, throughout every nation.
+Those who hear are enlightened, their burdens fall away,
+Countless bonds of birth and death are severed in that day.
+
+
+Upon hearing, some attain the Stream-enterer's gentle flow,
+Once-returner, Non-returner, or Arhatship, you know.
+The stage of a Pratyekabuddha, free from outflows, no conditioned state,
+The Bodhisattva's stage, no arising, no ceasing, sealing their fate.
+Some attain immeasurable Dharanis, a treasure beyond compare,
+Unimpeded joyful speech, great eloquence in the air.
+
+
+Expounding profound and subtle verses, with joy they dance and sing,
+Rejoicing and bathing in the pure pond of Dharma, the peace it brings.
+Some leap and fly, showing powers, a wondrous sight to see,
+Appearing and disappearing in water and fire, wild and free.
+Such is the turning of the Dharma wheel, pure and vast,
+Boundless and inconceivable, a love that's built to last.
+
+
+We all again bow our heads, together, hand in hand,
+Taking refuge in the timely turning of the Dharma wheel in this land.
+We bow our heads and take refuge in the Brahma-like voice so clear,
+We bow our heads and take refuge in dependent origination, truths, and perfections, banishing all fear.
+In countless past kalpas, the World-Honored One, so true,
+Diligently cultivated virtues, for me and for you.
+
+
+For us, humans, devas, dragons, and divine kings of might,
+And for all sentient beings, he shone his guiding light.
+He gave up all that was hard to give, with an open heart,
+Wealth, treasures, wives, children, and cities, tearing them apart.
+Within and without the Dharma, no stinginess did he show,
+Giving his head, eyes, marrow, and brain, letting his pure love flow.
+
+
+He upheld the pure precepts of all Buddhas, with a steadfast will,
+Even at the cost of his life, he stood upon the hill.
+If people harmed him with knives or staffs, or words so mean and low,
+He never became angry, letting his compassion grow.
+Through kalpas, he disciplined his body, no weariness, no rest,
+Day and night, his mind collected, always put to the test.
+
+
+He widely learned all the methods of the path, with wisdom deep and free,
+His wisdom penetrated the roots of all humanity.
+Therefore, he now has power, self-mastery in his hand,
+Sovereign in the Dharma, the Dharma King throughout the land.
+We all together bow our heads, in reverence and in grace,
+Taking refuge in the one who diligently worked in every place.
+________________
+Chapter 2: Speaking the Dharma
+
+
+"World-Honored One, we, this assembly of eighty thousand Bodhisattvas, now wish to ask questions regarding matters within the Tathagata's Dharma. We humbly request that the World-Honored One graciously grant us an audience."
+
+
+The Buddha commended Bodhisattva Great Adornment and the eighty thousand Bodhisattvas, acknowledging their opportune timing. "Ask any questions you have," he encouraged, "as the Tathagata will soon enter Nirvana. I promise to dispel all remaining doubts for all beings after my passing. Speak your minds without hesitation."
+
+
+"World-Honored One, what Dharma gate should Bodhisattva Mahasattvas practice to swiftly achieve Anuttara-samyak-sambodhi? Which Dharma gate facilitates their rapid attainment of this supreme enlightenment?"
+
+
+"Good men," the Buddha spoke, "there is a single Dharma gate that allows Bodhisattvas to quickly achieve Anuttara-samyak-sambodhi. Any Bodhisattva who studies this Dharma gate will swiftly attain Anuttara-samyak-sambodhi."
+
+
+"World-Honored One! What is the name of this Dharma gate? What is its meaning? How should Bodhisattvas cultivate it?"
+
+
+"The Buddha's teaching, known as 'Limitless Meanings,' instructs Bodhisattvas to observe all phenomena from their origin to the present as inherently empty and tranquil. These phenomena are neither grand nor minuscule, neither appearing nor disappearing, neither static nor in motion, neither progressing nor regressing. They are akin to empty space, devoid of duality.
+
+
+However, sentient beings, misled by erroneous thoughts, perceive distinctions such as 'this' and 'that,' 'gain' and 'loss.' This leads to unwholesome thoughts and actions, trapping them in the cycle of the six realms, enduring countless eons of suffering from which they cannot escape on their own.
+
+
+Bodhisattva Mahasattvas, understanding this clearly, are moved by compassion and develop immense loving-kindness to rescue these beings. They deeply comprehend all phenomena—their nature, how they arise, endure, transform, and cease. This understanding reveals how both unwholesome and wholesome phenomena emerge, abide, change, and ultimately cease.
+
+
+Having grasped the fundamental nature of these four characteristics, Bodhisattvas further perceive the continuous flux of all phenomena—arising and ceasing in every thought-moment. This involves observing their instantaneous emergence, duration, transformation, and cessation. This insight leads them to understand the diverse faculties, natures, and desires of sentient beings.
+
+
+Due to the boundless nature of these desires and natures, the Dharma preached is also limitless, leading to an infinite number of meanings. Yet, all these limitless meanings originate from a single Dharma, which is precisely 'no-characteristics.' This 'no-characteristics' is neither characteristics nor non-characteristics, but rather what is termed 'true characteristic.'
+
+
+When Bodhisattva Mahasattvas reside in this 'true characteristic,' their compassion becomes pure and authentic, allowing them to genuinely alleviate the suffering of sentient beings. Once suffering is relieved, they continue to preach the Dharma, enabling all sentient beings to experience joy.
+
+
+Good men, Bodhisattvas who cultivate the Limitless Meanings Dharma gate will swiftly achieve Anuttara-samyak-bodhi. This profound and supreme Mahayana 'Limitless Meanings Sutra' holds pure, correct, and unsurpassed principles, revered and protected by the Buddhas of the three periods of time. No demonic forces, evil paths, or corrupting wrong views of birth and death can penetrate it. Therefore, Bodhisattva Mahasattvas seeking supreme Bodhi should cultivate and study this profound, supreme Mahayana 'Limitless Meanings Sutra.'"
+
+
+"World-Honored One! Your teachings of the Dharma are indeed profound, just as the natures and capacities of sentient beings and the liberation found through the Dharma gate are inconceivable. We have no remaining doubts about the various Dharmas you have spoken. However, because sentient beings often fall into confusion, we wish to inquire further.
+
+
+World-Honored One! Since the Tathagata attained enlightenment over forty years ago, you have consistently expounded the four characteristics of all phenomena: suffering, emptiness, impermanence, and no-self. You have taught that phenomena are neither great nor small, neither arising nor ceasing, all without distinct characteristics; their nature and characteristics inherently empty and quiescent, neither coming nor going, neither appearing nor disappearing. Those who heard these teachings sometimes attained various levels of spiritual understanding: the warm-Dharma, the summit-Dharma, or the highest worldly Dharma; the fruit of a Srota-apanna, a Sakridagamin, an Anagamin, or an Arhat; the path of a Pratyekabuddha; aroused the Bodhi mind; or ascended through the bhumis, from the first to the tenth.
+
+
+What, then, is the difference between the meaning of the Dharmas preached in the past and what is preached now, particularly as you state that the profound, supreme Mahayana 'Limitless Meanings Sutra' will enable Bodhisattvas to swiftly attain supreme Bodhi through its cultivation? How is this so? We earnestly request that the World-Honored One, out of compassion for all beings, extensively explain this, so that all who hear the Dharma, both in the present and in future worlds, may be free from any remaining doubts and confusions."
+
+
+Then the Buddha said to Bodhisattva Great Adornment, "Excellent! Excellent! Great good man! By asking the Tathagata about such a profound and supreme Mahayana subtle meaning, you will greatly benefit human and celestial beings, bringing them joy and peace. You will rescue suffering sentient beings with true great loving-kindness and compassion, truthfully and without falsehood. Because of this, you will certainly and swiftly attain supreme Bodhi, and also enable all sentient beings in this life and future lives to attain supreme Bodhi.
+
+
+For six years, after achieving Anuttara-samyak-sambodhi while meditating under the Bodhi tree in the dojo, I observed all phenomena with the Buddha eye. However, these phenomena proved inexpressible due to the diverse natures and desires of sentient beings. This diversity necessitates the preaching of various Dharmas, using expedient means. For over forty years, the ultimate reality has remained unrevealed, resulting in sentient beings attaining the path with distinctions and not swiftly achieving supreme Bodhi.
+
+
+The Dharma is akin to water, capable of washing away defilements, whether from a well, pond, river, stream, canal, or the great ocean. Just as water cleanses, the Dharma water washes away the various afflictions of sentient beings. While the nature of water is singular, its manifestations—rivers, wells, ponds, streams, canals, and the great ocean—are distinct. Similarly, the nature of the Dharma is one in its ability to remove defilements without distinction, yet the three Dharmas, four fruits, and two paths are not identical.
+
+
+Although water cleanses all alike, a well is not a pond, a pond is not a river, and a stream or canal is not the ocean. The Tathagata, the Hero of the World, is sovereign in the Dharma, and the various Dharmas he preaches also follow this principle. The initial, middle, and final preachings all wash away the afflictions of sentient beings, but the initial is distinct from the middle, and the middle from the final. While the words of these initial, middle, and final preachings are one, their meanings diverge.
+
+
+Good men, when I first preached the Four Noble Truths to Ajñata Kaundinya and the other five at Deer Park in Varanasi, having risen from the King of Trees, I stated that all phenomena are inherently empty, tranquil, subject to change and impermanence, and arise and cease in every thought-moment. Subsequently, I expounded the Twelve Links of Dependent Origination and the Six Paramitas to bhikshus and various Bodhisattvas, reiterating that all phenomena are inherently empty, tranquil, subject to change and impermanence, and arise and cease in every thought-moment. Now, as I expound the Mahayana 'Limitless Meanings Sutra,' I again affirm that all phenomena are inherently empty, tranquil, subject to change and impermanence, and arise and cease in every thought-moment.
+
+
+Therefore, good men, while the words of my initial, middle, and present preachings are consistent, their meanings differ. This difference in meaning leads to varied understandings among sentient beings, consequently resulting in diverse attainments of Dharmas, fruits, and paths.
+
+
+Good men, when I first preached the Four Noble Truths, it was for those who sought to be Sravakas, and yet eight hundred million celestial beings descended to hear the Dharma and awakened the Bodhi mind. Later, in various places, I expounded the profound Twelve Links of Dependent Origination for those who sought to be Pratyekabuddhas, but immeasurable sentient beings awakened the Bodhi mind or remained on the Sravaka path. Subsequently, I preached the Vaipulya Sutras in twelve divisions, the Mahaprajnaparamita, and the Avatamsaka (Huayan Haiyun), explaining the Bodhisattva's cultivation through kalpas. As a result, hundreds of thousands of bhikshus, tens of millions of human and celestial beings, and immeasurable sentient beings attained the fruits of Srota-apanna, Sakridagamin, Anagamin, or Arhat, or abided in the Dharma of the Pratyekabuddha cause.
+
+
+Good men, from this, you should understand that while the preaching is the same, the meanings differ. Because the meanings differ, sentient beings comprehend them differently. And because they comprehend them differently, the Dharmas, fruits, and paths they attain are also different. Therefore, good men, from the time I attained enlightenment and began preaching the Dharma until today, as I expound the Mahayana 'Limitless Meanings Sutra,' I have consistently spoken of suffering, emptiness, impermanence, and no-self. I have spoken of that which is not true, not false, not great, not small; that which was originally not so, and now does not cease; all without characteristics, where the characteristics and nature of phenomena neither come nor go. Yet, sentient beings remain moved by the four characteristics.
+
+
+Good men, understand this: Buddhas speak with a singular voice, yet their words resonate universally. They manifest countless forms—hundreds of thousands of millions of nayutas, immeasurable, like the sands of the Ganges. Within each form, they again display an infinite variety of beings, similarly countless and diverse. This profound and inconceivable realm is unique to the Buddhas; it is beyond the comprehension of the two vehicles and the ten-stage Bodhisattvas. Only one Buddha can truly and fully comprehend another Buddha.
+
+
+Good men, I declare that the subtle, profound, and supreme Mahayana 'Limitless Meanings Sutra' holds unsurpassed reverence due to its pure and correct principles. It is safeguarded by the Buddhas of the past, present, and future. No demonic assembly or external path can penetrate it, nor can it be tainted by any erroneous views of birth and death. Therefore, Bodhisattva Mahasattvas who aspire to swiftly achieve supreme Bodhi should cultivate and study this profound and supreme Mahayana 'Limitless Meanings Sutra.'"
+
+
+
+
+________________
+Chapter 3: Ten Merits
+Then, the Great Adornment Bodhisattva Mahasattva addressed the Buddha, "World-Honored One, the subtle, profound, and supreme Mahayana Infinite Meanings Sutra that you preach is truly profound! Why is this so? In this assembly, all Bodhisattva Mahasattvas, the four groups of disciples, devas, dragons, ghosts, spirits, kings, ministers, common people, and all sentient beings who hear this profound sutra unfailingly attain the Dharani gate, the three dharmas, the four fruits, and the Bodhi mind.
+
+
+This sutra's principles are undeniably upright and superior to all others. They are guarded by the Buddhas of the three periods of time, impervious to all demons and heretics, and immune to destruction by evil views and the cycle of birth and death. Hearing it just once enables retention of all dharmas, bringing immense benefit to any sentient being. If practiced, one quickly attains Anuttara-samyak-sambodhi.
+
+
+Conversely, sentient beings who do not hear this sutra suffer a great loss. Even after immeasurable, boundless, and inconceivable asamkhyeya kalpas, they will ultimately not attain Anuttara-samyak-sambodhi. This is because they do not know the direct path of Bodhi and instead tread treacherous paths, encountering many obstacles.
+
+
+World-Honored One, this sutra is truly inconceivable. We humbly request that, out of compassion for this great assembly, you extensively explain its profound and inconceivable matters. World-Honored One, where does this sutra come from? Where does it go? Where does it reside, that it possesses such immeasurable merits and inconceivable power, enabling beings to quickly attain Anuttara-samyak-sambodhi?"
+
+
+"Excellent, excellent, good man! It is as you say. This sutra is truly profound because it enables beings to swiftly achieve Anuttara-samyak-sambodhi. Hearing it once allows one to retain all dharmas, bringing immense benefit to all sentient beings and leading them directly to the unobstructed path.
+
+
+You ask where this sutra comes from, where it goes, and where it resides. Listen carefully. This sutra originates in the palaces of the Buddhas, travels to all sentient beings who awaken the Bodhi mind, and dwells in the places where Bodhisattvas practice. This is how the sutra comes, goes, and resides.
+
+
+Therefore, this sutra possesses immeasurable merits and inconceivable power, enabling beings to quickly attain Anuttara-samyak-sambodhi. Good man, do you wish to hear that this sutra also has ten inconceivable meritorious powers?"
+
+
+The Great Adornment said, "We wish to hear."
+
+
+The Buddha proclaimed the profound power of this sutra, stating, "Good man! This sutra possesses an inconceivable meritorious power, beginning with its ability to inspire Bodhisattvas who have not yet awakened to the Bodhi mind to do so. It instills compassion in those who lack it, transforming those who delight in killing into beings of great compassion. It guides the jealous to find joy in others' merits and helps the attached to cultivate a spirit of letting go. The sutra encourages the stingy to embrace giving, the arrogant to observe precepts, and those consumed by anger to develop patience. It inspires the lazy to pursue diligent effort, the scattered to achieve meditative concentration, and the ignorant to develop wisdom. Furthermore, it empowers those unable to save others to do so, transforms the ten evil deeds into the ten good deeds, and redirects those who delight in the conditioned to aspire to the unconditioned. It strengthens wavering minds into unretreating ones, purifies defiled minds into those without defilements, and enables the elimination of numerous afflictions. Good man! This is merely the first of this sutra's immeasurable and wondrous powers."
+
+
+"Good man! The second amazing power of this sutra is that if any sentient being comes across it, even by reciting just once, one verse, or even one phrase, they will grasp countless meanings. They'll be able to explain the profound teachings they've received and understood, something that would otherwise take immeasurable eons. Why is this so? Because this teaching holds boundless meanings.
+
+
+Good man! This sutra is like a single seed that produces hundreds of thousands, and each of those then produces hundreds of thousands more, in an endless proliferation. Similarly, this sutra generates countless meanings from a single teaching, and each of those then generates countless more, leading to immeasurable and boundless understanding. Therefore, this sutra is called the Sutra of Infinite Meanings.
+
+
+Good man! This is the second incredible and meritorious power of this sutra."
+
+
+"Good man! The third inconceivable merit of this sutra is that if any sentient being hears even a part of it—a recitation, a verse, or a phrase—and comprehends its vast meanings, their afflictions will cease to trouble them. They will navigate the cycle of birth and death without fear, cultivate compassion for all beings, and develop courage and vigor in all dharmas.
+
+
+Just as a strong person can carry heavy burdens, those who uphold this sutra can bear the weighty treasure of supreme Bodhi and guide sentient beings out of the cycle of birth and death. Even before saving themselves, they can save others.
+
+
+Consider a gravely ill boatman, unable to move his limbs, who remains on the shore. Yet, he possesses a strong, well-equipped boat, always ready to transport others across the water. Similarly, those who uphold this sutra, though afflicted by the bodies of the five paths of existence and constantly entangled by 108 grave illnesses, remain on the shore of ignorance, old age, and death. Nevertheless, they possess the powerful and boundless meaning of this Great Vehicle sutra, enabling them to save sentient beings. Those who practice as taught will be saved from birth and death. Good man! This is the third inconceivable meritorious power of this sutra."
+
+
+This sutra possesses an inconceivable meritorious power, the fourth of its kind: any sentient being who encounters it, even by reciting a single phrase, verse, or the entire sutra once, will be filled with courage and vigor. Though not yet fully enlightened themselves, they will gain the capacity to save others, thus becoming akin to Bodhisattvas.
+
+
+The Buddhas and Tathagatas will consistently preach the Dharma to such individuals, who, upon hearing it, can fully grasp, retain, and follow its teachings without opposition. In turn, they will extensively preach it to others as appropriate.
+
+
+Consider the analogy of a newborn prince, whether one day, a few days, a few months, or even up to seven years old. Despite his inability to manage state affairs, he commands the reverence of ministers and common people, enjoys the companionship of great princes, and receives special love and constant communication from the king and queen. This is because he is young and yet holds a significant position.
+
+
+Similarly, those who uphold this sutra are like this newborn prince. The Buddhas are the kings, and this sutra is the queen, together giving birth to this Bodhisattva child. If this Bodhisattva hears or recites this sutra—whether a single phrase, a verse, or countless times like the sands of the Ganges—they will gain immense benefits.
+
+
+Although they may not yet fully comprehend the ultimate truth, shake the three thousand great thousand worlds, thunder with the voice of Brahma, or turn the great Dharma wheel, they are already revered by all four assemblies and the eight classes of beings. They have great Bodhisattvas as kin, deeply penetrate the secret Dharma of the Buddhas, preach without error or omission, are constantly protected and remembered by the Buddhas, and are covered by special compassion. This is because they are new learners on the path to enlightenment.
+
+
+This, then, is the fourth inconceivable meritorious power of this sutra.
+
+
+"Good man! Fifth, the inconceivable merit of this sutra is that if a good man or good woman receives, upholds, recites, copies, or writes this profound, supreme Mahayana Infinite Meanings Sutra—whether the Buddha is in the world or after his Nirvana—they can manifest the great Bodhi path. Even if still bound by afflictions and not yet completely departed from ordinary worldly affairs, such a person can extend one day to a hundred kalpas, and also shorten a hundred kalpas to one day, bringing joy and conviction to sentient beings.
+
+
+Good man! This good man or good woman is like a dragon child who, upon being born for seven days, can already raise clouds and bring down rain. Good man! This is the fifth inconceivable meritorious power of this sutra."
+
+
+The Sixth Inconceivable Merit of the Sutra
+
+
+This sutra possesses an extraordinary and inconceivable power: whether a person practices its teachings during the Buddha's lifetime or after his Nirvana, by upholding and reciting it, even if they still harbor personal afflictions, they can teach the Dharma to others. This enables sentient beings to transcend suffering, break free from the cycle of birth and death, and eradicate all pain. Those who hear and practice these teachings will attain the Dharma, achieve spiritual fruit, and ultimately reach the path, becoming indistinguishable from the Buddhas and Tathagatas.
+
+
+Consider the analogy of a young prince: when the king is absent or unwell, he entrusts the prince with the affairs of the state. Following the king's decree, the prince skillfully guides officials and implements righteous governance, leading the people to live in peace, as if the king himself were ruling.
+
+
+Similarly, a good man or woman who upholds this sutra, even if not yet at the highest stage of spiritual development (the first immovable ground), can, by following the Buddha's teachings, expound the Dharma. When sentient beings hear these teachings and practice them wholeheartedly, they will overcome afflictions, attain the Dharma, achieve spiritual fruit, and ultimately reach the path. This, good man, is the sixth inconceivable meritorious power of this sutra.
+
+
+“Good person! The seventh inconceivable meritorious power of this sutra is as follows: If a good man or good woman, during the Buddha's lifetime or after his Nirvana, hears, rejoices in, believes, and develops a rare mind for this sutra, and then receives, upholds, recites, copies, explains it, and practices according to the Dharma—arousing the Bodhi mind, cultivating various good roots, and developing great compassionate intent to save all suffering sentient beings—then even if they have not yet practiced the Six Perfections, these Perfections will naturally manifest before them. They will immediately attain the non-arising endurance of dharmas in this very body, and the afflictions of birth and death will be simultaneously cut off and destroyed. They will immediately ascend to the seventh ground, taking their place among the great Bodhisattvas.
+
+
+This can be likened to a strong man who eliminates enemies for a king. Once the enemies are destroyed, the king greatly rejoices and bestows half of his kingdom as a reward. Similarly, the man and woman who uphold this sutra are the most courageous and vigorous among all practitioners. The precious dharmas of the Six Perfections come to them spontaneously, without seeking. The enemies of birth and death are naturally scattered and destroyed, they realize the non-arising endurance of dharmas, and they are rewarded with the treasure and joy of half of the Buddha-land. Good person! This is the seventh inconceivable meritorious power of this sutra.”
+
+
+"Good person, the eighth inconceivable meritorious power of this sutra is profound. If any good man or woman, whether during the Buddha's lifetime or after his Nirvana, obtains this sutra, they should revere and trust it as if encountering the Buddha himself, treating it with equal importance. They will cherish and delight in it, receiving, upholding, reciting, copying, and wearing it, practicing in accordance with the Dharma. This includes being firm in precepts and patience, practicing the perfection of giving, deeply cultivating compassion, and extensively sharing this supreme Mahayana Infinite Meanings Sutra with others.
+
+
+Should there be individuals who previously doubted the existence of merit and demerit, this sutra, when presented to them with various skillful means to strengthen their belief, will, by its power, suddenly transform their minds. Once faith is ignited, they will become diligent and vigorous, thereby gaining access to the sutra's majestic power, ultimately attaining the path and its fruit. Consequently, good man and good woman, in this very body, they will achieve the non-arising endurance of dharmas, reach higher spiritual grounds, become kindred to Bodhisattvas, swiftly purify Buddha-lands for sentient beings, and before long, attain supreme Bodhi. This, good person, is the eighth inconceivable meritorious power of this sutra."
+
+
+"Good man, the ninth inconceivable merit of this sutra is that if any good man or woman, whether during the Buddha's lifetime or after his Nirvana, obtains this sutra, they will experience unprecedented joy. They will wholeheartedly embrace, uphold, recite, copy, and make offerings to it, and widely explain its meaning to all people. As a result, their remaining past karmic transgressions and heavy obstacles will be immediately extinguished, leading to purity and the attainment of great eloquence.
+
+
+They will sequentially perfect various virtues, acquire diverse samadhis, including the Surangama Samadhi, and enter the gate of great Dharani. Empowered by diligent effort, they will quickly ascend to higher spiritual grounds and skillfully manifest countless bodies across the ten directions of the world. Through this, they will save all suffering beings in the twenty-five realms of existence, enabling their liberation. Therefore, this sutra possesses such profound power. Good man, this is the ninth inconceivable meritorious power of this sutra."
+
+
+"Good man, the tenth inconceivable meritorious power of this sutra is profound. If a good man or good woman, during the Buddha's lifetime or after his Nirvana, joyfully obtains this sutra and develops a rare and sincere mind, they will not only personally receive, uphold, recite, copy, make offerings to, and practice its teachings, but also extensively encourage both householders and monastics to do the same. Through their compassionate and diligent efforts in guiding others to practice, and empowered by this sutra, these individuals will attain the path and its fruit.
+
+
+This good man or good woman, in their present body, will immediately acquire immeasurable Dharani gates. Even as an ordinary person, they will naturally begin to make countless vast and profound vows, deeply committing to saving all sentient beings. They will cultivate great compassion, extensively alleviating suffering, accumulating deep roots of goodness, and benefiting all beings. They will widely spread the Dharma rain, thoroughly nourishing the parched, and with various Dharma medicines, they will refine all sentient beings, bringing them peace and joy.
+
+
+Gradually, they will enable beings to ascend and dwell in the Dharma Cloud Ground, where grace and moisture are universally spread, and boundless compassion embraces all. They will gather suffering beings and guide them onto the path. Therefore, this person will soon attain Anuttara-samyak-sambodhi. Good man, this is the tenth inconceivable meritorious power of this sutra."
+
+
+"Good man! The supreme Mahayana Infinite Meanings Sutra possesses extremely great and wondrous divine power, and is peerless in its reverence. It enables all ordinary people to attain the fruit of sainthood, forever departing from birth and death and achieving liberation. This is why it is called the Sutra of Infinite Meanings. It allows all sentient beings, even while still ordinary people, to sprout the immeasurable Bodhi seeds of the Bodhisattvas, causing the tree of merit to flourish, spread, and grow. Therefore, this sutra is designated with these ten inconceivable meritorious powers."
+
+
+"World-Honored One," the Great Adornment Bodhisattva Mahasattva and eighty thousand Bodhisattva Mahasattvas declared to the Buddha, "The subtle, profound, and supreme Mahayana Infinite Meanings Sutra, which you have preached, possesses truly upright principles and is superior to all other teachings. It is guarded by the Buddhas of the three periods of time, impenetrable to all demons and heretics, and immune to destruction by all evil views and the cycle of birth and death.
+
+
+This sutra holds ten inconceivable meritorious powers, offering immense benefits to immeasurable sentient beings. It enables Bodhisattva Mahasattvas to attain the Samadhi of Infinite Meanings, hundreds of thousands of Dharani gates, various Bodhisattva grounds and tolerances, and even the four fruits of Pratyekabuddhas and Arhats. Your compassionate preaching of such Dharma has granted us great and unprecedented benefits. Your grace is truly difficult to repay."
+
+
+At that moment, the three thousand great thousand worlds vibrated in six ways. From the heavens, a shower of various flowers descended—Utpala, Padma, Kumuda, and Pundarika—along with countless heavenly incenses, garments, necklaces, and priceless jewels. These celestial offerings swirled down, honoring the Buddha, all Bodhisattvas, and the great assembly of Sravakas. Heavenly food, bowls, and delicacies overflowed; their sight and fragrance brought natural satisfaction to all. Heavenly banners, streamers, canopies, and wonderful musical instruments were arrayed everywhere, and heavenly music played, praising the Buddha.
+
+
+Similarly, in the Buddhas' worlds to the east, as numerous as the sands of the Ganges, the earth also shook in six ways. Heavenly flowers, incenses, garments, necklaces, priceless jewels, food, bowls, and delicacies rained down. The sight and fragrance of these offerings naturally satisfied everyone. Heavenly banners, streamers, canopies, and wonderful musical instruments were present, and heavenly music played, praising those Buddhas, all Bodhisattvas, and the great assembly of Sravakas. The south, west, north, the four intermediate directions, and the realms above and below were likewise adorned.
+
+
+The Buddha exhorted the Great Adornment Bodhisattva Mahasattva and eighty thousand Bodhisattva Mahasattvas to deeply revere this sutra and practice according to its Dharma. They were instructed to extensively transform all beings, diligently spread the sutra, and guard it day and night, ensuring all sentient beings universally obtain its benefits. The Buddha acknowledged their great compassion and benevolence, recognizing their wondrous vows and powers in protecting the sutra from doubt or obstruction. He charged them with ensuring its widespread propagation throughout Jambudvipa in future ages, enabling all sentient beings to see, hear, read, recite, copy, and make offerings to it. By doing so, they themselves would swiftly achieve Anuttara-samyak-sambodhi.
+
+
+At that moment, the Great Adornment Bodhisattva Mahasattva and eighty thousand other Bodhisattva Mahasattvas immediately rose from their seats. Approaching the Buddha, they bowed their heads at his feet and circumambulated him hundreds of thousands of times. Then, kneeling with joined palms, they collectively addressed the Buddha, saying:
+
+
+"World-Honored One, we are profoundly fortunate to have received your compassionate grace. You have preached to us the subtle, profound, and supreme Mahayana Infinite Meanings Sutra. We reverently accept your command, and after the Tathagata's Nirvana, we vow to widely propagate this sutra. Our intention is to universally enable all beings to receive, uphold, read, recite, copy, and make offerings to it. We only wish, World-Honored One, that you do not worry. By the power of our vows, we will universally enable all sentient beings to see, hear, read, recite, copy, and make offerings to this sutra, thereby obtaining the divine power of this Dharma."
+
+
+At that moment, the Buddha commended them, exclaiming, "Excellent! Excellent! Worthy individuals! Today, you are truly the Buddha's children, immensely compassionate and benevolent, genuinely capable of alleviating suffering and offering salvation from hardship. You are the supreme source of merit for all living beings, serving extensively as great and excellent guides for everyone, the grand sanctuary for all sentient beings, the profound benefactors of all sentient beings, always generously bestowing the blessings of the Dharma upon all."
+
+
+At that time, the great assembly rejoiced greatly, bowed to the Buddha, received the teachings, and departed.

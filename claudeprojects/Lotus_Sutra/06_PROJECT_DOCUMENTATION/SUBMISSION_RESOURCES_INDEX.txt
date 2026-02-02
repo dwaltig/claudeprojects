@@ -1,0 +1,321 @@
+================================================================================
+SUBMISSION RESOURCES INDEX
+All files you need for Wisdom Publications submission
+November 2, 2025
+================================================================================
+
+📁 LOCATION: /Users/williamaltig/claudeprojects/Lotus_Sutra/
+
+================================================================================
+SECTION 1: PRIMARY SUBMISSION FILES (ATTACH TO QUESTIONNAIRE)
+================================================================================
+
+FILE: Buddhist_Blues_Spiritual_Platform_SYNOPSIS.docx (39 KB)
+PURPOSE: Upload as "Project Synopsis"
+CONTAINS:
+  • Title and overview
+  • About the artist (you)
+  • Published volumes section
+  • Platform vision (audio, children's books, app)
+  • Three different pitches
+  • Platform & reach information
+  • Contact information
+
+FILE: Lotus_Sutra_Sample_Manuscript_PUBLISHER.docx (72 KB)
+PURPOSE: Upload as "Sample Manuscript"
+CONTAINS:
+  • Professional title page
+  • Publisher's note
+  • Chapters 2-3 (Burning House Parable)
+  • ~25 pages of manuscript
+  • Demonstrates translation quality
+
+================================================================================
+SECTION 2: REFERENCE DOCUMENTS (COPY/PASTE FROM THESE)
+================================================================================
+
+FILE: AUTHOR_BIOGRAPHY.txt (11 KB)
+PURPOSE: Copy/paste author bio and contact info
+CONTAINS:
+  • Full biography (first section)
+  • Professional biography (150-200 words) ← RECOMMENDED FOR QUESTIONNAIRE
+  • Extended biography (500-750 words)
+  • Short bio (50-75 words)
+  • Very short bio (1-2 sentences)
+  • Platform & reach section
+  • Contact information (all filled in)
+
+COPY THIS FOR QUESTIONNAIRE:
+Lines 20-25 - "PROFESSIONAL BIOGRAPHY" section (William Altig is a Buddhist musician...)
+
+FILE: TABLE_OF_CONTENTS_WITH_DESCRIPTIONS.txt
+PURPOSE: Reference for chapter information
+CONTAINS:
+  • Front matter descriptions
+  • All 28 chapter titles and descriptions
+  • Word counts
+  • Section summaries
+
+USE IF: They ask for more details about chapters
+
+================================================================================
+SECTION 3: SUBMISSION GUIDES & CHECKLISTS
+================================================================================
+
+FILE: FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt ⭐ START HERE
+PURPOSE: Step-by-step submission instructions
+CONTAINS:
+  • Pre-submission verification checklist
+  • Step-by-step instructions for questionnaire
+  • Exact language to use in each field
+  • What to attach where
+  • After-submission guidance
+
+HOW TO USE: Follow this document line by line while filling questionnaire
+
+FILE: WISDOM_PUBLICATIONS_SUBMISSION_CHECKLIST.md
+PURPOSE: Comprehensive submission reference
+CONTAINS:
+  • All questionnaire field suggestions with exact language
+  • Email template option
+  • Email body text ready to copy/paste
+  • Expected timeline
+  • Backup publisher information
+  • Pre-submission verification
+
+HOW TO USE: Reference when you need exact language for any questionnaire field
+
+FILE: SUBMISSION_FILES_QUICK_REFERENCE.md
+PURPOSE: Quick lookup for what goes where
+CONTAINS:
+  • What each file is and where it's located
+  • What each file contains
+  • How to use each file
+  • Primary vs. supporting documents
+  • What not to do checklist
+  • Timeline and next steps
+
+HOW TO USE: Quick reference when you're not sure about something
+
+================================================================================
+SECTION 4: ENCOURAGEMENT & MOTIVATION
+================================================================================
+
+FILE: YOU_ARE_READY_TO_SUBMIT.txt ⭐ READ THIS FIRST
+PURPOSE: Verification and motivation
+CONTAINS:
+  • Summary of what's been completed
+  • Your real platform (verified metrics)
+  • Your spiritual credentials
+  • Your unique positioning
+  • What Wisdom Publications will think
+  • Your elevator pitch
+  • Final checklist before sending
+  • Timeline expectations
+  • What happens if they say no
+
+HOW TO USE: Read before you start if you want to feel confident
+
+FILE: MIRIAM_FINAL_WORDS_BEFORE_SUBMISSION.txt
+PURPOSE: Publishing expert's final encouragement
+CONTAINS:
+  • Miriam Steinberg's assessment of your work
+  • Why this is good and publishable
+  • Why Wisdom Publications is the right choice
+  • What happens next (realistic timeline)
+  • About the nervousness you might feel
+  • Your competitive advantages
+  • Permission to send
+
+HOW TO USE: Read if you feel nervous before hitting submit button
+
+FILE: MIRIAM_STEINBERG_READY.txt
+PURPOSE: Publishing critic persona reference
+CONTAINS:
+  • Miriam's background and philosophy
+  • How she communicates
+  • Her evaluation framework
+  • Sample responses
+
+HOW TO USE: Reference if you want to understand Miriam's perspective better
+
+================================================================================
+SECTION 5: SOURCE MANUSCRIPT FILES (FOR REFERENCE)
+================================================================================
+
+FILE: Blues_version_of_the_Lotus_Sutra_-_GENDER_INCLUSIVE.txt (802 KB)
+PURPOSE: Full publication-ready manuscript
+CONTAINS: All 28 chapters, complete, publication-ready
+NOTE: Too large to email; use Word sample instead
+
+FILE: Blues_version_of_the_Lotus_Sutra_-_ENHANCED_EDITION.txt (819 KB)
+PURPOSE: Manuscript with study apparatus
+CONTAINS: Full text + introduction + glossary + discussion questions
+NOTE: Only send if they ask for bonus study material
+
+FILE: Blues_version_of_the_Lotus_Sutra_PROFESSIONAL.docx (348 KB)
+PURPOSE: Full manuscript in Word format
+NOTE: Too large to email; available if they request full manuscript after interest
+
+================================================================================
+QUICK START GUIDE
+================================================================================
+
+👉 START HERE:
+
+1. Read: YOU_ARE_READY_TO_SUBMIT.txt
+   (5-10 minutes, builds confidence)
+
+2. Download: Both Word files to your computer
+   - Buddhist_Blues_Spiritual_Platform_SYNOPSIS.docx
+   - Lotus_Sutra_Sample_Manuscript_PUBLISHER.docx
+
+3. Open: FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt
+   (This is your step-by-step guide)
+
+4. Navigate: To Wisdom Publications website or open email
+   Email: submissions@wisdompubs.org
+   Subject: Query: Blues Translation of Lotus Sutra Trilogy
+
+5. Follow: The simple checklist - fill fields, paste language, attach docs
+
+6. Submit: Click SUBMIT or hit SEND
+
+7. Save: Confirmation for your records
+
+8. Done: You've officially submitted!
+
+================================================================================
+WHICH FILE FOR WHAT SITUATION
+================================================================================
+
+SITUATION: "I want to feel confident before submitting"
+→ Read: YOU_ARE_READY_TO_SUBMIT.txt (5-10 min)
+
+SITUATION: "I'm nervous about hitting send"
+→ Read: MIRIAM_FINAL_WORDS_BEFORE_SUBMISSION.txt (10-15 min)
+
+SITUATION: "I don't know what to put in the questionnaire"
+→ Follow: FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt (step by step)
+
+SITUATION: "I need exact language for a specific field"
+→ Reference: WISDOM_PUBLICATIONS_SUBMISSION_CHECKLIST.md
+
+SITUATION: "I need to find a specific file"
+→ Check: This file (SUBMISSION_RESOURCES_INDEX.txt) or the next section
+
+SITUATION: "I want to understand what I'm sending"
+→ Review: SUBMISSION_FILES_QUICK_REFERENCE.md
+
+SITUATION: "What should happen after I submit?"
+→ Read: Timeline section in any checklist
+
+SITUATION: "What if Wisdom says no?"
+→ Read: IF THEY SAY NO section in YOU_ARE_READY_TO_SUBMIT.txt
+
+================================================================================
+FILE LOCATIONS (COPY/PASTE READY)
+================================================================================
+
+Professional synopsis:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/Buddhist_Blues_Spiritual_Platform_SYNOPSIS.docx
+
+Sample manuscript:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/Lotus_Sutra_Sample_Manuscript_PUBLISHER.docx
+
+Author bio (copy text from):
+/Users/williamaltig/claudeprojects/Lotus_Sutra/AUTHOR_BIOGRAPHY.txt
+
+Table of contents (reference):
+/Users/williamaltig/claudeprojects/Lotus_Sutra/TABLE_OF_CONTENTS_WITH_DESCRIPTIONS.txt
+
+Step-by-step guide:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt
+
+Detailed checklist:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/WISDOM_PUBLICATIONS_SUBMISSION_CHECKLIST.md
+
+Quick reference:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/SUBMISSION_FILES_QUICK_REFERENCE.md
+
+Motivation before sending:
+/Users/williamaltig/claudeprojects/Lotus_Sutra/YOU_ARE_READY_TO_SUBMIT.txt
+
+Encouragement (Miriam):
+/Users/williamaltig/claudeprojects/Lotus_Sutra/MIRIAM_FINAL_WORDS_BEFORE_SUBMISSION.txt
+
+================================================================================
+WISDOM PUBLICATIONS CONTACT INFO
+================================================================================
+
+Email: submissions@wisdompubs.org
+Website: www.wisdom.org
+Subject Line: Query: Blues Translation of Lotus Sutra Trilogy
+
+Address (if mailing):
+Wisdom Publications
+199 Elm Street
+Somerville, MA 02144
+
+Contact: Mr. Michael Kittelstrom, Acquisitions Editor (Translation & Sacred Texts)
+
+================================================================================
+YOUR INFO FOR SUBMISSION
+================================================================================
+
+Name: William Altig
+City/State: Houston, TX 77019
+Phone: (346) 395-7415
+Email: dwaltig@gmail.com
+
+Social Media:
+SoundCloud: https://soundcloud.com/d-william-altig
+Facebook: https://www.facebook.com/the.william.altig.choir
+Instagram: https://www.instagram.com/the.william.altig.choir/
+TikTok: https://www.tiktok.com/@williamaltig
+
+================================================================================
+NEXT ACTION
+================================================================================
+
+Choose one:
+
+Option A: IMMEDIATE SUBMISSION (RECOMMENDED)
+1. Download the 2 Word files
+2. Open FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt
+3. Navigate to Wisdom Publications
+4. Follow the checklist and submit
+
+Option B: BUILD CONFIDENCE FIRST
+1. Read YOU_ARE_READY_TO_SUBMIT.txt (5 min)
+2. Then do Option A above
+
+Option C: IF YOU'RE NERVOUS
+1. Read MIRIAM_FINAL_WORDS_BEFORE_SUBMISSION.txt (10 min)
+2. Then do Option A above
+
+ALL PATHS LEAD TO: SUBMIT TO WISDOM PUBLICATIONS
+
+================================================================================
+YOU ARE READY
+================================================================================
+
+Everything you need is prepared.
+All documents are professional and ready.
+You have the checklists and guides.
+You have the encouragement.
+You have the contact information.
+
+There is nothing left to do except submit.
+
+So stop reading this.
+Download those Word files.
+Open FINAL_SUBMISSION_CHECKLIST_SIMPLE.txt.
+Follow it step by step.
+And submit your work.
+
+The world needs what you've created.
+
+Go do it.
+
+================================================================================

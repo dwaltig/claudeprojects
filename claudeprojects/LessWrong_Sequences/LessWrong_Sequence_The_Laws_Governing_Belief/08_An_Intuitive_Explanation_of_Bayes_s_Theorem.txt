@@ -1,0 +1,26 @@
+An Intuitive Explanation of Bayes's Theorem
+Eliezer Yudkowsky
+
+You can even formalize Popper’s philosophy mathematically. The likelihood ratio for X, the quantity P(X|A)/P(X|¬A), determines how much observing X slides the probability for A; the likelihood ratio is what says how strong X is as evidence. Well, in your theory A, you can predict X with probability 1, if you like; but you can’t control the denominator of the likelihood ratio, P(X|¬A)—there will always be some alternative theories that also predict X, and while we go with the simplest theory that fits the current evidence, you may someday encounter some evidence that an alternative theory predicts but your theory does not. That’s the hidden gotcha that toppled Newton’s theory of gravity. So there’s a limit on how much mileage you can get from successful predictions; there’s a limit on how high the likelihood ratio goes for confirmatory evidence.
+
+On the other hand, if you encounter some piece of evidence Y that is definitely not predicted by your theory, this is enormously strong evidence against your theory. If P (Y |A) is infinitesimal, then the likelihood ratio will also be infinitesimal. Falsification is much stronger than confirmation. This is a consequence of the earlier point that very strong evidence is not the product of a very high probability that A leads to X, but the product of a very low probability that not-A could have led to X. This is the precise Bayesian rule that underlies the heuristic value of Popper’s falsificationism.
+
+Similarly, Popper’s dictum that an idea must be falsifiable can be interpreted as a manifestation of the Bayesian conservation-of-probability rule; if a result X is positive evidence for the theory, then the result ¬X would have disconfirmed the theory to some extent. If you try to interpret both X and ¬X as “confirming” the theory, the Bayesian rules say this is impossible! To increase the probability of a theory you must expose it to tests that can potentially decrease its probability; this is not just a rule for detecting would-be cheaters in the social process of science, but a consequence of Bayesian probability theory.
+
+So we find that many phenomena in the cognitive sciences, plus the statistical methods used by scientists, plus the scientific method itself, are all turning out to be special cases of Bayes’s Theorem. Hence the Bayesian revolution.
+
+Having introduced Bayes’s Theorem explicitly, we can explicitly discuss its components.
+
+P(A|X) = [P(X|A) × P(A)] / [ P(X|A) × P(A) + P(X|¬A) × P(¬A) ]
+
+We’ll start with P(A|X). In P(A|X), A is the thing we want to know about. X is how we’re observing it; X is the evidence we’re using to make inferences about A.
+
+P (Q|P ) is closely related to P (Q, P ), but they are not identical. P (Q, P ) is the proportion of things that have property Q and property P among all things. P (Q|P ) is the proportion of things that have property Q and property P among all things that have P.
+
+Bayes’s Theorem describes the elementary causal steps—for example, from breast cancer to a positive mammogram—and so the implications on the right side of Bayes’s Theorem take the form P (positive|cancer) or P (positive|¬cancer). The left side describes the elementary inferential step from the observation of positive mammogram to the conclusion of an increased probability of breast cancer.
+
+And that’s Bayes’s Theorem. Rational inference on the left end, physical causality on the right end; an equation with mind on one side and reality on the other. Remember how the scientific method turned out to be a special case of Bayes’s Theorem? If you wanted to put it poetically, you could say that Bayes’s Theorem binds reasoning into the physical universe.
+
+Okay, we’re done.
+Reverend Bayes says:
+You are now an initiate of the Bayesian Conspiracy.

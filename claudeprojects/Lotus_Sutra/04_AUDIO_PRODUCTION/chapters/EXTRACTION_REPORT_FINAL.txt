@@ -1,0 +1,230 @@
+LOTUS SUTRA CHAPTER EXTRACTION REPORT
+==========================================================================================
+
+Total chapters: 28
+Total voice tags: 528
+
+
+Chapter  1: THE OPENING
+  File: 01_CHAPTER_THE_OPENING.txt
+  Voice tags: 4
+  Unique speakers: 2
+  Speakers: Charon, Puck
+  Starts with voice tag: YES
+  Lines: 696
+
+Chapter  2: THE LOVING TRICKS
+  File: 02_CHAPTER_THE_LOVING_TRICKS.txt
+  Voice tags: 22
+  Unique speakers: 5
+  Speakers: Charon, Iapetus, Orus, Rasalgethi, Triton
+  Starts with voice tag: NO
+  Lines: 960
+
+Chapter  3: THE PARABLE
+  File: 03_CHAPTER_THE_PARABLE.txt
+  Voice tags: 42
+  Unique speakers: 7
+  Speakers: Aoede, Charon, Iapetus, Jove, Orus, Rasalgethi, Triton
+  Starts with voice tag: YES
+  Lines: 1579
+
+Chapter  4: FAITH AND UNDERSTANDING
+  File: 04_CHAPTER_FAITH_AND_UNDERSTANDING.txt
+  Voice tags: 12
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Rasalgethi, Vulcan
+  Starts with voice tag: NO
+  Lines: 599
+
+Chapter  5: THE PARABLE OF THE MEDICINAL HERBS
+  File: 05_CHAPTER_THE_PARABLE_OF_THE_MEDICINAL_HERBS.txt
+  Voice tags: 6
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Orus, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 403
+
+Chapter  6: THE NAMING
+  File: 06_CHAPTER_THE_NAMING.txt
+  Voice tags: 5
+  Unique speakers: 2
+  Speakers: Charon, Iapetus
+  Starts with voice tag: YES
+  Lines: 377
+
+Chapter  7: THE PHANTOM CITY BLUES
+  File: 07_CHAPTER_THE_PHANTOM_CITY_BLUES.txt
+  Voice tags: 19
+  Unique speakers: 6
+  Speakers: Charon, Iapetus, Orus, Rasalgethi, Sadaltager, Sulafat
+  Starts with voice tag: NO
+  Lines: 807
+
+Chapter  8: WHEN THE FIVE HUNDRED FINALLY HEARD THEIR NAMES CALLED
+  File: 08_CHAPTER_WHEN_THE_FIVE_HUNDRED_FINALLY_HEARD_THEIR_NAMES_CALLED.txt
+  Voice tags: 6
+  Unique speakers: 2
+  Speakers: Charon, Iapetus
+  Starts with voice tag: YES
+  Lines: 338
+
+Chapter  9: WHEN THE FAITHFUL GET THEIR DUE
+  File: 09_CHAPTER_WHEN_THE_FAITHFUL_GET_THEIR_DUE.txt
+  Voice tags: 1
+  Unique speakers: 1
+  Speakers: Rasalgethi
+  Starts with voice tag: NO
+  Lines: 191
+
+Chapter 10: HONOR THE WORD-CARRIERS
+  File: 10_CHAPTER_HONOR_THE_WORD-CARRIERS.txt
+  Voice tags: 4
+  Unique speakers: 3
+  Speakers: Charon, Iapetus, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 357
+
+Chapter 11: WHEN THE JEWELED TOWER ROSE UP
+  File: 11_CHAPTER_WHEN_THE_JEWELED_TOWER_ROSE_UP.txt
+  Voice tags: 2
+  Unique speakers: 2
+  Speakers: Charon, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 443
+
+Chapter 12: WHEN YOUR ENEMY WAS YOUR TEACHER
+  File: 12_CHAPTER_WHEN_YOUR_ENEMY_WAS_YOUR_TEACHER.txt
+  Voice tags: 6
+  Unique speakers: 3
+  Speakers: Charon, Lyra, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 261
+
+Chapter 13: WHEN THE ROAD GETS ROUGH, YOU GOTTA KEEP WALKING
+  File: 13_CHAPTER_WHEN_THE_ROAD_GETS_ROUGH_YOU_GOTTA_KEEP_WALKING.txt
+  Voice tags: 14
+  Unique speakers: 5
+  Speakers: Charon, Iapetus, Leda, Orus, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 316
+
+Chapter 14: HOW TO KEEP YOUR SOUL CLEAN WHEN THE WORLD'S GONE WRONG
+  File: 14_CHAPTER_HOW_TO_KEEP_YOUR_SOUL_CLEAN_WHEN_THE_WORLDS_GONE_WRONG.txt
+  Voice tags: 7
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Rasalgethi, Sulafat
+  Starts with voice tag: NO
+  Lines: 643
+
+Chapter 15: WHEN THE UNDERGROUND ARMY ROSE UP
+  File: 15_CHAPTER_WHEN_THE_UNDERGROUND_ARMY_ROSE_UP.txt
+  Voice tags: 19
+  Unique speakers: 5
+  Speakers: Charon, Iapetus, Orion, Orus, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 539
+
+Chapter 16: HOW LONG THE TATHAGATA'S BEEN ALIVE
+  File: 16_CHAPTER_HOW_LONG_THE_TATHAGATAS_BEEN_ALIVE.txt
+  Voice tags: 11
+  Unique speakers: 3
+  Speakers: Charon, Iapetus, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 439
+
+Chapter 17: COUNTING UP THE GRACE
+  File: 17_CHAPTER_COUNTING_UP_THE_GRACE.txt
+  Voice tags: 13
+  Unique speakers: 5
+  Speakers: Charon, Iapetus, Orion, Orus, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 501
+
+Chapter 18: THE JOY THAT MULTIPLIES
+  File: 18_CHAPTER_THE_JOY_THAT_MULTIPLIES.txt
+  Voice tags: 11
+  Unique speakers: 5
+  Speakers: Charon, Iapetus, Orion, Orus, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 420
+
+Chapter 19: WHEN YOUR SENSES WAKE UP
+  File: 19_CHAPTER_WHEN_YOUR_SENSES_WAKE_UP.txt
+  Voice tags: 3
+  Unique speakers: 2
+  Speakers: Charon, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 760
+
+Chapter 20: THE BODHISATTVA WHO NEVER LOOKED DOWN
+  File: 20_CHAPTER_THE_BODHISATTVA_WHO_NEVER_LOOKED_DOWN.txt
+  Voice tags: 5
+  Unique speakers: 3
+  Speakers: Charon, Iapetus, Orus
+  Starts with voice tag: NO
+  Lines: 390
+
+Chapter 21: WHEN THE LORD SHOWED HIS HAND
+  File: 21_CHAPTER_WHEN_THE_LORD_SHOWED_HIS_HAND.txt
+  Voice tags: 9
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Orus, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 334
+
+Chapter 22: THE PASSING ON
+  File: 22_CHAPTER_THE_PASSING_ON.txt
+  Voice tags: 2
+  Unique speakers: 2
+  Speakers: Charon, Iapetus
+  Starts with voice tag: NO
+  Lines: 215
+
+Chapter 23: MEDICINE KING BODHISATTVA - THE STORY OF HOW HE GAVE IT ALL
+  File: 23_CHAPTER_MEDICINE_KING_BODHISATTVA_-_THE_STORY_OF_HOW_HE_GAVE_IT_ALL.txt
+  Voice tags: 8
+  Unique speakers: 2
+  Speakers: Charon, Iapetus
+  Starts with voice tag: NO
+  Lines: 475
+
+Chapter 24: WONDERFUL SOUND BODHISATTVA
+  File: 24_CHAPTER_WONDERFUL_SOUND_BODHISATTVA.txt
+  Voice tags: 15
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Puck, Rasalgethi
+  Starts with voice tag: NO
+  Lines: 570
+
+Chapter 25: THE ONE WHO HEARS THE WORLD CRYING
+  File: 25_CHAPTER_THE_ONE_WHO_HEARS_THE_WORLD_CRYING.txt
+  Voice tags: 36
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Rasalgethi, Sulafat
+  Starts with voice tag: NO
+  Lines: 677
+
+Chapter 26: THE PROTECTION SONGS
+  File: 26_CHAPTER_THE_PROTECTION_SONGS.txt
+  Voice tags: 19
+  Unique speakers: 3
+  Speakers: Charon, Iapetus, Rasalgethi
+  Starts with voice tag: YES
+  Lines: 362
+
+Chapter 27: THE BEAUTIFUL KING AND HIS GOOD FRIENDS
+  File: 27_CHAPTER_THE_BEAUTIFUL_KING_AND_HIS_GOOD_FRIENDS.txt
+  Voice tags: 7
+  Unique speakers: 4
+  Speakers: Charon, Iapetus, Sadaltager, Sulafat
+  Starts with voice tag: NO
+  Lines: 244
+
+Chapter 28: UNIVERSAL WORTHY COMES TO ENCOURAGE YOU
+  File: 28_CHAPTER_UNIVERSAL_WORTHY_COMES_TO_ENCOURAGE_YOU.txt
+  Voice tags: 220
+  Unique speakers: 6
+  Speakers: Charon, Iapetus, Orus, Rasalgethi, Sulafat, Zubenelgenubi
+  Starts with voice tag: NO
+  Lines: 1438

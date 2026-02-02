@@ -1,0 +1,1 @@
+"The Lotus Sutra Blues" is a musical journey through the profound teachings of the Lotus Sutra, exploring themes of compassion, enlightenment, and the interconnectedness of all beings.  Let the soulful melodies and timeless wisdom of this ancient text wash over you, leaving you with a sense of peace and connection.  

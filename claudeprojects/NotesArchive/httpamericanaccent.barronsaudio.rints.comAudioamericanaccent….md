@@ -1,0 +1,1 @@
+[http://americanaccent.barronsaudio.rints.com/Audio/americanaccent/002%20CHAPTER%201%20-%20The%20Vowel%20Sounds.mp3](http://americanaccent.barronsaudio.rints.com/Audio/americanaccent/002%20CHAPTER%201%20-%20The%20Vowel%20Sounds.mp3)  

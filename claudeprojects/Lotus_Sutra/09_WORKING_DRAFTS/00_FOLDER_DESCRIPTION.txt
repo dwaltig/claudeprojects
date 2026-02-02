@@ -1,0 +1,12 @@
+================================================================================
+09_WORKING_DRAFTS
+================================================================================
+
+PURPOSE: Draft versions, experimental work, previous iterations
+
+This folder contains organized materials related to:
+Draft versions, experimental work, previous iterations
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

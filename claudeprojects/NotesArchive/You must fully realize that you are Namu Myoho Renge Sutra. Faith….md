@@ -1,0 +1,1 @@
+You must fully realize that you are Namu Myoho Renge Sutra. Faith is to erect an unshakable magical tower in your heart. The pagoda is the "Buddha Realm Life" that emerges through powerful prayer to break away the "primordial ignorance". It is also the original power of life that can rise from any distress and despair, defeat and overcome difficulties.  

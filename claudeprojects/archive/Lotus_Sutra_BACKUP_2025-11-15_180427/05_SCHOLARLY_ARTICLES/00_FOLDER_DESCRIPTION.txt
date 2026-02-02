@@ -1,0 +1,12 @@
+================================================================================
+05_SCHOLARLY_ARTICLES
+================================================================================
+
+PURPOSE: Academic articles and research
+
+This folder contains organized materials related to:
+Academic articles and research
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

@@ -1,0 +1,39 @@
+# Humans are not automatically strategic
+Original URL: https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB
+
+Reply to: A "Failure to Evaluate Return-on-Time" Fallacy
+
+Lionhearted writes:
+
+[A] large majority of otherwise smart people spend time doing semi-productive things, when there are massively productive opportunities untapped.
+
+A somewhat silly example: Let's say someone aspires to be a comedian, the best comedian ever, and to make a living doing comedy. He wants nothing else, it is his purpose. And he decides that in order to become a better comedian, he will watch re-runs of the old television cartoon 'Garfield and Friends' that was on TV from 1988 to 1995....
+
+I’m curious as to why.
+
+Why will a randomly chosen eight-year-old fail a calculus test? Because most possible answers are wrong, and there is no force to guide him to the correct answers. (There is no need to postulate a “fear of success”; most ways writing or not writing on a calculus test constitute failure, and so people, and rocks, fail calculus tests by default.)
+
+Why do most of us, most of the time, choose to "pursue our goals" through routes that are far less effective than the routes we could find if we tried?[1] My guess is that here, as with the calculus test, the main problem is that most courses of action are extremely ineffective, and that there has been no strong evolutionary or cultural force sufficient to focus us on the very narrow behavior patterns that would actually be effective.
+
+To be more specific: there are clearly at least some limited senses in which we have goals. We: (1) tell ourselves and others stories of how we’re aiming for various “goals”; (2) search out modes of activity that are consistent with the role, and goal-seeking, that we see ourselves as doing (“learning math”; “becoming a comedian”; “being a good parent”); and sometimes even (3) feel glad or disappointed when we do/don’t achieve our “goals”.
+
+But there are clearly also heuristics that would be useful to goal-achievement (or that would be part of what it means to “have goals” at all) that we do not automatically carry out. We do not automatically:
+
+- (a) Ask ourselves what we’re trying to achieve; 
+- (b) Ask ourselves how we could tell if we achieved it (“what does it look like to be a good comedian?”) and how we can track progress; 
+- (c) Find ourselves strongly, intrinsically curious about information that would help us achieve our goal; 
+- (d) Gather that information (e.g., by asking as how folks commonly achieve our goal, or similar goals, or by tallying which strategies have and haven’t worked for us in the past); 
+- (e) Systematically test many different conjectures for how to achieve the goals, including methods that aren’t habitual for us, while tracking which ones do and don’t work; 
+- (f) Focus most of the energy that *isn’t* going into systematic exploration, on the methods that work best;
+- (g) Make sure that our "goal" is really our goal, that we coherently want it and are not constrained by fears or by uncertainty as to whether it is worth the effort, and that we have thought through any questions and decisions in advance so they won't continually sap our energies;
+- (h) Use environmental cues and social contexts to bolster our motivation, so we can keep working effectively in the face of intermittent frustrations, or temptations based in hyperbolic discounting;
+
+.... or carry out any number of other useful techniques. Instead, we mostly just do things. We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal. We do any number of things. But we do not systematically choose the narrow sets of actions that would effectively optimize for our claimed goals, or for any other goals.
+
+Why? Most basically, because humans are only just on the cusp of general intelligence. Perhaps 5% of the population has enough abstract reasoning skill to verbally understand that the above heuristics would be useful once these heuristics are pointed out. That is not at all the same as the ability to automatically implement these heuristics. Our verbal, conversational systems are much better at abstract reasoning than are the motivational systems that pull our behavior. I have enough abstract reasoning ability to understand that I’m safe on the glass floor of a tall building, or that ice cream is not healthy, or that exercise furthers my goals... but this doesn’t lead to an automatic updating of the reward gradients that, absent rare and costly conscious overrides, pull my behavior. I can train my automatic systems, for example by visualizing ice cream as disgusting and artery-clogging and yucky, or by walking across the glass floor often enough to persuade my brain that I can’t fall through the floor... but systematically training one’s motivational systems in this way is also not automatic for us. And so it seems far from surprising that most of us have not trained ourselves in this way, and that most of our “goal-seeking” actions are far less effective than they could be.
+
+Still, I’m keen to train. I know people who are far more strategic than I am, and there seem to be clear avenues for becoming far more strategic than they are. It also seems that having goals, in a much more pervasive sense than (1)-(3), is part of what “rational” should mean, will help us achieve what we care about, and hasn't been taught in much detail on LW.
+
+So, to second Lionhearted's questions: does this analysis seem right? Have some of you trained yourselves to be substantially more strategic, or goal-achieving, than you started out? How did you do it? Do you agree with (a)-(h) above? Do you have some good heuristics to add? Do you have some good ideas for how to train yourself in such heuristics?
+
+[1] For example, why do many people go through long training programs “to make money” without spending a few hours doing salary comparisons ahead of time? Why do many who type for hours a day remain two-finger typists, without bothering with a typing tutor program? Why do people spend their Saturdays “enjoying themselves” without bothering to track which of their habitual leisure activities are *actually* enjoyable? Why do even unusually numerate people fear illness, car accidents, and bogeymen, and take safety measures, but not bother to look up statistics on the relative risks? Why do most of us settle into a single, stereotyped mode of studying, writing, social interaction, or the like, without trying alternatives to see if they work better -- even when such experiments as we have tried have sometimes given great boosts?

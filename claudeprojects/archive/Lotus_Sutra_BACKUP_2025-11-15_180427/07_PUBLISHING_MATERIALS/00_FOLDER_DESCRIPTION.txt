@@ -1,0 +1,12 @@
+================================================================================
+07_PUBLISHING_MATERIALS
+================================================================================
+
+PURPOSE: Publisher queries, book proposals, distribution
+
+This folder contains organized materials related to:
+Publisher queries, book proposals, distribution
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

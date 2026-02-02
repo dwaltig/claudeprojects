@@ -1,0 +1,318 @@
+================================================================================
+HOW TO ADD AUTHOR BIOGRAPHY TO YOUR DOCX
+Quick Guide for Integrating Author Bio into the Document
+================================================================================
+
+STEP-BY-STEP INSTRUCTIONS
+================================================================================
+
+STEP 1: OPEN THE DOCX FILE
+───────────────────────────
+
+File to open: lotus_sutra_for_elevenreader_FORMATTED.docx
+
+Open in one of these applications:
+- Microsoft Word (Windows or Mac)
+- Google Docs (drag file in, or File > Open)
+- Pages (Mac - click "Open File")
+- LibreOffice Writer (free)
+
+================================================================================
+
+STEP 2: NAVIGATE TO THE END OF THE DOCUMENT
+────────────────────────────────────────────
+
+Press: Ctrl+End (Windows) or Command+End (Mac)
+
+This takes you to the very end of the document, after all chapter content.
+
+================================================================================
+
+STEP 3: CREATE A NEW PAGE FOR AUTHOR BIO
+────────────────────────────────────────
+
+Position your cursor at the end of the document.
+
+Press: Ctrl+Enter (Windows) or Command+Enter (Mac)
+
+This creates a page break for the new "About the Author" section.
+
+================================================================================
+
+STEP 4: ADD THE SECTION HEADER
+──────────────────────────────
+
+Type: About the Author
+
+Format as follows:
+1. Highlight the text "About the Author"
+2. Make it a Heading 2 (H2) style to match other section headers:
+   - In Word: Home tab → Styles → Heading 2
+   - In Google Docs: Format → Text → Heading 2
+   - In Pages: Click paragraph style dropdown → Heading 2
+3. Optional: Make it larger and bold for emphasis
+   - Font size: 16-18pt (or use Heading 2 default)
+   - Bold: Yes (apply bold formatting)
+
+Optional: Add two line breaks above for spacing
+
+================================================================================
+
+STEP 5: CHOOSE YOUR BIOGRAPHY VERSION & ADD IT
+──────────────────────────────────────────────
+
+Open: AUTHOR_BIOGRAPHY_FOR_FRONT_MATTER.txt
+
+Choose one of these versions based on your needs:
+
+RECOMMENDED FOR AUDIOBOOK:
+→ Use "SHORT BIO" (150-200 words)
+   Professional, concise, perfect for digital formats
+
+RECOMMENDED FOR PRINT BOOK:
+→ Use "EXTENDED SHORT BIO" (250-300 words)
+   More detailed, suitable for printed book back matter
+
+RECOMMENDED FOR COMPREHENSIVE:
+→ Use "FULL-LENGTH BIOGRAPHY" (400-500 words)
+   Complete background, ideal for scholarly or detailed contexts
+
+AFTER CHOOSING:
+
+1. Copy your selected biography text (Ctrl+C / Command+C)
+2. In your DOCX document, position cursor after "About the Author" heading
+3. Press Enter to create a new paragraph
+4. Paste the text (Ctrl+V / Command+V)
+
+================================================================================
+
+STEP 6: FORMAT THE BIOGRAPHY TEXT
+──────────────────────────────────
+
+The biography text should be:
+- Normal paragraph style (not bold, not heading)
+- Font: Calibri, 11pt (same as rest of document body text)
+- Alignment: Left align (default)
+- Single spacing (default)
+- One blank line between paragraphs if there are multiple paragraphs
+
+If your document uses different formatting:
+1. Select all biography text (Ctrl+A while in that section)
+2. Apply "Normal" style from the styles menu
+3. Font size: 11pt
+4. Font: Calibri or your document's body font
+
+================================================================================
+
+STEP 7: OPTIONAL - ADD AUTHOR CONTACT INFORMATION
+──────────────────────────────────────────────────
+
+After the biography, you can optionally add:
+
+Contact information format options:
+
+Option A (Simple):
+───────────────
+[Blank line]
+
+For more information about William Altig and this work, visit [website] or
+contact [email address].
+
+Option B (Formal):
+──────────────────
+[Blank line]
+
+Contact & Information
+William Altig
+Email: [your email]
+Website: [your website]
+For workshops, readings, and educational presentations, please contact [email]
+
+Option C (Minimal):
+───────────────────
+[Blank line]
+
+Visit [website] to learn more or arrange readings and workshops.
+
+Choose whichever feels right for your publication. This is optional.
+
+================================================================================
+
+STEP 8: SAVE YOUR DOCUMENT
+──────────────────────────
+
+Save the file:
+- Word: File → Save (or Ctrl+S)
+- Google Docs: Auto-saves, but manually save with Ctrl+S to be sure
+- Pages: File → Save
+- LibreOffice: File → Save
+
+Keep the same filename: lotus_sutra_for_elevenreader_FORMATTED.docx
+
+================================================================================
+
+STEP 9: VERIFY THE INTEGRATION
+──────────────────────────────
+
+Scroll through the document to make sure:
+✓ All 28 chapters are still intact
+✓ All page breaks are still in place
+✓ Author bio section appears at the very end
+✓ "About the Author" header is formatted as H2
+✓ Biography text is readable and properly formatted
+✓ No content was accidentally deleted
+✓ Document still opens properly in Word/Google Docs
+
+================================================================================
+
+STEP 10: UPDATE TITLE PAGE (OPTIONAL)
+──────────────────────────────────────
+
+If you want to add the author name to the title page:
+
+1. Go to the beginning of the document (Ctrl+Home / Command+Home)
+2. Scroll to the title page (first page)
+3. Add author name in a professional location:
+
+   Option A (Below subtitle):
+   ────────────────────────
+   THE LOTUS SUTRA
+   A Blues Interpretation
+
+   [Line break]
+
+   by William Altig
+
+   [Line break]
+
+   Based on Kumārajīva's Classical Chinese Translation...
+
+   Option B (At bottom of title page):
+   ───────────────────────────────────
+   [All original title page content]
+
+   [Several line breaks]
+
+   [Centered, at bottom]
+
+   William Altig
+
+Choose one approach or leave title page as-is. Both are professional.
+
+================================================================================
+
+WHERE AUTHOR BIO APPEARS IN PROFESSIONAL PUBLICATIONS
+================================================================================
+
+Front Matter Order (Standard Publishing):
+──────────────────────────────────────────
+1. Title Page
+2. Copyright Page
+3. Dedication (optional)
+4. Table of Contents (optional)
+5. Introduction/Preface (if included)
+
+Main Content:
+──────────────
+6. Chapter 1 - Chapter 28
+7. Glossary (optional)
+8. Appendices (optional)
+
+Back Matter:
+────────────
+9. About the Author ← YOUR BIOGRAPHY GOES HERE
+10. Other back matter (index, colophon, etc.)
+
+The "About the Author" section typically appears at the very end of the book,
+in back matter, AFTER all chapter content.
+
+================================================================================
+
+FILE SIZES & WHAT TO EXPECT
+================================================================================
+
+Your document with author bio added will:
+- Increase in size by ~1-3 KB (negligible)
+- Remain under 250 KB total (still very manageable)
+- Have approximately 2-3 more pages (depending on bio length chosen)
+- Remain fully compatible with ElevenReader
+- Remain convertible to EPUB/MOBI for ebooks
+- Remain print-ready
+
+================================================================================
+
+TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Document seems corrupted after adding bio
+SOLUTION:
+- Undo changes (Ctrl+Z) and try again
+- If still having issues, use the QUICK_START_GUIDE.txt to regenerate
+
+PROBLEM: Page breaks moved around
+SOLUTION:
+- This is normal when adding content
+- Verify your bio is on its own page at the end
+- If breaks are scattered, you may need to manually move page breaks
+
+PROBLEM: Formatting looks weird (fonts changed, spacing off)
+SOLUTION:
+- Select biography text
+- Clear all formatting: Ctrl+M (Word) or Format > Clear formatting (Google Docs)
+- Reapply Normal style
+- Font should return to Calibri 11pt
+
+PROBLEM: Cannot open document after editing
+SOLUTION:
+- Close without saving (don't save the broken version)
+- Open original DOCX again
+- Try again with more careful editing
+
+PROBLEM: Biography text has different style than document
+SOLUTION:
+- Make sure to use Normal paragraph style, not Heading or other style
+- Match font to document body: typically Calibri or Arial, 11pt
+- Remove any bold, italic, or special formatting
+
+================================================================================
+
+NEXT STEPS AFTER ADDING AUTHOR BIO
+================================================================================
+
+READY TO PUBLISH?
+
+1. Save your updated DOCX with author bio
+2. Keep the filename: lotus_sutra_for_elevenreader_FORMATTED.docx
+3. You can now:
+
+   a) UPLOAD TO ELEVENREADER
+      - Go to ElevenReader
+      - Upload your updated DOCX
+      - Generate audiobook (author bio will be included in narration)
+
+   b) CONVERT TO EBOOK
+      - Use Calibre or online converter
+      - Convert DOCX to EPUB
+      - Upload to Amazon Kindle, Apple Books, etc.
+
+   c) PREPARE FOR PRINT
+      - Export/save as PDF
+      - Upload to print service (KDP Print, IngramSpark)
+      - Author bio will appear on back matter page
+
+Your document is now MORE publication-ready with author credentials included!
+
+================================================================================
+
+QUESTIONS?
+================================================================================
+
+See:
+- AUTHOR_BIOGRAPHY_FOR_FRONT_MATTER.txt for full biography options
+- FRONT_MATTER_SUMMARY.txt for overall front matter structure
+- QUICK_START_GUIDE.txt for general publication guidance
+- PROJECT_STATUS_SUMMARY.txt for complete project overview
+
+All files are in: /Users/williamaltig/claudeprojects/Lotus_Sutra/01_BLUES_INTERPRETATION/
+
+================================================================================

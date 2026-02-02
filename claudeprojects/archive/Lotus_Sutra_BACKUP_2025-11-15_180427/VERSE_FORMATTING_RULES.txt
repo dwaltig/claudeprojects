@@ -1,0 +1,337 @@
+================================================================================
+CRITICAL VERSE FORMATTING RULES
+For dharma-audio-producer-enhanced Agent
+================================================================================
+
+USE THESE RULES FOR ALL VERSE/POETRY REFORMATTING
+These rules ensure verses are optimized for RPD while maintaining pacing.
+
+================================================================================
+THE 4 RULES (FOLLOW EXACTLY)
+================================================================================
+
+RULE 1: IDENTIFY POETRY
+───────────────────────────────────────────────────────────────────────────
+Find all blocks of text that are:
+  • Poems
+  • Songs
+  • Rhythmic verses
+  • Text with multiple SHORT, INTENTIONAL line breaks
+
+These are distinctly different from standard narrative paragraphs.
+
+Example (POETRY - has short intentional line breaks):
+  If you want to walk the Buddha-road,
+  If you want to gain that natural wisdom-load,
+  You better constantly make offerings, I'm telling you true,
+  To those who receive and uphold this sutra, through and through.
+
+Example (NOT POETRY - normal paragraph):
+  At that time the World-Honored One speaks with a mighty voice. All the
+  disciples gather to listen. The Buddha's words fill the assembly with joy.
+
+RULE 2: COMBINE ALL LINES INTO ONE PARAGRAPH
+───────────────────────────────────────────────────────────────────────────
+Once you identify poetry, combine EVERY LINE into ONE SINGLE PARAGRAPH.
+
+NO EXCEPTIONS - Never leave verse lines separated.
+
+Before:
+  If you want to walk the Buddha-road,
+  If you want to gain that natural wisdom-load,
+  You better constantly make offerings, I'm telling you true,
+  To those who receive and uphold this sutra, through and through.
+
+After (single paragraph):
+  If you want to walk the Buddha-road, if you want to gain that natural
+  wisdom-load, you better constantly make offerings, I'm telling you true,
+  to those who receive and uphold this sutra, through and through.
+
+RULE 3: PRESERVE PACING WITH PUNCTUATION (CRITICAL - DO NOT SKIP)
+───────────────────────────────────────────────────────────────────────────
+When combining lines, pay attention to how each line ENDS:
+
+A. IF A LINE ENDS WITH PUNCTUATION:
+   Keep the punctuation mark + add a space after it
+
+   Original:
+     Line 1: "If you want to walk the Buddha-road," ← comma
+     Line 2: "If you want to gain that natural wisdom-load," ← comma
+     Line 3: "You better constantly make offerings, I'm telling you true," ← comma
+     Line 4: "To those who receive and uphold this sutra, through and through." ← period
+
+   Combined (WITH punctuation preserved):
+     "If you want to walk the Buddha-road, if you want to gain that
+      natural wisdom-load, you better constantly make offerings, I'm
+      telling you true, to those who receive and uphold this sutra,
+      through and through."
+
+   Notice: Each comma and period stays exactly where it was.
+
+B. IF A LINE ENDS WITHOUT PUNCTUATION:
+   Replace that line break with a COMMA and a SPACE (, )
+
+   Original:
+     Line 1: "If you want to quickly gain" ← NO punctuation
+     Line 2: "All-wisdom, that's the highest plane," ← comma
+     Line 3: "You should receive and hold this scripture tight," ← comma
+     Line 4: "And honor those who hold it day and night." ← period
+
+   Combined (with comma replacement for unpunctuated line):
+     "If you want to quickly gain, all-wisdom, that's the highest plane,
+      you should receive and hold this scripture tight, and honor those
+      who hold it day and night."
+
+   Notice: Line 1 had no punctuation, so we added a comma before "all-wisdom"
+
+WHY THIS MATTERS:
+Punctuation marks show where the verse naturally pauses or stops:
+  • Comma = brief pause (reader takes a breath)
+  • Period = stop (end of thought)
+  • Question mark = question, emphasis
+  • Semicolon = connected but separate thoughts
+
+Preserving these marks ensures the verse maintains its natural rhythm and
+breath points, even on a single line.
+
+RULE 4: DO NOT CHANGE ANYTHING ELSE
+───────────────────────────────────────────────────────────────────────────
+All other text (standard paragraphs, explanatory notes, etc.) stays
+exactly as-is. Only verses/poetry get the single-line treatment.
+
+DON'T TOUCH:
+  • Narrative prose paragraphs
+  • Translation notes in parentheses
+  • Scholarly apparatus
+  • Pronunciation guides
+  • Speaker attributions (other than formatting for single line)
+
+ONLY TOUCH:
+  • Verse/poetry blocks with multiple short lines
+
+================================================================================
+COMPLETE EXAMPLE - SHOWING ALL 4 RULES IN ACTION
+================================================================================
+
+ORIGINAL TEXT (with both narrative and poetry):
+─────────────────────────────────────────────────────────────────────────
+
+At that time the World-Honored One, wanting to state this meaning again,
+sings it out in verse:
+
+If you want to walk the Buddha-road,
+If you want to gain that natural wisdom-load,
+You better constantly make offerings, I'm telling you true,
+To those who receive and uphold this sutra, through and through.
+
+If you want to quickly gain
+All-wisdom, that's the highest plane,
+You should receive and hold this scripture tight,
+And honor those who hold it day and night.
+
+[Note: Pron. "Buddha-road" = path of enlightenment]
+
+STEP-BY-STEP APPLICATION:
+─────────────────────────────────────────────────────────────────────────
+
+RULE 1 - IDENTIFY POETRY:
+  ✓ Narrative paragraph: "At that time..." (leave as-is)
+  ✓ VERSE 1: 4 lines with intentional breaks (combine)
+  ✓ VERSE 2: 4 lines with intentional breaks (combine)
+  ✓ Note in brackets (leave as-is)
+
+RULE 2 - COMBINE INTO ONE PARAGRAPH:
+  Stanza 1 (4 lines) → becomes 1 line
+  Stanza 2 (4 lines) → becomes 1 line
+
+RULE 3 - PRESERVE PACING:
+  Stanza 1:
+    - Line 1 ends with comma (,) → keep comma + space
+    - Line 2 ends with comma (,) → keep comma + space
+    - Line 3 ends with comma (,) → keep comma + space
+    - Line 4 ends with period (.) → keep period + space
+
+  Stanza 2:
+    - Line 1 ends with NO punctuation → ADD comma + space
+    - Line 2 ends with comma (,) → keep comma + space
+    - Line 3 ends with comma (,) → keep comma + space
+    - Line 4 ends with period (.) → keep period + space
+
+RULE 4 - KEEP EVERYTHING ELSE UNCHANGED:
+  Narrative paragraph stays as-is
+  Note stays as-is
+  Only verses change
+
+RESULT:
+─────────────────────────────────────────────────────────────────────────
+
+At that time the World-Honored One, wanting to state this meaning again,
+sings it out in verse:
+
+If you want to walk the Buddha-road, if you want to gain that natural
+wisdom-load, you better constantly make offerings, I'm telling you true,
+to those who receive and uphold this sutra, through and through. If you
+want to quickly gain, all-wisdom, that's the highest plane, you should
+receive and hold this scripture tight, and honor those who hold it day
+and night.
+
+[Note: Pron. "Buddha-road" = path of enlightenment]
+
+VERIFICATION:
+✓ Narrative paragraph unchanged
+✓ Two verse stanzas now single-line each
+✓ All punctuation preserved (commas show pauses, period shows stop)
+✓ Comma added where Line 5 had no punctuation (before "all-wisdom")
+✓ Note unchanged
+✓ All original words present
+✓ Pacing maintained through punctuation
+
+================================================================================
+QUICK DECISION TREE
+================================================================================
+
+When you encounter text in a manuscript, ask:
+
+                        Is this poetry/verse?
+                              |
+                    ┌─────────┴─────────┐
+                   YES               NO
+                    |                 |
+              Combine all      Keep exactly
+              lines into       as-is. Don't
+              ONE single       change anything.
+              paragraph.
+                    |
+                   Need to handle
+                   punctuation?
+                    |
+            ┌───────┴────────┐
+        Line ends     Line ends
+        WITH punct    WITHOUT punct
+            |              |
+        Keep punct     Replace with
+        + space        comma + space
+            |              |
+          ┌─┴─┐          ┌─┴─┐
+          Done          Done
+
+================================================================================
+COMMON MISTAKES TO AVOID
+================================================================================
+
+MISTAKE 1: Leaving verse lines separated
+─────────────────────────────────────────────────────────────────────────
+WRONG:
+  [VERSE: "If you want to walk the Buddha-road,
+           If you want to gain that natural wisdom-load,
+           You better constantly make offerings, I'm telling you true,
+           To those who receive and uphold this sutra, through and through."]
+
+RIGHT:
+  [VERSE: "If you want to walk the Buddha-road, if you want to gain that
+           natural wisdom-load, you better constantly make offerings, I'm
+           telling you true, to those who receive and uphold this sutra,
+           through and through."]
+
+FIX: Put everything on one line (or continuous paragraph).
+
+MISTAKE 2: Removing punctuation between lines
+─────────────────────────────────────────────────────────────────────────
+WRONG:
+  "If you want to walk the Buddha-road if you want to gain that natural
+   wisdom-load you better constantly make offerings I'm telling you true"
+
+RIGHT:
+  "If you want to walk the Buddha-road, if you want to gain that natural
+   wisdom-load, you better constantly make offerings, I'm telling you true"
+
+FIX: Preserve all commas, periods, semicolons, etc. from original lines.
+
+MISTAKE 3: Adding punctuation where there was none
+─────────────────────────────────────────────────────────────────────────
+WRONG:
+  Original line 5: "If you want to quickly gain." ← WRONG (had no period)
+  Changed to: [Keep period] ← Violates original
+
+RIGHT:
+  Original line 5: "If you want to quickly gain" ← NO punctuation
+  Changed to: "If you want to quickly gain, all-wisdom..." ← Add comma
+
+FIX: Only add commas where original line had NO punctuation. Don't invent
+punctuation that wasn't there.
+
+MISTAKE 4: Treating narrative prose as poetry
+─────────────────────────────────────────────────────────────────────────
+WRONG:
+  Original narrative: "At that time the World-Honored One speaks with
+  a mighty voice. All the disciples listen closely."
+
+  Treated as poetry and combined differently.
+
+RIGHT:
+  Recognize this is a standard paragraph → leave completely unchanged.
+
+FIX: Only apply single-line reformatting to intentional verse/poetry with
+multiple short, deliberate line breaks.
+
+MISTAKE 5: Forgetting punctuation preservation
+─────────────────────────────────────────────────────────────────────────
+WRONG:
+  All punctuation removed: "If you want to walk the Buddha-road if you
+  want to gain that natural wisdom-load you better constantly make
+  offerings I'm telling you true"
+
+RIGHT:
+  All punctuation preserved: "If you want to walk the Buddha-road, if you
+  want to gain that natural wisdom-load, you better constantly make
+  offerings, I'm telling you true"
+
+FIX: Punctuation IS part of the pacing. Keep every single mark.
+
+================================================================================
+FINAL CHECKLIST - BEFORE SUBMITTING FORMATTED VERSES
+================================================================================
+
+For each verse you format, verify:
+
+STRUCTURE:
+☐ All lines of the verse combined into ONE paragraph/line
+☐ No separate line breaks within the verse
+☐ Verse clearly marked as poetry (not left as narrative)
+
+PUNCTUATION:
+☐ All original punctuation marks preserved
+☐ Commas kept where lines originally ended with commas
+☐ Periods kept where lines originally ended with periods
+☐ Question marks, semicolons, dashes preserved exactly
+☐ Spaces added after each punctuation mark
+
+PACING:
+☐ Natural breath points clear through punctuation
+☐ Verses read smoothly on a single line
+☐ No missing or added punctuation
+
+CONTENT:
+☐ All original words present (no removals)
+☐ All original words in original order (no reordering)
+☐ Capitalization matches original (first word of each line lowercase when combined)
+☐ Meaning completely preserved
+
+OTHER TEXT:
+☐ Narrative paragraphs left completely unchanged
+☐ Notes and apparatus left unchanged
+☐ Only verses modified
+
+================================================================================
+SUMMARY
+================================================================================
+
+**RULE 1**: Identify poetry (short lines, verse structure)
+**RULE 2**: Combine all lines into ONE paragraph
+**RULE 3**: Preserve punctuation marks + add spaces/commas as needed
+**RULE 4**: Leave everything else exactly as-is
+
+Apply these rules consistently, and your verses will be optimized for
+RPD efficiency while maintaining perfect pacing and meaning.
+
+================================================================================

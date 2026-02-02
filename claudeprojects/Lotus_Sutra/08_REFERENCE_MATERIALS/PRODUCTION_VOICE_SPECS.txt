@@ -1,0 +1,597 @@
+================================================================================
+              PRODUCTION VOICE SPECIFICATIONS
+              Gemini AI Voice Synthesis - Technical Reference
+================================================================================
+
+Project: The Lotus Sutra of the Wonderful Dharma: A Blues Interpretation
+Production File: narrated_manuscript_production_v1.txt
+Created: November 7, 2025
+Voice Platform: Google Gemini AI (gemini-pro-voice-exp)
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+
+This document provides technical specifications for producing professional
+audio narration of the Lotus Sutra blues interpretation using Google Gemini
+AI voice synthesis.
+
+KEY PRODUCTION PARAMETERS:
+- Total voice actors: 553 distinct voice tags
+- Manuscript length: 15,663 lines (795 KB)
+- File encoding: UTF-8 with Unicode diacritics
+- Chinese terms: 105 conversions to pinyin romanization
+- Sanskrit terms: Preserved with original diacritical marks
+- Estimated audio duration: 18-22 hours (based on 150 wpm average)
+
+================================================================================
+VOICE TAG SYSTEM
+================================================================================
+
+TOTAL VOICE TAGS: 553
+
+The manuscript uses Gemini voice name tags to assign different voices to
+different speakers, creating a dramatic multi-voice performance.
+
+TAG FORMAT:
+   [VoiceName]
+   Text to be spoken by that voice...
+
+   [DifferentVoiceName]
+   Text to be spoken by different voice...
+
+EXAMPLE FROM MANUSCRIPT:
+
+   [Charon]
+   THE LOTUS SUTRA OF THE WONDERFUL DHARMA
+   A Blues Interpretation from the Classical Chinese of Kumārajīva
+
+   [Rasalgethi]
+   This is the TRADE PUBLICATION EDITION—designed for reading, sharing...
+
+VOICE TAG CHARACTERISTICS:
+
+1. STANDALONE LINE: Each voice tag appears on its own line
+2. SQUARE BRACKETS: Format is always [VoiceName]
+3. NO PUNCTUATION: Voice name has no internal punctuation
+4. CASE SENSITIVE: Exact capitalization must be preserved
+5. UNIQUE NAMES: 553 distinct voice identifiers used
+
+COMMON VOICE TAGS IN THIS MANUSCRIPT:
+
+Primary Narrator Voices:
+   [Charon], [Rasalgethi], [Orus], [Polaris], [Algorab]
+
+Buddha/Teaching Voices:
+   [Altair], [Rigel], [Betelgeuse], [Sirius], [Vega]
+
+Disciple/Character Voices:
+   [Mira], [Deneb], [Arcturus], [Antares], [Aldebaran]
+
+Chorus/Verse Voices:
+   [Spica], [Canopus], [Capella], [Procyon], [Achernar]
+
+VOICE ASSIGNMENT STRATEGY:
+
+The manuscript assigns voices based on:
+- Speaker identity (Buddha, disciples, narrators)
+- Literary function (prose vs. verse, teaching vs. commentary)
+- Emotional register (solemn, joyful, urgent, contemplative)
+- Dramatic variety (preventing monotony in long passages)
+
+================================================================================
+GEMINI API IMPLEMENTATION
+================================================================================
+
+RECOMMENDED API CONFIGURATION:
+
+Endpoint: Gemini Pro Voice Experimental API
+Model: gemini-pro-voice-exp (or latest voice model)
+
+SYNTHESIS PARAMETERS:
+
+{
+  "model": "gemini-pro-voice-exp",
+  "audio_config": {
+    "sample_rate_hertz": 24000,
+    "encoding": "LINEAR16",
+    "speaking_rate": 0.95,
+    "pitch": 0.0,
+    "volume_gain_db": 0.0,
+    "effects_profile_id": ["large-home-entertainment-class-device"]
+  },
+  "voice_config": {
+    "voice_name": "[DYNAMIC - from manuscript tags]",
+    "language_code": "en-US",
+    "ssml_gender": "NEUTRAL"
+  },
+  "text_input": {
+    "type": "plain_text",
+    "text": "[CONTENT between voice tags]"
+  }
+}
+
+PROCESSING WORKFLOW:
+
+1. PARSE manuscript line-by-line
+2. DETECT voice tag: if line matches /^\[([A-Za-z]+)\]$/
+3. EXTRACT voice name from tag
+4. COLLECT all subsequent text until next voice tag
+5. SEND to Gemini API with voice_name parameter
+6. SYNTHESIZE audio chunk
+7. CONCATENATE chunks in sequence
+8. APPLY post-processing (normalization, fade transitions)
+
+PSEUDOCODE:
+
+current_voice = None
+text_buffer = []
+
+for line in manuscript:
+    if line matches "^\[([A-Za-z]+)\]$":
+        # Process previous voice's text
+        if current_voice and text_buffer:
+            audio_chunk = gemini_synthesize(
+                voice=current_voice,
+                text="\n".join(text_buffer)
+            )
+            append_to_output(audio_chunk)
+
+        # Start new voice
+        current_voice = extract_voice_name(line)
+        text_buffer = []
+    else:
+        text_buffer.append(line)
+
+# Process final chunk
+if current_voice and text_buffer:
+    audio_chunk = gemini_synthesize(
+        voice=current_voice,
+        text="\n".join(text_buffer)
+    )
+    append_to_output(audio_chunk)
+
+================================================================================
+PINYIN PRONUNCIATION HANDLING
+================================================================================
+
+CRITICAL: Chinese characters have been converted to pinyin romanization
+specifically because AI voices CANNOT properly pronounce Chinese characters.
+
+WHAT GEMINI WILL DO WITH PINYIN:
+
+When Gemini encounters: "Miào Fǎ Liánhuá Jīng"
+It will read phonetically as: "mee-OW fah lee-AHN-hwah jing"
+
+This produces an APPROXIMATE pronunciation of the Chinese, which is acceptable
+and far superior to attempting to read Chinese characters directly.
+
+TONE MARK INTERPRETATION:
+
+Pinyin tone marks (ā á ǎ à ē é ě è ī í ǐ ì ō ó ǒ ò ū ú ǔ ù) function as
+PROSODIC MARKUP for the AI voice engine:
+
+- HIGH marks (ā ē ī ō ū): Interpreted as high pitch/stress
+- RISING marks (á é í ó ú): Interpreted as rising intonation
+- DIPPING marks (ǎ ě ǐ ǒ ǔ): Interpreted as falling-then-rising
+- FALLING marks (à è ì ò ù): Interpreted as emphatic falling tone
+
+RESULT: Not perfect Chinese tones, but phonetically recognizable approximation
+
+VOICE ENGINE CAPABILITIES:
+
+✓ Gemini CAN read pinyin phonetically
+✓ Gemini CAN interpret tone marks as prosodic cues
+✓ Gemini WILL produce intelligible approximations
+✗ Gemini CANNOT read Chinese characters correctly
+✗ Gemini CANNOT produce native Chinese tones perfectly
+
+EXAMPLES OF PINYIN IN CONTEXT:
+
+1. TITLE REFERENCES:
+   "This interpretation of the Miào Fǎ Liánhuá Jīng..."
+   → AI pronounces: "mee-OW fah lee-AHN-hwah jing"
+
+2. DEVOTIONAL FORMULAS:
+   "Námó Guānshìyīn Púsà"
+   → AI pronounces: "NAH-mwoh gwahn-shir-yeen poo-SAH"
+
+3. CHAPTER TITLES:
+   "Cháng Bù Qīng Púsà Pǐn Dì Èrshí"
+   → AI pronounces: "chahng boo ching poo-sah pin dee er-shir"
+
+QUALITY ASSURANCE:
+
+After synthesis, verify that:
+- Pinyin terms sound phonetically similar to Chinese
+- Tone marks create appropriate pitch variations
+- Multi-syllable terms maintain rhythm (e.g., "Liánhuá" = lee-AHN-hwah)
+- No Chinese characters remain (would sound like gibberish)
+
+================================================================================
+SANSKRIT PRONUNCIATION HANDLING
+================================================================================
+
+CRITICAL: Sanskrit terms with diacritics have been PRESERVED (not converted)
+
+SANSKRIT DIACRITICAL MARKS IN MANUSCRIPT:
+
+Common marks: ś ṇ ū ā ṃ ī ḍ ṭ ṛ
+Example names: Śāriputra, Mañjuśrī, Avalokiteśvara, Mahākāśyapa
+
+GEMINI PRONUNCIATION OF SANSKRIT:
+
+Gemini will read Sanskrit diacritics using English phonetic approximations:
+
+- ś (s-acute) → "SH" sound
+  Example: Śāriputra → "shah-REE-poo-trah"
+
+- ṇ (n-underdot) → retroflex "n" (approximates as regular "n")
+  Example: Avalokiteśvara → includes final "ṇa" sound
+
+- ū (u-macron) → long "oo" sound
+  Example: sūtra → "SOO-trah"
+
+- ā (a-macron) → long "ah" sound
+  Example: Śāriputra → "shah-REE-poo-trah"
+
+- ṃ (m-underdot) → nasal "m" (approximates as regular "m")
+  Example: saṃsāra → "sahm-SAH-rah"
+
+KEY SANSKRIT NAMES AND PRONUNCIATION:
+
+Śāriputra → SHAH-ree-POO-trah
+   (Chief disciple, master of wisdom)
+
+Mañjuśrī → MAHN-joo-SHREE
+   (Bodhisattva of wisdom)
+
+Avalokiteśvara → ah-vah-loh-kee-tay-SHVAH-rah
+   (Bodhisattva of compassion; Chinese: Guānshìyīn)
+
+Mahākāśyapa → mah-HAH-kah-SHYAH-pah
+   (Senior disciple)
+
+Samantabhadra → sah-MAHN-tah-BHAH-drah
+   (Bodhisattva of practice; Chinese: Pǔxián)
+
+Maitreya → my-TRAY-ah
+   (Future Buddha)
+
+Sadāparibhūta → sah-DAH-pah-ree-BHOO-tah
+   (Never Disparaging Bodhisattva; Chinese: Cháng Bù Qīng)
+
+TECHNICAL TERMS:
+
+Tathāgata → tah-TAH-gah-tah (title of Buddha: "Thus-Come One")
+Bodhisattva → boh-dee-SAHT-vah (enlightenment being)
+dharma → DHAR-mah (teaching, phenomenon, law)
+Dharma → DHAR-mah (the Teaching with capital D)
+nirvāṇa → neer-VAH-nah (liberation, extinction)
+saṃsāra → sahm-SAH-rah (cycle of rebirth)
+śrāvaka → SHRAH-vah-kah (hearer-disciple)
+upāya → oo-PAH-yah (skillful means; Chinese: fāngbiàn)
+
+GEMINI HANDLING:
+
+Because Gemini's English voice engine encounters these as romanized text:
+1. Reads diacritics phonetically (ś as "sh", ṇ as "n")
+2. Approximates Sanskrit sounds using English phonemes
+3. Applies stress patterns based on syllable structure
+4. Result: Anglicized but intelligible Sanskrit pronunciation
+
+QUALITY NOTE:
+
+Sanskrit pronunciation will NOT sound like native Sanskrit speakers, but will
+be CONSISTENT and INTELLIGIBLE to English-speaking audiences familiar with
+Buddhist terminology.
+
+================================================================================
+AUDIO POST-PROCESSING RECOMMENDATIONS
+================================================================================
+
+After Gemini API synthesis, apply the following audio processing:
+
+1. NORMALIZATION
+   - Target: -3 dB peak level
+   - RMS: -18 to -20 dB (comfortable listening level)
+   - True peak limiting: -1 dB
+
+2. VOICE TRANSITION CROSSFADES
+   - Duration: 100-200ms between different voice tags
+   - Type: Equal-power crossfade
+   - Prevents abrupt voice changes
+
+3. CHAPTER BREAKS
+   - Silence duration: 2-3 seconds between chapters
+   - Optional: Soft chime or tone marker
+   - Metadata: Chapter markers for navigation
+
+4. EQUALIZATION
+   - High-pass filter: 80 Hz (remove rumble)
+   - Gentle de-essing: 6-8 kHz (reduce sibilance)
+   - Presence boost: +2 dB at 3-5 kHz (clarity)
+
+5. COMPRESSION
+   - Ratio: 2:1 to 3:1
+   - Threshold: -20 dB
+   - Attack: 10ms / Release: 100ms
+   - Purpose: Even out volume variations between voices
+
+6. NOISE REDUCTION
+   - Apply gentle noise gate: -40 dB threshold
+   - Remove digital artifacts from synthesis
+   - Preserve natural voice character
+
+7. FINAL LIMITING
+   - Ceiling: -1 dB true peak
+   - Look-ahead: 5ms
+   - Prevent clipping in final output
+
+RECOMMENDED SOFTWARE:
+
+- Audacity (free): Batch processing, normalization, effects chain
+- Adobe Audition: Professional editing, spectral repair
+- Reaper: Scripting custom voice tag processing
+- FFmpeg: Command-line batch processing
+
+EXPORT SPECIFICATIONS:
+
+Format: FLAC (lossless) or high-quality MP3
+Sample Rate: 44.1 kHz or 48 kHz
+Bit Depth: 16-bit (FLAC) or 320 kbps CBR (MP3)
+Channels: Stereo (even if synthesized mono, for compatibility)
+Metadata: ID3v2.4 tags with chapter markers
+
+================================================================================
+CHUNKING STRATEGY FOR LARGE MANUSCRIPT
+================================================================================
+
+Given the 795 KB manuscript size, process in manageable chunks:
+
+RECOMMENDED CHUNK SIZE: 5,000-10,000 characters per API call
+
+WHY CHUNKING IS NECESSARY:
+- API rate limits
+- Memory management
+- Error recovery (re-process failed chunks without losing all progress)
+- Quality control (review chunks individually)
+
+CHUNKING ALGORITHM:
+
+def chunk_by_voice_tags(manuscript_path, max_chunk_size=8000):
+    chunks = []
+    current_chunk = []
+    current_size = 0
+    current_voice = None
+
+    with open(manuscript_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            # Detect voice tag
+            if re.match(r'^\[([A-Za-z]+)\]$', line):
+                # If chunk getting too large, start new chunk
+                if current_size > max_chunk_size:
+                    chunks.append({
+                        'voice': current_voice,
+                        'text': '\n'.join(current_chunk)
+                    })
+                    current_chunk = []
+                    current_size = 0
+
+                current_voice = line.strip()
+                current_chunk.append(line)
+                current_size += len(line)
+            else:
+                current_chunk.append(line)
+                current_size += len(line)
+
+        # Final chunk
+        if current_chunk:
+            chunks.append({
+                'voice': current_voice,
+                'text': '\n'.join(current_chunk)
+            })
+
+    return chunks
+
+PROCESSING CHUNKS:
+
+for i, chunk in enumerate(chunks):
+    print(f"Processing chunk {i+1}/{len(chunks)}...")
+
+    audio = gemini_synthesize(
+        voice=extract_voice_from_tag(chunk['voice']),
+        text=chunk['text']
+    )
+
+    save_audio(audio, f"chunk_{i:04d}.wav")
+
+    # Rate limiting
+    time.sleep(1)  # Adjust based on API limits
+
+CONCATENATION:
+
+After all chunks processed, concatenate in order:
+
+ffmpeg -f concat -safe 0 -i chunks_list.txt -c copy final_audio.flac
+
+Where chunks_list.txt contains:
+file 'chunk_0000.wav'
+file 'chunk_0001.wav'
+file 'chunk_0002.wav'
+...
+
+================================================================================
+ERROR HANDLING AND QUALITY ASSURANCE
+================================================================================
+
+COMMON SYNTHESIS ERRORS:
+
+1. MISPRONOUNCED PINYIN
+   - Symptom: Chinese terms sound wrong
+   - Fix: Add pronunciation hints or SSML markup
+   - Example: <phoneme alphabet="ipa" ph="miɑ̀ʊ fǎ ljɛ́n xwǎ tɕɪ́ŋ">Miào Fǎ Liánhuá Jīng</phoneme>
+
+2. AWKWARD VOICE TRANSITIONS
+   - Symptom: Abrupt changes between speakers
+   - Fix: Apply crossfades in post-processing
+
+3. INCORRECT EMPHASIS
+   - Symptom: Wrong words stressed
+   - Fix: Add SSML emphasis tags
+   - Example: This is the <emphasis level="strong">Lotus Sutra</emphasis>
+
+4. PRONUNCIATION INCONSISTENCY
+   - Symptom: Same term pronounced differently
+   - Fix: Create pronunciation dictionary, apply globally
+
+5. RATE/PITCH ISSUES
+   - Symptom: Too fast, too slow, unnatural pitch
+   - Fix: Adjust speaking_rate and pitch parameters per voice
+
+QUALITY ASSURANCE CHECKLIST:
+
+☐ All 553 voice tags correctly mapped to Gemini voices
+☐ No Chinese characters remain (all converted to pinyin)
+☐ Sanskrit diacritics preserved and pronounced correctly
+☐ Voice transitions sound natural (crossfades applied)
+☐ Chapter breaks clearly marked with silence/tones
+☐ Audio levels normalized (-18 to -20 dB RMS)
+☐ No clipping (true peak < -1 dB)
+☐ Consistent pronunciation of repeated terms
+☐ Background noise removed/minimized
+☐ Final audio duration matches expected length (18-22 hours)
+☐ Metadata includes chapter markers
+☐ Export format meets distribution requirements
+
+TESTING PROTOCOL:
+
+1. Process SAMPLE CHAPTER first (Chapter 1 or Chapter 25)
+2. Review for pronunciation, pacing, voice quality
+3. Adjust parameters based on sample results
+4. Process remaining chapters in batches
+5. Spot-check random passages from each chapter
+6. Full listen-through of complete audio (or designated QA team)
+
+================================================================================
+DISTRIBUTION FORMATS
+================================================================================
+
+RECOMMENDED OUTPUT FORMATS:
+
+1. AUDIOBOOK PLATFORMS (Audible, Apple Books, Google Play)
+   - Format: M4B (AAC in MP4 container)
+   - Bitrate: 64-128 kbps (audiobook standard)
+   - Sample Rate: 44.1 kHz
+   - Channels: Mono or Stereo
+   - Metadata: Chapter markers, cover art, ISBN
+
+2. PODCAST/STREAMING
+   - Format: MP3
+   - Bitrate: 128-192 kbps
+   - Sample Rate: 44.1 kHz
+   - ID3 tags: Title, artist, album, chapter markers
+
+3. ARCHIVAL/PRODUCTION MASTER
+   - Format: FLAC or WAV
+   - Sample Rate: 48 kHz
+   - Bit Depth: 24-bit
+   - Preserve all quality for future re-encoding
+
+4. YOUTUBE/VIDEO PLATFORMS
+   - Audio: AAC 256 kbps stereo
+   - Combine with static image or waveform visualization
+   - Chapter markers in video description
+
+CHAPTER STRUCTURE FOR METADATA:
+
+Chapter 1: Introduction (Line 1-XXX)
+Chapter 2: Expedient Means (Line XXX-XXX)
+Chapter 3: A Parable (Line XXX-XXX)
+...
+Chapter 28: Encouragement of Universal Worthy Bodhisattva (Line XXX-XXX)
+
+Appendix: Glossary and Notes (Line XXX-end)
+
+================================================================================
+RATE LIMITING AND API USAGE
+================================================================================
+
+GEMINI API QUOTAS (verify current limits):
+
+- Requests per minute: 60 (typical)
+- Characters per request: 5,000-10,000 recommended
+- Daily quota: Check Google Cloud Console
+
+RATE LIMITING STRATEGY:
+
+import time
+
+def rate_limited_synthesis(chunks, requests_per_minute=50):
+    delay = 60 / requests_per_minute  # seconds between requests
+
+    for i, chunk in enumerate(chunks):
+        audio = gemini_synthesize(chunk)
+        save_chunk(audio, i)
+
+        if i < len(chunks) - 1:
+            time.sleep(delay)
+
+        if i % 10 == 0:
+            print(f"Processed {i}/{len(chunks)} chunks")
+
+ESTIMATED COSTS (approximate, verify current pricing):
+
+- Gemini Pro Voice API: ~$0.000016 per character
+- Total manuscript: ~800,000 characters
+- Estimated cost: ~$12.80 USD
+
+Note: Pricing may vary; check Google Cloud pricing for Gemini voice synthesis.
+
+================================================================================
+TECHNICAL SUPPORT RESOURCES
+================================================================================
+
+GOOGLE GEMINI DOCUMENTATION:
+https://ai.google.dev/gemini-api/docs/text-to-speech
+
+SSML (Speech Synthesis Markup Language) Reference:
+https://cloud.google.com/text-to-speech/docs/ssml
+
+PINYIN PRONUNCIATION GUIDE:
+https://en.wikipedia.org/wiki/Pinyin
+https://www.chinese-tools.com/tools/pinyin.html
+
+SANSKRIT PRONUNCIATION:
+https://www.learnsanskrit.org/references/pronunciation
+https://spokensanskrit.org/
+
+IPA (International Phonetic Alphabet):
+https://www.internationalphoneticassociation.org/
+
+AUDIO PROCESSING:
+Audacity: https://www.audacityteam.org/
+Adobe Audition: https://www.adobe.com/products/audition.html
+FFmpeg: https://ffmpeg.org/
+
+================================================================================
+CONTACT AND REVISION HISTORY
+================================================================================
+
+Document Version: 1.0
+Created: November 7, 2025
+Manuscript Version: narrated_manuscript_production_v1.txt
+Voice Tags: 553
+Total Conversions: 105 Chinese terms to pinyin
+
+FOR QUESTIONS OR ISSUES:
+- Review PINYIN_CONVERSION_GUIDE.txt for specific term conversions
+- Review PRONUNCIATION_MASTER_GUIDE.txt for pronunciation details
+- Consult Google Gemini API documentation for technical issues
+
+REVISION HISTORY:
+v1.0 (Nov 7, 2025): Initial production specifications
+
+================================================================================
+END OF PRODUCTION VOICE SPECIFICATIONS
+================================================================================

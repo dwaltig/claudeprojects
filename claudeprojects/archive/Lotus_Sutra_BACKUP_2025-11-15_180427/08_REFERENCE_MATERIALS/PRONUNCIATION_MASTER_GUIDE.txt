@@ -1,0 +1,845 @@
+================================================================================
+                    PRONUNCIATION MASTER GUIDE
+          The Lotus Sutra of the Wonderful Dharma: A Blues Interpretation
+================================================================================
+
+Production Manuscript: narrated_manuscript_production_v1.txt
+Created: November 7, 2025
+Purpose: Complete pronunciation reference for voice actors and AI synthesis
+
+This guide provides comprehensive pronunciation information for all proper
+names, technical terms, and multilingual content in the manuscript.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1. CHINESE TERMS (Pinyin Romanization)
+2. SANSKRIT PROPER NAMES (Bodhisattvas, Buddhas, Disciples)
+3. SANSKRIT TECHNICAL TERMS (Buddhist Doctrine)
+4. HYBRID TERMS (Chinese-Sanskrit)
+5. INTERNATIONAL PHONETIC ALPHABET (IPA) REFERENCE
+6. QUICK REFERENCE INDEX
+
+================================================================================
+SECTION 1: CHINESE TERMS (PINYIN ROMANIZATION)
+================================================================================
+
+All Chinese characters in the manuscript have been converted to pinyin
+romanization for proper AI voice pronunciation.
+
+TONE SYSTEM OVERVIEW
+--------------------------------------------------------------------------------
+
+Mandarin Chinese uses four tones plus neutral tone:
+
+TONE 1 (一聲) - HIGH LEVEL:        Flat, high pitch         ā ē ī ō ū
+TONE 2 (二聲) - RISING:            Like asking "what?"      á é í ó ú
+TONE 3 (三聲) - FALLING-RISING:    Dip then rise            ǎ ě ǐ ǒ ǔ
+TONE 4 (四聲) - FALLING:           Sharp drop, emphatic     à è ì ò ù
+NEUTRAL (輕聲) - UNSTRESSED:       Short, light             a e i o u
+
+VISUAL REPRESENTATION:
+
+Tone 1:  ———  (high and flat)
+Tone 2:  ╱    (rising)
+Tone 3:  ∨    (dip and rise)
+Tone 4:  ╲    (falling)
+
+PRIMARY TITLE: 妙法蓮華經
+--------------------------------------------------------------------------------
+
+PINYIN: Miào Fǎ Liánhuá Jīng
+
+PRONUNCIATION:
+   Miào    = mee-OW (like cat sound, 4th tone)
+   Fǎ      = fah (3rd tone - dip and rise)
+   Liánhuá = lee-AHN hwah (both 2nd tone)
+   Jīng    = jing (1st tone - high level)
+
+SYLLABLE BREAKDOWN:
+   妙  Miào   [miɑʊ̯˥˩]    wonderful, subtle, mysterious
+   法  Fǎ     [fä˨˩˦]      dharma, law, method
+   蓮  Lián   [ljɛn˧˥]     lotus
+   華  huá    [xwä˧˥]      flower, splendid
+   經  Jīng   [tɕiŋ˥˥]     sutra, scripture, classic
+
+MEANING: "The Sutra of the Wonderful Dharma Lotus Flower"
+
+ENGLISH APPROXIMATION: "mee-OW fah lee-AHN hwah jing"
+
+CONTEXT: This is Kumārajīva's Classical Chinese title (406 CE), standard in
+East Asian Buddhism. Short form: 法華經 (Fǎhuá Jīng / "Lotus Sutra").
+
+BUDDHIST PROPER NAMES (Chinese)
+--------------------------------------------------------------------------------
+
+Guānshìyīn Púsà (觀世音菩薩)
+   PRONUNCIATION: gwahn-shir-YEEN poo-SAH
+   IPA: [kwän˥˥ʂɨ˥˩jin˥˥ pʰu˧˥sä˥˩]
+   MEANING: "Perceiver of World's Sounds" = Avalokiteśvara Bodhisattva
+   CONTEXT: Bodhisattva of Compassion, subject of Chapter 25
+
+Pǔxián (普賢)
+   PRONUNCIATION: poo-shyen
+   IPA: [pʰu˨˩˦ɕjɛn˧˥]
+   MEANING: "Universal Worthy" = Samantabhadra
+   CONTEXT: Bodhisattva of Practice, subject of Chapter 28
+
+Cháng Bù Qīng (常不輕)
+   PRONUNCIATION: chahng boo ching
+   IPA: [ʈʂʰäŋ˧˥pu˥˩tɕʰiŋ˥˥]
+   MEANING: "Never Disparaging" = Sadāparibhūta Bodhisattva
+   CONTEXT: Subject of Chapter 20 (rendered "Never Looked Down")
+
+Yàowáng Púsà (藥王菩薩)
+   PRONUNCIATION: yow-wahng poo-SAH
+   IPA: [jɑʊ̯˥˩wäŋ˧˥ pʰu˧˥sä˥˩]
+   MEANING: "Medicine King Bodhisattva"
+   CONTEXT: Subject of Chapter 23
+
+TRANSLATOR NAME
+--------------------------------------------------------------------------------
+
+Qútán Jiūmóluóshí (瞿曇鳩摩羅什)
+   PRONUNCIATION: choo-TAHN jyoh-mwoh-lwoh-SHER
+   IPA: [tɕʰy˧˥tʰän˧˥tɕjoʊ̯˥˥mwɔ˧˥lwɔ˧˥ʂɨ˧˥]
+   MEANING: Chinese transliteration of "Kumārajīva"
+   DATES: 344-413 CE
+   CONTEXT: Great translator who rendered Lotus Sutra into Chinese (406 CE)
+
+DEVOTIONAL FORMULAS
+--------------------------------------------------------------------------------
+
+Námó Guānshìyīn Púsà (南無觀世音菩薩)
+   PRONUNCIATION: NAH-mwoh gwahn-shir-YEEN poo-SAH
+   IPA: [nä˧˥mwɔ˧˥ kwän˥˥ʂɨ˥˩jin˥˥ pʰu˧˥sä˥˩]
+   MEANING: "Homage to Avalokiteśvara Bodhisattva"
+   CONTEXT: Standard devotional invocation (Chapter 25)
+   NOTE: Námó = Chinese rendering of Sanskrit "namo" (refuge, homage)
+
+Námó Shìjiāmóuní Fó (南無釋迦牟尼佛)
+   PRONUNCIATION: NAH-mwoh shir-jyah-moh-nee foh
+   IPA: [nä˧˥mwɔ˧˥ʂɨ˥˩tɕjä˥˥mɤʊ̯˧˥ni˧˥fwɔ˧˥]
+   MEANING: "Homage to Śākyamuni Buddha"
+   CONTEXT: Primary devotional formula to historical Buddha
+
+CHAPTER TITLES (Chinese Section Names)
+--------------------------------------------------------------------------------
+
+Zhǔlěi Pǐn Dì Èrshíèr (囑累品第二十二)
+   = Chapter 22: Entrustment
+   PRONUNCIATION: joo-lay pin dee er-shir-er
+
+Yàowáng Púsà Běnshì Pǐn Dì Èrshísān (藥王菩薩本事品第二十三)
+   = Chapter 23: Medicine King Bodhisattva's Past Deeds
+   PRONUNCIATION: yow-wahng poo-sah ben-shir pin dee er-shir-sahn
+
+Guānshìyīn Púsà Pǔmén Pǐn Dì Èrshíwǔ (觀世音菩薩普門品第二十五)
+   = Chapter 25: Universal Gate of Avalokiteśvara
+   PRONUNCIATION: gwahn-shir-yeen poo-sah poo-men pin dee er-shir-woo
+
+Tuóluóní Pǐn Dì Èrshíliù (陀羅尼品第二十六)
+   = Chapter 26: Dhāraṇīs
+   PRONUNCIATION: twoh-lwoh-nee pin dee er-shir-lyoh
+
+Cháng Bù Qīng Púsà Pǐn Dì Èrshí (常不輕菩薩品第二十)
+   = Chapter 20: Never Disparaging Bodhisattva
+   PRONUNCIATION: chahng boo ching poo-sah pin dee er-shir
+
+DOCTRINAL TERMS (Chinese)
+--------------------------------------------------------------------------------
+
+púsà (菩薩)
+   PRONUNCIATION: poo-SAH
+   IPA: [pʰu˧˥sä˥˩]
+   MEANING: Bodhisattva (from Sanskrit)
+   CONTEXT: Enlightenment-being who vows to save all sentient beings
+
+fāngbiàn (方便)
+   PRONUNCIATION: fahng-byen
+   IPA: [fäŋ˥˥pjɛn˥˩]
+   MEANING: Skillful means (Sanskrit: upāya)
+   CONTEXT: Buddha's adaptive teaching methods
+
+āluóhàn (阿羅漢)
+   PRONUNCIATION: ah-lwoh-hahn
+   IPA: [ä˥˥lwɔ˧˥xän˥˩]
+   MEANING: Arhat (from Sanskrit)
+   CONTEXT: Awakened disciple who attained liberation
+
+nièpán (涅槃)
+   PRONUNCIATION: nyeh-pahn
+   IPA: [njɛ˥˩pʰän˧˥]
+   MEANING: Nirvāṇa (from Sanskrit)
+   CONTEXT: Final liberation, extinction of suffering
+
+Fó (佛)
+   PRONUNCIATION: foh
+   IPA: [fwɔ˧˥]
+   MEANING: Buddha (from Sanskrit)
+   CONTEXT: Awakened one
+
+Dàshèng (大乘)
+   PRONUNCIATION: dah-shung
+   IPA: [tä˥˩ʂɤŋ˥˩]
+   MEANING: Mahāyāna, "Great Vehicle"
+   CONTEXT: Branch of Buddhism emphasizing bodhisattva path
+
+Sānshèng (三乘)
+   PRONUNCIATION: sahn-shung
+   IPA: [sän˥˥ʂɤŋ˥˩]
+   MEANING: Three Vehicles (śrāvaka, pratyekabuddha, bodhisattva paths)
+
+Yī Fó Shèng (一佛乘)
+   PRONUNCIATION: yee foh shung
+   IPA: [i˥˥fwɔ˧˥ʂɤŋ˥˩]
+   MEANING: One Buddha Vehicle
+   CONTEXT: Central Lotus Sutra teaching - all paths converge
+
+PARABLE IMAGERY (Chinese)
+--------------------------------------------------------------------------------
+
+Sānjiè Huǒzhái (三界火宅)
+   PRONUNCIATION: sahn-jyeh hwoh-jai
+   IPA: [sän˥˥tɕjɛ˥˩xwɔ˨˩˦ʈʂai˧˥]
+   MEANING: "Burning House of the Three Realms"
+   CONTEXT: Central Chapter 3 parable - saṃsāra as burning house
+
+lùchē (鹿車)
+   PRONUNCIATION: loo-chuh
+   MEANING: Deer cart (vehicle for śrāvakas in Burning House parable)
+
+yángchē (羊車)
+   PRONUNCIATION: yahng-chuh
+   MEANING: Goat cart (vehicle for pratyekabuddhas)
+
+niúchē (牛車)
+   PRONUNCIATION: nyoh-chuh
+   MEANING: Ox cart (vehicle for bodhisattvas)
+
+Yī Dàchē (一大車)
+   PRONUNCIATION: yee dah-chuh
+   MEANING: One Great Cart (superior ultimate vehicle)
+
+NUMBERS IN CHAPTER TITLES (Chinese)
+--------------------------------------------------------------------------------
+
+Dì = 第 = ordinal marker ("number/chapter")
+
+Shísān (十三) = 13      | Èrshí (二十) = 20
+Shíqī (十七) = 17       | Èrshíyī (二十一) = 21
+Shíbā (十八) = 18       | Èrshíèr (二十二) = 22
+Shíjiǔ (十九) = 19      | Èrshísān (二十三) = 23
+                        | Èrshíwǔ (二十五) = 25
+                        | Èrshíliù (二十六) = 26
+
+PINYIN SPELLING CONVENTIONS
+--------------------------------------------------------------------------------
+
+INITIAL CONSONANTS:
+b p m f        [p pʰ m f]
+d t n l        [t tʰ n l]
+g k h          [k kʰ x]
+j q x          [tɕ tɕʰ ɕ] (like "j" "ch" "sh" in English)
+zh ch sh r     [ʈʂ ʈʂʰ ʂ ʐ] (retroflex)
+z c s          [ts tsʰ s]
+
+FINAL VOWELS:
+a  [ä]    like "ah"
+o  [wɔ]   like "aw" in "law"
+e  [ɤ]    like "uh" in "duh"
+i  [i]    like "ee" in "see"
+u  [u]    like "oo" in "boot"
+ü  [y]    like German "ü" or French "u"
+
+DIPHTHONGS:
+ai [aɪ̯]   like "eye"
+ei [eɪ̯]   like "ay" in "day"
+ao [ɑʊ̯]   like "ow" in "cow"
+ou [oʊ̯]   like "oh"
+
+SPECIAL COMBINATIONS:
+-ng [ŋ]    like "ng" in "sing"
+-n  [n]    like "n" in "sun"
+-r  [ɻ]    retroflex r (curl tongue)
+
+================================================================================
+SECTION 2: SANSKRIT PROPER NAMES
+================================================================================
+
+Sanskrit names use diacritical marks to indicate precise pronunciation.
+All Sanskrit diacritics have been PRESERVED in the production manuscript.
+
+DIACRITICAL MARKS GUIDE
+--------------------------------------------------------------------------------
+
+VOWELS:
+ā = long "a" (like "father")      [aː]
+ī = long "i" (like "machine")     [iː]
+ū = long "u" (like "rude")        [uː]
+ṛ = vocalic "r" (like "rib")      [r̩]
+ṝ = long vocalic "r"              [r̩ː]
+ḷ = vocalic "l" (rare)            [l̩]
+
+CONSONANTS:
+ś = palatal "sh" (like "shun")    [ɕ]
+ṣ = retroflex "sh" (curl tongue)  [ʂ]
+ñ = palatal "n" (like "canyon")   [ɲ]
+ṅ = velar "n" (like "sing")       [ŋ]
+ṇ = retroflex "n"                 [ɳ]
+ṭ = retroflex "t"                 [ʈ]
+ḍ = retroflex "d"                 [ɖ]
+ṁ = anusvāra (nasal)              [m̃]
+ḥ = visarga (aspiration)          [h]
+
+PRINCIPAL BUDDHAS
+--------------------------------------------------------------------------------
+
+Śākyamuni (釋迦牟尼)
+   PRONUNCIATION: SHAH-kyah-MOO-nee
+   IPA: [ɕaːkjɐmʊniː]
+   MEANING: "Sage of the Śākya Clan"
+   CONTEXT: Historical Buddha (Siddhartha Gautama)
+   CHINESE: Shìjiāmóuní (釋迦牟尼)
+
+Tathāgata (如來)
+   PRONUNCIATION: tah-TAH-gah-tah
+   IPA: [tɐtʰaːɡɐtɐ]
+   MEANING: "Thus-Come One" (Buddha title)
+   CONTEXT: Epithet for any buddha
+   CHINESE: Rúlái (如來)
+
+Prabhūtaratna (多寶)
+   PRONUNCIATION: prah-BOO-tah-RAHT-nah
+   IPA: [prɐbʱuːtɐrɐtnɐ]
+   MEANING: "Abundant Treasures"
+   CONTEXT: Ancient buddha whose stupa appears in Chapter 11
+   CHINESE: Duōbǎo (多寶)
+
+GREAT BODHISATTVAS
+--------------------------------------------------------------------------------
+
+Mañjuśrī (文殊)
+   PRONUNCIATION: MAHN-joo-SHREE
+   IPA: [mɐɲdʑʊɕriː]
+   MEANING: "Gentle Glory" or "Sweet Splendor"
+   CONTEXT: Bodhisattva of Wisdom, speaker in Chapter 1
+   CHINESE: Wénshū (文殊) or Wénshūshīlì (文殊師利)
+
+Avalokiteśvara (觀世音/觀自在)
+   PRONUNCIATION: ah-vah-loh-kee-tay-SHVAH-rah
+   IPA: [ɐvɐloːkiteːɕvɐrɐ]
+   MEANING: "Lord Who Looks Down [with Compassion]"
+   CONTEXT: Bodhisattva of Compassion, subject of Chapter 25
+   CHINESE: Guānshìyīn (觀世音) or Guānzìzài (觀自在)
+   TIBETAN: Chenrezig
+   JAPANESE: Kannon
+
+Samantabhadra (普賢)
+   PRONUNCIATION: sah-MAHN-tah-BHAH-drah
+   IPA: [sɐmɐntɐbʱɐdrɐ]
+   MEANING: "Universal Worthy" or "All-Good"
+   CONTEXT: Bodhisattva of Practice, subject of Chapter 28
+   CHINESE: Pǔxián (普賢)
+
+Maitreya (彌勒)
+   PRONUNCIATION: my-TRAY-ah
+   IPA: [mɐitreiɐ]
+   MEANING: "Loving One"
+   CONTEXT: Future Buddha, questioner in several chapters
+   CHINESE: Mílè (彌勒)
+
+Sadāparibhūta (常不輕)
+   PRONUNCIATION: sah-DAH-pah-ree-BHOO-tah
+   IPA: [sɐdaːpɐribʱuːtɐ]
+   MEANING: "Never Despising" or "Always Respectful"
+   CONTEXT: Bodhisattva who honored all beings, subject of Chapter 20
+   CHINESE: Cháng Bù Qīng (常不輕)
+
+Gadgadasvara (妙音)
+   PRONUNCIATION: gahd-GAH-dah-SVAH-rah
+   IPA: [ɡɐdɡɐdɐsvɐrɐ]
+   MEANING: "Wonderful Voice" or "Stammering Voice"
+   CONTEXT: Bodhisattva from eastern realm, subject of Chapter 24
+   CHINESE: Miàoyīn (妙音)
+
+Bhaiṣajyarāja (藥王)
+   PRONUNCIATION: bhai-SHAHJ-yah-RAH-jah
+   IPA: [bʱɐiʂɐdʑjɐraːdʑɐ]
+   MEANING: "Medicine King"
+   CONTEXT: Bodhisattva who burned his body as offering, Chapter 23
+   CHINESE: Yàowáng (藥王)
+
+PRINCIPAL DISCIPLES (Śrāvakas)
+--------------------------------------------------------------------------------
+
+Śāriputra (舍利弗)
+   PRONUNCIATION: SHAH-ree-POO-trah
+   IPA: [ɕaːrɪpʊtrɐ]
+   MEANING: "Son of Śāri" (his mother's name)
+   CONTEXT: Chief disciple, foremost in wisdom
+   CHINESE: Shèlìfú (舍利弗)
+
+Mahākāśyapa (摩訶迦葉)
+   PRONUNCIATION: mah-HAH-KAHSH-yah-pah
+   IPA: [mɐhaːkaːɕjɐpɐ]
+   MEANING: "Great Kāśyapa" (to distinguish from others named Kāśyapa)
+   CONTEXT: Senior disciple, leader after Buddha's passing
+   CHINESE: Móhē Jiāyè (摩訶迦葉)
+
+Mahāmaudgalyāyana (目犍連)
+   PRONUNCIATION: mah-HAH-mow-gahl-YAH-yah-nah
+   IPA: [mɐhaːmɐudɡɐljaːjɐnɐ]
+   MEANING: "Great Maudgalyāyana"
+   CONTEXT: Chief disciple, foremost in supernatural powers
+   CHINESE: Mùjiānlián (目犍連)
+   SHORT FORM: Maudgalyāyana
+
+Ānanda (阿難)
+   PRONUNCIATION: AH-nahn-dah
+   IPA: [aːnɐndɐ]
+   MEANING: "Joy" or "Bliss"
+   CONTEXT: Buddha's cousin and personal attendant
+   CHINESE: Ānán (阿難)
+
+Rāhula (羅睺羅)
+   PRONUNCIATION: RAH-hoo-lah
+   IPA: [raːhʊlɐ]
+   MEANING: "Fetter" or "Eclipse"
+   CONTEXT: Buddha's son, foremost in esoteric practice
+   CHINESE: Luóhóuluó (羅睺羅)
+
+Subhūti (須菩提)
+   PRONUNCIATION: soo-BOO-tee
+   IPA: [sʊbʱuːtɪ]
+   MEANING: "Well-Being" or "Good Existence"
+   CONTEXT: Senior disciple, foremost in understanding emptiness
+   CHINESE: Xūpútí (須菩提)
+
+Kātyāyana (迦旃延)
+   PRONUNCIATION: KAH-tyah-YAH-nah
+   IPA: [kaːtjaːjɐnɐ]
+   MEANING: Descendant of sage Katyā
+   CONTEXT: Senior disciple, foremost in debate
+   CHINESE: Jiāzhānyán (迦旃延)
+
+Pūrṇa-Maitrāyaṇīputra (富樓那彌多羅尼子)
+   PRONUNCIATION: POOR-nah my-TRAH-yah-NEE-poo-trah
+   IPA: [puːrɳɐ mɐitraːjɐɳiːpʊtrɐ]
+   MEANING: "Pūrṇa, son of Maitrāyaṇī"
+   CONTEXT: Foremost in teaching dharma
+   CHINESE: Fùlóunà Mílúoluónízi (富樓那彌多羅尼子)
+
+Ājñāta-Kauṇḍinya (阿若憍陳如)
+   PRONUNCIATION: AHJ-nyah-tah kown-DIN-yah
+   IPA: [aːdʑɲaːtɐ kɐuɳɖɪnjɐ]
+   MEANING: "Kauṇḍinya Who Has Understood"
+   CONTEXT: First disciple to attain enlightenment
+   CHINESE: Āruò Jiāochénrú (阿若憍陳如)
+
+FEMALE DISCIPLES
+--------------------------------------------------------------------------------
+
+Mahāprajāpatī (摩訶波闍波提)
+   PRONUNCIATION: mah-HAH-prah-jah-PAH-tee
+   IPA: [mɐhaːprɐdʑaːpɐtiː]
+   MEANING: "Great Pajāpatī"
+   CONTEXT: Buddha's aunt and foster mother, first nun
+   CHINESE: Móhē Bōshépótí (摩訶波闍波提)
+
+Yaśodharā (耶輸陀羅)
+   PRONUNCIATION: yah-SHOH-dah-RAH
+   IPA: [jɐɕoːdʱɐraː]
+   MEANING: "Bearer of Glory"
+   CONTEXT: Buddha's wife before renunciation
+   CHINESE: Yéshūtuóluó (耶輸陀羅)
+
+ANCIENT BUDDHAS
+--------------------------------------------------------------------------------
+
+Candrasūryapradīpa (日月燈明)
+   PRONUNCIATION: CHAHN-drah-SOOR-yah-prah-DEE-pah
+   IPA: [tɕɐndrɐsuːrjɐprɐdiːpɐ]
+   MEANING: "Moon-Sun-Lamp Light"
+   CONTEXT: Ancient buddha mentioned in Chapter 1
+   CHINESE: Rìyuè Dēngmíng (日月燈明)
+
+Bhīṣmagarjitasvararāja (威音王)
+   PRONUNCIATION: BHEESH-mah-GAR-jee-tah-SVAH-rah-RAH-jah
+   IPA: [bʱiːʂmɐɡɐrdʑɪtɐsvɐrɐraːdʑɐ]
+   MEANING: "Awesome Sound King"
+   CONTEXT: Ancient buddha under whom Sadāparibhūta practiced
+   CHINESE: Wēiyīn Wáng (威音王)
+
+================================================================================
+SECTION 3: SANSKRIT TECHNICAL TERMS
+================================================================================
+
+PATHS AND VEHICLES
+--------------------------------------------------------------------------------
+
+dharma (法)
+   PRONUNCIATION: DHAR-mah
+   IPA: [dʱɐrmɐ]
+   MEANING (lowercase): phenomenon, element, thing, mental object
+   CONTEXT: Technical term for constituents of experience
+
+Dharma (法)
+   PRONUNCIATION: DHAR-mah
+   IPA: [dʱɐrmɐ]
+   MEANING (uppercase): The Teaching, Buddhist doctrine, cosmic law
+   CONTEXT: The Buddha's teachings collectively
+
+nirvāṇa (涅槃)
+   PRONUNCIATION: neer-VAH-nah
+   IPA: [nɪrvaːɳɐ]
+   MEANING: Liberation, extinction (of suffering/craving)
+   CONTEXT: Ultimate goal of Buddhist practice
+   CHINESE: nièpán (涅槃)
+
+saṃsāra (生死輪迴)
+   PRONUNCIATION: sahm-SAH-rah
+   IPA: [sɐmsaːrɐ]
+   MEANING: Cycle of rebirth, wandering existence
+   CONTEXT: The world of suffering beings traverse
+   CHINESE: Shēngsǐ lúnhuí (生死輪迴)
+
+bodhi (菩提)
+   PRONUNCIATION: BOH-dee
+   IPA: [boːdʱɪ]
+   MEANING: Awakening, enlightenment
+   CONTEXT: The realization buddhas and bodhisattvas attain
+   CHINESE: pútí (菩提)
+
+anuttara-samyak-saṃbodhi (阿耨多羅三藐三菩提)
+   PRONUNCIATION: ah-NOOT-tah-rah SAHM-yahk sahm-BOH-dee
+   IPA: [ɐnʊttɐrɐ sɐmjɐk sɐmboːdʱɪ]
+   MEANING: Supreme perfect enlightenment
+   CONTEXT: Full buddhahood (not just arhat liberation)
+   CHINESE: ānòuduōluó sānmiǎo sānpútí (阿耨多羅三藐三菩提)
+
+PRACTITIONERS
+--------------------------------------------------------------------------------
+
+buddha (佛)
+   PRONUNCIATION: BOOD-dah
+   IPA: [bʊddʱɐ]
+   MEANING: Awakened one, enlightened teacher
+   CHINESE: Fó (佛)
+
+bodhisattva (菩薩)
+   PRONUNCIATION: boh-dee-SAHT-vah
+   IPA: [boːdʱɪsɐttvɐ]
+   MEANING: Enlightenment-being, one who vows to save all beings
+   CHINESE: púsà (菩薩)
+
+arhat (阿羅漢)
+   PRONUNCIATION: AHR-haht
+   IPA: [ɐrhɐt]
+   MEANING: Worthy one, liberated disciple
+   CONTEXT: One who has eliminated defilements and attained nirvāṇa
+   CHINESE: āluóhàn (阿羅漢)
+
+śrāvaka (聲聞)
+   PRONUNCIATION: SHRAH-vah-kah
+   IPA: [ɕraːvɐkɐ]
+   MEANING: Hearer, disciple (lit. "one who hears")
+   CONTEXT: Direct disciple of buddha, aims for arhat status
+   CHINESE: shēngwén (聲聞)
+
+pratyekabuddha (緣覺/辟支佛)
+   PRONUNCIATION: prah-TYAY-kah-BOOD-dah
+   IPA: [prɐtjekɐbʊddʱɐ]
+   MEANING: Solitary realizer, private buddha
+   CONTEXT: One who attains enlightenment alone, without teacher
+   CHINESE: yuánjué (緣覺) or bìzhīfó (辟支佛)
+
+MEDITATION AND STATES
+--------------------------------------------------------------------------------
+
+samādhi (三昧/三摩地)
+   PRONUNCIATION: sah-MAH-dee
+   IPA: [sɐmaːdʱɪ]
+   MEANING: Meditative absorption, concentration
+   CONTEXT: Deep states of meditative focus
+   CHINESE: sānmèi (三昧) or sānmódì (三摩地)
+
+dhyāna (禪)
+   PRONUNCIATION: DYAH-nah
+   IPA: [dʱjaːnɐ]
+   MEANING: Meditation, meditative absorption
+   CONTEXT: Stages of meditative concentration
+   CHINESE: chán (禪) [origin of "Zen"]
+
+prajñā (般若)
+   PRONUNCIATION: PRAHJ-nyah
+   IPA: [prɐdʑɲaː]
+   MEANING: Wisdom, insight, understanding
+   CONTEXT: Penetrative wisdom that realizes emptiness
+   CHINESE: bōrě (般若)
+
+SKILLFUL MEANS AND METHODS
+--------------------------------------------------------------------------------
+
+upāya (方便)
+   PRONUNCIATION: oo-PAH-yah
+   IPA: [ʊpaːjɐ]
+   MEANING: Skillful means, expedient methods
+   CONTEXT: Buddha's adaptive teaching strategies
+   CHINESE: fāngbiàn (方便)
+
+dhāraṇī (陀羅尼)
+   PRONUNCIATION: dah-RAH-nee
+   IPA: [dʱaːrɐɳiː]
+   MEANING: Magical formula, memory aid, protective spell
+   CONTEXT: Sacred phrases that hold/protect teachings
+   CHINESE: tuóluóní (陀羅尼)
+
+mantra (真言/咒)
+   PRONUNCIATION: MAHN-trah
+   IPA: [mɐntrɐ]
+   MEANING: Sacred utterance, mystical formula
+   CONTEXT: Words of power, often untranslated
+   CHINESE: zhēnyán (真言) or zhòu (咒)
+
+COSMOLOGY
+--------------------------------------------------------------------------------
+
+tathāgata (如來)
+   PRONUNCIATION: tah-TAH-gah-tah
+   IPA: [tɐtʰaːɡɐtɐ]
+   MEANING: Thus-Come One (Buddha epithet)
+   CONTEXT: One who has arrived at suchness/truth
+   CHINESE: Rúlái (如來)
+
+kalpa (劫)
+   PRONUNCIATION: KAHL-pah
+   IPA: [kɐlpɐ]
+   MEANING: Aeon, cosmic time period
+   CONTEXT: Vast spans of time in Buddhist cosmology
+   CHINESE: jié (劫)
+
+stupa (塔/浮圖)
+   PRONUNCIATION: STOO-pah
+   IPA: [stuːpɐ]
+   MEANING: Reliquary mound, memorial monument
+   CONTEXT: Sacred structure housing relics or marking holy sites
+   CHINESE: tǎ (塔) or fútú (浮圖)
+
+buddha-kṣetra (佛國/佛土)
+   PRONUNCIATION: BOOD-dah KSHET-rah
+   IPA: [bʊddʱɐkʂetrɐ]
+   MEANING: Buddha-field, buddha-land
+   CONTEXT: Realm purified by a buddha's practice
+   CHINESE: fóguó (佛國) or fótǔ (佛土)
+
+QUALITIES AND ATTRIBUTES
+--------------------------------------------------------------------------------
+
+karuṇā (悲)
+   PRONUNCIATION: kah-ROO-nah
+   IPA: [kɐrʊɳaː]
+   MEANING: Compassion (wish to remove suffering)
+   CHINESE: bēi (悲)
+
+maitrī / mettā (慈)
+   PRONUNCIATION: MY-tree / MET-tah
+   IPA: [mɐitriː] / [mettaː]
+   MEANING: Loving-kindness (wish for happiness)
+   CHINESE: cí (慈)
+
+duḥkha (苦)
+   PRONUNCIATION: DOOK-hah
+   IPA: [dʊħkʰɐ]
+   MEANING: Suffering, unsatisfactoriness, stress
+   CONTEXT: First Noble Truth - existence is characterized by duḥkha
+   CHINESE: kǔ (苦)
+
+śūnyatā (空)
+   PRONUNCIATION: SHOON-yah-tah
+   IPA: [ɕuːnjɐtaː]
+   MEANING: Emptiness, lack of inherent existence
+   CONTEXT: Core Mahāyāna teaching
+   CHINESE: kōng (空)
+
+================================================================================
+SECTION 4: HYBRID TERMS (CHINESE-SANSKRIT)
+================================================================================
+
+Many Buddhist terms exist in both forms in the manuscript.
+
+EQUIVALENTS TABLE
+--------------------------------------------------------------------------------
+
+SANSKRIT              | CHINESE (PINYIN)        | MEANING
+----------------------|-------------------------|---------------------------
+Avalokiteśvara        | Guānshìyīn (觀世音)     | Bodhisattva of Compassion
+Samantabhadra         | Pǔxián (普賢)           | Bodhisattva of Practice
+Mañjuśrī              | Wénshū (文殊)           | Bodhisattva of Wisdom
+Sadāparibhūta         | Cháng Bù Qīng (常不輕)  | Never Disparaging
+Bhaiṣajyarāja         | Yàowáng (藥王)          | Medicine King
+Gadgadasvara          | Miàoyīn (妙音)          | Wonderful Voice
+Śākyamuni             | Shìjiāmóuní (釋迦牟尼)  | Historical Buddha
+bodhisattva           | púsà (菩薩)             | Enlightenment-being
+arhat                 | āluóhàn (阿羅漢)        | Liberated disciple
+dharma/Dharma         | fǎ (法)                 | Law/teaching
+nirvāṇa               | nièpán (涅槃)           | Liberation
+upāya                 | fāngbiàn (方便)         | Skillful means
+dhāraṇī               | tuóluóní (陀羅尼)       | Protective formula
+Tathāgata             | Rúlái (如來)            | Thus-Come One
+bodhi                 | pútí (菩提)             | Enlightenment
+
+USAGE IN MANUSCRIPT:
+
+The manuscript primarily uses SANSKRIT names for specific persons:
+   - Śāriputra, Mañjuśrī, Avalokiteśvara (proper names)
+
+And uses CHINESE for chapter titles and some technical terms:
+   - Guānshìyīn Púsà Pǔmén Pǐn (Chapter 25 title)
+   - fāngbiàn (skillful means in running text)
+
+BOTH forms appear in different contexts and are equally correct.
+
+================================================================================
+SECTION 5: INTERNATIONAL PHONETIC ALPHABET (IPA) REFERENCE
+================================================================================
+
+For precise pronunciation, IPA symbols are provided throughout this guide.
+
+QUICK IPA REFERENCE FOR ENGLISH SPEAKERS
+--------------------------------------------------------------------------------
+
+VOWELS:
+[aː] = "ah" in "father" (long)
+[ɐ]  = "uh" in "about" (schwa)
+[ɪ]  = "i" in "sit" (short)
+[iː] = "ee" in "see" (long)
+[ʊ]  = "u" in "put" (short)
+[uː] = "oo" in "boot" (long)
+[e]  = "ay" in "day"
+[o]  = "oh" in "go"
+[ɛ]  = "e" in "bed"
+[ɔ]  = "aw" in "law"
+
+CONSONANTS:
+[ɕ]  = "sh" in "shun" (palatal)
+[ʂ]  = "sh" with tongue curled (retroflex)
+[tɕ] = "ch" in "church" (palatal)
+[ʈʂ] = "ch" with tongue curled (retroflex)
+[ɲ]  = "ny" in "canyon"
+[ŋ]  = "ng" in "sing"
+[ɳ]  = "n" with tongue curled (retroflex)
+[ʈ]  = "t" with tongue curled (retroflex)
+[ɖ]  = "d" with tongue curled (retroflex)
+[dʑ] = "j" in "judge" (palatal)
+[ɖʐ] = "j" with tongue curled (retroflex)
+[bʱ] = "b" + breathy voice
+[dʱ] = "d" + breathy voice
+[ɡʱ] = "g" + breathy voice
+
+TONE MARKS (Mandarin):
+[˥˥] = Tone 1 (high level)
+[˧˥] = Tone 2 (rising)
+[˨˩˦] = Tone 3 (dip and rise)
+[˥˩] = Tone 4 (falling)
+
+STRESS MARKS:
+Primary stress: [ˈ] before stressed syllable
+Secondary stress: [ˌ] before syllable
+Example: [ˌɐvɐloːkiˈteːɕvɐrɐ]
+
+================================================================================
+SECTION 6: QUICK REFERENCE INDEX
+================================================================================
+
+MOST FREQUENTLY OCCURRING NAMES (Alphabetical)
+--------------------------------------------------------------------------------
+
+Ānanda               [AH-nahn-dah]           Buddha's attendant
+Avalokiteśvara       [ah-vah-loh-kee-tay-    Compassion Bodhisattva
+                      SHVAH-rah]
+Mahākāśyapa          [mah-HAH-KAHSH-yah-pah] Senior disciple
+Maitreya             [my-TRAY-ah]            Future Buddha
+Mañjuśrī             [MAHN-joo-SHREE]        Wisdom Bodhisattva
+Samantabhadra        [sah-MAHN-tah-BHAH-     Practice Bodhisattva
+                      drah]
+Śākyamuni            [SHAH-kyah-MOO-nee]     Historical Buddha
+Śāriputra            [SHAH-ree-POO-trah]     Chief disciple
+
+MOST FREQUENTLY OCCURRING TERMS (Alphabetical)
+--------------------------------------------------------------------------------
+
+arhat                [AHR-haht]              Liberated disciple
+bodhi                [BOH-dee]               Enlightenment
+bodhisattva          [boh-dee-SAHT-vah]      Enlightenment-being
+dharma/Dharma        [DHAR-mah]              Teaching/phenomenon
+dhāraṇī              [dah-RAH-nee]           Protective formula
+nirvāṇa              [neer-VAH-nah]          Liberation
+samādhi              [sah-MAH-dee]           Meditative absorption
+Tathāgata            [tah-TAH-gah-tah]       Thus-Come One
+upāya                [oo-PAH-yah]            Skillful means
+
+PINYIN QUICK REFERENCE (Most Common)
+--------------------------------------------------------------------------------
+
+Miào Fǎ Liánhuá Jīng [mee-OW fah lee-AHN     Lotus Sutra title
+                       hwah jing]
+Guānshìyīn           [gwahn-shir-YEEN]       Avalokiteśvara
+Pǔxián               [poo-shyen]             Samantabhadra
+fāngbiàn             [fahng-byen]            Skillful means
+púsà                 [poo-SAH]               Bodhisattva
+Fó                   [foh]                   Buddha
+Námó                 [NAH-mwoh]              Homage
+
+CHAPTER TITLE REFERENCE
+--------------------------------------------------------------------------------
+
+All chapter titles in Chinese have been converted to pinyin in the production
+manuscript. See full list in PINYIN_CONVERSION_GUIDE.txt.
+
+Examples:
+Chapter 20: Cháng Bù Qīng Púsà Pǐn Dì Èrshí
+Chapter 22: Zhǔlěi Pǐn Dì Èrshíèr
+Chapter 23: Yàowáng Púsà Běnshì Pǐn Dì Èrshísān
+Chapter 25: Guānshìyīn Púsà Pǔmén Pǐn Dì Èrshíwǔ
+Chapter 26: Tuóluóní Pǐn Dì Èrshíliù
+
+================================================================================
+GEMINI AI VOICE SYNTHESIS NOTES
+================================================================================
+
+FOR CHINESE PINYIN:
+- Gemini will read pinyin phonetically using English rules
+- Tone marks will be interpreted as prosodic/pitch cues
+- Result: Phonetic approximation of Chinese (acceptable quality)
+- Example: "Miào Fǎ Liánhuá Jīng" → "mee-OW fah lee-AHN-hwah jing"
+
+FOR SANSKRIT DIACRITICS:
+- Gemini will approximate Sanskrit sounds using English phonemes
+- ś → "SH", ṇ → "N", ū → "OO", ā → "AH", ṃ → "M"
+- Result: Anglicized but consistent Sanskrit pronunciation
+- Example: "Śāriputra" → "shah-REE-poo-trah"
+
+BOTH approaches produce intelligible, consistent audio suitable for
+professional audiobook production with English-speaking audiences.
+
+================================================================================
+FOR QUESTIONS OR CORRECTIONS
+================================================================================
+
+This pronunciation guide is designed for:
+1. Voice actors preparing to record
+2. Gemini AI voice synthesis configuration
+3. Listeners unfamiliar with Buddhist terminology
+4. Quality assurance reviewers
+
+For technical details on Gemini API implementation, see:
+PRODUCTION_VOICE_SPECS.txt
+
+For complete list of Chinese conversions, see:
+PINYIN_CONVERSION_GUIDE.txt
+
+================================================================================
+END OF PRONUNCIATION MASTER GUIDE
+================================================================================

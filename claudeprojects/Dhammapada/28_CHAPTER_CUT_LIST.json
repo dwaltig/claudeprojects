@@ -1,0 +1,56 @@
+{
+  "reconstruction_plan": {
+    "total_chapters": 28,
+    "operations": [
+      {
+        "step": 1,
+        "action": "split_chapter_14",
+        "source_file": "Chapter_14_Buddha_Complete.md",
+        "parts": [
+          {
+            "chapter_number": 14,
+            "title": "The Buddha",
+            "verse_range": [179, 187],
+            "filename": "Chapter_14_Buddha_Complete.md"
+          },
+          {
+            "chapter_number": 15,
+            "title": "The Tathagata",
+            "verse_range": [188, 196],
+            "filename": "Chapter_15_Tathagata_Complete.md"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "action": "shift_chapters",
+        "range_start": 15,
+        "range_end": 25,
+        "increment": 1,
+        "note": "Rename Chapter_15 -> Chapter_16, etc. Do this in reverse order (25->26) to avoid collisions."
+      },
+      {
+        "step": 3,
+        "action": "split_chapter_26",
+        "source_file": "Chapter_26_Brahmin_Complete.md",
+        "parts": [
+          {
+            "chapter_number": 27,
+            "title": "Nirvana",
+            "verse_composition": [
+              {"start": 383, "end": 386},
+              {"start": 411, "end": 423}
+            ],
+            "filename": "Chapter_27_Nirvana_Complete.md"
+          },
+          {
+            "chapter_number": 28,
+            "title": "The Brahmin",
+            "verse_range": [387, 410],
+            "filename": "Chapter_28_Brahmin_Complete.md"
+          }
+        ]
+      }
+    ]
+  }
+}

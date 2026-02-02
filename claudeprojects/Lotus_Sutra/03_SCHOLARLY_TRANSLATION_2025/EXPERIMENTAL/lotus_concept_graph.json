@@ -1,0 +1,5268 @@
+{
+  "metadata": {
+    "title": "Lotus Sutra Concept Graph",
+    "description": "186 Buddhist concepts with relationships, Sanskrit terms, and chapter references",
+    "total_concepts": 186,
+    "phase1_launch": 75,
+    "phase2_expansion": 75,
+    "phase3_completion": 36,
+    "total_relationships": 77,
+    "version": "1.0"
+  },
+  "concepts": [
+    {
+      "id": "anuttara_samyak_sambodhi",
+      "term": "Anuttara-Samyak-Sambodhi",
+      "english_desc": "Unsurpassed Perfect Enlightenment",
+      "sanskrit": "अनुत्तर-समयक्-संबोधि",
+      "definition": "The supreme state of perfect wisdom and enlightenment achieved by Buddhas. Literally \"unsurpassed correct universal awakening.\" This represents complete knowledge of all phenomena, the cessation of ignorance, and perfect liberation from suffering.",
+      "chapters": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        12,
+        16,
+        20,
+        25,
+        28
+      ],
+      "related_concepts": [
+        "buddha-nature",
+        "enlightenment",
+        "bodhi",
+        "wisdom"
+      ],
+      "importance": "core",
+      "depth": 11,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 7,
+          "text": "\"The Buddha told the monks: 'Great Penetrating Wisdom Victory, when first sitting at the Bodhisattva...",
+          "full_text": "\"The Buddha told the monks: 'Great Penetrating Wisdom Victory, when first sitting at the Bodhisattva-tree, having defeated the armies of Māra, was on the verge of attaining anuttara-samyak-sambodhi (supreme enlightenment), yet the dharmas of all Buddhas did not manifest before him. Thus he sat in full lotus position, his body and mind unmoved, for one small kalpa—and up to ten small kalpas—yet still the dharmas did not appear before him.'⁶"
+        }
+      ],
+      "launch_score": 54,
+      "phase": "phase1"
+    },
+    {
+      "id": "avalokite_vara",
+      "term": "Avalokiteśvara",
+      "english_desc": "The Bodhisattva of Universal Compassion",
+      "sanskrit": "अवलोकितेश्वर (Avalokiteśvara) or 觀世音菩薩 (Guanyin in Chinese)",
+      "definition": "The Bodhisattva of Compassion who perceives the sounds of suffering throughout all realms and responds immediately with compassionate intervention. Manifests in thirty-three forms adapted to each being's condition.",
+      "chapters": [
+        12,
+        28
+      ],
+      "related_concepts": [
+        "compassion",
+        "bodhisattva",
+        "manifestation",
+        "upaya",
+        "mercy"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "arjuna_tree",
+      "term": "Arjuna Tree",
+      "english_desc": "",
+      "sanskrit": "अर्जुन or 阿周那樹",
+      "definition": "A tree with branches splitting into seven equal parts, used metaphorically in Chapter 26 to describe the karma of criticizing practitioners (head split into seven pieces like the branches).",
+      "chapters": [
+        26
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "ikya",
+      "term": "Āśikya",
+      "english_desc": "Disciple Order",
+      "sanskrit": "आश्रय",
+      "definition": "The community of disciples who have received the Buddha's teaching and organized themselves into a structured order or sangha (community).",
+      "chapters": [
+        7,
+        8,
+        13,
+        22,
+        26,
+        28
+      ],
+      "related_concepts": [
+        "sangha",
+        "community",
+        "monastic-order"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "bodhisattva",
+      "term": "Bodhisattva",
+      "english_desc": "Enlightenment-Aspirant",
+      "sanskrit": "बोधिसत्त्व (Bodhisattva)",
+      "definition": "A being who has vowed to achieve enlightenment for the benefit of all sentient beings. Possesses advanced spiritual cultivation but has not yet achieved Buddhahood. The Lotus Sutra teaches that all beings are bodhisattvas in potential.",
+      "chapters": [
+        6,
+        7,
+        8,
+        12,
+        14,
+        15,
+        20,
+        23,
+        24,
+        25,
+        27
+      ],
+      "related_concepts": [
+        "buddha-nature",
+        "enlightenment",
+        "vow",
+        "compassion"
+      ],
+      "importance": "core",
+      "depth": 11,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 7,
+          "text": "\"The Buddha told the monks: 'Great Penetrating Wisdom Victory, when first sitting at the Bodhisattva...",
+          "full_text": "\"The Buddha told the monks: 'Great Penetrating Wisdom Victory, when first sitting at the Bodhisattva-tree, having defeated the armies of Māra, was on the verge of attaining anuttara-samyak-sambodhi (supreme enlightenment), yet the dharmas of all Buddhas did not manifest before him. Thus he sat in full lotus position, his body and mind unmoved, for one small kalpa—and up to ten small kalpas—yet still the dharmas did not appear before him.'⁶"
+        },
+        {
+          "chapter": 7,
+          "text": "'At that time, the gods of Trāyastriṃśa heaven first spread a lion-seat beneath the Bodhisattva-tree...",
+          "full_text": "'At that time, the gods of Trāyastriṃśa heaven first spread a lion-seat beneath the Bodhisattva-tree, high one yojana. The Buddha would attain supreme enlightenment upon this seat. As soon as he sat upon it, the Brahmā-kings rained celestial flowers, covering the earth a hundred yojanas. The divine fragrance came in gentle breezes, blowing away the withered flowers and raining down fresh ones continuously for ten small kalpas, supplying the Buddha. Even until his final nirvana, the flowers constantly rained down. The Four Kings of the cardinal directions struck celestial drums to honor the Buddha. The remaining gods created celestial music, continuing for ten small kalpas until his final nirvana, likewise.'⁷"
+        },
+        {
+          "chapter": 8,
+          "text": "\"'Do not think, monks, that Furūṇa merely protects and assists my dharma. He also protected and assi...",
+          "full_text": "\"'Do not think, monks, that Furūṇa merely protects and assists my dharma. He also protected and assisted the correct dharma of nine hundred billion Buddhas in the past, and was foremost in preaching among them. Moreover, he clearly understood and penetrated the dharma of emptiness taught by those Buddhas, acquired the four unobstructed knowledges, always taught the dharma with complete clarity without doubt, and possessed the supernatural powers of the Bodhisattva. Throughout his lifespan, he constantly practiced the brahmacarya, and by these skillful means benefited immeasurable hundreds of thousands of myriads of beings, and transformed immeasurable aeons of beings to establish them in supreme enlightenment, purifying Buddha-lands, constantly accomplishing Buddha-deeds, and teaching and transforming beings.'⁵"
+        },
+        {
+          "chapter": 8,
+          "text": "'Furthermore, Furūṇa was foremost in preaching among the dharma-teachers of the Seven Buddhas. In my...",
+          "full_text": "'Furthermore, Furūṇa was foremost in preaching among the dharma-teachers of the Seven Buddhas. In my assembly, he is also foremost among dharma-teachers. Among the Buddhas of the Worthy Kalpa yet to come, he shall also be foremost among dharma-teachers. He shall protect, assist, and proclaim the correct dharma of immeasurable innumerable Buddhas, teach and benefit immeasurable beings, and establish them in supreme enlightenment. Gradually perfecting the Bodhisattva-path, after immeasurable aeons, he shall attain supreme enlightenment in this realm, bearing the Buddha-name Dharma-Illumination Tathāgata, Worthy One, Perfectly Enlightened One, Possessor of Luminous Conduct, Well-Gone One, Knower of the World, Unsurpassed One, Tamer of Beings, Teacher of Gods and Humans, Buddha, World-Honored One.'\"⁶"
+        }
+      ],
+      "launch_score": 54,
+      "phase": "phase1"
+    },
+    {
+      "id": "buddha",
+      "term": "Buddha",
+      "english_desc": "Awakened One",
+      "sanskrit": "बुद्ध (Buddha)",
+      "definition": "One who has achieved complete enlightenment and perfect wisdom. Has transcended all delusion, suffering, and karmic limitation. The Lotus Sutra emphasizes that all beings can and will become Buddhas.",
+      "chapters": [
+        2,
+        3,
+        6,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "enlightenment",
+        "tathāgata",
+        "buddhahood",
+        "anuttara-samyak-sambodhi"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "The attainment of all the Buddhas.",
+          "full_text": "The attainment of all the Buddhas."
+        },
+        {
+          "chapter": 2,
+          "text": "Those seeking the pratyekabuddha vehicle,",
+          "full_text": "Those seeking the pratyekabuddha vehicle,"
+        }
+      ],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "buddha_nature",
+      "term": "Buddha-Nature",
+      "english_desc": "Buddha-Essence",
+      "sanskrit": "बुद्धधातु (Buddha-dhātu) or 佛性 (Buddha-xìng)",
+      "definition": "The fundamental nature or essence present in all beings that enables them to achieve Buddhahood. Not a permanent soul, but rather the capacity for enlightenment inherent in all sentient existence. The Lotus Sutra's central doctrine: all beings possess Buddha-nature and will inevitably attain enlightenment.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        12,
+        13,
+        15,
+        16,
+        20,
+        21,
+        25,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "enlightenment-capacity",
+        "universal-salvation",
+        "one-vehicle"
+      ],
+      "importance": "core",
+      "depth": 17,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "buddhahood",
+      "term": "Buddhahood",
+      "english_desc": "State of Buddha",
+      "sanskrit": "बुद्धत्व (Buddhatva)",
+      "definition": "The ultimate state of complete enlightenment and perfect wisdom. The goal toward which all beings aspire. The Lotus Sutra teaches that Buddhahood is not exclusive to a chosen few but is the inevitable destiny of all sentient beings.",
+      "chapters": [
+        2,
+        6,
+        7,
+        8,
+        12,
+        16,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "enlightenment",
+        "perfection",
+        "buddha",
+        "anuttara-samyak-sambodhi"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Together with all who seek Buddhahood,",
+          "full_text": "Together with all who seek Buddhahood,"
+        }
+      ],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "consciousness",
+      "term": "Consciousness",
+      "english_desc": "Vijñāna",
+      "sanskrit": "विज्ञान (Vijñāna)",
+      "definition": "In Buddhist psychology, the discriminating mind that perceives and categorizes phenomena. One of the five aggregates (skandhas) that constitute a sentient being. Not a unified self, but a continual process of perceiving, categorizing, and responding to stimuli.",
+      "chapters": [
+        1,
+        4,
+        9,
+        16,
+        19,
+        20,
+        24,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "mind",
+        "vijñāna-skandha",
+        "perception",
+        "discrimination"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "dharma_eye",
+      "term": "Dharma-Eye",
+      "english_desc": "Dharma Vision",
+      "sanskrit": "धर्मचक्षु (Dharma-cakṣu)",
+      "definition": "The spiritual eye that perceives dharmic truth directly, transcending conceptual understanding. One of the five eyes (physical eye, divine eye, wisdom eye, dharma eye, Buddha eye). Represents direct perception of Buddhist reality rather than intellectual knowledge.",
+      "chapters": [
+        1,
+        4,
+        27
+      ],
+      "related_concepts": [
+        "five-eyes",
+        "wisdom",
+        "direct-perception",
+        "enlightenment"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 20,
+      "phase": "phase2"
+    },
+    {
+      "id": "divine_eye",
+      "term": "Divine Eye",
+      "english_desc": "",
+      "sanskrit": "दिव्यचक्षु (Divya-cakṣu)",
+      "definition": "The supernatural eye that perceives all realms and all beings, transcending physical distance and dimensional barriers. Represents expanded perception beyond ordinary sensory limitation.",
+      "chapters": [
+        19,
+        25
+      ],
+      "related_concepts": [
+        "five-eyes",
+        "supernatural-powers",
+        "omniscience"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 17,
+      "phase": "phase2"
+    },
+    {
+      "id": "dharma",
+      "term": "Dharma",
+      "english_desc": "Teaching/Law/Phenomenon",
+      "sanskrit": "धर्म (Dharma)",
+      "definition": "Has multiple meanings in Buddhist texts: (1) the Buddha's teaching or doctrine; (2) the ultimate law governing all phenomena; (3) individual phenomena or dharmas (the ultimate atomic units of reality in Abhidharma). The Lotus Sutra emphasizes dharma as the Buddha's supreme teaching that must be transmitted to all beings.",
+      "chapters": [
+        2,
+        3,
+        9,
+        10,
+        13,
+        17,
+        18,
+        19,
+        22,
+        26
+      ],
+      "related_concepts": [
+        "dharma-transmission",
+        "truth",
+        "law",
+        "teaching",
+        "one-vehicle"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Long have you refrained from speaking this dharma,",
+          "full_text": "Long have you refrained from speaking this dharma,"
+        },
+        {
+          "chapter": 2,
+          "text": "Meditations, liberations, and other inconceivable dharmas.",
+          "full_text": "Meditations, liberations, and other inconceivable dharmas."
+        },
+        {
+          "chapter": 9,
+          "text": "Moreover, we are known throughout the entire world of gods, humans, and asuras. Ānanda constantly se...",
+          "full_text": "Moreover, we are known throughout the entire world of gods, humans, and asuras. Ānanda constantly serves as the Buddha's attendant and protects the dharma-treasury. Rāhula is the Buddha's son. If the Buddha would grant us prophecies of supreme enlightenment, our wishes would be fulfilled and the assembly's expectations would be satisfied.'\"³"
+        },
+        {
+          "chapter": 9,
+          "text": "You shall make offerings to sixty-two billion Buddhas, protecting the dharma-treasury, and then atta...",
+          "full_text": "You shall make offerings to sixty-two billion Buddhas, protecting the dharma-treasury, and then attain supreme enlightenment. You shall teach and transform twenty thousand billion billions of Gangetic-sand-numerous Bodhisattvas, causing them to attain supreme enlightenment.⁸"
+        }
+      ],
+      "launch_score": 55,
+      "phase": "phase1"
+    },
+    {
+      "id": "dharma_blossom",
+      "term": "Dharma-Blossom",
+      "english_desc": "Lotus Sutra",
+      "sanskrit": "सद्धर्मपुण्डरीक (Saddharma-Puṇḍarīka) or 妙法蓮華經 (Wonderful-Law Lotus Sutra)",
+      "definition": "The supreme teaching of the Buddha that reveals universal enlightenment, the one-vehicle doctrine, and the eternal transmission of dharma. The \"blossom\" or flower represents the opening of consciousness to enlightenment. The lotus symbolizes enlightenment arising from the mud of suffering.",
+      "chapters": [
+        2,
+        3,
+        4,
+        10,
+        13,
+        16,
+        19,
+        22,
+        26
+      ],
+      "related_concepts": [
+        "supreme-teaching",
+        "truth",
+        "revelation",
+        "enlightenment"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "dharma_transmission",
+      "term": "Dharma-Transmission",
+      "english_desc": "Dharma-Continuation",
+      "sanskrit": "धर्मप्रवाह (Dharma-pravāha) or 法傳 (Dharma-chuán)",
+      "definition": "The eternal passing of Buddha's teaching from Buddha to bodhisattva to all sentient beings. Not merely the communication of information but the continuation of awakening-energy across infinite eons and realms. The Lotus Sutra's central concern: ensuring dharma perpetuates eternally through all beings' commitment to transmission.",
+      "chapters": [
+        4,
+        5,
+        10,
+        13,
+        14,
+        17,
+        18,
+        19,
+        22,
+        23
+      ],
+      "related_concepts": [
+        "dharma",
+        "teaching",
+        "continuity",
+        "bodhisattva-vow",
+        "eternal"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 55,
+      "phase": "phase1"
+    },
+    {
+      "id": "dharani",
+      "term": "Dharani",
+      "english_desc": "Protective Formula/Mantra",
+      "sanskrit": "धारणी (Dhāraṇī) or 陀羅尼 (Tuóluóní)",
+      "definition": "Sacred syllabic formulas (mantras) that embody protective or transformative power. Unlike ordinary language, dharanis are understood to activate spiritual presence and protection through sonic resonance rather than semantic meaning. The Lotus Sutra emphasizes mantric protection for dharma-teachers.",
+      "chapters": [
+        19,
+        26
+      ],
+      "related_concepts": [
+        "mantra",
+        "sacred-sound",
+        "protection",
+        "magic",
+        "spell"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "enlightenment",
+      "term": "Enlightenment",
+      "english_desc": "Bodhi",
+      "sanskrit": "बोधि (Bodhi) or 菩提 (Pútí)",
+      "definition": "Awakening, enlightenment, the ultimate goal of Buddhist practice. The state of being awakened to the true nature of reality—the absence of substantive self, the interdependence of all phenomena, the possibility of liberation from suffering.",
+      "chapters": [
+        2,
+        3,
+        6,
+        15,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "bodhi-tree",
+        "bodhi-mind",
+        "awakening",
+        "enlightenment"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "The dharma obtained upon the seat of enlightenment,",
+          "full_text": "The dharma obtained upon the seat of enlightenment,"
+        }
+      ],
+      "launch_score": 38,
+      "phase": "phase1"
+    },
+    {
+      "id": "enlightenment_capacity",
+      "term": "Enlightenment-Capacity",
+      "english_desc": "Buddha-Potential",
+      "sanskrit": "बोधिसमग्र (Bodhi-samāgra)",
+      "definition": "The inherent capacity present in all beings to achieve enlightenment. Not a fixed thing but a dynamic potential that, once activated, inevitably leads to complete enlightenment. The Lotus Sutra emphasizes this capacity as universal and unconditional.",
+      "chapters": [
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        12,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "buddha-nature",
+        "potential",
+        "capacity",
+        "awakening"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 54,
+      "phase": "phase1"
+    },
+    {
+      "id": "extinction_of_defilements",
+      "term": "Extinction-of-Defilements",
+      "english_desc": "Nirvana",
+      "sanskrit": "निर्वाण (Nirvāṇa)",
+      "definition": "Often misunderstood as \"nothingness\" or \"extinction,\" actually means the cessation of ignorance and craving that cause suffering. Not the end of existence but the end of suffering through the elimination of mental defilements (greed, hatred, delusion). The Lotus Sutra reveals that nirvana is not separate from samsara (the cycle of suffering) but rather the same reality perceived without deluded attachment.",
+      "chapters": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        8,
+        10,
+        16,
+        20,
+        25,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "liberation",
+        "cessation",
+        "freedom",
+        "suffering-cessation",
+        "samsara"
+      ],
+      "importance": "core",
+      "depth": 12,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 55,
+      "phase": "phase1"
+    },
+    {
+      "id": "five_aggregates",
+      "term": "Five Aggregates",
+      "english_desc": "Skandhas",
+      "sanskrit": "पञ्चस्कन्ध (Pañca-skandha) or 五蘊 (Wǔ-yùn)",
+      "definition": "The five components that constitute a sentient being according to Buddhist analysis: (1) Form/Matter (rūpa), (2) Sensation/Feeling (vedanā), (3) Perception (saṃjñā), (4) Mental formations (saṃskāra), (5) Consciousness (vijñāna). Buddhist analysis shows that no permanent self exists behind these aggregates—the illusion of a permanent self arises from misidentifying with these constantly-changing components.",
+      "chapters": [
+        4,
+        9,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "self",
+        "ego",
+        "consciousness",
+        "non-self"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "five_eyes",
+      "term": "Five Eyes",
+      "english_desc": "Pañca-Cakṣu",
+      "sanskrit": "पञ्चचक्षु (Pañca-cakṣu) or 五眼 (Wǔ-yǎn)",
+      "definition": "Five progressive levels of perception: (1) Physical eye (ordinary vision), (2) Divine eye (superhuman vision transcending distance and dimension), (3) Wisdom eye (perceiving phenomena's true nature), (4) Dharma eye (perceiving dharmic truth), (5) Buddha eye (perceiving all phenomena simultaneously across all realms). Represents progressively refined perception from ordinary to perfect enlightenment.",
+      "chapters": [
+        19,
+        25
+      ],
+      "related_concepts": [
+        "perception",
+        "wisdom",
+        "enlightenment",
+        "divine-eye",
+        "dharma-eye"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "six_perfections",
+      "term": "Six Perfections",
+      "english_desc": "Ṣaḍ-Pāramitā",
+      "sanskrit": "षड्पारमिता (Ṣaḍ-pāramitā) or 六波羅蜜 (Liù-bōluómì)",
+      "definition": "Six transcendent virtues that bodhisattvas cultivate to achieve enlightenment: (1) Generosity (dāna), (2) Moral discipline (śīla), (3) Patience (kṣānti), (4) Vigor/Effort (vīrya), (5) Meditation/Concentration (dhyāna), (6) Wisdom/Insight (prajñā). The Lotus Sutra reveals that all beings cultivating these perfections will eventually attain Buddhahood.",
+      "chapters": [
+        3,
+        10,
+        27
+      ],
+      "related_concepts": [
+        "virtue",
+        "bodhisattva-path",
+        "moral-discipline",
+        "wisdom"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 20,
+      "phase": "phase2"
+    },
+    {
+      "id": "six_senses",
+      "term": "Six Senses",
+      "english_desc": "Ṣaḍ-Indriya",
+      "sanskrit": "षडिन्द्रिय (Ṣaḍ-indriya) or 六根 (Liù-gēn)",
+      "definition": "The six sense faculties in Buddhist psychology: (1) Eye, (2) Ear, (3) Nose, (4) Tongue, (5) Body, (6) Mind. In Buddhist analysis, mind is treated as a sixth sense that perceives mental objects just as the eye perceives visual objects. Dharma-teachers develop perfected versions of these six senses through enlightenment.",
+      "chapters": [
+        19,
+        20
+      ],
+      "related_concepts": [
+        "sense-faculties",
+        "perception",
+        "consciousness",
+        "mind"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 18,
+      "phase": "phase2"
+    },
+    {
+      "id": "karma",
+      "term": "Karma",
+      "english_desc": "Action and Consequence",
+      "sanskrit": "कर्म (Karma) or 業 (Yè)",
+      "definition": "Action and its natural consequences. Not an external judgment or punishment but rather the natural law governing how actions produce results. Positive actions naturally produce positive consequences; negative actions naturally produce negative consequences. The Lotus Sutra teaches that even harming dharma-teachers inevitably produces karmic consequences.",
+      "chapters": [
+        7,
+        8,
+        12,
+        20,
+        23,
+        26
+      ],
+      "related_concepts": [
+        "causation",
+        "consequence",
+        "action",
+        "rebirth",
+        "natural-law"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 37,
+      "phase": "phase1"
+    },
+    {
+      "id": "karmic_root",
+      "term": "Karmic Root",
+      "english_desc": "Seed",
+      "sanskrit": "कर्मबीज (Karma-bīja) or 業根 (Yè-gēn)",
+      "definition": "The karmic seeds planted through past actions that inevitably mature in the future. The Lotus Sutra teaches that bodhisattva-roots planted long ago are now awakening. These roots represent the karmic consequences of past dharma-engagement that create conditions for present enlightenment.",
+      "chapters": [
+        4,
+        6,
+        7,
+        8,
+        12,
+        20,
+        23,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "karma",
+        "causation",
+        "root",
+        "seed",
+        "potential"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "liberation",
+      "term": "Liberation",
+      "english_desc": "Mokṣa or Vimukti",
+      "sanskrit": "मोक्ष (Mokṣa) or विमुक्ति (Vimukti) or 解脫 (Jiětuō)",
+      "definition": "Freedom from the cycle of suffering (samsara) through the cessation of ignorance and craving. The ultimate goal of Buddhist practice. The Lotus Sutra emphasizes that all beings will eventually achieve liberation—no being is permanently condemned to suffering.",
+      "chapters": [
+        2,
+        3,
+        5,
+        6,
+        10,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "freedom",
+        "liberation",
+        "emancipation",
+        "nirvana",
+        "enlightenment"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Meditations, liberations, and other inconceivable dharmas.",
+          "full_text": "Meditations, liberations, and other inconceivable dharmas."
+        },
+        {
+          "chapter": 5,
+          "text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality...",
+          "full_text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality, and cessation, culminating in all-knowing wisdom. It ultimately reaches the realm of emptiness. Among beings who hear the Tathāgata's teaching, whether they uphold and recite it, read it, or practice it as taught, the merit they obtain is beyond their own awareness.¹³"
+        },
+        {
+          "chapter": 5,
+          "text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior...",
+          "full_text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior, or middling, even so, the Tathāgata knows the single-taste dharma—the taste of liberation, non-duality, cessation, nirvana, the peace of final quiescence, ultimately reaching emptiness. Knowing this, the Tathāgata observes beings' desires and needs and protects them accordingly. Therefore, the Tathāgata does not immediately teach all-knowing wisdom to all beings.\"¹⁵"
+        }
+      ],
+      "launch_score": 39,
+      "phase": "phase1"
+    },
+    {
+      "id": "manifestation",
+      "term": "Manifestation",
+      "english_desc": "Nirmāṇa",
+      "sanskrit": "निर्माण (Nirmāṇa) or 應化 (Yìnghuà)",
+      "definition": "The appearance of a bodhisattva or Buddha in adapted form suited to each being's condition and capacity. Not a true change of form but rather multiple simultaneous appearances of the same enlightened being in different bodies and dimensions. Represents the principle that compassion can take any form necessary to teach.",
+      "chapters": [
+        24,
+        25,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "form",
+        "appearance",
+        "upaya",
+        "multiple-bodies",
+        "non-locality"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "merit",
+      "term": "Merit",
+      "english_desc": "Punya",
+      "sanskrit": "पुण्य (Puṇya) or 福德 (Fúdé)",
+      "definition": "Accumulated spiritual benefit resulting from virtuous actions. Not a substance but rather the natural good consequences (karmic results) of positive actions, dharma-practice, and ethical conduct. The Lotus Sutra teaches that even a small amount of dharma-engagement produces immeasurable merit.",
+      "chapters": [
+        18,
+        19,
+        22,
+        25,
+        26
+      ],
+      "related_concepts": [
+        "virtue",
+        "karma",
+        "benefit",
+        "spiritual-attainment",
+        "good"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "mind",
+      "term": "Mind",
+      "english_desc": "Citta",
+      "sanskrit": "चित्त (Citta) or 心 (Xīn)",
+      "definition": "In Buddhist psychology, the mind is the coordinating center of experience that produces intention, emotion, and conceptual thought. Not a unified controller but rather a process of mental moments continuously arising and passing. The Lotus Sutra emphasizes that the Buddha-mind and sentient-mind are fundamentally the same.",
+      "chapters": [
+        4,
+        9,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "consciousness",
+        "intention",
+        "thought",
+        "mental-activity",
+        "awareness"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "monastic_ordination",
+      "term": "Monastic Ordination",
+      "english_desc": "Pravarajaṇa",
+      "sanskrit": "प्रव्रज्य (Pravrajyā) or 出家 (Chūjiā)",
+      "definition": "The formal renunciation of household life to become a Buddhist monk or nun. The Lotus Sutra presents monastic ordination as the ultimate commitment to dharma-transmission and enlightenment-pursuit.",
+      "chapters": [
+        6,
+        7,
+        8,
+        12,
+        13,
+        27
+      ],
+      "related_concepts": [
+        "monk",
+        "nun",
+        "renunciation",
+        "household-abandonment",
+        "commitment"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 37,
+      "phase": "phase1"
+    },
+    {
+      "id": "sangha",
+      "term": "Sangha",
+      "english_desc": "Community",
+      "sanskrit": "संघ (Saṃgha) or 僧伽 (Sēnggā)",
+      "definition": "The community of Buddhist practitioners. Traditionally the monastic community, but the Lotus Sutra expands this to include all practitioners (lay and monastic) united in dharma-transmission. The sangha functions as the third jewel alongside Buddha and dharma.",
+      "chapters": [
+        10,
+        13,
+        14,
+        22,
+        26
+      ],
+      "related_concepts": [
+        "community",
+        "assembly",
+        "collective",
+        "practitioners",
+        "buddhist-order"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "non_duality",
+      "term": "Non-Duality",
+      "english_desc": "Advaita",
+      "sanskrit": "अद्वैत (Advaita) or 不二 (Búèr)",
+      "definition": "The fundamental non-separation of opposed concepts: samsara and nirvana, self and other, matter and consciousness, etc. Not the elimination of distinctions but rather the recognition that apparent opposites are aspects of a unified reality. The Lotus Sutra teaches that all dharmas are ultimately non-dual.",
+      "chapters": [
+        1,
+        2,
+        3,
+        5,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [
+        "unity",
+        "non-separation",
+        "wholeness",
+        "integration",
+        "completeness"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 5,
+          "text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality...",
+          "full_text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality, and cessation, culminating in all-knowing wisdom. It ultimately reaches the realm of emptiness. Among beings who hear the Tathāgata's teaching, whether they uphold and recite it, read it, or practice it as taught, the merit they obtain is beyond their own awareness.¹³"
+        },
+        {
+          "chapter": 5,
+          "text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior...",
+          "full_text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior, or middling, even so, the Tathāgata knows the single-taste dharma—the taste of liberation, non-duality, cessation, nirvana, the peace of final quiescence, ultimately reaching emptiness. Knowing this, the Tathāgata observes beings' desires and needs and protects them accordingly. Therefore, the Tathāgata does not immediately teach all-knowing wisdom to all beings.\"¹⁵"
+        }
+      ],
+      "launch_score": 39,
+      "phase": "phase1"
+    },
+    {
+      "id": "non_self",
+      "term": "Non-Self",
+      "english_desc": "Anātman",
+      "sanskrit": "अनात्मन् (Anātman) or 無我 (Wúwǒ)",
+      "definition": "The absence of a permanent, unchanging self or soul. Buddhist analysis reveals that what we call \"self\" is actually a constantly-changing collection of skandhas (aggregates) with no unchanging core. The doctrine of non-self undercuts attachment and opens the possibility of enlightenment.",
+      "chapters": [
+        4,
+        5,
+        9,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "self",
+        "soul",
+        "essence",
+        "impermanence",
+        "interdependence"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 37,
+      "phase": "phase1"
+    },
+    {
+      "id": "one_vehicle",
+      "term": "One-Vehicle",
+      "english_desc": "Ekayāna",
+      "sanskrit": "एकयान (Ekayāna) or 一乘 (Yīshèng)",
+      "definition": "The ultimate teaching that all beings, regardless of their present capacity or condition, will achieve Buddhahood through the same supreme path. Contradicts the apparent doctrine of multiple vehicles (śrāvaka-vehicle, pratyekabuddha-vehicle, bodhisattva-vehicle) to reveal that all vehicles are ultimately means to the single final goal of Buddhahood. The Lotus Sutra's central revelation.",
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        13,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "universality",
+        "enlightenment",
+        "buddha-nature",
+        "salvation",
+        "inclusivity"
+      ],
+      "importance": "core",
+      "depth": 11,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "All speak the one-vehicle path—",
+          "full_text": "All speak the one-vehicle path—"
+        },
+        {
+          "chapter": 2,
+          "text": "All taught the one-vehicle dharma,",
+          "full_text": "All taught the one-vehicle dharma,"
+        }
+      ],
+      "launch_score": 55,
+      "phase": "phase1"
+    },
+    {
+      "id": "perception",
+      "term": "Perception",
+      "english_desc": "Saṃjñā",
+      "sanskrit": "संज्ञा (Saṃjñā) or 想 (Xiǎng)",
+      "definition": "The cognitive faculty that recognizes and labels phenomena, associating names with objects. One of the five aggregates. The faculty that constructs the conceptual world through linguistic and categorical identification. Buddhist practice involves becoming aware of how perception constructs reality.",
+      "chapters": [
+        4,
+        9,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "recognition",
+        "labeling",
+        "categorization",
+        "concept",
+        "idea"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "prophecy",
+      "term": "Prophecy",
+      "english_desc": "Vyākaraṇa",
+      "sanskrit": "व्याकरण (Vyākaraṇa) or 授記 (Shòujì)",
+      "definition": "The Buddha's formal prediction of future Buddhahood for specific disciples or beings. Represents the Buddha's exhaustive knowledge of all beings' futures and his authoritative declaration of their inevitable enlightenment. In the Lotus Sutra, receiving a prophecy assures the recipient of eventual Buddhahood.",
+      "chapters": [
+        7,
+        8,
+        12,
+        13,
+        16
+      ],
+      "related_concepts": [
+        "prediction",
+        "assurance",
+        "future-buddhahood",
+        "destiny",
+        "determination"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 8,
+          "text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We...",
+          "full_text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We are delighted to have obtained what was never obtained before. If the World-Honored One were to grant each of us prophecy, just as he granted to the other great disciples, would this not be excellent?' The Buddha, knowing the thoughts of these beings, told Mahākāśyapa: 'These twelve hundred arhats—I shall now grant them, in sequential order in my presence, prophecies of supreme enlightenment."
+        }
+      ],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "samsara",
+      "term": "Samsara",
+      "english_desc": "Cycle of Suffering",
+      "sanskrit": "संसार (Saṃsāra) or 輪迴 (Lúnhuí)",
+      "definition": "The endless cycle of rebirth driven by ignorance, craving, and karma. Characterized by suffering (dukkha) arising from attachment and aversion. Not a punishment but a natural process—beings are reborn according to their karma. The Lotus Sutra teaches that samsara and nirvana are not ultimately separate.",
+      "chapters": [
+        2,
+        3,
+        5,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "rebirth",
+        "cycle",
+        "suffering",
+        "attachment",
+        "craving"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "sensory_transformation",
+      "term": "Sensory Transformation",
+      "english_desc": "",
+      "sanskrit": "",
+      "definition": "The transformation of sense faculties through dharma-practice. The Lotus Sutra teaches that dharma-engagement transforms not merely the mind but all sensory capacities, producing \"perfected senses\" in dharma-teachers.",
+      "chapters": [
+        19,
+        20,
+        23,
+        25,
+        28
+      ],
+      "related_concepts": [
+        "senses",
+        "transformation",
+        "enlightenment",
+        "embodiment"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "suffering",
+      "term": "Suffering",
+      "english_desc": "Dukkha",
+      "sanskrit": "दुःख (Dukkha) or 苦 (Kǔ)",
+      "definition": "The fundamental unsatisfactoriness of conditioned existence. Often translated as \"suffering,\" but more precisely means the inherent unsatisfactoriness arising from attachment to impermanent phenomena. Buddhist practice aims at understanding and liberating oneself from suffering. The first noble truth.",
+      "chapters": [
+        2,
+        3,
+        5,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "pain",
+        "dissatisfaction",
+        "unsatisfactoriness",
+        "distress",
+        "dukkha"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Troubled by all sufferings,",
+          "full_text": "Troubled by all sufferings,"
+        },
+        {
+          "chapter": 2,
+          "text": "Caused suffering by delusion and craving.",
+          "full_text": "Caused suffering by delusion and craving."
+        }
+      ],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "tath_gata",
+      "term": "Tathāgata",
+      "english_desc": "Thus-Gone One",
+      "sanskrit": "तथागत (Tathāgata) or 如來 (Rúlái)",
+      "definition": "An epithet for Buddha meaning \"one who has gone in the manner of previous Buddhas\" or \"one who has arrived at such-ness.\" Emphasizes that the Buddha has achieved what other Buddhas achieved, following the same universal pattern. The Lotus Sutra repeatedly uses this epithet.",
+      "chapters": [
+        2,
+        3,
+        5,
+        6,
+        10,
+        16,
+        21,
+        22,
+        27
+      ],
+      "related_concepts": [
+        "buddha",
+        "enlightened-one",
+        "perfect-one",
+        "sage"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "The Tathāgata does not deceive or betray,",
+          "full_text": "The Tathāgata does not deceive or betray,"
+        },
+        {
+          "chapter": 2,
+          "text": "All such Tathāgatas,",
+          "full_text": "All such Tathāgatas,"
+        },
+        {
+          "chapter": 5,
+          "text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, th...",
+          "full_text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, the Tathāgata possesses measureless, inconceivable merits that could not be exhausted even if explained throughout countless kalpas. Mahākāśyapa, understand this: the Tathāgata is the sovereign of all dharmas. Whatever the Tathāgata proclaims is never false. Through wisdom and skillful means, the Tathāgata expounds all dharmas, and every dharma taught reaches the domain of all-knowing wisdom.\"¹"
+        },
+        {
+          "chapter": 5,
+          "text": "\"Mahākāśyapa, the Tathāgata appears in the world precisely as this great cloud appears. Like that gr...",
+          "full_text": "\"Mahākāśyapa, the Tathāgata appears in the world precisely as this great cloud appears. Like that great cloud spreading over the threefold thousand-fold great thousand-world system, the Tathāgata speaks with a great voice, proclaiming to all gods, humans, and asuras:"
+        },
+        {
+          "chapter": 10,
+          "text": "\"Furthermore, Medicine King, after the Tathāgata's extinction, if there are people who hear the Lotu...",
+          "full_text": "\"Furthermore, Medicine King, after the Tathāgata's extinction, if there are people who hear the Lotus Sutra—even one verse or sentence—and experience a single moment of rejoicing, I also grant them the prophecy of supreme enlightenment.⁴"
+        },
+        {
+          "chapter": 10,
+          "text": "\"Why? Because if good men and good women receive, uphold, read, recite, explain, write, or make vari...",
+          "full_text": "\"Why? Because if good men and good women receive, uphold, read, recite, explain, write, or make various offerings to the Lotus Sutra—even one verse—treating the scripture with respect, making offerings of flowers, incense, garlands, powdered incense, paste incense, burning incense, silk canopies, banners, clothing, and music, joined hands in reverence—these people are ones whom all the world should venerate. They should be honored with offerings as befits the Tathāgata.⁸"
+        }
+      ],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "teaching",
+      "term": "Teaching",
+      "english_desc": "Śāsana",
+      "sanskrit": "शासन (Śāsana) or 教 (Jiào)",
+      "definition": "The Buddha's discourse or instruction. The complete body of Buddhist doctrine and guidance. The Lotus Sutra emphasizes the Buddha's teaching as supreme and universally accessible.",
+      "chapters": [],
+      "related_concepts": [
+        "doctrine",
+        "instruction",
+        "guidance",
+        "dharma",
+        "sutra"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "transformation",
+      "term": "Transformation",
+      "english_desc": "Parāvṛtti",
+      "sanskrit": "परावृत्ति (Parāvṛtti) or 轉化 (Zhuǎnhuà)",
+      "definition": "The fundamental turning or reversal of consciousness that occurs when a being shifts from delusion to enlightenment, or from attachment to detachment. Not merely intellectual understanding but actual reorientation of one's entire being toward dharma.",
+      "chapters": [
+        13,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "change",
+        "reversal",
+        "conversion",
+        "enlightenment",
+        "awakening"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "universal_prophecy",
+      "term": "Universal Prophecy",
+      "english_desc": "Samanta-Vyākaraṇa",
+      "sanskrit": "सर्वसमन्तव्याकरण (Sarva-samanta-vyākaraṇa) or 普授記 (Pǔ-shòujì)",
+      "definition": "The Buddha's declaration that all beings will receive prophecy (prediction) of future Buddhahood. Not merely specific individuals but all sentient beings without exception will inevitably achieve enlightenment. The Lotus Sutra's promise of universal salvation.",
+      "chapters": [
+        10,
+        13,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [
+        "universality",
+        "prophecy",
+        "all-beings",
+        "salvation",
+        "inclusivity"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "universal_salvation",
+      "term": "Universal Salvation",
+      "english_desc": "Samanta-Trāṇa",
+      "sanskrit": "सर्वसमन्तत्राण (Sarva-samanta-trāṇa) or 普度 (Pǔdù)",
+      "definition": "The principle that all beings, without exception, will achieve liberation and Buddhahood. Not a select few but the entire universe of sentient beings. This represents the Lotus Sutra's revolutionary declaration against earlier Buddhist schools that taught only certain beings could achieve liberation.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "salvation",
+        "liberation",
+        "universality",
+        "all-beings",
+        "enlightenment"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 55,
+      "phase": "phase1"
+    },
+    {
+      "id": "virtue",
+      "term": "Virtue",
+      "english_desc": "Śīla",
+      "sanskrit": "शील (Śīla) or 戒 (Jiè)",
+      "definition": "Moral discipline and ethical conduct. The second of the six perfections. In Buddhist ethics, virtue arises not from external commandments but from understanding suffering and compassion. Proper virtue naturally follows from seeing clearly.",
+      "chapters": [
+        5,
+        6,
+        10,
+        17,
+        18,
+        19,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "morality",
+        "ethics",
+        "discipline",
+        "conduct",
+        "precepts"
+      ],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 5,
+          "text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, th...",
+          "full_text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, the Tathāgata possesses measureless, inconceivable merits that could not be exhausted even if explained throughout countless kalpas. Mahākāśyapa, understand this: the Tathāgata is the sovereign of all dharmas. Whatever the Tathāgata proclaims is never false. Through wisdom and skillful means, the Tathāgata expounds all dharmas, and every dharma taught reaches the domain of all-knowing wisdom.\"¹"
+        }
+      ],
+      "launch_score": 51,
+      "phase": "phase1"
+    },
+    {
+      "id": "wisdom",
+      "term": "Wisdom",
+      "english_desc": "Prajñā",
+      "sanskrit": "प्रज्ञा (Prajñā) or 般若 (Bōrě)",
+      "definition": "Perfect insight and understanding. The sixth of the six perfections. Not merely intellectual knowledge but direct experiential understanding of reality's true nature—the non-self, interdependence, impermanence of all phenomena. Wisdom transcends conceptual thinking.",
+      "chapters": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        16,
+        19,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "knowledge",
+        "understanding",
+        "insight",
+        "perfect-knowledge",
+        "enlightenment"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 5,
+          "text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, th...",
+          "full_text": "\"Excellent! Excellent, Mahākāśyapa. You have spoken well of the Tathāgata's true virtues. Indeed, the Tathāgata possesses measureless, inconceivable merits that could not be exhausted even if explained throughout countless kalpas. Mahākāśyapa, understand this: the Tathāgata is the sovereign of all dharmas. Whatever the Tathāgata proclaims is never false. Through wisdom and skillful means, the Tathāgata expounds all dharmas, and every dharma taught reaches the domain of all-knowing wisdom.\"¹"
+        },
+        {
+          "chapter": 5,
+          "text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality...",
+          "full_text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality, and cessation, culminating in all-knowing wisdom. It ultimately reaches the realm of emptiness. Among beings who hear the Tathāgata's teaching, whether they uphold and recite it, read it, or practice it as taught, the merit they obtain is beyond their own awareness.¹³"
+        },
+        {
+          "chapter": 7,
+          "text": "\"The Buddha told the monks: 'Incalculably long ago, beyond a boundless and inconceivable number of i...",
+          "full_text": "\"The Buddha told the monks: 'Incalculably long ago, beyond a boundless and inconceivable number of immeasurable aeons, there was a Buddha named Great Penetrating Wisdom Victory Tathāgata, Worthy One, Perfectly Enlightened One, Possessor of Luminous Conduct, Well-Gone One, Knower of the World, Unsurpassed One, Tamer of Beings, Teacher of Gods and Humans, Buddha, World-Honored One. His Buddha-land was called \"Realm of Good Form.\" The kalpa was named \"Great Imagery.\""
+        },
+        {
+          "chapter": 7,
+          "text": "The Buddha said: 'All those Buddha-lands, whether marked or unmarked, if ground into dust—one dust-p...",
+          "full_text": "The Buddha said: 'All those Buddha-lands, whether marked or unmarked, if ground into dust—one dust-particle equals one kalpa—the Buddha Great Penetrating Wisdom Victory, from his final nirvana until now, has surpassed even this number by immeasurable, boundless, hundreds of thousands of millions of aeons. Yet through the power of the Tathāgata's knowledge and vision, I observe that ancient time as though it were the present day.'\"³"
+        },
+        {
+          "chapter": 8,
+          "text": "\"At that time, Furūṇa Maitrayaṇīputra, having heard from the Buddha these teachings of wisdom and sk...",
+          "full_text": "\"At that time, Furūṇa Maitrayaṇīputra, having heard from the Buddha these teachings of wisdom and skillful means, the adapted teaching according to circumstance, and hearing that prophecies of supreme enlightenment were granted to the great disciples, and hearing of past-life causes and conditions, and hearing of the Buddhas' great autonomous miraculous power—he gained what had never been obtained before, his heart became pure and elated. He rose from his seat, approached the Buddha, prostrated his head to the Buddha's feet, withdrew to one side, gazed upon the World-Honored One's face without ceasing, and contemplated:²"
+        },
+        {
+          "chapter": 8,
+          "text": "'The World-Honored One is most rare and extraordinary, his deeds supremely wondrous. Responding to t...",
+          "full_text": "'The World-Honored One is most rare and extraordinary, his deeds supremely wondrous. Responding to the world's various dispositions, through wisdom and skillful vision, he teaches the dharma, extracting beings from their attachments everywhere. We, regarding the Buddha's virtues, are unable to express them in words. Only the World-Honored One can know the depths of our hearts and original aspirations.'\"³"
+        }
+      ],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "anatta",
+      "term": "Anatta",
+      "english_desc": "Anatman - See Non-Self",
+      "sanskrit": "",
+      "definition": "",
+      "chapters": [],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 10,
+      "phase": "phase3"
+    },
+    {
+      "id": "avidy",
+      "term": "Avidyā",
+      "english_desc": "Ignorance",
+      "sanskrit": "अविद्या (Avidyā) or 無明 (Wúmíng)",
+      "definition": "Fundamental misunderstanding of reality's true nature. The root cause of suffering according to Buddhist analysis. Consists of not understanding non-self, impermanence, and interdependence. The Lotus Sutra teaches that even ignorance is eventually transcended through dharma-revelation.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        16,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 50,
+      "phase": "phase1"
+    },
+    {
+      "id": "bodhisattva_path",
+      "term": "Bodhisattva-Path",
+      "english_desc": "Bodhisattva-Yāna",
+      "sanskrit": "बोधिसत्त्वयान (Bodhisattva-yāna) or 菩薩道 (Púsà-dào)",
+      "definition": "The path that bodhisattvas follow toward enlightenment. Characterized by the vow to achieve enlightenment for the benefit of all sentient beings. The Lotus Sutra teaches that the bodhisattva-path is the supreme path, superior to other vehicles.",
+      "chapters": [
+        3,
+        5,
+        10,
+        12,
+        13,
+        20,
+        22,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "bodhisattva",
+        "enlightenment-path",
+        "practice",
+        "vow"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "concentrations",
+      "term": "Concentrations",
+      "english_desc": "Dhyāna",
+      "sanskrit": "ध्यान (Dhyāna) or 禪 (Chán)",
+      "definition": "Deep states of meditative absorption where the mind becomes unified and stable. Often enumerated as four concentrations (or eight concentrations including form-realm and formless-realm states). Represented in the Lotus Sutra as essential for dharma-understanding.",
+      "chapters": [
+        10,
+        13,
+        19,
+        27
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 28,
+      "phase": "phase2"
+    },
+    {
+      "id": "compassion",
+      "term": "Compassion",
+      "english_desc": "Karunā",
+      "sanskrit": "करुण (Karunā) or 悲 (Bēi)",
+      "definition": "The heart's spontaneous empathic response to suffering. One of the four divine abodes (compassion, loving-kindness, sympathetic joy, equanimity). The Lotus Sutra emphasizes that enlightenment manifests as infinite compassion for all beings.",
+      "chapters": [
+        10,
+        12,
+        14,
+        16,
+        20,
+        23,
+        24,
+        25
+      ],
+      "related_concepts": [],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 10,
+          "text": "\"If there are people who receive, uphold, read, recite, explain, and write out the Lotus Sutra—even ...",
+          "full_text": "\"If there are people who receive, uphold, read, recite, explain, and write out the Lotus Sutra—even one verse—and treat this scripture with respect, as if it were the Buddha himself, making various offerings of flowers, incense, garlands, powdered incense, paste incense, burning incense, silk canopies, banners, clothing, and music—indeed, even joined hands in reverence—Medicine King, know that these people have already made offerings to one hundred million billion Buddhas, fulfilled great vows at the Buddhas' places, and have been born in this human realm out of compassion for beings.'\"⁵"
+        },
+        {
+          "chapter": 10,
+          "text": "Know that such people are great Bodhisattvas, having accomplished supreme enlightenment, compassiona...",
+          "full_text": "Know that such people are great Bodhisattvas, having accomplished supreme enlightenment, compassionate toward beings, and wishing to be born in this world to widely proclaim and distinguish the Lotus Sutra. How much more so those who are entirely capable of upholding and making various offerings!'\"⁹"
+        }
+      ],
+      "launch_score": 46,
+      "phase": "phase1"
+    },
+    {
+      "id": "craving",
+      "term": "Craving",
+      "english_desc": "Tṛṣṇā",
+      "sanskrit": "तृष्णा (Tṛṣṇā) or 渴愛 (Kěài)",
+      "definition": "Intense desire or thirst that drives beings to accumulate, possess, and grasp at impermanent phenomena. The second noble truth identifies craving as the cause of suffering. The Lotus Sutra reveals that craving is transcended through understanding the dharma.",
+      "chapters": [
+        1,
+        2,
+        3,
+        5,
+        16,
+        20,
+        25,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Caused suffering by delusion and craving.",
+          "full_text": "Caused suffering by delusion and craving."
+        }
+      ],
+      "launch_score": 46,
+      "phase": "phase1"
+    },
+    {
+      "id": "defilement",
+      "term": "Defilement",
+      "english_desc": "Kleśa",
+      "sanskrit": "क्लेश (Kleśa) or 煩惱 (Fánnǎo)",
+      "definition": "Mental and emotional obscurations that cloud consciousness and drive suffering. Traditionally enumerated as three primary defilements (ignorance, greed, hatred) or as numerous specific defilements (pride, doubt, wrong views, etc.). The Lotus Sutra teaches that defilements are ultimately transcendable.",
+      "chapters": [
+        1,
+        4,
+        5,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "obscuration",
+        "mental-obstacle",
+        "affliction",
+        "klesha"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "detachment",
+      "term": "Detachment",
+      "english_desc": "Vairāgya",
+      "sanskrit": "वैराग्य (Vairāgya) or 離欲 (Líyù)",
+      "definition": "Freedom from attachment and craving. Not indifference or suppression but rather clear understanding that impermanent phenomena are not worth clinging to. The natural result of understanding dharma. The Lotus Sutra teaches that dharma-revelation produces detachment.",
+      "chapters": [
+        3,
+        5,
+        14,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "non-attachment",
+        "freedom",
+        "equanimity",
+        "letting-go"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "divine_abodes",
+      "term": "Divine Abodes",
+      "english_desc": "Brahma-Vihāras",
+      "sanskrit": "ब्रह्मविहार (Brahma-vihāra) or 梵住 (Fánshuō)",
+      "definition": "Four supreme virtues cultivated in Buddhist practice: compassion (karunā), loving-kindness (mettā), sympathetic joy (muditā), and equanimity (upekṣā). Considered the most refined emotional and ethical states accessible to sentient beings.",
+      "chapters": [
+        10,
+        14,
+        19,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "virtue",
+        "divine-emotion",
+        "brahma-abodes",
+        "love",
+        "compassion"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "emptiness",
+      "term": "Emptiness",
+      "english_desc": "Śūnyatā",
+      "sanskrit": "शून्यता (Śūnyatā) or 空 (Kōng)",
+      "definition": "The absence of permanent, unchanging essence in all phenomena. Not nothingness but rather the interdependence and fluidity of all things. Understanding emptiness is considered essential for enlightenment. The Lotus Sutra implicitly teaches emptiness through revealing that even highest truths are ultimately beyond conceptual fixation.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 5,
+          "text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality...",
+          "full_text": "\"The Tathāgata's teaching has a single taste and aspect—namely, the taste of liberation, non-duality, and cessation, culminating in all-knowing wisdom. It ultimately reaches the realm of emptiness. Among beings who hear the Tathāgata's teaching, whether they uphold and recite it, read it, or practice it as taught, the merit they obtain is beyond their own awareness.¹³"
+        },
+        {
+          "chapter": 5,
+          "text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior...",
+          "full_text": "\"Just as medicinal herbs and trees do not themselves know whether their nature is superior, inferior, or middling, even so, the Tathāgata knows the single-taste dharma—the taste of liberation, non-duality, cessation, nirvana, the peace of final quiescence, ultimately reaching emptiness. Knowing this, the Tathāgata observes beings' desires and needs and protects them accordingly. Therefore, the Tathāgata does not immediately teach all-knowing wisdom to all beings.\"¹⁵"
+        }
+      ],
+      "launch_score": 46,
+      "phase": "phase1"
+    },
+    {
+      "id": "courageous_giver_bodhisattva",
+      "term": "Courageous-Giver Bodhisattva",
+      "english_desc": "勇施菩薩",
+      "sanskrit": "Vīra-dāna Bodhisattva or 勇施菩薩",
+      "definition": "A bodhisattva who offers protective formulas in Chapter 26 to guard dharma-teachers. Represents the principle that protection arises through courage and generous commitment to dharma.",
+      "chapters": [
+        26
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "dharma_excellence_bodhisattva",
+      "term": "Dharma-Excellence Bodhisattva",
+      "english_desc": "華德菩薩",
+      "sanskrit": "Kusuma-sphita or 華德菩薩",
+      "definition": "Identified in Chapter 27 as the present incarnation of the Wonderful-Adornment King of ancient times. Represents the principle that ancient karma-connections determine present dharma-relationships.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "light_illumination_excellence_adornment_bodhisattva",
+      "term": "Light-Illumination-Excellence-Adornment Bodhisattva",
+      "english_desc": "",
+      "sanskrit": "",
+      "definition": "Identified in Chapter 27 as the present incarnation of the Pure-Virtue Queen, demonstrating that family relationships perpetuate across eons of rebirths.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "medicine_king_bodhisattva",
+      "term": "Medicine King Bodhisattva",
+      "english_desc": "藥王菩薩",
+      "sanskrit": "Bhaiṣajya-rāja or 藥王菩薩",
+      "definition": "The supreme bodhisattva of dharma-offering, representing ultimate commitment through bodily self-sacrifice. Identified in Chapter 27 as the ancient Pure-Treasury prince. Represents the principle that dharma-transmission requires ultimate sacrifice.",
+      "chapters": [
+        26,
+        27
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase2"
+    },
+    {
+      "id": "medicine_excellence_bodhisattva",
+      "term": "Medicine-Excellence Bodhisattva",
+      "english_desc": "藥上菩薩",
+      "sanskrit": "Bhaiṣajya-samudgata or 藥上菩薩",
+      "definition": "Identified in Chapter 27 as the ancient Pure-Vision prince, companion to Medicine King. Represents complementary principle of dharma-offering alongside Medicine King's sacrifice.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "samantabhadra_bodhisattva",
+      "term": "Samantabhadra Bodhisattva",
+      "english_desc": "普賢菩薩",
+      "sanskrit": "Samantabhadra or 普賢菩薩",
+      "definition": "The Universally-Worthy Bodhisattva representing eternal protection and encouragement. Appears in Chapter 28 offering final vow to protect all future practitioners, ensuring dharma-transmission perpetuates eternally.",
+      "chapters": [],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 10,
+      "phase": "phase3"
+    },
+    {
+      "id": "wonderful_adornment_king",
+      "term": "Wonderful-Adornment King",
+      "english_desc": "妙莊嚴王",
+      "sanskrit": "Wonderful-Adornment King or 妙莊嚴王",
+      "definition": "The skeptical king whose transformation through bodhisattva-sons' miraculous demonstration is narrated in Chapter 27. Represents the principle that beings deeply attached to false views can be transformed through compassionate teaching.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "wonderful_sound_bodhisattva",
+      "term": "Wonderful-Sound Bodhisattva",
+      "english_desc": "妙音菩薩",
+      "sanskrit": "Ghaṇṭā-svara or 妙音菩薩",
+      "definition": "The bodhisattva of unlimited manifestation, appearing in all forms simultaneously across all realms. Demonstrates the principle that compassion has no fixed form and can manifest in response to any being's need.",
+      "chapters": [
+        28
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "bodhi_tree",
+      "term": "Bodhi-Tree",
+      "english_desc": "Pippala",
+      "sanskrit": "बोधिवृक्ष (Bodhi-vṛkṣa) or 菩提樹 (Púti-shù)",
+      "definition": "The sacred tree under which Gautama Buddha achieved enlightenment. In Buddhist symbolism, represents the place where consciousness awakens to its true nature. The Lotus Sutra references this as the sacred site where dharma-understanding occurs.",
+      "chapters": [
+        1,
+        6,
+        11,
+        27
+      ],
+      "related_concepts": [
+        "enlightenment",
+        "awakening",
+        "sacred-site"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "buddha_realm",
+      "term": "Buddha-Realm",
+      "english_desc": "Buddha-ṣetra",
+      "sanskrit": "बुद्धक्षेत्र (Buddha-ṣetra) or 佛國 (Fóguó)",
+      "definition": "The purified realm established by a Buddha, perfected through aeons of bodhisattva-practice. Not a physical location but a manifestation of enlightened consciousness creating conditions for all inhabitants to achieve enlightenment. The Lotus Sutra describes multiple Buddha-realms across infinite space.",
+      "chapters": [
+        15,
+        16,
+        21,
+        25,
+        27
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 30,
+      "phase": "phase2"
+    },
+    {
+      "id": "celestial_beings",
+      "term": "Celestial Beings",
+      "english_desc": "Devā",
+      "sanskrit": "देव (Devā) or 天 (Tiān)",
+      "definition": "Heavenly beings enjoying greater pleasure and longer lifespans than humans but still subject to suffering, death, and rebirth. In the Lotus Sutra, celestial beings often appear to honor the Buddha and receive teachings.",
+      "chapters": [
+        1,
+        3,
+        10,
+        11,
+        13,
+        15,
+        19,
+        21,
+        26,
+        27
+      ],
+      "related_concepts": [
+        "heaven",
+        "heavenly-beings",
+        "gods",
+        "deities"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 10,
+          "text": "\"At that time, the World-Honored One, through the Bodhisattva Medicine King, addressed eighty thousa...",
+          "full_text": "\"At that time, the World-Honored One, through the Bodhisattva Medicine King, addressed eighty thousand great Bodhisattvas: 'Medicine King, do you see in this great assembly the immeasurable celestial beings, dragon-kings, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, and monks, nuns, laymen, laywomen, those seeking śrāvaka-enlightenment, those seeking pratyekabuddha-enlightenment, those seeking Buddha-enlightenment? All such beings as these, who have heard the Lotus Sutra even one verse or sentence, or experienced even a single moment of rejoicing in their hearts before the Buddha, I grant them all the prophecy: they shall attain anuttara-samyak-sambodhi (supreme enlightenment).'\"²"
+        }
+      ],
+      "launch_score": 54,
+      "phase": "phase1"
+    },
+    {
+      "id": "four_heavenly_kings",
+      "term": "Four Heavenly Kings",
+      "english_desc": "Catur-Mahā-Rāja",
+      "sanskrit": "चतुर्महारायज (Catur-mahā-rāja) or 四大天王 (Sì-dà-tiānwáng)",
+      "definition": "The four protective deities guarding the four cardinal directions: Vaiśravaṇa (north), Dhṛtarāṣṭra (east), Virūḍhaka (south), Virūpākṣa (west). In Chapter 26, they offer protective formulas for dharma-teachers.",
+      "chapters": [
+        26
+      ],
+      "related_concepts": [
+        "guardian-deities",
+        "protectors",
+        "heavenly-kings",
+        "guardians"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 16,
+      "phase": "phase2"
+    },
+    {
+      "id": "ganges_river",
+      "term": "Ganges River",
+      "english_desc": "Gaṅgā",
+      "sanskrit": "गङ्गा (Gaṅgā) or 恒河 (Héng Hé)",
+      "definition": "In the Lotus Sutra, used metaphorically for immeasurable quantity. \"Ganges-river-sand-number of Buddhas\" means innumerable Buddhas—sand particles of the Ganges River represent the ultimate example of uncountable quantity.",
+      "chapters": [
+        17,
+        18,
+        19,
+        22
+      ],
+      "related_concepts": [
+        "measure",
+        "immeasurability",
+        "vast-numbers"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "hell_realms",
+      "term": "Hell Realms",
+      "english_desc": "Naraka",
+      "sanskrit": "नरक (Naraka) or 地獄 (Dìyù)",
+      "definition": "Realms of intense suffering inhabited by beings with severe karmic defilement. The Lotus Sutra teaches that even beings in hell realms will eventually achieve liberation through dharma-understanding.",
+      "chapters": [
+        1,
+        5,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 30,
+      "phase": "phase2"
+    },
+    {
+      "id": "hunger_realm",
+      "term": "Hunger-Realm",
+      "english_desc": "Preta",
+      "sanskrit": "प्रेत (Preta) or 餓鬼 (Èguǐ)",
+      "definition": "The realm of hungry ghosts—beings with immense appetites that can never be satisfied. Represents the karmic result of greed and miserliness. The Lotus Sutra teaches that dharma-engagement liberates even from this extreme suffering.",
+      "chapters": [
+        1,
+        5,
+        16,
+        20,
+        26
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 30,
+      "phase": "phase2"
+    },
+    {
+      "id": "rak_as",
+      "term": "Rakṣasī",
+      "english_desc": "Protective Demons",
+      "sanskrit": "राक्षसी (Rakṣasī) or 羅刹 (Luóchà)",
+      "definition": "Female protective demons who in Chapter 26 vow to protect dharma-teachers. Represents the principle that even demonic/aggressive forces can be converted to dharma-service through proper engagement.",
+      "chapters": [
+        26
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "stupa",
+      "term": "Stupa",
+      "english_desc": "Sacred Monument",
+      "sanskrit": "स्तूप (Stūpa) or 塔 (Tǎ)",
+      "definition": "A Buddhist monument containing relics of Buddhas or bodhisattvas. In Chapter 11, the appearance of Prabhūtaratna's stupa demonstrates that the dharma-transmission has cosmic significance transcending individual Buddha-realms.",
+      "chapters": [
+        11,
+        21
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "anger",
+      "term": "Anger",
+      "english_desc": "Dosa",
+      "sanskrit": "दोष (Doṣa) or 瞋 (Chēn)",
+      "definition": "One of the three primary defilements. Characterized by aversion, hostility, and destructive impulses. The Lotus Sutra teaches that anger is transcended through understanding compassion and interdependence.",
+      "chapters": [
+        1,
+        5,
+        10,
+        20,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 30,
+      "phase": "phase2"
+    },
+    {
+      "id": "attachment",
+      "term": "Attachment",
+      "english_desc": "Upadāna",
+      "sanskrit": "उपादान (Upadāna) or 執著 (Zhízhāo)",
+      "definition": "The grasping or clinging to phenomena as permanent and satisfying. Creates suffering through generating constant craving and aversion. The Lotus Sutra teaches liberation through releasing all attachment.",
+      "chapters": [
+        1,
+        2,
+        3,
+        5,
+        16,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "clinging",
+        "grasping",
+        "craving",
+        "aversion"
+      ],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "I would fall into stinginess and attachment—",
+          "full_text": "I would fall into stinginess and attachment—"
+        }
+      ],
+      "launch_score": 50,
+      "phase": "phase1"
+    },
+    {
+      "id": "aversion",
+      "term": "Aversion",
+      "english_desc": "Pratighā",
+      "sanskrit": "प्रतिघ (Pratighā) or 厭 (Yàn)",
+      "definition": "The tendency to reject or push away unpleasant sensations and experiences. Creates suffering through resistance. The Lotus Sutra teaches acceptance through understanding the non-harmful nature of all dharmas.",
+      "chapters": [
+        1,
+        5,
+        20
+      ],
+      "related_concepts": [
+        "rejection",
+        "resistance",
+        "dislike",
+        "opposition"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 20,
+      "phase": "phase2"
+    },
+    {
+      "id": "bliss",
+      "term": "Bliss",
+      "english_desc": "Sukha",
+      "sanskrit": "सुख (Sukha) or 樂 (Lè)",
+      "definition": "Genuine happiness arising from dharma-understanding and freedom from defilement. Not mere sensory pleasure but deep contentment from spiritual achievement. The Lotus Sutra promises bliss to those practicing the dharma.",
+      "chapters": [
+        1,
+        6,
+        13,
+        16,
+        20,
+        25,
+        28
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "clarity",
+      "term": "Clarity",
+      "english_desc": "Praśrabdhi",
+      "sanskrit": "प्रश्रब्धि (Praśrabdhi) or 輕安 (Qīngān)",
+      "definition": "Mental clarity and ease arising from meditation practice and dharma-engagement. The opposite of mental torpor and dullness. Essential for enlightenment-achievement.",
+      "chapters": [
+        4,
+        10,
+        13,
+        19
+      ],
+      "related_concepts": [
+        "lightness",
+        "ease",
+        "mental-clarity",
+        "tranquility"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "confidence",
+      "term": "Confidence",
+      "english_desc": "Śraddhā",
+      "sanskrit": "श्रद्धा (Śraddhā) or 信 (Xìn)",
+      "definition": "Trust in the Buddha's teaching and one's own capacity for enlightenment. Not blind faith but reasonable confidence based on understanding. The Lotus Sutra emphasizes that confidence in universal Buddhahood-attainment is fundamental.",
+      "chapters": [
+        2,
+        3,
+        4,
+        6,
+        13,
+        16,
+        27
+      ],
+      "related_concepts": [
+        "faith",
+        "trust",
+        "belief",
+        "conviction"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 38,
+      "phase": "phase1"
+    },
+    {
+      "id": "delusion",
+      "term": "Delusion",
+      "english_desc": "Moha",
+      "sanskrit": "मोह (Moha) or 癡 (Chī)",
+      "definition": "One of the three primary defilements. The fundamental confusion about reality's nature—specifically, the false belief in a permanent, independent self. All other mental afflictions arise from delusion. The Lotus Sutra's central teaching addresses the transcendence of delusion.",
+      "chapters": [
+        2,
+        3,
+        5,
+        12,
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Caused suffering by delusion and craving.",
+          "full_text": "Caused suffering by delusion and craving."
+        }
+      ],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "doubt",
+      "term": "Doubt",
+      "english_desc": "Vicikitsā",
+      "sanskrit": "विचिकित्सा (Vicikitsā) or 疑 (Yí)",
+      "definition": "One of the five mental hindrances. Represents skeptical indecision about the Buddha's teaching or one's own path. The Lotus Sutra resolves doubt through its comprehensive revelation of universal enlightenment-capacity.",
+      "chapters": [
+        1,
+        3,
+        4,
+        10,
+        13,
+        16,
+        27
+      ],
+      "related_concepts": [
+        "skepticism",
+        "indecision",
+        "vacillation",
+        "uncertainty"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 38,
+      "phase": "phase1"
+    },
+    {
+      "id": "equanimity",
+      "term": "Equanimity",
+      "english_desc": "Upekṣā",
+      "sanskrit": "उपेक्षा (Upekṣā) or 舍 (Shě)",
+      "definition": "One of the four divine abodes. Perfect balance and non-preference in the face of all conditions. Not indifference but profound acceptance of reality. The Lotus Sutra teaches equanimity as one fruit of dharma-practice.",
+      "chapters": [
+        10,
+        14,
+        19,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "balance",
+        "non-preference",
+        "acceptance",
+        "equipoise"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "greed",
+      "term": "Greed",
+      "english_desc": "Lobha",
+      "sanskrit": "लोभ (Lobha) or 貪 (Tān)",
+      "definition": "One of the three primary defilements. Characterized by desire to possess and accumulate. The Lotus Sutra teaches that greed is transcended through understanding the non-satisfying nature of material possessions.",
+      "chapters": [
+        1,
+        5,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [
+        "desire",
+        "avarice",
+        "covetousness",
+        "possession-drive"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "grounded_mindfulness",
+      "term": "Grounded-Mindfulness",
+      "english_desc": "Sati",
+      "sanskrit": "स्मृति (Smṛti) or 念 (Niàn)",
+      "definition": "Awareness that remembers and sustains dharma-understanding. Not mere memory but the continuous presence of awareness. Essential for all meditation and dharma-practice. The Lotus Sutra emphasizes mindfulness as foundation for enlightenment.",
+      "chapters": [
+        10,
+        13,
+        14,
+        19,
+        20,
+        22
+      ],
+      "related_concepts": [
+        "mindfulness",
+        "memory",
+        "awareness",
+        "attention",
+        "recollection"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 37,
+      "phase": "phase1"
+    },
+    {
+      "id": "joy",
+      "term": "Joy",
+      "english_desc": "Muditā",
+      "sanskrit": "मुदिता (Muditā) or 喜 (Xǐ)",
+      "definition": "One of the four divine abodes. Sympathetic joy—delight in others' happiness and progress. The Lotus Sutra teaches that all practitioners should rejoice at others' dharma-attainment.",
+      "chapters": [
+        10,
+        14,
+        18,
+        19,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "gladness",
+        "delight",
+        "sympathetic-joy",
+        "celebration"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "loving_kindness",
+      "term": "Loving-Kindness",
+      "english_desc": "Mettā",
+      "sanskrit": "मैत्री (Maitrī) or 慈 (Cí)",
+      "definition": "One of the four divine abodes. Unconditional friendliness and benevolence toward all beings. The Lotus Sutra's fundamental ethical principle—extending compassion universally.",
+      "chapters": [
+        14,
+        19,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "friendliness",
+        "benevolence",
+        "mettā",
+        "universal-love"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "mindfulness",
+      "term": "Mindfulness",
+      "english_desc": "See Grounded-Mindfulness",
+      "sanskrit": "",
+      "definition": "",
+      "chapters": [],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 10,
+      "phase": "phase3"
+    },
+    {
+      "id": "pride",
+      "term": "Pride",
+      "english_desc": "Māna",
+      "sanskrit": "मान (Māna) or 慢 (Màn)",
+      "definition": "One of the subtle defilements. The sense of self-importance and superiority. The Lotus Sutra teaches humility through recognizing universal Buddha-nature in all beings.",
+      "chapters": [
+        3,
+        5,
+        10,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "arrogance",
+        "conceit",
+        "superiority",
+        "self-importance"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "restlessness",
+      "term": "Restlessness",
+      "english_desc": "Auddhatya",
+      "sanskrit": "औद्धत्य (Auddhatya) or 掉舉 (Diàojǔ)",
+      "definition": "One of the five mental hindrances. Agitation and inability to settle attention. The opposite of concentration. The Lotus Sutra teaches that dharma-understanding naturally produces mental stability.",
+      "chapters": [
+        4,
+        10,
+        13,
+        19
+      ],
+      "related_concepts": [
+        "agitation",
+        "excitability",
+        "distraction",
+        "mental-turbulence"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "sadness",
+      "term": "Sadness",
+      "english_desc": "Domanassa",
+      "sanskrit": "दोमनस्स (Domanassa) or 憂 (Yōu)",
+      "definition": "Mental suffering arising from unpleasant conditions. The Lotus Sutra teaches that sadness arises from attachment and is transcended through dharma-understanding.",
+      "chapters": [
+        1,
+        5,
+        13,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "sorrow",
+        "melancholy",
+        "mental-suffering",
+        "distress"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "torpor",
+      "term": "Torpor",
+      "english_desc": "Styana",
+      "sanskrit": "स्त्यान (Styana) or 昏睡 (Hūnshui)",
+      "definition": "One of the five mental hindrances. Mental dullness and lack of energy. The opposite of clarity. The Lotus Sutra encourages effort and vigor as antidotes to torpor.",
+      "chapters": [
+        4,
+        10,
+        13,
+        19
+      ],
+      "related_concepts": [
+        "dullness",
+        "lethargy",
+        "drowsiness",
+        "sluggishness"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "tranquility",
+      "term": "Tranquility",
+      "english_desc": "Śamatha",
+      "sanskrit": "शमथ (Śamatha) or 止 (Zhǐ)",
+      "definition": "Mental calmness and peace. One of the two pillars of Buddhist meditation practice (tranquility and insight). The Lotus Sutra presents dharma-understanding as producing supreme tranquility.",
+      "chapters": [
+        13,
+        14,
+        19,
+        20,
+        22
+      ],
+      "related_concepts": [
+        "calmness",
+        "peace",
+        "serenity",
+        "mental-quietude"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "age_of_dharma_decline",
+      "term": "Age of Dharma-Decline",
+      "english_desc": "Mappo",
+      "sanskrit": "मप्पो (Mappō) or 末法 (Mòfǎ)",
+      "definition": "In Buddhist cosmology, the final age when the Buddha's teaching becomes increasingly difficult to understand and practice. The Lotus Sutra provides special assurance that practitioners in degenerate ages will achieve enlightenment through dharma-engagement.",
+      "chapters": [
+        28
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "eon",
+      "term": "Eon",
+      "english_desc": "Kalpa",
+      "sanskrit": "कल्प (Kalpa) or 劫 (Jiè)",
+      "definition": "An immeasurably long cosmic time period. The Lotus Sutra uses \"eons\" to emphasize the infinite time across which dharma-transmission and bodhisattva-practice occur.",
+      "chapters": [
+        8,
+        12,
+        16,
+        20,
+        23,
+        27
+      ],
+      "related_concepts": [
+        "time-period",
+        "cosmic-age",
+        "eternity",
+        "aeon"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 8,
+          "text": "\"'Do not think, monks, that Furūṇa merely protects and assists my dharma. He also protected and assi...",
+          "full_text": "\"'Do not think, monks, that Furūṇa merely protects and assists my dharma. He also protected and assisted the correct dharma of nine hundred billion Buddhas in the past, and was foremost in preaching among them. Moreover, he clearly understood and penetrated the dharma of emptiness taught by those Buddhas, acquired the four unobstructed knowledges, always taught the dharma with complete clarity without doubt, and possessed the supernatural powers of the Bodhisattva. Throughout his lifespan, he constantly practiced the brahmacarya, and by these skillful means benefited immeasurable hundreds of thousands of myriads of beings, and transformed immeasurable aeons of beings to establish them in supreme enlightenment, purifying Buddha-lands, constantly accomplishing Buddha-deeds, and teaching and transforming beings.'⁵"
+        },
+        {
+          "chapter": 8,
+          "text": "'Furthermore, Furūṇa was foremost in preaching among the dharma-teachers of the Seven Buddhas. In my...",
+          "full_text": "'Furthermore, Furūṇa was foremost in preaching among the dharma-teachers of the Seven Buddhas. In my assembly, he is also foremost among dharma-teachers. Among the Buddhas of the Worthy Kalpa yet to come, he shall also be foremost among dharma-teachers. He shall protect, assist, and proclaim the correct dharma of immeasurable innumerable Buddhas, teach and benefit immeasurable beings, and establish them in supreme enlightenment. Gradually perfecting the Bodhisattva-path, after immeasurable aeons, he shall attain supreme enlightenment in this realm, bearing the Buddha-name Dharma-Illumination Tathāgata, Worthy One, Perfectly Enlightened One, Possessor of Luminous Conduct, Well-Gone One, Knower of the World, Unsurpassed One, Tamer of Beings, Teacher of Gods and Humans, Buddha, World-Honored One.'\"⁶"
+        }
+      ],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "eternity",
+      "term": "Eternity",
+      "english_desc": "Ananta",
+      "sanskrit": "अनन्त (Ananta) or 無邊 (Wúbiān)",
+      "definition": "The transcendence of temporal limitation. The Lotus Sutra teaches that dharma-transmission and Buddha-protection continue eternally into all future ages.",
+      "chapters": [
+        21,
+        22
+      ],
+      "related_concepts": [
+        "endless",
+        "infinite",
+        "perpetuity",
+        "timelessness"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 18,
+      "phase": "phase2"
+    },
+    {
+      "id": "future_buddhahood",
+      "term": "Future Buddhahood",
+      "english_desc": "Anāgata-Buddhatva",
+      "sanskrit": "अनागतबुद्धत्व (Anāgata-Buddhatva) or 未來佛 (Wèilái-fó)",
+      "definition": "The inevitable future Buddhahood of all beings. The Lotus Sutra's central promise—that all sentient beings will achieve Buddhahood in future eons.",
+      "chapters": [
+        6,
+        7,
+        8,
+        12,
+        16,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "future-enlightenment",
+        "inevitable-buddhahood",
+        "future-achievement"
+      ],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 49,
+      "phase": "phase1"
+    },
+    {
+      "id": "impermanence",
+      "term": "Impermanence",
+      "english_desc": "Anicca",
+      "sanskrit": "अनिच्च (Anicca) or 無常 (Wúcháng)",
+      "definition": "The fundamental characteristic of all conditioned phenomena—nothing remains unchanged. The first mark of existence. Understanding impermanence reduces attachment and opens enlightenment-possibility. The Lotus Sutra assumes this doctrine while emphasizing that dharma-truth transcends temporal change.",
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        16,
+        20
+      ],
+      "related_concepts": [],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "instantaneous_enlightenment",
+      "term": "Instantaneous Enlightenment",
+      "english_desc": "Ekakṣaṇa-Bodhi",
+      "sanskrit": "एककषण-बोधि (Ekakṣaṇa-bodhi) or 一念菩提 (Yīniàn-púti)",
+      "definition": "The principle that enlightenment can occur suddenly and instantaneously. The Lotus Sutra emphasizes that dharma-hearing can produce immediate enlightenment-achievement.",
+      "chapters": [
+        5,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "sudden-enlightenment",
+        "flash-enlightenment",
+        "instantaneous-awakening"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "kalpa",
+      "term": "Kalpa",
+      "english_desc": "See Eon",
+      "sanskrit": "",
+      "definition": "",
+      "chapters": [],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 10,
+      "phase": "phase3"
+    },
+    {
+      "id": "maitreya_age",
+      "term": "Maitreya Age",
+      "english_desc": "Future Buddha Era",
+      "sanskrit": "मैत्रेय (Maitreya) or 彌勒 (Míléi)",
+      "definition": "The future age when Maitreya Buddha will appear and all practitioners will achieve enlightenment through his teaching. The Lotus Sutra promises that practitioners will attain Buddhahood in the Maitreya-era.",
+      "chapters": [
+        28
+      ],
+      "related_concepts": [],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "past_life_karma",
+      "term": "Past-Life Karma",
+      "english_desc": "Pūrva-Karma",
+      "sanskrit": "पूर्वकर्म (Pūrva-karma) or 前世業 (Qiánshì-yè)",
+      "definition": "Karmic actions performed in previous lives that determine present circumstances. The Lotus Sutra teaches that past karmic connections explain present dharma-relationships.",
+      "chapters": [
+        20,
+        23,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "previous-life-action",
+        "karma-continuity",
+        "causal-connection"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "rebirth",
+      "term": "Rebirth",
+      "english_desc": "Samsāra-Gati",
+      "sanskrit": "संसारगति (Samsāra-gati) or 輪迴 (Lúnhuí)",
+      "definition": "The cycle of death and rebirth driven by karma and ignorance. The Lotus Sutra teaches that all beings will eventually escape the rebirth cycle through enlightenment.",
+      "chapters": [
+        5,
+        12,
+        16,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "rebirth-cycle",
+        "samsara",
+        "reincarnation",
+        "recurrence"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "sudden_enlightenment",
+      "term": "Sudden Enlightenment",
+      "english_desc": "Tun-Wu",
+      "sanskrit": "तुङ्-व् (Tung-wu) or 頓悟 (Dùnwù)",
+      "definition": "The principle that enlightenment occurs suddenly rather than gradually. The Lotus Sutra's revelation represents this sudden enlightenment in that it suddenly reveals universal Buddha-nature.",
+      "chapters": [
+        2,
+        3,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "sudden-awakening",
+        "flash-insight",
+        "abrupt-enlightenment"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "three_times",
+      "term": "Three Times",
+      "english_desc": "Tri-Kāla",
+      "sanskrit": "त्रिकाल (Tri-kāla) or 三時 (Sānshí)",
+      "definition": "Past, present, and future. The Lotus Sutra teaches that the Buddha simultaneously transcends temporal limitation while appearing to act within temporal sequence.",
+      "chapters": [
+        15,
+        16,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "past-present-future",
+        "temporal-sequence",
+        "time-transcendence"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "timelessness",
+      "term": "Timelessness",
+      "english_desc": "Anirodha",
+      "sanskrit": "अनिरोध (Anirodha) or 無滅 (Wúmiè)",
+      "definition": "The transcendence of temporal limitation characteristic of enlightened reality. The Lotus Sutra teaches that Buddha-nature transcends time—the eternal Buddha \"never passes away.\"",
+      "chapters": [
+        15,
+        16,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "eternity",
+        "eternal-presence",
+        "beyond-time",
+        "transcendence"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "apparatus",
+      "term": "Apparatus",
+      "english_desc": "Pariśesanā",
+      "sanskrit": "परिशेषना (Pariśesanā) or 結構 (Jiēgòu)",
+      "definition": "The integrated system of philosophical, doctrinal, and interpretive elements surrounding a teaching. Each chapter of the Lotus Sutra includes apparatus explaining doctrine, implications, and connections.",
+      "chapters": [],
+      "related_concepts": [
+        "framework",
+        "structure",
+        "system",
+        "apparatus"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "commentary_tradition",
+      "term": "Commentary Tradition",
+      "english_desc": "Bhāṣya",
+      "sanskrit": "भाष्य (Bhāṣya) or 釋 (Shì)",
+      "definition": "The long tradition of scholars' explanations and interpretations of the Lotus Sutra. The Lotus Sutra Scholarly Translation incorporates this tradition through footnotes and apparatus.",
+      "chapters": [],
+      "related_concepts": [
+        "interpretation",
+        "explanation",
+        "exegesis",
+        "commentary"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "cross_reference",
+      "term": "Cross-Reference",
+      "english_desc": "Paryāya-Saṃbandha",
+      "sanskrit": "पर्यायसंबन्ध (Paryāya-saṃbandha) or 對應 (Duìyìng)",
+      "definition": "The connections and parallels between passages in different chapters. The Lotus Sutra's structure reveals recurring themes that cross-reference and reinforce each other.",
+      "chapters": [],
+      "related_concepts": [
+        "connection",
+        "reference",
+        "parallel",
+        "relation"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "doctrinal_theme",
+      "term": "Doctrinal Theme",
+      "english_desc": "Mūla-Siddānta",
+      "sanskrit": "मूलसिद्धान्त (Mūla-siddānta) or 教義 (Jiàoyì)",
+      "definition": "The central teaching or principle around which a chapter or section is organized. The Lotus Sutra's 28 chapters are unified by recurring doctrinal themes.",
+      "chapters": [],
+      "related_concepts": [
+        "doctrine",
+        "principle",
+        "theme",
+        "thesis"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "exposition",
+      "term": "Exposition",
+      "english_desc": "Paryavadāna",
+      "sanskrit": "पर्यवदान (Paryavadāna) or 闡述 (Chǎnshù)",
+      "definition": "The detailed explanation of doctrine. The Lotus Sutra uses multiple exposition methods: narration, verse, parable, prophecy.",
+      "chapters": [],
+      "related_concepts": [
+        "explanation",
+        "teaching",
+        "discourse",
+        "declaration"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "footnote",
+      "term": "Footnote",
+      "english_desc": "Padavyākhyāna",
+      "sanskrit": "पदव्याख्यान (Padavyākhyāna) or 註 (Zhù)",
+      "definition": "The integrated scholarly notes appearing alongside the Lotus Sutra text. Rather than end-notes, the scholarly translation employs footnotes for continuous engagement with the text.",
+      "chapters": [],
+      "related_concepts": [
+        "note",
+        "annotation",
+        "comment",
+        "explanation"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "implication",
+      "term": "Implication",
+      "english_desc": "Artha-Parinaya",
+      "sanskrit": "अर्थपरिणय (Artha-parinaya) or 含義 (Hányì)",
+      "definition": "The deeper meaning or consequence of a teaching beyond its explicit statement. The Lotus Sutra's implications extend to philosophy, science, and spiritual practice.",
+      "chapters": [],
+      "related_concepts": [
+        "meaning",
+        "consequence",
+        "significance",
+        "deep-meaning"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "interpretation",
+      "term": "Interpretation",
+      "english_desc": "Bhāvanatā",
+      "sanskrit": "भावनता (Bhāvanatā) or 詮釋 (Quānshì)",
+      "definition": "The process of understanding and explaining doctrine. The Lotus Sutra Scholarly Translation engages in continuous interpretation across multiple frameworks.",
+      "chapters": [],
+      "related_concepts": [
+        "understanding",
+        "explanation",
+        "reading",
+        "hermeneutics"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "liberation_teaching",
+      "term": "Liberation Teaching",
+      "english_desc": "Mokṣa-Sāstra",
+      "sanskrit": "मोक्षशास्त्र (Mokṣa-śāstra) or 解脫教 (Jiětuō-jiào)",
+      "definition": "The doctrinal framework for achieving liberation. The entire Lotus Sutra functions as a liberation teaching.",
+      "chapters": [],
+      "related_concepts": [
+        "liberation-doctrine",
+        "emancipation-teaching",
+        "freedom-path"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 13,
+      "phase": "phase3"
+    },
+    {
+      "id": "method",
+      "term": "Method",
+      "english_desc": "Prayoga",
+      "sanskrit": "प्रयोग (Prayoga) or 方法 (Fāngfǎ)",
+      "definition": "The pedagogical approach used in teaching. The Lotus Sutra uses various methods: parables, prophecies, narratives, verses.",
+      "chapters": [],
+      "related_concepts": [
+        "approach",
+        "technique",
+        "pedagogical-method",
+        "device"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "narrative",
+      "term": "Narrative",
+      "english_desc": "Ākhyāna",
+      "sanskrit": "आख्यान (Ākhyāna) or 敍事 (Xùshì)",
+      "definition": "The story-based teaching method. Chapters 23-28 present narrative exemplification of bodhisattva-principles.",
+      "chapters": [],
+      "related_concepts": [
+        "story",
+        "narration",
+        "account",
+        "example-story"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "parable",
+      "term": "Parable",
+      "english_desc": "Upamā",
+      "sanskrit": "उपमा (Upamā) or 譬喻 (Píyù)",
+      "definition": "Teaching through metaphorical story. The Lotus Sutra's Chapters 3-5 are built on great parables (burning house, medicinal herbs).",
+      "chapters": [
+        4
+      ],
+      "related_concepts": [
+        "metaphor",
+        "simile",
+        "allegory",
+        "teaching-story"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 16,
+      "phase": "phase2"
+    },
+    {
+      "id": "philosophical_connection",
+      "term": "Philosophical Connection",
+      "english_desc": "Darśana-Saṃbandha",
+      "sanskrit": "दर्शनसंबन्ध (Darśana-saṃbandha) or 哲學關聯 (Zhéxué-guānlián)",
+      "definition": "The relationships between Buddhist teachings and Western philosophical frameworks. The Lotus Sutra Scholarly Translation explicitly identifies these connections.",
+      "chapters": [],
+      "related_concepts": [
+        "connection",
+        "relation",
+        "link",
+        "framework-relation"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "proof",
+      "term": "Proof",
+      "english_desc": "Pramāṇa",
+      "sanskrit": "प्रमाण (Pramāṇa) or 證據 (Zhèngjù)",
+      "definition": "The logical grounds or evidence for a doctrine. The Lotus Sutra offers multiple proofs: Buddha's authority, universal principle, cosmic verification.",
+      "chapters": [],
+      "related_concepts": [
+        "evidence",
+        "ground",
+        "justification",
+        "logical-basis"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "revelation",
+      "term": "Revelation",
+      "english_desc": "Ābhāsa",
+      "sanskrit": "आभास (Ābhāsa) or 啟示 (Qǐshì)",
+      "definition": "The sudden disclosure of hidden truth. The Lotus Sutra presents itself as a revelation of previously hidden doctrines.",
+      "chapters": [
+        2,
+        3,
+        15
+      ],
+      "related_concepts": [
+        "disclosure",
+        "unveiling",
+        "secret-revealed",
+        "hidden-truth"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 20,
+      "phase": "phase2"
+    },
+    {
+      "id": "scientific_parallel",
+      "term": "Scientific Parallel",
+      "english_desc": "Vidyā-Saṃbandha",
+      "sanskrit": "विद्यासंबन्ध (Vidyā-saṃbandha) or 科學對應 (Kēxué-duìyìng)",
+      "definition": "The connections between Buddhist teachings and modern scientific understanding. The Lotus Sutra Scholarly Translation identifies parallels with quantum physics, systems theory, and neuroscience.",
+      "chapters": [],
+      "related_concepts": [
+        "connection",
+        "parallel",
+        "correspondence",
+        "scientific-link"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "structural_function",
+      "term": "Structural Function",
+      "english_desc": "Vyavasthā-Kāraṇa",
+      "sanskrit": "व्यवस्थाकारण (Vyavasthā-kāraṇa) or 結構功能 (Jiēgòu-gōngnéng)",
+      "definition": "The role that a chapter or section plays within the overall structure of the Lotus Sutra. Each chapter has specific structural significance within the 28-chapter architecture.",
+      "chapters": [],
+      "related_concepts": [
+        "function",
+        "role",
+        "position",
+        "structural-role"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "textual_note",
+      "term": "Textual Note",
+      "english_desc": "Ṭīkā",
+      "sanskrit": "टीका (Ṭīkā) or 文獻註 (Wénxiàn-zhù)",
+      "definition": "Scholarly notes addressing textual issues: translation choices, classical Chinese variants, Sanskrit terminology. The Lotus Sutra Scholarly Translation includes extensive textual notes.",
+      "chapters": [],
+      "related_concepts": [
+        "note",
+        "comment",
+        "textual-clarification",
+        "variant"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "verse",
+      "term": "Verse",
+      "english_desc": "Gāthā",
+      "sanskrit": "गाथा (Gāthā) or 頌 (Sòng)",
+      "definition": "Poetic rendition of doctrine. The Lotus Sutra follows prose sections with verse restatements, allowing different levels of appreciation.",
+      "chapters": [],
+      "related_concepts": [
+        "poetry",
+        "verse",
+        "chant",
+        "poetic-form"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "all_beings_salvation",
+      "term": "All-Beings Salvation",
+      "english_desc": "Sarva-Sattva-Niyati",
+      "sanskrit": "सर्वसत्त्वनियति (Sarva-sattva-niyati) or 一切眾生成佛 (Yīqiè-zhòngshēng-chéngfó)",
+      "definition": "The doctrine that every sentient being, without exception, will achieve Buddhahood. The Lotus Sutra's revolutionary promise distinguishing it from other Buddhist schools.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "universal-salvation",
+        "all-beings",
+        "complete-liberation"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "attainment_assurance",
+      "term": "Attainment Assurance",
+      "english_desc": "Adhimukti-Pratiṣṭhā",
+      "sanskrit": "अधिमुक्तिप्रतिष्ठा (Adhimukti-pratiṣṭhā) or 認可保證 (Rènkě-bǎozhèng)",
+      "definition": "The formal assurance that a practitioner will achieve Buddhahood. Given through prophecy or dharma-revelation. Creates unshakable confidence in one's enlightenment-capacity.",
+      "chapters": [
+        6,
+        7,
+        8,
+        12,
+        13,
+        16,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "assurance",
+        "guarantee",
+        "confidence",
+        "certainty"
+      ],
+      "importance": "core",
+      "depth": 9,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 52,
+      "phase": "phase1"
+    },
+    {
+      "id": "buddha_s_eternal_lifespan",
+      "term": "Buddha's Eternal Lifespan",
+      "english_desc": "Āyus-Apariminaya",
+      "sanskrit": "आयुसपरिमिणय (Āyus-aparimīnaya) or 佛的永恆壽命 (Fóde-yǒnghéng-shòumìng)",
+      "definition": "Chapter 16's revelation that the Buddha's lifespan transcends temporal limitation. The Buddha is not historically bound but eternally present. Transforms the Lotus Sutra from historical event into eternal revelation.",
+      "chapters": [
+        15,
+        16,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "eternal-presence",
+        "eternal-buddha",
+        "timeless-being"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "buddha_nature_universality",
+      "term": "Buddha-Nature Universality",
+      "english_desc": "Samanta-Buddha-Dhātu",
+      "sanskrit": "समन्तबुद्धधातु (Samanta-buddha-dhātu) or 普遍佛性 (Pǔbiàn-fóxìng)",
+      "definition": "The principle that Buddha-nature is present in all beings without exception. Not a special quality granted to a few but a fundamental characteristic of all sentience. The Lotus Sutra's central doctrine.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        12,
+        13,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "universal-buddha-nature",
+        "all-beings-capacity",
+        "samanta-principle"
+      ],
+      "importance": "core",
+      "depth": 10,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "dharma_teacher_veneration",
+      "term": "Dharma-Teacher Veneration",
+      "english_desc": "Sattvā-Guru-Pūjā",
+      "sanskrit": "सत्त्वगुरुपूजा (Sattvā-guru-pūjā) or 法師尊敬 (Fǎshī-zūnjìng)",
+      "definition": "The principle that dharma-teachers should be venerated as Buddhas. Chapter 28 teaches that teachers should be greeted with the same reverence as the Buddha.",
+      "chapters": [
+        19,
+        26,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "teacher-respect",
+        "guru-veneration",
+        "teacher-equivalence"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "eight_year_old_princess_buddhahood",
+      "term": "Eight-Year-Old Princess Buddhahood",
+      "english_desc": "Nāga-Kanyā-Buddha",
+      "sanskrit": "नागकन्याबुद्ध (Nāga-kanyā-buddha) or 龍女成佛 (Lóng-nǚ-chéngfó)",
+      "definition": "Chapter 12's revelation that the Naga Princess achieves Buddhahood immediately, proving that age, gender, and being (non-human) are no obstacles to enlightenment.",
+      "chapters": [
+        12
+      ],
+      "related_concepts": [
+        "gender-transcendence",
+        "age-irrelevance",
+        "non-human-enlightenment"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_dharma_transmission",
+      "term": "Eternal Dharma-Transmission",
+      "english_desc": "Ananta-Dharma-Pravāha",
+      "sanskrit": "अनन्तधर्मप्रवाह (Ananta-dharma-pravāha) or 永恆法傳 (Yǒnghéng-fǎ-chuán)",
+      "definition": "The principle that dharma-transmission continues infinitely into the future. Established through Samantabhadra's eternal vow in Chapter 28.",
+      "chapters": [
+        22
+      ],
+      "related_concepts": [
+        "eternal-transmission",
+        "infinite-continuation",
+        "future-perpetuation"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "karmic_law_naturalism",
+      "term": "Karmic Law Naturalism",
+      "english_desc": "Karma-Niyati-Svābhāvika",
+      "sanskrit": "कर्मनियतिस्वाभाविक (Karma-niyati-svābhāvika) or 業力自然律 (Yèlì-zìrán-lǜ)",
+      "definition": "The principle that karma operates as natural law rather than external punishment. Consequences arise naturally and inevitably from actions.",
+      "chapters": [
+        26
+      ],
+      "related_concepts": [
+        "natural-law",
+        "karmic-consequence",
+        "cause-effect"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "manifestation_capacity",
+      "term": "Manifestation-Capacity",
+      "english_desc": "Ābhāsa-Śakti",
+      "sanskrit": "आभाससक्ति (Ābhāsa-śakti) or 應化能力 (Yìnghuà-néngglì)",
+      "definition": "The enlightened being's capacity to manifest in multiple forms simultaneously. Chapters 24-25 emphasize this as fundamental to compassionate teaching.",
+      "chapters": [
+        24,
+        25,
+        28
+      ],
+      "related_concepts": [
+        "multi-form-capacity",
+        "manifestation-power",
+        "infinite-appearance"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "miraculous_display",
+      "term": "Miraculous Display",
+      "english_desc": "Prātihārya",
+      "sanskrit": "प्रातिहार्य (Prātihārya) or 神蹟 (Shénj)",
+      "definition": "Supernatural demonstrations (walking on water, flying, manifestations) used as teaching tools. Chapter 27 shows that miraculous display can transform consciousness more effectively than argument.",
+      "chapters": [
+        1,
+        21,
+        27
+      ],
+      "related_concepts": [
+        "supernatural-feat",
+        "miracle",
+        "demonstration",
+        "wonder"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 20,
+      "phase": "phase2"
+    },
+    {
+      "id": "name_power",
+      "term": "Name-Power",
+      "english_desc": "Nāma-Śakti",
+      "sanskrit": "नामशक्ति (Nāma-śakti) or 名號力量 (Míngháo-lìliàng)",
+      "definition": "The principle that invoking a Buddha's or bodhisattva's name actualize their presence and protection. Chapter 25 emphasizes that invoking Avalokiteśvara's name produces immeasurable merit.",
+      "chapters": [
+        19,
+        25,
+        28
+      ],
+      "related_concepts": [
+        "sacred-name",
+        "mantra",
+        "invocation-power"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "non_temporal_dharma",
+      "term": "Non-Temporal Dharma",
+      "english_desc": "Akāla-Siddhnta",
+      "sanskrit": "अकालसिद्धान्त (Akāla-siddhnta) or 非時法 (Fēishí-fǎ)",
+      "definition": "The principle that dharmic truth transcends temporal categories. Past and present collapse into eternal simultaneity. Buddhas are eternally present though appearing to act in time.",
+      "chapters": [
+        16,
+        20,
+        21
+      ],
+      "related_concepts": [
+        "eternal-truth",
+        "time-transcendence",
+        "simultaneity"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "one_vehicle_ultimate_truth",
+      "term": "One-Vehicle Ultimate Truth",
+      "english_desc": "Ekayāna-Paramārtha",
+      "sanskrit": "एकयानपरमार्थ (Ekayāna-paramārtha) or 一乘究竟義 (Yīshèng-jiùjìng-yì)",
+      "definition": "The ultimate truth that there is only one path—the bodhisattva-path—and all beings follow this path toward universal Buddhahood.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        13,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [
+        "ultimate-one-vehicle",
+        "final-truth",
+        "supreme-teaching"
+      ],
+      "importance": "core",
+      "depth": 11,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 53,
+      "phase": "phase1"
+    },
+    {
+      "id": "phased_revelation",
+      "term": "Phased Revelation",
+      "english_desc": "Anuloma-Parinaya",
+      "sanskrit": "अनुलोमपरिणय (Anuloma-parinaya) or 漸進啟示 (Jiànjìn-qǐshì)",
+      "definition": "The principle that the Buddha reveals truth progressively according to beings' capacity. Earlier teachings represent partial revelation; the Lotus Sutra completes revelation.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        13
+      ],
+      "related_concepts": [
+        "progressive-revelation",
+        "gradual-teaching",
+        "phased-disclosure"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 37,
+      "phase": "phase1"
+    },
+    {
+      "id": "prabh_taratna_s_stupa_apparition",
+      "term": "Prabhūtaratna's Stupa Apparition",
+      "english_desc": "Prabhūta-Stūpa-Āvirbhāva",
+      "sanskrit": "प्रभूतस्तूपाविर्भाव (Prabhūta-stūpa-āvirbhāva) or 多寶塔出現 (Duōbǎo-tǎ-chūyànxiàn)",
+      "definition": "Chapter 11's miraculous appearance of an ancient Buddha's stupa, demonstrating that dharma-transmission transcends individual Buddha-realms and connects all Buddhas across space.",
+      "chapters": [
+        11,
+        15,
+        16,
+        21
+      ],
+      "related_concepts": [
+        "cosmic-confirmation",
+        "cross-buddha-connection",
+        "transmission-verification"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "rapid_enlightenment_path",
+      "term": "Rapid Enlightenment Path",
+      "english_desc": "Śīghra-Bodhi-Mārga",
+      "sanskrit": "शीघ्रबोधिमार्ग (Śīghra-bodhi-mārga) or 迅速成佛道 (Xùnsù-chéngfó-dào)",
+      "definition": "The teaching that dharma-practitioners can achieve Buddhahood swiftly through bodhisattva-practice. The Lotus Sutra emphasizes rapid attainment possibility.",
+      "chapters": [
+        1,
+        6,
+        13,
+        16,
+        20,
+        28
+      ],
+      "related_concepts": [
+        "swift-enlightenment",
+        "quick-path",
+        "rapid-achievement"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "teaching_accessibility",
+      "term": "Teaching Accessibility",
+      "english_desc": "Samavyañjanā",
+      "sanskrit": "समव्यञ्जना (Samavyañjanā) or 教法易得 (Jiàofǎ-yìdé)",
+      "definition": "The principle that dharma-teaching is equally accessible to all beings regardless of condition. No being is permanently excluded or unteachable.",
+      "chapters": [
+        10,
+        13,
+        20,
+        25
+      ],
+      "related_concepts": [
+        "accessibility",
+        "universal-access",
+        "inclusive-teaching"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "temporal_collapse",
+      "term": "Temporal Collapse",
+      "english_desc": "Kāla-Vyavahāra-Anapekṣā",
+      "sanskrit": "कालव्यवहारअनपेक्षा (Kāla-vyavahāra-anapekṣā) or 時間坍縮 (Shíjiān-tānsuō)",
+      "definition": "The collapse of temporal distinctions where past bodhisattvas are present bodhisattvas, and practitioners already encounter the Buddha though he has passed away. Chapter 27-28 demonstrate this principle.",
+      "chapters": [
+        16,
+        20,
+        27
+      ],
+      "related_concepts": [
+        "time-transcendence",
+        "simultaneity",
+        "eternal-present"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "universal_dharma_access",
+      "term": "Universal Dharma-Access",
+      "english_desc": "Sarvavyañjanā-Bhāvanā",
+      "sanskrit": "सर्ववयञ्जनाभावना (Sarvavyañjanā-bhāvanā) or 普遍法語修習 (Pǔbiàn-fǎyǔ-xiūxí)",
+      "definition": "The principle that the dharma-teaching is formulated in language every being can understand. The Lotus Sutra teaches all beings in their own language and cultural context.",
+      "chapters": [],
+      "related_concepts": [
+        "universal-language",
+        "cultural-adaptation",
+        "accessibility"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 13,
+      "phase": "phase3"
+    },
+    {
+      "id": "arhat",
+      "term": "Arhat",
+      "english_desc": "Perfect Disciple",
+      "sanskrit": "अर्हत्त (Arhat) or 羅漢 (Luóhàn)",
+      "definition": "An enlightened disciple who has eliminated all defilements and achieved nirvana. In earlier Buddhist schools, considered the highest attainable stage. The Lotus Sutra elevates all being toward Buddhahood beyond the arhat-stage.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10
+      ],
+      "related_concepts": [
+        "enlightened-disciple",
+        "perfect-disciple",
+        "worthy-one"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "The unconditioned Arhats,",
+          "full_text": "The unconditioned Arhats,"
+        },
+        {
+          "chapter": 8,
+          "text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We...",
+          "full_text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We are delighted to have obtained what was never obtained before. If the World-Honored One were to grant each of us prophecy, just as he granted to the other great disciples, would this not be excellent?' The Buddha, knowing the thoughts of these beings, told Mahākāśyapa: 'These twelve hundred arhats—I shall now grant them, in sequential order in my presence, prophecies of supreme enlightenment."
+        },
+        {
+          "chapter": 8,
+          "text": "'The five hundred arhats—Uruvelā-Kāśyapa, Gaya-Kāśyapa, Nādi-Kāśyapa, Kalodāyin, Udāyin, Aniruddha, ...",
+          "full_text": "'The five hundred arhats—Uruvelā-Kāśyapa, Gaya-Kāśyapa, Nādi-Kāśyapa, Kalodāyin, Udāyin, Aniruddha, Revata, Kapiṇa, Bakula, Cunda, Svāgata, and the others—shall all attain supreme enlightenment, bearing the same Buddha-name: Universal-Illumination.'\"¹¹"
+        }
+      ],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "bodhisattva_in_training",
+      "term": "Bodhisattva-in-Training",
+      "english_desc": "Bhāvanā-Carya-Bodhisattva",
+      "sanskrit": "भावनाचर्यबोधिसत्त्व (Bhāvanā-carya-bodhisattva) or 修行菩薩 (Xiūxíng-púsà)",
+      "definition": "A bodhisattva actively cultivating the path toward Buddhahood. All practitioners engaging in dharma-practice become bodhisattvas-in-training.",
+      "chapters": [
+        10,
+        13,
+        14,
+        22
+      ],
+      "related_concepts": [
+        "trainee-bodhisattva",
+        "practitioner",
+        "cultivator"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "dharma_teacher",
+      "term": "Dharma-Teacher",
+      "english_desc": "Saddharma-Bhāṇaka",
+      "sanskrit": "सद्धर्मभाणक (Saddharma-bhāṇaka) or 法師 (Fǎshī)",
+      "definition": "One who teaches the dharma to others. Given special protection and veneration in the Lotus Sutra. The dharma-teacher is elevated to Buddha-equivalent status.",
+      "chapters": [
+        22,
+        26,
+        27
+      ],
+      "related_concepts": [
+        "teacher",
+        "dharma-preacher",
+        "instructor"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "disciple",
+      "term": "Disciple",
+      "english_desc": "Śrāvaka",
+      "sanskrit": "श्रावक (Śrāvaka) or 聲聞 (Shēngwén)",
+      "definition": "One who hears the Buddha's teaching and practices according to it. The Lotus Sutra extends the promise of Buddhahood even to śrāvakas, contradicting schools that limit them to arhat-stage.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        13,
+        16
+      ],
+      "related_concepts": [
+        "follower",
+        "listener",
+        "practitioner"
+      ],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [
+        {
+          "chapter": 8,
+          "text": "\"At that time, Furūṇa Maitrayaṇīputra, having heard from the Buddha these teachings of wisdom and sk...",
+          "full_text": "\"At that time, Furūṇa Maitrayaṇīputra, having heard from the Buddha these teachings of wisdom and skillful means, the adapted teaching according to circumstance, and hearing that prophecies of supreme enlightenment were granted to the great disciples, and hearing of past-life causes and conditions, and hearing of the Buddhas' great autonomous miraculous power—he gained what had never been obtained before, his heart became pure and elated. He rose from his seat, approached the Buddha, prostrated his head to the Buddha's feet, withdrew to one side, gazed upon the World-Honored One's face without ceasing, and contemplated:²"
+        },
+        {
+          "chapter": 8,
+          "text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We...",
+          "full_text": "\"At that time, the twelve hundred arhats whose minds possessed independent mastery contemplated: 'We are delighted to have obtained what was never obtained before. If the World-Honored One were to grant each of us prophecy, just as he granted to the other great disciples, would this not be excellent?' The Buddha, knowing the thoughts of these beings, told Mahākāśyapa: 'These twelve hundred arhats—I shall now grant them, in sequential order in my presence, prophecies of supreme enlightenment."
+        }
+      ],
+      "launch_score": 49,
+      "phase": "phase1"
+    },
+    {
+      "id": "enlightenment_aspirant",
+      "term": "Enlightenment-Aspirant",
+      "english_desc": "Bodhi-Sattva-Pranidhāna",
+      "sanskrit": "बोधिसत्त्वप्रणिधान (Bodhi-sattva-pranidhāna) or 發菩提心 (Fā-púti-xīn)",
+      "definition": "One who has awakened the aspiration for Buddhahood and vowed to achieve enlightenment for all beings. The most fundamental characteristic of Mahayana practice.",
+      "chapters": [
+        5,
+        10,
+        13,
+        14,
+        22,
+        27
+      ],
+      "related_concepts": [
+        "vow",
+        "aspiration",
+        "determination",
+        "commitment"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "eternal_practitioner",
+      "term": "Eternal Practitioner",
+      "english_desc": "Ananta-Sādhaka",
+      "sanskrit": "अनन्तसाधक (Ananta-sādhaka) or 永恆修行者 (Yǒnghéng-xiūxíngzhě)",
+      "definition": "One who practices the dharma eternally across infinite rebirths. The Lotus Sutra promises eternal protection and encouragement for all practitioners across all ages.",
+      "chapters": [
+        23,
+        27
+      ],
+      "related_concepts": [
+        "perpetual-practitioner",
+        "eternal-disciple",
+        "continuous-cultivator"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 17,
+      "phase": "phase2"
+    },
+    {
+      "id": "false_view_holder",
+      "term": "False-View Holder",
+      "english_desc": "Mithyā-Dṛṣti-Sattva",
+      "sanskrit": "मिथ्यादृष्टिसत्त्व (Mithyā-dṛṣti-sattva) or 邪見眾生 (Xiéjiàn-zhòngshēng)",
+      "definition": "One deeply attached to non-Buddhist views. Chapter 27 demonstrates that even such beings can be transformed through compassionate teaching.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [
+        "deluded-being",
+        "false-view",
+        "non-believer"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "heavenly_being",
+      "term": "Heavenly Being",
+      "english_desc": "Deva-Sattva",
+      "sanskrit": "देवसत्त्व (Deva-sattva) or 天人 (Tiānrén)",
+      "definition": "A being reborn in heavenly realms due to virtuous karma. Still subject to suffering and rebirth. The Lotus Sutra teaches that even heavenly beings will eventually achieve Buddhahood.",
+      "chapters": [
+        3,
+        10,
+        11,
+        13,
+        15,
+        19,
+        21,
+        26
+      ],
+      "related_concepts": [
+        "celestial-being",
+        "heavenly-creature"
+      ],
+      "importance": "core",
+      "depth": 8,
+      "color": "#16a085",
+      "verses": [],
+      "launch_score": 48,
+      "phase": "phase1"
+    },
+    {
+      "id": "human_practitioner",
+      "term": "Human Practitioner",
+      "english_desc": "Manuṣya-Sādhaka",
+      "sanskrit": "मनुष्यसाधक (Manuṣya-sādhaka) or 人修行者 (Rén-xiūxíngzhě)",
+      "definition": "A human being practicing the dharma. Humans occupy a special position in Buddhist cosmology—superior to animals and lower heavenly beings in dharma-capacity, inferior to higher heavenly beings in lifespan.",
+      "chapters": [],
+      "related_concepts": [
+        "human-practitioner",
+        "human-disciple"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 12,
+      "phase": "phase3"
+    },
+    {
+      "id": "interested_in_dharma_being",
+      "term": "Interested-in-Dharma Being",
+      "english_desc": "Dharma-Anurūptha-Sattva",
+      "sanskrit": "धर्मानुरूपथसत्त्व (Dharma-anurūptha-sattva) or 樂聞法眾生 (Lèwén-fǎ-zhòngshēng)",
+      "definition": "One who has awakened interest in dharma-learning and thus created the karmic condition for enlightenment. The Lotus Sutra teaches that such interest itself represents bodhisattva-capacity.",
+      "chapters": [
+        13,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "dharma-interested",
+        "spiritual-seeker",
+        "listener"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "lineage_holder",
+      "term": "Lineage-Holder",
+      "english_desc": "Paramparā-Dhāra",
+      "sanskrit": "परम्परीधार (Paramparā-dhāra) or 傳承者 (Chuánchénghǎ)",
+      "definition": "One who maintains and transmits the dharma-lineage. All practitioners become lineage-holders through their commitment to dharma-transmission.",
+      "chapters": [
+        22
+      ],
+      "related_concepts": [
+        "transmitter",
+        "successor",
+        "keeper-of-lineage"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "monastic_practitioner",
+      "term": "Monastic Practitioner",
+      "english_desc": "Bhikṣu-Sādhaka",
+      "sanskrit": "भिक्षुसाधक (Bhikṣu-sādhaka) or 比丘修行者 (Bǐqiū-xiūxíngzhě)",
+      "definition": "A monk formally ordained and practicing within the sangha community. The Lotus Sutra emphasizes that monks have same Buddhahood-capacity as lay practitioners.",
+      "chapters": [
+        3,
+        6,
+        7,
+        10,
+        13
+      ],
+      "related_concepts": [
+        "monk",
+        "ordained-practitioner",
+        "monastic-disciple"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "pratyekabuddha",
+      "term": "Pratyekabuddha",
+      "english_desc": "Solitary Buddha",
+      "sanskrit": "प्रत्येकबुद्ध (Pratyekabuddha) or 辟支佛 (Pízhī-fó)",
+      "definition": "One who achieves enlightenment independently without a teacher. In earlier Buddhist schools considered superior to disciples but inferior to Buddhas. The Lotus Sutra extends Buddhahood-promise to pratyekabuddhas.",
+      "chapters": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        13
+      ],
+      "related_concepts": [
+        "solitary-buddha",
+        "independent-enlightened-one"
+      ],
+      "importance": "central",
+      "depth": 7,
+      "color": "#3498db",
+      "verses": [
+        {
+          "chapter": 2,
+          "text": "Those seeking the pratyekabuddha vehicle,",
+          "full_text": "Those seeking the pratyekabuddha vehicle,"
+        },
+        {
+          "chapter": 10,
+          "text": "\"At that time, the World-Honored One, through the Bodhisattva Medicine King, addressed eighty thousa...",
+          "full_text": "\"At that time, the World-Honored One, through the Bodhisattva Medicine King, addressed eighty thousand great Bodhisattvas: 'Medicine King, do you see in this great assembly the immeasurable celestial beings, dragon-kings, yakṣas, gandharvas, asuras, garuḍas, kiṃnaras, mahoragas, humans and non-humans, and monks, nuns, laymen, laywomen, those seeking śrāvaka-enlightenment, those seeking pratyekabuddha-enlightenment, those seeking Buddha-enlightenment? All such beings as these, who have heard the Lotus Sutra even one verse or sentence, or experienced even a single moment of rejoicing in their hearts before the Buddha, I grant them all the prophecy: they shall attain anuttara-samyak-sambodhi (supreme enlightenment).'\"²"
+        }
+      ],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "skeptical_beginner",
+      "term": "Skeptical-Beginner",
+      "english_desc": "Śaṃśaya-Ārambha",
+      "sanskrit": "शंशयारम्भ (Śaṃśaya-ārambha) or 疑惑開始 (Yíhuò-kāishǐ)",
+      "definition": "One newly encountering dharma with initial skepticism. The Lotus Sutra promises that even skeptics will eventually achieve enlightenment through persistent exposure to dharma.",
+      "chapters": [
+        27
+      ],
+      "related_concepts": [
+        "skeptic",
+        "doubler",
+        "beginner"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "sudden_awakened_practitioner",
+      "term": "Sudden-Awakened Practitioner",
+      "english_desc": "Tun-Wu-Sādhaka",
+      "sanskrit": "तुङ्-व्-साधक (Tun-wu-sādhaka) or 頓悟修行者 (Dùnwù-xiūxíngzhě)",
+      "definition": "One who achieves enlightenment suddenly through dharma-revelation rather than gradual practice. The Lotus Sutra emphasizes sudden enlightenment possibility.",
+      "chapters": [
+        2,
+        3,
+        5,
+        20,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "sudden-enlightenment-practitioner",
+        "flash-awakened",
+        "quick-enlightened"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "virtuous_teacher",
+      "term": "Virtuous-Teacher",
+      "english_desc": "Kalyāṇa-Mitra",
+      "sanskrit": "कल्याणमित्र (Kalyāṇa-mitra) or 善知識 (Shàn-zhīshi)",
+      "definition": "An enlightened or advanced practitioner who serves as guide and inspiration for others. Chapter 27 identifies virtuous-teachers as the \"great cause of enlightenment.\"",
+      "chapters": [
+        13,
+        14,
+        20,
+        22,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "spiritual-friend",
+        "guide",
+        "mentor",
+        "wise-friend"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 36,
+      "phase": "phase1"
+    },
+    {
+      "id": "woman_practitioner",
+      "term": "Woman Practitioner",
+      "english_desc": "Mahilā-Sādhaka",
+      "sanskrit": "महिलासाधक (Mahilā-sādhaka) or 女修行者 (Nǚ-xiūxíngzhě)",
+      "definition": "A female practitioner of dharma. Chapter 12 revolutionarily declares that a woman (the Naga Princess) can achieve Buddhahood immediately, transcending gender barriers.",
+      "chapters": [
+        12,
+        13,
+        19,
+        25,
+        27,
+        28
+      ],
+      "related_concepts": [
+        "female-practitioner",
+        "woman-disciple",
+        "nun"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "circumambulation",
+      "term": "Circumambulation",
+      "english_desc": "Pradakṣiṇa",
+      "sanskrit": "प्रदक्षिण (Pradakṣiṇa) or 繞行 (Ràoxíng)",
+      "definition": "The practice of walking in a clockwise circle around sacred objects or persons as a gesture of respect. Used throughout the Lotus Sutra to show reverence.",
+      "chapters": [
+        11,
+        13,
+        15,
+        16,
+        21
+      ],
+      "related_concepts": [
+        "respect-gesture",
+        "circumambulatory-practice",
+        "sacred-movement"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "eight_day_observance",
+      "term": "Eight-Day Observance",
+      "english_desc": "Aṣṭa-Aha-Vrata",
+      "sanskrit": "अष्टाहव्रत (Aṣṭa-aha-vrata) or 八日齋戒 (Bārì-zhāijiè)",
+      "definition": "The eight precepts observed for a period of time as intensive practice commitment. Represents heightened dharma-engagement.",
+      "chapters": [
+        5,
+        17,
+        18,
+        19
+      ],
+      "related_concepts": [
+        "intensive-practice",
+        "precept-observance",
+        "formal-commitment"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "flower_offering",
+      "term": "Flower Offering",
+      "english_desc": "Puṣpa-Pradāna",
+      "sanskrit": "पुष्पप्रदान (Puṣpa-pradāna) or 花供養 (Huā-gòngyǎng)",
+      "definition": "The offering of flowers to Buddha, bodhisattvas, or sacred objects. Represents the transient beauty of all phenomena and gratitude.",
+      "chapters": [
+        11,
+        15,
+        16,
+        21,
+        26
+      ],
+      "related_concepts": [
+        "offering",
+        "reverence-expression",
+        "gratitude"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "incense_offering",
+      "term": "Incense Offering",
+      "english_desc": "Dhūpa-Pradāna",
+      "sanskrit": "धूपप्रदान (Dhūpa-pradāna) or 香供養 (Xiāng-gòngyǎng)",
+      "definition": "The offering of incense representing the spreading of dharma-fragrance throughout realms. Common ritual element.",
+      "chapters": [
+        15,
+        21
+      ],
+      "related_concepts": [
+        "offering",
+        "fragrance",
+        "ritual",
+        "reverence"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 18,
+      "phase": "phase2"
+    },
+    {
+      "id": "lamp_offering",
+      "term": "Lamp Offering",
+      "english_desc": "Dīpa-Pradāna",
+      "sanskrit": "दीपप्रदान (Dīpa-pradāna) or 燈供養 (Dēng-gòngyǎng)",
+      "definition": "The offering of oil lamps or lights representing the illumination of dharmic understanding. Symbolic of dispelling ignorance-darkness.",
+      "chapters": [
+        1,
+        21,
+        26
+      ],
+      "related_concepts": [
+        "light-offering",
+        "illumination",
+        "symbolic-offering"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "m_las",
+      "term": "Mālas",
+      "english_desc": "Beads",
+      "sanskrit": "माला (Māla) or 念珠 (Niànzhū)",
+      "definition": "Beads used for counting repetitions of mantra or Buddha's name. Aid to sustained practice and meditation.",
+      "chapters": [
+        5,
+        18,
+        19,
+        25
+      ],
+      "related_concepts": [
+        "prayer-beads",
+        "mantra-counter",
+        "practice-aid"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "mantra_recitation",
+      "term": "Mantra Recitation",
+      "english_desc": "Mantra-Japa",
+      "sanskrit": "मन्त्रजप (Mantra-japa) or 持咒 (Zhízhòu)",
+      "definition": "The repetitive chanting or recitation of sacred syllables. Produces concentrated mental state and invokes protective or transformative presence.",
+      "chapters": [],
+      "related_concepts": [
+        "chanting",
+        "sacred-sound",
+        "mantra-practice"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 13,
+      "phase": "phase3"
+    },
+    {
+      "id": "meal_offering",
+      "term": "Meal Offering",
+      "english_desc": "Bhikta-Dāna",
+      "sanskrit": "भक्तदान (Bhakta-dāna) or 食供養 (Shí-gòngyǎng)",
+      "definition": "The offering of food to Buddha, bodhisattvas, or monks. Represents material support for dharma practice.",
+      "chapters": [
+        1,
+        13,
+        17,
+        18,
+        19,
+        26
+      ],
+      "related_concepts": [
+        "food-offering",
+        "material-support",
+        "nourishment-offering"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "prostration",
+      "term": "Prostration",
+      "english_desc": "Namaskāra",
+      "sanskrit": "नमस्कार (Namaskāra) or 禮拜 (Lǐbài)",
+      "definition": "The practice of bowing or prostrating before Buddha, bodhisattvas, or sacred objects as gesture of ultimate reverence.",
+      "chapters": [
+        11,
+        13,
+        15,
+        16,
+        21
+      ],
+      "related_concepts": [
+        "bowing",
+        "reverence",
+        "honor",
+        "salutation"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 34,
+      "phase": "phase1"
+    },
+    {
+      "id": "relic_veneration",
+      "term": "Relic Veneration",
+      "english_desc": "Śarīra-Pūjā",
+      "sanskrit": "शरीरपूजा (Śarīra-pūjā) or 舍利崇拜 (Shèlì-chóngbài)",
+      "definition": "The practice of venerating relics of Buddhas or great masters. Expresses gratitude for their compassionate teaching and maintains connection to the dharma-lineage.",
+      "chapters": [
+        11,
+        21,
+        22
+      ],
+      "related_concepts": [
+        "relic",
+        "veneration",
+        "sacred-remains"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "ritual_precept",
+      "term": "Ritual Precept",
+      "english_desc": "Vrata-Saṃgrahā",
+      "sanskrit": "व्रतसंग्रह (Vrata-saṃgrahā) or 戒律儀式 (Jiè-lǜ-yìshi)",
+      "definition": "The formal observance of ethical precepts within structured ritual contexts. Establishes karmic protection and purification.",
+      "chapters": [
+        17,
+        18
+      ],
+      "related_concepts": [
+        "precept",
+        "vow",
+        "ethical-rule"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 17,
+      "phase": "phase2"
+    },
+    {
+      "id": "mantra_seal",
+      "term": "Mantra-Seal",
+      "english_desc": "Mudra",
+      "sanskrit": "मुद्रा (Mudra) or 印 (Yìn)",
+      "definition": "A hand gesture or symbolic seal representing dharmic principles or invoking protective/transformative presence. Often accompanies mantra recitation.",
+      "chapters": [
+        21,
+        25,
+        26
+      ],
+      "related_concepts": [
+        "hand-gesture",
+        "symbolic-seal",
+        "protective-sign"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "vow",
+      "term": "Vow",
+      "english_desc": "Pranidhāna",
+      "sanskrit": "प्रणिधान (Pranidhāna) or 發願 (Fāyuàn)",
+      "definition": "A formal commitment to a spiritual goal or principle. The Lotus Sutra is structured around multiple vows: bodhisattva-vows, dharma-transmission vows, protection vows.",
+      "chapters": [
+        13,
+        14,
+        22,
+        25
+      ],
+      "related_concepts": [
+        "pledge",
+        "commitment",
+        "aspiration",
+        "resolution"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 32,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_buddha",
+      "term": "Eternal Buddha",
+      "english_desc": "Ananta-Buddha",
+      "sanskrit": "अनन्तबुद्ध (Ananta-buddha) or 永恆佛 (Yǒnghéng-fó)",
+      "definition": "The Buddha's transcendence of temporal limitation. Chapter 16's revelation that the Buddha \"never passes away\" but remains eternally present.",
+      "chapters": [
+        15,
+        16,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "eternal-buddha",
+        "timeless-buddha",
+        "ever-present-buddha"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_encouragement",
+      "term": "Eternal Encouragement",
+      "english_desc": "Ananta-Prabodhana",
+      "sanskrit": "अनन्तप्रबोधन (Ananta-prabodhana) or 永恆鼓勵 (Yǒnghéng-gǔlì)",
+      "definition": "Samantabhadra's eternal vow to encourage and protect all practitioners across all future ages. Ensures dharma-transmission perpetuates.",
+      "chapters": [
+        28
+      ],
+      "related_concepts": [
+        "eternal-support",
+        "infinite-encouragement",
+        "forever-protection"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_father",
+      "term": "Eternal Father",
+      "english_desc": "Ananta-Pitṛ",
+      "sanskrit": "अनन्तपितृ (Ananta-pitṛ) or 永恆父親 (Yǒnghéng-fùqīn)",
+      "definition": "The Buddha's relationship to all beings as eternal caretaker and guide. Not merely a historical teacher but an eternally-present father-figure.",
+      "chapters": [
+        15,
+        16,
+        21
+      ],
+      "related_concepts": [
+        "eternal-parent",
+        "forever-guide",
+        "timeless-caregiver"
+      ],
+      "importance": "supporting",
+      "depth": 3,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 19,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_lifespan",
+      "term": "Eternal Lifespan",
+      "english_desc": "Ananta-Āyus",
+      "sanskrit": "अनन्तायुस् (Ananta-āyus) or 無量壽命 (Wúliàng-shòumìng)",
+      "definition": "The Buddha's lifespan transcending temporal limitation. Chapter 16's revelation that the Buddha achieves eternal lifespan through infinite rebirths of teaching.",
+      "chapters": [
+        15,
+        16,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "infinite-life",
+        "eternal-presence",
+        "timeless-duration"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "eternal_presence",
+      "term": "Eternal Presence",
+      "english_desc": "Ananta-Sthiti",
+      "sanskrit": "अनन्तस्थिति (Ananta-sthiti) or 永恆在場 (Yǒnghéng-zàichǎng)",
+      "definition": "The principle that enlightened beings remain eternally present to help practitioners despite appearing to be temporally distant or passed away.",
+      "chapters": [
+        15,
+        16,
+        20,
+        21,
+        28
+      ],
+      "related_concepts": [
+        "eternal-presence",
+        "forever-presence",
+        "timeless-availability"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "infinite_eons",
+      "term": "Infinite Eons",
+      "english_desc": "Ananta-Kalpa",
+      "sanskrit": "अनन्तकल्प (Ananta-kalpa) or 無邊劫 (Wúbiān-jiè)",
+      "definition": "Immeasurably vast time periods. The Lotus Sutra repeatedly emphasizes that dharma-transmission and bodhisattva-cultivation occur across infinite eons.",
+      "chapters": [
+        8,
+        12,
+        16,
+        20,
+        23,
+        27
+      ],
+      "related_concepts": [
+        "endless-eons",
+        "infinite-time",
+        "vast-duration"
+      ],
+      "importance": "central",
+      "depth": 6,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 35,
+      "phase": "phase1"
+    },
+    {
+      "id": "infinite_realms",
+      "term": "Infinite Realms",
+      "english_desc": "Ananta-Kṣetra",
+      "sanskrit": "अनन्तक्षेत्र (Ananta-kṣetra) or 無邊國土 (Wúbiān-guótǔ)",
+      "definition": "The principle that Buddha-realms exist infinitely throughout space. Dharma-transmission occurs across all these infinite realms simultaneously.",
+      "chapters": [
+        15,
+        16,
+        21,
+        25
+      ],
+      "related_concepts": [
+        "infinite-worlds",
+        "endless-universes",
+        "limitless-realms"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "maitreya_age_enlightenment",
+      "term": "Maitreya-Age Enlightenment",
+      "english_desc": "Maitreya-Buddhahood",
+      "sanskrit": "मैत्रेयबुद्धत्व (Maitreya-buddhatva) or 彌勒佛成就 (Míléi-fó-chéngjiù)",
+      "definition": "The promise that practitioners will achieve Buddhahood in the future Maitreya-Buddha era. Chapter 28's final promise of enlightenment-attainment.",
+      "chapters": [
+        28
+      ],
+      "related_concepts": [
+        "future-buddhahood",
+        "maitreya-age",
+        "future-achievement"
+      ],
+      "importance": "supporting",
+      "depth": 1,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 15,
+      "phase": "phase2"
+    },
+    {
+      "id": "non_temporal_truth",
+      "term": "Non-Temporal Truth",
+      "english_desc": "Akāla-Satya",
+      "sanskrit": "अकालसत्य (Akāla-satya) or 非時諦 (Fēishí-dì)",
+      "definition": "Ultimate dharmic truth that transcends temporal categories and applies eternally across all times and places.",
+      "chapters": [
+        20,
+        21
+      ],
+      "related_concepts": [
+        "eternal-truth",
+        "timeless-reality",
+        "universal-principle"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 17,
+      "phase": "phase2"
+    },
+    {
+      "id": "past_eons",
+      "term": "Past Eons",
+      "english_desc": "Atīta-Kalpa",
+      "sanskrit": "अतीतकल्प (Atīta-kalpa) or 過去劫 (Guòqù-jiè)",
+      "definition": "Ancient time periods beyond measurable counting. The Lotus Sutra emphasizes that bodhisattvas have cultivated for uncountable past eons.",
+      "chapters": [
+        8,
+        12,
+        16,
+        20,
+        23
+      ],
+      "related_concepts": [
+        "past-eons",
+        "ancient-times",
+        "previous-ages"
+      ],
+      "importance": "central",
+      "depth": 5,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 33,
+      "phase": "phase2"
+    },
+    {
+      "id": "present_moment",
+      "term": "Present Moment",
+      "english_desc": "Pratyutpanna-Kāla",
+      "sanskrit": "प्रत्युत्पन्नकाल (Pratyutpanna-kāla) or 現在時 (Xiànzài-shí)",
+      "definition": "The eternal present where dharmic truth is continuously actualized. Not limited to historical present but represents perpetual actualization.",
+      "chapters": [],
+      "related_concepts": [
+        "present-time",
+        "now",
+        "current-moment",
+        "eternal-present"
+      ],
+      "importance": "supporting",
+      "depth": 0,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 14,
+      "phase": "phase3"
+    },
+    {
+      "id": "self_existing",
+      "term": "Self-Existing",
+      "english_desc": "Svayambhu",
+      "sanskrit": "स्वयंभु (Svayambhu) or 自成 (Zìchéng)",
+      "definition": "The principle that dharmic truth exists independently and eternally without needing external causation. Buddha-nature is self-existing in all beings.",
+      "chapters": [
+        1,
+        3,
+        16,
+        20
+      ],
+      "related_concepts": [
+        "self-existent",
+        "self-arising",
+        "independent-reality"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "timeless_teaching",
+      "term": "Timeless Teaching",
+      "english_desc": "Akāla-Śāsana",
+      "sanskrit": "अकालशासन (Akāla-śāsana) or 非時教法 (Fēishí-jiàofǎ)",
+      "definition": "The Buddha's teaching that applies eternally, transcending historical time. The Lotus Sutra itself represents timeless teaching.",
+      "chapters": [
+        2,
+        15,
+        16,
+        21
+      ],
+      "related_concepts": [
+        "eternal-teaching",
+        "timeless-doctrine",
+        "universal-teaching"
+      ],
+      "importance": "central",
+      "depth": 4,
+      "color": "#3498db",
+      "verses": [],
+      "launch_score": 31,
+      "phase": "phase2"
+    },
+    {
+      "id": "timeless_bodhisattva",
+      "term": "Timeless Bodhisattva",
+      "english_desc": "Akāla-Sattva-Bodhisattva",
+      "sanskrit": "अकालसत्त्वबोधिसत्त्व (Akāla-sattva-bodhisattva) or 永恆菩薩 (Yǒnghéng-púsà)",
+      "definition": "Bodhisattvas whose compassionate activity transcends temporal limitation. They manifest eternally to help beings achieve enlightenment.",
+      "chapters": [
+        24,
+        25
+      ],
+      "related_concepts": [
+        "eternal-bodhisattva",
+        "timeless-enlightened-being"
+      ],
+      "importance": "supporting",
+      "depth": 2,
+      "color": "#95a5a6",
+      "verses": [],
+      "launch_score": 16,
+      "phase": "phase2"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "anuttara_samyak_sambodhi",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "anuttara_samyak_sambodhi",
+      "to": "wisdom",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "avalokite_vara",
+      "to": "compassion",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "avalokite_vara",
+      "to": "bodhisattva",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "avalokite_vara",
+      "to": "manifestation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "ikya",
+      "to": "sangha",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhisattva",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhisattva",
+      "to": "vow",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhisattva",
+      "to": "compassion",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "buddha",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "buddha",
+      "to": "buddhahood",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "buddhahood",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "buddhahood",
+      "to": "buddha",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "consciousness",
+      "to": "mind",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "consciousness",
+      "to": "perception",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_eye",
+      "to": "wisdom",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_eye",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma",
+      "to": "teaching",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_blossom",
+      "to": "revelation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_blossom",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_transmission",
+      "to": "dharma",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "dharma_transmission",
+      "to": "teaching",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "enlightenment",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "extinction_of_defilements",
+      "to": "liberation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "extinction_of_defilements",
+      "to": "samsara",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "five_aggregates",
+      "to": "consciousness",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "five_eyes",
+      "to": "perception",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "five_eyes",
+      "to": "wisdom",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "five_eyes",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "six_perfections",
+      "to": "virtue",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "six_perfections",
+      "to": "wisdom",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "six_senses",
+      "to": "perception",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "six_senses",
+      "to": "consciousness",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "six_senses",
+      "to": "mind",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "karma",
+      "to": "rebirth",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "karmic_root",
+      "to": "karma",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "liberation",
+      "to": "liberation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "liberation",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "merit",
+      "to": "virtue",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "merit",
+      "to": "karma",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "mind",
+      "to": "consciousness",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "non_self",
+      "to": "impermanence",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "one_vehicle",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "samsara",
+      "to": "rebirth",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "samsara",
+      "to": "suffering",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "samsara",
+      "to": "attachment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "samsara",
+      "to": "craving",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "sensory_transformation",
+      "to": "transformation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "sensory_transformation",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "tath_gata",
+      "to": "buddha",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "teaching",
+      "to": "dharma",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "transformation",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "universal_prophecy",
+      "to": "prophecy",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "universal_salvation",
+      "to": "liberation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "universal_salvation",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "wisdom",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhisattva_path",
+      "to": "bodhisattva",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhisattva_path",
+      "to": "vow",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "detachment",
+      "to": "equanimity",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "divine_abodes",
+      "to": "virtue",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "divine_abodes",
+      "to": "compassion",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "bodhi_tree",
+      "to": "enlightenment",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "attachment",
+      "to": "craving",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "attachment",
+      "to": "aversion",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "clarity",
+      "to": "tranquility",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "grounded_mindfulness",
+      "to": "mindfulness",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "eon",
+      "to": "eternity",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "eternity",
+      "to": "timelessness",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "rebirth",
+      "to": "samsara",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "timelessness",
+      "to": "eternity",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "apparatus",
+      "to": "apparatus",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "commentary_tradition",
+      "to": "interpretation",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "exposition",
+      "to": "teaching",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "verse",
+      "to": "verse",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "attainment_assurance",
+      "to": "confidence",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "enlightenment_aspirant",
+      "to": "vow",
+      "type": "related_to",
+      "bidirectional": true
+    },
+    {
+      "from": "ritual_precept",
+      "to": "vow",
+      "type": "related_to",
+      "bidirectional": true
+    }
+  ]
+}

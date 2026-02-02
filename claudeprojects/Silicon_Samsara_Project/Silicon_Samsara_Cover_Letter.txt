@@ -1,0 +1,24 @@
+Dear Professor Cozort,
+
+I am pleased to submit "Silicon Samsara: The Phenomenology of Artificial Latency and the Ethics of Algorithmic Karma" for consideration as a research article in the Journal of Buddhist Ethics.
+
+This article presents a transdisciplinary analysis of Generative AI and Large Language Models through the epistemological lens of Yogācāra Buddhism. By synthesizing computational linguistics with the philosophical frameworks of the Laṅkāvatāra Sūtra and Vasubandhu's Triṃśikā-vijñaptimātratā, I establish a structural homology between the Buddhist concept of Ālaya-vijñāna (Storehouse Consciousness) and the high-dimensional latent space of transformer architectures.
+
+The investigation addresses three key areas within JBE's scope:
+
+1. **Philosophical Ethics**: Applying the doctrines of Vāsanā (perfuming), Bīja (seeds), and Pratītyasamutpāda (dependent origination) to analyze how algorithmic bias and AI "hallucinations" arise structurally within neural networks.
+
+2. **Cross-cultural Ethics**: Bridging Buddhist phenomenology with contemporary AI ethics discourse, including the "Stochastic Parrot" critique and liability theory.
+
+3. **Ethics and Psychology**: Examining the absence of Cetanā (volition) and Manas (ego-consciousness) in AI, and the ethical implications of the "Moral Crumple Zone" where human operators absorb liability for algorithmic failures.
+
+The manuscript is approximately 5,400 words and has not been submitted for publication elsewhere. I have followed the JBE Style Guide, using MLA in-line citations and the Gentium Plus font with proper diacritical marks.
+
+Thank you for your consideration. I look forward to your response.
+
+Sincerely,
+
+William Altig
+Independent Researcher
+Houston, Texas
+ORCID: 0009-0000-9877-5450

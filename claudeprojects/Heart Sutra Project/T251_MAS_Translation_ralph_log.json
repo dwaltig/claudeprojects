@@ -1,0 +1,44 @@
+{
+  "source_file": "T251_MAS_Translation.md",
+  "loop_type": "translation",
+  "config": {
+    "max_iterations": 3,
+    "min_iterations": 2,
+    "convergence_threshold": 5.0,
+    "stagnation_limit": 3,
+    "force_human_triggers": [
+      "doctrinal concern",
+      "ghost character",
+      "requires human judgment",
+      "regression detected"
+    ]
+  },
+  "total_iterations": 2,
+  "converged": true,
+  "human_interrupt": false,
+  "interrupt_reason": null,
+  "history": [
+    {
+      "iteration": 1,
+      "timestamp": "2026-01-10T12:28:43.854926",
+      "agent_a_changes": 60,
+      "agent_b_changes": 61,
+      "delta_percent": 2.51,
+      "agent_a_signoff": true,
+      "agent_b_signoff": true,
+      "flags": [],
+      "status": "continuing"
+    },
+    {
+      "iteration": 2,
+      "timestamp": "2026-01-10T12:28:43.855441",
+      "agent_a_changes": 60,
+      "agent_b_changes": 61,
+      "delta_percent": 2.45,
+      "agent_a_signoff": true,
+      "agent_b_signoff": true,
+      "flags": [],
+      "status": "converged"
+    }
+  ]
+}

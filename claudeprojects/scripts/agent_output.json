@@ -1,0 +1,60 @@
+{
+  "plan": {
+    "task_type": "diacritical_validation",
+    "steps": [
+      {
+        "id": 1,
+        "action": "scan_files",
+        "target": "all_text_files"
+      },
+      {
+        "id": 2,
+        "action": "check_encoding",
+        "target": "utf8_validation"
+      },
+      {
+        "id": 3,
+        "action": "validate_diacriticals",
+        "target": "sanskrit_marks"
+      },
+      {
+        "id": 4,
+        "action": "identify_errors",
+        "target": "encoding_issues"
+      },
+      {
+        "id": 5,
+        "action": "generate_report",
+        "target": "validation_report"
+      }
+    ],
+    "scope": {
+      "projects": [
+        "diamond"
+      ],
+      "file_patterns": [
+        "*.md",
+        "*.txt"
+      ]
+    }
+  },
+  "results": {
+    "files_checked": 34,
+    "issues_found": 0,
+    "issues": [],
+    "verification": {
+      "timestamp": "2026-01-16T16:00:19.204137",
+      "checks_passed": true,
+      "warnings": []
+    }
+  },
+  "execution_log": [
+    "[16:00:19] 🤖 Agent activated with task: Check diacriticals in Diamond Sutra",
+    "[16:00:19] 📋 Created plan with 5 steps",
+    "[16:00:19] 🔍 Starting diacritical validation...",
+    "[16:00:19] ✅ Executed 3 tasks",
+    "[16:00:19] 🔍 Verifying results...",
+    "[16:00:19] 🔍 Verification complete",
+    "[16:00:19] 📄 Report generated"
+  ]
+}

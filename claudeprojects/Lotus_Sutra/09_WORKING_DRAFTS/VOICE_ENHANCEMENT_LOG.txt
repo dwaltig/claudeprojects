@@ -1,0 +1,245 @@
+================================================================================
+VOICE ENHANCEMENT LOG
+Lotus Sutra Narrated Manuscript - Individual Character Voice Assignment
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total [Gacrux] replacements: 30
+Total parable character voices added: 1
+Total voice assignments made: 31
+
+NEW VOICE ASSIGNMENTS
+--------------------------------------------------------------------------------
+[Aoede]: 11 occurrences
+[Maitreya]: 9 occurrences
+[Śāriputra]: 7 occurrences
+[Mahākāśyapa]: 2 occurrences
+[Charon]: 1 occurrences
+[Guide_Phantom]: 1 occurrences
+
+
+DETAILED CHANGE LOG - [Gacrux] REPLACEMENTS
+================================================================================
+
+Line 1099: [Gacrux] → [Śāriputra]
+  Note: Śāriputra speaking in verse
+
+Line 1165: [Gacrux] → [Śāriputra]
+  Note: Śāriputra addressing Buddha second time in verse
+
+Line 1185: [Gacrux] → [Śāriputra]
+  Note: Śāriputra addressing Buddha third time in verse
+
+Line 1219: [Gacrux] → [Śāriputra]
+  Note: Śāriputra affirming he wants to hear
+
+Line 1928: [Gacrux] → [Śāriputra]
+  Note: Śāriputra expressing joy at prophecy
+
+Line 2221: [Gacrux] → [Śāriputra]
+  Note: Śāriputra responding about the parable
+
+Line 2314: [Gacrux] → [Śāriputra]
+  Note: Śāriputra answering Buddha's question about the elder
+
+Line 3499: [Gacrux] → [Mahākāśyapa]
+  Note: Mahākāśyapa and four elders speaking together
+
+Line 3625: [Gacrux] → [Mahākāśyapa]
+  Note: Continuation of four elders' discourse
+
+Line 8373: [Gacrux] → [Maitreya]
+  Note: Maitreya asking about bodhisattvas emerging from earth
+
+Line 8383: [Gacrux] → [Maitreya]
+  Note: Maitreya continuing question
+
+Line 8495: [Gacrux] → [Charon]
+  Note: Narrator transition - emanation Buddhas
+
+Line 8501: [Gacrux] → [Maitreya]
+  Note: Maitreya will ask the Buddha
+
+Line 8542: [Gacrux] → [Maitreya]
+  Note: Maitreya asking Buddha
+
+Line 8612: [Gacrux] → [Maitreya]
+  Note: Maitreya verse about bodhisattvas
+
+Line 8664: [Gacrux] → [Maitreya]
+  Note: Maitreya stating meaning in verse
+
+Line 9287: [Gacrux] → [Maitreya]
+  Note: Maitreya responding in verse
+
+Line 9819: [Gacrux] → [Maitreya]
+  Note: Maitreya expressing doubt
+
+Line 9831: [Gacrux] → [Maitreya]
+  Note: Maitreya in verse
+
+Line 14262: [Gacrux] → [Aoede]
+  Note: Pronunciation guide section marker
+
+Line 14370: [Gacrux] → [Aoede]
+  Note: Technical terms section
+
+Line 14399: [Gacrux] → [Aoede]
+  Note: Buddha epithets section
+
+Line 14669: [Gacrux] → [Aoede]
+  Note: Additional terms section
+
+Line 14675: [Gacrux] → [Aoede]
+  Note: Continued glossary
+
+Line 14705: [Gacrux] → [Aoede]
+  Note: Continued glossary
+
+Line 14847: [Gacrux] → [Aoede]
+  Note: Cultural context section
+
+Line 14865: [Gacrux] → [Aoede]
+  Note: Continued cultural notes
+
+Line 14929: [Gacrux] → [Aoede]
+  Note: Blues tradition section
+
+Line 14945: [Gacrux] → [Aoede]
+  Note: Continued blues section
+
+Line 15419: [Gacrux] → [Aoede]
+  Note: Final editorial note
+
+
+
+PARABLE CHARACTER VOICE ADDITIONS
+================================================================================
+
+Line 5557: Added [Guide_Phantom]
+  Context: Guide in phantom city parable
+
+
+
+================================================================================
+FINAL ROUND - REMAINING [Gacrux] REPLACEMENTS
+================================================================================
+
+Line 963: [Gacrux] → [Iapetus]
+  Note: Buddha speaking to Śāriputra about deep wisdom
+
+Line 1249: [Gacrux] → [Iapetus]
+  Note: Buddha teaching about past/future Buddhas
+
+Line 1911: [Gacrux] → [Aoede]
+  Note: Section list marker - chapter contents
+
+Line 2043: [Gacrux] → [Rasalgethi]
+  Note: Buddha in verse about past/future Buddhas
+
+Line 2087: [Gacrux] → [Iapetus]
+  Note: Buddha giving prophecy to Śāriputra
+
+Line 2327: [Gacrux] → [Iapetus]
+  Note: Buddha explaining the parable to Śāriputra
+
+Line 4100: [Gacrux] → [Iapetus]
+  Note: Buddha responding to Mahākāśyapa
+
+Line 4472: [Gacrux] → [Aoede]
+  Note: Section list marker - medicinal herbs explanation
+
+Line 4504: [Gacrux] → [Iapetus]
+  Note: Buddha prophesying Mahākāśyapa's Buddhahood
+
+Line 5702: [Gacrux] → [Iapetus]
+  Note: Buddha teaching about Pūrṇa
+
+Line 5835: [Gacrux] → [Iapetus]
+  Note: Buddha giving prophecies to 1200 arhats
+
+Line 6143: [Gacrux] → [Rasalgethi]
+  Note: Buddha prophesying in verse
+
+Line 6228: [Gacrux] → [Iapetus]
+  Note: Buddha speaking to Medicine King
+
+Line 8786: [Gacrux] → [Charon]
+  Note: Narrator describing bodhisattvas addressing Buddha
+
+Line 8825: [Gacrux] → [Iapetus]
+  Note: Buddha asking Maitreya a question
+
+Line 9234: [Gacrux] → [Iapetus]
+  Note: Buddha turning to Maitreya
+
+Line 9389: [Gacrux] → [Iapetus]
+  Note: Buddha telling Maitreya about the comparison
+
+Line 9716: [Gacrux] → [Charon]
+  Note: Narrator transition - Maitreya stands to ask
+
+Line 9731: [Gacrux] → [Iapetus]
+  Note: Buddha answering Maitreya about transmission
+
+Line 11244: [Gacrux] → [Aoede]
+  Note: Editorial commentary on "gonna" usage
+
+Line 15466: [Gacrux] → [Aoede]
+  Note: Glossary entry for Mahāprajāpatī
+
+
+================================================================================
+FINAL VOICE COUNTS (this round)
+================================================================================
+[Iapetus]: 13 occurrences
+[Aoede]: 4 occurrences
+[Rasalgethi]: 2 occurrences
+[Charon]: 2 occurrences
+
+
+================================================================================
+CHARACTER VOICE ADDITIONS - DISCIPLES AND PARABLE CHARACTERS
+================================================================================
+
+NEW INDIVIDUAL CHARACTER VOICES ADDED
+--------------------------------------------------------------------------------
+[Mañjuśrī]: 4 occurrences
+[Elder_Parable]: 1 occurrences
+
+
+DETAILED ADDITIONS LOG
+--------------------------------------------------------------------------------
+Line 631: Added [Mañjuśrī]
+  Context: Mañjuśrī responding to Maitreya about the signs
+
+Line 649: Added [Mañjuśrī]
+  Context: Mañjuśrī continuing story of Moon-Sun-Lamp Buddha
+
+Line 703: Added [Mañjuśrī]
+  Context: Mañjuśrī speaking in verse about past Buddha
+
+Line 12477: Added [Mañjuśrī]
+  Context: Mañjuśrī asking Buddha about merit
+
+Line 2255: Added [Elder_Parable]
+  Context: Elder thinking when seeing fire
+
+
+
+================================================================================
+PARABLE DIALOGUE VOICE ADDITIONS
+================================================================================
+
+[Elder_Parable]: 5 occurrences added
+[Children_Voices]: 1 occurrences added
+[Guide_Phantom]: 1 occurrences added
+
+Line 2268: [Elder_Parable] - Elder thinking about carrying children out
+Line 2270: [Elder_Parable] - Elder reconsidering his plan
+Line 2282: [Elder_Parable] - Elder deciding on skillful means
+Line 2286: [Elder_Parable] - Elder calling to children about toys
+Line 2296: [Children_Voices] - Children asking father for promised toys
+Line 2304: [Elder_Parable] - Elder thinking about giving great carts
+Line 5562: [Guide_Phantom] - Guide thinking (instance 1)

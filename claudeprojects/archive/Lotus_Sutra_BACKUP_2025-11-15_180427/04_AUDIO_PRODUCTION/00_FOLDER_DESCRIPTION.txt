@@ -1,0 +1,12 @@
+================================================================================
+04_AUDIO_PRODUCTION
+================================================================================
+
+PURPOSE: Audio narration, voice tags, and production files
+
+This folder contains organized materials related to:
+Audio narration, voice tags, and production files
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

@@ -1,0 +1,7 @@
+**<https://s.mj.run/SmYYEbE0sqM> One day, as she wandered through the woods, she stumbled upon a hidden cave. Without hesitation, she ventured inside, her heart pounding with excitement and wonder. As she made her way deeper into the cave, she noticed something glittering in the darkness. --seed 3814936536** - Upscaled by <@971124487405842512> (paused) (fast)  
+**<https://s.mj.run/SmYYEbE0sqM> One day, as she wandered through the woods, she stumbled upon a hidden cave. Without hesitation, she ventured inside, her heart pounding with excitement and wonder. As she made her way deeper into the cave, she noticed something glittering in the darkness. --seed 3814936536** - Upscaled by <@971124487405842512> (paused) (fast)  
+  
+  
+[https://cdn.discordapp.com/attachments/1075925102010568827/1083761948707000351/DWilliam_Once_upon_a_time_there_was_a_young_girl_named_Sophia_w_3960db3d-f6ed-45ce-a1de-09edc00e3ece.png](https://cdn.discordapp.com/attachments/1075925102010568827/1083761948707000351/DWilliam_Once_upon_a_time_there_was_a_young_girl_named_Sophia_w_3960db3d-f6ed-45ce-a1de-09edc00e3ece.png)  
+[https://cdn.discordapp.com/attachments/1075925102010568827/1083761948707000351/DWilliam_Once_upon_a_time_there_was_a_young_girl_named_Sophia_w_3960db3d-f6ed-45ce-a1de-09edc00e3ece.png](https://cdn.discordapp.com/attachments/1075925102010568827/1083761948707000351/DWilliam_Once_upon_a_time_there_was_a_young_girl_named_Sophia_w_3960db3d-f6ed-45ce-a1de-09edc00e3ece.png)  
+  

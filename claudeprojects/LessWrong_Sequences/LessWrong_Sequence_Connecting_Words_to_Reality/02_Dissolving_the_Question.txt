@@ -1,0 +1,40 @@
+Dissolving the Question
+Eliezer Yudkowsky
+
+"If a tree falls in the forest, but no one hears it, does it make a sound?"
+
+I didn't answer that question. I didn't pick a position, "Yes!" or "No!", and defend it. Instead I went off and deconstructed the human algorithm for processing words. At the end, I hope, there was no question left—not even the feeling of a question.
+
+Many philosophers—particularly amateur philosophers, and ancient philosophers—share a dangerous instinct: If you give them a question, they try to answer it. Like, say, "Do we have free will?"
+
+The dangerous instinct of philosophy is to marshal the arguments in favor, and marshal the arguments against, and weigh them up, and finally conclude: "Yes, we must have free will," or "No, we cannot possibly have free will."
+
+Some philosophers try to define very precisely what they mean by "free will", and then ask again, "Do we have free will? Yes or no?"
+
+A philosopher wiser yet, may suspect that the confusion about "free will" shows the notion itself is flawed. So they argue that "free will" is inherently self-contradictory, or meaningless because it has no testable consequences.
+
+But proving that you are confused may not make you feel any less confused. Proving that a question is meaningless may not help you any more than answering it.
+
+The philosopher's instinct is to find the most defensible position, publish it, and move on. But the "naive" view, the instinctive view, is a fact about human psychology. If free will doesn't exist, what goes on inside the head of a human being who thinks it does? This is not a rhetorical question!
+
+It is a fact about human psychology that people think they have free will. Philosophy may lead you to reject the concept, but rejecting a concept is not the same as understanding the cognitive algorithms behind it.
+
+The key idea of the heuristics and biases program is that the mistakes we make, often reveal far more about our underlying cognitive algorithms than our correct answers. So what kind of mind design corresponds to the mistake of arguing about trees falling in deserted forests?
+
+The cognitive algorithms we use, are the way the world feels. And these cognitive algorithms may not have a one-to-one correspondence with reality. There can be things in the mind that cut skew to the world.
+
+For example, there can be a dangling unit in the center of a neural network, which does not correspond to any real thing. This dangling unit feels like an unresolved question, even after every answerable query is answered. No matter how much anyone proves to you that no difference of anticipated experience depends on the question, you're left wondering: "But does the falling tree really make a sound, or not?"
+
+But once you understand in detail how your brain generates the feeling of the question—once you realize that your feeling of an unanswered question, corresponds to an illusory central unit wanting to know whether it should fire—then you're done.
+
+If there is any lingering feeling of a remaining unanswered question, then this is a sign that you have not dissolved the question. Really dissolving the question doesn't leave anything behind.
+
+Imagine that in the Standard Dispute about a tree falling in a deserted forest, you first prove that no difference of anticipation exists, and then go on to hypothesize, "But perhaps people who said that arguments were meaningless were viewed as having conceded, and so lost social status, so now we have an instinct to argue about the meanings of words." That's arguing that or explaining why a confusion exists. Explaining how is disassembling the confusion into smaller pieces which are not themselves confusing.
+
+Coming up with good hypotheses about cognitive algorithms is a good deal harder than just refuting a philosophical confusion. Indeed, it is an entirely different art.
+
+The challenge, above all, is to notice when you are confused—even if it just feels like a little tiny bit of confusion. When you're really done, you'll know you're done. Dissolving the question is an unmistakable feeling.
+
+So here's your homework problem: What kind of cognitive algorithm, as felt from the inside, would generate the observed debate about "free will"?
+
+Your assignment is not to argue about whether people have free will. Your homework assignment is to write a stack trace of the internal algorithms of the human mind as they produce the intuitions that power the whole damn philosophical argument.

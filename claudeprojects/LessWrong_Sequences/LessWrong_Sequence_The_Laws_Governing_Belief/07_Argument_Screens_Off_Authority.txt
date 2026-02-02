@@ -1,0 +1,55 @@
+Argument Screens Off Authority
+Eliezer Yudkowsky
+
+Scenario 1: Barry is a famous geologist. Charles is a fourteen-year-old juvenile delinquent with a long arrest record and occasional psychotic episodes. Barry tells you that a certain rock is igneous. Charles tells you that the rock is sedimentary. You don’t know anything about geology yourself. Which do you believe? Obviously Barry. Barry has a better reputation, and his reputation as an authority is entangled with the fact of the rock’s origin.
+
+Scenario 2: Barry and Charles are arguing about the rock. Barry, the famous geologist, says the rock is igneous. To prove it, Barry points to the rock’s large crystals, and explains why such large crystals only form when magma cools slowly underground. No other process would create such crystals, Barry says. Charles, the fourteen-year-old juvenile delinquent, argues that the rock is sedimentary. Charles points to a faint pattern of lines on the rock’s surface, and explains how this demonstrates that the rock was formed by the accumulation of sediment in a lake bed.
+
+Wait, scenarios usually have two different outcomes. Let’s try again.
+
+Scenario 2: Barry and Charles are arguing about the rock. Barry, the famous geologist, says the rock is igneous. Charles, the fourteen-year-old juvenile delinquent, argues that the rock is sedimentary. Charles points to the rock’s large crystals, and explains why such large crystals only form when magma cools slowly underground. Since this rock has large crystals, Charles says, it must be igneous. Barry, the famous geologist, points to a faint pattern of lines on the rock’s surface, and explains how this demonstrates that the rock was formed by the accumulation of sediment in a lake bed. Since this rock has those lines, Barry says, it must be sedimentary.
+
+Which do you believe? Barry? No; in Scenario 2, you believe Charles. Charles’s argument about the large crystals is a better argument for the rock being igneous than Barry’s authority is for the rock being sedimentary.
+
+A rationalist should ideally be able to ignore authority. If you can actually see the evidence for yourself, and understand the argument for yourself, then the authority of the speaker should become irrelevant.
+
+This is why, in science, we write down our arguments and publish our evidence. We want to make it possible for anyone to verify our conclusions for themselves, without having to trust our authority. We want the arguments to screen off the authority of the speaker.
+
+Here’s half a technical demonstration of how to represent this difference in probability theory. (The rest you can take on my personal authority, or look up in the references.)
+
+If P(H|E1) = 90% and P(H|E2) = 9%, what is the probability P(H|E1,E2)? If learning E1 is true leads us to assign 90% probability to H, and learning E2 is true leads us to assign 9% probability to H, then what probability should we assign to H if we learn both E1 and E2? This is simply not something you can calculate in probability theory from the information given. No, the missing information is not the prior probability of H. The events E1 and E2 may not be independent of each other.
+
+Suppose that H is “My sidewalk is slippery,” E1 is “My sprinkler is running,” and E2 is “It’s night.” The sidewalk is slippery starting from one minute after the sprinkler starts, until just after the sprinkler finishes, and the sprinkler runs for ten minutes. So if we know the sprinkler is on, the probability is 90% that the sidewalk is slippery. The sprinkler is on during 10% of the nighttime, so if we know that it’s night, the probability of the sidewalk being slippery is 9%. If we know that it’s night and the sprinkler is on—that is, if we know both facts—the probability of the sidewalk being slippery is 90%.
+
+We can represent this in a graphical model as follows:
+Whether or not it’s Night causes the Sprinkler to be on or off, and whether the Sprinkler is on causes the sidewalk to be Slippery or unSlippery.
+
+The direction of the arrows is meaningful. Say we had:
+This would mean that, if I didn’t know anything about the sprinkler, the probability of Nighttime and Slipperiness would be independent of each other.
+
+Figuring out when various pieces of information are dependent or independent of each other, given various background knowledge, actually turns into a quite technical topic. The books to read are Judea Pearl’s Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference and Causality: Models, Reasoning, and Inference.
+
+If you look at the correct sidewalk diagram, you see facts like:
+P(Slippery|Night,Sprinkler) = P(Slippery|Sprinkler) .
+
+That is, the probability of the sidewalk being Slippery, given knowledge about the Sprinkler and the Night, is the same probability we would assign if we knew only about the Sprinkler. Knowledge of the Sprinkler has made knowledge of the Night irrelevant to inferences about Slipperiness.
+
+This is known as screening off, and the criterion that lets us read such conditional independences off causal graphs is known as D-separation.
+
+For the case of argument and authority, the causal diagram looks like this:
+If something is true, then it therefore tends to have arguments in favor of it, and the experts therefore observe these evidences and change their opinions. (In theory!)
+
+If we see that an expert believes something, we infer back to the existence of evidence-in-the-abstract (even though we don’t know what that evidence is exactly), and from the existence of this abstract evidence, we infer back to the truth of the proposition.
+
+But if we know the value of the Argument node, this D-separates the node “Truth” from the node “Expert Belief” by blocking all paths between them. So:
+P(truth|argument,expert) = P(truth|argument) .
+
+This does not represent a contradiction of ordinary probability theory. It’s just a more compact way of expressing certain probabilistic facts. Authority and argument don’t need two different kinds of probability, any more than sprinklers are made out of ontologically different stuff than sunlight.
+
+In practice you can never completely eliminate reliance on authority. Good authorities are more likely to know about any counterevidence that exists and should be taken into account; a lesser authority is less likely to know this, which makes their arguments less reliable. This is not a factor you can eliminate merely by hearing the evidence they did take into account.
+
+It’s also very hard to reduce arguments to pure math; and otherwise, judging the strength of an inferential step may rely on intuitions you can’t duplicate without the same thirty years of experience.
+
+There is an ineradicable legitimacy to assigning slightly higher probability to what E. T. Jaynes tells you about Bayesian probability, than you assign to Eliezer Yudkowsky making the exact same statement. Fifty additional years of experience should not count for literally zero influence.
+
+But this slight strength of authority is only ceteris paribus, and can easily be overwhelmed by stronger arguments. I have a minor erratum in one of Jaynes’s books—because algebra trumps authority.

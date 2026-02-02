@@ -1,0 +1,12 @@
+================================================================================
+03_CLASSICAL_CHINESE
+================================================================================
+
+PURPOSE: Original Chinese source material
+
+This folder contains organized materials related to:
+Original Chinese source material
+
+For project navigation, see: /00_MASTER_VERSIONS/00_PROJECT_INDEX.txt
+
+================================================================================

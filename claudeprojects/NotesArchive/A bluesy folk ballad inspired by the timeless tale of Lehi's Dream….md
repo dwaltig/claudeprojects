@@ -1,0 +1,2 @@
+#   
+A bluesy folk ballad inspired by the timeless tale of **Lehi's Dream** from the Book of Mormon. This song paints a sonic picture of the spiritual journey, with raw, earthy tones and a soulful narrative. It's a reminder to hold fast to what's true and to find your way through the mists of temptation by following the guidance of the **"iron rod."** It's a journey of faith, perseverance, and the struggle to reach the **"tree of life."**  

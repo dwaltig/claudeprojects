@@ -1,0 +1,1 @@
+Dr. Aria Kimura stood at the edge of her pristine laboratory, her slender form framed by the soft glow of futuristic equipment. Her long, dark hair was pulled back into a practical bun, revealing delicate features that hinted at her Asian heritage. A family heirloom, a jade pendant, gleamed at her throat, the only splash of color against her lab coat.  

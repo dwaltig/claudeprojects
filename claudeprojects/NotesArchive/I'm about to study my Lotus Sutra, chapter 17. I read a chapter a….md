@@ -1,0 +1,19 @@
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+I'm about to study my Lotus Sutra, chapter 17. I read a chapter a day. Oh man I love this sutra. Distinctions in Merit  
+  
+It says, “Places in which children of the Buddha dwell ​belong to the Buddha himself. ​Whenever they are walking, sitting, or resting, ​the Buddha lives within them.” (LS 17: 3.26)  
+It says, “Places in which children of the Buddha dwell ​belong to the Buddha himself. ​Whenever they are walking, sitting, or resting, ​the Buddha lives within them.” (LS 17: 3.26)  
+  
+In section one, Shakyamuni Buddha explains to Ajita (Bodhisattva Maitreya) the benefits of hearing the eternal lifespan of the Buddha—receiving the dharanis, abiding in the stage of non-regression, the ability to preach joyously, and attaining Buddhahood after a certain number of rebirths.  
+In section one, Shakyamuni Buddha explains to Ajita (Bodhisattva Maitreya) the benefits of hearing the eternal lifespan of the Buddha—receiving the dharanis, abiding in the stage of non-regression, the ability to preach joyously, and attaining Buddhahood after a certain number of rebirths.  
+  
+In section two, we learn, People who believe in the eternal lifespan of the Buddha will receive boundless benefits, surpassing those people who practice Five Paramitas for innumerable kalpas. Moreover, people who respond with joy upon hearing the eternal lifespan of the Buddha are predicted to attain Buddhahood in their future lifetimes.  
+In section two, we learn, People who believe in the eternal lifespan of the Buddha will receive boundless benefits, surpassing those people who practice Five Paramitas for innumerable kalpas. Moreover, people who respond with joy upon hearing the eternal lifespan of the Buddha are predicted to attain Buddhahood in their future lifetimes.  
+  
+In section three, we learn, People who embrace profound faith and understanding in the eternal lifespan of the Buddha have already witnessed the Buddha preaching the Law at Eagle Peak. Responding with spontaneous joy upon hearing the Lotus Sutra is a sign of profound faith and understanding. Those people who read, recite, and embrace the Lotus Sutra are literally carrying the Tathagata on the crown of their heads. The Buddha teaches that it is not necessary for those who accept and embrace the Lotus Sutra to build pagodas or give offerings to the community of monks or nuns. This is because by embracing the Lotus Sutra, one has already built pagodas and monasteries as well as given offerings to the immeasurable Buddhas for innumerable kalpas. As the Buddhas dwell within these people, they deserve the offerings of heavenly and human beings, as if they are the Buddhas themselves. Those who are able to embrace the Lotus Sutra and to practice the Six Paramitas have the foremost in virtue and their blessings are infinitely boundless.   
+ Joy in hearing the eternal lifespan of the Buddha is the cause for accumulating unsurpassed benefits. It is also the cause for attaining Buddhahood. Embracing the Lotus Sutra is a supreme expression of giving offerings to the Buddhas in the Universe. Hence, practitioners of the Lotus Sutra receive the foremost in blessings, merits, and virtues, lifetime after lifetime.  

@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sutra Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0c0f14;
+      --panel: #111720;
+      --panel-2: #0f141d;
+      --text: #e8ecf2;
+      --muted: #9fb3c8;
+      --accent: #6cf0c2;
+      --accent-2: #7bb7ff;
+      --accent-3: #ffb454;
+      --card-border: rgba(255,255,255,0.06);
+      --shadow: 0 20px 50px rgba(0,0,0,0.35);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Space Grotesk', 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 10% 10%, rgba(124, 255, 199, 0.08), transparent 25%),
+                  radial-gradient(circle at 80% 0%, rgba(123, 183, 255, 0.10), transparent 30%),
+                  radial-gradient(circle at 20% 70%, rgba(255, 180, 84, 0.12), transparent 30%),
+                  var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 48px 24px 64px;
+    }
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    header {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      margin-bottom: 32px;
+      align-items: center;
+    }
+    .hero {
+      background: linear-gradient(135deg, rgba(108, 240, 194, 0.16), rgba(123, 183, 255, 0.14));
+      border: 1px solid rgba(255,255,255,0.06);
+      box-shadow: var(--shadow);
+      border-radius: 18px;
+      padding: 28px;
+    }
+    h1 {
+      font-size: clamp(32px, 4vw, 44px);
+      line-height: 1.1;
+      margin-bottom: 12px;
+      letter-spacing: -0.02em;
+    }
+    .lead {
+      color: var(--muted);
+      font-size: 18px;
+      max-width: 640px;
+    }
+    .cta-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .pill {
+      padding: 10px 16px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.14);
+      color: var(--text);
+      text-decoration: none;
+      background: rgba(255,255,255,0.04);
+      font-weight: 600;
+      transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+    }
+    .pill.primary {
+      background: linear-gradient(135deg, #6cf0c2, #7bb7ff);
+      color: #0a0d12;
+      border: none;
+    }
+    .pill:hover { transform: translateY(-2px); border-color: rgba(255,255,255,0.24); }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+    .stat {
+      padding: 16px 18px;
+      border-radius: 14px;
+      border: 1px solid var(--card-border);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+    .stat h3 { font-size: 14px; color: var(--muted); margin-bottom: 6px; }
+    .stat .number { font-size: 26px; font-weight: 700; }
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 26px 0 12px;
+    }
+    .filter-btn {
+      padding: 10px 14px;
+      border-radius: 12px;
+      border: 1px solid var(--card-border);
+      background: var(--panel-2);
+      color: var(--text);
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+    .filter-btn.active, .filter-btn:hover {
+      border-color: rgba(255,255,255,0.18);
+      background: linear-gradient(135deg, rgba(108, 240, 194, 0.15), rgba(123, 183, 255, 0.12));
+      transform: translateY(-1px);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+      gap: 18px;
+      margin-top: 12px;
+    }
+    .card {
+      border-radius: 16px;
+      border: 1px solid var(--card-border);
+      background: var(--panel);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      position: relative;
+      display: grid;
+      grid-template-rows: 160px 1fr;
+    }
+    .cover {
+      position: relative;
+      background-size: cover;
+      background-position: center;
+    }
+    .cover::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(12,15,20,0.2), rgba(12,15,20,0.6));
+    }
+    .status-pill {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 13px;
+      color: #0b1016;
+      background: var(--accent);
+      z-index: 2;
+    }
+    .status-pill.in-progress { background: var(--accent-2); }
+    .status-pill.planned { background: var(--accent-3); }
+    .card-body {
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .title-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: baseline;
+    }
+    .title-row h2 { font-size: 20px; letter-spacing: -0.01em; }
+    .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+    .tag {
+      padding: 6px 10px;
+      border-radius: 10px;
+      font-size: 13px;
+      border: 1px solid var(--card-border);
+      color: var(--muted);
+      background: rgba(255,255,255,0.04);
+    }
+    .summary { color: var(--muted); line-height: 1.4; font-size: 15px; }
+    .link-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 8px;
+      margin-top: auto;
+    }
+    .link-btn {
+      text-decoration: none;
+      color: var(--text);
+      border: 1px solid var(--card-border);
+      padding: 10px 12px;
+      border-radius: 12px;
+      text-align: center;
+      font-weight: 700;
+      background: var(--panel-2);
+      transition: all 0.2s ease;
+    }
+    .link-btn:hover { border-color: rgba(255,255,255,0.18); transform: translateY(-1px); }
+    .link-btn.disabled {
+      opacity: 0.35;
+      cursor: not-allowed;
+      transform: none;
+    }
+    .meta {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    @media (max-width: 640px) {
+      body { padding: 32px 18px; }
+      .card { grid-template-rows: 140px 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="hero">
+        <h1>Sutra Portfolio</h1>
+        <p class="lead">Blues interpretations, scholarly translations, and practice-layer study guides collected in one bold, easy-to-browse hub. Audio drops are in the works.</p>
+        <div class="cta-row">
+          <a class="pill primary" href="#sutra-grid">Browse Sutras</a>
+          <a class="pill" href="mailto:">Share feedback</a>
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+    </header>
+
+    <section class="filters" aria-label="Filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="completed">Completed</button>
+      <button class="filter-btn" data-filter="in-progress">In Progress</button>
+      <button class="filter-btn" data-filter="planned">Planned</button>
+    </section>
+
+    <section class="grid" id="sutra-grid" aria-live="polite"></section>
+  </div>
+
+  <script>
+    const sutras = [
+      {
+        id: 'lotus',
+        title: 'Lotus Sutra',
+        status: 'completed',
+        summary: 'Complete blues and scholarly sets; study guides scaffold every chapter.',
+        tags: ['Blues', 'Scholarly', 'Study Guides'],
+        cover: null,
+        bluesLink: '../Lotus_Sutra/01_BLUES_INTERPRETATION/BLUES_LOTUS_SUTRA_FINAL.docx',
+        scholarlyLink: '../Lotus_Sutra/00_MASTER_VERSIONS/LS_final_version/03_SCHOLARLY_ENGLISH_Modern_Academic.txt',
+        studyGuideLink: '../Lotus_Sutra/03_SCHOLARLY_TRANSLATION_2025/EXPERIMENTAL/_PRACTICE_LAYER/02_Chapter_Study_Guides/html/index.html',
+        audio: false
+      },
+      {
+        id: 'immeasurable',
+        title: 'Immeasurable Meanings Sutra',
+        status: 'completed',
+        summary: 'Blues edition published; scholarly file ready to slot; analysis and formatting guides available.',
+        tags: ['Blues', 'Scholarly', 'Study Guides'],
+        cover: '../Sutra_Projects/Immeasurable_Meanings_Sutra/blues_edition/THE_IMMEASURABLE_MEANINGS_SUTRA_REBORN_COVER.png',
+        bluesLink: '../Sutra_Projects/Immeasurable_Meanings_Sutra/blues_edition/The Immeasurable Meanings Sutra - Blues Edition.md',
+        scholarlyLink: null,
+        studyGuideLink: null,
+        audio: false
+      },
+      {
+        id: 'universal-worthy',
+        title: 'Universal Worthy Bodhisattva Sutra',
+        status: 'completed',
+        summary: 'Complete blues translation with supporting analysis; ready to mirror in scholarly voice.',
+        tags: ['Blues', 'Scholarly', 'Study Guides'],
+        cover: '../Sutra_Projects/Universal_Worthy_Bodhisattva_Sutra/The Universal Worthy Sutra.png',
+        bluesLink: '../Sutra_Projects/Universal_Worthy_Bodhisattva_Sutra/blues_edition/Universal Worthy Bodhisattva Sutra - COMPLETE Blues Translation.txt',
+        scholarlyLink: null,
+        studyGuideLink: null,
+        audio: false
+      },
+      {
+        id: 'dhammapada',
+        title: 'Dhammapada',
+        status: 'completed',
+        summary: 'Blues and scholarly books finished; songs and documentation ready for deeper study.',
+        tags: ['Blues', 'Scholarly', 'Study Guides', 'Songs'],
+        cover: '../Dhammapada/COVER_Dhammapada_Reborn.png',
+        bluesLink: '../Dhammapada/DHAMMAPADA_BLUES_BOOK.md',
+        scholarlyLink: '../Dhammapada/DHAMMAPADA_SCHOLARLY_BOOK.md',
+        studyGuideLink: '../Dhammapada/03_DOCUMENTATION/COMPLETION_STATUS.md',
+        audio: true
+      },
+      {
+        id: 'diamond',
+        title: 'Diamond Sutra',
+        status: 'completed',
+        summary: 'American blues interpretation paired with a three-part scholarly translation set.',
+        tags: ['Blues', 'Scholarly'],
+        cover: '../Diamond Sutra Project/02_BLUES_INTERPRETATION/THE_DIAMOND_SUTRA_REBORN_COVER.png',
+        bluesLink: '../Diamond Sutra Project/02_BLUES_INTERPRETATION/DIAMOND_SUTRA_BLUES_MASTER.md',
+        scholarlyLink: '../Diamond Sutra Project/01_SCHOLARLY_TRANSLATION/DIAMOND_SUTRA_SCHOLARLY_PART_1.md',
+        studyGuideLink: null,
+        audio: true
+      },
+      {
+        id: 'heart',
+        title: 'Heart Sutra',
+        status: 'completed',
+        summary: 'Concise blues rendition with professor notes; audio mastered and cover art ready.',
+        tags: ['Blues', 'Scholarly', 'Audio'],
+        cover: '../Heart Sutra Project/The_Heart_Sutra_Reborn_COVER.png',
+        bluesLink: '../Heart Sutra Project/Heart_Sutra_Blues.md',
+        scholarlyLink: '../Heart Sutra Project/Heart_Sutra_Professor.md',
+        studyGuideLink: null,
+        audio: true
+      },
+      {
+        id: 'vimalakirti',
+        title: 'Vimalakirti Sutra',
+        status: 'in-progress',
+        summary: 'Translations underway; opening chapter drafted in blues and scholarly voices.',
+        tags: ['Blues', 'Scholarly'],
+        cover: null,
+        bluesLink: '../Vimalakirti_Sutra_Project/01_TRANSLATIONS/Chapter_1_Buddha_Land_Blues.md',
+        scholarlyLink: '../Vimalakirti_Sutra_Project/01_TRANSLATIONS/Chapter_1_Buddha_Land_Scholarly.md',
+        studyGuideLink: null,
+        audio: false
+      },
+      {
+        id: 'nirvana',
+        title: 'Nirvana Sutra',
+        status: 'planned',
+        summary: 'On deck for future work; materials and cover available when production begins.',
+        tags: ['Planned'],
+        cover: '../Nirvana_Sutra_Project/Nirvana_Sutra_Cover_Image.png',
+        bluesLink: null,
+        scholarlyLink: null,
+        studyGuideLink: null,
+        audio: false
+      }
+    ];
+
+    const statsEl = document.getElementById('stats');
+    const gridEl = document.getElementById('sutra-grid');
+    const filterButtons = [...document.querySelectorAll('.filter-btn')];
+
+    function formatStatus(status) {
+      if (status === 'completed') return 'Completed';
+      if (status === 'in-progress') return 'In Progress';
+      return 'Planned';
+    }
+
+    function renderStats() {
+      const totals = sutras.reduce((acc, item) => {
+        acc.total += 1;
+        acc[item.status] += 1;
+        return acc;
+      }, { total: 0, completed: 0, 'in-progress': 0, planned: 0 });
+
+      statsEl.innerHTML = `
+        <div class="stat"><h3>Total Sutras</h3><div class="number">${totals.total}</div></div>
+        <div class="stat"><h3>Completed</h3><div class="number">${totals.completed}</div></div>
+        <div class="stat"><h3>In Progress</h3><div class="number">${totals['in-progress']}</div></div>
+        <div class="stat"><h3>Planned</h3><div class="number">${totals.planned}</div></div>
+      `;
+    }
+
+    function renderCards(filter = 'all') {
+      gridEl.innerHTML = '';
+      const filtered = sutras.filter(item => filter === 'all' ? true : item.status === filter);
+
+      filtered.forEach(item => {
+        const card = document.createElement('article');
+        card.className = 'card';
+
+        const coverStyle = item.cover
+          ? `background-image: url('${encodeURI(item.cover)}');`
+          : 'background-image: linear-gradient(135deg, rgba(108, 240, 194, 0.2), rgba(123, 183, 255, 0.18));';
+
+        const links = [
+          { label: 'Blues version', url: item.bluesLink },
+          { label: 'Scholarly version', url: item.scholarlyLink },
+          { label: 'Study guides', url: item.studyGuideLink }
+        ];
+
+        card.innerHTML = `
+          <div class="cover" style="${coverStyle}">
+            <span class="status-pill ${item.status}">${formatStatus(item.status)}</span>
+          </div>
+          <div class="card-body">
+            <div class="title-row">
+              <h2>${item.title}</h2>
+              ${item.audio ? '<span class="tag">Audio ready/coming</span>' : ''}
+            </div>
+            <p class="summary">${item.summary}</p>
+            <div class="tags">
+              ${item.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+            </div>
+            <div class="link-row">
+              ${links.map(link => link.url
+                ? `<a class="link-btn" href="${encodeURI(link.url)}">${link.label}</a>`
+                : `<span class="link-btn disabled">${link.label} • add link</span>`
+              ).join('')}
+            </div>
+            <div class="meta">
+              <span>${formatStatus(item.status)}</span>
+              ${item.audio ? '<span>Audio pipeline</span>' : ''}
+            </div>
+          </div>
+        `;
+
+        gridEl.appendChild(card);
+      });
+    }
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderCards(btn.dataset.filter);
+      });
+    });
+
+    renderStats();
+    renderCards();
+  </script>
+</body>
+</html>

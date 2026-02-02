@@ -1,0 +1,76 @@
+Voice Casting Guide: Manuscript Narrator AI
+This document provides a detailed overview of the unique personalities and vocal qualities of each AI voice. Use this guide to select the ideal voice for any role, from a heroic protagonist to an enigmatic alien.
+Male Voices
+Charon
+Vocal Quality: Deep, solemn baritone.
+Characteristics: Carries the weight of ages. Evokes a sense of the ancient and fateful.
+Best For: Ancient gods, cosmic entities, narrating tales of destiny.
+Fenrir
+Vocal Quality: Guttural, beast-like rasp.
+Characteristics: Untamed, wild, and rawly powerful.
+Best For: Monsters, savage warriors, characters who are more animal than man.
+Gacrux
+Vocal Quality: Clear, commanding baritone.
+Characteristics: Embodies heroism, integrity, and leadership.
+Best For: Noble kings, starship captains, mentors.
+Iapetus
+Vocal Quality: Soft, grounding presence.
+Characteristics: Feels like ancient stone and quiet forests; calming and contemplative.
+Best For: Gentle giants, wise old monks, peaceful narrators.
+Orus
+Vocal Quality: Crisp, articulate, and precise.
+Characteristics: Intelligent, sophisticated, and forward-thinking.
+Best For: Brilliant scientists, advanced AIs, corporate visionaries.
+Puck
+Vocal Quality: Nimble, high-spirited tenor.
+Characteristics: Laced with playful mischief and cleverness; unpredictable.
+Best For: Fae creatures, jesters, trickster characters.
+Rasalgethi
+Vocal Quality: Warm, comforting, and gentle.
+Characteristics: Like a crackling fireplace or a well-loved armchair; grandfatherly.
+Best For: Telling bedtime stories, nostalgic reminiscence, kindly figures.
+Sadaltager
+Vocal Quality: Powerful, authoritative bass.
+Characteristics: Resonates with military precision and unwavering command.
+Best For: Battlefield generals, emperors, epic cinematic trailers.
+Zubenelgenubi
+Vocal Quality: Mesmerizing, hypnotic baritone.
+Characteristics: Seems to emanate from deep space; enigmatic and otherworldly.
+Best For: Cryptic prophets, mysterious aliens, mind-bending sci-fi narration.
+Female Voices
+Aoede
+Vocal Quality: Bright, melodic alto.
+Characteristics: Sparkles with youthful optimism and creative energy.
+Best For: Hopeful ingénues, spirited adventurers, artistic muses.
+Callirrhoe
+Vocal Quality: Smooth, cultured alto.
+Characteristics: Speaks with effortless elegance and quiet authority.
+Best For: Poised queens, sophisticated curators, powerful CEOs.
+Erinome
+Vocal Quality: Focused, incisive, and sharp.
+Characteristics: Cuts through the noise with intelligence and unwavering conviction.
+Best For: Brilliant detectives, no-nonsense lawyers, driven academics.
+Kore
+Vocal Quality: Clear, welcoming, and warm.
+Characteristics: Radiates the warmth of a spring day; friendly and nurturing.
+Best For: The girl-next-door protagonist, a helpful guide, a kind teacher.
+Leda
+Vocal Quality: Rich, maternal alto.
+Characteristics: Filled with wisdom, gentle strength, and experience.
+Best For: Family matriarchs, wise healers, storytellers who have seen it all.
+Schedar
+Vocal Quality: Confident, resonant alto.
+Characteristics: Has a commanding presence and an air of power.
+Best For: Powerful sorceresses, seasoned politicians, classic femme fatales.
+Sulafat
+Vocal Quality: Soft, ethereal whisper.
+Characteristics: Calms the soul like a gentle breeze; peaceful and serene.
+Best For: Guided meditation, intimate poetry, nature spirits.
+Umbriel
+Vocal Quality: Low, velvety, and shrouded in shadow.
+Characteristics: Evokes a smoky jazz club; mysterious and intriguing.
+Best For: Cryptic fortune tellers, spies, characters with secrets.
+Zephyr
+Vocal Quality: Light, breathy, and intimate.
+Characteristics: Feels like a whispered secret or a close, personal conversation.
+Best For: Narrating a personal diary, a romantic lead, a trusted friend.

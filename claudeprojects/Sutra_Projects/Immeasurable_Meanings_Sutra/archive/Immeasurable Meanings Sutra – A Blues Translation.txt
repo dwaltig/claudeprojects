@@ -1,0 +1,92 @@
+🪷 Immeasurable Meanings Sutra – A Blues Translation
+Handoff & Continuation Checklist
+
+Project Scope:
+A full-length blues-folk poetic translation of The Immeasurable Meanings Sutra, formatted for both print (6×9 trade paperback) and digital (Kindle/eBook).
+
+✅ 1. Files to Inherit
+
+Blues Immeasurable Meanings Sutra v3 – Complete.txt – full manuscript source.
+
+Immeasurable_Meanings_Sutra_Formatting_Guide.txt – layout reference with style rules, lotus header, and version log.
+
+Canvas document draft: Immeasurable Meanings Part I (front matter → Chapter 1).
+
+Any previous .docx files used for testing layout or partial rendering.
+
+✅ 2. Layout Standards
+
+Trim size: 6" × 9"
+
+Font: Georgia, black text
+
+Line spacing: 1.15 (prose), single (verse)
+
+Margins: 1″ (top/bottom/outside), 1.25″ (inside for binding)
+
+Chapter openers: ✦ symbol above title, drop cap on first paragraph
+
+Dividers: — • —
+
+Page numbers start after the dedication
+
+Headers:
+
+Left page: The Immeasurable Meanings Sutra: A Blues Translation
+
+Right page: William Altig
+
+One blank page after the final closing line
+
+✅ 3. Front Matter
+
+Ensure these appear in order:
+
+Half-title page
+
+Full title page (with subtitle and author)
+
+Copyright page
+
+Dedication
+
+Table of Contents note (“Click any title below...”)
+
+✅ 4. Chapter One Content
+
+Insert all verses from “CHAPTER ONE: VIRTUOUS CONDUCT” exactly as they appear in the original .txt manuscript.
+Maintain the blues-folk cadence — no forced justification, preserve all stanza breaks and indents.
+
+✅ 5. Remaining Chapters
+
+After Part I is approved, continue sequentially:
+
+CHAPTER TWO → end of manuscript
+
+Insert “Notes,” “Glossary,” and “About the Author” sections.
+
+Verify that hyperlinked TOC connects to each chapter bookmark.
+
+✅ 6. Export & Delivery
+
+Deliver as editable .docx for print and EPUB for digital.
+
+Confirm embedded thumbnail:
+The Immeasurable Meanings Sutra: A Blues Translation
+by William Altig
+
+Preserve “Print Layout” view as the default.
+
+✅ 7. Metadata for Publishing
+
+Title: The Immeasurable Meanings Sutra: A Blues Translation
+Subtitle: The Dharma in the Key of the Human Spirit
+Author: William Altig
+Publisher: William Altig (self-published via KDP)
+Dedication: “To every voice that ever turned sorrow into song—to all who walk the road of the Dharma with rhythm and grace.”
+Keywords: Lotus Sutra, Blues Folk, Dharma, Enlightenment, Spiritual Awakening, Folk Gospel, Songs of Awakening, Radiant Lotus, Sutra Blues.
+
+🪷 Closing Note
+
+Prepared by Radiant Lotus Publishing Assistant for William Altig, 2025
+For Internal Use Only — Not for Distribution

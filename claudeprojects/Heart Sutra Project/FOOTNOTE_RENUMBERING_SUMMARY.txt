@@ -1,0 +1,84 @@
+FOOTNOTE RENUMBERING COMPLETE - VERSION D
+==========================================
+
+Date: 2026-01-10
+File: ARTICLE_Hellhounds_VERSION_D.md
+
+PROBLEM RESOLVED
+----------------
+New Black Buddhist scholar citations were added as [^5], [^6], and [^7]:
+- [^5]: Rima Vesely-Flad, *Black Buddhists and the Black Radical Tradition*
+- [^6]: Zenju Earthlyn Manuel, *The Way of Tenderness*
+- [^7]: Jan Willis, *Dreaming Me: Black, Baptist, and Buddhist*
+
+This created duplicate footnote numbers. All subsequent footnotes needed to shift by +3.
+
+SOLUTION APPLIED
+----------------
+Systematically renumbered all footnote definitions and in-text citations.
+
+FINAL FOOTNOTE STRUCTURE
+-------------------------
+[^1]: Clyde Woods (unchanged)
+[^2]: Xuanzang (unchanged)
+[^3]: Kumārajīva (unchanged)
+[^4]: Kamilah Majied (unchanged)
+[^5]: Rima Vesely-Flad (NEW)
+[^6]: Zenju Earthlyn Manuel (NEW)
+[^7]: Jan Willis (NEW)
+[^8]: Donald S. Lopez Jr. (was [^5])
+[^9]: Jan Nattier (was [^6])
+[^10]: Stefano Zacchetti (was [^7])
+[^11]: Kazuaki Tanahashi (was [^8])
+[^12]: Pema Chödrön (was [^9])
+[^13]: Woods (was [^10])
+[^14]: Woods Blues Block (was [^11])
+[^15]: Liturgical hospitality (was [^12])
+[^16]: Angela Y. Davis (was [^13])
+[^17]: Chün-fang Yü (was [^14])
+[^18]: Vernacular translation (was [^15])
+[^19]: Xuanzang Taishō (was [^16])
+[^20]: Ralph Ellison (was [^17])
+[^21]: Orlando Patterson (was [^18])
+[^22]: Patterson analysis (was [^19])
+[^23]: Heart Sutra Reborn (was [^20])
+[^24]: Saidiya Hartman (was [^21])
+[^25]: Manuel (was [^22])
+[^26]: Thich Nhat Hanh (was [^23])
+[^27]: Jon Kabat-Zinn (was [^24])
+[^28]: Nāgārjuna MMK (was [^25])
+[^28a]: Nāgārjuna MMK 24.18 (was [^25a])
+[^29]: Houston A. Baker (was [^26])
+[^30]: Hartman short (was [^27])
+[^31]: Albert Murray (was [^28])
+[^32]: Howard Thurman (was [^29])
+[^33]: Ralph H. Craig III (was [^30])
+[^34]: Pamela Ayo Yetunde (was [^31])
+[^35]: James H. Cone (was [^32])
+[^36]: Stephen W. Porges (was [^33])
+[^37]: John Searle (was [^34])
+[^38]: Kamilah Majied Joyfully (was [^35])
+[^39]: Manuel second (was [^36])
+[^40]: Robin DiAngelo (was [^37])
+[^41]: Jan Nattier second (was [^38])
+[^42]: Houston Baker second (was [^39])
+[^43]: Hartman third (was [^40])
+[^44]: Christina Sharpe (was [^41])
+[^45]: Fred Moten (was [^42])
+[^46]: Vincent L. Wimbush (was [^43])
+[^47]: Tibetan exegesis (was [^44])
+
+VERIFICATION
+------------
+✓ Total footnote definitions: 48 (including [^28a])
+✓ No duplicate footnote numbers
+✓ All in-text citations updated
+✓ All citations have corresponding definitions
+✓ Special footnote [^28a] correctly preserved
+
+BACKUP FILES CREATED
+--------------------
+- ARTICLE_Hellhounds_VERSION_D_BACKUP.md (original before any changes)
+- ARTICLE_Hellhounds_VERSION_D.md.backup* (intermediate versions)
+
+The article is now ready for submission with correctly numbered footnotes.

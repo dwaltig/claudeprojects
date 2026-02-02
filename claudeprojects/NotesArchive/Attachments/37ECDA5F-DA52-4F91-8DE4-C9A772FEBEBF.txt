@@ -1,0 +1,73 @@
+07-15 Installation Proposal: Camera & 5G Connectivity Strategy
+Camera Positioning and Visibility
+Three camera placement options assessed:
+  Option 1: Positioned in a corner; visibility blocked by a high fence, making it "not good" as it prevented seeing a person's head.
+Option 2: Zoomed version of Option 1; still suboptimal.
+Option 3: Best choice; provides a clear view of the gate opening, making it acceptable for monitoring.
+Main requirement: Camera must reliably capture the gate, ensuring at least the bottom of the gate is visible. There was a concern about not seeing children under a certain height or only seeing half of the gate if someone enters from the side, but the gate itself is the major point of focus.
+Preferred placement: The discussion centered on placing the camera on top of an awning, which was identified as the "best spot." This location was considered to optimize the view and was noted by William as potentially not requiring a ladder for installation, though William's comment about a $200 ladder was a sarcastic remark about potential charges, not a literal cost factor for the installer. Wiring would be run on the roof, not necessarily the camera itself.
+
+Wiring and Equipment Installation
+Wiring approach:
+  Run UV-rated cable along the roof to avoid issues associated with conduit, which can bend, shear, and cut wires due to heat and cold expansion/contraction.
+Identify fastening points that do not require penetrating the roof, ensuring no holes are made in the roof.
+Installation area:
+  Use an access point that supports the camera and future system expansion (e.g., adding a switch or more cameras).
+Ensure placement avoids interference from telephone poles.
+
+Camera Specifications and Functional Capabilities
+Equipment features:
+  Zoom camera with 25x zoom, capable of capturing the gate effectively even from a distance.
+Infrared capability with up to 600 feet reach for clear nighttime visibility.
+Operational details:
+  Camera setup focuses solely on the gate; wider views would capture unnecessary details like walls or wall holes.
+Remote functionality is maintained, including the ability to change zoom and playback. However, certain system settings are limited to the recorder, which may present some limitations, though these are not considered a "big deal" for everyday use.
+
+Roof and Infrastructure Considerations
+Roof condition:
+  The roof is estimated to be about 25 years old; a physical inspection is planned to determine optimal wiring points and assess its condition.
+Safety and maintenance:
+  The installation aims for easy access to the roof without causing damage or requiring permanent modifications, specifically avoiding any holes in the roof. The installer noted easy access from the current location.
+
+Proposal Timeline and Support Coordination
+Proposal development:
+  A detailed proposal is expected by the end of the current week or early next week, including specifications, installation plans, and cost details.
+Coordination with electricians:
+  After the main proposal is approved, an electrician will be contacted to assess antenna and wiring needs on-site.
+The electrician will provide a separate proposal and bill separately, as their services are independent of the main installation contract.
+
+Trash Disposal and Site Management
+Current issues:
+  Unregulated dumping of mattresses and furniture has occurred due to the current lack of a heavy trash contract, leading to excessive costs.
+Interim measures:
+  The location is intended to be turned into a heavy trash location once a formal contract is secured.
+Neighbors were informed about the ramifications of leaving trash and took responsibility by picking up their items.
+
+5G Internet Connectivity and System Networking
+Internet setup options:
+  The discussion included a service with a 22 Mbps upload speed mentioned in the proposal. 5G internet was explored as a potentially much cheaper alternative, with costs around $30 to $110 per month, with $110 being considered cheap for business service compared to typical rates of $140.
+Technical considerations:
+  T-Mobile 5G routers lack port forwarding capabilities, which limits some remote maintenance functions. However, modern P2P (point-to-point) networking technologies eliminate the need for open ports for remote viewing and playback of cameras.
+A practical 5G test will be conducted in the boiler room using a laptop or phone to check connectivity and signal strength, as signal quality can vary depending on the tower's location relative to the building.
+The boiler room's lack of a residential address means that business internet service is required, limiting residential options.
+Future alternatives:
+  The option to switch providers or consider alternatives like BlueStream was mentioned, though no proposal was received for BlueStream. The choice of provider depends on business needs and the address type.
+
+Additional System Flexibility and Future-Proofing
+Expansion possibility:
+  The current setup includes an access point where a switch can be installed, allowing for the addition of three or more cameras in the future if broader coverage, such as a 180° view of the parking lot, is desired.
+System configuration:
+  The system enables remote adjustment of camera settings, including zoom, over the network. While some system settings are recorder-specific, these limitations are not considered significant for everyday use.
+Financial aspects:
+  The camera itself is described as "pricey but good" and "worthwhile." The discussion about competitive pricing and potential for significant monthly savings (e.g., $50 or more) specifically refers to the 5G internet service as a cost-effective alternative to other internet options.
+
+📅 Next Steps
+ Prepare and deliver the detailed proposal by the end of this week or early next week.
+ Schedule an on-site roof inspection to identify optimal wiring points without roof penetrations.
+ Engage electricians to review and plan antenna and wiring setup; request a separate proposal after main proposal approval.
+ Test 5G connectivity in the boiler room using both phone and laptop to verify upload speeds and signal strength.
+ Confirm final camera placement for optimal gate visibility and minimal obstructions.
+ Validate wiring plan to avoid roof damage by using UV-rated cables and proper fastening points.
+ Prepare for potential future camera coverage expansion if a wider view is needed.
+ Coordinate with the board for proposal review and final approval.
+ Review current trash disposal measures and monitor progress toward a formal heavy trash contract.
