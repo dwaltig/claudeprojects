@@ -109,7 +109,7 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **他云：「風由檀林故香，地加之嚴淨，盈長兩事。」今謂非盈，風本無香而香，為奇特故以成瑞...**
 
-**Others say: "Wind is fragrant because of Sandalwood forests; the ground adds adornment and purity. This is **Adding/Extending** (*Yíng*) two matters." I say it is **Not Adding**. Wind originally has no fragrance yet becomes fragrant; because it is rare/special (*Qí Tè*), it becomes an Omen...**
+**Others say: "Wind is fragrant because of Sandalwood forests; the ground adds adornment and purity. This is **Adding/Extending** (*Yíng*) two matters." I say it is **Not Adding**. Wind originally has no fragrance yet becomes fragrant; because it is rare/special (*Qí Tè*), it becomes an Omen. The ground is originally impure yet becomes pure; this is also rare/special, thus becoming an Omen.**
 
 ---
 
@@ -117,7 +117,7 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **「眉間光」下，次有五十行，頌問他土六瑞...**
 
-**From "Brow Light" downwards, next are fifty lines of verse asking about the Six Omens of **Other Lands**...**
+**From "Brow Light" downwards, next are fifty lines of verse asking about the Six Omens of **Other Lands**.**
 
 **舊云：「頌中不問三乘四眾，不問佛涅槃。今教廢三，那忽問三？方說壽量，那問滅度？於義不便故不問也。」**
 
@@ -193,15 +193,15 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **「若人有福」下一行，是開中乘也...**
 
-**From "If persons have blessings" downwards (1 line) opens the **Middle Vehicle** [Pratyekabuddha]...**
+**From "If persons have blessings" downwards (1 line) opens the **Middle Vehicle** [Pratyekabuddha]. Since the Buddha has entered Extinction, there is no Buddha to meet; they only seek Spontaneous Wisdom (*Zìrán Huì*). This is the practice of the Middle Vehicle.**
 
 **「志求勝法」者... 即是他土開中乘也。**
 
-**"Intent on seeking Superior Dharma"... this is Other Lands opening the Middle Vehicle.**
+**"Intent on seeking Superior Dharma": This means intent on seeking the Spontanous Superior Dharma. This is Other Lands opening the Middle Vehicle.**
 
 **「若有佛子」下，是開六度大乘也，真慈悲能紹佛種故言佛子...**
 
-**From "If there are Buddha Sons" downwards, opens the **Six Pāramitā Mahāyāna**. True Kindness and Compassion can continue the Buddha Seed, thus called "Buddha Sons"...**
+**From "If there are Buddha Sons" downwards, opens the **Six Pāramitā Mahāyāna**. True Kindness and Compassion can continue the Buddha Seed, thus called "Buddha Sons."**
 
 ---
 
@@ -363,11 +363,11 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **The previous omens already symbolized "Immeasurable returning to One," which *is* entering Nirvana. Why fear that this obstructs the [Eternal] Life Span, and thus [avoid] treating "Raising Stupas" as a Buddha Work? Painful! Painful! [Referring to the Old Masters' error].**
 
-**就文為六... (Detailed breakdown of 6 parts: 1. Raising Stupas; 2. Number; 3. Height; 4. Form; 5. Offerings; 6. Conclusion).**
+**The text has six parts: 1. First 7.5 lines clarify Raising Stupas. 2. One line clarifies Stupa Number. 3. One line clarifies Stupa Height. 4. One line clarifies Stupa Form. 5. One line clarifies Offerings. 6. 1.5 lines Conclude Offerings.**
 
 **塔婆此云方墳，方墳如此土塚墓，《大灌頂》翻為塚也。殿堂如此土靈宇，崇臺峻階承露干雲，長表淨域歸心上聖耳。**
 
-**"*Stūpa*" (*Tǎpó*) is translated here as **Square Tomb** (*Fāng Fén*). A Square Tomb is like a grave mound (*Zhǒng Mù*) in this land. The *Great Consecration Sutra* translates it as "Grave" (*Zhǒng*). "Palace Halls" are like spirit-shrines in this land... long symbolizing the Pure Limit and returning the heart to the Superior Sage.**
+**"*Stūpa*" (*Tǎpó*) is translated here as **Square Tomb** (*Fāng Fén*). A Square Tomb is like a grave mound (*Zhǒng Mù*) in this land. The *Great Consecration Sutra* translates it as "Grave" (*Zhǒng*). "Palace Halls" are like spirit-shrines in this land; lofty terraces and steep steps receiving dew and drying clouds, long symbolizing the Pure Limit (*Jìng Yù*) and returning the heart to the Superior Sage.**
 
 **樹王者即波利質多，正供舍利傍嚴佛國土。**
 
@@ -475,7 +475,7 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **三、從「六十小劫」者，是時節同；四、從「說是經已於梵魔沙門」者，是唱滅同；**
 
 3. **From "Sixty Small Kalpas": **Time Period Same**.**
-4. **From "Having preached this Sutra... amidst Brahma, Maras, Shramanas": **Announcing Extinction Same**.**
+4. **From "Having preached this Sutra" downwards is the same [as above]. The intervening "Heavens and Dragons" parallel the previous [text] and can be understood.**
 
 **五、從「時有菩薩名曰德藏」者，是授記同；六、從「便於中夜」者，明滅後通經同。**
 
@@ -745,11 +745,11 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **次「有一菩薩」下，第六有二十行半，**
 
-**Next, from "There was a Bodhisattva" downwards, the sixth part (20.5 lines) [praises]...**
+**Next, from "There was a Bodhisattva" downwards, the sixth part (20.5 lines) clarifies **Disciple Root Nature Same**. First 7.5 lines clarify Wonderfully Bright (*Miàoguāng*); next 13 lines clarify Fame Seeker (*Qiúmíng*).**
 
 **明弟子根性本同，先明妙光，次明求名。**
 
-**...clarifies **Disciple Root Nature Same**. First clarifies Wonderfully Bright; next clarifies Fame Seeker.**
+
 
 **長行妙光稱八百師，名妙光；今偈稱法師，名妙德。**
 
