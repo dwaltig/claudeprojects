@@ -197,6 +197,8 @@
 
 ---
 
+*[Critical apparatus: 賾【CB】，頤【大】 — “賾” in CBETA; “頤” in Taishō.]*  
+
 **和上再三籌量，事不獲已，乃專念大師，求加可否。**
 
 **The Venerable deliberated repeatedly; the matter could not be avoided. He concentrated his mindfulness on the Great Master [Zhiyi], seeking confirmation or denial.**
@@ -296,12 +298,15 @@
 ***The Words and Phrases of the Lotus Sutra of the Wonderful Dharma*, Fascicle One, Part One**[^33]
 
 *[Critical apparatus: 妙法蓮華經【大】，法華【甲】. 【原】增上寺報恩藏明本，【甲】萬壽五年康治元年寫法隆寺藏本]*
+*[Critical apparatus: 上【大】，〔－〕【甲】 — “上” in Taishō; omitted in A‑text.]*
 
 ---
 
 **天台智者大師說**
 
 **Expounded by the Great Master Zhizhe[^34] of Tiantai**
+
+*[Critical apparatus: 天台智者大師說【大】，〔－〕【甲】]*
 
 [^33]: The fascicle is divided into "Part One" (上) and "Part Two" (下). The Taishō edition marks this; the Hōryū-ji edition does not.
 
@@ -318,6 +323,8 @@
 **Introductory Chapter, Number One**
 
 (Six difficulties attend this teaching: The Buddha's appearance in the world is difficult; the Buddha's preaching of this [Lotus Sutra] is difficult; its transmission and translation are difficult; self-awakening through it is difficult; hearing a master lecture on it is difficult; recording it completely in one hearing is difficult. I received this teaching in Jinling[^35] at age twenty-seven; at age sixty-nine in Danqiu[^36] I added and refined it. I leave this as a gift to later worthies, that together we may attain the Buddha's wisdom.)[^37]
+
+*[Critical apparatus: 序品第一【大】，〔－〕【甲】; 丹【大】，舟【甲】; 慧【大】，慧也【甲】]*
 
 [^35]: **Jinling 金陵:** Present-day Nanjing, Jiangsu Province. Guanding received instruction from Zhiyi at age twenty-seven (564 CE).
 
@@ -342,6 +349,8 @@
 **經家從義，謂次、由、述也。如是等五事冠於經首，次序也；放光六瑞起發之端，由序也；問答釋疑，正說弄引，敘述也。具此三義，故稱為序。**
 
 **The compilers of the sutra[^40] follow the meaning [of *xù*] as threefold: *cì* 次 ("sequential ordering"), *yóu* 由 ("causal origin"), and *shù* 述 ("narrative exposition"). The five elements[^41] such as "Thus have I heard" that crown the beginning of the sutra constitute the *sequential introduction* (次序 *cìxù*). The emanation of light and the six auspicious signs[^42] that initiate the teaching constitute the *causal introduction* (由序 *yóuxù*). The question-and-answer exchanges that resolve doubts and draw out the main teaching constitute the *narrative introduction* (敘述 *xùshù*). Because all three meanings are present, it is called "序" (*xù*, "introduction").**
+
+*[Critical apparatus: 弄【大】，壽胤【甲】]*
 
 [^40]: **經家 *jīngjiā*:** "Sutra compilers," referring to the disciples (traditionally Ānanda and others) who compiled the Buddha's discourses after his parinirvāṇa at the First Buddhist Council.
 
@@ -379,52 +388,11 @@
 
 **In the present sutra, [the title of] the "Former Affairs of Medicine King Bodhisattva" chapter[^48] was announced by the Buddha. [The titles of] chapters such as "Wonderful Sound" and "Avalokiteśvara"[^49] were established by the sutra compilers or translators—we have not heard [that the Buddha announced them]. Since this is the first of all the chapters, it is called "Number One."**
 
+*[Critical apparatus: 唱【大】，自唱【甲】]*
+
 [^48]: **"Former Affairs of Medicine King Bodhisattva" 藥王本事:** Chapter 23 of the *Lotus Sutra* (*Bhaiṣajyarāja-pūrvayoga-parivarta*).
 
 [^49]: **"Wonderful Sound" 妙音 and "Avalokiteśvara" 觀音:** Chapters 24 and 25, respectively.
-
----
-
-## SECTION OVERVIEW: Exegetical Architecture (Source Lines 381-600)
-
-This extended section establishes Zhiyi's **methodological framework** for interpreting the *Lotus Sutra*. It is the foundation upon which all subsequent commentary in the *Wenju* is built.
-
-### Contents:
-
-1. **Survey of Prior Structural Divisions** (lines 388-561)
-   - Buddha's original "scattered" and "threaded" teachings
-   - Classification systems in the Āgamas and Abhidharma
-   - Critique of earlier commentators (Daolang, Sengrou, Fayun, Daosheng)
-   - Zhiyi's assessment: earlier divisions either too sparse or too elaborate
-
-2. **Zhiyi's Threefold Division** (lines 564-653)
-   - **Sequence** (序分, *Introduction*): Chapter 1
-   - **Main** (正宗分, *Main Body*): Chapters 2-17 (through 19 verses)
-   - **Circulation** (流通分, *Propagation*): Remainder
-   - Further divided into **Trace Gate** (迹門, chs. 1-14) and **Fundamental Gate** (本門, chs. 15-28)
-
-3. **Four Methods of Interpretation** (656-768)
-   - **(1) Causes and Conditions** (因緣): The karmic circumstances that occasion teaching
-   - **(2) According to Teachings** (約教): Classification by the Four Teachings (Tripiṭaka, Shared, Distinct, Perfect)
-   - **(3) Fundamental and Trace** (本迹): Distinguishing eternal reality from historical manifestation
-   - **(4) Contemplating the Mind** (觀心): Locating the teaching within the practitioner's own realization
-
-4. **Scriptural Evidence** (772-864)
-   - Citations from *Lotus Sutra* Chapters 2, 3, 8, 16 proving the Four Methods are canonical, not Zhiyi's invention
-
-5. **Temporal Schemas** (872-925)
-   - Three frameworks for Buddha's salvific activity across time
-   - Recursive structure: three lifetimes nested within nine lifetimes
-   - Present, past, and perpetual future teachings all pointing back to the original enlightenment
-
-6. **Trace/Fundamental Structure** (988-1027)
-   - The "great tree" metaphor: all teachings trace back to one root
-   - The Buddha's first teaching at original enlightenment is the "Fundamental"
-   - All subsequent teachings (including the Royal City assembly) are "Trace"
-
-**Pedagogical Note**: This section is the **code wiki** for the entire *Wenju*. Every subsequent chapter analysis applies these Four Methods. Understanding this architecture is essential for comprehending Tiantai exegesis.
-
----
 
 ### Survey of Prior Structural Divisions
 
@@ -680,6 +648,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 
 **The *Avataṃsaka Sūtra*[^84] has assemblies in multiple locations; the *Āgama* [sutras] each begin with "Thus [have I heard]"; the *Mahāprajñāpāramitā Sūtra*[^85] has entrustments at both the beginning and the end—yet none of these contradict the unity of a single text. How would two Sequences be problematic?**
 
+*[Critical apparatus: 阿【大】，何【甲】 — “阿” in Taishō; “何” in A‑text.]*  
+
 [^84]: ***Avataṃsaka Sūtra* 華嚴:** The *Buddhāvataṃsaka-mahāvaipulya-sūtra* (T.278, 279, 293), which describes the Buddha teaching in multiple celestial locations.
 
 [^85]: ***Mahāprajñāpāramitā Sūtra* 大品:** The "Large Perfection of Wisdom Sutra" (T.223), translated by Kumārajīva in 404 CE.
@@ -707,6 +677,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 **列數者：一因緣、二約教、三本迹、四觀心。始從「如是」終于「而退」，皆以四意消文，而今略書，或三、二、一，貴在得意不煩筆墨。**
 
 **Enumerating the number: (1) Causes and Conditions (*yīnyuán* 因緣); (2) According to the Teachings (*yuējiào* 約教); (3) Fundamental and Trace (*běnjì* 本迹); (4) Contemplating the Mind (*guānxīn* 觀心).[^87] From the opening "Thus [have I heard]" to the conclusion "and withdrew," all [passages] are explicated using these four approaches (*sìyì* 四意). However, in the present [commentary], we write concisely—sometimes [using] three [methods], two, or one—because the priority is grasping the meaning, not exhausting ink and paper.**
+
+*[Critical apparatus: 退【大】，去【甲】; 煩【大】，繁【甲】]*
 
 [^87]: **The Four Methods of Interpretation (四意消文):** (1) *Causes and Conditions*—the karmic causes and spiritual capacities that occasioned the teaching; (2) *According to the Teachings*—interpretation by doctrinal classification (Four Teachings: Tripiṭaka, Shared, Distinct, Perfect); (3) *Fundamental and Trace*—distinguishing eternal reality from historical manifestation; (4) *Contemplating the Mind*—locating the teaching within the practitioner's own mind.
 
@@ -769,6 +741,9 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 **今論娑婆國土音聲佛事則甘露門開，依教釋者中說明矣。**
 
 **The present [commentary] discusses the Buddha's work through sound[^91] in the Sahā world, whereby the gate of ambrosia[^92] is opened. The interpretation *according to the teachings* is the middle explanation.**
+
+*[Critical apparatus: 釋【大】，扶【甲】 — “釋” in Taishō; “扶” in A‑text.]*
+*[Critical apparatus: 中【大】，處中【甲】 — “中” in Taishō; “處中” in A‑text.]*
 
 [^91]: **"Buddha's work through sound" 音聲佛事:** The Sahā world is characterized by the Buddha teaching primarily through verbal discourse, in contrast to other Buddha-lands.
 
@@ -839,6 +814,9 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 **又云：「以種種法門，宣示於佛道。」當知種種聲教，若微若著、若權若實，皆為佛道而作筌罤。**
 
 **[The sutra] also says: "By means of various Dharma gates, [the Buddhas] proclaim and reveal the Buddha-path."[^100] You should understand: the various verbal teachings (*shēngjiào* 聲教), whether subtle or manifest, whether provisional (*quán* 權) or real (*shí* 實), all serve as fish-traps and rabbit-snares for the Buddha-path.[^101]**
+
+*[Critical apparatus: 微【大】，徹【甲】 — “微” in Taishō; “徹” in A‑text.]*
+*[Critical apparatus: 罤【大】，號【甲】 — “罤” in Taishō; “號” in A‑text.]*
 
 [^100]: Lotus Sutra, Chapter 2 (T.262.9.8b). The "various Dharma gates" (種種法門) refers to the diversity of skillful means (*upāya*) employed across the Five Periods of teaching.
 
@@ -916,6 +894,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 
 **From the distant past, sentient beings have received the Buddha's skillful means, enabling them to plant the causes and conditions of the Buddha-path. In the intervening periods, [the Buddha and beings] encountered one another repeatedly, and [the Buddha] further employed different expedient means to assist in revealing the First Meaning, thereby ripening [their capacities]. Today, with the rain of flowers and the trembling of the earth,[^110] [the Buddha] brings them to extinction (*nirvāṇa*) by means of the Tathāgata's extinction.[^111]**
 
+*[Critical apparatus: 滅度【大】，度脫【甲】 — “滅度” in Taishō; “度脫” in A‑text.]*
+
 [^110]: The "rain of flowers and trembling of the earth" (雨花動地) refers to the miraculous portents described in the Lotus Sutra's *Introductory Chapter* (序品), signaling the impending revelation of the supreme teaching.
 
 [^111]: "Extinction by means of the Tathāgata's extinction" (以如來滅度而滅度之) — A technical phrase indicating that beings' liberation (*nirvāṇa*) is not separate from realizing the Buddha's own nirvāṇa. This collapses the distinction between teacher and student in the moment of awakening.
@@ -928,6 +908,9 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 
 **Furthermore: the distant past served as planting; the [more recent] past as ripening; the recent age as liberation. The [Bodhisattvas] Emerging from the Earth and others exemplify this.[^112]**
 
+*[Critical apparatus: 涌【大】，踊【甲】 — “涌” in Taishō; “踊” in A‑text.]*
+*[Critical apparatus: 也【大】，也(云云)【甲】 — “也” in Taishō; “也(云云)” in A‑text.]*
+
 [^112]: **地涌** (*dìyǒng*) — The Bodhisattvas Emerging from the Earth (從地涌出菩薩), who appear in Chapter 15 of the Lotus Sutra. Their emergence proves that Śākyamuni has been teaching since limitless kalpas ago, as they are his disciples from the distant past. This schema (遠/過去/近 = seed/ripen/liberate) structures the relationship between Original Gate teaching and historical manifestation.
 
 ---
@@ -937,6 +920,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 **復次，中間為種，四味為熟，王城為脫，今之開示悟入者也。**
 
 **Furthermore: the middle period served as planting; the Four Flavors served as ripening; [the teaching at] the Royal City served as liberation. This is [the schema for] those who are now opened, shown, awakened, and entered.[^113]**
+
+*[Critical apparatus: 也【大】，是也【甲】 — “也” in Taishō; “是也” in A‑text.]*
 
 [^113]: **四味** (*sìwèi*) — The first four of the Five Flavors (五時五味): Huáyán, Āgama, Vaipulya, and Prajñā periods. These are provisional teachings preparing beings for the Lotus. "Royal City" (王城) is Rājagṛha, where the Lotus Sutra was preached. "Opened, shown, awakened, and entered" (開示悟入) are the Four Buddha-Wisdoms from Chapter 2 of the Lotus Sutra.
 
@@ -968,6 +953,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 
 **For these reasons and so forth, there is the Sequence Division (*xùfēn* 序分). The assembly sees the rare portents and, heads raised in reverent longing, desires to hear the complete path. The Buddha, riding the [opportune] capacity, establishes the teaching and opens, shows, awakens [them to], and causes them to enter the Buddha's knowledge and vision. Therefore there is the Main Teaching Division (*zhèng shuō fēn* 正說分).**
 
+*[Critical apparatus: 乘【大】，承【甲】 — “乘” in Taishō; “承” in A‑text.]*
+
 ---
 
 **非但當時獲大利益，後五百歲遠沾妙道，故有流通分也。**
@@ -988,6 +975,8 @@ This extended section establishes Zhiyi's **methodological framework** for inter
 - **is not** a preface for the "immediate emptiness" [teaching] shared among the three [vehicles];[^117]
 - **is not** a preface for the solitary bodhisattva Dharma.[^118]
 - **Rather**, it is a preface for directly discarding expedient means and solely proclaiming the supreme Buddha-path.
+
+*[Critical apparatus: 升【大】＊，昇【甲】＊]*
 
 [^117]: **即空通三** (*jí kōng tōng sān*) — The Shared Teaching (通教 *Tōngjiào*), which teaches emptiness (*śūnyatā*) as accessible to śrāvakas, pratyekabuddhas, and bodhisattvas alike. Tiantai classifies it as provisional relative to the Perfect Teaching.
 
@@ -1067,21 +1056,6 @@ The Lotus Sutra's Main Division exclusively teaches the fourth wisdom (sunlight/
 **It is like a great tree: although it has a thousand branches and ten thousand leaves, when discussing its root and origin, one cannot trace "transmission after transmission" mutually pointing back — [ultimately] they share the same ancestry in one root. This metaphor is intelligible, and so forth.**
 
 ---
-
-
-### Protocol Map: Fascicle 1 (Lines 112-140)
-1. **Contemplation of Mind (Structure):** Applying the Threefold Division (Introduction, Main, Propagation) to internal cultivation (Sila, Samadhi, Prajna).
-2. **Conclusion of Fourfold Interpretation:** Summary of the four methods (Causes & Conditions, Teachings, Origin/Trace, Contemplation) applied to the specific chapters.
-3. **The Two Introductions:** Distinction between General Introduction (Evam Mayā śrutam... to "sat to one side") and Specific Introduction.
-4. **Explanation of "Thus" (Ru Shi):**
-   - **General Definition:** Faith and compliance.
-   - **Four Siddhāntas:** Worldly (avoiding dispute), For Each Person (generating faith), Counteracting (A/Ou), First Principle (compliance with reality).
-   - **Four Teachings (Panjiao):** Detailed breakdown of "Thus" across Tripitaka, Shared, Distinct, and Perfect teachings.
-   - **Origin/Trace:** The "Thus" of the initial enlightenment vs. the "Thus" of the intermediate traces.
-   - **Contemplation:** Observing the mind and the "Thusness" of faith/sight.
-
----
-
 **[113] 次示觀心相者，當約己心論戒、定、慧為三分，修行以戒初、定中、慧後；**  
 Next, to demonstrate the characteristics of the Contemplation of Mind: one should discuss the Precepts (*śīla*), Concentration (*samādhi*), and Wisdom (*prajñā*) regarding one's own mind as the Three Divisions. In cultivation, Precepts are the Beginning [Introduction], Concentration is the Middle [Main Body], and Wisdom is the End [Propagation].
 
@@ -1121,6 +1095,8 @@ The General Introduction is common to all teachings [sutras]; the Specific Intro
 **「佛」者，時從佛聞也。「王城耆山」，聞持之所也。「與大比丘」者，是聞持之伴也。此皆因緣和合，次第相[1]生。**  
 "Buddha" indicates that at that time, it was heard from the Buddha. "The King's City, Vulture Peak" indicates the place of hearing and upholding. "With the Great Bhikshus" indicates the companions in hearing and upholding. These are all the harmonious union of causes and conditions, arising in sequential order.
 
+*[Critical apparatus: 生【大】，生也【甲】]*
+
 **[123] 又「如是」者，三世佛經初皆安「如是」，諸佛道同不與世諍，世界悉檀也；**  
 Furthermore, regarding "Thus" (*Ru Shi*): The beginning of the sutras of the Buddhas of the three times are all placed with "Thus." The Way of all Buddhas is the same, and they "do not dispute with the world." This is the Worldly Siddhānta.
 
@@ -1130,6 +1106,8 @@ The *Da Zhidu Lun* says: "Mentioning the time and place causes people to generat
 **又對破外道阿[2]歐二字不如、不是，對治悉檀也；**  
 Also, it is to refute the two words "A" and "Ou" of the non-Buddhists[^128], which are "Not-Thus" (*Bu Ru*) and "Not-Right" (*Bu Shi*). This is the Counteracting Siddhānta.
 
+*[Critical apparatus: 歐【大】，漚【甲】; 又【大】，〔－〕【甲】]*
+
 [^128]: **A and Ou**: Refers to the opening words of Brahmanical texts (A implying existence, Ou implying negation or auspiciousness), which Zhiyi contrasts with the Buddhist "Evam" (Thus).
 
 **[3]又如是者，信順之辭，信則所聞之理會，順則師資之道成，即第一義悉檀也。因緣釋甚廣，不能具載(云云)。**  
@@ -1137,6 +1115,8 @@ Also, "Thus" is a word of faith and compliance. With faith, the principle that i
 
 **[128] 約教釋者，經稱三世佛法初皆如是，先佛有漸、頓、祕密、不定等經，漸又三藏、通、別、圓；今佛亦爾，諸經不同，如是亦異，不應一[4]匙開於眾戶。**  
 [Interpretation via the Teachings:] The sutra states that the beginning of the Dharma of the Buddhas of the three times is always "Thus." But the past Buddhas had Gradual, Sudden, Secret, and Indeterminate sutras. The Gradual further divides into Tripitaka, Shared, Distinct, and Perfect. The present Buddha is also like this. Since the various sutras are different, their "Thus" is also different. One should not use a single key to open all doors.
+
+*[Critical apparatus: 匙【大】，題【甲】]*
 
 **又佛、阿難二文不異為如，能詮詮所詮為是。今阿難傳佛何等文、詮何等是？**  
 Furthermore, [the standard definition is that] the text of Ananda and the Buddha not being different is "Ru" (Like/As/Thus), and the signifier signifying the signified is "Shi" (Right/Correct/Thus). [But we must ask]: What kind of text is Ananda transmitting from the Buddha, and what kind of [truth] is he signifying?
@@ -1165,6 +1145,8 @@ Ananda transmitting this exiting existence to enter non-existence, and exiting n
 **阿難傳此，與佛說無異，故名為如，如如不動故名為是，是則[5]圓經初如是也。**  
 Ananda transmitting this without difference from the Buddha's speech is named "Ru". Being immovable in Thusness-Thusness (*Ru Ru*) is named "Shi". This is the "Thus" at the beginning of the Perfect Teaching Sutras.
 
+*[Critical apparatus: 圓【大】，圓教【甲】; 是如【大】，如是【甲】]*
+
 **若動俗入如，三藏義耳；不動俗即是如，通教義耳；動如入如，別教義耳；不動如而[6]是如，圓教義也(云云)。**
 If one "moves" [destroys] the Conventional to enter Thusness, this is the meaning of the Tripitaka. If the Conventional, immovable [without destruction], *is* Thusness, this is the meaning of the Shared Teaching. If one "moves" [cultivates] Thusness to enter Thusness [deeper realization], this is the meaning of the Distinct Teaching. If one does not move from Thusness yet *is* Thusness, this is the meaning of the Perfect Teaching.[^130]
 
@@ -1192,8 +1174,12 @@ Furthermore, the "Thus" transmitted by Ananda is the Trace; the "Thus" spoken by
 - Using these two contemplations as expedient paths to enter the Middle Way First Principle, doubly illuminating the Two Truths, is [a function of] both Shared and Distinct Contemplation.
 - Seeing that all the above are the Middle Way is the Contemplation that is neither Shared nor Distinct [i.e., Perfect Contemplation].
 
+*[Critical apparatus: 迹【大】，〔－〕【甲】]*
+
 **下文云：「若人信汝所說，即[8]得見我亦見於汝及比丘僧并諸菩薩。」即觀行之明文也。**  
 The text below says: "If a person believes what you say, they will immediately see Me, and also see you, the Bhikshu Sangha, and the Bodhisattvas." This is a clear passage regarding Contemplation Practice.
+
+*[Critical apparatus: 得【大】，為【甲】]*
 
 **信則論機，見則是應，即因緣也。又信有淺深、見有權實，種種分別不同者，即分別教。**  
 "Faith" discusses the Capacity (Ji); "Seeing" is the Response (Ying). This is [Contemplation of] Causes and Conditions. Furthermore, Faith has shallow and deep; Seeing has Provisional and Real. The various distinctions and differences are the [Contemplation of] Teachings.
@@ -1201,36 +1187,19 @@ The text below says: "If a person believes what you say, they will immediately s
 **又[9]信《法華》之文，則見實相之本，若見身子之化，則見龍陀之本；若見始成釋尊，亦見久成先佛；若見千二百比丘、八萬菩薩者，亦見其本也。**  
 Furthermore, if one believes in the text of the *Lotus*, one sees the Origin of Real Form. If one sees the transformation body of Śāriputra (*Shēnzǐ* 身子), one sees the Origin of Golden Dragon Intelligence (*Jīn Lóngtuó* 金龍陀).[^129] If one sees the Shakyamuni who "newly attained" [enlightenment], one also sees the Ancient Buddha who attained long ago. If one sees the 1,200 Bhikshus and 80,000 Bodhisattvas, one also sees their Origin.
 
+*[Critical apparatus: 信【大】，信汝【甲】]*
+
 [^129]: **Golden Dragon Intelligence** (*Jīn Lóngtuó* 金龍陀): Śāriputra's Buddha-name in his Original Nature (*ben* 本). According to the Origin/Trace doctrine, Śāriputra appears as a disciple in the Trace manifestation, but in his fundamental identity (Origin), he is the Buddha "Golden Dragon Intelligence." This exemplifies the Lotus Sutra's teaching that the śrāvakas are not ultimately disciples but Buddhas. Source: T.1718 Fahua Wenju, Fascicle 5, Line 98: "身子久成佛，號金龍陀" ("Śāriputra long ago became a Buddha; his name was Golden Dragon Intelligence").
 
 **又聞經心信無疑，覺此信心明淨，即是見佛；慧數分明，是見身子；諸數分明，[10]是眾比丘；慈悲心淨，是見諸菩薩。**  
 Also, hearing the Sutra and believing with no doubt in the mind: being aware that this believing mind is bright and pure—this is "Seeing the Buddha." The mental factor (*caitta*) of Wisdom being clear—this is "Seeing Sariputra." The various [other] mental factors being clear—this is "Seeing the Assembly of Bhikshus." The mind of kindness and compassion being pure—this is "Seeing the Bodhisattvas."
 
+*[Critical apparatus: 是【大】，見是【甲】]*
+
 **約心為四帖釋轉明，若釋他經但用三意，為未發本顯迹故。當知今經三釋與他同，一釋與彼異，四番釋如是竟(云云)。**  
 Interpreting via the Mind makes the previous four layers [of interpretation] progressively clearer. If interpreting other sutras, one only uses three meanings [Causes/Conditions, Teachings, Contemplation?], because they have no "Opened the Origin to Reveal the Trace." One should know that for this Sutra, three interpretations are the same as others, but one interpretation [Origin/Trace] is different. The fourfold explanation of "Thus" is concluded.
 
 ---
-
-
-### Protocol Map: Fascicle 1 (Lines 141-170)
-1.  **Explanation of "I Heard" (Wo Wen):**
-    -   **General Definition:** Harmonious union of conditions (ear, sound, consciousness).
-    -   **Four Siddhāntas:**
-        -   *Worldly:* "I" as the master of the ear.
-        -   *Person:* Ananda ascending the seat causing grief (memory of Buddha).
-        -   *Counteracting:* Dispelling the "Three Doubts" (Sakyamuni returned? Other Buddha? Ananda enlightened?).
-        -   *First Principle:* No "I" and no "hearing."
-    -   **Four Teachings (Panjiao):**
-        -   *Tripitaka:* Ananda as *Śaikṣa* (Learner), using "Name-I" without fault.
-        -   *Shared:* *Vibhasha* citation; "I" falls into evil views.
-        -   *Distinct:* *Nirvana Sutra* citation; knowing "I" and "No-I" are non-dual.
-        -   *Perfect:* Transmitting the unhindered wisdom of the Tathāgata with sovereign use of "I."
-    -   **The Three Anandas:** Citation from *Zhengfa Nian Jing* (Ananda, Ananda-Bhadra, Ananda-Sagara) representing different capacities.
-    -   **Origin/Trace:** Ananda's trace as a learner vs. Origin as a Bodhisattva (Empty King Buddha).
-    -   **Contemplation:** Observing the "I" as Empty, Provisional, and Middle.
-
----
-
 **[146] 「我聞」者，或「聞如是」，蓋經本不同，前後互舉耳。**  
 Regarding "I Heard" (*Wo Wen*): Sometimes it is [phrased] "Heard Thus" (*Wen Ru Shi*). This is because the sutra versions differ, bringing up [the terms] in alternating order.
 
@@ -1243,14 +1212,20 @@ Question: One should say "the ear hears"; why say "I heard"?
 **[152] 答：我是[1]耳主，舉我攝眾緣。此世界釋也。**  
 Answer: "I" is the master of the ear. Mentioning "I" encompasses the multitude of conditions. This is the Worldly Explanation.
 
+*[Critical apparatus: 耳【大】，身【甲】]*
+
 **阿難登[2]高稱我聞，大眾應悲號，適見如來今稱我聞，無學飛騰說偈。**  
 When Ananda ascended the high [seat] and proclaimed "I heard," the great assembly responded with weeping and wailing. Just as they saw the Tathagata [in the past], now [hearing Ananda] proclaim "I heard," the No-Learners (*Aśaikṣa*) flew up and spoke verses.
+
+*[Critical apparatus: 高【大】，高座【甲】]*
 
 **《佛話經》明文殊結集，先唱題、次稱如是我聞，時眾悲號。此為人釋也。**  
 The *Fo Hua Jing* explains that when Manjushri compiled [the sutras], he first chanted the title, then proclaimed "Thus I heard," and the assembly at that time wept and wailed. This is the Explanation for Each Person.
 
 **阿難登高稱我聞遣眾疑，阿難身與佛相似，短佛三[3]指，眾疑釋尊重出，或他方佛來，或阿難成佛；若唱我聞，三疑即遣。此對治釋也。**  
 [When] Ananda ascended the high [seat] and proclaimed "I heard," it dispelled the doubts of the assembly. Ananda's body was similar to the Buddha's, short of the Buddha by [only] three finger-widths. The assembly doubted: "Has Shakyamuni reappeared?" "Has a Buddha from another region come?" or "Has Ananda become a Buddha?" If he chants "I heard" [implying he is a disciple hearing a master], the Three Doubts[^131] are immediately dispelled. This is the Counteracting Explanation.
+
+*[Critical apparatus: 指【大】，指許【甲】]*
 
 [^131]: **Three Doubts** (*sān yí*): The doubts that arose in the assembly when Ananda assumed the lion seat to recite the sutras after the Buddha's Parinirvana: 1. Did Shakyamuni return to life? 2. Is this a Buddha from another world? 3. Did Ananda himself achieve Buddhahood? The phrase "I heard" clarifies his disciple status.
 
@@ -1262,6 +1237,8 @@ Interpreting via the Teachings: The *Treatise on Explaining* (*Shi Lun*) says: "
 
 **阿難是學人，無[4]邪我、能伏慢我，隨世名字稱我無咎，此用三藏意釋我也。**  
 Ananda is a Learner. He lacks the Evil "I" [of Views], is able to subdue the Conceit "I," and complies with the worldly Name "I" without fault. This uses the meaning of the Tripitaka [Teaching] to interpret "I."
+
+*[Critical apparatus: 邪【大】，耶【甲】]*
 
 **《十住毘婆沙》云：「四句稱我皆墮邪見，佛正法中無我，誰聞？」此用通教意也。**  
 The *Daśabhūmika-vibhāṣā* says: "Proclaiming 'I' in four phrases [is it existent, non-existent, etc.] all falls into evil views. In the Buddha's Correct Dharma there is no 'I.' Who hears?" This uses the meaning of the Shared Teaching.
@@ -1278,11 +1255,15 @@ Furthermore, the *Zhengfa Nian Jing* (*Saddharmasmṛtyupasthāna Sūtra*) clari
 2.  **Ananda-Bhadra** (Joy Sage): Upholds the Miscellaneous Pitaka.
 3.  **Ananda-Sagara** (Joy Sea): Upholds the Buddha Pitaka.
 
+*[Critical apparatus: 難【大】，難難【甲】; 娑【大】，婆【甲】]*
+
 **《阿含經》有典藏阿難，持菩薩藏。蓋指一人具於四德，傳持四法門，其義自顯(云云)。**  
 The *Agama Sutra* mentions a "Store-Keeper Ananda" (*Gocarānanda*?) who upholds the Bodhisattva Pitaka. This implies that one person possesses four virtues and transmits/upholds four Dharma-gates; the meaning is self-evident.
 
 **[166] 本迹釋者，若未會入，可言阿難隨世名我；若發迹顯本，空王佛所同時發心，方便示為傳法之人，何所不[7]能？**  
 [Interpretation via Origin and Trace:] If one has not yet merged and entered [the Perfect understanding], one can say Ananda follows the worldly name "I." If one Opens the Trace to Reveal the Origin: at the place of Empty King Buddha (*Śūnyatā-rāja*), he prompted the mind [of Bodhicitta] at the same time [as Shakyamuni]. As an expedient he manifests as the person who transmits the Dharma. What is he not capable of?[^132]
+
+*[Critical apparatus: 能【大】，能(云云)【甲】]*
 
 [^132]: **Empty King Buddha** (*Kōng Wáng Fó*): A past Buddha mentioned in the *Lotus Sutra* (Chapter 9, "Prophecies Conferred upon Learners and Adepts") at whose assembly both Shakyamuni and Ananda made their initial vows together. The text states Ananda "delighted in much learning" (*duō wén*) while Shakyamuni "delighted in diligent practice" (*jīng jìn*), establishing their respective roles as attendant-disciple and teacher. Their simultaneous origin (同時發心) under Empty King Buddha demonstrates that Ananda's "trace" role as learner is provisional; his fundamental capacity equals the Buddha's.
 
@@ -1293,25 +1274,6 @@ The *Agama Sutra* mentions a "Store-Keeper Ananda" (*Gocarānanda*?) who upholds
 -   **Is Middle**: The True Wonderful "I."
 
 ---
-
-
-### Protocol Map: Fascicle 1 (Lines 171-200)
-1.  **Explanation of "Heard" (Wen):**
-    -   **Causes & Conditions:** Ananda's service (20+ years) vs. retroactive hearing via the Buddha's repetition (Three Anandas).
-    -   **Teachings:** Joy Ananda (Tripitaka), Joy-Sage Ananda (Shared), Store-Keeper Ananda (Distinct), Ocean Ananda (Perfect/Store of Non-Hearing).
-    -   **Origin/Trace:** Trace as four types of hearing; Origin as inconceivable.
-    -   **Contemplation:** Observing "Hearing the Hearing," "Hearing Non-Hearing," etc.
-2.  **Explanation of "One Time" (Yi Shi):**
-    -   **General/Siddhantas:** Uniting of time and Truth (First Principle).
-    -   **Teachings:** "Lower One Time" (Tripitaka) to "Upper-Upper One Time" (Perfect).
-3.  **Explanation of "Buddha" (Fo):**
-    -   **Siddhantas:** Responses to conditions (Worldly, Person, Counteracting, First Principle).
-    -   **Teachings:** Tripitaka (Old Bhikshu), Shared (Special Body), Distinct (Lotus Pedestal), Perfect (Void-like Body).
-4.  **Explanation of "Dwelling" (Zhu):**
-    -   **Siddhantas/Teachings:** Dwelling in King's City vs. Dwelling in Shurangama (First Principle).
-
----
-
 **[172] 釋「聞」者，阿難，佛得道夜生，侍佛二十餘年，未侍佛時應是不聞。**  
 Explaining "Heard" (*Wen*): Ananda was born on the night the Buddha attained the Way. He served the Buddha for twenty-odd years. [Thus], regarding the time before he served the Buddha, he should not have heard [those teachings].
 
@@ -1368,6 +1330,8 @@ The *Treatise* (*Da Zhidu Lun*) says: "*Kāla* is real time," indicating the tim
 **「三摩耶是假時」，[8]破外道邪見者，對治也。**
 "*Samaya* is provisional time" [is used to] refute the evil views of non-Buddhists [who claim eternal time]. This is the Counteracting [Interpretation].
 
+*[Critical apparatus: 破【大】，能破【甲】]*
+
 [^137]: **Kāla vs. Samaya** — The *Mahāprajñāpāramitā-śāstra* (大智度論, T.1509.25.60a) distinguishes two Sanskrit terms for "time": *kāla* (迦羅, "real/absolute time") refers to the cosmological succession of kalpas and the monastic daily schedule ("meal time, putting on robes"), accessible to ordinary perception and suitable for generating faith (為人悉檀). *Samaya* (三摩耶, "provisional/agreed-upon time") indicates the conventional designation of temporal moments, used to refute non-Buddhist (Tīrthika) claims that time itself is an eternal, independent entity (對治悉檀). When time "unites with the Way" (時與道合), transcending both categories, it becomes the First Principle (第一義).
 
 **若時與道合者，第一義也(云云)。**  
@@ -1389,11 +1353,15 @@ If the Time unites with the Way, this is the First Principle (etc.).
 **[188] 「佛」者，劫初無病，劫盡多病；長壽時樂，短壽時苦。東天下富而[9]壽，西天下多珠寶多牛羊，北天下無我、無臣屬，如此時處不感佛出。**  
 Regarding "Buddha" (*Fo*): At the beginning of the kalpa there is no sickness; at the end of the kalpa there is much sickness. In times of long life there is joy; in times of short life there is suffering. The Eastern Continent is rich and long-lived; the Western Continent has many jewels, cattle, and sheep; the Northern Continent has no "I" [ownership] and no subjects/retainers. In time and places like these, there is no stimulus (*gan*) for a Buddha to appear.
 
+*[Critical apparatus: 壽【大】，長壽【甲】]*
+
 **八萬歲時百年時，南天下未見果而修因，故佛出其地。**  
 In the time of [human lifespan] 80,000 years, or the time of 100 years, in the Southern Continent [Jambudvipa], where people do not [yet] see the fruit but cultivate the cause, the Buddha appears in that land.
 
 **離車子云：「摩竭[10]提國如大池，佛出其國如大蓮華。」無勝云：「佛於眾生平等無二，汝等耽荒五欲不見佛耳，非佛棄汝出摩竭提。」此皆世界釋也。**
 The Licchavi son said: "The Kingdom of Magadha is like a great pond; the Buddha appearing in that kingdom is like a huge lotus flower." Invincible (*Wú Shèng* 無勝)[^138] said: "The Buddha is equal and non-dual regarding sentient beings; it is just that you are indulgent and dissolute in the five desires and do not see the Buddha; it is not that the Buddha abandoned you to appear in Magadha." These are all Worldly Interpretations.
+
+*[Critical apparatus: 提【大】，〔－〕【甲】]*
 
 [^138]: **無勝** (*Wú Shèng*, "Invincible" or "Unsurpassed") — Identity uncertain. Possibly a Licchavi elder or lay disciple from Vaiśālī, offering a complementary teaching to the "Licchavi son" (離車子) mentioned immediately prior. The passage emphasizes that the Buddha's appearance is determined by beings' capacity (機), not arbitrary geographic favoritism.
 
@@ -1432,6 +1400,8 @@ Therefore the Sutra says: "Some see the Tathagata's sixteen-foot body. Some see 
 **[199] 「住」者，能[1]住住所住，所住即是忍土王城，能住即是四威儀，住世未滅，此則世界因緣釋住也。**  
 Regarding "Dwelling" (*Zhu*): The Subject (*Neng*) Dwells in the Place (*Suo*) Dwelt. The Place Dwelt is the Royal City in the Saha World (*Ren Tu*, Land of Endurance). The Subject Dwelling is the Four Dignified Deptortments [walking, standing, sitting, lying], dwelling in the world without yet being extinct. This is the interpretation of Dwelling via Worldly Causes and Conditions.
 
+*[Critical apparatus: 住【大】，〔－〕【甲】]*
+
 **又住者，住十善道、住四禪中，此即為人因緣釋住也。**  
 Also, "Dwelling": Dwelling in the Ten Good Paths, dwelling in the Four Dhyanas. This is the interpretation of Dwelling via Causes and Conditions for Each Person.
 
@@ -1439,24 +1409,6 @@ Also, "Dwelling": Dwelling in the Ten Good Paths, dwelling in the Four Dhyanas. 
 Also, "Dwelling": Dwelling in the Three Samadhis. This is the interpretation of Dwelling via Counteracting Causes and Conditions. Also, "Dwelling": Dwelling in the *Śūraṅgama* [Samadhi]. This is the interpretation of Dwelling via First Principle Causes and Conditions.
 
 ---
-
-
-### Protocol Map: Fascicle 1 (Lines 201-230)
-1.  **Explanation of "Dwelling" (Zhu) [continued]:**
-    -   **Teachings:** Dwelling in Nirvana (Tripitaka/Shared), Secret Store (Distinct/Perfect).
-    -   **Origin/Trace:** 4 Buddhas dwelling in the Pure Land (Origin) vs. Saha World (Trace).
-    -   **Contemplation:** Dwelling in the object (Empty, Provisional, Middle).
-2.  **Explanation of "Royal City" (Wang She Cheng):**
-    -   **Etymology:** Rajgir (*Luo Yue Qi*) = Royal City; Magadha (*Mo Je Ti*) = No Harm/Celestial Net.
-    -   **Narrative (Worldly):** "Spotted Feet" (Kalmasapada) story. 1000 kings, lioness, cannibalism, capture of King Universal Brightness (*Pu Ming*), conversion, establishment of the city in the five mountains.
-    -   **Teachings:** *Xiang Fa Jue Yi Jing* citation (seeing dirt/sand vs. seven jewels vs. Buddha realm).
-3.  **Explanation of "Vulture Peak" (Qi She Jue Shan):**
-    -   **Etymology:** Grdhrakuta (*Qi She Jue*). Three interpretations: Spirit Vulture, Vulture Head, Wolf Trace.
-    -   **Interpretations:** Northern corpse grove attraction vs. Saints dwelling (Spirit).
-    -   **Geography:** Five Viharas on the mountain (Cave of Celestial Lord, Seven-Leaf Cave, etc.).
-
----
-
 **[203] 約教者，三藏佛從析門發真無漏，住有餘、無餘涅槃。通佛從體門發真，住有餘、無餘涅槃。別佛從次第門入，住祕密藏。圓佛從不次第門入，住祕密藏。**  
 Interpretation via the Teachings:
 - The **Tripitaka Buddha** initiates the True No-Outflow [Wisdom] via the Gate of Analysis (*xi men*) and dwells in Nirvana With Remainder and Without Remainder.
@@ -1472,12 +1424,16 @@ For the first three Buddhas, both the Subject [who dwells] and the Object [dwelt
 - The Tripitaka Buddha applies himself to Nirvana; out of kindness and compassion he manifests the Trace of a "born body" to dwell in the world.
 - The Shared Buddha, through vows of kindness and compassion, supports his remaining habits (*vāsana*) to liberate beings and perform Buddha-work.
 
+*[Critical apparatus: 應【大】，應入【甲】]*
+
 **別、圓佛皆慈悲薰法性，愍眾生故垂應法界。當知四佛住本佛住，以慈悲故住於忍土王城，威儀住世，是名迹住。**  
 - The Distinct and Perfect Buddhas both perfume the Dharma-Nature with kindness and compassion; out of pity for sentient beings they manifest a Response in the Dharma Realm.
 - One should know that the Four Buddhas [in their Origin] dwell in the "Original Buddha Abode," but because of kindness and compassion they dwell in the Royal City of the Land of Endurance (*Saha*), displaying dignified deportment to dwell in the world. This is named "Trace Dwelling."
 
 **[209] 觀解者，觀住於境，或住無常境，即空、即假、即中等境，以無住法住於境中故名為[3]住。**
 [Interpretation via Contemplation:] "Dwelling" means dwelling in the Object (*jing*). Whether dwelling in the object of Impermanence, or the objects of Emptiness, Provisionality, or the Middle: because one dwells in the object via the Dharma of Non-Dwelling, it is named "Dwelling."
+
+*[Critical apparatus: 住【大】，住也【甲】]*
 
 **[213] 「王舍城」者，天竺稱羅閱祇伽羅，羅閱祇此云王舍，伽羅此云城，國名摩伽陀，此云不害，無刑殺法也；亦云摩竭提，此云天羅，天羅者王名也，以王名國，此王即駁足之父。**
 Regarding "Royal City" (*Wang She Cheng*): In India it is called *Rājagṛha* (*Luo Yue Qi* 羅閱祇). "Rājagṛha" means "Royal Abode" (*Wang She*); "*gara*" (*Jia Luo* 伽羅) means "City." The kingdom is named Magadha (*Mo Qie Tuo* 摩伽陀). This translates as "No Harm" (*Bu Hai*), meaning there are no laws of execution or killing. It is also [written] *Mojie Ti* 摩竭提 (another form of Magadha), which translates as "Celestial Net" (*Tian Luo*). "Celestial Net" is the name of a king; the country was named after the king. This king was the father of Spotted Feet (*Kalmāṣapāda*).
@@ -1495,6 +1451,8 @@ He captured nine hundred and ninety-nine; he was only missing King Universal Bri
 
 **駁足聞法，得空平等地，即初地也。千王各取一渧血、三條髮，賽山神願。駁足與千王共立舍城，都五山中為大國，各以千小國付子胤，千王更[5]迭知大國事。又百姓在五山內，七[6]遍作舍，七度被燒，百姓議云：「由我薄福數致煨燼，王有福力其舍不燒，自今已後皆排我屋為王舍。」由是[7]免燒，故稱王舍城。**  
 Spotted Feet heard the Dharma and attained the Empty Equality Ground (*Śūnyatā-sama-bhūmi*?), which is the First Ground (*Bhūmi*). From [each of] the thousand kings he took one drop of blood and three hairs to fulfill the vow to the Mountain Spirit. Spotted Feet and the thousand kings together established a walled city (*She Cheng*) and made their capital among the five mountains as a Great Kingdom. Each entrusted their thousand small states to their descendants, and the thousand kings took turns administering the affairs of the Great Kingdom. Furthermore, the common people built houses within the five mountains seven times, and seven times they were burned. The people discussed, saying: "Because of our meager merit, we repeatedly end in ashes. The King has the power of merit; his house does not burn. From now on, let us arrange all our houses to be the King's House (*Wang She*)." Because of this they avoided fire; therefore it is called "Royal House City" (*Wang She Cheng* / Rajgir).
+
+*[Critical apparatus: 王【大】，王頭【甲】; 迭【大】，迷【甲】; 遍【大】，過【甲】; 免【大】，勉【甲】]*
 
 **[220] 約教者，《像法決疑經》云：「一切大眾所見不同，或見娑羅林地，悉是土砂、草木、石壁，或見七寶清淨莊嚴，或見此林是三世諸佛所遊行處，或見此林即是不可思議諸佛境界真實法體。」例知此義，四見不同，所住既然，能住亦爾。此則約教分別也。本迹、觀心在後說。**  
 Interpretation via the Teachings: The *Xiang Fa Jue Yi Jing* (*Sutra of Resolving Doubts in the Semblance Dharma*) says: "The seeing of the entire great assembly was not the same. Some saw the grounds of the Sala Grove as entirely dirt, sand, grass, trees, and stone walls [Tripitaka]. Some saw it as pure and adorned with the seven jewels [Shared/Distinct]. Some saw this grove as the place where the Buddhas of the three times wander [Distinct]. Some saw this grove as precisely the inconceivable realm of the Buddhas, the True Dharma Essence [Perfect]." By example one knows this meaning: the four seeings are different. Since the Place Dwelt In (*Suo Zhu*) is like this, the Subject Dwelling (*Neng Zhu*) is also like this. This is the distinction via the Teachings. Origin/Trace and Contemplation of Mind will be explained later.
@@ -1514,32 +1472,14 @@ There are Five Viharas (*Jing She*):[^141]
 5.  *Gṛdhrakūṭa* (Vulture Peak).
 These five [together] are the Gṛdhrakūṭa Mountains [range].
 
+*[Critical apparatus: 云【大】，曰【甲】; 詩【大】，諸【甲】，詩【校異-甲】; 尸【大】＊，屍【甲】＊; 食【大】，噉【甲】; [＊10-1] 尸【大】＊，屍【甲】＊; 棲【大】，栖【甲】]*
+*[Critical apparatus: 跋【大】，𮑣【甲】，跋【校異-甲】; 恕【大】，助【校異-甲】; 主穴【大】，聖眾【甲】，聖穴【校異-甲】; 穴【大】，眾【甲】]*
+
 [^140]: **Indraśaila vs. Snake God**: Zhiyi translates *Indraśaila* (Indra's Rock) as "Snake God Mountain." This might be a conflation or a reference to a specific localized legend regarding nāgas at that site.
 
 [^141]: **Five Viharas**: Zhiyi's Chinese transliterations preserve 7th-century Indian vernacular forms that differ from classical Sanskrit. Modern scholars reconstruct: (1) *Vaibhāra-guhā* (Cave of Vaibhāra), (2) *Saptaparṇa-guhā* (Seven-Leaf Cave—where the First Buddhist Council was held), (3) *Indraśaila-guhā* (Indra's Rock Cave), (4) *Sarpaśuṇḍikā-prāgbhāra* (possibly "Serpent's Hood Mountain"), (5) *Gṛdhrakūṭa* (Vulture Peak). These five sites formed a monastic complex on and around the mountain.
 
 ---
-
-
-### Protocol Map: Fascicle 1 (Lines 231-260)
-1.  **Q&A on Vulture Peak:**
-    -   **Question:** How can past/future Buddhas dwell on the same mountain if Kalpa Fire destroys the world?
-    -   **Answer:** Spiritual power restores the "Original Characteristic" (*Ben Xiang*); names are transferred from past to present.
-2.  **Explanation of "Mountain" (Shan):**
-    -   **Teachings:** "City" metaphor (Nirvana).
-    -   **Contemplation:**
-        -   **Five Skandhas as House:** Analyzing (Tripitaka) vs. Embodying (Shared) vs. Four Virtues (Distinct/Perfect).
-        -   **Skandhas as Mountain:** Form=Mountain, Consciousness=Spirit, [Feeling/Volition/Perception]=Vulture.
-        -   **Three Contemplations:** Analysis (Impermanent), Embodiment (Empty), Secret Store (Wisdom/Merit/Dharma Nature).
-3.  **Explanation of "Within" (Zhong):**
-    -   **Middle Way:** Buddha ascends "Middle Heaven," born in "Middle Country," dies at "Middle Night."
-4.  **Generic Introduction / Audience (*Tong Wen Zhong*):**
-    -   **Ordering:** Sravakas first, Bodhisattvas middle, Miscellaneous last.
-    -   **Interpretation via Affairs (*Shi*):** Sravakas closest in form/trace; Gods/Humans distinct in form.
-    -   **Interpretation via Meaning (*Yi*):** Sravakas seek Nirvana; Gods/Humans attached to Samsara; Bodhisattvas in the Middle (Middle Way).
-
----
-
 **[235] 問：劫火洞然，天地廓清，云何前佛後佛同居此山？**  
 Question: The Kalpa Fire burns everything; heaven and earth are swept clean. How can Past Buddhas and Future Buddhas dwell together on this [same] mountain?
 
@@ -1549,6 +1489,8 @@ Answer: When the later kalpa is established, the Original Characteristic (*Ben X
 **[243] 約教釋「山」，例如城義[17]說(云云)。**
 Interpretation of "Mountain" via the Teachings: It is like the explanation for the meaning of "City" [above—Tripitaka/Shared = Nirvana; Distinct/Perfect = Secret Store]. (etc.)
 
+*[Critical apparatus: 說【大】，說也【甲】]*
+
 **[247] 觀釋者，王即心王，舍即五陰，心王造此舍，若析五陰舍空，空為涅槃城，此觀既淺如見土木；若[18]體五陰舍即空，[19]空為涅槃城，即通教也；**  
 Interpretation via Contemplation: "King" is the Mind-King (*Citta*). "House" (*She*) is the Five Skandhas. The Mind-King constructs this House.
 - If one **analyzes** the House of the Five Skandhas as empty, and Emptiness is the City of Nirvana—this contemplation is shallow, like seeing [the Pure Land as] dirt and wood [Tripitaka].
@@ -1557,6 +1499,8 @@ Interpretation via Contemplation: "King" is the Mind-King (*Citta*). "House" (*S
 **若觀五陰舍，因滅是色獲得常色，受、想、行、識亦復如是，此之四德常為諸佛之所遊處；若觀五陰即法性，法性無受、想、行、識，一切眾生即是涅槃，不可復滅，畢竟空寂舍，如是涅槃，即是真如實體(云云)。**  
 - If one contemplates the House of the Five Skandhas: "By extinguishing this Form (*Rūpa*), one obtains Permanent Form" (*Nirvana Sutra* citation), and Feeling, Perception, Volition, and Consciousness are also like this—these Four Virtues [Permanence, Bliss, Self, Purity] are the place where all Buddhas eternally wander.
 - If one contemplates the Five Skandhas as precisely the Dharma-Nature: Dharma-Nature has no Feeling, Perception, Volition, or Consciousness. "All sentient beings *are* precisely Nirvana and cannot be extinguished again" (*Vimalakirti Sutra* citation). This is the House of Ultimate Empty Silence. Such a Nirvana is the Substance of True Suchness (*Bhutatathatā*) (etc.).
+
+*[Critical apparatus: 體【大】，觀【甲】; 空【大】，空即【甲】]*
 
 **[252] 觀心山者，若觀色陰，無知如山，識陰如靈，三陰如鷲，觀此靈鷲無常，即析觀也；觀此靈鷲即空，體觀也；**  
 Regarding Contemplation of the "Mind-Mountain":
@@ -1577,6 +1521,8 @@ Regarding Contemplation of the "Mind-Mountain":
 **[254] 「中」者，佛好中道，[＊13-1]升中天、中日、降中國、中夜滅，皆表中道；今處山中，說中道也。**  
 Regarding "Within" (*Zhong*): The Buddha prefers the Middle Way. He ascended to the Middle Heaven [Trayastrimsha?], was born on a Middle Day [8th/15th?], descended in the Middle Country [Madhyadesha], and entered extinction at Middle Night. All these represent the Middle Way. Now, dwelling "within" the mountain, he preaches the Middle Way.
 
+*[Critical apparatus: [＊13-1] 升【大】＊，昇【甲】＊]*
+
 **[258] 釋同聞眾為三：初聲聞、次菩薩、後雜眾，諸經多爾。舊云有事、有義。**  
 Explaining the "Audience that Heard Together" (*Tong Wen Zhong*), there are three [groups]: first Sravakas, next Bodhisattvas, and lastly the Miscellaneous Host (*Za Zhong*). Many Sutras are like this. Old Interpretations say there is [an explanation via] Affairs (*Shi*) and Meaning (*Yi*).
 
@@ -1593,37 +1539,7 @@ Regarding Meaning (*Yi*):
 - **Bodhisattvas** do not rejoice [in Nirvana alone] and are not attached [to Samsara]; they dwell in the Middle seeking the Ancestor/Source (*Zong*). Therefore they are in between the two.
 The intention of the *Treatise* (*Da Zhidu Lun*) is also like this. This one explanation seems to contain two interpretations: the "Affairs" explanation resembles Causes and Conditions; the "Meaning" explanation resembles the Teachings (etc.).
 
----
-
-
-### Protocol Map: Fascicle 1 (Lines 261-290)
-1.  **Interpretation of the Audience (continued):**
-    -   **Origin/Trace:** Sravakas secretly store inward mystery while manifesting outwardly; Gods/Humans are Great Beings (*Mahasattvas*).
-    -   **Contemplation:** Empty (Breaks Samsara), Provisional (Breaks Nirvana), Middle (No Before/After).
-2.  **Specific Audience - Sravakas (Bhikshus):**
-    -   **Classification:** Bhikshus & Bhikshunis.
-    -   **Bhikshus Categories:** 1. Many Knowledge (*Duo Zhi Shi* - Great Renown), 2. Few Knowledge (*Shao Zhi Shi* - Lesser Renown).
-    -   **Analysis of "Many Knowledge" via Six Points:** 1. Category, 2. Number, 3. Position, 4. Praise, 5. Listing Names, 6. Conclusion.
-3.  **Explanation of "Great" (Da):**
-    -   **General:** Great (Respected by Great Men), Many (Knowing Inner/Outer Classics), Superior (Exceeding 95 Paths).
-    -   **Teachings:** Seven Unities of the Sangha (Tripitaka -> Round).
-    -   **Four Teachings on "Great/Many/Superior":**
-        -   *Tripitaka:* Respected by kings; knows birth/death; exceeds 4 Vedas.
-        -   *Shared:* Respected by Reviewing Arhats; knows No-Birth; exceeds Three Pitakas.
-        -   *Distinct:* Respected by Embodied Law Arhats; knows measureless Dharma; exceeds Two Vehicles.
-        -   *Perfect:* Respected by Great Bodhisattvas; knows Dharma Realm; exceeds Bodhisattvas.
-    -   **Origin/Trace:** Traces manifested to lead milk -> cream -> ghee. Original "Great" is distinct.
-    -   **Contemplation:** Empty=Great, Provisional=Many, Middle=Superior.
-4.  **Explanation of "Bhikshu" (Bi Qiu):**
-    -   **Etymology:** Kumarajiva: "Pure Livelihood"; Sengzhao: "Mendicant, Destroyer of Affliction, Precept Holder, Frightener of Maras."
-    -   **Siddhantas:** Frightener of Mara (Counteracting), Destroyer of Evil (First Principle), Mendicant (Worldly/Person).
-    -   **Teachings:**
-        -   *Tripitaka:* White Fourth Karma, preventing evil.
-        -   *Shared:* Seeking Truth via Conditions (Mendicant), Breaking Obstacles to Principle (Destroyer), Frightening Four Maras.
-        -   *Distinct:* Seeking Truth via Three Truths, Breaking Distinct Delusion, Frightening Eight/Ten Maras.
-        -   *Perfect:* Seeking Reality in Samsara, Affliction=Bodhi, Mara Realm=Buddha Realm.
-
----
+*[Critical apparatus: 逐【大】，遂【甲】; 檢【大】，𨆘【甲】]*
 
 **[263] 本迹解者，聲聞內祕外現，何甞保證涅槃；天人皆大薩埵，豈復耽染生死？皆是迹引二邊，而本常中道也。**  
 Interpretation via Origin and Trace: The Sravakas possess the "Inward Mystery" but "Outwardly Manifest" [as Hearers]; how could they ever [truly] cling to witnessing Nirvana? The Gods and Humans are all Great Beings (*Mahāsattvas*); how could they indulge in or be defiled by birth and death? These are all Traces guiding [those attached to] the Two Extremes, while the Origin eternally dwells in the Middle Way.
@@ -1646,6 +1562,8 @@ Regarding the Assembly of "Many Knowledge," there are six [sub-points]:
 4.  Praise (*Tan* - "Exhausted all outflows")
 5.  Listing Names (*Lie Ming*)
 6.  Conclusion (*Jie*)
+
+*[Critical apparatus: 次【大】，次尼【甲】; 歎【大】，歎德【甲】]*
 
 **[272] 一、類者，皆是大比丘氣類也。譬群方貴賤，各有班輩。今諸比丘，皆眾所知識、高譽大德也。**  
 1. **Category**: These are all of the class/category of "Great Bhikshus." Just as in the various regions the noble and base each have their ranks and peers, now these Bhikshus are all well-known (*Zhi Shi*) to the multitude, of high repute and great virtue.
@@ -1677,11 +1595,15 @@ The *Lotus Sutra Treatise* (*Fa Hua Lun*) discusses Four Kinds of Sravakas.[^143
 - Causing others to hear the Buddha Path non-sequentially = Perfect Sravaka.
 The meaning of "Sravaka" (Hearer) is vast; how can one judge it merely by "Witnessing Nirvana"? (etc.)
 
+*[Critical apparatus: 論【大】，論明【甲】]*
+
 **[280] 「大」者，《釋論》明「大」者，亦言多，亦言勝，器量尊重為天王等大人所敬故言大，[＊13-2]升出九十五種[6]道外故言勝，遍知內外經書故言多，又數至一萬二千故言多。**  
 Regarding "Great" (*Da*): The *Treatise* explains "Great" as meaning "Many" (*Duo*) and "Superior" (*Sheng*).
 - **Great**: Because their capacity is dignified and heavy, and they are respected by Great Men like the Heavenly Kings.
 - **Superior**: Because they ascend beyond the 95 kinds of [non-Buddhist] paths.
 - **Many**: Because they completely know the inner and outer classics/books. Also, because their number reaches 12,000.
+
+*[Critical apparatus: [＊13-2] 升【大】＊，昇【甲】＊; 道外【大】，外道【甲】]*
 
 **今明有大道故、有大用故、有大知故，故言大。勝者，道勝、用勝、知勝，故言勝。多者，道多、用多、知多，故言多。**  
 Now I explain:
@@ -1736,7 +1658,7 @@ Master [Kumara]jiva says: "In the beginning one leaves the house of wife and chi
 
 **《釋論》云：「怖魔、破惡、乞士，魔樂生死，其既出家復化餘人，俱離三界乖於魔意，魔用力制翻被五繫，但愁懼而已，故名怖魔。出家人必破身、口[8]七惡，故言破惡。夫在家三種如法，一田、二商、三仕，用養身命；出家人佛不許此，唯乞自濟，身安道存，福利檀越，三義相成即比丘義也。」**  
 The *Treatise* says: "**Frightener of Mara, Destroyer of Evil, Mendicant Scholar**."
-- *Frightener of Mara*: Mara delights in Birth and Death. Since [the Bhikshu] has left home and also transforms others so they all leave the Triple World, acting contrary to Mara's intent... Mara uses force to try to restrain him but conversely [Mara] is bound by the Five Ties. [Mara] can only worry and fear; thus named "Frightener of Mara."
+- *Frightener of Mara*: Mara delights in birth and death. When he leaves home and moreover transforms other people so that together they leave the Three Realms, he goes against Mara’s intent. Mara uses force to restrain him, but instead is bound by the Five Ties; he can only worry and fear—therefore he is named "Frightener of Mara."
 - *Destroyer of Evil*: The homeless release must destroy the Seven Evils of body and mouth; thus "Destroyer of Evil."
 - *Mendicant Scholar*: For laypeople there are three lawful livelihoods: agriculture, commerce, and service/officialdom, used to nourish the body/life. The Buddha does not permit these for renunciants. By begging alone one sustains oneself. The body is at peace and the Way is preserved; one brings merit and benefit to the *Danapati* (Donor). These three meanings complete each other; this is the meaning of Bhikshu.
 
@@ -1751,6 +1673,8 @@ The "Initial Mind" is also called "Destroyer of Evil"; why only the "Later Mind"
 - *Frightener of Mara*: Initially shaving the head and receiving precepts already makes Mara worry. Cultivating Samadhi to suppress affliction, cultivating Wisdom to destroy affliction—the Initial Mind also makes Mara afraid; why only the Later Mind?
 - *Mendicant*: Initially leaving evil livelihood to beg for one's life; cultivating Dhyana to pass through states/objects; seeking Samadhi and cultivating Wisdom; conditioning on Principle to seek the No-Outflow. All are "Mendicants." How much more so those who correspond [to the Fruit]?
 Possessing these meanings, they are generally named Bhikshu. However, the Sutra Compilers [usually] praise the "Later Mind" [Arhat] Bhikshus alone. This is all the meaning within the **Tripitaka**.
+
+*[Critical apparatus: 其【大】，甚【甲】; 七【大】，七支【甲】; 魔【CB】【甲】，麼【大】; 惱煩【大】，煩惱【甲】; 故【大】，故故【甲】]*
 
 **若歷緣求真名乞士，破障理之惑名破惡，修此行怖四魔，即通教義。**  
 - If passing through conditions to seek the True—named Mendicant.
@@ -1773,35 +1697,11 @@ This is the meaning in the **Perfect Teaching**.
 **若未發迹但明前二義，若已顯本，具後意也。**  
 If the Trace has not been revealed, it explains only the first two meanings [Tripitaka/Shared]. If the Origin has been revealed, it possesses the latter meanings [Distinct/Perfect].
 
----
-
-
-### Protocol Map: Fascicle 1 (Lines 291-320)
-1.  **Origin/Trace & Contemplation (continued):**
-    -   **Origin/Trace:** Leaving Parents of Ignorance/Craving, Wife of Karma -> 5 Abodes Removed.
-    -   **Contemplation:** Mind Pure like Space (Leaving Home), Middle Way Wisdom (Mendicant), Affliction=Bodhi (Destroyer), Middle Way (Frightener).
-2.  **Explanation of "Assembly/Sangha" (Zhong):**
-    -   **Definition:** *Sangha* = Harmonious Assembly (*He He Zhong*). 4+ people = Harmony.
-    -   **Specific Numbers:** 1250 total (3 Kasyapas=1000, Sariputra/Moggallana=250, Yasa=50).
-    -   **Four Kinds of Sangha (Treatise):** Shameless, Ignorant, Shameful (5 Expedients), True (Arhats).
-    -   **Classification:** This assembly is the "True Sangha" (*Zhen Shi Seng*).
-    -   **Origin/Trace:** Harmony with Real Characteristic (Li He) & Mechanism (*Ji*).
-    -   **Contemplation:** Semblance View = Shameful; Real Wisdom = True.
-3.  **Explanation of "Number" (Shu):**
-    -   **Literal:** 12,000.
-    -   **Origin/Trace:** 12,000 Bodhisattvas.
-    -   **Contemplation:** 12 Entrances (Ayatanas) x 10 Realms x 10 Realms x 10 Suchnesses = 12,000 Dharma Doors.
-4.  **Explanation of "Position" (Wei):**
-    -   **Arhat Meanings:** No Birth (*Wu Sheng*), Killer of Thieves (*Sha Zei*), Worthy of Offerings (*Ying Gong*).
-    -   **Four Teachings Matrix:**
-        -   *Tripitaka/Shared:* Destroying 98 Defilements (Killer), No Future Birth (No Birth), Field of Merit (Worthy).
-        -   *Distinct/Perfect:* Killing "Non-Thieves" (Nirvana is the "Thief"), Not Born into Non-Birth (No Birth), Supplier of Offerings (*Gong Ying*) to sentient beings.
-    -   **Origin/Trace:** Originally attained "Unreceptive Samadhi" (No Birth), severed 5 Abodes (Killer), benefits 9 Realms (Worthy).
-
----
 
 **[297] 本迹者，本登涅槃山頂，與無明癡愛父母、結業妻子別，出分段、變易家，久除五住，何惡不破？獲真法喜，如食乳糜更無所[1]須。**  
 Interpretation via Origin and Trace: Originally/Fundamentally they ascended the Summit of the Nirvana Mountain. They parted from the Parents of Ignorance and Deluded Craving, and the Wife of Bound Karma. They exited the House of Fragmentary (*Saha*) and Transformational (*Pariṇāma*) Birth and Death. Having long removed the Five Abodes [of Affliction], what evil have they not destroyed? They obtained true Dharma Joy, like eating milk-porridge with nothing more required (*Qi*).
+
+*[Critical apparatus: 須【大】，乞【甲】]*
 
 **持中道道共尸波羅蜜攝眾生戒度，魔界降伏，即佛界如。堪任乘御，本地功德久已成就，為調眾生，迹示五味比丘傳引眾生，例如前釋。**  
 Holding the Middle Way Path-Associated Śīla Pāramitā (Precepts) that gathers sentient beings, the Mara Realm is subdued—which is precisely the Suchness of the Buddha Realm. Capable of riding and driving [the Vehicle], the Merit of the Origin Stage was achieved long ago. For the sake of harmonizing sentient beings, as Traces they manifest as Bhikshus of the Five Flavors to transmit and guide sentient beings, as explained above.
@@ -1812,6 +1712,8 @@ Interpretation via Contemplation of Mind:
 - Using the Middle Contemplation to support oneself, keeping alive the Dharma-Body and Wisdom-Life—this is named **Mendicant Scholar**.
 - Contemplating the Five Abodes of Affliction as *precisely* Bodhi—this is named **Destroyer of Evil**.
 - All extremes and inversions are nothing other than the Middle Way—this is named **Frightener of Mara** (etc.).
+
+*[Critical apparatus: 魔【大】，魔也【甲】]*
 
 **[305] 「眾」者，天竺云僧伽，此翻和合眾，一人不名和合，四人已上乃名和合，事和無別眾，法和無別理。**  
 Regarding "Assembly" (*Zhong*): India says *Saṃgha*; here it is translated as "Harmonious Assembly" (*He He Zhong*). One person is not named "Harmonious"; four persons or more is named "Harmonious." "Harmony of Affairs" (*Shi He*) means no separate/distinct assembly [unanimous action]. "Harmony of Principle" (*Li He*) means no separate/distinct principle [same realization].
@@ -1846,6 +1748,8 @@ Interpretation via Contemplation:
     - Not understanding Contemplation Characteristics is named **Ignorant Sangha**.
 (Conclusion of the meaning of "Category".)
 
+*[Critical apparatus: 舉【大】，氣【甲】]*
+
 **[313] 二、明數者，即是一萬二千人也。本迹者，本是一萬二千菩薩，迹為萬二千聲聞也。**  
 2. **Explaining Number**: It is 12,000 people.
 - Origin/Trace: Fundamentally they are 12,000 Bodhisattvas; as Traces they are 12,000 Sravakas.
@@ -1862,6 +1766,8 @@ The *Avatamsaka?* (*A Ba Jing*) says "Responding to Truth" (*Ying Zhen*). The *R
 - The 98 Drivers (*Anusaya* - Defilements) are exhausted; therefore called **Killer of Thieves** (*Sha Zei*).
 - Possessing the merit of Wisdom and Severance, capable of being a Field of Merit for humans and gods; therefore called **Worthy of Offerings** (*Ying Gong*).
 Containing these three meanings explains "Arhat."
+
+*[Critical apparatus: 云【大】，言【甲】]*
 
 **或言初始學無生，生未無生，初雖怖魔，魔未大怖，初雖乞士，未是灼然應供；今獲無生忍，破煩惱賊盡，是好良田，以果對因釋羅漢三義。**  
 Or it is said: Initially one studies No Birth, but birth is not yet unborn. Initially though one Frightens Mara, Mara is not yet greatly frightened. Initially though a Mendicant, one is not yet visibly Worthy of Offerings. Now attaining the Patience of No Birth, destroying the thieves of affliction completely, being a good Field [of Merit]—this uses the Fruit to correspond to the Cause [Bhikshu] to explain the three meanings of Arhat.
@@ -1884,35 +1790,8 @@ Origin and Trace:
 - Using Skillful Means to liberate beings, passing through the Five Flavors sequentially to enact "No Birth"—this is the Trace.
 - Also: Origin is Dharma Body; Trace manifests Self-Benefit. Origin is Prajna; Trace manifests No Birth. Origin is Liberation; Trace manifests Killing Thieves (etc.).
 
----
+*[Critical apparatus: 不【大】，一不【甲】]*
 
-
-### Protocol Map: Fascicle 1 (Lines 321-350)
-1.  **Contemplation of the Arhat (Bhikshu):**
-    -   **Three Contemplations:** Empty (Prajna), Provisional (Liberation), Middle (Dharma Body).
-    -   **Destroyer/Frightener/Mendicant:** Destroying Ignorance (Killer), Offering Dharma Body Wisdom Life (Mendicant/Supplier), Middle Way (Frightener).
-    -   **Merit of Offerings:** Sutra citations (*Vaipulya* vs. *Lotus*) on the merit of offering to Dharma-Preachers vs. solitary Buddhas.
-2.  **Explanation of "Praise" (Tan De):**
-    -   **Structure:** Five phrases extolling the Three Virtues.
-    -   **Analysis of "Outflows Exhausted" (Zhu Lou Yi Jin):**
-        -   *Definition:* Loss of the Path = Leak/Outflow.
-        -   *Function:* Praise of "Killer of Thieves." Leaks (Karma) and Moisture (Afflictions) both exhausted.
-    -   **Analysis of "Self-Benefit" (De Ji Li):** Praise of "Worthy of Offerings."
-    -   **Analysis of "Bonds Exhausted/Mind Sovereign" (Jin Zhu You Jie, Xin De Zi Zai):** Praise of "No Birth."
-    -   **Origin/Trace:** Origin = Great Nirvana (No Birth), Dharma Body (Self-Benefit), Ruler Samadhi (Killer of Thieves). Trace = Sravaka equivalents.
-    -   **Contemplation:** Middle Way doesn't leak into Two Extremes (Outflows Exhausted); Secret Store is one's own possession (Self-Benefit); No Bonds = Sovereignty (Zi Zai).
-3.  **Explanation of "Listing Names" (Lie Ming):**
-    -   **Context:** 21 Venerables listed. Each represents a specific virtue to attract partial preferences.
-    -   **Ajñāta Kauṇḍinya (A Ruo Jiao Chen Ru):**
-        -   *Surname:* **Kauṇḍinya** = Fire Vessel (*Huo Qi*). Brahman clan worshiping fire. Fire=Burning (No Birth) & Illumination (Wisdom).
-        -   *Name:* **Ajñāta** (*A Ruo*) = Known (*Yi Zhi*) or No-Knowledge (*Wu Zhi* - knowing the Nothingness/Truth).
-        -   *Interpretations:* Known the Original Limit (*Ben Ji*), Known Extinction.
-        -   *Narrative 1 (Vow):* Buddha as Red-Eyed Fish, vowed to save the 5 carpenters (Kauṇḍinya et al.) first.
-        -   *Narrative 2 (Kasyapa Buddha):* 9 novices, 5 failed, vowed to be first in Sakyamuni's age.
-        -   *Narrative 3 (Practice):* First to see the "Morning Star" of Wisdom (No-Birth) like the dawn breaking the long night.
-        -   *Narrative 4 (Actualization):* First of the Five Bhikshus to be liberated at Deer Park. "Known" (*A Ruo*) confirmed by Buddha's three questions.
-
----
 
 **[323] 觀心者，空觀是般若，假觀是解脫，中觀是法身。又觀心者，從假入空，觀亦有三義，乃至中道觀，殺無明賊，不生二乘心，供養此人如供養世尊。**  
 Interpretation via Contemplation of Mind:
@@ -1941,6 +1820,8 @@ The language of the Treatises vs. Vinaya differs, but they clarify the meaning o
 It is purely because of the deception of the "Thief" that one loses the Treasure of Principle, becomes destitute and exposed, creates evil karma, and incurs the suffering of Birth and Death. The death of the Dharma Body, the loss of Wisdom Life, the forfeiture of the Heavy Treasure—these are all meanings of "Thief." It should not be said that this praises the virtue of "No Birth."
 "Afflictions" (*Klesha*) are the 98 Drivers (*Anusaya*), the Currents, Yokes, Bonds, and Coverings that oppress/afflict the practitioner. Affliction is the "Moistener" (*Neng Run*); Leaking Karma is the "Moistened" (*Suo Run*). Since both the Agent [Moistener] and Object [Moistened] are exhausted, this specifically is the meaning of "**Killer of Thieves**." How could it be taken as a praise of "No Birth"?
 
+*[Critical apparatus: 業【大】，業故【甲】]*
+
 **[331] 「逮得己利」一句，是歎應供，三界因果皆名為他，智斷功德皆名己利，己利具足故成應供。**  
 "**Attained Self-Benefit**" (*Dai De Ji Li*)—this single phrase praises "**Worthy of Offerings**." The causes and effects of the Triple World are all named "Other" (*Ta*). The merits of Wisdom and Severance are all named "Self-Benefit." Because Self-Benefit is complete, one becomes "Worthy of Offerings."
 
@@ -1953,6 +1834,8 @@ Since the Cause [Bonds] is exhausted and the Fruit [Existence] is gone, it clear
 **羅漢但應結盡，未應有[7]盡；有盡者，因中說果，又盡在不久也。**  
 [Objection:] The Arhat should only have "Bonds Exhausted" [Cause removed], not necessarily "Existence Exhausted" [since they still have a body?].
 [Answer:] "Existence Exhausted" is speaking of the Fruit whilst in the Cause; also, the exhaustion [of the body] will be soon (*in a short time*).
+
+*[Critical apparatus: 盡【大】，盡言【甲】]*
 
 **[337] 「心得自在」者，定具足名心自在，慧具足名慧自在，慧自在未必心自在，心自在必慧自在。今言心自在，即是定、慧具足俱解脫人，俱解脫人生決定盡，驗知歎不生德也。**  
 Regarding "**Mind Attained Sovereignty**":
@@ -1977,6 +1860,8 @@ Interpretation via Contemplation of Mind:
 - Able to contemplate the Mind-Nature is named "Superior Samadhi." The Hidden Store of the Jewel in the Robe is one's own possession, thus "**Self-Benefit**."
 - Correctly contemplating the Middle Way, the Thief of Bonds is cut off. Because there are no Bonds, Existence is also cut off. Since the Two Extremes cannot bind the mind, it is named "**Sovereignty**."
 - "Although possessing afflictions, it is as if no afflictions"; "Entering Nirvana without cutting off afflictions" (*Vimalakirti*)—this is precisely the meaning.
+
+*[Critical apparatus: 賊【大】，惑【甲】]*
 
 **[345] 五、列名，略舉二十一尊者，佛諸弟子皆備眾行，而隱其圓能各從一德標名者，欲引偏好故。**  
 5. **Listing Names**: Briefly citing 21 Venerables. The Buddha's disciples all possess the multitude of practices completely. However, concealing their Perfect Capability and marking their names each from a single virtue is for the sake of attracting [beings with] partial preferences.
@@ -2005,30 +1890,11 @@ Also, at the time of Kāśyapa Buddha, nine people studied the Way. Five did not
 **行者，智生惑滅智斷行也。夫巨夜長寢無人能覺，日光未出明星前現，憍陳如比丘，初得無生智，譬若明星在眾明之始，一切人智明無前陳如，故名阿若。最先破闇莫過明星，陳如亦爾，一切人闇滅無前陳如，故名阿若。**  
 [Regarding Practice:] Wisdom arises and Delusion is extinguished; this is the practice of Wisdom and Severance. The Great Night of long sleep, no one can awaken. Before the sunlight comes out, the Morning Star appears first. The Bhikshu Kauṇḍinya first attained the Wisdom of No-Birth, just as the Morning Star is at the beginning of the multitude of brightnesses. Among the wisdom-brightness of all people, none is before Kauṇḍinya; thus named *Ajñāta*. Nothing surpasses the Morning Star in first breaking the darkness; Kauṇḍinya is also like this. Among the extinction of darkness for all people, none is before Kauṇḍinya; thus named *Ajñāta*.
 
+**前者，太子棄國捐王入山學道，父王思念遣五人追侍，所謂拘隣；頞鞞，亦云濕鞞，亦阿[2]說示，亦馬星[3]跋提，亦摩訶男，十力迦葉，拘利太子，二是母親，三是父親。二人以欲為[4]淨，三人以苦行為淨。太子勤行苦行，二人便捨之去，三人猶侍；太子捨苦行，還受飲食蘇油、煖水，三人又捨去。太子得道，先為五人說四諦，初教二人，拘隣法眼淨，四人未得，三人乞食，六人共噉；次教三人，三人法眼淨，二人乞食六人共噉；第三說法時，拘隣五人、八萬諸天遠塵離垢，五人得無生，佛三問：「知法未？」即三答云：「已[5]如。」地神唱，空神傳，乃至梵世。[6]咸稱已知，拘隣最前，初見佛道相，初聞法鼓，初服道香，初甞甘露，初入法流，初登真諦，閻浮提得道，最在一切人、一切天、一切羅漢前，故《十二遊經》云：「佛成道第一年度五人，第二年度三迦葉，第五年度身子、目連。」當知阿若在前明矣。此因緣釋也。**  
+Regarding the Former [Narrative]: The Crown Prince abandoned the kingdom and relinquished kingship, entered the mountains to study the Way. The king‑father, remembering him, sent five people to pursue and attend him: namely Kauṇḍinya; Āpí (also called Shīpí, also called A[2]Shuō‑shì, also called Horse‑Star [3]Bá‑tí), also called Mó‑hē‑nán, Shílì‑Jiā‑yè, and the Jū‑lì Prince—two are from the mother’s side, three are from the father’s side. Two people regarded desire as [4]purity; three people regarded ascetic practice as purity. When the Crown Prince diligently practiced asceticism, the two left him; the three still attended him. When the Crown Prince abandoned asceticism and again received food, ghee‑oil, and warm water, the three also left. When the Crown Prince attained the Way, he first taught the Four Truths to the five people. He first taught two people; Kauṇḍinya’s Dharma‑Eye became pure, and four people had not yet attained. Three went for alms; the six ate together. Next he taught three people; the three had their Dharma‑Eye purified; two went for alms; the six ate together. At the third teaching, the five people with Kauṇḍinya, and eighty thousand devas, removed dust and defilement; the five attained No‑Birth. The Buddha asked three times, “Have you known the Dharma yet?” and they answered three times: “We have [5]thus.” The earth‑spirits chanted; the space‑spirits transmitted it, up to the Brahmā world. [6]All proclaimed that it was known. Kauṇḍinya was the foremost: the first to see the Buddha‑Way’s signs, the first to hear the Dharma‑drum, the first to inhale the fragrance of the Way, the first to taste the nectar, the first to enter the Dharma stream, the first to ascend the True Truth. In Jambudvīpa he attained the Way first of all humans, all devas, and all arhats. Therefore the *Twelve‑Travels Sutra* says: “In the first year after the Buddha’s awakening he delivered the five people; in the second year the three Kāśyapas; in the fifth year Śāriputra and Maudgalyāyana.” You should know that Ajñāta was clearly the first. This is the causal‑conditions interpretation.
 
-### Protocol Map: Fascicle 1 (Lines 351-380)
-1.  **Tripitaka Teaching (San Zang Jiao):**
-    -   **Metaphor:** Blind Man holding a Mirror (*Mang Pi Wu Sheng Zhi*).
-    -   **Analysis:**
-        -   *Mirror* = Truth of No-Birth (Nirvana).
-        -   *Head/Face* = Present Cause (Six Parts).
-        -   *Image* = Future Fruit.
-        -   *Blind Man* = Ignorance/Attachment.
-    -   **Process:** Opening eyes (attachment) = Seeing Image (Birth). Closing eyes (wisdom) = Not Seeing Image (No Birth).
-    -   **Sutra Citation:** *Agama* "If one says there is Form... that is Birth."
-    -   **Contemplation of Entrances/Realms:**
-        -   *Eye* = Ocean. *Form* = Waves. *Love* = Whirlpool. *Evil Thoughts* = Fish/Dragons. *Jealousy* = Male Rakshasa. *Attachment* = Female Ghost.
-        -   *Dependent Origination of Suffering:* Ignorance -> Action -> Consciousness -> ... -> Old Age/Death. "This is Birth, not No-Birth."
-    -   **Definition of No-Birth:** Not planting seeds of suffering, not generating sprouts of suffering, etc.
-2.  **Shared Teaching (Tong Jiao):**
-    -   **Metaphor:** Illusionist holding an Illusory Mirror (*Huan Ren Zhi Huan Jing*).
-    -   **Analysis:**
-        -   *Image* is not born from Mirror, Face, Union, or Separation (Four Negations).
-        -   *Nature:* Originally No-Birth (*Xing Ben Wu Sheng*).
-    -   **Contemplation:**
-        -   View Form like Mirror Image, Feeling like Bubble, Conception like Heat Haze, Volition like Plantain, Consciousness like Illusion.
-        -   *Four Negations applied to Illusion:* Not from Illusion Object, not from Illusionist, etc.
-        -   *Conclusion:* "No Birth and No Extinction, therefore called No Birth."
+*[Critical apparatus: 說【大】，悅【甲】; 跋【大】，拔【甲】; 淨【大】，淨行【甲】; 如【大】，知【甲】; 咸【大】，減【甲】]*
+
 
 ---
 
@@ -2054,7 +1920,7 @@ Therefore the *Agama Sutra* says:
 
 **譬如執鏡見面，面是生，非不生，若謂有五陰，悉是生，非不生，若能知色非淨乃至識非常，又能知色無常、苦、空、不淨，乃至識無常、苦、無我、不淨者，是為不生，非是生。如盲執鏡不見像生，是為不生，非是生。既知不生，寧復於中計我是色，計我異色，我在色中，色在我中？乃至識亦如是。如是觀者，現因來果俱皆不生，如盲對鏡不見形像，是名觀陰無生觀智也。**  
 For example, holding a mirror and seeing the face—the face is Birth, not No-Birth. If one says there are Five Skandhas, all are Birth, not No-Birth.
-If one can know Form is not Pure... up to Consciousness is not Permanent; and also know Form is Impermanent, Suffering, Empty, Impure... up to Consciousness is Impermanent, Suffering, Non-Self, Impure—**This is No-Birth, not Birth.**
+If one can know **Form** is not pure, **Feeling** is not pure, **Conception** is not pure, **Volition** is not pure, and **Consciousness** is not permanent; and if one can also know **Form** is impermanent, suffering, empty, and impure; **Feeling** is impermanent, suffering, empty, and impure; **Conception** is impermanent, suffering, empty, and impure; **Volition** is impermanent, suffering, empty, and impure; and **Consciousness** is impermanent, suffering, non‑self, and impure—**this is No‑Birth, not Birth.**
 Like a blind man holding a mirror seeing no image born—this is No-Birth, not Birth.
 Since knowing No-Birth, how could one again calculate within it that "**Self is Form**," or "**Self is different from Form**," or "**Self is in Form**," or "**Form is in Self**"? Up to Consciousness, it is also thus.
 Contemplating like this, the Present Cause and Future Fruit are both Not Born. Like a blind man facing a mirror seeing no form or image. This is named the Contemplative Wisdom of the No-Birth of the Skandhas.
@@ -2091,6 +1957,8 @@ This is because of the Eye and Form having No-Knowledge (*Avidya*), generating I
 This is named: When the Eye sees Form, naturally the Great Mass of Suffering of the Three Times and Twelve Links of Dependent Origination is **Born**, not Not-Born.
 Ear, Nose, Tongue, Body, Mind; Eye Realm up to Dharma Realm—are also like this. This is "Entrance/Realm Born," not Not-Born.
 
+*[Critical apparatus: 染【大】，深【甲】; 愛【大】，受【甲】，愛【校異-甲】; 剎【大】，剎鬼【甲】; 醎【大】，醎水【甲】; 眼【大】，於眼【甲】; 顦【大】，焦【甲】; 眼【大】，眼色【甲】]*
+
 **[367] 云何不生？觀眼色時，不種苦種，不生苦[3]芽，不漏臭汁，不集[4]蛆蠅，若種不生則[＊3-1]芽不生，則臭汁不生，則[＊4-1]蛆蠅不生，故名不生。**  
 What is **No-Birth**? When contemplating Eye and Form:
 - Not planting the Seed of Suffering.
@@ -2106,8 +1974,10 @@ What is the Seed of Suffering?
 - Six Roots grasping Six Dusts—this is named **Stinking Juice Flowing Out**.
 - Inside Six Dusts, Good and Evil [karma] contendingly arising—this is named **Maggots and Flies**.
 If one knows Eye/Form are Impermanent, Suffering, Empty, Non-Self, then Greed/Anger not born; Desire not born; Grasping not born; Good/Evil Action not born. **This is No-Birth.**
-Ear... up to Mind; Eye Realm... up to Dharma Realm are also thus.
+Ear, nose, tongue, body, and mind are also thus; from the eye‑realm up to the dharma‑realm are also thus.
 Because Ajñāta was the very first to attain this **Tripitaka No-Birth Wisdom**, he is named Ajñāta Kauṇḍinya.
+
+*[Critical apparatus: 芽【大】＊，牙【甲】＊; 蛆【大】＊，疽【甲】＊; [＊3-1] 芽【大】＊，牙【甲】＊; [＊4-1] 蛆【大】＊，疽【甲】＊; [＊3-2] 芽【大】＊，牙【甲】＊; [＊4-2] 蛆【大】＊，疽【甲】＊; 如【大】，如也【甲】]*
 
 **[377] 通教無生觀，譬如幻人執幻鏡，以幻六分臨幻鏡、覩幻像，像非鏡生、非面生，非鏡面合生，非離鏡面生，既不從四句生，則非內外中間，不常自有亦無滅處，去不至東西南北方，性本無生，非滅生無生，性本無滅，非滅滅無滅，無生無滅故曰無生；受想行識亦復如是。**  
 **Shared Teaching No-Birth Contemplation**:
@@ -2122,38 +1992,20 @@ Since it is not born from the Four Phrases (*Catuskoti*), it is not Inside, Outs
 Because of No-Birth and No-Extinction, it is called **No-Birth**.
 Feeling, Conception, Volition, Consciousness are also like this.
 
-**又觀幻色如幻鏡像、觀受如泡、觀想如炎、觀行如芭蕉、觀識如幻... (略)**  
-Also contemplating Illusory Form like an illusory mirror image; Feeling like a bubble; Conception like heat-haze; Volition like a plantain; Consciousness like an illusion.
-Illusion is not born from illusory objects, nor from the illusionist, not from union... (etc.).
-Contemplating the Roots/Dusts... up to "No Ignorance"... up to "No Old Age/Death"... as a Wheel of Fire. Contemplating their **Fundamental Non-Existence** (*Ben Wu*). This is the intent of the Shared Teaching (etc.).
+**又觀幻色如幻鏡像、觀受如泡、觀想如炎、觀行如芭蕉、觀識如幻，幻不從幻物生，不從幻師生，非物、師合生，非離物、師生，四句求幻生，生無從來，四方求幻滅，滅無去處，性本無生，非滅生無生，性本無滅，非滅滅無滅，無生無滅故曰無生。觀根塵村落結賊所止，從本已來一一不實，妄想故起，業力機關假為空聚，無明體性本自不有，妄想因緣和合而有，有本自無，因緣成諸，煩惱業苦如旋火輪，觀其本無，皆如上說，此通意(云云)。[6]**  
+Also contemplate illusory form as an illusory mirror image; contemplate feeling as a bubble; contemplate thought as a heat‑haze; contemplate volition as a plantain; contemplate consciousness as an illusion. An illusion is not born from illusory objects, nor born from the illusionist; it is not born from the union of object and illusionist, nor born apart from object and illusionist. Seeking the birth of illusion by the Four Phrases, its birth has no place from which it comes; seeking the extinction of illusion in the four directions, its extinction has no place to go. Its nature is originally no‑birth; it is not a case of extinguishing birth to make no‑birth. Its nature is originally no‑extinction; it is not a case of extinguishing extinction to make no‑extinction. Because there is no‑birth and no‑extinction, it is called no‑birth. Contemplate the roots and dusts as a village where bond‑thieves dwell; from the origin each and every one is not real. They arise due to false thoughts; the mechanisms of karmic power provisionally make an empty assemblage. The body‑nature of ignorance originally is not there; through the conjunction of false thoughts and conditions it exists; what exists is originally nonexistent; conditions bring forth the various. Afflictions, karma, and suffering are like a rotating fire‑wheel. Contemplate their original non‑existence; all is as explained above. This is the Shared Teaching’s intent (etc.). [6]
 
+*[Critical apparatus: 不分卷【甲】]*
 
-### Protocol Map: Fascicle 1 (Lines 381-410)
-1.  **Distinct Teaching (*Bie Jiao*):**
-    -   **Metaphor:** Mirror = Dharma Realm. Eye = Observation Wisdom.
-    -   **Colors of Karma:** Blue (Hell), Yellow (Ghost), Red (Animal), White (Human/Deva).
-    -   **Shapes of Karma:** Small (Two Vehicles), Large (Shared Bodhisattva), Short (Distinct Bodhisattva), Long (Buddha).
-    -   **Process:** Distinguishing all clearly. Causing 9 Causes/Fruits NOT to proceed, 1 Cause/Fruit to proceed.
-    -   **Method:** Analytic Contemplation (4 Abodes), Heng-Sha Buddha Dharma (Guest Dust), Real Mark Wisdom (Ignorance/Root).
-    -   **Result:** No Fragmentary Birth, No Transformational Birth, No Real Retribution Birth. "Birth is also Not Born."
-2.  **Perfect Teaching (*Yuan Jiao*):**
-    -   **Metaphor:** Contemplating the Mirror as Round/Perfect (*Tuan Yuan*). Not observing back/front/image.
-    -   **Method:** Not taking shapes/colors (Good/Evil, Defiled/Pure). Only contemplating the Roundness. No Boundaries, No Beginning/End.
-    -   **Integration:** All neutralized (*Min*). Only conditional upon Real Mark (*Shi Xiang*). Form/Scent = Real Mark.
-    -   **Conclusion:** Affliction/Karma/Birth = No Birth. "No Birth is Not Born." The three (Affliction, Karma, Suffering) are the three (Prajna, Liberation, Dharma Body).
-3.  **Origin/Trace of Kauṇḍinya:**
-    -   *Origin:* Originally Dwelling in the "Letter A" (*A Zi Men* - *Ajatā*). All dharmas originally unborn.
-    -   *Trace:* Manifesting Milk -> Cream -> Curds -> Butter -> Ghee (Five Flavors). Kauṇḍinya represents the *First Teaching* (Milk/Deer Park).
-    -   *Note:* Realizing "Perfect No Birth" makes one equal to Ajñāta (Known).
-4.  **Mahākāśyapa (Mo He Jia Ye):**
-    -   *Surname:* **Kāśyapa** = Great Turtle Clan (*Da Gui Shi*). Ancestors learned Diagram on Turtle Back.
-    -   *Surname:* **Light Wave / Drinking Light** (*Guang Bo / Yin Guang*). Body light swallows other lights.
-    -   *Name:* **Pippala** (Tree name). Parents prayed to tree for child.
-    -   *Biography:* Rich family (Kapila/Dhana). Wife Bhadra Kapilani. Golden skin (91 kalpas of merit from repairing stupa). 30 Marks (missing two).
-    -   *Three Greats:*
-        1.  **Great Renunciation (*She Da*):** Gave up immense wealth (1000x King Bimbisara), beautiful wife.
-        2.  **Great Acceptance (*Shou Da*):** Received Buddha's "Rag Robe" (Dharma succession).
-        3.  **Great Practice (*Xing Da*):** Dhuta practices (asceticism).
+**妙法蓮華經文句卷第一上**  
+*The Meaning of the Words and Phrases of the Lotus Sutra, Fascicle One — Upper*
+
+**妙法蓮華經文句卷第一下**  
+*The Meaning of the Words and Phrases of the Lotus Sutra, Fascicle One — Lower*
+
+**天台智者大師說**  
+*Spoken by the Great Master Zhizhe of Tiantai*
+
 
 ---
 
@@ -2178,6 +2030,9 @@ Relying on the Dharma Realm to practice Bodhi conduct:
 If there are no Four Abodes, then Fragmentary Birth is not born. If no No-Knowledge, then Transformational Birth is not born. If no Ignorance, then Real Retribution Birth is not born.
 "Birth is also Not Born; Not-Born is also Not Born." Therefore named **No-Birth**. This is the **Distinct Teaching No-Birth Wisdom**.
 
+*[Critical apparatus: 不分卷【甲】]*
+*[Critical apparatus: 菩提【大】，菩薩【校異-甲】]*
+
 **[392] 約圓教觀無生智者，觀鏡團圓，不觀背面、不觀形像，非背非闇、非面非明，不取種種形容、不取種種檠像，但觀團圓，無際畔、無始終、無明闇、無一異差別者，譬於圓觀，不取十法界相貌，**  
 **Perfect Teaching No-Birth Wisdom:**
 Contemplate the Mirror as **Round and Perfect** (*Tuan Yuan*). Do not contemplate the back or face; do not contemplate the forms/images. It is not Back/Dark, not Face/Bright. Do not grasp various forms or appearances.
@@ -2200,6 +2055,8 @@ These Three Not-Borns are precisely One Not-Born. This One Not-Born is precisely
 How much more so are the Afflictions/Karma/Suffering of *Transformation* (*Pariṇāma*) also Not Born?
 **This is the Perfect No-Birth Contemplative Wisdom.**
 
+*[Critical apparatus: 無【大】，亦【甲】，無【校異-甲】]*
+
 **[396] 本迹者，是憍陳如本自不生，非始不生；欲引乳為酪故，迹為初教不生；引酪為生蘇故，迹為通不生；引生為熟[10]故，迹為別不生；引熟為醍醐故，迹為圓不生。**  
 **Origin and Trace**: This Kauṇḍinya is **Originally Self-Not-Born** (*Ben Zi Bu Sheng*), not "beginning to be" Not-Born.
 - Desiring to draw out Milk to make Cream (*Luo* - Deer Park): Traces as the **First Teaching No-Birth**.
@@ -2213,136 +2070,71 @@ If one hears the Letter A Gate, one understands all meanings are "Neither Born n
 Manifesting Traces to guide and transform, he is capable of "Birth" and "No-Birth."
 If sentient beings can realize the **Perfect No-Birth**, they are the same as **Ajñāta**. Neither Origin nor Trace; Neither Birth nor No-Birth. The **Great Matter of Causes and Conditions** is finished right here!
 
-**[405] 「摩訶迦葉」，此翻大龜氏，其先代學道，靈龜負仙圖而應，從德命族故言龜氏。真諦三藏翻光波，古仙人身光炎踊，能映餘光使不現，故言光波。亦云飲光，迦葉身光亦能映物。**  
+*[Critical apparatus: 故【大】，蘇故【甲】; 大【大】，本大【甲】]*
+
+**觀心不生者，約三觀不生可知，不煩更[12]說。**  
+Regarding Contemplation of Mind and No‑Birth: it can be understood by the Three Contemplations’ No‑Birth; there is no need to say more.
+
+*[Critical apparatus: 說【大】，說也【甲】]*
+
+**[405] 「摩訶迦[13]葉」，此翻大龜氏，其先代學道，靈龜負仙圖而應，從德命族故言龜氏。真諦三藏翻光波，古仙人身光炎踊，能映餘光使不現，故言光波。亦云飲光，迦葉身光亦能映物。**  
 **Mahākāśyapa**:
-- Translates as "**Great Turtle Clan**" (*Da Gui Shi*). His ancestors studied the Way; a numinous turtle bore a transcendent diagram in response. Named the clan from this virtue.
-- Tripitaka Master Paramartha translates as "**Light Wave**" (*Guang Bo*). The ancient sage's body light blazed and leapt, able to outshine other lights making them invisible.
-- Also called "**Drinking Light**" (*Yin Guang*). Kāśyapa's body light could "drink up" [overshadow] other things.
+- This translates as **Great Turtle Clan**. His ancestors studied the Way; a numinous turtle carried a transcendent diagram in response. The clan was named from this virtue, hence “Turtle Clan.”
+- Tripiṭaka Master Paramārtha translates [Kāśyapa] as **Light Wave**: the ancient sage’s body‑light flared and leapt, able to outshine other lights so they did not appear; hence “Light Wave.”
+- Also called **Drinking Light**; Kāśyapa’s body‑light could also outshine other things.
 
 **名畢鉢羅，或畢鉢波羅延，或梯毘犁。畢鉢羅樹也，父母禱樹神求得此子，以樹名之。跋耆子生此聚落，人以為號，其家大富。**  
-Name: **Pippala**. Or *Pippalāyana*. Or *Tibiruh*?
-*Pippala* is a tree. Parents prayed to the tree spirit to get this child; named him by the tree.
-Born in the village of *Mahātīrtha*? (*Ba Qi Zi*). People used it as a title. His family was extremely wealthy.
+His name is **Pippala**, or **Pippalāyana**, or **Tibhili**. Pippala is a tree. His parents prayed to the tree‑spirit to obtain this son and named him by the tree. Born in the Vajjian village (*Ba Qi Zi*), people used it as a title. His family was extremely wealthy.
 
 **《增一阿含》云：「羅閱祇大富長者，名迦毘羅，婦名檀[1]那，子名畢鉢羅，子婦名婆陀，其家千倍勝瓶沙王，十六大國無[2]以為隣。」**  
-*Ekottara Agama* says: "In Rajgir, a great rich elder named Kapila (*Jia Pi Luo*). Wife named Dhana. Son named Pippala. Son's wife named Bhadra (*Po Tuo*). Their household was 1000 times superior to King Bimbisara. Among the 16 Great States, none could match it."
+The *Ekottara Āgama* says: “In Rājagṛha, a great rich elder named Kapila; his wife was named Dhana; his son was named Pippala; his son’s wife was named Bhadrā. Their household was a thousand times superior to King Bimbisāra; among the sixteen great states there was none to compare.”
 
-**《付法藏》言：「毘婆尸佛滅後，塔像金色缺壞，時有貧女匃得金珠，倩匠為薄。金師歡喜治瑩佛畢，立誓為夫婦。九十一劫人中天上身恒金色、心恒受樂...」**  
-*Transmission of the Dharma Pitaka* says: "After Vipaśyin Buddha's extinction, a pagoda image's gold color was damaged. A poor woman begged and got a gold bead. Asked a craftsman to beat it into leaf. The goldsmith rejoiced; they repaired the Buddha image together. They vowed to be husband and wife. For 91 kalpas in heavens and humans, bodies always golden, minds always enjoying pleasure..." (Narrative of merit).
+**《付法藏》言：「毘婆尸佛滅後，塔像金色缺壞，時有貧女匃得金珠，倩匠為薄。金師歡喜治瑩佛畢，立誓為夫婦。九十一劫人中天上身恒金色、心恒受樂，最後託摩竭提國尼拘律陀婆羅門家生，畏勝王得罪，減一耕犁，但用九百九十九雙牛金[3]犁。」**  
+The *Treasury of the Dharma Transmission* says: “After Vipaśyin Buddha’s extinction, the gold color of the stupa‑image was damaged. At that time a poor woman begged and obtained gold beads, and asked a craftsman to beat them into thin leaf. The gold‑smith rejoiced and finished repairing and polishing the Buddha [image]; they vowed to be husband and wife. For ninety‑one kalpas, among humans and heavens, their bodies were always golden and their minds always enjoyed bliss. Finally they were reborn in the Magadha country, in a Brahman family of the Nyagrodha [clan]. Fearing the King’s displeasure, they reduced one plough, using only nine‑hundred‑ninety‑nine pairs of oxen and golden [3] ploughs.”
+
+**又經云：「其家有[4]㲲，最下品者，直百千兩金，以釘釘入地七尺，[＊4-1]㲲不穿破如本不異。六十庫金粟，一庫容三百四十斛。」庫，倉[5]類也。**  
+Another sutra says: “Their household had [4] fine woolen cloth; even the lowest grade was worth one hundred thousand taels of gold. If one drives a nail seven feet into the ground, the [＊4‑1] cloth does not pierce or tear, remaining the same as before. Sixty granaries of gold and grain; one granary holds three hundred forty *hu*.” *Ku* means a kind of granary.[5]
+
+**又經云：「以麥飯供養[6]支佛，怛越忉利各千反受樂，身有三十相。」**  
+Another sutra says: “By offering barley rice to a [6] Pratyekabuddha, in Tāvatiṃśa they each receive bliss a thousand times; the body possesses thirty marks.”
+
+**直論金色，剡浮那陀金，在濁水底光徹水上，在闇闇滅，迦葉身光勝於此金，身光照一由旬。闕二相，應是無白毫、肉髻也。**  
+Speaking strictly of golden color: Jambūnada gold—when at the bottom of muddy water, its light penetrates above the water; in darkness, it goes dark. Kāśyapa’s body‑light surpasses this gold; his body‑light illuminates one yojana. Lacking two marks likely means no white‑curl and no flesh‑topknot.
+
+**故諸天請結集時讚言：「耆年欲恚慢已除，其形譬如紫金柱，上下端嚴妙無比，目明清淨如蓮花。」**  
+Therefore, when the devas requested the compilation, they praised, saying: “The elder’s desire, hatred, and arrogance have been removed. His form is like a purple‑gold pillar; above and below, dignified and wondrous beyond compare; his eyes are bright and pure like lotus flowers.”
 
 **捨此家業，又納金色婦迭臥無欲，捨而出家，身披無價寶衣，截為僧伽梨，四疊奉佛為座，如是三捨世無倫匹，是為捨大。於跋耆聚落，值佛奉寶衣，佛授糞掃大衣，此衣是大聖大衣，又不麁重，故迦葉云：「我受佛衣，師想、塔想，未曾頭枕，況以覆臥？如此大衣，大進我行。」故言受大。**  
-He abandoned this family property. Also married the golden woman (Bhadra) but slept separately without desire. Abandoned [her] to leave home. His body wore priceless jeweled robes; he cut them to make a *Sanghati* (Patch Robe). Folded it four times to offer as a seat for the Buddha. Thus these **Three Abandonments** [Wealth, Wife, Robe] have no peer in the world; this is **Great Renunciation** (*She Da*).
-In the village, he met the Buddha and offered the Jeweled Robe. The Buddha gave him the Rag Robe (*Pāṃśukūla*). This robe is the **Great Sage's Great Robe**, yet not coarse or heavy.
-Therefore Kāśyapa said: "I received the Buddha's Robe. I hold the thought of Master, the thought of Stupa. I have never used it as a pillow for my head, much less to cover myself while sleeping. This Great Robe greatly advances my practice." Thus called **Great Acceptance** (*Shou Da*).
+He abandoned this family property. He also took a golden‑colored wife and slept together without desire; then he left her and went forth. He wore priceless jeweled clothing, cut it to make a *saṃghāṭī* (outer robe), and folded it four times to offer as a seat to the Buddha. Such **Three Renunciations** are unmatched in the world; this is called **Great Renunciation**. In the Vajjian village, he met the Buddha and offered the jeweled robe. The Buddha bestowed the great rag‑robe; this robe is the great sage’s great robe, and it is not coarse or heavy. Therefore Kāśyapa said: “I received the Buddha’s robe. I hold the thought of the Teacher and the thought of the stupa; I have never used it as a head‑pillow, much less to cover myself while sleeping. Such a great robe greatly advances my practice.” Therefore it is called **Great Acceptance**.
+
+*[Critical apparatus: 葉【大】，葉者【甲】; 那【大】，耶【甲】; 以【大】，與【甲】; 犁【大】，犁也【甲】; 㲲【大】＊，疊【甲】＊; [＊4-1] 㲲【大】＊，疊【甲】＊; 類【大】，䉼【甲】，類【校異-甲】; 支【大】，辟支【甲】]*
 
 
-### Protocol Map: Fascicle 1 (Lines 411-440)
-1.  **Mahākāśyapa's Three Greats (continued):**
-    -   *Practice Great (Xing Da):* Foremost in 12 Dhuta practices. Even in old age, refused Buddha's offer to rest. Buddha praised him: "You are like me" (Four Dhyanas, Metta/Karuna, Six Powers, Four Samadhis).
-    -   *Position Great (Wei Da):* Senior among 1250 disciples. Seat shared with Buddha. "Leader of the Sangha" (*Seng Zheng*).
-        -   *Anecdotes:*
-            -   **Brahmins & Shramanas:** Buddha says Kasyapa knows both laws equally.
-            -   **Sakra's Welcome:** Indra drove the chariot for King Mandhata (past life); Buddha shares seat with Kasyapa (present).
-            -   **Needle Seller:** Nun Thullananda critiqued Kasyapa teaching Ananda ("selling needles to the needle maker"). Kasyapa rebukes her (Moon/Sun metaphor).
-2.  **Mahākāśyapa's Compilations:**
-    -   *Tripitaka Compilation:* After Nirvana, compiled Sutra, Vinaya, Abhidharma.
-    -   *Sengzhao's Preface:* "Citing the ultimate... restraining with precepts... guiding with Sutras... distinguishing marks with Abhidharma."
-    -   *Agama Compilation:* Ekottara (Human/Deva), Dirgha (Breaking Views), Madhyama (Deep Meaning), Samyukta (Dhyana).
-3.  **Transmission:**
-    -   Buddha entrusted the Dharma to Kasyapa. (If Dhuta practitioners exist, the Dharma exists).
-    -   **Kasyapa's Nirvana:** Climbed Mt. Kukkutapada, entered Diamond Samadhi, waiting for Maitreya.
-4.  **Dhuta (Ascetic) Practices (Dou Sou):**
-    -   *Etymology:* *Dhūta* = Shaking Off (*Dou Sou*). Shaking off 12 kinds of faults (e.g., attachment to clothes/food).
-    -   **The 12 Practices:**
-        -   *Clothing (2):* Rag Robe (*Pāṃśukūla*), Three Robes only (*Ticīvara*).
-        -   *Food (1):* Begging Food (*Piṇḍapāta*), One Meal (*Ekāsanika*), No Juice after noon, Bowl only (*Pātrapiṇḍika*).
-        -   *Residing (5):* Tree Root, Graveyard (*Śmāśānika*), Open Air (*Abhyavakāśika*), Sitting not Lying (*Naiṣadika*), Any Place (*Yāthāsaṃstarika*).
-    -   **Tripitaka Analysis of Begging Food:**
-        -   *Skandhas:* Joy/Sorrow from begging = Feeling/Conception...
-        -   *Four Truths:*
-            -   *Suffering:* 12 Entrances/3 Realms.
-            -   *Accumulation:* Praise/Blame -> 10 Fetters (Greed, Anger, Ignorance, Arrogance, Doubt, Views).
-            -   *Path:* Covering the 4 inversions (Self, Pleasure, Pure, Permanent). Cultivating 37 Limbs.
-            -   *Cessation:* No Self -> No Ignorance... -> No 25 Existences.
-        -   *Conclusion:* This is the "Shaking Off Contemplative Wisdom" (*Dou Sou Guan Hui*) of the Tripitaka.
+**[416] 佛弟子中多名迦葉，如十力、三迦葉等，皆是大人；於諸同名中最長，故標大迦葉也。於跋耆聚落，初從佛聞增上戒、定、慧，即得無漏，受乞食法，行十二頭陀，逾老不捨，後時佛語：「汝年高，可捨乞食，歸眾受食，可捨麁重糞掃衣，受壞色居士輕衣。」迦葉白佛：「佛不出世我當為辟支佛，終身行頭陀，我今不敢放所習更學餘者，又為當來世作明。未來世言：『上座迦葉為佛所歎，我亦當學難行苦行。』」佛言：「善哉！」是為行大。《增一阿含》：「佛法中行十二頭陀，難行苦行，大迦葉第一。頭陀既久，鬚髮長、衣服弊，來詣佛所，諸比丘起慢。佛命令就佛半座共坐，迦葉不肯。佛言：『吾有四禪，禪定息心從始至終無有耗損，迦葉亦然；吾有大慈仁覆一切，汝亦如此體性亦慈；吾有大悲濟度眾生，汝亦如是；吾有四神三昧：一無形、二無量意、三清淨積、四不退轉，汝亦如是；吾有六通，汝亦如是；吾有四定：一禪定、二智定、三慧定、四戒定，汝亦如是。』」《增一阿含》云：「一婆羅門白佛：『昨有婆羅門至我家，何者是？』佛指迦葉。又問：『此沙門，非婆羅門。』佛言：『沙門法律，婆羅門法律，我皆知，迦葉亦爾。迦葉功德與我不異，何故不坐？』諸比丘聞佛所讚，心驚毛竪。」佛引本因緣，昔有聖王號文陀竭，高才絕倫，天帝欽德，遣千馬車造闕迎王，天帝出候與王同坐，相娛樂已，送王還宮。昔迦葉以生死座命吾同坐，吾今成佛以正法座報其往勳，對佛坐時天人咸謂佛師。又迦葉共阿難為比丘尼說法，有一比丘尼不喜云：「販針兒在針師前賣針。」迦葉語阿難言：「此比丘尼以汝為針師，我為販針兒。」迦葉語尼言：「佛說月喻經，日日增長常如新學者，唯大迦葉，汝聞不？於大眾中分半座，汝聞不？於大眾中讚同佛廣大功德，汝聞不？云何此人是販針兒？」如此等是被佛印可大也。**  
+Among the Buddha’s disciples many are named Kāśyapa—such as Daśabala Kāśyapa and the Three Kāśyapas— and all are great persons. Among those of the same name, he was the eldest; therefore he is labeled **Mahākāśyapa**. In the Vajjian village, he first heard from the Buddha the higher precepts, concentration, and wisdom, and immediately attained outflow‑free [realization]. He accepted the rule of begging for food, practiced the Twelve Dhūtas, and even in old age did not abandon them. Later the Buddha said: “You are old; you may abandon begging for food and return to the assembly to receive food. You may abandon the coarse and heavy rag‑robe and accept the light dyed robe of a householder.” Kāśyapa addressed the Buddha: “If the Buddha had not appeared in the world, I would have become a Pratyekabuddha and practiced Dhūta my whole life. I do not dare to abandon what I have practiced to learn other things. Moreover, I do this to be a lamp for the future age. In future times it will be said: ‘The elder Kāśyapa was praised by the Buddha; I too should learn the difficult ascetic practices.’” The Buddha said: “Excellent!” This is called **Great Practice**. The *Ekottara Āgama* says: “In the Buddha‑Dharma, among those who practice the Twelve Dhūtas and difficult ascetic practices, Mahākāśyapa is the foremost. Having practiced the Dhūtas a long time, his beard and hair were long and his clothes worn. When he came to the Buddha, the bhikṣus became arrogant. The Buddha ordered him to share half of the Buddha’s seat; Kāśyapa did not accept. The Buddha said: ‘I have the Four Dhyānas; the Dhyāna‑samādhi rests the mind from beginning to end without loss—Kāśyapa is also thus. I have great kindness that covers all; you are also thus in nature and kindness. I have great compassion to save beings; you are also thus. I have four super‑samādhis: (1) Formless, (2) Boundless Mind, (3) Pure Accumulation, (4) Non‑retrogression—you are also thus. I have six superknowledges; you are also thus. I have four stabilizations: (1) Dhyāna‑stability, (2) Wisdom‑stability, (3) Insight‑stability, (4) Precept‑stability—you are also thus.’” The *Ekottara Āgama* also says: “A Brahman said to the Buddha: ‘A Brahman came to my house yesterday; which one was it?’ The Buddha pointed to Kāśyapa. He asked again: ‘This is a śramaṇa, not a Brahman.’ The Buddha said: ‘The law of śramaṇas and the law of Brahmans—I know them all; Kāśyapa is also thus. Kāśyapa’s merits are not different from mine—why should he not sit?’ When the bhikṣus heard the Buddha’s praise, their hearts trembled and their hair stood on end.” The Buddha cited a past cause: long ago there was a sage king named Mandhata, whose talent was unrivaled. The Lord of Heaven admired his virtue and sent a chariot drawn by a thousand horses to build a palace and welcome the king; the Lord of Heaven came out to receive him and sat with the king. After they enjoyed each other’s company, he sent the king back to the palace. Formerly Kāśyapa invited me to sit on the seat of birth and death; now that I have become Buddha I repay his former merit with the seat of right Dharma. When he sat facing the Buddha, devas and humans all called him the Buddha’s teacher. Also, when Kāśyapa together with Ānanda taught the bhikṣuṇīs, one bhikṣuṇī was displeased and said: “A needle‑seller selling needles before the needle‑master.” Kāśyapa said to Ānanda: “That bhikṣuṇī takes you to be the needle‑master; I am the needle‑seller.” Kāśyapa said to the nun: “The Buddha spoke the *Moon‑Analogy Sutra*: it increases day by day, always like a new learner—only Mahākāśyapa. Have you heard it? In the great assembly he was given half the seat—have you heard it? In the great assembly he was praised as equal to the Buddha’s vast merit—have you heard it? How can this person be a needle‑seller?” Such things are the Buddha’s seals of his greatness.
 
----
+**[418] 位大者，於大眾中為大，於千二百五十中為大，於五百中為[7]大，於四大弟子中為大，為五山寺主，作閻浮提知事上座，故言位大。**  
+As for **Great Position**: he is great among the great assembly, great among the 1,250, great among the 500, great among the Four Great Disciples; he served as abbot of the Five Mountain monasteries, as the elder who oversees affairs in Jambudvīpa; therefore it is called **Position Great**.
 
-**[416] 佛弟子中多名迦葉，如十力、三迦葉等，皆是大人；於諸同名中最長，故標大迦葉也。於跋耆聚落，初從佛聞增上戒、定、慧，即得無漏，受乞食法，行十二頭陀，逾老不捨，**  
-Among the Buddha's disciples, many are named Kāśyapa (e.g., Daśabala Kāśyapa, the Three Kāśyapas). All are Great Men (*Mahāsattva*). Among those of the same name, he is the eldest, thus marked as **Mahā-Kāśyapa** (Great Kāśyapa).
-In the Vajjian village (*Ba Qi Ju Luo*), he first heard the Adhi-Śīla, Adhi-Citta, and Adhi-Prajñā from the Buddha, and immediately attained the Outflow-Free state (*Anasrava*). He accepted the method of Begging Food and practiced the **Twelve Dhūtas** (*Tou Tuo*). Even when extremely old, he did not abandon them.
+*[Critical apparatus: 大【大】，大大【甲】]*
+**[422] 佛燒身後，灰場生四鉢多羅樹，此表迦葉集三僧祇劫法為三藏四阿含。僧肇序云：「宗極絕於稱謂，賢聖以之[8]冲默，玄旨非言不傳，釋迦以之致教。約身、口防之以禁律，明善惡則導之以契經，演幽微[9]辨之以法相。」此即明戒、定、慧三藏也。《增一》明人天因果，《長》破邪見，《中》明深義，《雜》明禪定，皆大迦葉之功也。若別論集者，阿難誦出修多羅，優波離誦出毘尼，迦葉誦出阿毘曇，故言結集大也。**  
+After the Buddha’s body was cremated, four Pātra trees grew at the ash‑ground. This indicates that Kāśyapa compiled the Dharma of three asaṃkhyeya kalpas into the Tripiṭaka and the Four Āgamas. Sengzhao’s preface says: “The ultimate principle is beyond all names and descriptions; the sages and worthies thereby keep silent and still. If the profound intent were not transmitted by words, Śākyamuni would not have used it to establish the teaching. Concerning body and speech, he guarded them with the disciplinary code; to clarify good and evil, he guided with the sūtras; to expound the subtle and hidden, he [9] distinguished with the Dharma‑marks.” This clearly sets forth the Tripiṭaka of Precepts, Concentration, and Wisdom. The *Ekottara Āgama* explains the causes and effects of humans and devas; the *Dīrgha* breaks wrong views; the *Madhyama* clarifies profound meaning; the *Saṃyukta* clarifies dhyāna. All these are the merits of Mahākāśyapa. If speaking separately of compilation: Ānanda recited the Sūtra‑piṭaka, Upāli recited the Vinaya‑piṭaka, and Kāśyapa recited the Abhidharma‑piṭaka. Therefore it is called **Compilation Great**.
 
-**後時佛語：「汝年高，可捨乞食，歸眾受食，可捨麁重糞掃衣，受壞色居士輕衣。」迦葉白佛：「佛不出世我當為辟支佛，終身行頭陀，我今不敢放所習更學餘者，又為當來世作明...」佛言：「善哉！」是為行大。**  
-Later, the Buddha said: "You are advanced in years. You may abandon begging for food and accept food in the Sangha. You may abandon the coarse, heavy rag-robes and accept the light robes of householders turned to dyed colors."
-Kāśyapa addressed the Buddha: "If the Buddha had not appeared in the world, I would have become a Pratyekabuddha and practiced Dhūta all my life. I dare not now let go of what I have practiced to learn other things. Also, I do this to be a light for the future world... saying 'The Elder Kāśyapa was praised by the Buddha; I too should practice difficult asceticism.'"
-The Buddha said: "Excellent!" **This is Practice Great** (*Xing Da*).
+*[Critical apparatus: 冲【大】，沖【甲】; 辨【大】，則辨【甲】]*
+**[427] 如來去後法付迦葉，能為一切而作依止，猶如如來。何者？若有頭陀苦行人，我法則存；若無此人，我法則不存。迦葉能荷負佛法令得久住，至未來佛，付法、授衣竟，然後入滅，故言持法大。**  
+After the Tathāgata departed, the Dharma was entrusted to Kāśyapa. He can be a reliance for all, just like the Tathāgata. Why? If there are dhūta ascetics, my Dharma exists; if there are none, my Dharma does not exist. Kāśyapa can shoulder the Buddha‑Dharma and cause it to abide long. Until the future Buddha, after transmitting the Dharma and handing over the robe, he then enters extinction. Therefore it is called **Upholding the Dharma Great**.
 
-**《增一阿含》：「...佛言：『吾有四禪...迦葉亦然；吾有大慈...汝亦如此；吾有大悲...汝亦如是；吾有四神三昧...汝亦如是；吾有六通...汝亦如是...』」**  
-*Ekottara Legacy*: "The Buddha said: 'I possess the Four Dhyanas... Kāśyapa is also thus. I have Great Kindness (*Maitri*)... you are also thus. I have Great Compassion (*Karuna*)... you are also thus. I have Four Super-knowledges Samadhi... Six Penetrations... you are also thus.'" (The Buddha equates Kasyapa's powers with his own).
+**[429] 而迦葉將隱密上天禮佛髮，為諸天說法云：「為善生天，為惡入淵，五欲無常，如花上露，見陽則晞。」於是別去。諸天泣歎曰：「里巷窮酸，苦厄羸劣，貧窮孤露，彼恒矜愍，今捨滅度，誰復覆護？(云云)」**  
+Then Kāśyapa was about to ascend secretly to the heavens to pay reverence to the Buddha’s hair. He preached Dharma for the devas, saying: “Doing good brings birth in the heavens; doing evil enters the abyss. The five desires are impermanent—like dew on a flower; when the sun appears it dries.” Thereupon he departed. The devas wept and lamented: “In the poor and narrow lanes, among suffering and weakness, the impoverished and lonely, he always had compassion. Now he leaves for extinction—who will protect and shelter us?” (etc.)
 
-**《增一阿含》云：「一婆羅門白佛：『昨有婆羅門至我家，何者是？』佛指迦葉。又問：『此沙門，非婆羅門。』佛言：『沙門法律，婆羅門法律，我皆知，迦葉亦爾...』諸比丘聞佛所讚，心驚毛竪。」**  
-*Ekottara* says: A Brahmin asked, "A Brahmin came to my house yesterday, which one was it?" Buddha pointed to Kasyapa. The man asked: "This is a Shramana, not a Brahmin." Buddha said: "The Shramana Code and the Brahmin Code—I know them all; Kasyapa is also thus." The Bhikshus' hair stood on end.
+**[431] 約教明抖擻，抖擻十二種過，謂好衣求時苦，得時多怖畏，失時生懊惱。糞掃衣無水、火、盜、賊、王難五怖；若多畜者，縫治浣負其勞亦多，故但三衣；若僧中食則營佐僧事，故乞食；若受殘食、小食，擾動喪時，故一坐食；多食難消、生睡懈怠，少食饑[1]縣乏力故節量食；多器洗持多妨，故一鉢食；須漿勞動故不飲漿；房舍生著故樹下；樹下又著故塚間；冢間憂悲妨故露地；若臥消功增[2]懶故常坐。二是衣法，六是食法，四是住處法。**  
+Explaining Dhūta according to the Teachings: there are twelve kinds of “shaking‑off” faults. One says: for fine clothing, when seeking it there is suffering; when obtaining it there is much fear; when losing it there is vexation. The rag‑robe has no five fears of water, fire, thieves, robbers, or kings. If one keeps many [robes], the labor of sewing, mending, and washing is also much; therefore [one keeps] only three robes. If one eats in the sangha, one must manage and assist sangha affairs; therefore [one practices] begging for food. If one receives leftover food or small food, it disturbs and wastes time; therefore [one practices] one‑sitting meal. Eating much is hard to digest and produces sleep and laxness; eating little brings hunger and [1] weakness, therefore [one practices] measured eating. Many utensils are troublesome to wash and carry; therefore [one practices] eating with one bowl. Because gruel requires labor, therefore [one practices] no drinking of gruel. Dwelling in houses produces attachment; therefore [one practices] under a tree. Under a tree again produces attachment; therefore [one practices] in a charnel ground. In a charnel ground sorrow and grief obstruct; therefore [one practices] open ground. If one lies down, merit is diminished and [2] laziness increases; therefore [one practices] constant sitting. Two are clothing methods, six are food methods, and four are dwelling‑place methods.
 
-**佛引本因緣，昔有聖王號文陀竭，高才絕倫，天帝欽德，遣千馬車造闕迎王，天帝出候與王同坐...昔迦葉以生死座命吾同坐，吾今成佛以正法座報其往勳，對佛坐時天人咸謂佛師。**  
-The Buddha cited a past cause: Long ago, a Sage King named Mandhata (*Wen Tuo Jie*). Indra admired his virtue, sent a chariot to welcome him, and **shared his seat** (*Tong Zuo*).
-"In the past, Kāśyapa invited me to share his 'Birth and Death Seat'; now that I have become Buddha, I repay his past merit with the 'True Dharma Seat'." When he sat facing the Buddha, Devas and Humans all called him the "Buddha's Teacher."
-(Narrative of the "Needle Seller" critique by Nun Thullananda and Kasyapa's rebuke omitted for brevity, identifying Kasyapa as clearly the senior).
-**This is Position Great** (*Wei Da*).
+*[Critical apparatus: 縣【大】，懸【甲】; 懶【大】，懶【甲】]*
+**[436] 且約乞食明抖擻者，乞易得生喜、難得生瞋，得好則愛、得惡則憂，憂喜依色而起即色陰，受此憂喜即受陰，取憂喜相即想陰，憂喜即是行陰，分別憂喜即識陰。憂喜即意法二入三界，界入陰即苦諦，我能乞食，計有我、無我，以乞為道以乞為實，如是諦當。讚喜毀瞋我能被呵即疑不了為癡，是為十使，歷三界四諦，即八十八使名集諦。若識乞食中四倒相似相續覆故謂常，適意謂樂，動轉所作覆故謂我，薄皮覆故謂淨，識四覆、無四倒，勤遮二惡、生二善，修四定根力覺道，是為道諦。於乞食中不計我則癡滅，癡滅故愛滅，愛滅故瞋滅，瞋滅故不自舉則慢滅，慢滅故被呵則無疑，無我故我見滅，我見滅故邊見滅，不執是道則戒取滅，不計為實故見取滅，不邪執故邪見滅，此十滅故則八十[3]八滅，八十[＊3-1]八滅故子縛滅，子縛[4]滅故果縛滅，果縛滅故二十五有滅，是為滅諦。若於乞食中，不見四真諦，是故久流轉生死大苦海；若能見四諦，則得斷生死。生死既盡已，更不受諸有，是為乞食中抖擻觀慧；衣法、住處法亦復如是。是三藏頭陀也。**  
+Moreover, explaining dhūta by way of begging for food: when begging is easy, joy arises; when it is hard, anger arises. If one gets good [food] one loves it; if one gets bad [food] one worries. Joy and worry arise depending on form; this is the form‑skandha. Receiving this joy and worry is the feeling‑skandha. Grasping the marks of joy and worry is the perception‑skandha. Joy and worry themselves are the volition‑skandha. Discriminating joy and worry is the consciousness‑skandha. Joy and worry are the two entrances of mind and dharmas into the three realms; the realms entering the skandhas are the Truth of Suffering. “I can beg for food”—calculating there is self or no‑self, taking begging as the path and begging as the real—this is the Truth of Suffering. Praise produces joy, blame produces anger; “I am capable,” “I am scolded,” immediately becomes doubt and lack of understanding—this is ignorance. These are the ten fetters; across the three realms and four truths, they are the eighty‑eight fetters, named the Truth of Accumulation. If one recognizes within begging for food that the four inversions cover in a semblance‑continuity, therefore “permanent”; fitting to the mind is called “pleasant”; the covering of moving and acting is called “self”; the covering of thin skin is called “pure.” Recognizing the four coverings and being without the four inversions; diligently blocking two evils and producing two goods; cultivating the four dhyānas, roots, powers, awakening factors, and the path—this is the Truth of the Path. In begging for food, not calculating “self” causes ignorance to cease; when ignorance ceases, craving ceases; when craving ceases, anger ceases; when anger ceases, not self‑exalting causes pride to cease; when pride ceases, being scolded yields no doubt; when no‑self, self‑view ceases; when self‑view ceases, boundary‑view ceases; not clinging to this as the path causes precept‑grasping to cease; not calculating it as real causes view‑grasping to cease; not perversely clinging causes wrong‑view to cease. When these ten cease, then the eighty‑[3]‑eight cease; when the eighty‑[＊3‑1]‑eight cease, the seed‑binding ceases; when the seed‑binding [4] ceases, the fruit‑binding ceases; when the fruit‑binding ceases, the twenty‑five existences cease—this is the Truth of Cessation. If, within begging for food, one does not see the four true truths, then one long circulates in the great sea of birth and death; if one can see the four truths, then one can cut off birth and death. When birth and death are already ended, one no longer receives the various existences—this is the dhūta contemplative wisdom within begging for food. The clothing methods and dwelling‑place methods are also like this. This is the Tripiṭaka dhūta.
 
-**[422] 佛燒身後，灰場生四鉢多羅樹，此表迦葉集三僧祇劫法為三藏四阿含。僧肇序云：「宗極絕於稱謂，賢聖以之冲默...」...若別論集者，阿難誦出修多羅，優波離誦出毘尼，迦葉誦出阿毘曇，故言結集大也。**  
-After the Buddha's body was cremated, four *Patra* trees grew at the ash-ground. This symbolizes Kāśyapa compiling the Dharma of three Asankhya kalpas into the **Tripitaka and Four Agamas**.
-Reference to Sengzhao's Preface.
-Specifically regarding compilation: Ananda recited the Sutras; Upali recited the Vinaya; **Kāśyapa recited the Abhidharma**. Thus called **Compilation Great**.
-
-**[427] 如來去後法付迦葉，能為一切而作依止，猶如如來。何者？若有頭陀苦行人，我法則存...迦葉能荷負佛法令得久住...故言持法大。**  
-After the Tathagata left, the Dharma was entrusted to Kāśyapa. He could be a reliance for all, just like the Tathagata. Why? "If there are Dhūta practitioners, my Dharma exists." Kāśyapa could shoulder the load of the Buddha Dharma causing it to abide long. Thus called **Upholding Dharma Great**.
-
-**約教明抖擻，抖擻十二種過...二是衣法，六是食法，四是住處法。**  
-Explaining **Dhūta** (*Dou Sou* - Shaking Off) according to the Teaching: Shaking off twelve kinds of faults. (Attachment to clothes, food, dwelling places).
-- **Two Clothing Methods:** 1. Rag Robe (*Pāṃśukūla*). 2. Three Robes Only (*Ticīvara*).
-- **Six Food Methods:** 1. Begging Food (*Piṇḍapāta*); 2. Ordered Begging; 3. No Food after Noon; 4. One Eating (*Ekāsanika*); 5. Modest Portion; 6. Bowl Only.
-- **Four Dwelling Methods:** 1. Tree Root; 2. Open Ground; 3. Graveyard; 4. Sitting not lying (*Naiṣadika*).
-
-**[436] 且約乞食明抖擻者...憂喜依色而起即色陰，受此憂喜即受陰...憂喜即意法二入三界，界入陰即苦諦...**  
-**Analysing Begging Food as Shaking Off (Tripitaka):**
-Begging is easy to produce Joy; hard to produce Anger.
-- Joy/Sorrow rely on Form = **Form Skandha**.
-- Receiving Joy/Sorrow = **Feeling Skandha**.
-- (Thinking/Consciousness Skandhas follow).
-Joy/Sorrow are Mind/Dharmas entering the Three Realms = **Truth of Suffering**.
-
-**讚喜毀瞋我能被呵即疑不了為癡，是為十使，歷三界四諦，即八十八使名集諦。**  
-Praise brings Joy, Blame brings Anger. "I am capable," "I am scolded." Doubt and Ignorance. These are the **Ten Fetters** (*Shi Shi*). Across the Three Realms/Four Truths, this is the **88 Fetters** (Defilements) named **Truth of Accumulation**.
-
-**若識乞食中四倒相似相續覆故謂常...勤遮二惡、生二善，修四定根力覺道，是為道諦。於乞食中不計我則癡滅...是為滅諦。若於乞食中，不見四真諦，是故久流轉生死大苦海；若能見四諦，則得斷生死...是三藏頭陀也。**  
-If one recognizes in Begging Food that the Four Inversions (Permanence, Pleasure, Self, Pure) are covering the truth... and diligently cultivates the **37 Limbs of Enlightenment** (Roots, Powers, Awakening Factors, Path)—this is the **Truth of the Path**.
-In Begging Food: Not calculating a Self (Ignorance Extinguished) -> Craving Extinguished -> Anger Extinguished -> No Arrogance -> No Doubt -> No View.
-Thus the 10 Fetters extinguish -> 88 Fetters extinguish -> Seed Binding extinguishes -> Fruit Binding extinguishes -> 25 Existences extinguish. This is the **Truth of Cessation**.
-If one does not see the Four Truths in begging, one flows in Samsara. If one sees, one cuts off Samsara. **This is the Tripitaka Dhūta.**
-
-
-### Protocol Map: Fascicle 1 (Lines 441-470)
-1.  **Dhuta Interpretations (continued):**
-    -   **Shared Teaching (*Tong Jiao*):** Dwelling = Witnessing Quiescence/Truth. Food = Empty Wisdom. Clothing = Empty Mind practicing deeds. "Empty Wisdom shakes off (Dhuta) all like illusions."
-    -   **Distinct Teaching (*Bie Jiao*):** Dwelling = Dharma Body. Food = Prajna Wisdom. Clothing = All Conduct Adorning/Covering. Shaking off "Black Karma" (Precepts), "Affliction" (Prajna), "Samsara" (Dharma Body). Shaking off Fragmentary and Transformational suffering.
-    -   **Perfect Teaching (*Yuan Jiao*):** Dwelling = Clothing = Food. One Dharma separates into three. "One Dhuta is All Dhutas." All implies Real Characteristic.
-    -   **Origin/Trace:** Origin = Buddha and Kasyapa sharing the seat of Ultimate Emptiness, attaining Great Dharma Body/Wisdom. Trace = Manifesting the 5 Flavors of Dhuta (Milk to Ghee).
-    -   **Contemplation:** Empty = Shaking off Marks. Provisional = Shaking off Dust/Sand. Middle = Shaking off Ignorance.
-2.  **The Three Kāśyapas:**
-    -   **Uruvilvā (*You Lou Pin Luo*):** Trans: "Papaya Forest" (*Mu Gua Lin*).
-    -   **Nadī (*Na Ti*):** Trans: "River".
-    -   **Gayā (*Jie Ye*):** Trans: "City" or "Elephant". Located 7 yojanas south of Rajgir.
-    -   *Conversion:* Originally Fire Worshippers. Buddha performed 10 Miracles (Dragon Fire, Walking on Water, etc.). Uruvilva says: "Gautama is magical but my Way is True." Buddha rebukes: "You are not Arhat." He submits. 1000 disciples total.
-    -   *Teaching Analysis:* Uruvilva (Milk/Tripitaka), Nadi (Cream), Gaya (Curds/Shared).
-    -   *Origin/Trace:* Forest (Prajna), City (Dharma Body), Water (Liberation). Secret Treasury.
-3.  **Śāriputra (*She Li Fu*):**
-    -   *Name:* **Śāri** = Egret/Bird (*She Li*) or Body (*Shen*). **Putra** = Son (*Zi*).
-    -   *Mother:* Wise eyes like the Śāri bird. Or beautiful body. "Named son after mother" -> Śāriputra.
-    -   *Father:* **Tiṣya** (*Ti She*). "Named son after father" -> Upatisya (*You Po Ti She* - "Minor Tisya"?).
-    -   *Jataka Tale (The Clever Thief):* Past life as a weaver/nephew. Stole King's treasure. Outwitted the King's guards (corpse substitution, burning dummy, hiding in water). King impressed, gave him the princess. This displays his "limitless wisdom."
-
----
-
+*[Critical apparatus: 八【大】＊，八使【甲】＊; [＊3-1] 八【大】＊，八使【甲】＊; 滅【大】，〔－〕【甲】]*
 **[442] 通教抖擻者，緣真證寂則是住處，空慧為食，空心行諸行為衣，常性空無不性空時，空慧抖擻皆如幻化，妄想諸惡寂滅不起，心心數法不行故，以不可得故，諸相應中空相應最為第一，諸苦行中空行第一，諸抖擻中空慧抖擻最為第一。略說竟。**  
 **Shared Teaching Dhūta:**
 - Conditioning upon Truth and witnessing Quiescence is the **Dwelling Place**.
@@ -2369,13 +2161,8 @@ Dwelling Place *is* Clothing *is* Food. It is merely One Dharma discriminatively
 **One Shaking-Off is All Shaking-Offs; All Shaking-Offs are One Shaking-Off.** Not One, not All.
 Regarding all Dhūtas, none are not the **Real Characteristic**. This is the practice of all Buddhas, the Tathagata Practice, surpassing the pure practices of all Bodhisattvas.
 
-**[448] 本迹者，本與如來同坐畢竟空理、同得廣大法身、同得無礙智慧、同得無量功德...欲引乳味事中抖擻，次引酪味空中抖擻，次引生蘇別中抖擻，次引熟蘇圓中抖擻。**  
-**Origin and Trace:**
-In the **Origin**, [Kasyapa] sat together with the Tathagata in the Principle of Ultimate Emptiness. Together attained vast Dharma Body, unobstructed Wisdom, and immeasurable Merit. Internally abandoning Dharma Love, externally without defilement. Internal/External Shaking-Off was originally already pure.
-- Desiring to draw out Milk Flavor: [Traces] Phenomenal Dhūta.
-- Next, Cream Flavor: Empty Dhūta.
-- Next, Curds: Distinct Middle Dhūta.
-- Next, Butter: Perfect Dhūta.
+**[448] 本迹者，本與如來同坐畢竟空理、同得廣大法身、同得無礙智慧、同得無量功德，內捨法愛、外無垢染，內外抖擻本已清淨，欲引乳味事中抖擻，次引酪味空中抖擻，次引生蘇別中抖擻，次引熟蘇圓中抖擻。**  
+**Origin and Trace:** Fundamentally [Kāśyapa] sat together with the Tathāgata in the principle of ultimate emptiness, together attained the vast Dharma‑body, together attained unobstructed wisdom, together attained immeasurable merit. Inwardly he abandons attachment to the Dharma; outwardly he is without defilement. The inner and outer “shaking‑off” is originally already pure. In order to draw [beings] from the **Milk** flavor, he manifests **phenomenal** dhūta; next, to draw them from **Cream**, he manifests **emptiness** dhūta; next, to draw them from **Curds**, he manifests **distinct‑middle** dhūta; next, to draw them from **Butter**, he manifests **perfect‑middle** dhūta.
 
 **[450] 觀心者，即空抖擻取相，即假抖擻塵沙，即中抖擻無明，一心中抖擻五住(云云)。**  
 **Contemplating Mind:**
@@ -2384,350 +2171,170 @@ In the **Origin**, [Kasyapa] sat together with the Tathagata in the Principle of
 - *Middle:* Shakes off Ignorance.
 In One Mind, shaking off the Five Abodes (*Wu Zhu*).
 
-**[452] 三迦葉，迦葉如前釋。「優樓頻蠡」，亦優樓毘，亦優為，此翻木瓜[5]林。「那提」，此翻河，亦江。「伽耶」，亦竭夷亦象，此翻城家。在王舍城南七由旬...**  
-**The Three Kāśyapas**: "Kāśyapa" is explained as before.
-1.  **Uruvilvā** (*You Lou Pin Luo*): Translates as **Papaya Forest** (*Mu Gua Lin*).
-2.  **Nadī** (*Na Ti*): Translates as **River**.
-3.  **Gayā** (*Jie Ye*): Translates as **City** or Elephant.
-Located 7 yojanas south of Rajgir. In the time of Vipaśyin Buddha, they erected a pagoda pillar together; resulting in being brothers [in this life].
-Elder brother was teacher to King Bimbisara, with 500 disciples. Two brothers each had 250, practicing the brother's instruction.
-The Buddha performed **Ten Variations** (Miracles): Poison Dragon couldn't harm him; Dragon Fire couldn't burn him; Ganges water couldn't drown him... brought Indra's ambrosia, etc.
-Though seeing many miracles, [Uruvilva's] wrong attachment did not change. He said: "Though Gautama is miraculous, he is not as true as my Way."
-Buddha said: "You are not an Arhat, nor have you attained the Way."
-Suddenly he opened to awakening; master and disciples all submitted. Two brothers seeing the signs also returned to the Buddha. Thus **1,000 Bhikshus**.
+**[452] 三迦葉，迦葉如前釋。「優樓頻蠡」，亦優樓毘，亦優為，此翻木瓜[5]林。「那提」，此翻河，亦江。「伽耶」，亦竭夷亦象，此翻城家。在王舍城南七由旬，毘婆尸佛時共[6]樹剎柱，緣是為兄弟。兄為瓶沙王師，五百弟子；兩弟各二百五十，[7]行兄法。佛作十種變：謂龍毒不中，龍火不燒，恒水不溺，三方取果，北取粳糧，忉[8]利甘露，知嫌隱去，知念現來，火滅不然，斧舉不下，廣出瑞應，雖覩眾變邪執未改，故言：「瞿曇雖神，不如我道真。」佛即語云：「汝非羅漢，亦不得道。」霍然開悟，師徒皆伏；二弟見相亦隨歸佛，是則一千比丘。**  
+**The Three Kāśyapas**—Kāśyapa is explained as above. “Uruvilvā” (also Uruvilvi, also Youwei) translates as **Papaya Grove**.[5] “Nadī” translates as **River**, also “Jiang.” “Gayā” (also Jeyi, also “Elephant”) translates as **City‑Home**. They were located seven yojanas south of Rājagṛha. In the time of Vipasyin Buddha they together [6] erected a stupa‑pillar; for this reason they were brothers. The elder was teacher to King Bimbisāra, with five hundred disciples; the two younger brothers each had two hundred fifty, practicing the elder brother’s Dharma.[7] The Buddha performed ten kinds of transformations: the dragon’s poison did not strike; the dragon’s fire did not burn; water could not drown him; he took fruit from three directions; took polished grain from the north; Trāyastriṃśa [8] nectar; knowing their suspicion he disappeared; knowing their thoughts he appeared; fire was extinguished and did not burn; an axe raised could not be brought down. He broadly produced auspicious responses. Though they saw many transformations, their wrong attachment did not change; therefore they said: “Though Gautama is spiritual, it is not as true as my Way.” The Buddha immediately said: “You are not an Arhat; you have not attained the Way.” Suddenly they awakened; master and disciples all submitted. The two younger brothers, seeing the signs, also returned to the Buddha; this became one thousand bhikṣus.
 
-(Teaching Analysis per *Ekottara Agama* and 5 Flavors omitted for brevity in summary, but translated in full thought).
-**Origin/Trace:** Dwelling in Three Virtues. Forest = Prajna. City = Dharma Body. Water = Liberation. This is the **Secret Origin Treasury**. Traces rely on Forest/City/Water to liberate beings.
+**[459] 約教者，如《增一阿含》云：「優留毘能將護四眾，供給四事令無所乏，最為第一；那提比丘心意寂然，降伏諸結，精進最第一；伽耶比丘觀了諸法，都無所著，善能教化，為最第一。」是為酪教中意。若轉入生蘇，即應耻小慕大，例則可知；若轉入熟蘇，即應委業領教；若轉入醍醐，如此經中得記作佛也。**  
+**According to the Teachings:** as the *Ekottara Āgama* says, “Uruvilvā was able to protect the four assemblies and supply the four requisites without lack—he was foremost. The bhikṣu Nadī was serene in mind and subdued the bonds; he was foremost in diligence. The bhikṣu Gayā contemplated and understood all dharmas, was attached to nothing, and skillfully taught and transformed; he was foremost.” This is the meaning within the **Cream** teaching. If one turns into **Curds**, one should be ashamed of the small and admire the great—by analogy it can be known. If one turns into **Butter**, one should entrust oneself to karma and receive the teaching. If one turns into **Ghee**, then in this sutra one receives a prophecy of Buddhahood.
 
-**[465] 「舍利弗」，具存應言舍利弗羅，此翻身子，又翻舍利為珠，其母於女人中聰明，聰明相在眼珠，珠之所生故是珠子；又翻身，此女好形身，身之所生故言身子。時人以子顯母，為作[9]此號也。**  
-**Śāriputra**: Fully **Śāriputra** (*She Li Fu Luo*).
-- Translates as **Body Son** (*Shen Zi*).
-- Or translates *Śāri* as **Egret/Bead** (*Zhu*). His mother was the most intelligent of women; the mark of intelligence is in the eye-pupil (bead). Born of this 'bead', thus "Bead Son."
-- Or translates [Śāri] as **Body**. This woman had a fine physical form. Born of this body, thus named "Body Son."
-People of the time used the child to manifest the [fame of the] mother, thus this title.
+**[461] 本迹者，住於三德，林即般若、城即法身、水即解脫，是為祕密本藏；而迹依林城水以度眾生也。**  
+**Origin and Trace:** Dwelling in the Three Virtues—forest is Prajñā, city is Dharma‑body, water is liberation—this is the secret original store. As traces, they rely on forest, city, and water to liberate beings.
 
-**父為作名，名優波提舍...雙顯父母故言舍利弗。弗，子也。**  
-Father gave him a name: **Upatiṣya** (*You Po Ti She*). Translates as "Discussing Meaning" (*Lun Yi*)... Or *Tiṣya* is a star name. *Upa* means "Minor/Following".
-Thus "**Śāriputra**" (*She Li Fu*) displays both father and mother. *Putra* (*Fu*) means Son.
-Surname: *Kaudinya*? (*Ju Li Tuo*). Brahmin caste. *Ekottara*: "Foremost in Wisdom resolving doubts."
+**[463] 觀心者，正觀心性，中道不動如城防敵，不動而動如水淨諸邊顛倒，雙照枯榮如林蓊欝，三法相資即是連枝兄弟也。**  
+**Contemplation of Mind:** Correctly contemplate the mind‑nature; the Middle Way is unmoving like a city defending against enemies. Unmoving yet moving is like water cleansing all extremes and inversions. Dual illumination of withered and flourishing is like the lush forest. The three dharmas mutually support each other; this is like brothers of connected branches.
 
-**昔者，[11]生經云，過去舅甥俱為織師，知王寶藏，因穿土盜之，大獲珍寶...**  
-Long ago, the *Jataka Sutra* says: In the past, uncle and nephew were both weavers. Knew the King's treasure; dug earth and stole it. King said: "Don't announce it. The thief will return; wait and catch him."
-Nephew made Uncle fall in; Uncle was caught. Nephew feared identification, so he cut off Uncle's head [and took it].
-King ordered corpse placed at crossroads to catch the kin. Nephew drove a cart of firewood, overturned it on the corpse (pretending accident) to burn it [giving funeral rights].
-King reset the trap with wine. Nephew came disguised, got guards drunk, put bones in wine jar and left.
-King worried about his cleverness; set out the Princess ("Daughter") by the water to catch him. Nephew came on a log, disguised... (Detailed clever escape).
-Finally King admired his wisdom and gave him the daughter.
-**The Nephew was Śāriputra.** The Uncle was Devadatta.
+*[Critical apparatus: 林【大】，瓜果【甲】; 樹【大】，竪【甲】; 行【大】，行於【甲】; 利【大】，利取【甲】]*
+**[465] 「舍利弗」，具存應言舍利弗羅，此翻身子，又翻舍利為珠，其母於女人中聰明，聰明相在眼珠，珠之所生故是珠子；又翻身，此女好形身，身之所生故言身子。時人以子顯母，為作[9]此號也。父為作名，名優波提舍，或優波替，此翻論義，論義得妻、因論名子，標父德也。《釋論》云：「我名提舍，逐我作字，字優波[10]提舍。」優波此言逐，提舍者星名也，又舍標父、利標母，雙顯父母故言舍利弗。弗，子也。姓拘栗陀，婆羅門種。《增一》云：「我佛法中，智慧無窮決了諸疑者，舍利弗第一。」昔者，[11]生經云，過去舅甥俱為織師，知王寶藏，因穿土盜之，大獲珍寶。寶監白王，王云：「勿揚，彼盜尋來，伺而執之。」甥因令舅倒入被執，甥恐人識即級舅頭。王令以屍置四交道引取其親，後因[1]賈客群集猥鬧，甥載兩車薪覆之。王又伺取，又因童兒舞戲投火燒之。又行置酒，伺者大醉，酒瓶盛骨而去。王憂狡猾，出女嚴防，在水邊先誡其女，來者執喚。其浮株於水，防者謂人，視之乃株。連日不備，因是得來通女。女執其衣，其即授死人手而去，女大喚視之乃死手耳。因是有身，生男端正。王令乳母抱出，有嗚者執之。連日飢渴至煮餅爐下，餅師與餅而嗚，王更令出，因酤醇酒伺人大醉，抱兒而去出過他國。他國賢其謀，以大臣女妻之不用，因字之為兒，聘本國王女許之。疑是前盜，其人以五百騎鞍馬衣服一種相似，往迎婦時，本王見之，問是前盜，歎其姦詐，以女婦之。甥者舍利弗是，舅者調達是(云云)。**  
+**Śāriputra**: The full form should be said **Śāriputrā**. This translates as **Body‑Son**. It also translates **Śāri** as **Bead/Pearl**: his mother was the most intelligent among women; the sign of intelligence is in the eye‑bead; born from the bead, therefore **Bead‑Son**. It also translates as **Body**: this woman had a fine body; born from the body, therefore called **Body‑Son**. People of the time used the son to manifest the mother and thus made [9] this title. His father gave him a name, **Upatiṣya** (also Upati), translating as “Discourse on Meaning.” By discourse he obtained a wife; because of discourse he named the child, marking the father’s virtue. The *Treatise* says: “My name is **Tīṣya**; following me he made the name, the name **Upatiṣya**.” **Upa** here means “following”; **Tīṣya** is a star name. Also **Śāri** marks the father and **Li** marks the mother; to display both parents he is called **Śāriputra**. *Putra* means “son.” His surname is **Kolita**, of Brahmin lineage. The *Ekottara Āgama* says: “In my Buddha‑Dharma, among those whose wisdom is inexhaustible and resolve all doubts, Śāriputra is foremost.”[^145] Formerly, the *Jātaka Sutra* says: in the past, an uncle and a nephew were both weavers; knowing the king’s treasure store, they dug through the earth to steal it, gaining great treasures. The treasure‑keeper reported to the king. The king said: “Do not announce it; the thief will soon come back—watch and seize him.” The nephew caused the uncle to fall in and be captured; the nephew feared people would recognize him and immediately beheaded the uncle. The king ordered the corpse to be placed at the four crossroads to draw out his kin. Later, because [1] merchant caravans gathered in noisy crowds, the nephew loaded two carts of firewood and covered it. The king again lay in wait to seize him; again, because children danced and played, he threw fire and burned it. Again he set out wine; the watchers became very drunk; he put the bones into a wine jar and left. The king worried about his craftiness, put out his daughter with strict guard; at the waterside he first instructed his daughter: whoever comes, seize and call him. A floating log came on the water; the guard thought it was a person—looking, it was a log. For several days she was unprepared; because of this he came and had intercourse with the daughter. The girl grabbed his clothing; he handed her a dead man’s hand and left. The girl cried out—looking, it was only a dead hand. Because of this she became pregnant and gave birth to a handsome boy. The king ordered a nurse to carry him out; a hooting bird seized him. After days of hunger and thirst he reached the pancake‑stove; the cake‑maker gave him cakes and he hooted; the king again ordered him carried out. Then he sold strong wine, waited for people to be drunk, took the child and left, passing into another country. That country admired his stratagem and gave him a minister’s daughter in marriage—he did not use her; therefore he named him as his son, and sought the original king’s daughter in marriage and received permission. Suspecting he was the former thief, the man with five hundred cavalry, saddles, horses, and clothing all of one pattern went to receive the bride; when the former king saw him, he asked if he was the previous thief, marveled at his craftiness, and gave him his daughter in marriage. The nephew was Śāriputra; the uncle was Devadatta (and so forth).  
 
+*[Critical apparatus: 此【大】，〔－〕【甲】; 提【大】，〔－〕【甲】; 生【大】，本生【甲】; 賈【大】，價【甲】]*
 
-### Protocol Map: Fascicle 1 (Lines 471-500)
-1.  **Śāriputra (continued):**
-    -   *Prenatal Signs:* Mother defeated her brother Kausthila (*Ju Chi Luo*) in debate during pregnancy. Kausthila knew the child was wise ("entrusting eloquence to mother's mouth"), so he went to study ("Long Nails" Brahmin).
-    -   *Early Life:* At age 8, defeated all scholars at the King's assembly. At 16, mastered all 16 Great States' philosophies.
-    -   *Teacher:* Sañjaya Vairatiputra (*Sha Ran*). Sariputra mastered his way in 7 days.
-    -   *Conversion:* Met Aśvajit (*E Pi*) begging. Heard the verse: "All Dharmas arise from conditions..." (*Ye Dharma Hetu...*). Attained Srotapanna instantly. Converted Moggallana and 250 disciples.
-    -   *Position:* "Right-hand disciple" among Sravakas. Converted the 500 heretics led by Devadatta back to the Sangha.
-    -   *Meeting Pūrṇa:* Sariputra and Pūrṇa Maitrāyaniputra (*Man Ci Zi*) check each other's attainment in the *Andhavana* (Blind Forest). Purna uses the "Seven Relay Chariots" metaphor (King Pasenadi going to Saketa) to explain purification levels. Sariputra praises him with "lion's roar."
-2.  **Maudgalyayana (Mu Lian):**
-    -   *Contest of Powers:* Dragon King asks Buddha to summon Sariputra. Moggallana goes to call him.
-    -   *Sewing Scene:* Sariputra sewing robe; Moggallana tries to move him with powers (shaking earth, etc.) but fails. (demonstrating Sariputra's Samadhi power > Moggallana's Abhijna).
-    -   *Buddha's Verdict:* "Sariputra has mastery over 4 Supernatural Powers; Moggallana also has mastery, but cannot move him due to Buddha's power."
-    -   *Moggallana's Feat:* Puts 500 arrogant monks in his bowl and lifts them to Brahma Heaven.
-3.  **Wisdom Analysis (Teaching Specific):**
-    -   **Tripitaka Wisdom:** "Right-Hand General." Cutting fetters, verifying Truth, assisting Buddha.
-    -   **Shared Wisdom:** Breaking "Buddha View, Bodhi View, Dharma Wheel View" (as seen in *Prajñā* Sutras). Not just breaking samsaric views.
-    -   **Distinct Wisdom:** Explained via **Five Flavors**:
-        -   Milk/Cream Only: First Teaching.
-        -   Cream Only (not from Milk): Shared Teaching (Nature Empty).
-        -   Milk -> Cream -> Curds -> Butter -> Ghee: **Distinct Teaching** (Gradual Cultivation).
-    -   **Perfect Wisdom:** "Eating Poisonous Herb (Nirvishi) produces Ghee." All medicines are included. This is Perfect Wisdom.
+[^145]: **Ekottara Āgama** (增一阿含, *Zēngyī Āhán*) — The “Numerical Discourses” collection of early Buddhist sūtras.
+[^146]: **Jātaka Sutra** (生經/本生經) — Birth stories recounting past lives of the Buddha and his disciples; here cited for Śāriputra’s past‑life narrative.
+**[472] 胎者，父名優波提舍，學通典籍，鐵鍱其腹、頭戴火冠，獨步王舍打論議鼓，國師陀羅自知陳故兼則相不祥，義屈奪封以女妻之。妻夢見人身被甲冑，手執金剛杵碎一切山，後立一山邊。夢覺體重以問其夫，夫云：「汝所懷者，破一切論師，唯不勝一人，當為弟子。」舅名拘絺羅，論常勝姊，既懷智人論則勝弟。弟自念言：「此非姊力，必懷智人寄辯母口，在胎尚爾，何況出生耶？」委家更廣遊學，不暇剪爪，時人呼為長爪梵志(云云)。**  
+**Regarding the Womb:** The father was named **Upatiṣya**, learned and versed in the classics. He plated his belly with iron, wore a crown of fire on his head, and alone walked through Rājagṛha beating the debate drum. The national teacher **Dhāra**, knowing his own arguments were exhausted and that the omens were inauspicious, was defeated in doctrine, stripped of his fief, and gave him his daughter as wife. The wife dreamed of a man whose body was armored, holding a vajra‑pestle that shattered all mountains, and afterward he stood beside one mountain. Waking from the dream, her body felt heavy, and she asked her husband. He said: “What you carry will defeat all debaters; only one person will surpass him, and he will become that person’s disciple.” The maternal uncle was named **Kausthila**; in debate he always defeated his sister, but once she carried a wise person, in debate she defeated the younger brother. The younger brother thought: “This is not my sister’s power; she must be carrying a wise person who entrusts his eloquence to the mother’s mouth. If it is already like this in the womb, how much more after birth?” He left home to study broadly and had no time to cut his nails; people called him the **Long‑Nail Brahmin** (and so forth).  
 
----
+**[474] 難陀、跋難陀二龍，護王舍城，雨澤以時，國無饑年。王及臣民，歲設大會置三高座，王、太子、論師，身子以八歲之年身到會所，問人三座，人具答之，即越眾，登論床，群儒[2]皆耻不肯論議，勝此小兒，無足顯譽；脫其不如，屈辱大矣！皆遣侍者，傳語問之。答過問表，盡墮諸幢，無敢當者。王及臣民稱慶無極，國將太平智人出世。及年十六，究盡閻[3]浮典籍，無事不閑，博古覽今，演暢幽奧，十六大國論議無雙，五天竺地最為第一。師事沙然梵志，梵志道術身子皆得，師有二百五十弟子，悉附身子而成就之。沙然臨死欣然而笑，身子問故，[4]答：「世俗無眼為恩愛所親，我見金地國王死，夫人投火聚，願同生一處。」言已命[5]終。後見金地商人，問之果然。身子追悔：「我未盡師術，而不授此法，為我非其人，[6]師祕乎！」自知未達，更求勝法，而無師可事。雖不逮此一法，餘[7]法皆[8]通，於外道[9]眾中最為第一。於道見頞䫌威儀庠序，因問師法，頞䫌答云：「諸法從緣生，是故說因緣，是法緣及盡，我師如是說。」一聞即得須陀洹果，來至佛所，七日遍達佛法淵海，又云：「十五日後得阿羅漢，為羅云和尚，憍梵作師，聲聞眾中右面弟子。調達破僧，引五百比丘去，身子往化五百人歸(云云)。」勞度差捔力，度差為花池，身子為象拔花蹋池；度差為夜叉鬼，身子為毘沙門王；種種皆勝，度差降伏。《中阿含》云：「身子是四眾所生母，目連是所養母(云云)。**  
+**Nanda and Upananda**, the two dragons, protected Rājagṛha; rains came in season and the country had no years of famine. Each year the king and ministers set a grand assembly and placed three high seats—king, crown prince, and debate‑master. Śāriputra, at the age of eight, arrived at the assembly, asked about the three seats, and people answered in full. He immediately leapt past the crowd and mounted the debate seat. The assembly of scholars [2] were all ashamed and would not debate: to defeat a small child would gain no fame; if they were not his match, the disgrace would be great. They all sent attendants to transmit their questions to him. His answers surpassed the questions; all the banners fell, and none dared oppose. The king and ministers celebrated without limit; the kingdom would be at peace—a wise person had appeared. At age sixteen, he exhausted the classics of Jambudvīpa[^147]; there was nothing he did not understand. He broadly studied ancient and modern, expounded the subtle and profound, and in debate among the sixteen great kingdoms he had no equal; in the five Indias he was foremost. He studied under the Brahmin **Sañjaya**; the Brahmin’s arts Śāriputra mastered entirely. The teacher had two hundred fifty disciples; all attached themselves to Śāriputra and were accomplished by him. When Sañjaya was near death he smiled happily. Śāriputra asked why; [4] he answered: “The world is without eyes, bound by affectionate attachment. I saw the king of the Golden‑Land die; his queen threw herself into the fire, wishing to be reborn in one place.” Having spoken, he [5] died. Later he saw a merchant from the Golden‑Land and asked him; it was indeed so. Śāriputra regretted: “I have not exhausted my teacher’s arts, and he did not transmit this dharma—is it because I am not the right person, and the [6] teacher kept it secret?” Knowing he had not yet arrived, he sought superior dharma but had no teacher to rely on. Though he did not reach this one dharma, the other [7] dharmas were all [8] mastered; among the non‑Buddhist [9] assemblies he was foremost. On the road he saw **Āśvajit** with dignified deportment and orderly bearing, and asked him his teacher’s dharma. Āśvajit replied: “All dharmas arise from conditions; therefore the causes and conditions are taught. These dharmas’ conditions also extinguish; my teacher teaches thus.” Hearing it once he attained the **Srotāpanna** fruit.[^148] He came to the Buddha; within seven days he fully penetrated the ocean of Buddha‑dharma. Another says: “After fifteen days he attained **Arhat**ship[^149]; Rahula was his preceptor, Kapphiṇa his teacher, and among the śrāvaka assembly he was the right‑side disciple. Devadatta split the Saṅgha and led five hundred bhikṣus away; Śāriputra went and converted five hundred people back (and so forth).” He contested **Raudrakṣa‑power**: Raudrakṣa made a flower pond; Śāriputra made an elephant to pull up the flowers and trample the pond. Raudrakṣa made a yakṣa‑ghost; Śāriputra became **Vaiśravaṇa** King. In every way he prevailed and Raudrakṣa submitted. The *Madhyama Āgama* says: “Śāriputra is the birth‑mother of the four assemblies; Maudgalyāyana is the foster‑mother (and so forth).”[^150]  
 
-**[472] 胎者，父名優波提舍...妻夢見人身被甲冑，手執金剛杵碎一切山...弟弟自念言：「此非姊力，必懷智人寄辯母口...」...時人呼為長爪梵志(云云)。**  
-Regarding the Womb: Father Upatisya... Wife dreamed of a man in armor holding a Vajra mace smashing all mountains...
-The younger brother (Kausthila) thought: "This is not my sister's power; she must be carrying a wise man who entrusts his eloquence to the mother's mouth."
-He left home to study broadly; no time to cut his nails. People called him the "Long-Nail Brahmin" (*Dirghanakha*).
+*[Critical apparatus: 皆【大】，皆皆【甲】; 浮【大】，浮提【甲】; 答【大】，答言【甲】; 終【大】，絕【甲】; 師【大】，為師【甲】; 法【大】，〔－〕【甲】; 通【大】，通達【甲】; 眾【大】，〔－〕【甲】]*
 
-**[474] 難陀、跋難陀二龍，護王舍城，雨澤以時...身子以八歲之年身到會所，問人三座...即越眾，登論床...盡墮諸幢，無敢當者。**  
-Nanda and Upananda, the two Dragon Kings, protected Rajgir...
-At age **eight**, [Sariputra] went to the King's assembly... asked about the three high seats (King, Prince, Debater). He climbed the Debate Seat. The scholars were ashamed to debate a child... [but he defeated them]. All banners fell; no one dared oppose him.
+[^147]: **Jambudvīpa** (閻浮, *Yánfú*) — The southern continent of the traditional Buddhist cosmology; the human world.
+[^148]: **Srotāpanna** (須陀洹) — “Stream‑enterer,” the first fruition of liberation in early Buddhism.
+[^149]: **Arhat** (阿羅漢) — “Worthy One,” the perfected disciple who has ended rebirth.
+[^150]: **Madhyama Āgama** (中阿含, *Zhōng Āhán*) — The “Middle‑Length Discourses,” an early sūtra collection.
 
-**及年十六，究盡閻[3]浮典籍...師事沙然梵志...頞䫌答云：「諸法從緣生，是故說因緣，是法緣及盡，我師如是說。」一聞即得須陀洹果...調達破僧，引五百比丘去，身子往化五百人歸(云云)。」**  
-At age **sixteen**, mastered all Jambudvipa classics... Served standard Brahmin teachers (*Sañjaya*)...
-Met **Aśvajit** (*E Pi* - also *Assaji*) whose deportment was serene. Asked his Master's dharma.
-Aśvajit answered: "**All Dharmas arise from Conditions; thus the Cause and Conditions are preached. These Dharmas' conditions also extinguish; my Master teaches thus.**" (*Ye Dharma Hetu...*)
-Hearing it once, he attained the **Srotapanna** fruit.
-(Later): Devadatta broke the Sangha, leading 500 Bhikshus away. Sariputra went and converted the 500 to return.
+**[485] 《中阿含》第二云：「生處安居比丘，稱歎滿慈子，少欲知足精進閑居，一心正念智慧無漏，勸發亦稱說此等法。時身子聞，念：『我何時得見此人？此人[10]何時到佛所？』他示云：『白哲隆鼻鸚鵡嘴者，是其形相。』後於安陀林——此云勝林——相見，身子問：『賢者於瞿曇所修梵行耶？』答：『如是。』又問：『為戒淨修梵行耶？』答：『不也。』『為心淨、見淨、度疑淨、[11]知道非道淨、道迹知見淨、道迹智斷淨修梵行耶？』答：『不也。』又問：『向言如是，今言不也。此義云何？』答：『為無餘涅槃故修梵行。』又問：『以戒淨故，設無餘涅槃？』答：『不也。』乃至『道迹智斷淨故，設無餘涅槃？』答：『[12]不也。』又問：『此義云何？』答：『若以戒淨設無餘者，此以有餘稱無餘，乃至道迹智斷淨設無餘者，亦是有餘稱無餘。若離此七者，凡夫人當般涅槃，凡夫離七故。以不離故，從戒淨至心淨，乃至道迹智斷淨。仁者[13]聽我說喻。如波斯匿王欲從拘薩羅至婆雞帝，中間布七車，捨初乘二，乃至捨六乘七。婆雞帝人問：「為乘初車？」答：「不也。」「乃至乘第七車。」答：「不也。」問：「離此七車？」答：「不也。」此[14]喻問可知。』身子問：『賢名何等，梵行人云何稱汝？』答：『我父名滿，我母名慈，梵行人稱我為滿慈子。』身子稱嗟：『善哉！賢者滿慈子，為如來弟子，智辯聰明決定安隱無畏，逮大辯才得甘露幢，於甘露自作證，值汝者得大[15]饒益，諸梵行人應縈衣頂載。』滿慈子問：『賢者何名，梵行人云何稱？』答：『我父字優波提舍，我母名舍利，故稱我為[16]舍利子。』滿慈子嗟曰：『今與世尊等弟子共論而不知，與第二世尊共論而不知，與法將共論而不知，與轉法輪復轉弟子共論而不知。若我知尊者，不能答一句，況復深論？善哉！善哉！為如來弟子，乃至縈衣頂戴。』(云云)」佛說一句，身子以一句為本，七日七夜作師子吼，更出異句、異味，使無窮盡，況佛多說，而身子智辯寧可盡耶？**  
+**The *Madhyama Āgama*[^150] (Fascicle Two) says:** “At the residence, the bhikṣus praised **Pūrṇa Maitrāyaniputra**, [saying he was] of few desires, content, diligent in secluded dwelling, one‑pointed right mindfulness, and wisdom without outflows; he also exhorted and praised these dharmas. When Śāriputra heard, he thought: ‘When will I see this person? When will this person[10] come to the Buddha?’ Another indicated: ‘White complexion, high nose, parrot‑beak—these are his features.’ Later they met in Andha‑Forest—here translated as Victory Forest. Śāriputra asked: ‘Venerable, do you practice the holy life under Gautama?’ Answer: ‘Yes.’ He asked again: ‘Is it for precept‑purity that you practice the holy life?’ Answer: ‘No.’ ‘Is it for purity of mind, purity of view, purity in overcoming doubt, purity of knowing what is and is not the path,[11] purity of knowledge and vision of the path‑trace, and purity of knowledge and severance of the path‑trace that you practice the holy life?’ Answer: ‘No.’ He asked again: ‘Previously you said yes; now you say no. What does this mean?’ Answer: ‘I practice the holy life for the sake of non‑remainder nirvāṇa.’ He asked again: ‘Because of precept‑purity, is non‑remainder nirvāṇa established?’ Answer: ‘No.’ Up to: ‘Because of purification of knowledge and severance of the path‑trace, is non‑remainder nirvāṇa established?’ Answer: ‘[12] No.’ He asked again: ‘What does this mean?’ Answer: ‘If by precept‑purity one establishes non‑remainder, this is to call the with‑remainder as non‑remainder; up to, if one establishes non‑remainder by purification of knowledge and severance of the path‑trace, it is likewise calling with‑remainder as non‑remainder. If one departed from these seven, common people would attain parinirvāṇa, because common people depart from the seven. Because we do not depart from them, [we proceed] from precept‑purity to mind‑purity, up to purification of knowledge and severance of the path‑trace. Venerable, [13] listen to my parable. Like King Prasenajit wishing to go from Kosala to Saketa, in between he set out seven chariots, abandoning the first to ride the second, up to abandoning the sixth to ride the seventh. A man of Saketa asked: “Did you ride the first chariot?” Answer: “No.” “Up to the seventh chariot?” Answer: “No.” Asked: “Apart from these seven chariots?” Answer: “No.” This [14] parable‑question is thus knowable.’ Śāriputra asked: ‘What is your name, and how do the holy‑life practitioners address you?’ Answer: ‘My father is named **Pūrṇa**, my mother is named **Maitrī**, and the holy‑life practitioners call me **Pūrṇa Maitrāyaniputra**.’ Śāriputra praised him: ‘Excellent! Venerable Pūrṇa Maitrāyaniputra, as a disciple of the Tathāgata, wise and eloquent, intelligent, decisive, secure and fearless, attaining great eloquence and the nectar‑banner, personally realizing the nectar—those who meet you obtain great[15] benefit; all holy‑life practitioners should lift their robes and bear [you] on their heads.’ Pūrṇa Maitrāyaniputra asked: ‘Venerable, what is your name, and how do the holy‑life practitioners address you?’ Answer: ‘My father is named **Upatiṣya**, my mother is named **Śāri**, therefore I am called [16] **Śāriputra**.’ Pūrṇa Maitrāyaniputra exclaimed: ‘Now I discuss with the disciples equal to the World‑Honored One and do not understand; I discuss with the Second World‑Honored One and do not understand; I discuss with the Dharma‑general and do not understand; I discuss with the one who turns the Dharma‑wheel and with the disciples who again turn [it] and do not understand. If I knew the venerable, I could not answer even one sentence—how much more a deep discussion? Excellent! Excellent! As a disciple of the Tathāgata—indeed one should lift robes and bear [you] on the head.’ (and so forth).” The Buddha spoke one sentence; Śāriputra took one sentence as his basis and for seven days and seven nights made a lion’s roar, further bringing forth different sentences and different flavors without end. How much more, then, when the Buddha speaks much—could Śāriputra’s wisdom and eloquence ever be exhausted?  
 
-**勞度差捔力，度差為花池，身子為象拔花蹋池...《中阿含》云：「身子是四眾所生母，目連是所養母(云云)。」**  
-Contest with Raudraksha (*Lao Du Cha*): Raudraksha [magically] made a flower pond; Sariputra made an Elephant to trample it... (etc.).
-*Madhyama Agama*: "Sariputra is the **Birth Mother** of the Four Assemblies; Maudgalyayana is the **Nursing Mother**."
+*[Critical apparatus: 何【大】，〔－〕【甲】; 知【大】，如【甲】，知【校異-甲】; 不【大】，〔－〕【甲】; 聽【大】，能【甲】，聽【校異-甲】; 喻【大】，七喻【甲】; 饒【大】，利【甲】; 舍利【大】，舍利弗【甲】]*
 
-**[485] 《中阿含》第二云...「滿慈子...後於安陀林——此云勝林——相見...仁者[13]聽我說喻。如波斯匿王欲從拘薩羅至婆雞帝，中間布七車，捨初乘二...若離此七者，凡夫人當般涅槃...從戒淨至心淨，乃至道迹智斷淨。」**  
-*Madhyama Agama*: Pūrṇa Maitrāyaniputra... met in the Andhavana (Blind/Victory Forest).
-[Purna uses the] **Seven Relay Chariots Metaphor**: Like King Prasenajit going from Kosala to Saketa (Sravasti to Saketa?), setting up seven relay chariots. Abandoning the first to ride the second...
-"Is the first chariot the arrival?" "No." "Is it apart from the chariots?" "No."
-From **Precept Purity** to **Mind Purity**... up to **Path-Trace Wisdom-Severance Purity**. (The Seven Stages of Purification).
+**[495] 《[A2]中阿含》第二十云：「佛在阿耨達池，龍王云：『此眾不見舍利弗，願佛召之。』佛命目連往祇洹呼，身子正縫五納衣。答云：『汝但前去，我在後來。』目連云：『我為佛使人，云何前去？』目連以手摩衣，衣即成。身子念：『目連弄試我，我亦試之。』即以衣繩擲地，『汝能舉此耶？』目連念：『身子弄試我。』即盡力舉不起。身子于時以繩繫閻浮樹，一天下動；繫二三四，四天下亦不立；又繫小千、中千、大千亦不立，又繫他方佛座脚，十方佛世界皆鎮鎮不動。目連自念：『我神力第一，今不能動，將不失神力？』因催促令去，答：『汝前去。』目連還佛所，已見身子在佛前。龍王見地動問佛，佛答：『二人之力。』龍王及五百比丘，於目連生輕心，佛言：『舍利弗於四神力得自在，目連亦自在，而不能拔者，佛力耳。』語目連云：『現汝神力。』目連以鉢絡盛五百比丘，舉著梵宮，一足躡須彌，一足至梵宮，身在彼方而說偈滿大千國，五百心伏(云云)。」**  
+**The *Madhyama Āgama*[^150] (Fascicle Twenty) says:** “The Buddha was at Anavatapta Lake. The Dragon King said: ‘This assembly does not see Śāriputra; may the Buddha summon him.’ The Buddha ordered Maudgalyāyana to go to Jetavana and call him. Śāriputra was sewing the five‑panel robe. He replied: ‘You go ahead; I will come later.’ Maudgalyāyana said: ‘I am the Buddha’s messenger—how can I go ahead?’ Maudgalyāyana stroked the robe with his hand, and the robe was completed. Śāriputra thought: ‘Maudgalyāyana is testing me; I too will test him.’ He threw the robe‑cord to the ground: ‘Can you lift this?’ Maudgalyāyana thought: ‘Śāriputra is testing me.’ He exerted all his strength and could not lift it. At that time Śāriputra tied the cord to the Jambu tree; one world shook. Tied to the second, third, and fourth, the four worlds also did not stand. Again tied to the small chiliocosm, middle chiliocosm, and great chiliocosm, they also did not stand. Again tied to the feet of Buddhas in other directions, the Buddha‑worlds of the ten directions were all stable and unmoving. Maudgalyāyana thought: ‘I am foremost in supernatural power; now I cannot move it—have I lost my power?’ Therefore he urged him to go; [Śāriputra] replied: ‘You go ahead.’ Maudgalyāyana returned to the Buddha and already saw Śāriputra before him. The Dragon King saw the ground shake and asked the Buddha. The Buddha replied: ‘It is the power of two persons.’ The Dragon King and five hundred bhikṣus gave rise to light regard for Maudgalyāyana. The Buddha said: ‘Śāriputra has mastery of the four supernatural powers; Maudgalyāyana also has mastery, but cannot pull it because of the Buddha’s power.’ He said to Maudgalyāyana: ‘Display your supernatural power.’ Maudgalyāyana used his alms‑bowl net to contain five hundred bhikṣus, lifted them and placed them in the Brahmā palace; one foot tread on Sumeru, one foot reached the Brahmā palace, and while his body was in that direction he spoke verses filling the great thousand‑world, and the five hundred submitted (and so forth).”  
 
-**[495] 《[A2]中阿含》第二十云：「佛在阿耨達池，龍王云：『此眾不見舍利弗，願佛召之。』佛命目連往祇洹呼，身子正縫五納衣...即以衣繩擲地，『汝能舉此耶？』目連...盡力舉不起。身子于時以繩繫閻浮樹，一天下動；繫二三四，四天下亦不立...十方佛世界皆鎮鎮不動。**  
-*Madhyama Agama*: Buddha at Anavatapta Lake. Dragon King asked for Sariputra. Buddha sent **Maudgalyayana** (*Mu Lian*) to call him.
-Sariputra was sewing his robe. Said: "You go first." Moggallana tried to force him.
-Sariputra threw his sash on the ground: "Can you lift this?" Moggallana tried with all might but couldn't.
-Sariputra tied it to the Jambu Tree—the whole world shook. Tied to 4 worlds... up to 10 directions Buddha worlds shook.
+*[Critical apparatus: 中【CB】，申【大】]*
 
-**目連自念：『我神力第一，今不能動，將不失神力？』...佛言：『舍利弗於四神力得自在，目連亦自在，而不能拔者，佛力耳。』**  
-Moggallana thought: "I am foremost in Supernatural Power (*Abhijna*), why can I not move him?"
-Buddha said: "Sariputra has mastery in 4 Supernatural Powers; Moggallana also has mastery. That he cannot pull him is due to the Buddha's [sustaining] power."
+**[499] 約教者，若三藏智慧即是無學十智，斷結證真輔佛揚化。《釋論》四十稱為右面大將，即其義也。通教智慧者，如《般若》中自說所以為摩訶薩，謂我見、眾生見、佛見、菩提見、轉法輪見，破如此等見故，名摩訶薩。諸賢聖自說己法，不如即今人妄有所說，當知身子非但破生死見，亦破佛見、菩提、法輪、涅槃等見，此慧異初教也。別教智慧者，當約五味分別，若從元初但聞乳酪不聞餘味，發心修行但行乳酪者，此是初教智慧也；若但聞酪，酪不由乳，善惡之性性本自空，不由[1]修善破惡、滅色取空，但修即空者，是通教智慧；若從元初得聞醍醐，為醍醐故，[2]𤚲牛求乳、[3]烹乳為酪，轉酪為生蘇，轉[4]生為熟蘇，方得醍醐，修如此行者即是別教智慧也。若從元初但聞牛食忍草即出醍醐，若能服者眾病皆除，一切諸藥悉入其中。為此修行，即是圓教智慧也。**  
+**According to the Teachings:** If it is **Tripiṭaka Wisdom**, it is the ten knowledges of no‑learning, cutting fetters, realizing truth, and assisting the Buddha in propagating transformation. The *Treatise* (Fascicle Forty) calls him the “Right‑Side General”; this is its meaning.[^151] **Shared‑Teaching Wisdom:** as the *Prajñā* texts explain why one is called a **Mahāsattva**—because he breaks the views of self, beings, Buddha, Bodhi, and Turning the Dharma‑wheel; for breaking such views he is named **Mahāsattva**. The sages and holy ones explain their own dharmas; it is not like people now who speak falsely. You should know that Śāriputra not only breaks the view of birth‑and‑death, but also breaks views of Buddha, Bodhi, Dharma‑wheel, Nirvāṇa, and the like; this wisdom differs from the first teaching. **Distinct‑Teaching Wisdom** should be distinguished by the **Five Flavors**. If from the very beginning one only hears **Milk** and **Cream** and does not hear the remaining flavors, and having aroused the mind to practice only practices Milk and Cream, this is First‑Teaching Wisdom. If one only hears **Cream**, and cream does not come from milk; the nature of good and evil is originally empty; not by [1] cultivating good and destroying evil, or extinguishing form to take emptiness, but only cultivating immediate emptiness—this is Shared‑Teaching Wisdom. If from the very beginning one hears of **Ghee**, then for Ghee, [2] he drives the cattle to seek milk, [3] boils milk into cream, transforms cream into curds, transforms [4] curds into butter, and only then obtains ghee; practicing in this way is Distinct‑Teaching Wisdom. If from the very beginning one hears that cows eat **nirviśa** grass and immediately produce ghee, and if one can take it all diseases are removed and all medicines enter within it; practicing for this is **Perfect‑Teaching Wisdom**.[^152]  
 
-**語目連云：『現汝神力。』目連以鉢絡盛五百比丘，舉著梵宮，一足躡須彌，一足至梵宮，身在彼方而說偈滿大千國，五百心伏(云云)。」**  
-Buddha told Moggallana: "Show your power." Moggallana put 500 [arrogant] Bhikshus in his bowl, lifted them to the Brahma Palace. One foot on Sumeru, one on Brahma Palace... 500 minds submitted.
+*[Critical apparatus: 修【大】，〔－〕【甲】; 𤚲【大】，搆【甲】; 烹【大】＊，亨【甲】＊; 生【大】，生蘇【甲】]*
 
-**[499] 約教者，若三藏智慧即是無學十智，斷結證真輔佛揚化。《釋論》四十稱為右面大將，即其義也。**  
-**Teaching Analysis:**
-- **Tripitaka Wisdom:** The Ten Wisdoms of No-Learning (*Asekha*). Cutting bonds, witnessing Truth, assisting Buddha. *prajñāpāramitā-śāstra* calls him the "Right-Hand General."
+[^151]: **Mahāprajñāpāramitā‑śāstra** (釋論, *Shì Lùn*) — The Treatise on the Great Perfection of Wisdom (attrib. Nāgārjuna), here cited for the “Right‑Side General.”
+[^152]: **Prajñāpāramitā Sūtras** (般若經) — The Perfection of Wisdom corpus, here cited for the Mahāsattva definition and the Five‑Flavors analogy.
 
-**通教智慧者，如《般若》中自說所以為摩訶薩，謂我見、眾生見、佛見、菩提見、轉法輪見，破如此等見故，名摩訶薩。...當知身子非但破生死見，亦破佛見、菩提、法輪、涅槃等見，此慧異初教也。**  
-- **Shared Wisdom:** As *Prajna Sutra* says: "Why **Mahasattva**? Because he destroys Self View... Buddha View, Bodhi View, Turning Dharma Wheel View."
-You should know Sariputra not only breaks Samsaric Views, but also breaks **Buddha View, Bodhi View, Nirvana View**. This wisdom differs from the First Teaching.
+**[506] 本迹者，本住實相智度為母，從境生智慧，境即是身，智慧即是子；悲愍眾生，迹為五味。身子欲轉煩惱惡血令成善乳，示為外道智慧，作大論師；欲[＊3-1]烹乳為酪，示三藏智慧，為第二世尊；欲引酪為生蘇，訥大現小，受淨名之屈；欲引生蘇為熟蘇，安慰饒益同梵行者，於般若領教；欲引熟蘇為醍醐，於法華初悟，斯皆迹中外現，而本地內祕其實久矣。**  
+**Origin and Trace:** In the origin, abiding in **Real‑Characteristic Wisdom‑Paramitā** as mother; from the realm arises wisdom; the realm is the body, wisdom is the son. Out of compassion for sentient beings, the traces are the Five Flavors. Śāriputra wished to turn the evil blood of afflictions into good milk, manifesting as non‑Buddhist wisdom and becoming a great debater. Wishing [＊3‑1] to boil milk into cream, he manifested Tripiṭaka wisdom and became the Second World‑Honored One. Wishing to draw cream into curds, he retracted the great and manifested the small, receiving Vimalakīrti’s rebuke. Wishing to draw curds into butter, he comforted and benefitted fellow practitioners of the holy life, receiving instruction in the Prajñā. Wishing to draw butter into ghee, he first awakened in the Lotus. All these are external manifestations in the trace; internally, in the original ground he has long concealed the real.  
 
-**別教智慧者，當約五味分別...若轉入熟蘇，即應委業領教；若轉入醍醐，如此經中得記作佛也。**  
-- **Distinct Wisdom:** Distinguished by the **Five Flavors**.
-    - If only Milk/Cream (First Teaching).
-    - If "Cream not from Milk" (Shared Teaching - nature empty).
-    - If Milk -> Cream -> Curds -> Butter -> Ghee: This is **Distinct Teaching Wisdom** (Gradual sequence).
+*[Critical apparatus: 烹【大】＊，亨【甲】＊]*
 
-**若從元初但聞牛食忍草即出醍醐，若能服者眾病皆除，一切諸藥悉入其中。為此修行，即是圓教智慧也。**  
-- **Perfect Wisdom:** From the very beginning hearing that "Cows eat Poisonous Grass (*Nirvishi*?) and immediately produce Ghee." (Direct production).
-If one can take this, all diseases are removed. All medicines are entered within it. Practicing for this is **Perfect Teaching Wisdom**.
+**[510] 觀心者，一心三觀，攝得一切智慧，觀心即空故，攝得酪智慧；觀心即假故，攝得兩蘇智慧及世智慧；觀心即中故，攝得醍醐智慧，是名觀心中一慧一切慧，一切慧一慧，非一慧非一切慧(云云)。[5]**  
+**Contemplation of Mind:** With one mind and three contemplations, one gathers all wisdoms. Because contemplation‑mind is **Emptiness**, one gathers **Cream‑wisdom**; because contemplation‑mind is **Provisionality**, one gathers the **two Su** wisdoms and worldly wisdom; because contemplation‑mind is **Middle**, one gathers **Ghee‑wisdom**. This is called, within contemplation of mind: **one wisdom is all wisdoms, all wisdoms are one wisdom—neither one wisdom nor all wisdoms** (and so forth).[5]  
 
+*[Critical apparatus (A‑text colophon): 法華文句卷第一終【甲】，法隆寺本奧書云康治元年壬戌六月二十日奉寫已了為合法久住決定往生安養淨剎也法隆寺住僧東寺末葉沙門覺印為之同二年亥癸五月十四日移點已了花押同月三十日一校已了]*
+*A‑text colophon translation:* “End of *Fahua Wenju*, Fascicle One. The Hōryū‑ji copy colophon states: On the 20th day of the 6th month of the first year of Kōji (renxu), the copying was respectfully completed, for the long abiding of the true Dharma and assured rebirth in the Pure Land of Peace and Nourishment. The resident monk of Hōryū‑ji, a branch of Tō‑ji, the śramaṇa Kak‑in, did this. On the 14th day of the 5th month of the second year (hai‑gui), the punctuation was shifted and completed, with signature; on the 30th day of the same month, one collation was completed.”
 
-### Protocol Map: Fascicle 1 (Lines 501-530)
-1.  **Śāriputra (Conclusion):**
-    -   **Origin/Trace:**
-        -   *Origin:* Mother = Real Characteristic Wisdom Paramita (*Shi Xiang Zhi Du*). Father = Wisdom. "From Realm (Mother) extends Wisdom (Son)."
-        -   *Trace:* Manifesting as "Heretic Wisdom" (teaching 16 Kingdoms), then "Tripitaka Wisdom" (Sravaka), then "Shared/Distinct/Perfect" (Vimalakirti defeat, Prajna leading, Lotus evaluation).
-    -   **Contemplating Mind:**
-        -   One Mind Three Contemplations gathers all wisdoms.
-        -   Empty = Cream. Provisional = Curds/Butter. Middle = Ghee.
-2.  **Maudgalyayana (Mu Lian):**
-    -   *Names:*
-        -   **Mahāmaudgalyāyana** (*Da Mu Jian Lian*).
-        -   *Maudgal:* Translated as "Praise/Recitation" (*Zan Song*)? Or "Turnip Root" (*Lai Fu Gen*). Or "Mung Bean" (*Hu Dou*). (Ancestors ate these in retreat).
-        -   *Kolita* (*Ju Lv Tuo*): Tree name. Parents prayed to the tree spirit for a son.
-    -   *Status:* Left-hand disciple. Foremost in Supernatural Powers (*Abhijna*). "Sariputra = Wisdom/Right; Maudgalyayana = Powers/Left."
-    -   *Anecdotes:*
-        -   **Moving the Mountain:** Heretics tried to move a mountain with mantras; Moggallana held it still with samadhi.
-        -   **Subduing Dragons:** Nanda and Upananda (*Nan Tuo, Ba Nan Tuo*) spat black clouds. Moggallana grew huge, entered their bodies (in/out of eyes/ears), and subdued them. Put them in his bowl to show the Buddha.
-        -   **Purifying the Assembly:** In *Samyukta Agama*, Buddha refused to recite precepts because the assembly was impure. Moggallana spotted the two impure monks (Horse-Master/Full-Constellation?) and dragged them out.
-        -   **Jīvaka in Heaven:** Jivaka (*Qi Yu*) reborn in Trayastrimsa. Too busy playing to greet his former master. Moggallana showed him the impermanence of Indra's "Victory Hall" (*Sudharma*) to wake them up.
-        -   **Testing Buddha's Voice:** Moggallana flew East to find the limit of the Buddha's voice. Landed in a world of giants (Buddha "Light King"?). Giants thought he was a "Head Worm" (*Tou Chong*). They put him on the rim of a bowl.
+**[514] [6]「大目揵連」，姓也，翻讚誦，《文殊問經》翻萊茯根，真諦云：「勿伽羅，[7]此翻胡豆，二物[8]古仙所嗜，因以命族。」《釋論》云：「吉占師子父也，名拘律陀，拘律陀樹[9]名，禱樹神得子，因以名焉。」又目伽略兮度，《未來因果經》云：「大目連羅夜那，同名者多，故舉大也。」《釋論》云：「舍利弗才明見貴，目連豪爽取重，智藝相比德行互同。」《增一阿含》云：「我弟子中，神通輕舉飛到十方者，大目連第一。」《釋論》四十一，稱左面弟子。外道師徒五百，用呪移山，經一月日簸峨已動。目連念言：「此山若移，多所損害。」即[10]於山頂虛空中結跏，山還不動。外道相謂；「我法山動，計日必移，云何安固，還若於初？必是沙門使爾。」自知力弱歸心佛道，令無量人正法出家也。**  
+**Mahāmaudgalyāyana**: This is a surname, translated as “Praise and Recitation.” The *Manjushri Inquires Sutra* translates it as **Turnip Root**.[^153] Paramārtha says: “Maudgala [7] translates as **Mung Bean**; these two items [8] were favored by ancient sages, and thus the clan was named for them.” The *Treatise* says: “Jizhan was the father of Lion; his name was **Kolita**. The **Kolita tree** is the [9] name; they prayed to the tree‑spirit and got a son, and therefore named him.” Also, **Moggallāna** (Mu‑ji‑lüe‑yi‑duo). The *Future Causes and Conditions Sutra* says: “Mahāmaudgalyāyana—there are many with the same name, therefore he is called great.”[^154] The *Treatise* says: “Śāriputra is valued for brilliant talent; Maudgalyāyana is esteemed for bold frankness; their wisdom and arts are comparable, their virtue and conduct mutually alike.” The *Ekottara Āgama* says: “Among my disciples, in supernatural power—lightly rising and flying to the ten directions—Mahāmaudgalyāyana is foremost.”[^145] The *Treatise* (Fascicle Forty‑One) calls him the **Left‑Side Disciple**. Five hundred non‑Buddhist teachers and disciples used mantras to move a mountain; after one month the mountain had already begun to move. Maudgalyāyana thought: “If this mountain moves, there will be much harm.” Immediately [10] he sat in full‑lotus in mid‑air above the mountain‑top, and the mountain did not move. The non‑Buddhists said to each other: “By our dharma the mountain should move; counting the days it must move—why is it now firm, as at the beginning? It must be the śramaṇa who caused this.” Knowing their power was weak, they turned their minds back to the Buddha‑path, causing immeasurable people to leave home in the true Dharma.  
 
----
+*[Critical apparatus: 法華文句卷第二首【甲】; 卷題下無天台智者大師說七字【甲】; 此【大】，〔－〕【甲】; 古【大】，右【甲】; 名【大】，神名【甲】; 於【大】，〔－〕【甲】]*
+*A‑text note translation:* “Fahua Wenju, Fascicle Two begins here; under the fascicle title the seven characters ‘Tiantai Zhizhe Dashi says’ are absent.”
 
-**[506] 本迹者，本住實相智度為母，從境生智慧，境即是身，智慧即是子...欲烹乳為酪...欲引酪為生蘇，訥大現小，受淨名之屈；欲引生蘇為熟蘇...於般若領教；欲引熟蘇為醍醐...**  
-**Origin and Trace:**
-- **Origin:** Abiding in Real Characteristic Wisdom Paramita (*Prajnaparamita*) as **Mother**. From the Realm/Object arises Wisdom. The Realm is the Body (*Shen*); Wisdom is the Son (*Zi*).
-Compassionate for beings, the **Trace** manifests the Five Flavors:
-    - Turning affliction-blood into Good Milk (Heretic Wisdom).
-    - Cooking Milk into Cream (Tripitaka Wisdom - Second World Honored One).
-    - Drawing Cream into Curds: "Retracting the Great to manifest the Small," suffering defeat from Vimalakirti (*Jing Ming*).
-    - Drawing Curds into Butter: Receiving instruction in the *Prajna*.
-    - Drawing Butter into Ghee: Awakening in the *Lotus*.
-These are all external manifestations in the Trace; the internal Secret of the Origin has been real for a long time.
+[^153]: **Manjushri Inquires Sutra** (文殊問經) — A sūtra cited for the name‑gloss “Turnip Root.”
+[^154]: **Future Causes and Conditions Sutra** (未來因果經) — A narrative sūtra cited here for Mahāmaudgalyāyana’s name.
 
-**[510] 觀心者，一心三觀，攝得一切智慧...觀心即中故，攝得醍醐智慧...**  
-**Contemplating Mind:**
-One Mind Three Contemplations gathers all wisdoms.
-- Contemplating Mind as **Empty** gathers Cream Wisdom.
-- Contemplating Mind as **Provisional** gathers Curds and Butter Wisdoms (and Worldly Wisdom).
-- Contemplating Mind as **Middle** gathers Ghee Wisdom.
-This is named "One Wisdom is All Wisdoms; All Wisdoms are One Wisdom."
+**[522] 「難陀、跋難陀」，兄弟，居須彌邊海，佛常飛空上忉利宮。是龍瞋恨，云何禿人從我上過？後時佛欲上天，是龍吐黑雲、闇霧，隱翳三光。諸比丘咸欲降之，佛不聽。目連云：「我能降是龍。」龍以身遶須彌七匝，尾挑海水、頭枕山頂；目連倍現其身，遶山十四匝，尾出海外頭枕梵宮。是龍瞋盛，雨金剛砂；目連變砂為寶花輕軟可愛。猶瞋不已。目連化為細身入龍身內，從眼入耳出、耳入鼻出，鑽齧其身即受苦痛，其心乃伏。目連攝巨細身，示沙門像，將是二龍來至佛所。調達引五百比丘為己徒眾，目連厭之，令眠大熟，鼾吼雷鳴，下風出聲，瞿伽離以脚蹋之猶故不寤，身子說法迴五百人心，目連手擎將還，僧得和合。**  
+**“Nanda and Upananda”** were brothers, dwelling by the sea at Mount Sumeru. The Buddha often flew through the air to the Trāyastriṃśa Palace. The dragons grew angry: “How can these shaven men pass over me?” Later, when the Buddha wished to ascend to the heavens, the dragons spat black clouds and dark mists, obscuring the three lights. The bhikṣus all wanted to subdue them; the Buddha did not allow it. Maudgalyāyana said: “I can subdue these dragons.” The dragon coiled its body around Sumeru seven times, tail stirring the sea and head resting on the mountain‑top; Maudgalyāyana manifested his body double, coiled the mountain fourteen times, tail out beyond the sea and head resting on the Brahmā palace. The dragon’s anger grew; it rained vajra‑sand. Maudgalyāyana transformed the sand into jewel‑flowers—light, soft, and lovely. Still angry, the dragon would not relent. Maudgalyāyana transformed into a tiny body and entered the dragon’s body, entering through the eye and exiting the ear, entering through the ear and exiting the nose; boring and gnawing its body, it felt pain, and its mind submitted. Maudgalyāyana gathered his great and small body, displayed the śramaṇa form, and brought the two dragons to the Buddha. **Devadatta** led five hundred bhikṣus to be his disciples; Maudgalyāyana disliked it. He caused them to sleep deeply, snoring and roaring like thunder, with wind sounding from below; **Kokalika** stepped on them with his foot and they still did not wake. Śāriputra preached the Dharma and turned the hearts of the five hundred; Maudgalyāyana lifted them in his hands and brought them back, and the Saṅgha became harmonious.  
 
-**[514] [6]「大目揵連」，姓也...《文殊問經》翻萊茯根，真諦云：「勿伽羅，[7]此翻胡豆...」《釋論》云：「...名拘律陀...」**  
-**Mahāmaudgalyāyana** (*Da Mu Jian Lian*): This is a surname.
-- Translates as "Praise and Recitation" (*Zan Song*).
-- *Manjushri Inquires Sutra* translates as **Turnip Root** (*Lai Fu Gen*).
-- Paramartha says: *Maudgala* translates as **Mung Bean** (*Hu Dou*). The ancient sages liked to eat these two things, so they named the clan after them.
-- *Prajna Sastra*: His father was **Kolita** (*Ju Lv Tuo*), named after the Kolita Tree. Prayed to the tree spirit for a son.
-*Ekottara*: "Among my disciples, freely flying to the ten directions, **Mahāmaudgalyāyana is Foremost**."
-*Prajna Sastra*: Called the **Left-Hand Disciple**. (Sariputra is Right, Maudgalyayana is Left).
-*Anecdote:* 500 Heretics tried to move a mountain with mantras. Moggallana sat in emptiness above the mountain; it would not move.
+**[524] 《雜阿含》二十九：「佛在舍衛十五日說戒，佛默然不言。阿難四請，佛言：『眾不清淨，吾今不復說戒。汝可令上座，若持律者、誦戒者唱。』目連尋入定，觀誰不清淨，見馬師、滿宿二比丘，即手執牽出，閉門更請佛說。佛言：『吾無二言，今不復自說戒。』目連云：『眾不清淨，我亦不復為維那也。』**  
+**The *Saṃyukta Āgama*[^155] (Fascicle Twenty‑Nine) says:** “The Buddha was at Śrāvastī for fifteen days to recite the precepts; the Buddha was silent and did not speak. Ānanda requested four times, and the Buddha said: ‘The assembly is impure; I now will not recite the precepts again. You may have the elders—those who maintain the Vinaya or recite the precepts—chant.’ Maudgalyāyana immediately entered samādhi to see who was impure, saw the two bhikṣus **Horse‑Master** and **Full‑Constellation**, and with his hand grasped and pulled them out, closed the door, and again asked the Buddha to recite. The Buddha said: ‘I have no second word; now I will not personally recite the precepts.’ Maudgalyāyana said: ‘The assembly is impure; I also will no longer serve as the **Karma‑master (vinaya officer)**.’”  
 
-**[522] 「難陀、跋難陀」，兄弟，居須彌邊海...是龍瞋恨...目連云：「我能降是龍。」...目連化為細身入龍身內，從眼入耳出、耳入鼻出...目連手擎將還...**  
-**Nanda and Upananda**, Dragon brothers, lived by Sumeru's sea. Angry that "Bald men" (monks) flew over them. Spat black clouds/fog.
-Buddha forbade others, but allowed Moggallana to subdue them.
-Dragon coiled Mt Sumeru 7 times. Moggallana grew huge, coiled it 14 times.
-Dragon rained Vajra sand. Moggallana turned it to soft flowers.
-Moggallana turned into a tiny body, entered the Dragon's body—**in through the eye, out the ear; in the ear, out the nose**—gnawing its body. The Dragon submitted.
-Moggallana put the two dragons [in his bowl?] and brought them to the Buddha.
+[^155]: **Saṃyukta Āgama** (雜阿含, *Zá Āhán*) — The “Connected Discourses,” an early sūtra collection.
 
-**[524] 《雜阿含》二十九...佛默然不言...目連尋入定，觀誰不清淨，見馬師、滿宿二比丘，即手執牽出...**  
-*Samyukta Agama*: Buddha silent during Uposatha. Ananda asked 4 times. Buddha: "The assembly is not pure."
-Moggallana entered Samadhi, saw the two impure Bhikshus (**Aśvajit and Punarvasu**? "Horse Master" and "Full Star"). He grabbed them by the hand, threw them out, and locked the door.
-Buddha: "I will not recite the precepts myself [anymore]."
+**[526] 「耆域」，此翻固活，生忉利天，目連弟子病，乘通往問，值諸天出園遊戲，耆域乘車不下，但合掌而已。目連駐之，域即云：「諸天受樂怱遽不暇相看，尊者欲何所求？」具說來意，答云：「斷食為要。」目連放之，[1]車乃得前。帝釋與脩羅戰勝，造得勝堂，七寶樓觀莊嚴奇特，梁柱支節皆容一綖，不相著而能相持，天福之妙力能如此。目連飛往，帝釋將目連看堂，諸天女皆羞目連，悉隱逃不出，目連念：「帝釋著樂不修道本。」即變化燒得勝堂，赫然崩壞，仍為帝釋廣說無常，帝釋歡喜，後堂儼然無灰煙色。又絡囊盛五百羅漢如前說。**  
+**“Jīvaka”** translates as **Firm Life**; he was reborn in the Trāyastriṃśa Heaven. A disciple of Maudgalyāyana fell ill; [Maudgalyāyana] rode his powers to inquire. He met the gods going out to play in the garden; Jīvaka rode in a chariot and did not descend, only joined his palms. Maudgalyāyana stopped him, and Jīvaka said: “The gods enjoy bliss in haste and have no time to look at one another; venerable, what do you seek?” He fully explained his purpose; [Jīvaka] answered: “Cutting off food is essential.” Maudgalyāyana released him; [1] the chariot then went forward. Indra fought the Asuras and won, building the Victory Hall. Seven‑jewel towers and pavilions were adorned, marvelous; beams and pillars, joints and nodes each could hold a single rope—without touching they could still support each other; such is the subtle power of heavenly merit. Maudgalyāyana flew there; Indra took him to see the hall. The heavenly maidens all felt ashamed of Maudgalyāyana and hid away, none coming out. Maudgalyāyana thought: “Indra is attached to pleasures and does not cultivate the root of the path.” He transformed and burned the Victory Hall; it collapsed in a blaze. He then broadly explained impermanence to Indra; Indra rejoiced. Later the hall stood again, with no trace of ash or smoke. He also netted and bagged five hundred arhats, as said above.  
 
-**[526] 「耆域」，此翻固活...目連飛往，帝釋將目連看堂...即變化燒得勝堂...**  
-**Jīvaka** (*Qi Yu*): Translates as "Solid Life" (*Gu Huo*). Reborn in Trayastrimsa.
-Moggallana (his former teacher's associate) visited. Jivaka was driving a chariot, just folded his hands without stopping [too busy playing].
-Moggallana stopped the chariot... Moggallana flew to Indra's **Victory Hall** (*Sudharma*?). Moggallana turned the hall into ash/ruin to show impermanence. Indra rejoiced.
+*[Critical apparatus: 車乃得【大】，乘車乃【甲】]*
 
-**[530] 如來梵聲深遠...目連欲知佛聲遠近，極去遠遠猶如近聞...彼人驚怪：「此人頭蟲從何處來？」**  
-The Tathagata's **Brahma Voice** is deep and far-reaching. Heard near or far, it is the same.
-Moggallana wanted to know the limit. Flew West (East?) past Ganges sands of lands. Still heard it as if near.
-Exhausting his power, he landed on a bowl's rim where giants were eating.
-The giants said: "**Where did this Head-Worm (*Tou Chong*) come from?**"
-That Buddha said: "This is the disciple of Shakyamuni Buddha in the Saha world... Do not slight him."
+**[530] 如來梵聲深遠，遠聽如佛邊不異，目連欲知佛聲遠近，極去遠遠猶如近聞，仍用神力飛過西方恒河沙土，聞釋師子聲如本不異，去去不已，神力盡身疲，正值他方大眾共食，仍息鉢緣上經行，彼人驚怪：「此人頭蟲從何處來？」彼佛言：「此是東方無量佛土有佛名釋尊，神足第一弟子，尋聲極此，非蟲也。」《涅槃》云：佛求侍者，心在阿難，如東日照西璧(云云)。**  
+**The Tathāgata’s Brahma‑voice** is deep and far‑reaching; when heard at a distance it is no different from being beside the Buddha. Maudgalyāyana wished to know how far the Buddha’s voice reaches; he went farther and farther, yet heard it as if near. He again used supernatural power and flew past the western lands as numerous as the sands of the Ganges, hearing the Lion of the Śākya’s voice as before. He kept going without stopping; when his supernatural power was exhausted and his body fatigued, he happened upon another world where a great assembly was eating. He rested his bowl‑strap and walked above them. The people were startled: “Where did this head‑worm come from?” That Buddha said: “This is from the eastern innumerable Buddha‑lands, where there is a Buddha named Śākyamuni—his foremost disciple in supernormal power, following the sound to its limit; he is not a worm.” The *Nirvāṇa* says: when the Buddha sought an attendant, his mind was on Ānanda, like the eastern sun shining on the western wall (and so forth).  
 
+**[532] 約教論神通者，依四禪十四變化，依觀練熏修十一切[2]無漏事禪，能作十八變，此即初教中神通。依空起慧，以空慧心修諸神通，即通教中神通。次第依三諦習得神通，展轉深[3]入過於二乘，即別教神通。依於實相所得神通，不以二相見諸佛土，從真起應不動真際遍十法界，是則圓教神通(云云)。往昔曾助辟支佛，剃頭、浣染、縫袈裟，發願得神通(云云)。**  
+**Teaching Analysis of Supernatural Powers:** Relying on the Four Dhyānas and the fourteen transformations, and relying on contemplation, training, perfuming, and cultivation of the eleven kinds of [2] undefiled action‑dhyānas, one can perform the eighteen transformations—this is the supernatural power of the first teaching. Relying on emptiness to give rise to wisdom and cultivating all powers with an empty‑wisdom mind is the supernatural power of the shared teaching. Sequentially relying on the Three Truths to cultivate powers, turning and deepening [3] entry beyond the Two Vehicles, is the supernatural power of the distinct teaching. Supernatural power obtained by relying on real‑characteristic does not see Buddha‑lands by dual characteristics; from the true arises the responsive, not moving from the true boundary yet pervading the ten dharma‑realms—this is the supernatural power of the perfect teaching (and so forth). In the past he once assisted a pratyekabuddha, shaving [his head], washing and dyeing, sewing the robe, and vowed to obtain supernatural powers (and so forth).  
 
-### Protocol Map: Fascicle 1 (Lines 531-560)
-1.  **Supernatural Powers (Analysis):**
-    -   *Tripitaka:* 14 Transformations based on 4 Dhyanas.
-    -   *Shared:* Based on Empty Wisdom.
-    -   *Distinct:* Deep entry surpassing Two Vehicles.
-    -   *Perfect:* Immovable Reality Limit while pervading Ten Realms.
-2.  **Mahākātyāyana (*Mo He Jia Zhan Yan*):**
-    -   *Name:* *Mahā* = Great. *Kātyāyana* = "Literary Ornament" (*Wen Shi*) or "Shoulder Vehicle" (*Jian Cheng* - error for "Fan Cord"?). Also *Kāra* ("Thinking Victory").
-    -   *Debates (The Afterlife):* Detailed summary of his debates with a Nihilist King (Payasi?) in the *Dirgha Agama*.
-        -   **Arguments:** Sun/Moon existence? Criminals not returning? Persons falling in toilets? Soul in pot? Weighing the body?
-        -   **Refutations:** Prison metaphor. Toilet metaphor. Dreaming metaphor. Fire/Fuel metaphor. Hot/Cold Iron metaphor. Conch shell metaphor.
-    -   *Debates (Other):* Defeated the "World Classic" Brahmin (*Shi Dian*) who challenged the Sakyas. Katyayana used his "Divine Ear" to help the slower Culapanthaka (*Zhou Li Pan Te*).
-    -   *Teaching Analysis:*
-        -   *Tripitaka:* Impermanence/Non-Self breaking Permanence/Self.
-        -   *Shared:* Empty/Ungraspable breaking views.
-        -   *Distinct:* Diagnosis and Medicine (4 Siddhantas).
-        -   *Perfect:* Ultimate Reality breaking views.
-3.  **Aniruddha (*A Nou Lou Tuo*):**
-    -   *Name:* "No Poverty" (*Wu Pin*) or "As-Will" (*Ru Yi*).
-    -   *Karma:* Offered millet rice to a Pratyekabuddha in a famine; gained 91 eons of poverty-free reward.
+*[Critical apparatus: 無【大】，入無【甲】; 入【CB】【甲】，人【大】]*
 
----
+**[541] 「摩訶迦栴延」，此翻為文飾，亦肩乘，人云字誤，應言扇繩，亦[4]好肩，亦名柯羅，柯羅此翻思勝，皆從姓為名。《增一阿含》云：「善分別義敷演道教者，迦栴延最第一。」如《長阿含》云：「有外道執斷見謂無他世，凡有十番問答。外道言：『無有他世。』答言：『今之日月為天為人？為此世他世耶？[5]若無他世，則無明日。』又問：『我[6]見人死不還，云何說其受苦，故知無他世。』答云：『如罪人被駐，寧[7]得歸不？』又問：『若生天，何故不歸？故知無他世。』答云：『如人墮廁得出，寧肯更入廁不？又天上一日當此百年，生彼三五日，未遑歸心，設有歸者而汝已化，寧得知之？』又問：『我鑊煮罪人，密蓋其上，伺之，不見神出故，知無他世。』答云：『汝晝眠時，傍人在邊，見汝神出不？』又問：『我剝死人皮，臠肉、碎骨，求神不得故，知無他世。』答云：『如小兒析薪，寸寸分裂求火，寧有可得不？』又問：『我秤死人更重，若神去應輕，若無神去，則無他世。』答云：『如火與鐵合鐵則輕，鐵失火則重，人生有神則輕，死失神則重。』又問：『我見臨死人，反轉求神不得故，知無他世。』答云：『如人反轉求於貝聲，寧得聲耶？』又問：『汝雖種種破，我執此甚久而不能捨。』答云：『如人採穭，初見麻取麻，次捨麻取麻皮，次捨麻皮取縷，次捨縷取布，次捨布取絹，次捨絹取銀，次捨銀取金，捨劣取勝，云何不能捨？』又問：『非但我如是說，諸人亦如是說，云何謂我為非？』答云：『兩商人逢鬼，鬼為人像，語言：「前路豐米足草，載之何為？」一商人便棄，前路人牛皆飢，遂為鬼所噉；一商人云：「若得新米草，可棄故米草。」人牛皆不為鬼所食。諸人妄說如鬼誑言，汝不納我言，如棄故米草，今既得新何不棄故？』又問：『我不能捨，勸我則瞋。』答曰：『汝如養猪人，路上遇糞，頭擎將還，在路逢雨，汁下污頭，傍人令棄，倒更瞋他，謂汝不養猪故令我棄，反瞋勸者。』如是番番析破廣演諸義，外道便伏而讚歎言：『尊者前說日月而我已解，欲聞智辯故番番執難。善哉！妙說。』」迦栴延善論義相亦復如是。**  
+**Mahākātyāyana** translates as **Literary Ornament**; it is also “Shoulder‑carrier.” People say the character is wrong and that it should be **Fan‑cord**; it is also [4] **Good‑Shoulder**. He is also named **Kāra**; Kāra translates as **Thinking‑Victory**. All are names taken from his surname. The *Ekottara Āgama* says: “Among those who are good at distinguishing meaning and expanding the teaching, Kātyāyana is foremost.” The *Dīrgha Āgama* says: “There was a heretic who held the annihilationist view, saying there is no other world; there were altogether ten rounds of question and answer. The heretic said: ‘There is no other world.’ The reply said: ‘Are the sun and moon now heavenly or human? Are they of this world or another world? [5] If there is no other world, then there would be no bright day.’ He asked again: ‘I [6] see people die and not return. How can you say they receive suffering? Thus I know there is no other world.’ The reply said: ‘It is like a criminal being confined—could he return?’ He asked again: ‘If one is reborn in heaven, why does he not return? Thus I know there is no other world.’ The reply said: ‘It is like a person who falls into a latrine and gets out—would he willingly enter it again? Also, one day in heaven corresponds to a hundred years here. If they are born there for three or five days, they have not yet turned their minds to return; even if there were those who returned, you would already be gone—how could you know?’ He asked again: ‘I boiled a criminal in a cauldron, sealed the lid, and watched; I did not see a spirit come out, therefore I know there is no other world.’ The reply said: ‘When you sleep in the daytime, do the people beside you see your spirit go out?’ He asked again: ‘I stripped the skin of a dead man, chopped the flesh and smashed the bones; seeking the spirit, I did not obtain it, therefore I know there is no other world.’ The reply said: ‘It is like a small child splitting firewood, inch by inch, seeking fire—could he obtain it?’ He asked again: ‘I weighed a dead man and he was heavier; if the spirit leaves he should be lighter, and if no spirit leaves there is no other world.’ The reply said: ‘When fire joins iron, the iron is light; when iron loses fire, it is heavy. When a person is alive and has spirit, he is light; when dead and loses spirit, he is heavy.’ He asked again: ‘I see a dying man; turning him over and over I cannot find the spirit, therefore I know there is no other world.’ The reply said: ‘It is like someone turning over a conch shell seeking the sound—could he obtain the sound?’ He asked again: ‘Although you refute in many ways, I have held this for a long time and cannot relinquish it.’ The reply said: ‘It is like someone gathering coarse grain: first he sees hemp and takes hemp; next he discards hemp and takes hemp‑bark; next he discards bark and takes thread; next he discards thread and takes cloth; next he discards cloth and takes silk; next he discards silk and takes silver; next he discards silver and takes gold—abandoning the inferior and taking the superior. How can you not relinquish it?’ He asked again: ‘It is not only I who say this; other people also say this—how can you call me wrong?’ The reply said: ‘Two merchants met a ghost; the ghost assumed a human form and said: “The road ahead has abundant rice and plentiful grass—why carry this?” One merchant then discarded it; on the road ahead, people and oxen all starved, and he was eaten by the ghost. The other merchant said: “If we obtain new rice and grass, we can discard the old.” The people and oxen were not eaten by the ghost. The false speech of people is like the ghost’s deception. You do not accept my words; it is like discarding old rice and grass. Now that you have obtained new, why not discard the old?’ He asked again: ‘I cannot relinquish it; if you urge me I become angry.’ The reply said: ‘You are like a man raising pigs. On the road he encounters dung and lifts it on his head to carry back. On the road he meets rain, the juices run down and soil his head; bystanders tell him to discard it, but he instead becomes angry at them, saying: “You do not raise pigs, therefore you tell me to discard it,” and he turns his anger on the one who exhorts him.’ In this way, again and again he analyzed and refuted, broadly expounding the meanings. The heretic then submitted and praised, saying: “When the venerable first spoke of the sun and moon, I already understood. I raised difficulty again and again only because I wished to hear the wisdom and eloquence. Excellent! Marvelous teaching.”’ Kātyāyana’s skill in debating meanings is also like this.  
 
-**[532] 約教論神通者，依四禪十四變化...能作十八變...依空起慧...次地依三諦習得神通...依於實相所得神通...**  
-**Teaching Analysis of Supernatural Powers (*Abhijna*):**
-- **Tripitaka:** Relying on the Four Dhyanas and Fourteen Transformations... able to perform the Eighteen Transformations.
-- **Shared:** Relying on **Emptiness** to give rise to Wisdom; cultivating powers with an Empty Wisdom Mind.
-- **Distinct:** Relying sequentially on the Three Truths to cultivate powers, gradually deepening beyond the Two Vehicles.
-- **Perfect:** Supernatural Powers attained relying on **Real Characteristic**. Not seeing Buddha Lands with dual characteristics. From the Truth arising the Response; **not moving from the Reality Limit yet pervading the Ten Dharma Realms**.
-*(Origins)*: Past life helped a Pratyekabuddha (shaving, dyeing, sewing) and vowed to attain Powers.
+*[Critical apparatus: 好【大】，名好【甲】; 若【大】，答【甲】; 見人【大】，人見【甲】; 得歸【大】，可歸【甲】]*
 
-**[541] 「摩訶迦栴延」，此翻為文飾，亦肩乘...亦名柯羅，柯羅此翻思勝，皆從姓為名。《增一阿含》云：「善分別義敷演道教者，迦栴延最第一。」**  
-**Mahākātyāyana**:
-- Translates as **Literary Ornament** (*Wen Shi*).
-- Or **Shoulder Vehicle** (*Jian Cheng*). Others say this is an error for "Fan Cord" (*Shan Sheng*).
-- Or *Kāra*, translating as **Thinking Victory** (*Si Sheng*).
-All are names derived from his surname.
-*Ekottara*: "Good at distinguishing meanings and expanding the Doctrine, **Kātyāyana is Foremost**."
+**[548] 律中云：「善能教化歸戒，令[8]屠受夜戒，婬者受晝戒，後受報時各於晝夜見前樂相(云云)。」又世典婆羅門，語五百釋：「能與我論不？」五百釋言：「有瞿蜜釋，國中無黠無聞言語醜拙；有周利槃特，於出家中亦為下者。汝能與此二人論勝者，我與汝能名。」世典思惟：「勝此二人無足可尚，脫不如者甚為屈辱。」後時於路遇槃特，問：「何名？」答：「汝當問義，何勞問名？」又問：「汝能與我論義耶？」答：「我能與梵王論，況汝盲無目者乎？」又問：「盲即無目，無目即盲，豈非煩重？」周利作十八變，即云：「此人但能飛變，更不解義。」迦旃延天耳遙聞，即隱槃特，示身如彼，從空而下問：「汝字何等？」答：「字男丈夫。」又問：「[1]男即丈夫，丈夫即男，豈非煩重？」世典答：「止！止！置此雜論，可論深義。」問：「頗不依法，得涅槃耶？」答：「不依五陰法，能得涅槃。」又問：「五陰依何生？」答：「因愛生。」又問：「云何斷愛？」答：「依八正道即能斷愛。」世典聞此遠塵離垢。例皆如此。**  
+**In the Vinaya it says:** “Good at teaching and converting to the precepts, he caused [8] butchers to take the **night precepts** and adulterers to take the **day precepts**; later when they received retribution, each in day and night saw the former marks of joy (and so forth).” Moreover, a **World‑Classic** Brahmin said to five hundred Śākyas: “Can any of you debate with me?” The five hundred Śākyas said: “There is a Śākya named **Qu‑mi**, in the country he is without cunning or learning and his speech is ugly and clumsy; there is **Cūḍapanthaka**, who among those who have left home is also of the lowest rank. If you can win in debate against these two, then we will debate with you.” The World‑Classic thought: “To defeat these two is not worth esteem; if I am not their match, it would be very humiliating.” Later on the road he met Panthaka and asked: “What is your name?” He answered: “You should ask about meaning—why trouble to ask about name?” He asked again: “Can you debate meaning with me?” He answered: “I can debate with Brahmā—how much more with you, blind and without eyes?” He asked again: “Blind is without eyes; without eyes is blind—surely this is redundant.” Cūḍapanthaka then performed the eighteen transformations, and [the Brahmin] said: “This person only knows how to fly and transform; he does not understand meaning.” Kātyāyana, with the heavenly ear, heard from afar. He then hid Panthaka, manifested his own body as him, and descended from the air to ask: “What is your name?” He answered: “My name is **Man‑Husband**.” He asked again: “[1] Man is husband; husband is man—surely this is redundant?” The World‑Classic answered: “Stop! Stop! Set aside these miscellaneous debates; we can debate the profound meaning.” He asked: “Without relying on dharmas, can one obtain nirvāṇa?” He answered: “Without relying on the dharmas of the five aggregates, one can obtain nirvāṇa.” He asked again: “From what do the five aggregates arise?” He answered: “They arise from craving.” He asked again: “How does one cut off craving?” He answered: “By relying on the Eightfold Noble Path one can cut off craving.” Hearing this, the World‑Classic became far‑removed from dust and defilement. All cases are like this.  
 
-**如《長阿含》云：「有外道執斷見...外道言：『無有他世。』...又問：『我見人死不還...』答云：『如罪人被駐，寧得歸不？』...又問：『...生天，何故不歸？』答云：『如人墮廁得出，寧肯更入廁不？』...**  
-*Dirgha Agama*: A Heretic held the View of Annihilation (No Afterlife)...
-- **Heretic:** "I see people die and not return; thus no afterlife."
-- **Katyayana:** "If a criminal is imprisoned, can he return home?"
-- **Heretic:** "If they are born in Heaven, why not return?"
-- **Katyayana:** "If a man falls in a toilet and gets out, would he go back in? Also, one day in heaven is 100 years here. They haven't even settled in yet; and by the time they return, you are dead."
-- **Heretic:** "I boiled a criminal in a sealed pot/caldron; watched but saw no soul exit."
-- **Katyayana:** "When you sleep, do people see your soul leave?"
-- **Heretic:** "I weighed a dying man. If soul leaves, should be lighter. If no soul, then no afterlife."
-- **Katyayana:** "Hot iron is light; cold iron is heavy. A living body with spirit is light/supple; a dead body without spirit is heavy/stiff."
-- **Heretic:** "I cannot abandon this view."
-- **Katyayana:** "Like a man gathering hemp. First takes hemp. Then sees hemp-bark -> thread -> cloth -> silk -> silver -> gold. If you see Gold (Truth), why not abandon Hemp (Lower View)?"
+*[Critical apparatus: 屠【大】，屠者【甲】; 男即【大】，即男【甲】]*
 
-**[548] 律中云：「善能教化歸戒，令[8]屠受夜戒，婬者受晝戒...」**  
-*Vinaya*: Good at teaching Precepts. Making the Butcher take the Night Precept (kill only by day?), the Prostitute take the Day Precept.
+**[553] 約教論義者，依無常、苦、空、無我，破斷常見等，是初教論義。依空、無所有、不可得，破斷常愛見者，通教論義，故天女云：「我無所得故辯如此。」依總持四辯，觀機照假以藥逗病，破斷常見者，是別教論義相。依實相畢竟不有不無，破斷常見者，是圓教論義。**  
+**According to the Teachings, on debating meaning:** Relying on impermanence, suffering, emptiness, and non‑self to break annihilationist and eternalist views is the debate of the first teaching. Relying on emptiness, non‑possession, and non‑attainment to break annihilationist and eternalist craving‑views is the debate of the shared teaching; therefore the goddess said: “Because I have no attainment, I debate like this.” Relying on dhāraṇī and the four kinds of eloquence, observing capacities and illuminating the provisional with medicine to match the disease, to break annihilationist and eternalist views—this is the debate of the distinct teaching. Relying on real‑characteristic, ultimately neither existent nor non‑existent, to break annihilationist and eternalist views—this is the debate of the perfect teaching.
 
-**又世典婆羅門，語五百釋：「能與我論不？」...周利作十八變，即云：「此人但能飛變，更不解義。」迦旃延天耳遙聞，即隱槃特，示身如彼，從空而下問：「汝字何等？」答：「字男丈夫。」**  
-A "World Classic" Brahmin (*Shi Dian*) challenged the 500 Sakyas...
-**Cūḍapanthaka** (*Zhou Li Pan Te* - Slower Brother) performed 18 transformations. Brahmin: "He only flies; he doesn't understand meaning."
-Katyayana heard with Divine Ear. Hid Panthaka, manifested his own body as Panthaka. Descended and asked: "What is your name?"
-Brahmin: "Name is **Male/Huge Husband** (*Nan Zhang Fu*)."
-Katyayana: "Male is Husband, Husband is Male. Is this not redundant?"
-... Defeated him on the "Five Aggregates arising from Craving" and "Eightfold Path ceases Craving."
+**約本迹者，本住福德、智慧二種莊嚴，能問能答；為愍眾生，迹為五味論義師耳。**  
+**According to Origin and Trace:** In origin he abides in the two adornments of merit and wisdom, able to ask and able to answer. Out of compassion for sentient beings, in the traces he is only a teacher who debates meaning in the Five Flavors.
 
-**[553] 約教論義者...依實相畢竟不有不無，破斷常見者，是圓教論義。**  
-**Teaching Analysis of Debate (*Lun Yi*):**
-- *Tripitaka:* Relying on Impermanence/Suffering/No-Self to break Permanence/Self.
-- *Shared:* Relying on Emptiness/Ungraspable to break views.
-- *Distinct:* Relying on dharani/four eloquences, using medicine to suit the disease.
-- *Perfect:* Relying on **Real Characteristic** (Ultimately neither Existing nor Non-Existing) to break views.
+**觀心者，觀智研境，境發於智，智境往復，即觀心論義也。**  
+**Contemplation of Mind:** One contemplates wisdom investigating the object; the object gives rise to wisdom; wisdom and object go back and forth—this is contemplation‑of‑mind debate.
 
-**[559] 「阿㝹樓馱」，亦云阿那律，亦阿泥盧豆...此翻無貧，亦如意...昔於饑世，贈辟支佛稗飯，獲九十一劫果報充足，故名無貪。**  
-**Aniruddha** (*A Nou Lou Tuo*): Also **Anuruddha** (*A Na Lv*).
-- Translates as **No Poverty** (*Wu Pin*).
-- Or **As-Will** (*Ru Yi*).
-- Or **No Craving** (*Wu Lie*? *Wu Tan*).
-Long ago in a famine, gave millet rice to a Pratyekabuddha. Gained 91 eons of sufficient reward. Thus named "No Poverty."
+**[559] 「阿㝹樓馱」，亦云阿那律，亦阿泥盧豆，皆梵音奢切耳，此翻無貧，亦如意，亦無獵，名也。昔於饑世，贈辟支佛稗飯，獲九十一劫果報充足，故名無貪。**  
+**Aniruddha** is also called **Anuruddha** and **Aniludou**; these are merely transliterations of Sanskrit. This is translated as **No‑Poverty**, also **As‑Wished**, also **No‑Hunting**—names. In a time of famine he gave a pratyekabuddha millet rice, obtained retribution of sufficiency through ninety‑one kalpas; therefore he is named **No‑Greed**.
 
+**[561] 姓者，劫初大水風吹結構以成世界，光音天命盡，化生為人，身有光、飛而行，歡喜為食，無男女尊卑，眾共生中呼為眾生。自然地味，味如醍醐，色如生蘇，甜如蜜。多食失光，憔悴不能飛，少食者猶光澤，便有勝負，遂相是非，致失地味，食自然地皮。轉相輕慢，失皮食地膚。轉生諸惡，失膚食自然粳米。食米則男女根生，遂為夫婦。羞故造舍多儲取米，後米生糠𥢶，刈已不生，枯株現，更相盜奪，遂立一平能者，為田主，理諍訟，是為民主。民主有子名珍寶，珍寶有子名好味。始自民主草創之後，金輪相繼，迄至善思，從懿摩至淨飯，四世是鐵輪，合有八萬四千二百[2]一十王。**  
+**Regarding surnames:** At the beginning of the kalpa, great waters and winds congealed to form a world. When the life of the Ābhāsvara devas ended, they were transformed and born as humans; their bodies had light and they moved by flying. They took joy as food; there were no male or female, no noble or base. Among those born together, they were called **sentient beings**. The natural earth‑flavor had the taste of ghee, the color of fresh curds, and the sweetness of honey. Those who ate much lost their light, became haggard and could not fly; those who ate less still had luster. Thus there were winners and losers; they mutually criticized, and because of this they lost the earth‑flavor and ate the natural earth‑skin. Turning to mutual contempt, they lost the skin and ate the earth‑flesh. Turning to generate all evils, they lost the flesh and ate natural white rice. Eating rice, male and female organs arose; they became husband and wife. Because of shame they built houses and stored much rice. Later the rice produced husks and grains; after cutting it did not regrow; dead stalks appeared. They then stole from one another; thus they established one **Fair and Capable** person to be the field‑lord and to adjudicate disputes—this is **People’s Lord**. The People’s Lord had a son named **Jewel‑Treasure**; Jewel‑Treasure had a son named **Good‑Taste**. From the founding of the People’s Lord onward, the wheel‑turning kings continued in succession up to **Good‑Thought**. From **Okkaka** to **Suddhodana**, four generations were iron‑wheel kings; in total there were eighty‑four thousand two hundred [2] and ten kings.  
 
-### Protocol Map: Fascicle 1 (Lines 561-600)
-1.  **Origins of the Śākya Clan:**
-    -   *Cosmology:* World formed from water/wind. Beings from Abhasvara Devas descended. Lost light by eating "Earth Flavor" (*Di Wei*), then "Earth Skin," then "Natural Rice." Sexual organs appeared -> Housing built -> Theft -> Election of first King (Mahasammata - *Min Zhu*).
-    -   *Lineage:* From Mahasammata to Okkaka (*Yi Mo*). 4 Displaced Princes went to the Himalayas.
-    -   *Gautama Surnames:*
-        -   **Gautama** (*Qu Tan*): Adopted surname from a Brahmin teacher who was murdered (impaled). The teacher's blood turned into two children (Boy/Girl). *Gautama* = "Pure/Good," or "Sugarcane" (Ikshvaku). Also "Cow Dung" (*Niu Fen* - pejorative?).
-        -   **Śākya** (*Shi Jia*): "Capable" (*Neng*) or "Direct/Straight" (*Zhi*). From the "Direct Tree Forest" (*Zhi Shu Lin*) where they established the kingdom.
-    -   *Genealogy:* Simhahanu (*Shi Zi Jia*) -> Suddhodana (*Jing Fan*) and Dronodana (*Hu Fan*), etc.
-        -   Suddhodana's sons: Siddhartha and Nanda.
-        -   Dronodana's sons: Mahanama and **Aniruddha**. (Thus Aniruddha is the Buddha's cousin).
-2.  **Aniruddha (continued):**
-    -   *Blindness:* Pushed himself to stay awake for 7 days/nights (Pre-sectarian Vinaya story). Lost his eyesight ("Meat Eye").
-    -   *Deva Eye:* Buddha taught him the "Illuminating Diamond Samadhi" (*Le Yuan*?). Attained the **Deva Eye**. Can see the Trichiliocosm like a fruit in his palm. (Foremost in Deva Eye).
-    -   *Sewing:* Buddha and 800 Bhikshus helped the blind Aniruddha sew his robes.
-    -   *Teaching Analysis:*
-        -   *Tripitaka:* Deva eye from Dhyana/Matter.
-        -   *Shared:* Deva eye from Empty Wisdom.
-        -   *Distinct:* 5 Eyes sequence.
-        -   *Perfect:* Deva Eye IS Buddha Eye.
-3.  **Kapphina (*Jie Bin Na*):**
-    -   *Name:* **Room-Star** (*Fang Su* - Scorpio?). Parents prayed to the Room Star for a son.
-    -   *Conversion:* Pre-meeting the Buddha. Stayed in a Potter's shed during rain. Buddha (disguised as a monk) shared the room/grass.
-    -   *Teaching:* Buddha taught him Dharma in the shed; he attained Arhatship instantly. "Slept in the same room as the Buddha."
-    -   *Knowledge:* Foremost in **Astronomy/Astrology** (*Xing Su*). Vaisravana held a canopy over him.
-    -   *Teaching Analysis:*
-        -   *Tripitaka:* Sleeping in the "Room of Truth" (Nirvana).
-        -   *Shared:* Realizing Roots/Dust are Empty.
-        -   *Perfect:* In one room seeing all rooms/Buddhas.
+*[Critical apparatus: 一十【大】，十一【甲】]*
 
----
+**《十二遊經》云：「久遠劫有王，早失父母，以國付弟，事一婆羅門。婆羅門言：『汝當解王衣體瞿曇姓。』因而從之，時人號為小瞿曇，住甘蔗園。賊盜他物從園過，捕賊尋迹執小瞿曇，木貫射之，血流污地。大瞿曇悲哀，收血土，還園器盛，置左右呪之：『此瞿曇若誠心，天神變血為人。』逕十月，左為男，右為女，從是姓瞿曇。」瞿曇此言純淑，亦[3]名舍夷，舍夷者，貴姓也。**  
+**The *Twelve‑Wanderings Sūtra* says:** “In a long‑past kalpa there was a king; he lost his parents early and gave the kingdom to his younger brother, serving a Brahmin. The Brahmin said: ‘You should remove the royal garments and take the **Gautama** surname.’ Thus he followed him; at that time people called him **Little Gautama**, and he lived in a sugarcane grove. Thieves stole others’ goods and passed through the grove; in capturing the thieves and following their tracks, they seized Little Gautama, impaled him with a wooden stake, and his blood flowed and soiled the ground. Great Gautama grieved, gathered the blood‑earth, returned to the grove, placed it in a vessel to the left and right, and recited spells: ‘If this Gautama is sincere, may the gods transform the blood into people.’ After ten months, on the left was a male, on the right a female; from this they took the surname **Gautama**.” **Gautama** here means **pure and gentle**; it is also [3] called **Śākya**; **Śākya** means a noble surname.  
 
-**[561] 姓者，劫初大水風吹結構以成世界...眾共生中呼為眾生...遂立一平能者，為田主...是為民主。**  
-Regarding Surnames: In the beginning of the Kalpa... Abhasvara Devas descended... lost light from eating Earth Flavor... Elected a "Fair and Capable One" as Field Master, called **People's Lord** (*Mahasammata*).
+*[Critical apparatus: 名【大】，言【甲】]*
 
-**《十二遊經》云：「久遠劫有王...事一婆羅門...賊盜他物從園過，捕賊尋迹執小瞿曇，木貫射之，血流污地...天神變血為人。逕十月，左為男，右為女，從是姓瞿曇。」瞿曇此言純淑...亦[3]名舍夷...**  
-*Maha-maya Sutra* (?): A King served a Brahmin teacher named Gautama... Brahmin wrongly accused of theft, impaled on a stake. His blood turned into two humans (Boy/Girl). From this, the lineage is named **Gautama**.
-Translate *Gautama* as **Pure/Good** (*Chun Shu*). Also called *Śākya* (*Shi Yi* or *She Yi*).
+**仁賢劫初，當寶如來出世時，瞿曇識神始託生。若尋此意，民主已來即姓瞿曇，從懿摩王四子，一面光、二象食、三路指、四莊嚴，被猜徙雪山北直樹林中，國人樂從者如市，欝為彊國，父王歎曰：「我子有能。」四子因此為姓。又其地釋迦樹甚茂，此翻直林，既於林立國，即以林為姓。外國語多含，釋迦亦直、亦能，今淨飯所承，承莊嚴王後，莊嚴即是烏頭，烏頭生烏頭羅，烏頭羅生尼求羅，尼求羅生尸休羅，尸休羅即師子頰，師子頰生三飯，斛飯二子，長[4]名摩訶男，季阿那律，乃是淨飯王之姪兒，斛飯王之次子，世尊之堂弟，阿難之從兄，羅云之叔，非聊爾人也。故周公歎曰：「我是文王之子，武王之弟，成王之叔，於天下非賤人也，而沐三握，餐三吐，禮賢尚爾，況餘人乎？」**  
+**At the beginning of the Benevolent‑Worthies kalpa, when Treasure‑Tathāgata appeared in the world, the Gautama consciousness first took birth. If one traces this meaning, from the People’s Lord onward the surname is already Gautama. From King Okkaka came four sons—First **One‑Face‑Light**, Second **Elephant‑Food**, Third **Road‑Pointer**, Fourth **Adornment**. Suspected and exiled, they moved to the Straight‑Tree Forest north of the Snow Mountains. The people joyfully followed them as if to a market; it flourished into a strong kingdom. The father‑king praised them: “My sons are **capable**.” The four sons therefore took this as their surname. Moreover, the **Śākya** trees of that place were lush; this translates as **Straight Forest**. Since they established the kingdom in that forest, they took the forest as their surname. Foreign speech often includes multiple meanings; Śākya also means **straight** and also **capable**. Now the lineage of Suddhodana descends from King Adornment; Adornment is **Wutou**, Wutou begat **Wutoula**, Wutoula begat **Niqiu‑luo**, Niqiu‑luo begat **Shixiu‑luo**. Shixiu‑luo is **Siṃhahanu** (Lion‑Cheek). Siṃhahanu begat the **Three‑Rice** kings; **Hùfàn (Dronodana)** had two sons—the elder [4] named **Mahānāma**, the younger **Aniruddha**. Thus Aniruddha is the nephew of King Suddhodana, the second son of King Hùfàn, the Buddha’s paternal cousin, Ānanda’s cousin, and Rāhula’s uncle—by no means a trivial person. Therefore the Duke of Zhou sighed: “I am the son of King Wen, the younger brother of King Wu, the uncle of King Cheng. In the world I am not a low person, yet I wash my hair three times and spit out food three times to honor the worthy—how much more should I honor others?”  
 
-**從懿摩王四子...被猜徙雪山北直樹林中...父王歎曰：「我子有能。」...又其地釋迦樹甚茂，此翻直林...**  
-King Okkaka's four sons were exiled to the Himalayas, into the **Direct Tree Forest** (*Śāka Forest*). Father praised them: "My sons are **Capable** (*Śākya*)."
-Also the *Śāka* trees were lush; translates as "Direct Forest." Thus named **Śākya**.
+*[Critical apparatus: 名【大】，〔－〕【甲】]*
 
-**尸休羅即師子頰，師子頰生三飯，斛飯二子，長[4]名摩訶男，季阿那律，乃是淨飯王之姪兒...**  
-Simhahanu begat the Four Rice Kings (Suddhodana, Dronodana, etc.).
-Dronodana (*Hu Fan*) had two sons: Eldest **Mahānāma**, Youngest **Aniruddha**.
-Thus Aniruddha is Suddhodana's nephew, the World Honored One's cousin, Ananda's cousin, Rahula's uncle.
+**《賢愚經》云：「弗沙佛[5]末法時世饑饉，有支佛名利吒，行乞空鉢無獲，有一貧人[6]見而悲悼，白言：『勝士能受稗不？』即以所噉奉之。食已，作十八變。後更採稗，有兔跳抱其背，變為死人，無伴得脫。待闇還家，委地即成金人，拔指隨生，用脚更出，取之無盡。惡人、惡王欲來奪之，但見死尸，而其所覩純是金寶，九十一劫果報充足，故號無貧。其生已後，家業豐溢，日夜增益，父母欲試之，蓋空器皿往送，發看百味具足。而其門下日日常有一萬二千人，六千取[7]債，六千還直。出家已後，隨所至處人見歡喜，欲有所須，如己家無異。」**  
+**The *Xianyu Sutra* says:** “In the final dharma age of the Buddha **Puṣya**, there was a famine. There was a pratyekabuddha named **Rita**; he went begging with an empty bowl and obtained nothing. A poor man [6] saw him and was sorrowful, saying: ‘Can the worthy one accept millet?’ He then offered what he was eating. After eating, [the pratyekabuddha] performed eighteen transformations. Later [the poor man] again gathered millet; a rabbit jumped and clung to his back and transformed into a dead man—without companions he could not escape. Waiting until dark to return home, he put [the body] on the ground and it immediately became a golden man; pulling off a finger, it immediately regenerated; kicking with the foot, more came forth—taking from it was inexhaustible. Evil people and evil kings wanted to seize it; they only saw a dead corpse, but what they saw was entirely gold and jewels. Through ninety‑one kalpas the retribution was sufficient; therefore he was called **No‑Poverty**. After he was born, the family wealth overflowed and increased day and night. His parents wished to test him, covered empty vessels and sent them; when opened they found all flavors complete. At his door every day there were always twelve thousand people—six thousand taking [7] loans, six thousand repaying. After he left home, wherever he went people were happy to see him; whatever they required was as in their own home.”  
 
-**[576] 阿那律精進，七日七夜眼睫不交，眠是眼食，既七日不眠，眼則喪睛...佛令求天眼...對梵王曰：「吾見釋迦大千世界如覩掌果。」**  
-**Aniruddha's Diligence:** [Rebuked by Buddha for sleeping], he vowed not to sleep. 7 days/nights eyes did not close. Eyes went blind.
-Buddha taught him to seek the **Deva Eye**. He saw the Trichiliocosm like a fruit (*Amalaka*) in his palm. *Ekottara*: "Foremost in Deva Eye."
+*[Critical apparatus: 末法時世【大】，末世時【甲】; 見【大】，見人【甲】; 債【大】，責【甲】]*
 
-**佛與諸比丘恒為裁縫...佛自為舒張，諸比丘截者縫者，一日即成。**  
-Aniruddha couldn't sew. The Buddha and 800 Bhikshus gathered to modify/sew his three robes. The Buddha threaded the needle/spread the cloth himself. Completed in one day.
+**阿那律精進，七日七夜眼睫不交，眠是眼食，既七日不眠，眼則喪睛。失肉眼已，佛令求天眼，繫念在緣，四大淨色半頭而發，徹障內外，明闇悉覩，對梵王曰：「吾見釋迦大千世界如覩掌果。」《增一》云：「我佛法中，天眼徹視者，阿那律比丘第一。」那律既失肉眼，佛與諸比丘恒為裁縫，佛在舍衛拘薩羅窟，佛與八百比丘集，為阿那律作三衣，佛自為舒張，諸比丘截者縫者，一日即成。佛廣為說出家受衣，進止共俱，無量人得道。**  
+**Aniruddha’s diligence:** For seven days and seven nights his eyelids did not touch; sleep is food for the eyes. After seven days without sleep, his eyes were lost. After losing the flesh‑eye, the Buddha instructed him to seek the heavenly eye, fastening his mindfulness on conditions. The pure color of the four elements arose in half the head, penetrating obstructions inside and out; light and dark were all seen. He said to the Brahmā king: “I see the great thousand‑world of Śākya as if looking at a palm‑fruit.” The *Ekottara* says: “In my Buddha‑Dharma, among those whose heavenly eye sees through, the bhikṣu Aniruddha is foremost.” After Aniruddha lost the flesh‑eye, the Buddha and the bhikṣus constantly worked as tailors. The Buddha was in the Kosala cave at Śrāvastī; the Buddha and eight hundred bhikṣus gathered to make three robes for Aniruddha. The Buddha himself stretched the cloth; the bhikṣus cut and sewed; in one day it was completed. The Buddha broadly taught about leaving home and receiving robes; in walking and standing they were together, and immeasurable people attained the Way.
 
-**[584] 「劫賓那」者，此翻房宿[1](音秀)，父母禱房星感子故...是比丘初出家未見佛，始向佛所，夜值雨，寄宿陶師房中...後比丘即是佛也。共佛房宿...**  
-**Kapphina** (*Jie Bin Na*): Translates as **Room-Star** (*Fang Su* - Scorpio/Nakshatra?). Parents prayed to the Room Star for a son.
-*Conversion:* Before seeing the Buddha, slept in a **Potter's Shed** due to rain. Another monk (the Buddha in disguise) stayed there too.
-Buddha preached Dharma; he attained the Way. Thus "Sleeping in the Room [with the Buddha]" is his name origin.
-*Ekottara*: "Foremost in knowing Astrology/Stars."
+**約教者，依禪定發天眼，凡夫、外道也；依無漏事禪發天眼，三藏義。依體法無漏慧發諸行，依諸行發天眼，通教意。依散善發肉眼，依定發天眼，依真發慧眼，依俗發法眼，依中發佛眼，別教意。依實相發天眼，天眼即佛眼，圓教意。又依散善修肉眼，依定修天眼，三藏意。依空修肉眼天眼，是通意。次第修五眼，是別意。不次第修五眼，是圓意。**  
+**According to the Teachings:** Relying on dhyāna to produce the heavenly eye is the meaning of ordinary beings and heretics. Relying on undefiled action‑dhyānas to produce the heavenly eye is the Tripiṭaka meaning. Relying on the undefiled wisdom that embodies dharmas to give rise to practices, and relying on practices to give rise to the heavenly eye, is the Shared‑Teaching meaning. Relying on scattered good to give rise to the flesh‑eye, relying on concentration to give rise to the heavenly eye, relying on truth to give rise to the wisdom‑eye, relying on the conventional to give rise to the dharma‑eye, and relying on the middle to give rise to the Buddha‑eye is the Distinct‑Teaching meaning. Relying on real‑characteristic to give rise to the heavenly eye—the heavenly eye is precisely the Buddha‑eye—is the Perfect‑Teaching meaning. Again, relying on scattered good to cultivate the flesh‑eye and relying on concentration to cultivate the heavenly eye is the Tripiṭaka meaning. Relying on emptiness to cultivate the flesh‑eye and heavenly eye is the Shared‑Teaching meaning. Cultivating the five eyes sequentially is the Distinct‑Teaching meaning; cultivating the five eyes non‑sequentially is the Perfect‑Teaching meaning.
 
-**[591] 約教者...體達根塵，即共如來同宿真諦之房，是通教意...於一根塵房舍，即見一切房舍，見一切佛，即圓教意。**  
-**Teaching Analysis:**
-- *Tripitaka:* Destroying the house of Roots/Dust, sharing the "Room of Truth" with the Buddha.
-- *Shared:* Perceiving Roots/Dust as Empty is the Room.
-- *Perfect:* In one Room of Roots/Dust, seeing **All Rooms** and **All Buddhas** (Interpenetration).
+**本迹者，本住實相真天眼，不以二相見諸佛國；迹示半頭天眼。**  
+**Origin and Trace:** In origin he abides in the real‑characteristic true heavenly eye, not seeing Buddha‑lands by dual characteristics. In trace he manifests the half‑head heavenly eye.
 
-*Source: T.1718, Fascicle 1, Lines 561-600. Translation continues with line 601ff (Fascicle 2 begins).*
- 
- ---
- 
+**觀心者，觀因緣生善心，即肉眼；觀因緣生心空，即天眼；觀因緣生心假，即法眼；即中即佛眼(云云)。**  
+**Contemplation of Mind:** Contemplating dependent‑arising gives rise to a good mind—this is the flesh‑eye. Contemplating dependent‑arising gives rise to a mind of emptiness—this is the heavenly eye. Contemplating dependent‑arising gives rise to a mind of provisionality—this is the dharma‑eye. The middle is precisely the Buddha‑eye (and so forth).
+
+**「劫賓那」者，此翻房宿[1](音秀)，父母禱房星感子故，用房[2]星以名生身也。是比丘初出家未見佛，始向佛所，夜值雨，寄宿陶師房中，以草為座。晚又一比丘亦寄宿，隨後而來，前比丘即推草與之，[3]在地而坐。中夜相問：「欲何所之？」答：「覓佛。」後比丘即為說法，辭在《阿含》可撿取，豁然得道。後比丘即是佛也。共佛房宿[4](音夙)，得見法身，從得道處為名，故言劫賓那。毘沙門持蓋隨賓那後，毘沙門是宿主，主既侍奉星宿亦然。此比丘善占星宿，明識圖像，從解得名，名劫賓那。《增一阿含》云：「我佛法中，善知星宿日月者，劫賓那比丘第一。」**  
+**“Kapphina”** translates as **Room‑Star** [1] (pronounced *xiù*). His parents prayed to the Room‑Star and felt the child; they used the Room‑[2] Star to name his body. This bhikṣu, when first leaving home, had not yet seen the Buddha and began toward the Buddha. At night he encountered rain and lodged in a potter’s room, using grass as a seat. Later another bhikṣu also lodged there, coming after; the first bhikṣu pushed the grass to him and sat [3] on the ground. In the middle of the night they asked each other: “Where do you wish to go?” He answered: “To seek the Buddha.” The later bhikṣu then preached the Dharma to him; the words are found in the Āgamas and can be checked. He suddenly attained the Way. The later bhikṣu was the Buddha. He **lodged in the room** with the Buddha [4] (pronounced *sù*), obtained vision of the Dharma‑body; from the place of attaining the Way he got his name, therefore he is called **Kapphina**. Vaiśravaṇa held a canopy and followed Kapphina; Vaiśravaṇa is the lord of the lodging, and thus also serves the stars. This bhikṣu was skilled at divining the stars and clearly understood the charts; from his understanding he obtained the name, named Kapphina. The *Ekottara Āgama* says: “In my Buddha‑Dharma, among those who are good at knowing the stars and sun‑and‑moon, the bhikṣu Kapphina is foremost.”  
+
+*[Critical apparatus: 音秀【大】，〔－〕【甲】; 星【大】，宿【甲】; 在【大】，即在【甲】; 音夙【大】，〔－〕【甲】]*
+
+**約教者，析破根塵之舍，同佛棲真諦之房，是三藏意。體達根塵，即共如來同宿真諦之房，是通教意。分別十法界根塵房舍，悉得見佛，是別教意。於一根塵房舍，即見一切房舍，見一切佛，即圓教意。**  
+**According to the Teachings:** By analyzing and breaking the house of roots and dust, and dwelling with the Buddha in the room of true‑suchness, this is the Tripiṭaka meaning. Realizing the roots and dust as they are, and thus lodging together with the Tathāgata in the room of true‑suchness, is the Shared‑Teaching meaning. Discriminating the root‑and‑dust rooms of the ten dharma‑realms and seeing all Buddhas is the Distinct‑Teaching meaning. In one root‑and‑dust room, seeing all rooms and seeing all Buddhas is the Perfect‑Teaching meaning.
+
+**約本迹者，本與如來同棲實相，迹示諸房宿耳。**  
+**According to Origin and Trace:** In origin he dwells with the Tathāgata in real‑characteristic; in trace he merely manifests the various lodgings.
+
+**觀心者，觀五陰舍析空即空，與化佛同宿；觀五陰舍即假，與報佛同宿；觀五陰舍即中，與法佛同宿(云云)。[5]**  
+**Contemplation of Mind:** Contemplating the house of the five aggregates as analytically empty is emptiness, and one lodges with the transformation‑Buddha; contemplating the house of the five aggregates as provisionally existent, one lodges with the reward‑Buddha; contemplating the house of the five aggregates as the middle, one lodges with the Dharma‑Buddha (and so forth).[5]  
+
+*[Critical apparatus: 不分卷【甲】]*
+
+**妙法蓮華經文句卷第一下**  
+*Words and Phrases of the Lotus Sūtra, Fascicle One (lower).*
+
 **Navigation:**
 [Glossary](../../../../03_DOCUMENTATION/WENJU_SCHOLARLY_GLOSSARY.md) | [Next Fascicle (Fascicle 2) →](#)

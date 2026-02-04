@@ -24,6 +24,8 @@
 Spoken by the Great Master Zhizhe [Wise One] of Tiantai
 </div>
 </div>
+*[Critical apparatus: [1] 妙法蓮華經【大】，法華【甲】; [2] 上【大】，〔－〕【甲】; [3] 天台智者大師說【大】，〔－〕【甲】]*
+
 
 ### 2. The Seven and a Half Chapters (Lines 18-21)
 
@@ -71,6 +73,8 @@ Now, using **Ten Meanings** (*shí yì*), we analyze and distinguish [the nature
 10. Waiting for Time (*dài shí*) or Not Waiting for Time.
 </div>
 </div>
+*[Critical apparatus: [4] 揀【大】＊，簡【甲】＊]*
+
 
 ---
 
@@ -166,6 +170,8 @@ Following the **Correct** [focus] and abbreviating the **Secondary**, generally 
 **Kaishan** explains there are *no* Real Practice Voice-Hearers. He cites the *Śrīmālādevī Sūtra*: "Those beginning the practice of the Three Vehicles are not ignorant of the Dharma." [He argues:] If ordinary beings (*wài fán*) already know the One Vehicle, how could there be Two Vehicles who still grasp the Small Fruit?
 </div>
 </div>
+*[Critical apparatus: [1] 二【大】，第二【甲】; [1] 優【大】＊，〔－〕【甲】＊; [＊1-1] 優【大】＊，〔－〕【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -376,6 +382,8 @@ Further, the *Dharma-Teacher* chapter says: \"Bhikṣus, bhikṣuṇīs, upāsak
 As for why bodhisattvas do not \"receive understanding\": the voice-hearer teaching did not clarify attaining Buddhahood. Now that this sutra opens the road of returning to the Great, they fear their understanding might be mistaken, and therefore they state their understanding to the Buddha. Bodhisattvas are not like this, and thus they have no \"receiving understanding.\" Further, there are three intentions: (1) Bodhisattvas’ original intent is to seek Buddhahood; even if they have different attachments, those attachments are light and in the end they return to grasp Buddhahood—there is no worry of not attaining it. Now, hearing the teaching of the three cycles simply corrects their contemplative wisdom; thus they do not need to \"receive understanding.\" (2) Bodhisattvas’ awakening to the Great is found everywhere in the text; the Two Vehicles’ becoming Buddhas begins with this present teaching, and as it transmits what is essential, it therefore omits bodhisattva \"receiving understanding.\" Some Indic texts may have it; the Chinese abridges and does not write it. (3) The bodhisattva position and practice are profoundly transcendent; the newly [arisen] small bodhisattvas do not dare to receive understanding. When the *Life-span* chapter is finished, Maitreya comprehensively receives understanding: beginning from the endurance of the unproduced and ending with having one life remaining—this is complete receiving-understanding. What more should one seek (etc.)?
 </div>
 </div>
+*[Critical apparatus: [2] 胡【大】，梵【甲】]*
+
 
 ---
 
@@ -454,6 +462,8 @@ One [view] says that the **Real Practice** [Bodhisattvas] obtain benefit, while 
 **Current Clarification:** It is not so. If we reach the *Life-span* chapter, both Provisional and Real [Bodhisattvas] entirely obtain benefit. Their **Way increases** ever higher, and their **Births decrease** ever more completely. Approaching the Perfect [Result] and bordering the Ultimate, with only one life remaining—is this not the benefit of the Provisional ones?
 </div>
 </div>
+*[Critical apparatus: [3] 九【大】，第九【甲】; [4] 正【大】，止【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -606,6 +616,8 @@ Measuring the Back (Future) and looking at the Front (Past), it should be as you
 **Question:** Old interpretations take the **Five Corruptions** (*wǔ zhuó*) as obstructing the Great [Vehicle]. As previously explained in \"distinguishing by four phrases,\" some say that cutting off view-delusions together with ignorance combines to form the obstacle. They point to the *Lotus Sutra Treatise* saying: \"A person without afflictions still has defiled arrogance and does not know the One Vehicle’s dharma-body as constantly abiding\"—this is it. If, on the ground of commonality, one does not cling to nirvana and yet does not hear the Dharma, then ignorance alone is the obstacle. If so: is ignorance broken after hearing the Dharma in the Three Cycles? Or is ignorance broken before hearing the Dharma? If it is broken after hearing, then ignorance was not the obstacle. If it is broken before hearing and yet one can break ignorance, then we worry there was no obstacle at all. What is the meaning of this?
 </div>
 </div>
+*[Critical apparatus: [＊4-1] 揀【大】＊，簡【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -638,6 +650,8 @@ Although not Before or After, the Darkness is definitely the obstacle [to the Li
 \"Beginning practice\" of the Three Vehicles has two kinds: if one takes \"beginning practice\" as far in the past, then having once heard the Great [Vehicle], one is not ignorant of the Dharma. If one takes it as \"having forgotten the middle\": today learning the Small and only beginning to cultivate mindfulness foundations is \"beginning practice\"—then one does not know. That is the meaning. If one grasps this, then for the provisional, \"beginning practice\" means one can know; for the real, \"beginning practice\" means one cannot know. Some say: \"the sharp can know; the dull cannot know.\" This would correspond to four phrases: with the provisional as sharp/dull, in showing [the teaching] both cannot know; with the provisional as sharp/dull, in showing both can know; with the provisional as sharp/dull, hearing means one can know, not hearing means one does not know; with the provisional as sharp/dull, in showing both are neither knowing nor not-knowing. Now we do not take this judgment. We simply take it that those who are provisional internally clearly know long ago; those who are real practitioners have not yet entered the Great and therefore do not know—this meaning is self-evident (etc.).
 </div>
 </div>
+*[Critical apparatus: [1] 秖【大】＊，只【甲】＊; [2] 諳【大】，識【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -680,6 +694,8 @@ Concerning the First Cycle’s Dharma-Statement, the text has five parts: (1) fr
 At first there is prose and verse. The prose has three: (1) permission, (2) receiving the instruction, (3) preaching properly. The permission-text has three: (1) compliant permission, (2) admonishing permission, (3) selection-permission. “You have already requested three times” is compliant permission. “Now listen carefully” is admonishing permission. “Listen carefully” is hearing-wisdom; “think well” is thinking-wisdom; “keep it in mind” is cultivation-wisdom. The *Great Sutra* explains four wholesome dharmas as the cause for great nirvana: one is the good spiritual friend—namely, the Tathāgata; the rest can be understood accordingly.
 </div>
 </div>
+*[Critical apparatus: [＊4-2] 揀【大】＊，簡【甲】＊; [3] 是【大】，〔－〕【甲】; [4] 是【大】，此【甲】; [＊4-3] 揀【大】＊，簡【甲】＊; [＊4-4] 揀【大】＊，簡【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -756,6 +772,8 @@ Therefore, He did not stop them.
 **Answer:** Each has its reason. In the *Avataṃsaka*, only at the final seat is the gradual opened; since small attachments have not yet been broken, they remain in the assembly yet are separated [from hearing/understanding]. Now, the Buddhas’ Dharma, after a long time, is about to speak the true; it is precisely to end the provisional and break the hut, so it is appropriate to select and send them away. If, whether leaving or staying, they would both slander, then one should forcefully speak as with Joyous Root; but now their leaving is beneficial—why make them stay? Their staying would be harmful—why not send them away? Joyous Root, out of kindness, forcefully spoke; the Tathāgata, out of compassion, sends them away.
 </div>
 </div>
+*[Critical apparatus: [＊4-5] 揀【大】＊，簡【甲】＊]*
+
 
 ---
 
@@ -805,6 +823,8 @@ In the earlier passage, the pauses in the sentences were few—this is brevity o
 Praising the Dharma makes one generate reverence; declaring no error or falsehood stops their slander; opening the expedient prevents clinging to the small; showing the real makes them awaken to the great; raising the five corruptions shows that one must employ the three; selecting the false requires that one insist on the real. In the five chapters, each should possess the six meanings; yet because earlier and later passages mutually bring them forth, each chapter is not fully complete [in isolation]. This is the Tathāgata’s skillful speaking: making it brief yet without omissions, reaching the point without making the text burdensome. Moreover, the ordering of the six meanings is also not fixed (etc.).
 </div>
 </div>
+*[Critical apparatus: [＊4-6] 揀【大】＊，簡【甲】＊]*
+
 
 ---
 
@@ -863,6 +883,8 @@ Regarding “You should believe”: this exhorts belief in a Dharma with no fals
 From “according to what is appropriate, he speaks” onward is “opening expedients.” The text has three: opening, explaining, and concluding. First, it clarifies that the Buddha-path, according to three kinds of capacities, speaks expedients; therefore it says “according to what is appropriate.” Yet the Buddha’s intention lies in the real, and beings cannot understand; therefore it says “its intended purport is difficult to understand.” “Why so?” is the explanation: it raises the current Buddha’s provisional capacities to explain the Buddhas’ expedients; since their skillful wisdom is the same, we borrow this [present case] to explain that [other case]. For example, “I use innumerable expedients …” means that all Buddhas open the provisional just as I do.
 </div>
 </div>
+*[Critical apparatus: [1] 解【大】，知【甲】; [＊1-1] 秖【大】＊，只【甲】＊; [2] 引【大】，胤【甲】; [1] 矛【大】，桙【甲】; [2] 若【大】，答【甲】; [3] 來【大】，未【甲】; [4] 為【大】，為示無量義為【甲】; [1] 知【大】，〔－〕【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -899,6 +921,8 @@ Below “Why so?” the second point—stating the intent of appearing in the wo
 In the analysis of the characters: “one” means the one Real Mark; it is not five, not three, not seven, not nine—therefore it is called “one.” Its nature is broad and expansive, encompassing five, three, seven, and nine; therefore it is called “great.” It is the rite and pattern of the Buddhas’ appearing in the world; therefore it is called an “affair.” Sentient beings have this capacity that moves the Buddha; therefore it is called “cause.” The Buddha rides the capacity and responds; therefore it is called “condition.” This is the fundamental intent of appearing in the world. And the “opening of the three” is only a lure: like a person who wants to take—first one must give; although one speaks various paths, in truth it is for the One Vehicle. This is the meaning.
 </div>
 </div>
+*[Critical apparatus: [2] 體【大】，體顯【甲】; [＊1-2] 秖【大】＊，只【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1021,6 +1045,8 @@ Guangzhai says: “No pratyekabuddha and voice-hearer is ‘no two’; no one-si
 Here, “only with the one Buddha vehicle” means purely speaking the Round Teaching vehicle of the Buddha-dharma. “No other vehicles” means there is no Distinct Teaching with expedient “with-remainder” sayings. “No two” means there is no “with-two” in the *Prajñā*. “No three” means there is no “facing-three” in the Vaipulya. If these two and three are absent, how much more so the three vehicles of the Tripiṭaka?
 </div>
 </div>
+*[Critical apparatus: [＊1-3] 秖【大】＊，只【甲】＊; [＊1-4] 秖【大】＊，只【甲】＊]*
+
 
 ---
 
@@ -1036,6 +1062,8 @@ The *Bodhisattva Yingluo Sutra* (fascicle 13) clarifies “nine world-ages Buddh
 From the chapter on past Buddhas, here one should have six meanings, but only two are brought forth: (1) opening expedients, (2) revealing the real. Two point upward; two point downward. “With immeasurable innumerable expedients …” clarifies opening the provisional; “these dharmas are all for the sake of the one Buddha vehicle” clarifies revealing the real. Analogously, above: the one Buddha vehicle is teaching-one. “Having heard the Dharma from the Buddhas”: although they have heard the Dharma, the Dharma is for sentient beings, and thus person-one is also obtained. “Ultimately all attain all-kinds wisdom”: what all-kinds wisdom knows is principle-one; the knower is practice-one. Though not in strict sequence, the four ones are all fully present.
 </div>
 </div>
+*[Critical apparatus: [1] 結【大】，結成諸佛四一文也【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1054,6 +1082,8 @@ From the “future Buddhas” chapter there are also two meanings: it points upw
 From the “present Buddhas” gate, it is precisely the transforming leader. First, it states the intent of Buddhas appearing: just as in the chapters on the Buddhas, they appear in the world only for the great affair’s causes and conditions, so here too it is only to benefit and comfort sentient beings that they appear in the world. Next, it opens the provisional; next, it reveals the real; and it again contains the four ones. [2]
 </div>
 </div>
+*[Critical apparatus: [2] 不分卷【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">

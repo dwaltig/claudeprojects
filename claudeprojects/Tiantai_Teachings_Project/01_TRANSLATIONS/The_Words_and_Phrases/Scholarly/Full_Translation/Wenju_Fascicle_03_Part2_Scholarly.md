@@ -14,38 +14,14 @@
 
 **Spoken by the Tiantai Great Master Zhizhe.**
 
-## TIANTAI TRANSLATION PROTOCOL (STRICT)
-
-**Objective:** Produce a complete, un-summarized translation.
-
-**Rules:**
-1. **No-Omission Rule:** Forbidden from omitting "repetitive" arguments, nested logic, or archaic references. The structure IS the meditation.
-2. **Format Preservation:** Translate EVERY 問曰/答曰 exchange in full. No bulleted summaries.
-3. **Technical Integrity:** Retain logical markers (卽, 以此文意, 若...則...). Do not modernize.
-4. **Bilingual Output:** Chinese passage → English. Every phrase accounted for.
-5. **Structural Map First:** List topics/arguments before translating.
-6. **Footnotes:** Scholarly footnotes for all technical terms, proper names, scriptural references, allusions.
-
----
-
-## Structural Map: The Dialectic of Conveniences (Lines 195-End)
-
-1.  **The Fourth Lemma**: Non-Provisional, Non-Real (非權非實).
-2.	**The Tenfold Expansion of Power/Real (Convenience/Truth)**:
-    *   **The List**: 1. Matter/Principle, 2. Principle/Teaching, 3. Teaching/Practice, 4. Bondage/Liberation, 5. Cause/Effect, 6. Essence/Function, 7. Gradual/Sudden, 8. Opening/Closing, 9. General/Specific, 10. Siddhāntas.
-    *   **Origination**: How these pairs arise from the "Boundless Base".
-    *   **Detailed Explanation**: Definitions of each pair.
-3.  **Citation & Verification**: Citing the text to prove these 10 pairs exist.
-4.  **Conclusion**: Summary of the 10 pairs as "Three Types of Power/Real" (Self-Practice, Converting Others, Dual).
-
----
-
 ## Translation: Fascicle 3, Part 2
 
 ### 1. The Fourth Lemma: Non-Provisional, Non-Real
 
 **一切法非權非實者，文云：「非如非異」又云：「亦復不行上中下法，有為無為、實不實法，非虛非實如實相也。」**
 **"All dharmas are neither provisional nor real," as the text states: "It is neither like nor different." And again: "It also does not practice superior, medium, or inferior dharmas, conditioned or unconditioned, real or unreal dharmas; it is neither empty nor real, but like the Real Mark [Reality itself]."**
+*[Critical apparatus: [2] 不分卷【甲】]*
+
 
 **若一切法皆權，何所不破？**
 **If [one argues that] all dharmas are provisional, what is not destroyed [by this view]?**
@@ -90,7 +66,7 @@
 
 ### 2. The Tenfold Expansion of Power/Real (Convenience/Truth)
 
-**今就有權有實句更開十法，**
+**今就有權有實句更開十法，[^13]**
 **Now, regarding the phrase "having provisionality and having reality," we further open up ten [pairs of] dharmas.**
 
 **就十法中，為八番解釋：**
@@ -131,7 +107,7 @@
 **由脫故成因果，**
 **Due to Liberation, Cause and Effect (*Yin-Guo*) are completed.**
 
-**由果故體顯能用，**
+**由果故體顯[^14]能用，**
 **Due to the Effect [Result], the Essence is revealed and executes Function (*Ti-Yong*).**
 
 **故有漸頓之化，**
@@ -150,6 +126,8 @@
 
 **三、解釋者，理是真如，真如本淨，有佛無佛常不變易故，名理為實；**
 **3. Explanation:**
+*[Critical apparatus: [4] 為【大】，〔－〕【甲】; [1] 檀【大】，〔－〕【甲】]*
+
 ***   Matter/Principle: "Principle" is *Tathātā* (True Suchness). True Suchness is originally pure; whether there are Buddhas or no Buddhas, it remains eternally unchanging. Thus, we name Principle as Real.**
 
 **事是心意識等，起淨、不淨業，改動不定故，名事為權。**
@@ -158,7 +136,7 @@
 **若非理無以立事，非事不能顯理，事有顯理之功，是故殷勤稱歎方便。**
 **If not for Principle, there is no way to establish Matter; if not for Matter, one cannot reveal Principle. Matter has the merit of revealing Principle; therefore, [the Buddha] earnestly praises Expedient Means (*Upāya*/Convenience).**
 
-**理教者，總前理事皆名為理，例如真俗俱稱為諦，**
+**理教者，總前理事皆名為理，例如真俗俱稱[^15]為諦，**
 **Principle/Teaching: Summarizing the previous Matter and Principle, both are [here] named "Principle." For example, both the Real and Secular are called "Truths" (*Satya*).**
 
 **諸佛體之而得成聖，聖者正實也，**
@@ -236,7 +214,7 @@
 **若無半益不得會常，半有顯滿之功，故稱歎方便。**
 **If not for the "Half" benefit, one could not meet the "Permanent." The "Half" has the merit of revealing the "Full"; therefore, [He] praises Expedient Means.**
 
-**四悉檀者，三是世間是故為權，第一義是出世是故為實。**
+**四悉[^16]檀者，三是世間是故為權，第一義是出世是故為實。**
 **Four Siddhāntas: The [first] three are worldly, therefore they are Provisional. The Primary Meaning (*Paramārtha*) is world-transcending, therefore it is Real.**
 
 **非世不得出世，由三悉檀得第一義，是故如來稱歎方便。**
@@ -249,6 +227,8 @@
 
 **四引證者，此十義通大小教，亘一切法，且引今經「不如三界見於三界」，**
 **4. Citation of Proof: These ten meanings pervasively cover the Great and Small Teachings, spanning all dharmas. We tentatively cite this sutra: "Not seeing the Three Realms as the Three Realms [are usually seen]"—**
+*[Critical apparatus: [2] 已下斷缺【甲】]*
+
 
 **三界者是事，不如三界見者理也；**
 **"The Three Realms" is Matter (*Shi*). "Not seeing the Three Realms [as such]" is Principle (*Li*).**
@@ -295,7 +275,7 @@
 **「種種因緣譬喻，至令離諸著」，即是漸頓論權實。**
 **"By various causes, conditions, and similes [expounding the Dharma]" up to "causing them to detach from various attachments"—this discusses Power/Real via Gradual/Sudden.**
 
-**所以者何？「如來方便知見皆已具足」，即是開合論權實；**
+**[^17]所以者何？「如來方便知見皆已具足」，即是開合論權實；**
 **Why? "The Tathāgata's expedient knowledge and vision are all already complete"—this discusses Power/Real via Opening/Closing.**
 
 **「諸佛為大事因緣故出現於世，為令眾生開示悟入佛之知見故」者，是為利益論權實。**
@@ -513,6 +493,8 @@
 
 **○從此品下，訖〈分別功德品〉十九行偈，或至偈後現在四信弟子文盡，名為正說分。**
 **From this chapter down to the 19 verses of the *Distinctions in Merit Chapter*, or up to the end of the text on the "Four Faiths of Disciples in the Present," is named the Main Discourse Division (*Zhengshuo Fen*).**
+*[Critical apparatus: [A1] 從【CB】，縱【大】]*
+
 
 **若作兩正說，從此下訖〈授學無學人記品〉，是迹門正說。**
 **If making "Two Main Discourses" [Trace and Origin], then from here down to the *Prophecies for Learners and Adepts Chapter* is the Trace Gate Main Discourse.**
@@ -823,6 +805,8 @@
 
 **從「舍利弗如來能種種分別」下，舊將結成前權實；今用起後將欲絕言，更舉權實為絕歎之由。**
 **From "Sariputra, the Tathāgata is able to make various distinctions" Old interpretations take this to conclude the previous Power/Real. Now we use it to start the later section; intending to Transcend Words (*Jueyan*), we again bring up Power/Real as the cause for the "Praise Transcending Words."**
+*[Critical apparatus: [A2] 莫【CB】，茣【大】(cf. X30n0600_p0043c12)]*
+
 
 **文為二：初、舉絕歎之由；次、指絕言之境。**
 **The text has two parts: first, raising the basis for the praise that transcends words; second, pointing to the realm that transcends words.**
@@ -1505,6 +1489,16 @@ Common shorthand for the *Saddharmapuṇḍarīkopadeśa* (妙法蓮華經優波
 
 [^12]: **Great Sutra and Mahāyānasaṃgraha**:
 "Great Sutra" (大經) commonly refers to the *Mahāparinirvāṇa Sūtra* in Tiantai usage. The *Mahāyānasaṃgraha* (攝大乘論) is a Yogācāra treatise attributed to Asaṅga.
+
+[^13]: *Critical apparatus: 不分卷【甲】 — "Does not divide fascicles." This note indicates that the Jiaxing edition (甲) does not divide the text into upper/lower fascicles at this point, unlike the Taishō edition (大) which marks "Fascicle Three Lower" (卷第三下) here. The Taishō structure with subdivisions is standard in modern critical editions.*
+
+[^14]: *Critical apparatus: 能【大】，體【甲】 — "Neng/Ti." Taishō: 體顯能用 (ti xian neng yong, "essence reveals and executes function"); Jiaxing: 體顯體用 (ti xian ti yong, "essence reveals essence-function"). The character 能 (neng, "able/to execute") vs. 體 (ti, "essence/substance"). The Taishō reading 能用 ("executes function") is preferred as it maintains the logical flow from essence (體) manifesting in active function (能用), whereas repeating 體 would be redundant.*
+
+[^15]: *Critical apparatus: 為【大】，〔－〕【甲】 — "Wei/omitted." Taishō: 俱稱為諦 (ju cheng wei di, "both are called truths"); Jiaxing omits 為, reading 俱稱諦. The character 為 (wei, "as/to be called") serves as a copula. Both readings are grammatically acceptable; the Taishō form is slightly more explicit.*
+
+[^16]: *Critical apparatus: 檀【大】，〔－〕【甲】 — "Tan/omitted." Taishō: 四悉檀 (si xitan, full transliteration); Jiaxing omits 檀, reading 四悉. This refers to the Four Siddhāntas (catvāri-satya-siddhānta), a core hermeneutical framework. The full transliteration 悉檀 (xitan) from Sanskrit siddhānta ("established conclusion") is standard. The Jiaxing abbreviation to 悉 alone is irregular; the Taishō form is correct.*
+
+[^17]: *Critical apparatus: 已下斷缺【甲】 — "Text below is broken/missing." This note indicates that the Jiaxing edition has a textual lacuna from this point forward (已下, "below this point"; 斷缺, "broken and missing"). The Taishō text continues without interruption. This is a significant manuscript defect in the Jiaxing line, making the Taishō the primary witness for the remainder of this section.*
 
 ---
 

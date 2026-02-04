@@ -20,14 +20,11 @@
 
 ## 13. MAITREYA'S VERSES
 
-### [OVERVIEW: WHY MAITREYA ASKS]
-The *Introduction Chapter* serves as the narrative frame for the entire Sutra. The dramatic tension is built through **Doubts (*Yí*)**. The Great Assembly witnesses the Six Omens (Flowers, Earth Shaking, Light, etc.) but does not understand their cause. **Maitreya**, the Future Buddha, acts as the representative doubter. He asks **Manjuśrī**, the Past Buddha (teacher of seven Buddhas), who acts as the historical authority. This dialogue between the **Future** (Action/Capacity) and the **Past** (Wisdom/Authority) establishes the continuity of the **One Great Matter** across all time.
-
-### [GENERAL ANALYSIS OF VERSES]
-
 **從「爾時彌勒欲自決疑」下訖偈，即是發問序，文為二：長行、偈頌。**
 
-**From "At that time Maitreya wished to resolve his doubts" down to the end of the verses, this is the **Preface of Asking Questions** (*Fā Wèn Xù*). The text has two parts: Prose and Verses.**
+**From "At that time Maitreya wished to resolve his doubts" down to the end of the verses, this is the **Preface of Asking Questions** (*Fā Wèn Xù*). The text has two parts: Prose and Verses.[^15]**
+*[Critical apparatus: 不分卷【甲】]*
+
 
 ---
 
@@ -39,7 +36,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **問中此土、他土如文，何意有偈頌耶？**
 
-**In the questioning, [the doubts regarding] This Land and That Land are as in the text. Why is there a Verse Section (*Gāthā*)?**
+**In the questioning,[^16] [the doubts regarding] This Land and That Land are as in the text. Why is there a Verse Section (*Gāthā*)?**
+*[Critical apparatus: 問【大】，〔－〕【甲】]*
+
 
 ---
 
@@ -81,7 +80,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **就問為兩：前四行，問此土；後五十行，問他土。**
 
-**Regarding the **Questioning**, there are two parts: The first four lines ask about **This Land**; the latter fifty lines ask about **That [Other] Land**.**
+**Regarding the **Questioning**,[^17] there are two[^18] parts: The first four lines ask about **This Land**; the latter fifty lines ask about **That [Other] Land**.**
+*[Critical apparatus: 問【大】，答問【甲】; 兩【大】，二【甲】]*
+
 
 ---
 
@@ -141,7 +142,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **「眉間光」下，次有五十行，頌問他土六瑞，**
 
-**From "Brow Light" downwards, next there are fifty lines [of verse] that versify the questions about the Six Omens of Other Lands.**
+**From "Brow Light"[^19] downwards, next there are fifty lines [of verse] that versify the questions about the Six Omens of Other Lands.**
+*[Critical apparatus: 光【大】，光明【甲】]*
+
 
 **舊云：「頌中不問三乘四眾，不問佛涅槃。今教廢三，那忽問三？方說壽量，那問滅度？於義不便故不問也。」**
 
@@ -173,11 +176,15 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **次、三十一行半，問他土修菩薩行；**
 
-**Next: thirty-one and a half lines ask about cultivating Bodhisattva practices in Other Lands.**
+**Next:[^20] thirty-one and a half lines ask about cultivating Bodhisattva practices in Other Lands.**
+*[Critical apparatus: 次【大】，五【甲】]*
+
 
 **次、七行問供養舍利，即是問佛涅槃也。**
 
-**Next: seven lines ask about offerings to relics; this is precisely asking about the Buddha's Nirvana.**
+**Next:[^21] seven lines ask about offerings to relics; this is precisely asking about the Buddha's Nirvana.**
+*[Critical apparatus: 次【大】，六【甲】]*
+
 
 ---
 
@@ -198,6 +205,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **從「又覩諸佛」下，第二四行問見彼佛土，直見佛說法，此廣明說法之相，謂說頓教逗大根性，聖主師子即如此土現盧舍那像也。**
 
 **From "Also seeing the Buddhas" downwards, the second part (4 lines) asks about Seeing those Buddha Lands and directly Seeing the Buddhas Expound Dharma. This broadly clarifies the marks of expounding Dharma, meaning expounding the **Sudden Teaching** (*Dùn Jiào*) to meet the **Great Root Nature** (*Dà Gēn Xìng*). "Sage Lord Lions" is like **This Land** manifesting the image of **Vairocana** (*Lúshěnuó*)[^3].**
+*[Critical apparatus: [9] 佛【大】，諸佛【甲】; [10] 生【大】，生者【甲】]*
+
 
 **「演說經法微妙第一」者，即如此土先照高山演華嚴教也。**
 
@@ -208,7 +217,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **"Teaching various Bodhisattvas" is like **This Land**'s[^4] **Seven Locations and Nine Assemblies** (*Qī Chù Jiǔ Huì*), where there are no Śrāvaka people.**
 **「照明佛法，開悟眾生」者，即如此土始見佛身，入如來慧也。**
 
-**"Illuminating Buddha Dharmas, opening and awakening sentient beings" is like **This Land** beginning to see the Buddha Body and entering the Tathāgata Wisdom.**
+**"Illuminating Buddha Dharmas,[^22] opening and awakening sentient beings"[^23] is like **This Land** beginning to see the Buddha Body and entering the Tathāgata Wisdom.**
+*[Critical apparatus: 佛【大】，諸佛【甲】; 生【大】，生者【甲】]*
+
 
 ---
 
@@ -217,6 +228,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **「若人遭苦」下，第三三行問彼土四眾，即是頓說之後，次明三藏教也。**
 
 **From "If persons encounter suffering" downwards, the third part (3 lines) asks about the Four Assemblies of That Land. This is after the Sudden Preaching, next clarifying the **Tripiṭaka Teaching** (*Sānzàng Jiào*).**
+*[Critical apparatus: [1] 人【大】，〔－〕【甲】; [2] 供【大】，供養【甲】; [3] 故【大】，佛故【甲】]*
+
 
 **「若人遭苦」者，開聲聞乘也，此頌具明四諦，在文分明(云云)。**
 
@@ -224,7 +237,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **若人遭苦而造惡業，苦不得盡，底下眾生是也；若人遭苦而造善業，苦亦不盡，厭下攀上，如難陀為欲故持戒等是也；**
 
-**If persons encounter suffering and create evil karma, suffering cannot be exhausted—these are the "Bottom" sentient beings. If persons encounter suffering and create good karma, suffering is also not exhausted; they loathe the lower and climb to the higher [heavens], like Nanda holding precepts for the sake of desire.**
+**If persons encounter suffering and create evil karma, suffering cannot be exhausted—these are the "Bottom" sentient beings. If persons[^24] encounter suffering and create good karma, suffering is also not exhausted; they loathe the lower and climb to the higher [heavens], like Nanda holding precepts for the sake of desire.**
+*[Critical apparatus: 人【大】，〔－〕【甲】]*
+
 
 **若人遭苦，於外道法中求解脫，增見長非者，苦亦不盡；**
 
@@ -236,7 +251,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **「若人有福」下一行，是開中乘也，若供養佛少，遭苦致惱；若供佛多，雖遭苦而福，故云聲聞三生種福，支佛百劫種福，形彼聲聞故言有福。**
 
-**From "If a person has blessings"—the next single line—this opens the Middle Vehicle. If one makes few offerings to a Buddha, one encounters suffering and is afflicted. If one makes many offerings to a Buddha, although one encounters suffering one has blessings. Therefore it says: a śrāvaka plants blessings over three lifetimes; a pratyekabuddha plants blessings over a hundred kalpas. In comparison with those śrāvakas, therefore it says "has blessings."**
+**From "If a person has blessings"—the next single line—this opens the Middle Vehicle. If one makes few offerings to a Buddha, one encounters suffering and is afflicted. If one makes many[^25] offerings to a Buddha, although one encounters suffering one has blessings. Therefore it says: a śrāvaka plants blessings over three lifetimes; a pratyekabuddha plants blessings over a hundred kalpas. In comparison with those śrāvakas, therefore it says "has blessings."**
+*[Critical apparatus: 供【大】，供養【甲】]*
+
 
 **「志求勝法」者，聲聞厭苦而修行，支佛求道故修行，深求緣起勝妙之理，即是他土開中乘也。**
 
@@ -244,7 +261,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **「若有佛子」下，是開六度大乘也，真慈悲能紹佛種故言佛子，修於六度故言種種行，志求故言無上慧，六度中無六蔽，如藥中無病故言淨道，非畢竟淨也。**
 
-**From "If there are Buddha-sons" downwards, this opens the Mahāyāna of the Six Pāramitās. True compassion can continue the Buddha-seed, therefore they are called "Buddha-sons." They cultivate the Six Pāramitās, therefore it says "various practices." Because they aspire and seek, therefore it says "unsurpassed wisdom." Within the Six Pāramitās there are no six hindrances; like medicine that contains no disease, therefore it is called the "pure path"—it is not ultimately pure.**
+**From "If there are Buddha-sons" downwards, this opens the Mahāyāna of the Six Pāramitās. True compassion can continue the Buddha-seed, therefore they are called "Buddha-sons." They cultivate the Six Pāramitās, therefore it says "various practices." Because they aspire and seek,[^26] therefore it says "unsurpassed wisdom." Within the Six Pāramitās there are no six hindrances; like medicine that contains no disease, therefore it is called the "pure path"—it is not ultimately pure.**
+*[Critical apparatus: 故【大】，佛故【甲】]*
+
 
 **又聲聞苦諦為觀門，緣覺集諦為門，六度菩薩道諦為門，故言淨道。**
 
@@ -254,9 +273,11 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 ### 4. CONCLUDING & OPENING
 
-**「文殊我住」下，第四有一行半結前開後。「見聞若斯」，即是結前，「如是眾多」，即是開後。**
+**「文殊[^27]我住」下，第四有[^28]一行半結前開後。「見聞若斯」，即是結前，「如是眾多」，即是開後。**
 
-**From "Manjuśrī, I abide/see" downwards, the fourth part (1.5 lines) concludes the previous and opens the subsequent. "Seeing and hearing like this" concludes the previous. "Thus vast and many" opens the subsequent.**
+**From "Manjuśrī, I abide/see" downwards, the fourth part (1.5 lines) concludes the previous and opens the subsequent.[^27][^28] "Seeing and hearing like this" concludes the previous. "Thus vast and many" opens the subsequent.**
+
+*[Critical apparatus: [4] 文殊【大】，次文殊師利【甲】; [5] 有【大】＊，〔－〕【甲】＊]*
 
 ---
 
@@ -265,14 +286,16 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **「我見彼土」下，第五有三十一行半，問他土菩薩種種修行。**
 
 **From "I see that land" downwards, the fifth part has thirty-one and a half lines, asking about the various practices cultivated by bodhisattvas in that other land.**
+*[Critical apparatus: [6] 第【大】，〔－〕【甲】; [7] 目【大】，眼【甲】; [8] 一行【大】，〔－〕【甲】; [9] 也【大】，〔－〕【甲】]*
+
 
 **就此為三：初、一行總問，次、十五行次第問，次、十五行半雜問。**
 
 **Regarding this [Part 5: 31.5 lines], there are three parts: 1. One line of General Questioning; 2. Fifteen lines of **Sequential Questioning**; 3. Fifteen and a half lines of **Mixed Questioning**.**
 
-**初總問可解。「或有行施」下，第二有十五行次第問，中為六：初、六行問檀，二、二行問尸，三、一行問忍，四、一行問進，五、二行問禪，六、三行問慧。**
+**初總問可解。「或有行施」下，第[^29]二有十五行次第問，中為六：初、六行問檀，二、二行問尸，三、一行問忍，四、一行問進，五、二行問禪，六、三行問慧。**
 
-**The initial General Question is understandable. From "Some perform giving (*Dāna*)" downwards, the second part (15 lines of Sequential Questioning) has six sections: 1. Six lines ask Dāna (Giving); 2. Two lines ask Śīla (Precepts); 3. One line asks Kṣānti (Patience); 4. One line asks Vīrya (Exertion); 5. Two lines ask Dhyāna (Meditation); 6. Three lines ask Prajñā (Wisdom).**
+**The initial General Question is understandable. From "Some perform giving (*Dāna*)" downwards, the second part (15 lines of Sequential Questioning) has six sections:[^29] 1. Six lines ask Dāna (Giving); 2. Two lines ask Śīla (Precepts); 3. One line asks Kṣānti (Patience); 4. One line asks Vīrya (Exertion); 5. Two lines ask Dhyāna (Meditation); 6. Three lines ask Prajñā (Wisdom).**
 
 ### [SEQUENTIAL QUESTIONING: THE SIX PĀRAMITĀS]
 
@@ -280,9 +303,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **Regarding Asking Dāna (Giving), there are three meanings: 1. First 4 lines ask Giving Wealth; 2. One line asks Giving Body; 3. One line asks Giving Life.**
 
-**珍寶奴婢，貴賤共能此施；駟馬寶車，豪俠者所施；妻子等是外身，身肉等是內身，捨頭目即捨命。**
+**珍寶奴婢，貴賤共能此施；駟馬寶車，豪俠者所施；妻子等是外身，身肉等是內身，捨頭目[^30]即捨命。**
 
-**Jewels and slaves—both noble and base can perform this giving. Four-horse chariots—only the heroic/wealthy give these. Wife and children are the **External Body**. Body and flesh are the **Internal Body**. Giving head and eyes is **Giving Life**.**
+**Jewels and slaves—both noble and base can perform this giving. Four-horse chariots—only the heroic/wealthy give these. Wife and children are the **External Body**. Body and flesh are the **Internal Body**. Giving head and eyes is **Giving Life**.[^30]**
 
 **而不言法施者，讓後般若也。又約身、命、財與生死後際等得不壞常住，即是法施，故不別說也。**
 
@@ -331,9 +354,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **Commoners have only Five Superknowledges. Two Vehicles possess Six. Distinct Teaching Bodhisattvas defer to the Buddha regarding "Outflows/No-Outflows," so they also claim only Five. The Perfect Teaching from beginning to end possesses Six.[^6]**
 
-**「安禪萬偈」下，第二一行明上上禪，此是別、圓之禪，靜散不相妨，不起滅定現諸威儀，如修羅琴不拊而韻，無緣無念有感則形，故能安禪讚佛也。**
+**「安禪萬偈」下，第二一行[^31]明上上禪，此是別、圓之禪，靜散不相妨，不起滅定現諸威儀，如修羅琴不拊而韻，無緣無念有感則形，故能安禪讚佛也。**
 
-**From "Peaceful Dhyāna, ten thousand verses" downwards, the second line illuminates **Highest Dhyāna**. This is the Dhyāna of Distinct and Perfect Teachings. Quietude and Scattering do not obstruct each other. "Without arising from Extinction Samādhi, he manifests various dignities." Like the Asura's Harp playing without being strummed; without condition or thought, if there is a response, it takes form. Thus he can praise the Buddha while in Peaceful Dhyāna.**
+**From "Peaceful Dhyāna, ten thousand verses" downwards, the second line illuminates **Highest Dhyāna**.[^31] This is the Dhyāna of Distinct and Perfect Teachings. Quietude and Scattering do not obstruct each other. "Without arising from Extinction Samādhi, he manifests various dignities." Like the Asura's Harp playing without being strummed; without condition or thought, if there is a response, it takes form. Thus he can praise the Buddha while in Peaceful Dhyāna.**
 
 ---
 
@@ -341,9 +364,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **From "Also seeing Wisdom Deep" downwards, the sixth part (3 lines) asks about **Prajñā** (Wisdom). It has two parts: The first line is **Self-Practice**. "Wisdom Deep" means Wisdom exhausts the Root of Principle. "Will Firm" means Vows are vast and great. This is the **Two kinds of Adornment** (Wisdom & Merit); able to ask and able to hold.**
 
-**「又見佛子定慧」下，次兩行是化他也，未到慧多，無色定多，四禪等。**
+**「又見佛子定慧」下，次兩行是化他也[^32]，未到慧多，無色定多，四禪等。**
 
-**From "Also seeing Buddha Sons, Samādhi and Wisdom..." downwards, the next two lines are **Transforming Others**. In Not-Yet-Arrived (*Wèi Dào*) Dhyāna, Wisdom is greater. In Formless (*Wú Sè*) Dhyāna, Samādhi is greater. In the Four Dhyānas, [Samādhi and Wisdom] are equal.**
+**From "Also seeing Buddha Sons, Samādhi and Wisdom..." downwards, the next two lines are **Transforming Others**.[^32] In Not-Yet-Arrived (*Wèi Dào*) Dhyāna, Wisdom is greater. In Formless (*Wú Sè*) Dhyāna, Samādhi is greater. In the Four Dhyānas, [Samādhi and Wisdom] are equal.**
 
 **又背捨慧多，九定定多，十一切中等。又二乘定多，菩薩慧多，佛則等。又空觀定多，假觀慧多，中觀則等。**
 
@@ -443,6 +466,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **「文殊師利又有菩薩」下，第六有七行，明佛滅後以舍利起塔者，正頌上他土佛出五濁，從無相一法開漸、頓教，故有二法、三道種種行類相貌不同，如上所見也。**
 
 **From "Manjuśrī, there are also Bodhisattvas" downwards, the sixth part (7 lines) clarifies raising Stupas for Relics after the Buddha's Extinction. This praises [recounts] the fact that the Buddha of that Land appeared in the Five Turbidities, opened Gradual and Sudden Teachings from the One Markless Dharma, hence there are Two Dharmas, Three Paths, and various different marks of practice as seen above.**
+*[Critical apparatus: [1] 兕【大】＊，光【甲】＊; [＊1-1] 兕【大】＊，光【甲】＊]*
+
 
 **今見他土佛般涅槃，佛子慕德為樹墳塔，即表無量悉歸入一、一出無量。**
 
@@ -484,9 +509,9 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 
 **"Latent Difficulties" means Manjuśrī internally constructs difficulties and is unwilling to answer immediately. His intent has three points: 1. This Omen is rare and strange; one cannot hastily judge it lightly. 2. The wise assembly is like an ocean; he modestly pushes high [defers to Buddha]. 3. Holding back to generate thirst/admiration in the assembly. Thus he uses Latent Difficulties to subtly refuse.**
 
-**彌勒彰灼，釋難意亦有三：一、瑞大疑大，若不為釋，憂兕在懷妨聞正說；二、眾海乃多機在仁者；三、闔眾瞻仁，故知注誠殷重，所以彰言釋難，請令時答。**
+**彌勒彰灼，釋難意亦有三：一、瑞大疑大，若不為釋，憂兕[^33]在懷妨聞正說；二、眾海乃多機在仁者；三、闔眾瞻仁，故知注誠殷重，所以彰言釋難，請令時答。**
 
-**Maitreya is explicit/burning (*Zhāng Zhuó*); his intent in explaining the difficulties also has three points: 1. The Omen is Great, Doubt is Great; if not explained, the "Worried Rhinoceros" (*Yōu Sì*) in the chest will obstruct hearing the True Preaching. 2. Although the Ocean Assembly is many, the Catalyst is in the Benevolent One [Manjuśrī]. 3. The whole assembly looks to the Benevolent One, knowing their sincerity is heavy. Therefore he explicitly explains the difficulties and requests a timely answer.**
+**Maitreya is explicit/burning (*Zhāng Zhuó*); his intent in explaining the difficulties also has three points: 1. The Omen is Great, Doubt is Great; if not explained, the "Worried Rhinoceros" (*Yōu Sì*)[^33] in the chest will obstruct hearing the True Preaching. 2. Although the Ocean Assembly is many, the Catalyst is in the Benevolent One [Manjuśrī]. 3. The whole assembly looks to the Benevolent One, knowing their sincerity is heavy. Therefore he explicitly explains the difficulties and requests a timely answer.**
 
 **初伏難者，因正請生，請云「佛子文殊願決眾疑」，文殊仍此起初伏難，汝云眾疑，眾未曾疑，若疑應問；眾既不疑，我何所決？**
 
@@ -531,10 +556,12 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **從「是時文殊師利語彌勒」下訖偈，名答問序，有長行偈頌。**
 
 **From "At that time Manjuśrī said to Maitreya" down to the end of the verses is called the **Preface of Answering Questions**. It has prose and verses.**
+*[Critical apparatus: [2] 從【大】，從諸【甲】]*
 
-**長行文為四：一、從「語彌勒」下，名惟忖答；二、從「善男子我於過去」下，名略曾見答；三、從「諸善男子如過去」下，名廣曾見答；四、從「今見此瑞與本無異」下，名分明判答。**
 
-**The prose has four parts: (1) from "said to Maitreya" downwards, called the **Thinking-and-Measuring Answer** (*Wéi Cǔn Dá*); (2) from "Good men, in the past..." downwards, called the **Brief Past-Seeing Answer** (*Luè Céng Jiàn Dá*); (3) from "All good men, as in the past..." downwards, called the **Broad Past-Seeing Answer** (*Guǎng Céng Jiàn Dá*); (4) from "Now seeing this omen is no different from the root..." downwards, called the **Clearly Judging Answer** (*Fēnmíng Pàn Dá*).**
+**長行文為四：一、從[^34]「語彌勒」下，名惟忖答；二、從「善男子我於過去」下，名略曾見答；三、從「諸善男子如過去」下，名廣曾見答；四、從「今見此瑞與本無異」下，名分明判答。**
+
+**The prose has four parts: (1) from "said to Maitreya" downwards, called the **Thinking-and-Measuring Answer** (*Wéi Cǔn Dá*);[^34] (2) from "Good men, in the past..." downwards, called the **Brief Past-Seeing Answer** (*Luè Céng Jiàn Dá*); (3) from "All good men, as in the past..." downwards, called the **Broad Past-Seeing Answer** (*Guǎng Céng Jiàn Dá*); (4) from "Now seeing this omen is no different from the root..." downwards, called the **Clearly Judging Answer** (*Fēnmíng Pàn Dá*).**
 
 **夫以下測上，止可罔像卜度、惟昔儔今，不可頓決，所以初從髣髴，次引略見，略見未周，更引廣見，以多證一，爾乃分判。**
 
@@ -977,6 +1004,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **「時有菩薩」下，第五、授記同者，昔授德藏菩薩記，今經授聲聞記，豈得是同？**
 
 **From "At that time there was a Bodhisattva" downwards, the fifth part "Bestowing Prediction Same." Anciently bestowed prediction on **Virtue Store** (*Dé Zàng*) Bodhisattva. Current Sutra bestows prediction on Śrāvakas. How can this be Same?**
+*[Critical apparatus: [7] 說【大】，疑【甲】; [8] 記【大】，說記【甲】]*
+
 
 **昔事已成故言授菩薩記，然正是會三歸一，聲聞得記也。**
 
@@ -1141,6 +1170,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **發真自然者，何須諸佛說法？**
 
 **If arousing the true [path] is natural, why is there need for the buddhas to preach Dharma?**
+*[Critical apparatus: [5] 自【大】，若自【甲】]*
+
 
 **答：**
 
@@ -1149,6 +1180,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **如船順流，若遇風、加棹助，疾有所至，風喻見佛聞法，棹喻修行。**
 
 **It is like a boat going with the current: if it meets wind and adds oar-assistance, it quickly reaches its destination. The wind is a metaphor for seeing the Buddha and hearing Dharma; the oars are a metaphor for cultivation.**
+*[Critical apparatus: [6] 成【大】，〔－〕【甲】]*
+
 
 **例如初果任運七生，若值佛加修，或一生、二生得至無學(云云)。**
 
@@ -1165,6 +1198,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **「一一諸佛土聲聞眾」下，第四、三行，此即將人約法，人既二乘，必知開三藏說也，即頌上為聲聞人說應四諦等也，雖不頌出緣覺兼攝在中，行施、忍辱等，等於四度耳，此一行頌上六度大乘也。**
 
 **From "In each and every Buddha-land, the śrāvaka assembly" downwards: fourth, three lines. This takes people in terms of Dharma. Since the people are the two vehicles, one must know it is opening the Tripiṭaka preaching. That is: it versifies the above about preaching dharmas that accord with the Four Truths for śrāvaka people. Although it does not versify pratyekabuddhas explicitly, they are included within it. Practicing giving, patience, and so on corresponds to the four pāramitās. This single line versifies the above Mahāyāna of the Six Pāramitās.**
+*[Critical apparatus: [7] 等【大】，等教【甲】]*
+
 
 **「又見菩薩深入諸禪定」下，第五、兩行，頌上見他土菩薩種種因緣信解相貌也，略不答上起塔也，上不見他土法華相故。次此見起塔，今答出法華相故，起塔入滅事在後答也。**
 
@@ -1173,6 +1208,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **次、「爾時四部眾」下，第二、一行半，追頌昔佛四眾疑念，如文。**
 
 **Next, from "At that time the fourfold assembly" downwards: second, one and a half lines. This retrospectively versifies the past Buddha's fourfold assembly harboring doubts, as in the text.**
+*[Critical apparatus: [8] 二【大】，二有【甲】; [9] 四偈【大】，我見下四行偈【甲】; [10] 燈【大】，燈明【甲】; [＊5-1] 有【大】＊，〔－〕【甲】＊; [1] 召【大】，名【甲】; [2] 美【大】，義美【甲】]*
+
 
 **從「天人所奉尊」下，二十二行半，頌曾與今當同，文為六：**
 
@@ -1355,6 +1392,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **四句分別：自有方便破權，權破方便；方便修權，權修方便；方便即權，權即方便。**
 
 **They are distinguished in four sentences: there are those in which skillful means break provisionality and provisionality breaks skillful means; skillful means cultivate provisionality and provisionality cultivates skillful means; skillful means are provisionality and provisionality is skillful means; provisionality is skillful means with no two and no difference.**
+*[Critical apparatus: [4] 皆【大】，皆是【甲】]*
+
 
 **方便破權者，四種皆是祕妙之方便，此方便破隨他意，權也；權破方便者，權是同體之權，破於體外之方便也；相修者亦可解，相即者亦可解(云云)。**
 
@@ -1395,6 +1434,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **又有人以四種二慧，初一是權、一是實；次空有二智，觀空不證離二乘，涉有無染出凡夫；次空有內靜為實，外用為權；次金剛前後常、無常為權實。**
 
 **Further, some use the four kinds of two wisdoms: first, one is provisional and one is real; next, the two knowledges of empty and existent—contemplating emptiness without realizing it departs from the two vehicles, engaging existence without defilement departs from ordinary beings; next, inner quiescence of empty and existent is real and outer functioning is provisional; next, permanence/impermanence before/after the diamond are provisional/real.**
+*[Critical apparatus: [5] 權【大】，權後【甲】]*
+
 
 **初二慧令生信，次二慧令生解，次二慧令化他，後二慧是果。**
 
@@ -1451,6 +1492,8 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 **今明權實者，先作四句：謂一切法皆權，一切法皆實，一切法亦權亦實，一切法非權非實。**
 
 **Now, clarifying provisional and real: first make four sentences: (1) all dharmas are provisional; (2) all dharmas are real; (3) all dharmas are both provisional and real; (4) all dharmas are neither provisional nor real.**
+*[Critical apparatus: [1] 不分卷【甲】]*
+
 
 **一切法權者，如文云：「諸法如是性、相、體、力、本、末等」，介爾有言皆是權也。**
 
@@ -1504,6 +1547,100 @@ The *Introduction Chapter* serves as the narrative frame for the entire Sutra. T
 [^13]: **Omen Correspondence:** Zhiyi here correlates the *Past* Omen of Raining Flowers with the *Present* Omen of **Expounding Dharma**, and the *Past* Earth Shaking with the *Present* **Assembly Rejoicing**. This differs from the direct "Flowers-to-Flowers" correspondence seen in the earlier "Thinking Answer," illustrating the fluidity of the Six Omens in the "Broad" view where all omens interpenetrate.
 
 [^14]: **Wonderfully Bright (*Miào Guāng*):** Or *Varaprabha*. The past incarnation of **Manjuśrī**, showing his role as the teacher of past Buddhas, including Maitreya (Fame Seeker).
+
+[^15]: **Critical Apparatus:** 不分卷【甲】 — "Does not divide fascicles." The Jiaxing edition (甲) does not mark the division between upper/lower parts at this point in the fascicle.
+
+[^16]: **Critical Apparatus:** 問【大】，〔－〕【甲】 — The Taishō edition (大) has '問' (question), while the Jiaxing edition (甲) omits this character.
+
+[^17]: **Critical Apparatus:** 問【大】，答問【甲】 — The Taishō edition (大) has '問' (question), while the Jiaxing edition (甲) has '答問' (answer-question).
+
+[^18]: **Critical Apparatus:** 兩【大】，二【甲】 — The Taishō edition (大) has '兩' (two/both), while the Jiaxing edition (甲) has '二' (two). These are synonyms with identical meaning.
+
+[^19]: **Critical Apparatus:** 光【大】，光明【甲】 — The Taishō edition (大) has '光' (light), while the Jiaxing edition (甲) has '光明' (light-radiance), an expanded form.
+
+[^20]: **Critical Apparatus:** 次【大】，五【甲】 — The Taishō edition (大) has '次' (next), while the Jiaxing edition (甲) has '五' (five), indicating a structural numbering difference in the sequence.
+
+[^21]: **Critical Apparatus:** 次【大】，六【甲】 — The Taishō edition (大) has '次' (next), while the Jiaxing edition (甲) has '六' (six), indicating a structural numbering difference in the sequence.
+
+[^22]: **Critical Apparatus:** 佛【大】，諸佛【甲】 — The Taishō edition (大) has '佛法' (Buddha-dharma), while the Jiaxing edition (甲) has '諸佛法' (all Buddhas' dharma).
+
+[^23]: **Critical Apparatus:** 生【大】，生者【甲】 — The Taishō edition (大) has '生' (beings), while the Jiaxing edition (甲) has '生者' (those who are beings), an expanded form.
+
+[^24]: **Critical Apparatus:** 人【大】，〔－〕【甲】 — The Taishō edition (大) has '人' (person), while the Jiaxing edition (甲) omits this character.
+
+[^25]: **Critical Apparatus:** 供【大】，供養【甲】 — The Taishō edition (大) has '供' (offer), while the Jiaxing edition (甲) has '供養' (make offerings), an expanded form.
+
+[^26]: **Critical Apparatus:** 故【大】，佛故【甲】 — The Taishō edition (大) has '故' (therefore), while the Jiaxing edition (甲) has '佛故' (Buddha-therefore).
+
+[^27]: **Critical Apparatus:** 文殊【大】，次文殊師利【甲】 — The Taishō edition (大) has '文殊' (Manjuśrī), while the Jiaxing edition (甲) has '次文殊師利' (Next, Manjuśrī), including the word 'next' and the full transliteration.
+
+[^28]: **Critical Apparatus:** 有【大】＊，〔－〕【甲】＊ — The Taishō edition (大) has '有' (there is/has), while the Jiaxing edition (甲) omits this character. The asterisk (＊) indicates this variant appears multiple times in this section.
+
+[^29]: **Critical Apparatus:** 第【大】，〔－〕【甲】 — The Taishō edition (大) has '第' (ordinal marker), while the Jiaxing edition (甲) omits this character.
+
+[^30]: **Critical Apparatus:** 目【大】，眼【甲】 — The Taishō edition (大) has '目' (eyes), while the Jiaxing edition (甲) has '眼' (eyes). These are synonymous characters with the same meaning.
+
+[^31]: **Critical Apparatus:** 一行【大】，〔－〕【甲】 — The Taishō edition (大) has '一行' (one line), while the Jiaxing edition (甲) omits these characters.
+
+[^32]: **Critical Apparatus:** 也【大】，〔－〕【甲】 — The Taishō edition (大) has '也' (final particle), while the Jiaxing edition (甲) omits this character.
+
+[^33]: **Critical Apparatus:** 兕【大】＊，光【甲】＊ — The Taishō edition (大) has '兕' (rhinoceros - metaphor for anxiety), while the Jiaxing edition (甲) has '光' (light). The asterisk indicates this variant appears multiple times.
+
+[^34]: **Critical Apparatus:** 從【大】，從諸【甲】 — The Taishō edition (大) has '從' (from), while the Jiaxing edition (甲) has '從諸' (from various), an expanded form.
+
+[^35]: **Critical Apparatus:** 遠【大】，遠雨【甲】 — The Taishō edition (大) has '遠' (distant), while the Jiaxing edition (甲) has '遠雨' (distant rain).
+
+[^36]: **Critical Apparatus:** 於【大】，〔－〕【甲】 — The Taishō edition (大) has '於' (in/at), while the Jiaxing edition (甲) omits this character.
+
+[^37]: **Critical Apparatus:** 住【大】，入住【甲】 — The Taishō edition (大) has '住' (abode/dwell), while the Jiaxing edition (甲) has '入住' (enter-abode), an expanded form.
+
+[^38]: **Critical Apparatus:** 號【大】，名【甲】 — The Taishō edition (大) has '號' (designation/title), while the Jiaxing edition (甲) has '名' (name). These are synonymous in this context.
+
+[^39]: **Critical Apparatus:** 更【大】，便【甲】 — The Taishō edition (大) has '更' (more/further), while the Jiaxing edition (甲) has '便' (then/thereupon).
+
+[^40]: **Critical Apparatus:** 謂【大】，為【甲】 — The Taishō edition (大) has '謂' (to call/say), while the Jiaxing edition (甲) has '為' (as/for).
+
+[^41]: **Critical Apparatus:** 推【大】，惟【甲】 — The Taishō edition (大) has '推' (infer/deduce), while the Jiaxing edition (甲) has '惟' (only/think).
+
+[^42]: **Critical Apparatus:** 必【大】，序【甲】 — The Taishō edition (大) has '必' (must/certainly), while the Jiaxing edition (甲) has '序' (preface/sequence).
+
+[^43]: **Critical Apparatus:** 從【大】，〔－〕【甲】 — The Taishō edition (大) has '從' (from), while the Jiaxing edition (甲) omits this character.
+
+[^44]: **Critical Apparatus:** 說【大】，疑【甲】 — The Taishō edition (大) has '說' (speak/explain), while the Jiaxing edition (甲) has '疑' (doubt).
+
+[^45]: **Critical Apparatus:** 記【大】，說記【甲】 — The Taishō edition (大) has '記' (prediction/prophecy), while the Jiaxing edition (甲) has '說記' (speak-prediction), an expanded form.
+
+[^46]: **Critical Apparatus:** 從【大】，從時【甲】 — The Taishō edition (大) has '從' (from), while the Jiaxing edition (甲) has '從時' (from-time), an expanded form.
+
+[^47]: **Critical Apparatus:** 出【大】，生【甲】 — The Taishō edition (大) has '出' (emerge/produce), while the Jiaxing edition (甲) has '生' (arise/generate).
+
+[^48]: **Critical Apparatus:** 從【大】，次從【甲】 — The Taishō edition (大) has '從' (from), while the Jiaxing edition (甲) has '次從' (next-from), an expanded form.
+
+[^49]: **Critical Apparatus:** 次【大】，〔－〕【甲】 — The Taishō edition (大) has '次' (next), while the Jiaxing edition (甲) omits this character.
+
+[^50]: **Critical Apparatus:** 自【大】，若自【甲】 — The Taishō edition (大) has '自' (self), while the Jiaxing edition (甲) has '若自' (if-self), an expanded form.
+
+[^51]: **Critical Apparatus:** 成【大】，〔－〕【甲】 — The Taishō edition (大) has '成' (accomplish/achieve), while the Jiaxing edition (甲) omits this character.
+
+[^52]: **Critical Apparatus:** 等【大】，等教【甲】 — The Taishō edition (大) has '等' (etc.), while the Jiaxing edition (甲) has '等教' (etc.-teaching), an expanded form.
+
+[^53]: **Critical Apparatus:** 二【大】，二有【甲】 — The Taishō edition (大) has '二' (two), while the Jiaxing edition (甲) has '二有' (two-have), an expanded form.
+
+[^54]: **Critical Apparatus:** 四偈【大】，我見下四行偈【甲】 — The Taishō edition (大) has '四偈' (four verses), while the Jiaxing edition (甲) has '我見下四行偈' ("From 'I see' downward, four lines of verse"), a more detailed form.
+
+[^55]: **Critical Apparatus:** 燈【大】，燈明【甲】 — The Taishō edition (大) has '燈' (lamp), while the Jiaxing edition (甲) has '燈明' (lamp-bright), the full Buddha name.
+
+[^56]: **Critical Apparatus:** 召【大】，名【甲】 — The Taishō edition (大) has '召' (summon/designate), while the Jiaxing edition (甲) has '名' (name).
+
+[^57]: **Critical Apparatus:** 美【大】，義美【甲】 — The Taishō edition (大) has '美' (beautiful/excellent), while the Jiaxing edition (甲) has '義美' (meaning-beautiful), an expanded form.
+
+[^58]: **Critical Apparatus:** 將【大】，〔－〕【甲】 — The Taishō edition (大) has '將' (will/shall), while the Jiaxing edition (甲) omits this character.
+
+[^59]: **Critical Apparatus:** 皆【大】，皆是【甲】 — The Taishō edition (大) has '皆' (all), while the Jiaxing edition (甲) has '皆是' (all-are), an expanded form.
+
+[^60]: **Critical Apparatus:** 權【大】，權後【甲】 — The Taishō edition (大) has '權' (expedient), while the Jiaxing edition (甲) has '權後' (expedient-after).
+
+[^61]: **Critical Apparatus:** 不分卷【甲】 — "Does not divide fascicles." The Jiaxing edition (甲) does not mark the division at the end of the fascicle's upper part. This is the concluding apparatus note for Fascicle 3, Part 1.
 
 ---
 

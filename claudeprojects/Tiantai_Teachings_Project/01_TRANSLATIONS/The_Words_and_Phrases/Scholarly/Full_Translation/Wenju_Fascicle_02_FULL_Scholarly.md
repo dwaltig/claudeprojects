@@ -38,6 +38,8 @@
 **昔五百雁，一雁常得花果，供於雁王，佛一夏受阿耆達王請，五百比丘皆噉馬麥，而憍梵獨在天上尸利沙園，受天王供養。**
 
 **In the past, among five hundred wild geese, one goose always obtained flowers and fruits to offer to the Goose King. [Later,] when the Buddha accepted the invitation of King Agnidatta regarding the summer retreat, five hundred bhikṣus all ate horse-fodder, yet Gavāmpati alone was in the Śirīṣa Garden[^2] in the heavens, receiving offerings from the Heavenly King.**
+*[Critical apparatus: [6] 不分卷【甲】; [7] 笑【大】＊，咲【甲】＊; [＊7-1] 笑【大】＊，咲【甲】＊; [＊7-2] 笑【大】＊，咲【甲】＊; [8] 羅【大】，阿羅【甲】; [9] 追【大】，召【甲】; [10] 和尚【大】＊，和上【甲】＊; [11] 偈【大】，偈言【甲】; [＊10-1] 和尚【大】＊，和上【甲】＊]*
+
 
 [^2]: **Śirīṣa Garden:** The garden of the Acacia trees in the Trāyastriṃśa Heaven.
 
@@ -72,6 +74,8 @@
 **四道流注大迦葉所，水說偈(云云)：「大象既去象子隨，世尊和尚既滅度，我今在此復何為？」斯亦第一義也。**
 
 **Four streams [from his body] flowed to the place of Mahākāśyapa, and the water spoke a verse: "Since the great elephant has departed, the young elephant follows. Since the World Honored One and the Preceptor have entered extinction, why should I remain here now?" This is also the *Ultimate Siddhānta*.**
+
+*[Critical apparatus: 不分卷【甲】; 笑【大】＊，咲【甲】＊; [＊7-1] 笑【大】＊，咲【甲】＊; [＊7-2] 笑【大】＊，咲【甲】＊; 羅【大】，阿羅【甲】; 追【大】，召【甲】; 和尚【大】＊，和上【甲】＊; 偈【大】，偈言【甲】; [＊10-1] 和尚【大】＊，和上【甲】＊]*
 
 ---
 
@@ -132,6 +136,8 @@
 
 **The multitude of monks said: "This person is easily liberated." They told him: "Your body was originally the remnants of another; it is not your own possession." He immediately attained the Way. The *Ekottara Āgama* says: "Among those who sit in meditation (*dhyāna*) entering samādhi with a mind not inverted or scattered, the Bhikṣu Revata is foremost."**
 
+*[Critical apparatus: [12] 辰【大】，神【甲】; [A1] 己【CB】，已【大】; [13] 道【大】，道也【甲】]*
+
 ---
 
 **約教言，析破五陰非我所有，三藏意。體達五陰本非我有，通意。分別十法界、五陰皆非己有，別意。達五陰非我有、非他有，見陰實相，即圓意。**
@@ -170,6 +176,8 @@
 **恒神為之兩派。神往訴佛，佛令懺謝，即合手：「小婢莫瞋。」大眾笑之，懺而更罵。佛言：「本習如此，實無高心。」《增一》云：「樹下苦坐，不避風雨者，婆蹉比丘第一。」**
 
 **The River Goddess parted the stream for him. The spirit went to complain to the Buddha. The Buddha ordered him to apologize. He immediately joined his palms: "Little Maid, do not be angry." The great assembly laughed at him—apologizing yet scolding again! The Buddha said: "His original habit is like this; effectively he has no arrogant mind." The *Ekottara Āgama* says: "Among those who sit in bitter practice under trees, avoiding neither wind nor rain, the Bhikṣu Vatsa is foremost."**
+
+*[Critical apparatus: [＊7-3] 笑【大】＊，咲【甲】＊]*
 
 ---
 
@@ -228,6 +236,8 @@
 
 **King Aśoka paid homage to the stupas of the Arhats. When he came next to [Vakkula's] stupa, he spoke a verse: "Although he trained himself in [removing] ignorance, he was of little benefit to the world." He offered twenty cowrie shells. The *Ekottara Āgama* says: "He offered one coin [cowrie], and the cowrie flew out from the stupa and attached itself to the King's foot. The ministers were astonished—even his stupa had such power of leisure, stillness, and few desires." The *Ekottara* says: "Among those of extremely long life never cut short, constantly delighting in leisure dwelling and not abiding in crowds, Vakkula is foremost."**
 
+*[Critical apparatus: [1] 槃【大】，盤【甲】; [2] 火水【大】，水火【甲】; [3] 也【大】，〔－〕【甲】; [4] 薄【大】，婆【甲】]*
+
 ---
 
 **約教者，滅喧入真，三藏寂靜。即喧而真，通寂靜。離二邊入中，別寂靜。即邊而中，圓寂靜。**
@@ -238,11 +248,15 @@
 *   **Distinct:** Leaving the two extremes to enter the Middle—Distinct Stillness.
 *   **Perfect:** The extremes *are* the Middle (*jí biān ér zhōng*)—Perfect Stillness.
 
+*[Critical apparatus: [5a] （而真…寂靜）二十字【大】，而入真通寂靜離二邊而入中圓寂靜【甲】]*
+
 ---
 
 **本者，本住大寂滅定，長壽是常，無病是樂，不夭是我，寂靜是淨；居此四德之本，迹示六根寂靜耳。**
 
 **According to *Fundamental*: He abides in the Great Quiescent Samādhi (Mahāparinirvāṇa). Long life is **Permanence**; no sickness is **Bliss**; no premature death is **Self**; stillness is **Purity**. Dwelling in the root of these Four Virtues, his trace demonstrates the stillness of the six sense faculties.**
+
+*[Critical apparatus: [5b] （本者…定）八字【大】，本迹者本住大寂定【甲】]*
 
 ---
 
@@ -276,6 +290,8 @@
 
 **The Buddha asked: "Do you 'accept' this accepting [or not accepting]?" Here he fell into a double defeat: if I say, "I accept [this]," earlier I already said, "I do not accept all [dharmas]." If I say, "I do not accept [this]," then I have no way to defeat the Buddha. He immediately lowered his head and attained the Purity of the Dharma Eye. Śāriputra, who was fanning the Buddha and heard his uncle's debate, attained the fruit of Arhatship. The *Ekottara Āgama* says: "Among those who attain the Four Eloquences and, when confronted with difficulties, are able to answer, Kauṣṭhila is foremost." The Southern Heavenly King Virūpākṣa constantly came to attend him.**
 
+*[Critical apparatus: [＊7-4] 笑【大】＊，咲【甲】＊; [6] 留【大】，婁【甲】]*
+
 ---
 
 **約教者，外通四韋陀，內通三藏，三藏四辯也。我無所得，辯乃如是，通教辯也。若名、若義遍十法界，別教辯也。依於實相遍一切辯，圓教辯也。**
@@ -292,6 +308,8 @@
 
 **According to *Fundamental*: He abides in the Secret of the Mouth, the inconceivable transformation of the Voice Wheel, Great Concentration and Great Wisdom. His trace manifests as "Big Knee."**
 
+*[Critical apparatus: [7] 本【大】＊，本迹【甲】＊; [8] 示【大】，〔－〕【甲】]*
+
 ---
 
 **觀心者，觀心即空即定、即假即慧，以嚴其心(云云)。**
@@ -306,11 +324,15 @@
 
 **"Nanda" (難陀 *Nántuó*): Also called "Cowherding Nanda." Translated as "Good Joy" (*Shàn Huānxǐ*) or "Delight" (*Xīnlè*). King Śuddhodana forced ten thousand Śākyas to leave home [to become monks]; he was one of them. Some masters say: "This is the Upananda (*Bá-nántuó*) mentioned in the Vinaya."**
 
+*[Critical apparatus: [9] 偪【大】＊，逼【甲】＊; [10] 陀【大】，陀也【甲】]*
+
 ---
 
 **約教者，事歡喜，理無歡喜，三藏意也。即事歡喜是理歡喜，是通教意也。歡喜地，即別教也。歡喜住，即圓教意也。**
 
 **According to the *Teachings*:**
+*[Critical apparatus: [9] 偪【大】＊，逼【甲】＊; [10] 陀【大】，陀也【甲】]*
+
 *   **Tripiṭaka:** Phenomenal joy (*shì huānxǐ*), but in principle (*lǐ*) there is no joy.
 *   **Shared:** Phenomenal joy *is* principle joy.
 *   **Distinct:** The Stage of Joy (*Pramuditā-bhūmi*).
@@ -321,6 +343,8 @@
 **本者，本住實際，非喜非不喜；迹名歡喜。**
 
 **According to *Fundamental*: He abides in the **Reality Limit** (*shíjì*), neither joy nor non-joy; his trace is named "Joy."**
+
+*[Critical apparatus: [＊7-1] 本【大】＊，本迹【甲】＊]*
 
 ---
 
@@ -362,6 +386,8 @@
 
 **On the next day, the Buddha and five hundred bhikṣus were invited [to a meal]. [Nanda] requested to remain behind to guard the monastery, intending to flee. The Buddha ordered his room shut and told him to sweep the floor: the south [door] was shut and the north opened, and he was made to sweep this side and that side of the filth. Again he feared the Buddha's return, so he ran away and went back home. On the road he encountered the Buddha. He hid himself behind a tree, and the tree suddenly rose into the sky. Seeing him, the Buddha immediately called him and brought him back. [The Buddha] asked: "Why did you leave?" He replied: "Yesterday I separated from my wife; I was waiting to return and only then eat. I merely missed my wife, so I left." The Buddha took him to tour the heavens and hells (and so on)." Therefore, he marks this [entry] with the character "wife."**
 
+*[Critical apparatus: [11] 拳【大】，惓【甲】; [＊9-1] 偪【大】＊，逼【甲】＊; [12] 走【大】，〔－〕【甲】]*
+
 ---
 
 **約教者，俗諦有法喜，真諦無喜，三藏教也。即俗喜是真喜，通教也。從通法喜，有俗法喜、中法喜，別教也。即通喜具一切法喜，圓教也。**
@@ -378,6 +404,8 @@
 
 **As for *Fundamental/Trace* and *Contemplating the Mind*: they are as above (and so on).**
 
+*[Critical apparatus: [13] 云云【大】＊，〔－〕【甲】＊]*
+
 ---
 
 ### 18. Pūrṇamaitrāyaṇīputra (富樓那)
@@ -393,6 +421,8 @@
 **His mother was named Maitrāyaṇī (*Míduōluóní*), translated as "Compassionate Practice" (*Cíxíng*) or also "Good Friend/Spiritual Friend" (*Zhīshì*). The Four Vedas contain this section; his mother recited it and took it as her name. "Nī" means "woman": in general, women are called *nī*, and men are called *nà*. Since he was born from "Compassion" (*maitrī*), he is called "Son of Compassion" (*Cízǐ*). The *Ekottara Āgama* says: "My father was named Full, my mother was named Compassion; the pure practitioners call me Full-Compassion Son."**
 
 **This name is obtained from the two conditions of father and mother, therefore he is called "Full-Compassion Son." He was good at knowing: among internal and external scriptures and books there was nothing he did not know. Because his knowledge was "full," he was again named "Full."**
+
+*[Critical apparatus: [14] 諸【大】，請【甲】; [15] 此從【大】，從此【甲】]*
 
 ---
 
@@ -428,6 +458,8 @@
 
 **According to *Fundamental/Trace*: His fundamental wish was fulfilled long ago; his trace is "Foremost in Preaching Dharma," demonstrating a Good Friend (*kalyāṇamitra*) to sentient beings.**
 
+*[Critical apparatus: [1] 也【大】，〔－〕【甲】]*
+
 ---
 
 **觀心者，如止觀中人行理等善知識觀也。**
@@ -443,6 +475,8 @@
 **"Subhūti" (須菩提 *Xūpútí*): Translated as "Empty Born" (*Kōngshēng*). When he was born, the storehouses, baskets, and vessels in his home were all empty. They asked a diviner; the diviner said it was auspicious (*jí*). Because he was born due to emptiness, he was named "Empty Born." He takes the auspicious "emptiness" of the dependent retribution (the vessels) and uses it to name the direct retribution (the person): dependent and direct are both auspicious, therefore he is called "Empty Born."**
 
 **Because he constantly cultivated the practice of emptiness, he is called "Good Deeds/Good Practice." Because those who make offerings obtain immediate recompense, he is also called "Good Auspiciousness."**
+
+*[Critical apparatus: [2] 住【大】，往【甲】; [3] 佛【大】，佛佛【甲】; [4] 石【大】，石空【甲】; [5] 汝【大】，我汝【甲】]*
 
 ---
 
@@ -468,11 +502,15 @@
 
 **According to *Fundamental*: He abides in the Reality Mark Dharma Body; his trace demonstrates "Being Born from Seeing Emptiness."**
 
+*[Critical apparatus: [＊7-2] 本【大】＊，本迹【甲】＊; [6] 法【大】，法相【甲】; [7] 見【大】，現【甲】]*
+
 ---
 
 **觀心者，不在內外中間，非自有，是為觀心法身也。**
 
 **As for *Contemplating the Mind*: it is not within, not without, and not in-between; it is not self-possessed. This is called the *Contemplating-the-Mind* Dharma-body.**
+
+*[Critical apparatus: [8] 不【大】，心不【甲】]*
 
 ---
 
@@ -487,6 +525,8 @@
 **復有天來云：「汝子成佛。」王疑未決，須臾信報：「昨夜天地大動，太子成佛。」王大歡喜，白飯王奏云：「生兒。」舉國欣欣，因名歡喜，是為父母作字。**
 
 **Then a deva came and said: "Your son has become a Buddha." The King had not yet resolved his doubt. In a moment a trusted report arrived: "Last night heaven and earth shook greatly; the Crown Prince has become a Buddha." The King had great joy. King Śuklodana reported: "A son has been born." The whole country was delighted; because of this he was named "Joy." This is the name given by his parents.**
+
+*[Critical apparatus: [9] 信【大】，使【甲】; [10] 大【大】，太【甲】; [11] 頸【大】，頸云云【甲】]*
 
 ---
 
@@ -608,6 +648,8 @@
 
 **Paramārtha Tripiṭaka Master said: "Rāhu originally refers to [A]sura, who can obstruct the sun and moon with his hand; this should be translated as 'Obstructing the Moon'." The Buddha said: "My Dharma is like the moon; this child obstructed me from immediately leaving home. In lifetime after lifetime he obstructed me; in lifetime after lifetime I was able to renounce, so he is called Obstacle."**
 
+*[Critical apparatus: [12] 翻此【大】，此翻【甲】; [13] 輪【大】，輪王【甲】; [1] 云【大】，睺【甲】; [2] 當【大】，當廣【甲】; [3] 法【大】，〔－〕【甲】]*
+
 ---
 
 **佛出家後耶輸有娠，諸釋咸瞋，何因有此？欲治、欲殺，惡聲盈路，寶女劬毘羅證之小差。因焚火坑，發大誓願：「我若為非，子母俱滅，若真遺體，天當為證！」因抱子投坑，坑變為池，蓮華捧體，王及國人，始復不疑。**
@@ -684,6 +726,8 @@
 
 **Contemplating-the-mind is as in the preceding cases and can be understood (and so on).**
 
+*[Critical apparatus: [＊13-1] 云云【大】＊，〔－〕【甲】＊]*
+
 ---
 
 ## 7. CONCLUSION (結)
@@ -692,17 +736,23 @@
 
 **Sixth, "Conclusion": "Such assemblies are what the multitude knows as [good] friends." Some say "knowing" (*zhī*) is simply "recognition" (*shí*). Some say: hearing the name is "knowing" and seeing the form is "recognition"; seeing the form is "knowing" and seeing the mind is "recognition."**
 
+*[Critical apparatus: [4] 秖【大】＊，只【甲】＊]*
+
 ---
 
 **本者，本為眾生作滿字知識，迹為半字知識(云云)。**
 
 **According to *Fundamental/Trace*: fundamentally [they] act for sentient beings as a "full-word" good friend; in trace [they] act as a "half-word" good friend (and so on).**
 
+*[Critical apparatus: [＊7-3] 本【大】＊，本迹【甲】＊]*
+
 ---
 
 **觀行知識如止觀。**
 
 **As for the "contemplation-and-practice" [meaning of] good friends: it is as in the *Mohe Zhiguan*.**
+
+*[Critical apparatus: [5] 觀【大】，觀心【甲】]*
 
 ---
 
@@ -717,6 +767,8 @@
 **「學無學」者，三藏中十八種學人，九種無學人；通教五地皆名學，六地名無學，又通教九地名為學，佛地為無學；別圓中，或就功用、無功用，或就具足、未具足，明學無學。《阿含》云：「外道問佛：『羅漢更學不？』佛言：『羅漢不作惡法，住於善法，學其無學即名為學。』」若爾，學人亦稱無學。學人齊其所斷，不復更斷，即是無學，是為四句。就五方便，非學非無學，便是五句。約四教中例亦應爾，四五二十句。**
 
 **As for "Learner/No-Learner": in the Tripiṭaka there are eighteen kinds of Learners and nine kinds of No-Learners. In the Shared Teaching, the Five Grounds are all called Learner and the Sixth Ground is called No-Learner; also, in the Shared Teaching the Ninth Ground is called Learner and the Buddha-ground is No-Learner. In the Distinct and Perfect [Teachings], one may clarify Learner/No-Learner either in terms of "with effort" and "without effort," or in terms of "complete" and "not yet complete."**
+*[Critical apparatus: [6] 為【大】，名【甲】]*
+
 
 **The Āgamas say: "A non-Buddhist asked the Buddha: 'Does an Arhat still learn?' The Buddha said: 'An Arhat does not make evil dharmas; he abides in good dharmas. Learning his no-more-learning is precisely called learning.'" If this is so, then learners are also called no-more-learners. When learners are equal to what they have cut off and do not cut off further, that is no-more-learning: this makes four statements. Taking the five "expedients," [one may also say] neither learner nor no-more-learner: that makes five statements. By analogy in the four teachings, it should likewise be so: four times five makes twenty statements.**
 
@@ -754,6 +806,8 @@
 
 **Fundamentally, [she] abides in the Dharma-gate of wisdom-transcendence; in trace, [she is] the mother of a thousand Buddhas, a teacher who gives birth and nurtures.**
 
+*[Critical apparatus: [7] 迹【大】，〔－〕【甲】]*
+
 ---
 
 **觀釋者，中觀廣博名大；無緣慈名愛；中理虛通名道。大即自行；愛即化他，如以愛故受生，慈故涉有；道即通自行、化他也。**
@@ -788,6 +842,8 @@
 
 **According to *Fundamental/Trace*: as wives, they are equal - how could one of vast ground [a great bodhisattva] be the Crown Prince's wife? Therefore we know that fundamentally she abides in quiescent samādhi and subtle Dharma-joy; in trace she is the Buddha's wife. The *Sūtra of the Sorrowful Flower* says: "In the presence of the Buddha Ratnagarbha (Treasure-Store), [she] vowed only to be a wife."**
 
+*[Critical apparatus: [8] 寶【大】，昔寶【甲】]*
+
 ---
 
 **觀空無漏法喜，即以鹿野表妻；觀假道種智法喜，即以耶輸表妻；觀中法喜，即以瞿夷表妻。**
@@ -799,6 +855,8 @@
 **上當分明本迹、觀心，今更總論，顯善權曲巧，明觀行精微。夫首楞嚴種種示現，稱適根性靡所不為，今且近論，託迹王宮降神聖后，法身菩薩，皆輔佛行化，散影餘家，若三十二瑞，金姿誕應，諸大士各各出生，或空室雨寶，寄辯通夢，若皇皇太子，捨國捐王，踰城學道，諸大士悉從師請業，才藝兼通，為彼宗匠，若法輪初啟甘露門開，聞諸大士化緣未熟，示同不受，分庭抗禮，崇我道真，能化所化全生如乳；若所化緣熟，則素絲易染，池花早開，革凡成聖轉乳成酪；師宗為佛上首弟子，或智慧、神通、辯才、三昧各各第一，共輔法王更度未度，重熟已熟，於方等座席聞菩薩不可思議功德，耻小慕大，耻小則嗚呼自責，失於如來無量知見，慕大則不知當云何得佛無上慧，如轉酪為生蘇；次聞般若摩訶衍門，初歷色心終于種智，含挾小大，出內取與，或共或別或偏或圓，奉命領知而無希取，雖未頓捨已漸通泰，如轉生蘇為熟蘇；次聞《法華》會天性，定父子、授記莂、付大乘，廢三歸一，如餘四味，同一醍醐，不令一人獨得滅度，皆以如來滅度而滅度之。法王、法臣大事出世巧用方便，初用半字法，破二十五有之繁芿，成四枯雙樹利益眾生。次用半滿法，破二乘之獨善，成菩薩之廣大，成四榮雙樹利益聖人。後用常住滿字，破二邊之前後，成非枯非榮佛祕密藏，究竟利益。主將之功畢，大誓之願滿，故身子、目連於《法華》而息化，聖主贖命，斯亦不久，文云：「如我本誓願，今者已滿足，如來不久當入涅槃。」唱滅之言起自於此，二萬燈明迦葉佛等，皆於《法華》究竟，今以師弟皆於此經發迹，內祕菩薩道，外現作聲聞。「我實成佛已來無量億劫」，以此推之，諸大羅漢從法身地，俯影隨緣迹臨萬水，為學無學，作男作女，示道示俗，首楞嚴力靡所不現，方便善權為若此(云云)。**
 
 **Above, we should have clearly distinguished the Fundamental/Trace and Contemplating-the-Mind. Now we further present a general discussion, manifesting the subtle ingenuity of good provisional expedients and clarifying the subtlety of contemplative practice.**
+*[Critical apparatus: [9] 革【大】＊，隔【甲】＊; [1] 以【大】，之【甲】; [2] 佛【大】，道【甲】]*
+
 
 **The Śūraṅgama [power] manifests in many ways, fitting capacities and leaving nothing it will not do. For the moment, we speak in closer terms: taking on trace in a royal palace and descending as a numinous response into a holy queen. Dharmakāya bodhisattvas all assist the Buddha in teaching and transforming, scattering their shadows into other households. Whether it is the thirty-two auspicious marks and the golden form responding to birth, with great beings each being born; or an empty chamber raining treasures; or eloquence lodged in and communicated through dreams; or the majestic Crown Prince abandoning country and king, crossing beyond the city to seek the Way - the great beings all follow the teacher and request instruction, their skills and arts comprehensively penetrating, serving as masters of that tradition.**
 
@@ -819,6 +877,8 @@
 **總明觀者，上師弟施化法身所為，若不作觀方便，於行人無益，如貧數寶、似盲執燭。然心數甚多，且約善數，如弟子者眾但舉十人耳。十善數者，謂：信、進、念、定、慧、喜、猗、捨、覺、戒，此十數輔心王，能改惡就善、革凡成聖，辦一切法門，但以十心為本，如十弟子，輔佛行化，共熟眾生，立于佛法也。信數對那律天眼第一，眼是五根首，如諸方以東為上，信於諸數初入佛法也。進數對迦葉頭陀第一，抖擻勤苦對進數也。念數對波離持律第一，念力牢強憶持不忘也。定數對目連神通第一，慧數對身子智慧第一，皆可解。喜數對阿難多聞第一，多聞分別樂，樂即喜數也。猗數對旃延，論體窮微盡理，除邪顯正，如猗離惡得善，放苦入樂也。捨數對善吉解空第一，若住空平等與捨數相應。覺數對富樓那說法第一，覺是語本，本立則辯說無窮。戒數對羅云持戒第一，可解。十數扶心王能成觀行，於一念中深入善法，三寶具足，王即佛寶；數即僧寶；所緣實際，無王無數，即法寶。若入實際王數之功，力用足矣。**
 
 **To sum up contemplations: what the above teacher and disciples do - the workings of the dharmakāya that bestows transformation - if one does not make it into a contemplating expedient, it is of no benefit to the practitioner. It is like a poor man counting another's treasure; it is like a blind man holding a lamp.**
+*[Critical apparatus: [＊9-1] 革【大】＊，隔【甲】＊]*
+
 
 **The mind-factors are extremely many; for now, we take the wholesome set. Although the disciples are many, we only cite ten people. The ten wholesome factors are: faith, vigor, mindfulness, concentration, wisdom, joy, ease, equanimity, awakening, and restraint. These ten factors assist the mind-king: they can transform evil into good, transform the ordinary into sagehood, and accomplish all Dharma-gates. Taking only these ten minds as the basis - like the ten disciples assisting the Buddha in teaching and transforming, together ripening sentient beings and establishing them in the Buddha-Dharma.**
 
@@ -831,6 +891,8 @@
 **又取通大地十數與心王俱起，入善、入惡遍通一切，謂：想、欲、觸、慧、念、思、解脫、憶、定、受也。想對富樓那，想得假名，其人善達假名，辯才無滯。欲對迦葉，迦葉無世間欲而欲於無為。觸對旃延，觸入二事更相涉入，旃延善論義，能窮往復。慧即身子，可解。念對波離，念持律之上也。思對羅云，思是行陰，此人實行持戒也。解脫對善吉，脫名無累，此人解空於有得脫。憶對那律，憶動發取境修天眼，易三摩提。定數對目連，可解。受對阿難，多聞領持無謬也。十人各備眾德，為引專門，宣示佛道，隨眾生欲。欲慧者師身子，乃至欲多聞者師阿難，共輔法王，各掌一職。**
 
 **Further, take the ten universal factors of the great earth that arise together with the mind-king, entering good and entering evil and pervading all: conceptualization, desire, contact, wisdom, mindfulness, intention, liberation, recollection, concentration, and feeling.**
+*[Critical apparatus: [3] 旃【大】＊，栴【甲】＊; [＊3-1] 旃【大】＊，栴【甲】＊]*
+
 
 **Conceptualization corresponds to Pūrṇa: conceptualization obtains provisional names; this person is good at understanding provisional names, and his eloquence has no obstruction. Desire corresponds to Kāśyapa: Kāśyapa has no worldly desire, yet desires the unconditioned. Contact corresponds to Kātyāyana: contact enters into two matters and they mutually interpenetrate; Kātyāyana is skilled in debating meaning and can exhaust the back-and-forth. Wisdom is Śāriputra - this can be understood. Mindfulness corresponds to Upāli: mindfulness is supreme in upholding the vinaya. Intention corresponds to Rāhula: intention is the formation aggregate; this person truly practices and holds precepts. Liberation corresponds to Subhūti: liberation means without entanglement; this person understands emptiness and thereby gains liberation amid existence. Recollection corresponds to Aniruddha: recollection is stirred, arousing the taking of objects to cultivate the divine eye, and facilitating samādhi. Concentration corresponds to Maudgalyāyana - this can be understood. Feeling corresponds to Ānanda: much-hearing receives and upholds without error.**
 
@@ -841,6 +903,8 @@
 **今觀心亦如是，一一心中皆具王數，為成觀故，王數相扶而取開悟，或於想數入道，或於欲數入道，隨所宜者，心王、心數而共攻之，化取塵勞諸心而作佛事。作此觀未悟，觀行如乳；若發無漏，觀行如酪；若破塵沙，如生熟蘇；若破無明，觀如醍醐。至醍醐時王數皆畢，心心法數不行故，名行般若波羅蜜。《普賢觀》云：「觀心無心，法不住法，我心自空，罪福無主。」即是無心、無數名為正觀。是心數塵勞若不盡者，觀則不訖，故經言：「眾生不度，我不成正覺。」即此意也(云云)。**
 
 **Now contemplating the mind is also like this: within each and every mind, the king and the factors are all present. In order to accomplish contemplation, king and factors mutually support one another and thereby obtain awakening. One may enter the path through the conceptualization-factor, or enter the path through the desire-factor - according to what is appropriate. Mind-king and mind-factors together apply themselves, transforming and taking the dusty-labors of the various minds and making them into Buddha-work.**
+*[Critical apparatus: [4] 法數【大】，數法【甲】]*
+
 
 **If one performs this contemplation and has not yet awakened, contemplative practice is like milk. If one gives rise to the outflow-free, contemplative practice is like curds. If one breaks through dust-and-sand, it is like fresh and cooked butter. If one breaks through ignorance, contemplation is like ghee. When it reaches ghee, the king and the factors are all complete; because in each and every mind the Dharma-factors do not operate, it is called practicing prajñā-pāramitā.**
 
@@ -866,11 +930,15 @@
 
 **Second is listed the Bodhisattva assembly. The *Treatise* says: "Bodhisattvas are included within the four assemblies of those who have left home and those who remain at home; why then are they listed separately? Answer: 'Some bodhisattvas fall within the four assemblies, but some members of the four assemblies do not fall within the bodhisattvas, because they have not aroused the aspiration to become Buddhas. Therefore, they are now listed separately.'" Those who equally arouse the mind and seek to become Buddhas are called the Bodhisattva assembly. The text has six parts: (1) type; (2) great number; (3) rank; (4) praising virtues; (5) listing names; (6) concluding phrase.**
 
+*[Critical apparatus: [5] 眾【大】，〔－〕【甲】; [6] 名【大】，名為【甲】]*
+
 ---
 
 **一、氣類者，即是菩薩摩訶薩也。若具存，應言菩提薩埵摩訶薩埵，什師嫌煩，略提埵二字。菩提，此言道；薩埵，此言心；摩訶，此言大。此諸人等皆求廣博大道，又成熟眾生故，道心、大道心之氣類也。菩薩多種，謂偏通別圓，如《釋論》引迦旃延子明六度齊限而滿者，此欲調血眾生為乳也；若《大品》明有菩薩發心與薩婆若相應者，此欲調乳入酪也；若《大品》明有菩薩發心遊戲神通淨佛國土，又如《淨名》中得不思議解脫者，皆能變身登座而復受屈被訶者，此欲調酪為生熟蘇也；若《大品》明有菩薩發心即坐道樹成正覺、轉法輪度眾生者，此是調蘇為醍醐也。故下文云：「菩薩聞是法，疑網皆已除。」又云：「若菩薩不聞《法華》，非善行菩薩道，若聞此經即善行菩薩道。」又《涅槃》云：「菩薩不聞《涅槃》，常有希望；若聞《涅槃》，希望都息。」故略有四種也。**
 
 **1. Type: This is precisely the Bodhisattva-Mahāsattvas. If preserved in full, it should be "bodhi-sattva-mahā-sattva"; Master Kumārajīva considered it verbose and abbreviated it, only mentioning the two characters *sattva* (*duò*). "Bodhi" means the Path; "sattva" means mind; "mahā" means great. These people all seek the broad, vast Great Path, and also mature sentient beings; thus they are the type of those with the "path-mind" and the "great-path-mind."**
+*[Critical apparatus: [＊3-2] 旃【大】＊，栴【甲】＊; [1] 蘇【大】，熟蘇【甲】]*
+
 
 **Bodhisattvas are of many kinds - partial, shared, distinct, and perfect. For example: the *Treatise* cites Kātyāyanīputra explaining the pāramitās as having fixed limits and becoming complete - this is the wish to transform blood-sentient-beings into milk. The *Mahāprajñāpāramitā* states that there are bodhisattvas who arouse the aspiration in correspondence with omniscience (*sarvajñatā*) - this is the wish to transform milk into curds. The *Mahāprajñāpāramitā* also states that there are bodhisattvas who arouse the aspiration, sport in supernormal powers, and purify Buddha-lands; and as in the *Vimalakīrti*, those who attain the inconceivable liberation can all transform their bodies, ascend the seat, and yet again accept humiliation and rebuke - this is the wish to transform curds into fresh and cooked butter. If the *Mahāprajñāpāramitā* states that there are bodhisattvas who, upon arousing the aspiration, immediately sit at the bodhi-tree, realize unsurpassed awakening, turn the Dharma wheel, and liberate sentient beings - this is transforming butter into ghee.**
 
@@ -881,6 +949,8 @@
 **本迹者，本地難測，或居等覺，或齊法王，如善財入法界見文殊色像無邊，法門深遠，本隣諸佛，迹輔釋迦為菩薩，普現色身三昧力，散影垂容，以口輪不可思議化隨宜廣說，可以意知，不可以言辯也。所以迹引四味，歸乎一實，譬如鎚碪器諸淳璞，成醍醐已，一期化息，然其本地究竟成就，豈是今日始入大乘？亦非寂滅道場高山先照，若頓、若漸皆迹所為耳。**
 
 **According to *Fundamental and Trace*: the fundamental ground is hard to fathom - some dwell at the level of equal awakening; some are equal to the Dharma King. For example, when Sudhana enters the Dharma-realm and sees that Manjuśrī's form and images are boundless and his Dharma-gates deep and far, [this shows they] are fundamentally adjacent to the Buddhas. In trace, they assist Śākyamuni as bodhisattvas. By the power of the samādhi of universally manifesting form-bodies, they scatter their traces and let their appearances descend. By the inconceivable transformations of the "wheel of speech," they speak broadly as is appropriate. This can be known by meaning, but cannot be fully debated by words.**
+*[Critical apparatus: [2] 迦【大】，尊【甲】; [3] 鎚【大】，槌【甲】]*
+
 
 **Thus, in trace they cite the four flavors and return them to the One Real. It is like hammering and anvil-working raw ore into implements: once ghee is produced, the single period of teaching is brought to rest. Yet their fundamental ground is ultimately accomplished - how could it be that only today they first enter the Great Vehicle? And it is not that the quiescent-destruction bodhimaṇḍa is like a high mountain shining first; whether sudden or gradual, it is all trace-activity.**
 
@@ -896,6 +966,8 @@
 
 **"Eighty thousand": this is a number. Other sutras gather assemblies in very large numbers - why is this sutra's [number] comparatively small? Perhaps it is speaking of the assembly's greatness by number; or it is like a king discussing secret matters, which cannot be planned together with the entire land (and so on).**
 
+*[Critical apparatus: [4] 密【大】，蜜【甲】; [5] 率【大】，變【甲】]*
+
 ---
 
 **約觀心者，觀一善心具十法界，十界交互，具百法界，千性相等，十善即萬法，約八正道即八萬法門也(云云)。**
@@ -907,6 +979,8 @@
 **「皆於阿耨三菩提不退轉」者，明位也。阿耨，此云無上，道如境妙中說，位如位妙中說。不退轉者，約位、行、念論不退，應四種分別：不生三惡道，位不退；不生邊地，諸根完具不受女身，即行不退；常識宿命，即念不退，具此名阿鞞跋致地。三藏義也。若六心已前，輕毛菩薩信根未立，其位猶退；七心已上從初地至六地，不退為凡夫二乘，名位不退；雖正使已盡，而未能遍修萬行，其行猶退；至七地名行不退，而猶起二乘念，故有念退；至八地道觀雙流入法流水，名念不退，此名阿鞞跋致地，此乃三乘共十地之義耳。地師云：「十住是證不退，十行是位不退，十迴向是行不退，十地是念不退。」此是別教義，不會此經，今所不用。《瓔珞》云：「初地三觀現前，心心寂滅自然流入。」此亦別教不退，今亦不用。若《華嚴》明初住得如來一身、無量身，具三不退，此圓教不退，此是一實事，今用此判位也。**
 
 **As for "All are irreversible from unsurpassed awakening": this clarifies rank/position. "Anuttara" means "unsurpassed." The "path" is as explained in the Wondrous of Objects; the "rank" is as explained in the Wondrous of Position.**
+*[Critical apparatus: [6] 三【大】，此三【甲】]*
+
 
 **"Irreversible" may be discussed in terms of position, practice, and thought. It should be analyzed in four ways: not being reborn in the three evil destinies is non-retrogression in position; not being reborn in borderlands, having the faculties complete, and not receiving a female body is non-retrogression in practice; constantly knowing past lives is non-retrogression in thought. Possessing these is called the Abhivartika ground - this is the Tripiṭaka meaning.**
 
@@ -919,6 +993,8 @@
 **本迹者，本地寂滅尚非十地，況是初住？尚非初住不退，況復別、通？別、通之位宜釋餘經列眾，圓教之位正在今經，諸經論師既不識迹安能知本？所歎既謬，毀在其中，還成增減兩謗，何謂歎德？觀心者，三觀即三不退，又一心三觀，即一心三不退(云云)。舊云：「皆得陀羅尼」去，始是歎德。今取不退轉即具兩意，成上屬明位，起後屬歎德。舊云：「歎德作十二句，分為四意：初三句歎現德，次三句歎往行，次四句歎內體，後兩句歎外名，四意不同而德居於初，故稱歎德。歎現又兩：初一句歎自行，後二句歎化他。歎行為三：初句歎行本，本從諸佛得般若；次句歎本行，行福德也，既有福德能資於慧；次句為佛所歎。體又三：初慈悲歎應身，中間兩句歎心慧報身，後一句歎法身。歎名為二：初句歎名普聞，次句歎能度眾生。」此之分文極有眉眼，覈論宗體，殊無趣向。若歎通教，通教無三身，又非入佛慧，名不普聞，種種義不成。若歎別教，別教初地已過二乘，云何七地更起聲聞、支佛之念？若歎圓教，不應言七地已下無不退之德，進退無當，竟知歎誰？是所不用。**
 
 **According to *Fundamental/Trace*: the quiescent-destruction of the fundamental ground is still not the Ten Grounds - how much less is it the First Abode? If it is still not even the First Abode's non-retrogression, how much less can it be the Distinct or Shared? The Distinct and Shared ranks are appropriate for explaining other sutras' assembly lists. The Perfect Teaching rank is precisely in this sutra. Since the treatise-masters of other sutras do not recognize the trace, how can they know the fundamental? When what is praised is already mistaken, condemnation is contained within it; it turns into the two slanders of increasing and decreasing - how could this be called praising virtue?**
+*[Critical apparatus: [7] 歎【大】，歎往【甲】; [8] 歎【大】，〔－〕【甲】]*
+
 
 **As for contemplating the mind: the Three Contemplations are precisely the three non-retrogressions; and the one-mind three contemplations are precisely the one-mind three non-retrogressions (and so on).**
 
@@ -933,6 +1009,8 @@
 **今以十三句作橫竪消文，一、竪，約十地義便；二、橫，約初住義便。「不退轉」者成前，即是明位，起後即是歎德，以對初地。初地名歡喜，喜其不退墮二邊，入中道獲三不退，故知歎初歡喜地也。「皆得陀羅尼」歎二地，二地名離垢，亦名離達，離遮諸惡、達持眾善，即陀羅尼義，故知歎離垢地也。「樂說辯才」歎三地，三地名明地，內智明、外說辯，欲知智在說，說有種種樂，說最勝故，故知歎第三明地也。「轉不退轉法輪」歎四地，四地名焰，焰能破闇，又能焦炷，轉法輪自害己惑如焦炷，破他迷如除闇，故知歎第四焰地也。「供養百千諸佛」歎五地，五地名難勝地，此地得深禪定，用神通力難勝難及，於一念頃遍至十方供養諸佛，故知歎第五地也。「於諸佛所植眾德本」歎六地，六地名現前，由得禪能供養諸佛，福資種智，種智現前，智是德本，如植種於地，故知歎第六地也。「常為諸佛之所稱歎」歎第七遠行地，此地二智方便出過一切，廣修利益稱會佛心，故知歎第七地。「以慈修身」歎第八不動地，正智不動不出三界，但以慈董身應入五道，董口為說法，董心為設方便，正法華具董三業，故知歎第八地也。「善入佛慧」歎第九地，九地名善慧，深入實際妙徹本源，此名義最合，故知歎第九地。「通達大智」歎第十地，十地名法雲，法身如虛空，禪定如大雲，智慧如大雨，善入佛法名慧，巧用佛法名智，互舉耳。「到於彼岸」歎十地內德，到三諦之彼岸因中說果，又到在不久也。「名稱普聞」歎十地外德，由內德深廣，致令聲名普聞，內外相稱。若開等覺位者，此二句擬之。「能度百千眾生」者，餘地度人，或一界至九界，不名能度，十地勝前故稱能度。諸地悉具眾功德，而今出沒釋者，為人情好異故，依十地名便故，又豎義易解故，作此一途消文耳。**
 
 **Now, using thirteen clauses, [Zhiyi] dissolves the text by "vertical" and "horizontal" [interpretations]: (1) the vertical - in terms of the Ten Grounds - is convenient; (2) the horizontal - in terms of the First Abode - is convenient.**
+*[Critical apparatus: [9] 禪【大】，禪故【甲】; [10] 董【大】＊，薰【甲】＊; [＊10-1] 董【大】＊，薰【甲】＊; [11] 為【大】，為諸【甲】; [＊10-2] 董【大】＊，薰【甲】＊; [＊10-3] 董【大】＊，薰【甲】＊; [12] 地【大】，地也【甲】; [1] 或【大】，〔－〕【甲】]*
+
 
 **"Non-retrogression" completes what precedes as clarifying rank and initiates what follows as praising virtues, corresponding to the First Ground. The First Ground is named Joy: joy that one does not retrogress and fall into the two extremes, but enters the Middle Way and obtains the three non-retrogressions - therefore we know it praises the First Joy Ground. "All attain dhāraṇī" praises the Second Ground: the Second Ground is named Purity-from-Defilement, also called Purity-from-Obstruction; "removing" blocks all evils and "maintaining" upholds all goods - this is precisely the meaning of dhāraṇī - therefore we know it praises the Second Purity-from-Defilement Ground.**
 
@@ -953,6 +1031,8 @@
 **次，橫歎者，直約初住說之，餘位位例可解。初發心住，一發一切發，出過二邊革凡超聖入中道，其心寂滅，念念流入薩婆若海故，言得不退轉。初住遮離取相無知無明等障，持達般若解脫法身等德，故言得陀羅尼。十信似解，尚能以妙音遍滿三千界，何況初住？真解口密功德，故言樂說辯才。初住能分身百世界作佛，論其實處無量無邊，以能作佛，說法教化，故言能轉不退法輪。初住得不思議神力，遍能承事法界諸佛，故言供養百千諸佛。初住得實相本，能植眾德也。初住開佛知見，知見已法與諸佛同，故為佛之所稱歎。初住無緣慈普現色身，遍應法界，故言以慈修身。初住入祕密藏，故言善入佛慧。初住一心三智無能障礙，故云通達大智。初住事理分究竟，故言到於彼岸。初住圓德真實與名相稱，故言名稱普聞諸佛世界。初住能為十法界而作依止，安立救護，故言能度百千眾生。初住更有無量無邊不可思議種種功德，略言十三句耳。二住去乃至等覺亦復如是，故《大品》云：「初阿字門，具四十一字功德，後茶亦具諸字功德，中間亦爾，字等、語等、功德亦等。」**
 
 **Next, in terms of the "horizontal" praise: it directly explains it in terms of the First Abode; by analogy, the other ranks can be understood. In the First Abode of initial arousing of the mind, one arouses once and everything is aroused; one goes beyond the two extremes, transforms the ordinary and surpasses the sage, entering the Middle Way. The mind is quiescent, and thought after thought flows into the sea of omniscience; therefore it is said to attain non-retrogression.**
+*[Critical apparatus: [＊9-2] 革【大】＊，隔【甲】＊; [2] 供【大】，能供【甲】; [3] 能【大】，有【甲】]*
+
 
 **The First Abode blocks and removes the obstructions of grasping at characteristics, ignorance of knowing, ignorance, and so on; and maintains and reaches the virtues of prajñā, liberation, the Dharma-body, and so on; therefore it is said to attain dhāraṇī. The Ten Faiths are only a semblance of understanding, yet they can already fill the three-thousand-world with wondrous sound - how much more the First Abode? Truly understanding the merits of the mouth-secret, therefore it is said to delight in expounding eloquence.**
 
@@ -985,6 +1065,8 @@
 **答曰：餘位亦如是，何獨初住。舊云「八地有諸功德」，不以為疑；今圓歎初住，何德不攝？初住尚爾，何況後位耶？《法華論》云：「上支、下支門，總相、別相應知。」初得不退轉一句是總。此不退有十種示現：聞法不退轉，即是陀羅尼；樂說不退轉，即是樂說辯才；說不退轉，即是轉不退法輪；依善知識不退轉，即是供養百千諸佛植眾德本；斷疑不退轉，即是為諸佛稱歎；入事不退轉，即是以慈修身；入一切智如實境不退轉，即是善入佛慧；依我空法空不退轉，即是通達大智；入如實境不退轉，即是到於彼岸；應作所作不退轉，即是度百千眾生。故初總句即是上支，次諸別句即是下支。記中橫歎初住德，即與此意同也。論云：「二者攝取事門者，示現諸菩薩住何等清淨地中，因何等方便、何等境界、何等應作所作故。」若從此義，作豎歎菩薩德亦無妨。**
 
 **Answer: The other ranks are also like this - why only the First Abode? The old [interpretation] said that the Eighth Ground has various virtues, and did not take it as doubtful. Now, when the Perfect Teaching praises the First Abode, what virtue would it not encompass? If even the First Abode is like this, how much more the later ranks?**
+*[Critical apparatus: [4] 位【大】，住【甲】; [5] 空【大】，〔－〕【甲】]*
+
 
 **The *Lotus Treatise* says: "The upper-branch and lower-branch gates - the general and particular aspects should be known." The initial clause "attaining non-retrogression" is the general. This non-retrogression has ten manifestations: non-retrogression in hearing Dharma is dhāraṇī; non-retrogression in delighting in expounding is delighting in expounding eloquence; non-retrogression in speaking is turning the non-retrogressive Dharma wheel; non-retrogression in relying on good friends is making offerings to hundreds and thousands of Buddhas and planting roots of virtues; non-retrogression in cutting off doubt is being praised by the Buddhas; non-retrogression in entering affairs is cultivating the body with compassion; non-retrogression in entering the realm of all-wisdom as it really is is well entering Buddha-wisdom; non-retrogression in relying on self-emptiness and dharma-emptiness is penetrating great wisdom; non-retrogression in entering the realm as it really is is arriving at the other shore; non-retrogression in what should be done and what is done is ferrying hundreds and thousands of sentient beings. Therefore, the first general clause is the upper branch, and the subsequent particular clauses are the lower branch. The "horizontal" praise of the First Abode's virtues in this commentary accords with this intent.**
 
@@ -995,6 +1077,8 @@
 **觀心解歎德者，不退轉如前說。陀羅尼者，空觀是旋陀羅尼，假觀是百千旋陀羅尼，中觀是法音方便陀羅尼。又空觀觀心但有名字，即聞持陀羅尼；假觀觀心無量心，心、心數法皆是法門，即行持陀羅尼；中觀觀心，心即實相，即是義持陀羅尼。假觀觀心具十法界法，即法無礙辯；中觀觀心十法界皆入實相，即義無礙辯；空觀觀心十法界但有名字語言，即辭無礙辯。觀一心即三心，三心即一心，一界一切界，旋轉無礙，即樂說無礙辯。空觀是轉位不退法輪，假觀是轉行不退法輪，中觀是轉念不退法輪。供養佛者，秖是隨順佛語。今順佛教修三觀心，即是供養佛；為破五住得解脫故，即供養法；三諦理和即供養僧。又眾行心資觀智心，即供養佛；觀智心開發境界，即供養法；境智心和即供養僧。實相心是觀智心本，觀智心是眾行心本，得本種植則立，故言植眾德本。觀智心冥於境界，境界印於觀智，智有所照常與境合，即是為佛所歎。空觀為法緣慈所薰，假觀為眾生緣慈所薰，中觀為無緣慈所薰。空觀入通佛慧，假觀入別佛慧，中觀入圓佛慧。空觀到一切智彼岸，假觀到道種智彼岸，中觀到一切種智彼岸。空觀聞於真諦，假觀聞於俗諦，中觀普聞中道第一義諦，亦普聞三諦。空觀度四住百千眾生，假觀度塵沙百千眾生，中觀度無明百千眾生。一心三觀有無量德，歎不能盡，止略說耳。**
 
 **In terms of contemplating-the-mind and interpreting the praise of virtues: non-retrogression is as discussed above. As for dhāraṇī: the emptiness contemplation is the "revolving dhāraṇī"; the provisional contemplation is the "hundreds-and-thousands revolving dhāraṇī"; the middle contemplation is the "Dharma-sound expedient dhāraṇī."**
+*[Critical apparatus: [6] 名【大】，〔－〕【甲】; [7] 字語言【大】，空言語【甲】; [＊4-1] 秖【大】＊，只【甲】＊]*
+
 
 **Further: in contemplating the mind with the emptiness contemplation, there are only names - this is "dhāraṇī of hearing-and-holding." In contemplating the mind with the provisional contemplation, there are immeasurable minds; mind and mind-factors dharmas are all Dharma-gates - this is "dhāraṇī of practicing-and-holding." In contemplating the mind with the middle contemplation, mind is precisely reality-mark - this is "dhāraṇī of holding meaning."**
 
@@ -1034,6 +1118,8 @@
 
 ***The Words and Phrases of the Lotus Sutra of the Wonderful Dharma*, Fascicle Two, Part One**
 
+*[Critical apparatus: [1] 稱【大】，稱對治【甲】; [2] 不分卷【甲】]*
+
 ---
 
 **妙法蓮華經文句卷第二下**
@@ -1052,6 +1138,8 @@
 
 **Interpreted by contemplating the mind: the three wisdoms are called "observing"; the three truths are called "world"; the three contemplations are the "speech" and, as the root, are therefore called "sound."**
 
+*[Critical apparatus: [3] 不分卷【甲】]*
+
 ---
 
 **「得大勢」者，《思益》云：「我投足之處，震動三千大千世界及魔宮殿，故名大勢至。」《悲花》云：「願我世界如觀世音等無有異。寶藏佛言：『由汝願取大千世界故，今當字汝為大勢至。』」**
@@ -1063,6 +1151,8 @@
 **觀心釋者，三止為足，投三諦地，動十法界，一切見愛所住之處皆悉傾動(云云)。**
 
 **Interpreted by contemplating the mind: the three cessations are the feet; they step upon the ground of the Three Truths and move the Ten Dharma Realms; all places where views and craving abide are all shaken and overturned (and so on).**
+
+*[Critical apparatus: [4] 勢【大】，勢至【甲】; [5] 世【大】，〔－〕【甲】]*
 
 ---
 
@@ -1076,6 +1166,8 @@
 
 **As for contemplating the mind: in contemplating emptiness, one does not abide in emptiness; in going out into the provisional, one does not abide in the provisional; and in entering the middle, one does not abide in the middle. Simultaneously illuminating the Two Truths is called Never Resting.**
 
+*[Critical apparatus: [6] 億【大】，萬【甲】]*
+
 ---
 
 **「寶掌」者，《普超》云：「被上德鎧乃至佛無能沮敗，令釋大乘，若於夢中，不志二乘，常以實心、諸通慧心，為人講宣，於珍寶心無所貪惜，故名寶掌。」**
@@ -1087,6 +1179,8 @@
 **觀心者，不思議三諦名之為寶，一心三觀名之為掌，以此觀掌執此諦寶，自利、利他故云寶掌。**
 
 **As for contemplating the mind: the inconceivable Three Truths are called jewels; the one-mind three contemplations are called the palm. With this contemplative palm holding these truth-jewels, benefiting self and benefiting others, therefore it is called Jeweled Palm.**
+
+*[Critical apparatus: [7] 志【大】，悉【甲】]*
 
 ---
 
@@ -1105,6 +1199,8 @@
 **觀解者，中道正觀，於諸善中最為上首，故言善守。**
 
 **In terms of contemplation and understanding: rightly contemplating the Middle Way is foremost among all goods; therefore it is called Good Guard.**
+
+*[Critical apparatus: [8] 來【大】，來也【甲】]*
 
 ---
 
@@ -1130,6 +1226,8 @@
 
 **In terms of contemplation and understanding: the wondrous wisdom of the Three Contemplations guides all practices, not falling into the two extremes, and all enter right contemplation; therefore it is named Guide. Those not yet explained will be supplemented later in annotations (and so on).**
 
+*[Critical apparatus: [9] 下【大】，〔－〕【甲】]*
+
 ---
 
 **六、「如是」下，是結句也。**
@@ -1143,6 +1241,8 @@
 **第三列雜眾者，舊云凡夫眾，此中有聖；舊云俗眾，此中有道；舊云天人眾，此中有龍鬼；皆不便。今呼為雜眾，意則兼矣，所謂五道、二界、八番，是故言雜。方等經亦列地獄，《中陰經》亦化無色，此皆隨機適現，不可一例作並，復不可定其次第。舊云人是土主，讓諸客在前，《無量義經》秖與此經同席，明國王、國臣，國民、士女，不論賓主相讓。出經家趣列在文，或有別意未詳。今觀此文有八番，先標帝釋，次列四王，前龍後鳥，鬼神重出，為此義故呼為雜眾，不可言其次第。又雜眾者，此中有得道、未得道者，雜果報與形服雜，故言雜。其中得二乘道者，無漏智與無明煩惱雜，故言雜；其中得菩薩道者，漚和與眾機雜，故言雜；其中得佛道者，一法具一切法，故言雜。雜義如是，豈可以凡夫形俗判之，復不可以五道人天等判之，故言雜也。此是約教釋(云云)。**
 
 **Third is listed the "mixed assembly." The old [interpretations] said it is an assembly of ordinary people, yet here there are sages; said it is a worldly assembly, yet here there is the Way; said it is a deva-and-human assembly, yet here there are dragons and ghosts - all of these are unsuitable. Now it is called the mixed assembly, because the meaning includes them all: namely, the five destinies, the two realms, and eight groupings - therefore it is called "mixed." Vaipulya sutras also list hell; the *Intermediate-State Sutra* also teaches the formless - all of these appear in accord with capacities; one cannot make a single rule and line them up, and one also cannot fix their sequence.**
+*[Critical apparatus: [10] 呼【大】，呼報【甲】; [11] 之【大】，〔－〕【甲】]*
+
 
 **The old [interpretation] said humans are the local hosts and therefore let the guests be listed first; yet the *Infinite Meaning Sutra* sits in the same seat as this sutra and clarifies kings, ministers, citizens, men and women, without discussing host/guest deference. The sutra-compilers arranged the list in the text; perhaps there is another intent not yet understood. Now, observing this text, there are eight groupings: first it marks Indra; next it lists the Four Kings; dragons come before birds; ghosts and spirits appear again - because of this meaning it is called the mixed assembly, and one cannot speak of its sequence.**
 
@@ -1157,6 +1257,8 @@
 **"Śakra Devānām Indra" (釋提桓因): Indra is also called Candira; this is translated as "Able to Act," acting as the lord of the Trāyastriṃśa Heaven. "Trāyastriṃśa" is translated as "Thirty-Three": on each of the four sides there are eight cities, and together with the City of Good-View they make thirty-three, all dwelling atop Mount Sumeru. "Sumeru" is translated as "Stable Brightness"; it is formed of four treasures and is 3,360,000 *lǐ* in height and breadth. This is the lord of the desire heavens; therefore he is listed first.**
 
 **The *Saṃyukta Āgama*, fascicle 40, says: "A bhikṣu asked the Buddha: 'Why is he named Śakra Devānām Indra?' [The Buddha] answered: 'When he was a human, he practiced sudden giving and was capable of acting as a lord; therefore he is named Śakra Devānām Indra.' 'Why is he named Purandara?' 'Because as a human he repeatedly practiced giving.' 'Why is he named Maghavan?' 'Because it was his name when he was a human.' 'Why is he named Śabara?' 'Because as a human he gave this robe-cloth.' 'Why is he named Kauśika?' 'Because it was his clan name when he was a human.' 'Why is he named Śacīpati?' 'Śacī is the wife; pati is the husband.' 'Why is he named Thousand-Eyed?' 'Because as a human he was clever and in one sitting could think a thousand meanings, observe and weigh them; therefore he is named Thousand-Eyed.' 'Why is he named Indriya?' 'Because he is lord of the thirty-two heavens.'" The *Yingluo*, fascicle 3, says: "The name of the Heavenly Emperor is Kōyoku."**
+
+*[Critical apparatus: [12] 旃【大】下同，栴【甲】下同; [1] 本【大】，天本【甲】]*
 
 ---
 
@@ -1188,6 +1290,8 @@
 
 **In terms of contemplation and understanding: the Three Contemplations are the Two Wisdoms; the Three Wisdoms are the Three Luminaries. From the Three Truths arise the Three Wisdoms: the truths are the devas, and the wisdoms are the sons (and so on).**
 
+*[Critical apparatus: [2] 觀【大】，觀心【甲】; [3] 二【大】，三【甲】]*
+
 ---
 
 ### The Four Great Heavenly Kings (四大天王)
@@ -1207,6 +1311,8 @@
 **觀解者，觀四諦智即是四王，一諦下除愛見二惑，即是護八愛見也。次忉利上有焰摩，此翻善時，《大論》云妙善，去忉利三百三十六萬里。善時上有兜率陀，此翻妙足，去焰摩如地遠，而不列者，略耳。何者？下天鈍、上天著樂，尚知來集，況不著、不鈍而不來耶？**
 
 **In terms of contemplation and understanding: contemplating the wisdom of the Four Truths is precisely the Four Kings. Under a single truth, removing the two afflictions of craving and views is protecting the eight cravings and views. Next, above Trāyastriṃśa there is Yāma, translated as "Good Times"; the *Great Treatise* calls it "Wondrous Good." It is 3,360,000 *lǐ* above Trāyastriṃśa. Above Good Times is Tuṣita, translated as "Wondrous Contentment," as far above Yāma as the earth [is below]. That they are not listed is simply abbreviation. Why? The lower heavens are dull and the higher heavens are attached to pleasures - yet they still know to come and gather. How much more would those who are neither attached nor dull fail to come?**
+
+*[Critical apparatus: [4] 大論云妙善【大】，〔－〕【甲】]*
 
 ---
 
@@ -1238,6 +1344,8 @@
 
 **Dwelling between dhyānas: internally there is vitarka and vicāra, and externally there is speech; attaining lordship, he is king. Those who cultivate dhyāna alone are Brahmā citizens; those who add the Four Immeasurables are kings. The first dhyāna has the Brahmā assembly, Brahmā ministers, and Great Brahmā; now it raises the king to include them all.**
 
+*[Critical apparatus: [5] 如【大】，〔－〕【甲】]*
+
 ---
 
 **「光明」者，二禪也，此有少光、無量光、光音；三禪有少淨、無量淨、遍淨；四禪有密身亦無挂礙、無量密亦受福、密果亦廣果、無想密亦無想。又有五那含：不煩、不熱、善見、善現、色究竟亦大自在即摩醯首羅，經文存略不具出，但等等此諸天也。例有教門、本迹、觀心，自思之。**
@@ -1245,6 +1353,8 @@
 **"Light" (光明) refers to the second dhyāna: it has Limited Light, Immeasurable Light, and Light-Sound. The third dhyāna has Limited Purity, Immeasurable Purity, and Pervasive Purity. The fourth dhyāna has Secret-Body (also called Non-Obstruction), Immeasurable Secret (also called Receiving Blessing), Secret Fruit (also called Vast Fruit), and Non-Thought Secret (also called Non-Thought).**
 
 **There are also the five Anāgāmins: No-Affliction, No-Heat, Good-View, Good-Manifestation, and Form's Ultimate - also Great Mastery, namely Maheśvara. The sutra text is abbreviated and does not fully list them; it only says "and so on," meaning these various heavens. By analogy there are teaching-gate, Fundamental/Trace, and contemplating-the-mind interpretations - reflect on them yourself.**
+
+*[Critical apparatus: [6] 之【大】，之云云【甲】]*
 
 ---
 
@@ -1287,6 +1397,10 @@
 **"Anavatapta" (阿那婆達多) is named from a lake; this is translated as "No Heat." The No-Heat Lake: the *Dīrgha Āgama*, fascicle 18, says: "On the summit of the Snow Mountains there is a lake named Anavatapta Lake. Within it is a hall with five pillars. Named from the lake, the Dragon King constantly dwells within. The dragons of Jambudvīpa have three afflictions: (1) hot winds and hot sand attach to the body, burning skin, flesh, and even bone marrow, causing suffering and distress; (2) violent bad winds arise and blow their palaces away, losing jeweled ornaments, clothing, and so on, and the dragon body itself appears, causing suffering and distress; (3) when dragons amuse themselves, the garuḍa enters the palace and seizes and eats newly-born dragon children, causing fearful distress and heat. This lake has none of the three afflictions. If the bird gives rise to the intention to go [there], it immediately dies; therefore it is called the No-Heat-Annoyance Lake."**
 
 **Fundamentally, [it] abides in coolness and in Eternity, Bliss, Self, and Purity; in trace it dwells at the cool lake. In terms of contemplation: the wondrous wisdom of the Three Contemplations purifies the gnawing afflictions of the Five Abodes and avoids the hot sands of the two deaths (and so on).**
+*[Critical apparatus: [9] 現【大】，視【甲】; [10] 涼【大】，源【甲】; [11] 云云【大】，〔－〕【甲】]*
+
+
+*[Critical apparatus: [7] 於【大】，〔－〕【甲】; [8] 也【大】，〔－〕【甲】]*
 
 ---
 
@@ -1347,6 +1461,12 @@
 **"Rāhu" (羅睺羅) is translated as "obstructing and holding" - one who obstructs and holds the sun and moon. It is of the animal type. Its body is 84,000 yojanas long, its mouth is a thousand yojanas wide, and jeweled pearls adorn its body. It observes the deva maidens and deva parks. If the people of the four continents are filial to parents and make offerings to śramaṇas, the devas have mighty power and rain knives from the sky above; if not, the devas enter the palace and do not come out.**
 
 **Further, when the sun emits light and shines on its eyes, it cannot see; it raises its hand and palm to obstruct the sun. People all say there is a strange and dangerous solar eclipse - various wrong theories. Covering the moon is also so. Sometimes it makes a great sound; people say heavenly beasts roar and that danger and disorder mean kings decline - various wrong theories. When it frightens the sun and moon, it doubles its body and exhales energy at the sun and moon, and the sun and moon lose their light. It came to complain to the Buddha. The Buddha told Rāhu: "Do not swallow the sun and moon." Rāhu's joints trembled and his body flowed with white sweat; it immediately released the sun and moon. By the power of the sun and moon, the power of sentient beings, and the power of the Buddha, by the many causal conditions it could not do harm.**
+*[Critical apparatus: [3] 不爾【大】，不爾者【甲】; [4] 邪【大】＊，耶【甲】＊; [＊4-1] 邪【大】＊，耶【甲】＊]*
+
+*[Critical apparatus: [2] 云【大】，〔－〕【甲】]*
+
+*[Critical apparatus: [1] 魚龍【大】，龍魚【甲】]*
+
 
 **In the past there was a brahmin, intelligent and broadly generous, who carried food on four thousand carts and gave in the wilderness. There was a Buddha-stūpa burned by evil people; he used four thousand carts of water to extinguish the fire and rescue the stūpa. Rejoicing, he made a vow: may I attain a great body, foremost in the desire realm. Because he lacked right faith, delighted in fighting and loving war, and delighted in giving, he was born in the City of Light and became the asura lord Rāhu. The *Zheng* version calls this "inhaling breath." Fundamental and contemplation (and so on).**
 
@@ -1357,6 +1477,8 @@
 **次列四迦樓羅，此云金翅，翅翮金色，居四天下大樹上，兩翅相去三百三十六萬里，有人言：《莊子》呼為鵬，鵬行眾鳥翼之，亦稱為鳳皇。私謂鳳不踐生草，噉竹實，棲乳桐；金翅噉龍，云何是類？「大威德」者，威勝群輩，又威攝諸龍也，《正》本云「具足」。「大身」者，大群輩也。「大滿」者，龍恒充滿己意也。「如意」者，頸有此珠也，《正》本云「不可動」。迦樓鳥有神力，雄化為天子，雌變為天女，化己住處有寶宮，亦有百味，而報須食龍，胎能噉胎，不能噉三，卵能噉二，濕能噉三，化能噉四。《觀佛三昧經》云：「正音迦樓，一日山東噉一龍王，五百小龍，三方亦爾，周而復始壽八千年。臨終失勢欲噉龍子，龍母𭋣嘇之不得食，即嗔從金剛山透海，穿地輪過，不能過風輪，風彈之，從故孔湧到金剛山，如是七返，還山頂命終，肉裂火起，將燒寶山，難陀雨雨滅之，肉爛心衝風輪亦七返，墮山上成如意珠，龍得之即為王，人王亦感此珠者也。」**
 
 **Next are listed four garuḍas. This is translated as "golden-winged": their wing-feathers are golden in color. They dwell atop the great trees of the four continents. The two wings are 3,360,000 *lǐ* apart. Some say that in the *Zhuangzi* they are called the *péng*; when the *péng* travels, the myriad birds wing alongside it, and it is also called a phoenix. Privately, [Zhiyi] says: the phoenix does not tread on living grass, eats bamboo fruit, and perches on paulownia; the golden-winged bird eats dragons - how could they be the same kind?**
+*[Critical apparatus: [5] 此【大】，〔－〕【甲】]*
+
 
 **"Great Majestic Virtue" means its might surpasses the multitude and also subdues dragons; the *Zheng* version calls it "complete." "Great Body" means the multitude is great. "Great Fullness" means dragons constantly fill its intent. "Wish-Fulfilling" means its neck has this jewel; the *Zheng* version calls it "immovable."**
 
@@ -1371,6 +1493,8 @@
 **次列人者，「韋提希」，母也，翻思惟。頻婆娑羅，此翻模實，父也。「阿闍世」者，未生怨，或呼為婆留支，此云無指，內人將護呼為善見，善見之名本也，無指之稱表迹。《大經》云：「阿闍名不生，世者名怨。」以不生佛性故，則煩惱怨生，煩惱怨生故不見佛性，不生煩惱即見佛性。又阿闍者名不生，世名世法，以世八法所不污故，故名阿闍世，此是本義也。《普超經》云：「阿闍世從文殊懺悔，得柔順忍，命終入賓吒羅地獄，即入、即出，生上方佛土得無生忍，彌勒出時復來此界，名不動菩薩，後當作佛，號淨界如來。」其迹既爾，本豈可量？說《法華》時預清淨眾，至《涅槃》時引逆罪者，何異迦葉於《法華》受記，於《涅槃》不堪付囑？不可迷迹而惑其本也。**
 
 **Next are listed the humans: "Vaidehī" is the mother; it is translated as "Concentration/Contemplation." "Bimbisāra" is translated as "Modeled Reality"; he is the father. "Ajātaśatru" means "unborn enemy." He is also called Vāruci, translated as "No Finger." The inner attendants who nursed him called him Good-View; Good-View is the fundamental name, and "No Finger" is the trace designation.**
+*[Critical apparatus: [6] 翻【大】，此翻【甲】; [7] 者【大】＊，〔－〕【甲】＊; [＊7-1] 者【大】＊，〔－〕【甲】＊; [1] 時【大】，世時【甲】; [2] 而惑【大】，或【甲】]*
+
 
 **The *Mahā-sūtra* says: "Ajāta means not born; śatru means enemy." Because Buddha-nature is not born, the enemy of afflictions is born; because the enemy of afflictions is born, one does not see Buddha-nature; when afflictions are not born, one sees Buddha-nature. Further: Ajāta means not born; śatru means worldly dharmas. Because he is not defiled by the eight worldly dharmas, therefore he is named Ajātaśatru - this is the fundamental meaning.**
 
@@ -1419,6 +1543,8 @@
 **此義今當辯。夫諸道升沈，由戒有持、毀；見佛、不見佛，由乘有緩、急。然持戒有麁細，故報有優、劣；持乘有小、大，見佛有權、實，且略判戒乘各為三品，依《涅槃》一句開為四句釋之，其義則顯：一、戒乘俱急，二、戒緩乘急，三、戒急乘緩，四、戒乘俱緩。若通論戒乘，一切善法，一切觀慧，皆得稱戒，亦皆是乘，人天五乘即是其義，道、共等戒悉是通意也。今就別判，三歸、五戒、十善、八齋、出家律儀，乃至定共、能防身口、遮惡道果、得人天報者，名之為戒。若聞經生解，觀智推尋四諦、十二緣、六度、生滅無生滅等，智能破煩惱，運出三界者，名之為乘。故《大品》云：「有相之善不動、不出，無相之善能動、能出。」即此義也。若戒乘俱急者，持下品戒，戒急報在人中，持小乘乘急，以人中身，於三藏教時見佛聞法；持中乘乘急，以人報身，於通教大乘乃至帶方便諸大乘經時，見佛聞法；持上乘乘急，以人報身於華嚴、法華等教及諸教中圓，見佛聞法，預列為同聞眾者是也。若持中品戒急，報在欲界天，持小乘乘急，以欲界天身，於三藏時見佛聞法，餘如上說。若持上品戒急，加修禪定報在色、無色天等，持小乘乘急，以色、無色天身，於三藏中見佛聞法，餘如上說。釋第一句竟。若戒緩乘急者，三品戒皆緩，報墮三途，持小乘乘急，以三途身，於三藏中見佛聞法，餘如上說。釋第二句竟。若戒急乘緩者，三戒急故，受欲界人天及色、無色天身，三乘緩故，佛雖出世說三乘法，愛著樂報耽荒五欲，不見佛、不聞法，舍衛三億家，及諸不見聞者，三界著樂諸天等是也。釋第三句竟。若戒乘俱緩者，受三途報，不見佛、不聞法也，釋第四句竟。此文不列地獄者，以其戒緩，苦重報隔；上乘又緩，不能於法華見佛聞法，餘經有列者，餘乘急耳。又不列無色天者，上戒急故受天身著定味，上乘緩故，不能於法華見佛聞法；餘經有列者，有餘乘急耳。若得此意，一一勘天龍八部，皆識本緣緩急，來、不來義悉可解，廣釋如《淨名疏》。又識權者引實，本迹義轉明，將此勘已觀行，三世因果朗然可識。**
 
 **This meaning should now be distinguished. The rising and sinking of the destinies depends on whether precepts are upheld or violated; seeing the Buddha or not seeing the Buddha depends on whether the vehicle is slow or swift. Upholding precepts has coarse and fine, therefore the recompense is superior or inferior; upholding the vehicle has small and great, therefore seeing the Buddha has provisional and real. Briefly judging both precepts and vehicle each as three grades, and by one line from the *Nirvāṇa* unfolding them into four statements, the meaning becomes clear: (1) both precepts and vehicle are swift; (2) precepts are lax and vehicle is swift; (3) precepts are swift and vehicle is lax; (4) both precepts and vehicle are lax.**
+*[Critical apparatus: [3] 以下斷缺【甲】]*
+
 
 **If one speaks broadly of precepts and vehicle: all wholesome dharmas and all contemplative wisdom may be called precepts, and all are also vehicles. The five vehicles of humans and devas are precisely this meaning; the precepts such as the path-precepts and shared-precepts are all the Shared intent. Now, in a distinct classification: taking refuge in the Three Jewels, the five precepts, ten wholesomes, eight fast-days, monastic discipline, up to the dhyāna-shared precepts - those that can guard body and speech, block the fruits of evil destinies, and attain human and deva recompense are called precepts. If, hearing sutras, understanding is born, and contemplative wisdom investigates the Four Truths, Twelve Links, Six Perfections, arising-and-ceasing and non-arising-and-ceasing, and so on, such that wisdom can break afflictions and carry one out of the three realms, that is called vehicle. Therefore the *Mahāprajñāpāramitā* says: "Wholesome with characteristics cannot move and cannot depart; wholesome without characteristics can move and can depart." This is precisely the meaning here.**
 
@@ -1449,6 +1575,8 @@
 **「爾時世尊」下，訖品，名別序。文為五：一、眾集，二、現瑞，三、疑念，四、發問，五、答問。光宅逆順生起，由眾集故現瑞，乃至由問故答，答由於問，乃至瑞由眾集，此乃翻覆緣起，鉤鎖相連，序於正意，竟自未顯，直是因緣一釋，尚自不明，況二三四緣，了無趣向。今明五序，序正中四一，集眾敘人一，現瑞敘理一，疑念敘行一，問答敘教一，此則因緣釋也。約教者，此序序正，非三藏，非通、非別，乃是序於圓正耳。約本迹者，若以序序〈壽量〉中本地四一者，此義自可知，不復記。觀心可解(云云)。就眾集又二，初眾集威儀，次眾集供養，《法華論》目此為威儀如法住。**
 
 **From below the words "At that time the World-Honored One..." up to the end of the chapter is called the Distinct Sequence. The text has five parts: (1) the assembly gathering; (2) the manifestation of omens; (3) doubt and pondering; (4) raising the question; (5) answering the question.**
+*[Critical apparatus: [4] 法華文句卷第三首，卷首題下無天台智者大師說七字【甲】]*
+
 
 **Guangzhai's reverse-and-forward arising says: because the assembly gathers there are omens, up to because there is a question there is an answer; the answer depends on the question, up to the omens depend on the assembly gathering. This overturns conditioned arising, linking hook-to-link; yet the sequence toward the main intent is ultimately not revealed. It is merely one interpretation by causal conditions - it is not even clear there, much less in the second, third, and fourth kinds of conditions; there is no direction.**
 
@@ -1463,6 +1591,8 @@
 **「四眾」者，舊云：「出家、在家各二，合為四眾。」此名局，意不周。今約一眾，更開為四：謂發起眾、當機眾、影響眾、結緣眾。發起者，權謀智鑒，知機、知時，擊揚發動，成辦利益，如大象躄樹使象子得飽，所謂發起令集，發起瑞相，乃至發起問答等，皆名發起眾。當機者，宿植德本，緣合時熟，如癰欲潰，不起于座，聞即得道，此名當機眾。影嚮者，古往諸佛、法身菩薩，隱其圓極，匡輔法王，如眾星繞月，雖無為作而有巨益，此名影嚮眾。結緣者，力無引導擊動之能，德非伏物鎮嚴之用，而過去根淺，覆漏污雜，三慧不生，現世雖見佛、聞法，無四悉檀益，但作未來得度因緣，此名結緣眾。比丘眾既爾，餘三眾亦然，合十六眾。類如大通智勝佛時，王子覆講即彼時發起眾，聞法得道即彼時當機眾，聞法未度而世世相值，于今有住聲聞地者，即彼時結緣眾。彼佛世時尚有四四十六眾，今佛道同，寧得無耶？此是圓教十六眾，約三教亦例可知。**
 
 **As for the "four assemblies": the old [interpretation] said: "Those who have left home and those who remain at home each have two; together they make the four assemblies." This name is narrow and the intent is not comprehensive. Now, taking it as one assembly and further opening it as four, they are: the initiating assembly, the responsive assembly, the shadow-and-influence assembly, and the karmic-connection assembly.**
+*[Critical apparatus: [5] 合【大】，各合【甲】; [6] 集【大】，眾集【甲】; [7] 古往【大】，往古【甲】]*
+
 
 **Initiating: having strategic wisdom and discerning insight, knowing capacities and knowing time, striking and raising and stirring, accomplishing benefits - like a great elephant shaking a tree so that the elephant-calf is fed. That is, initiating the gathering, initiating omens, up to initiating question-and-answer and so on - all are called the initiating assembly.**
 
@@ -1509,6 +1639,8 @@
 **從「為諸菩薩說大乘經」下，訖「以佛舍利起七寶塔」，是現相序。瑤師明七瑞，此土開六，他土總一；光宅此彼各六瑞。此六者，動則說法度人，靜則入定觀理，動靜為一雙；上天雨四花，下地六種動，上下為一雙；大眾內懷歡喜，如來外放光明，內外為一雙。今謂尋文起盡如光宅，若取名義便易，表報之意並自未彰。今明智定、因果、感應為三雙：智則指一說多，定則諦緣義處；因則四位天花，果則六處地動；感則大乘機發，應則圓毫照之。此六皆稱瑞相者，文云：「今相如本瑞」，瑞秖是相耳，人情分別，以密報為瑞，奇異為相。相何所報？妙理玄賾說之至難，人情悠悠不能尊重，先以異相駭變常情，常情既變而生欽渴，故以異釋相，以報釋瑞。略明六瑞，表報十妙，感應妙中已說，今更道說法瑞，表報說法妙、智妙；入定瑞，表報行妙；雨花瑞，表報位妙；地動瑞，表報境妙、乘妙；眾喜瑞，表報眷屬妙、利益妙；放光瑞，表報感應妙、神通妙，是故六種俱名現相序。**
 
 **From the words "expounded the Great Vehicle Sutra for the sake of all bodhisattvas" down to "using the Buddha's relics to raise a seven-jeweled stupa" is the Manifestation Sequence. Master Yao explains seven omens: in this land six are opened, and in that land they are combined as one. Guangzhai says there are six omens here and six there.**
+*[Critical apparatus: [1] 並【大】，普【甲】; [2] 秖【大】下同，只【甲】下同]*
+
 
 **As for these six: in movement there is expounding Dharma and ferrying people across; in stillness there is entering samādhi and contemplating principle - movement and stillness form one pair. Above, heaven rains four flowers; below, the earth moves in six ways - above and below form one pair. The great assembly internally harbors joy; the Tathāgata externally emits light - internal and external form one pair.**
 
@@ -1549,6 +1681,10 @@
 **生師云：「無相空理，大乘之本，封三來久，頓說無三，不能取信，故說無相為《法華》序。」觀師意同。若爾，《般若》、《淨名》皆應是序，何獨《無量義》耶？彼釋云：「如此由五時故後教得起。」更問：「若爾，《無量義》與諸經皆通途相生，非關別序。」基師云：「空理無形故云無量，序意同前，難亦如是。」印師云：「無相善有成佛義，故言無量。」又云：「彼經不說有三、無三有異，《大品》非《法華》所指，指者不來秦地。」今謂此經是宋元嘉三年慧表比丘，於南海郡朝廷寺，遇曇摩耶舍受此本，還武當山，永明三年始傳於世。經既已來，豈可送還天竺？光宅云：「《無量義》以萬善同歸能成佛道，《法華》正明無二、無三，破三與一為異，故即為序。」若言萬善同歸，二三何不同歸？二三若歸，序正不異；若言破二、破三，何不破萬？破二、破三，則無二無三，既其破萬，是則無序。取經互舉意為異者，不成異也，異意不顯，序義亦不成也。劉虬注云：「無相為本，無相一法含義不貲。」若含義不貲，即是有相，何謂無相？尋諸師各偏一種，若言有相之善有成佛義，此三藏意耳；若言無相之善有成佛義，此通教意耳；若言含法不貲，此別教意耳。並他經所明，皆非序《法華》意耳。若《法華論》列十七種，皆《法華》之異名，無量義者，即《法華》之一名也。今申論意，佛直說此名而入此定，故得為序。《大品》、《金光明》、《涅槃》，皆先唱名，於序無妨。今經文殊引古佛，亦名無量義；又云：「當說大乘經名妙法蓮華」，此亦序中唱名，與論意同也。今按彼經釋無量義者從一法生，其一法者所謂無相，無相、不相名為實相，從此實相生無量法，所謂二法、三道、四果。今釋此文，無相者，無生死相也；不相者，不涅槃相也；涅槃亦無，故言不相無相，指中道為實相也。二法即頓、漸，頓謂《華嚴》頓中一切法也，漸謂三藏、方等、般若一切法也。三道即三乘，四果即羅漢、支佛、菩薩、佛，此等諸法名為無量。實相為義處，從一義處出無量法，得為無量法入一義處作序。譬如算師，從一算下諸算，除諸算歸一算，由下故除，下為除序。從一派諸，收諸歸一，開為合序，亦復如是。如此消釋，不違彼經論，亦與此經合(云云)。**
 
 **Master Sheng says: \"The markless empty principle is the root of the Great Vehicle. The sealing of the Three has been long; if one suddenly says \"no three,\" people cannot accept it. Therefore one speaks marklessness as the *Lotus* preface.\" Master Guan's intent is the same. If so, then the Prajñā sutras and the *Vimalakīrti* should all be prefaces; why only the *Infinite Meaning*? Their explanation says: \"Because of the Five Periods, later teachings can arise.\" We further ask: if so, then *Infinite Meaning* and the other sutras all mutually generate one another along the common road; that has nothing to do with a distinct preface.**[^6]
+*[Critical apparatus: [4] 宋【大】，宗【甲】; [5] 與【大】，與歸【甲】; [6] 若【大】，善【甲】; [7] 序正【大】，正序【甲】; [8] 耳【大】，也【甲】; [9] 無【大】，出無【甲】; [10] 佛【大】，佛也【甲】; [1] 亦【大】，〔－〕【甲】]*
+
+*[Critical apparatus: [3] 僧【大】，阿僧【甲】]*
+
 
 **Master Ji says: \"Because the empty principle has no form, it is called 'infinite'; the intent of 'preface' is the same as before; the difficulty is also like that.\" Master Yin says: \"Because markless good has the meaning of becoming Buddha, it is called 'infinite'.\" He also says: \"That sutra does not speak of a difference between 'having three' and 'no three'. The *Great Prajñā* is not what the *Lotus* points to; what it points to did not come to the Qin land.\" Now we say: this sutra was [transmitted] by the bhikṣu Huibiao in the third year of Yuanjia (Song); in the Court Monastery of Nanhai Commandery he met Dharmayaśas and received this copy; returning to Mount Wudang, it was first circulated in the third year of Yongming. Since the sutra has already arrived, how could one \"send it back\" to India?**
 
@@ -1583,6 +1719,8 @@
 **「佛所護念」者，無量義處是佛自所證得，是故如來之所護念。下文云：「佛自住大乘也，雖欲開示，眾生根鈍，久默斯要，不務速說。」故言護念。**
 
 **As for \"That which the Buddha protects and keeps in mindfulness\": the Meaning-Place of Infinite Meanings is what the Buddha himself has realized; therefore it is what the Tathāgata protects and keeps in mindfulness. Below it says: \"The Buddha himself abides in the Great Vehicle. Although he wishes to open and reveal [it], sentient beings' faculties are dull; for a long time he kept this essential point silent, not hastening to speak.\" Therefore it says \"protected and kept in mindfulness.\"**
+
+*[Critical apparatus: [2] 住【CB】【甲】，在【大】]*
 
 ---
 
@@ -1635,6 +1773,8 @@
 **「天雨四花」者，舊云：「小、大白，小、大赤。」《正法華》云：「意花、大意花，浦嚮花、大浦嚮花。」《釋論》九十九云：「天花妙者，名曼陀羅。」又七十九云：「八百比丘成佛國土，常雨五色曼陀羅花。」舊雨小、大白，表在家二眾，小、大赤表出家二眾，表其昔來因而未果。今謂此解狹而不當，直論四眾，收三藏中十六眾尚不盡，況復四十八眾？是故為狹。夫花相密報其因，四眾昔來已是因，何俟花報？若報其果，天應雨實，何故雨花？故云不當。今言雨花，明其昔因非佛因，三藏中因是二乘因，通中因是共因，別中是菩薩因，皆非佛因。今天雨花，報其當獲佛因。佛因者，即四輪因也，小白表銅輪，習種性開佛知見也；大白表銀輪，性種性十行，示佛知見也；小赤表迦輪，道種性十迴向，悟佛知見也；大赤表琉璃輪，聖種性十地，入佛知見也。四輪皆同是因，是因由中而生，故從天而雨，由是因位故，以花表之。但因有趣果之義，故而散佛上。如此因果，誰當感剋？秖是此會時眾，故言「及諸大眾」也。下文殊釋疑，吹大法䗍等四句，又正說中開示悟入，又與大車中遊於四方，節節相承皆是位義，故知花表因位也。**
 
 **As for \"Heaven rains four flowers\": the old explanation says, \"Small and great white; small and great red.\" The *Zhengfa-hua* says: \"Meaning-flower; Great-meaning-flower; Pǔxiàng-flower; Great-Pǔxiàng-flower.\" The *Treatise* (99) says: \"Heavenly flowers, when wondrous, are called māndārava.\" And again (79) says: \"Eight hundred bhikṣus become Buddhas in their lands, where five-colored māndārava flowers constantly rain.\" The old explanation takes the raining of small and great white to represent the two lay assemblies, and small and great red to represent the two renunciant assemblies, signifying their former causes but not yet their fruits.**
+*[Critical apparatus: [3] 實【大】，寶【甲】; [4] 迦【大】，金【甲】]*
+
 
 **Now we say: this explanation is narrow and improper. Even if one speaks only of the four assemblies, it still does not fully include the sixteen assemblies of the Tripiṭaka teaching - how much less the forty-eight assemblies? Therefore it is narrow. Moreover: the flower-appearance secretly reports its cause. Since the four assemblies have long already been causes, why wait for flowers to report it? If they report the fruit, heaven should rain \"real things\" - why rain flowers? Therefore it is improper.**
 
@@ -1701,6 +1841,8 @@
 **「普佛世界地六種動」者，舊云動三乘人因果決定六執者，此破三藏家三乘六執，未破通教三乘六執。通教約法，三人因果同，若約人，三人因果異，此之同異俱被破，而舊家破意不破此也。別教無三乘名則無六執，舊所不破。今明別家因時三法縱橫，果時三法亦縱橫，此則須破。今釋地六種動，表圓家六番破無明，無明磬礴未曾侵毀，方將破壞，故動地以表之，無明若轉即變為明，故普佛世界六種震動也。六種表住、行、向、地、等、妙六番也。《優婆塞清淨行經》云：「菩薩生時動地，示此生已盡無復煩惱，一切眾生應得道者，煩惱將滅故動。」即此義也。**
 
 **As for the phrase "the entire Buddha-world's earth moves in six ways": the old explanation says it is the six fixed attachments of the three-vehicle people's cause-and-fruit. This breaks the Tripiṭaka school's three vehicles' six attachments, but does not break the Shared Teaching's three vehicles' six attachments. In the Shared Teaching, if one speaks in terms of dharmas, the three people's cause-and-fruit are the same; if one speaks in terms of persons, the three people's cause-and-fruit differ. Both this sameness and difference are broken, yet the old school's intent of breaking does not break this. In the Distinct Teaching, since there is no name of \"three vehicles,\" there are then no six attachments - which the old [explanation] does not break. Now we clarify that in the Distinct school, at the time of cause the three dharmas interweave horizontally and vertically, and at the time of fruit the three dharmas also interweave horizontally and vertically - this too must be broken.**
+*[Critical apparatus: [5] 以【大】，〔－〕【甲】]*
+
 
 **Now, in explaining the earth's six kinds of movement: it signifies the Perfect school's six rounds of breaking ignorance. Ignorance is vast and has never yet been violated; it is just about to be broken, therefore the earth is shaken to signify it. If ignorance turns, it then transforms into clarity; therefore the entire Buddha-world shakes in six ways. The six kinds signify the six rounds of Abodes, Practices, Transferences, Grounds, Equal Enlightenment, and Wondrous Enlightenment. The *Upāsaka Precepts (Pure Conduct) Sutra* says: \"When a bodhisattva is born, the earth moves, showing that once this birth has occurred, there are no further afflictions. For all sentient beings who should attain the Way, because their afflictions are about to cease, the earth moves.\" This is precisely that meaning.**
 
@@ -1715,6 +1857,8 @@
 **觀行者，動六根也，地相堅固如六根水執，未曾入大乘之道，動難動之地，表淨未淨之根。東涌西沒者，東方青主肝，肝主眼；西方白主肺，肺主鼻，此表眼根功德生、鼻根煩惱互滅，鼻根功德生、眼中煩惱互滅，餘方涌沒表餘根生滅亦復如是。六動者，動、起、涌、震、吼、覺，一一中又有三：謂動、遍動、等遍動。直動為動，四天下動為遍動，大千動為等遍動。餘五亦如是，合十八種動，此即表淨十八界也(云云)。**
 
 **In terms of contemplating practice, it is the moving of the six sense faculties. The earth-characteristic is firm and solid, like the six faculties' watery clinging. [Since one] has never entered the Great Vehicle's path, the \"hard-to-move\" earth is moved, signifying faculties that are pure-yet-not-pure.**
+*[Critical apparatus: [1] 滅【大】，滅也【甲】]*
+
 
 **As for \"east surges and west sinks\": the east is green and governs the liver; the liver governs the eye. The west is white and governs the lungs; the lungs govern the nose. This signifies that the eye-faculty's merit arises while the nose-faculty's afflictions mutually cease; and that the nose-faculty's merit arises while the eye's afflictions mutually cease. The surging and sinking of the remaining directions signifies that the arising and ceasing of the remaining faculties is likewise.**
 
@@ -1751,6 +1895,8 @@
 **天花悅眼，地動震心，《大經》云：「動時能令眾生心動。」花地是外瑞，心喜是內瑞，非常之喜，昔雖曾有，而不為喜所動，而能一心觀佛，何得非瑞？若言歡喜動陰心者，人天義也；若喜動真諦無漏心者，藏通義也；若喜動即假心者，別義也；喜動實相心者，圓義也。**
 
 **Answer: Heavenly flowers delight the eyes; earth-shaking shakes the mind. The *Mahā-sūtra* says: \"When it moves, it can cause sentient beings' minds to move.\" Flowers and earth are external omens; mind-joy is an internal omen. It is not ordinary joy. Though such joy has existed in the past, [one] was not moved by joy and yet could contemplate the Buddha with one mind - how could it not be an omen? If one says joy moves the defiled (skandha) mind, that is the human-and-heaven meaning. If joy moves the undefiled mind of the True Truth, that is the Tripiṭaka/Shared meaning. If joy moves the Provisional mind, that is the Distinct meaning. If joy moves the mind of the Real Aspect, that is the Perfect meaning.**[^14]
+*[Critical apparatus: [2] 而【大】，而今【甲】; [3] 喜【大】，歡喜【甲】; [4] 藏【大】，是藏【甲】; [5] 義【大】，意【甲】]*
+
 
 [^14]: **\"Mahā-sūtra\" (大經):** In Wenju contexts this usually indicates the *Mahāparinirvāṇa-sūtra*, here cited for the motif that great movements \"move\" beings' minds.
 
@@ -1761,6 +1907,8 @@
 **次明佛放光瑞，即表應機設教，破惑除疑。白毫具種種功德，《觀佛海三昧經》云：「佛初生時，牽長五尺，苦行時長一丈四尺，得佛時長一丈五尺，其毫中表俱空，如白琉璃筒，內外清淨。從初發心，中間行行種種相貌，乃至入涅槃，一切功德皆現毫中。」毫在二眉之間，即表中道常也，其相柔軟表樂，卷舒自在表我，白即表淨，放光破闇表中道生智慧，光照此土、他土表自覺、覺他。**
 
 **Next, explaining the omen of the Buddha emitting light: it signifies establishing teaching in response to capacities, breaking delusion and removing doubt. The white curl possesses various merits. The *Contemplation of the Buddha-Sea Samādhi Sutra* says: \"When the Buddha was first born, it was drawn out to be five *chǐ* long; when practicing asceticism it was one *zhàng* four *chǐ* long; when he attained Buddhahood it was one *zhàng* five *chǐ* long. Within the hair, inside and outside are both empty, like a white beryl tube, pure within and without. From the first arousing of the mind, through the various practices and various appearances in the middle, up to entering nirvāṇa, all merits are displayed within the hair.\" The curl is between the two eyebrows, symbolizing the Middle Way's permanence; its softness symbolizes bliss; its free rolling and unrolling symbolizes self; its whiteness symbolizes purity. Emitting light breaks darkness, symbolizing that from the Middle Way wisdom arises. The light illuminating this land and other lands symbolizes self-enlightenment and enlightening others.**[^15]
+*[Critical apparatus: [6] 牽【大】，毫【甲】]*
+
 
 [^15]: **Texts cited in CBETA 002:593:** `《觀佛海三昧經》` is cited for the \"white curl\" (白毫) imagery and its doctrinal reading. Measurements (尺/丈) are kept as given in the source.
 
@@ -1775,6 +1923,8 @@
 **復次，眾經明放光不同，《大品》從足下千輻輪相，乃至頂髻，一一各放六萬億光明，如彼廣說。《大經》面門放光，此經白毫放光，緣宜不同耳。又收光不同，《育王經》云：「收從背入，欲記過去事；收從前入，欲記未來事。」而不見記現在事，私謂脇入應記現在事也。足入記地獄，踝入記畜生，脚指入記鬼，膝入記人，左掌入記鐵輪王，右掌入記金輪王及記諸天，臍入記聲聞，口入記緣覺，白毫入記菩薩，肉髻入記佛。而今經放白毫光，而未見收光之文者，略耳。又解云，放光照現在事，收光明將來事，此經正論此土、他土諸佛道同，故正論放光。若解諸佛道同，即開示悟入，任運獲記則放光為正，收光是傍，故略而不說耳。若丈六佛放光者，三藏義也；若尊特佛與丈六佛共放光者，通義也；若尊特佛獨放光者，別義也；若丈六佛即毘盧遮那法身放光者，圓義也。舊云：「此土六瑞訖至膩吒天。」今尋文從照東方萬八千土下，即是他土六瑞之文，蓋斟酌由人耳。舊云：「實照十方，照東方者，表一乘因果是諸因果之上，萬是數圓表果位滿，八千數缺表因果未足，若照東方義已足，更照九方復何所表？」今明東是方始，表十住是位始，迹門說法，生身菩薩朗然見理，入於十住開佛知見。舉初即知中後，故云：「靡不周遍者」。當知諸方亦然，諸位亦然，若就本門說法，四方佛集即表本門說法，法身菩薩增道損生，四位增長也。**
 
 **Furthermore: the sutras describe \"emitting light\" differently. In the *Great Prajñā*, it is from the thousand-spoked wheel-mark beneath the feet up to the topknot; each emits sixty thousand myriads of millions of rays, as explained there in detail. The *Mahā-sūtra* has light emitted from the face; this sutra has light emitted from the white curl; it is simply that conditions and suitability differ.**[^16]
+*[Critical apparatus: [7] 緣宜【大】，宜緣【甲】; [8] 今【大】，此【甲】]*
+
 
 **Moreover, the \"collecting\" of the light differs. The *Aśoka Sutra* says: \"If it is collected from the back and enters [the body], it is to predict past matters; if it is collected from the front and enters, it is to predict future matters.\" Yet it does not mention predicting present matters; privately, I say that entering from the side should predict present matters. \"Entering the feet\" predicts hell; the ankles predict animals; the toes predict ghosts; the knees predict humans; the left palm predicts the Iron Wheel King; the right palm predicts the Gold Wheel King and predicts the heavens; the navel predicts śrāvakas; the mouth predicts pratyekabuddhas; the white curl predicts bodhisattvas; the fleshy topknot predicts Buddhas.**
 
@@ -1799,6 +1949,8 @@
 **次明光照他土六瑞者，一見六趣，二見諸佛，即是上聖下凡為一雙，三聞佛說法，四見四眾得道，即是人法一雙，五見菩薩行行，六見佛涅槃，即是始終一雙。既有可化眾生，即有能化之佛，有佛即有說法，說法即有弟子，弟子即是行始，行始必致終也。若此土六瑞，總報眾生當獲自覺；彼土六瑞，總報眾生當獲覺他。又此彼六瑞，表此彼諸佛道同。從「盡見彼土六趣眾生」下，至「行菩薩道」者，是現彼土已與此同。從「復見諸佛」下，至「七寶塔」者，是現此土當與彼同。略說竟。更廣說者，從又見六趣眾生，是現彼佛為五濁故出現於世，此佛亦然，二土出世意同也。及「聞諸佛所說經」者，是現彼佛初從無相一法非頓而頓，與此土初說《華嚴》意同也。從「并見諸比丘」下，是現彼佛非漸而漸，與此土佛次說三藏意同也。從「復見諸菩薩」下，是彼佛三藏之後，說方等、《般若》眾經，與此土佛三藏之後意同也。從「復見諸佛」下，至「起七寶塔」，是現彼佛般若之後開權顯實，收無量法還入一法，唱入涅槃息化起塔，光照彼土始終究竟炳然在目。當知此土從一出無量，非頓而頓、非漸而漸，其事已竟，必當收無量法還入一法，開權顯實、息化歸真，與彼土同也。**
 
 **Next, explaining the Six Omens of the light illuminating other lands: (1) seeing the six destinies; (2) seeing the Buddhas - this is the pair of superior sages and inferior ordinary beings; (3) hearing the Buddhas expound the Dharma; (4) seeing the four assemblies attain the Way - this is the pair of person and Dharma; (5) seeing bodhisattvas practicing conduct; (6) seeing Buddhas' nirvāṇa - this is the pair of beginning and end. Since there are sentient beings to be transformed, there are Buddhas who can transform; having Buddhas, there is preaching; having preaching, there are disciples; disciples are the beginning of practice; practice must reach the end.**
+*[Critical apparatus: [9] 眾【大】，之眾【甲】; [10] 經【大】，經法【甲】; [11] 竟【大】，竟日【甲】; [12] 出【大】，生出【甲】]*
+
 
 **If it is This Land's Six Omens, they generally report that sentient beings will obtain self-enlightenment. If it is that land's Six Omens, they generally report that sentient beings will obtain enlightening others. Moreover, the Six Omens here and there symbolize that the Way of the Buddhas here and there is the same.**[^10]
 
@@ -1881,6 +2033,8 @@
 **答：夫機有在無，位雖齊等，賓主異宜，聖人承機非問者不能答也。**
 
 **Answer: Catalyst (*Jī*) exists or not. Although positions are equal, Host and Guest have different suitabilities. The Sage responds to the Catalyst; if there is no questioner, he cannot answer.**
+
+*[Critical apparatus: [1] 不分卷【甲】]*
 
 ---
 
