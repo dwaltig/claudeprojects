@@ -1,12 +1,3 @@
-# FULL SCHOLARLY TRANSLATION: T.1718 Fáhuá Wénjù (Fascicle 9)
-
-**Source:** Taishō Tripiṭaka Vol. 34, No. 1718 (CBETA Edition)  
-**Translator:** The Architect (Scholarly Edition)  
-**Fascicle:** 9 (Upper & Lower)  
-**Status:** COMPLETE DRAFT
-
----
-
 **妙法蓮華經文句卷第九上**
 
 ***The Words and Phrases of the Lotus Sutra of the Wonderful Dharma*, Fascicle Nine, Part One**
@@ -18,8 +9,6 @@
 **Expounded by the Great Master Zhizhe of Tiantai**
 
 ---
-
-## CHAPTER 14: PEACEFUL PRACTICES (Continued)
 
 **非遠非近文為三：一、總標境智，二、別釋，三、結成。「觀」者，中道觀智也，「一切法」者，十法界境也。若單論智，智無所觀，故舉一切以顯皆空。「如實」去，別釋也。二邊三諦無一異名「如」，非七方便故名「實」，以實為相故言「如實相」。「不顛倒」者，無八倒也。「不動」者，不為二死所動也。「不退」者，心心寂滅入薩婆若海也。「不轉」者，不如凡夫轉生死，不如二乘轉凡聖。「如虛空」者，但有名字，字不可得，中道觀智亦但有字，求不可得。「無所有性」者，無自、他、共、無因等性也。「一切言語道斷」者，不可思議也。「不生」者，惑智理皆不生也。「不出」者，如來所治，畢竟不復發也。「不起」者，諸方便皆寂滅也。「無名」者，名不能名也。「無相」者，相不能相也。「無所有」者，無二邊之有也。「無量」者，非數法也。「無邊」者，無方所也。「無礙無障」者，遍一切處也。「但以因緣有」者，結也。上直明中道觀慧，今明雙照二邊，理性畢竟清淨如上所說，非解非惑，而從惑因緣生生死，從解因緣生涅槃。又因緣有有於涅槃，從顛倒生者生於生死，此則雙照意顯也。「常樂觀如是等法」者，即三諦等法也。又「但因緣有從顛倒生」者，結不思議三諦境也。「故說」者，不思議教也。「常樂觀」者，結不思議三觀也。又觀一切法空如實相，標觀體；不顛倒去九句，釋觀相。不為二邊八倒所動，名不倒不動；不墮二乘凡夫二地，故云不退不轉。此二句明智用理。非未來故不生，非過去故不出，非現在故不起，《釋論》五十一云「如虛空，無入、無出、無住相」，《攝大乘》亦爾，無未來入處，無過去出處，無現在住處。第四十三云「因邊不起名不出，緣邊不起名不生。」凡有十九句，初一句總，後十八句對《大品》十八空。如實相即第一義空；不顛倒即內空，內無六入我我所；不顛倒不動即外空，外不為六塵流動也；不退者即內外空，十二入空故，故言不退；不轉即空空，空破諸法，諸法是所破，空是能破，無復諸法唯有空在，此空亦空故言空空；空既空故無復能轉，故言不轉也；如虛空即是大空；執方計破故言如虛空；無所有性即畢竟空；諸法無遺餘故，名畢竟空；以畢竟空故，無所有性也，一切言語道斷即一切空，一切空不可說故言語道斷；不生即有為空，有為是因緣和合，既不合即不生，不出即無為空；無名出離，出離法空故名不出；不起即無始空，求原初不可得故無起；無名即性空可解；無相即相空；實無所有即不可得空；無量即有法空；有法即有量，有量既空故言無量無邊即無法空；無法則是邊表，今空故則無邊無礙，即有法無法空；二不可得故言無礙，無障即散空，妨障不可得故言無障。十八空皆是中道正慧，皆名為空，隨十八種境故言十八耳。《大經》云「如來常修十八空義故」，故用十八空，用釋十八句也。**
 
@@ -188,8 +177,6 @@
 *A-text colophon translation:* “End of *Fahua Wenju*, Fascicle Eight. The Hōryū‑ji copy colophon states: copied on the 30th day of the 6th month of the first year of Kōji (renxu) by the Hōryū‑ji monk Kak‑in; one collation completed (in red script). On the 28th day of the 6th month of the second year of Kōji, punctuation was shifted and completed.”
 
 ---
-## CHAPTER 15: EMERGING FROM THE EARTH
-
 **釋從地踊出品**
 
 **Explanation of the "Emerging from the Earth" Chapter**
@@ -326,8 +313,6 @@
 **Expounded by the Great Master Zhizhe of Tiantai**
 
 ---
-## CHAPTER 16: LIFE-SPAN OF THE TATHĀGATA
-
 **釋壽量品**
 
 **Explanation of the "Life-Span" Chapter**

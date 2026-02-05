@@ -1,12 +1,3 @@
-# FULL SCHOLARLY TRANSLATION: T.1718 Fáhuá Wénjù (Fascicle 10)
-
-**Source:** Taishō Tripiṭaka Vol. 34, No. 1718 (CBETA Edition)  
-**Translator:** The Architect (Scholarly Edition)  
-**Fascicle:** 10 (Upper & Lower)  
-**Status:** IN PROGRESS
-
----
-
 **妙法蓮華經文句卷第十上**
 
 ***The Words and Phrases of the Lotus Sutra of the Wonderful Dharma*, Fascicle Ten, Part One**
@@ -197,27 +188,15 @@
 
 ---
 
-**問：**
+**問：何故爾？**
 
-**Question:**
-
----
-
-**何故爾？**
-
-**Why so?**
+**Question: Why so?**
 
 ---
 
-**答：**
+**答：四品粗格量，初品廣格量，廣格量已況出勝者可以意得，佛不煩文，巧說若此也。五品者，一、直起隨喜心，二、加自受持讀誦，三、加勸他受持讀誦，四、加兼行六度，五、加正行六度。此五人者，通論皆自行化他，下文云「五十人展轉相教」也，既皆有自行通稱弟子，皆有化他通稱法師也。別論二人但自行，三人具化他，作法師往名，在三不在五，自行既通所以皆稱弟子也。初品標人而已，格量在後說。「何況」下，第二品，況出能受持讀誦者是也，標人可解。從「斯人頂戴」[A1]下，是格量也。初心畏緣所紛動妨修正業，直專持此經，即上供養，廢事存理所益弘多；後心理觀若熟，涉外不妨內，事資於道如油多火猛、若順流而揚帆，又加功力其勢轉疾也。指經文，是法身舍利不須安生身舍利，文詮所詮能詮是塔不須事塔，經文能容第一義僧，不俟相從僧也。**
 
-**Answer:**
-
----
-
-**四品粗格量，初品廣格量，廣格量已況出勝者可以意得，佛不煩文，巧說若此也。五品者，一、直起隨喜心，二、加自受持讀誦，三、加勸他受持讀誦，四、加兼行六度，五、加正行六度。此五人者，通論皆自行化他，下文云「五十人展轉相教」也，既皆有自行通稱弟子，皆有化他通稱法師也。別論二人但自行，三人具化他，作法師往名，在三不在五，自行既通所以皆稱弟子也。初品標人而已，格量在後說。「何況」下，第二品，況出能受持讀誦者是也，標人可解。從「斯人頂戴」下，是格量也。初心畏緣所紛動妨修正業，直專持此經，即上供養，廢事存理所益弘多；後心理觀若熟，涉外不妨內，事資於道如油多火猛、若順流而揚帆，又加功力其勢轉疾也。指經文，是法身舍利不須安生身舍利，文詮所詮能詮是塔不須事塔，經文能容第一義僧，不俟相從僧也。**
-
-**The four grades are coarsely measured; the first grade is broadly measured. Once it is broadly measured, those superior to it can be inferred--the Buddha does not belabor the text; his skillful preaching is thus. The five grades are: (1) directly arousing the mind of rejoicing, (2) adding personal reception, upholding, reading, and reciting, (3) adding encouraging others to receive, uphold, read, and recite, (4) adding concurrent practice of the six perfections, (5) adding correct practice of the six perfections. These five persons, broadly speaking, all practice themselves and transform others; the text below says, “fifty persons teach one another in succession.” Since they all have self-practice, they are generally called disciples; since they all transform others, they are generally called Dharma teachers as well. In a narrower sense, two persons only practice themselves, three persons include transforming others; the name “Dharma teacher” applies to the three and not the five. Since self-practice is common, they are all called disciples. The first grade merely indicates the person; the measurement is stated later. From “How much more” downward, the second grade is the one able to receive, uphold, read, and recite; the person is identified and can be understood. From “This person will lift it on his head” downward is the measurement. At the beginning, fearing that conditions and entanglements will disturb and obstruct correct practice, one directly and exclusively upholds this sutra--this is the above offering. Abandoning affairs and preserving principle yields broad benefit. Later, when inner mind-contemplation is mature, engaging with externals does not obstruct the inner; affairs aid the Way like more oil makes the fire fiercer, or like raising sails with the current. Adding further effort, the momentum turns even swifter. Indicating the sutra text: it is the Dharma-body relics and does not need to enshrine physical-body relics. The text, the interpretive and the interpreted, the able-to-interpret and that which is interpreted, is the stupa and does not need an external stupa. The sutra text can contain the saṅgha of the first principle and does not await the assembled saṅgha.**
+**Answer: The four grades are coarsely measured; the first grade is broadly measured. Once it is broadly measured, those superior to it can be inferred--the Buddha does not belabor the text; his skillful preaching is thus. The five grades are: (1) directly arousing the mind of rejoicing, (2) adding personal reception, upholding, reading, and reciting, (3) adding encouraging others to receive, uphold, read, and recite, (4) adding concurrent practice of the six perfections, (5) adding correct practice of the six perfections. These five persons, broadly speaking, all practice themselves and transform others; the text below says, “fifty persons teach one another in succession.” Since they all have self-practice, they are generally called disciples; since they all transform others, they are generally called Dharma teachers as well. In a narrower sense, two persons only practice themselves, three persons include transforming others; the name “Dharma teacher” applies to the three and not the five. Since self-practice is common, they are all called disciples. The first grade merely indicates the person; the measurement is stated later. From “How much more” downward, the second grade is the one able to receive, uphold, read, and recite; the person is identified and can be understood. From “This person will lift it on his head”[A1] downward is the measurement. At the beginning, fearing that conditions and entanglements will disturb and obstruct correct practice, one directly and exclusively upholds this sutra--this is the above offering. Abandoning affairs and preserving principle yields broad benefit. Later, when inner mind-contemplation is mature, engaging with externals does not obstruct the inner; affairs aid the Way like more oil makes the fire fiercer, or like raising sails with the current. Adding further effort, the momentum turns even swifter. Indicating the sutra text: it is the Dharma-body relics and does not need to enshrine physical-body relics. The text, the interpretive and the interpreted, the able-to-interpret and that which is interpreted, is the stupa and does not need an external stupa. The sutra text can contain the saṅgha of the first principle and does not await the assembled saṅgha.**
 
 ---
 
@@ -485,27 +464,15 @@
 
 ---
 
-**問：**
+**問：但見下方發誓，不見文殊等發誓，何也？**
 
-**Question:**
-
----
-
-**但見下方發誓，不見文殊等發誓，何也？**
-
-**We only see those from below making vows, not Mañjuśrī and the like. Why?**
+**Question: We only see those from below making vows, not Mañjuśrī and the like. Why?**
 
 ---
 
-**答：**
+**答：上文云「我土自有菩薩能持此經」，即兼得之也。**
 
-**Answer:**
-
----
-
-**上文云「我土自有菩薩能持此經」，即兼得之也。**
-
-**Above it says, “My land itself has bodhisattvas who can uphold this sutra”; this already includes them.**
+**Answer: Above it says, “My land itself has bodhisattvas who can uphold this sutra”; this already includes them.**
 
 ---
 

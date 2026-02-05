@@ -178,3 +178,75 @@
 
 ### Chunk Log
 - (Pending)
+
+---
+
+## Fascicle 9
+**Source:** `Tiantai_Teachings_Project/Tiantai_Great_Works/T1718_Fahua_Wenju/T1718_009.txt`
+**Translation:** `.../Wenju_Fascicle_09_FULL_Scholarly.md`
+
+### Chunk Log
+- **CBETA 009: Full-file sweep (initial, this cycle)** — FAIL
+  - Defects:
+    - Non-CBETA metadata preface at file head (addition).
+    - Non-CBETA chapter headings inserted at chapter transitions (`CHAPTER 14/15/16`).
+  - Notes:
+    - Source-coverage check flagged lines 225 and 253 during naive full-text containment.
+    - Manual and normalized Chinese-line chain mapping confirmed no source omission; issue was split formatting across bilingual blocks, not missing content.
+
+- **CBETA 009: Full-file re-audit (post-fix)** — PASS
+  - Result:
+    - No omissions (source narrative lines 90/90; source apparatus lines 110/110).
+    - No non-source metadata/chapter additions remaining.
+
+---
+
+## Fascicle 10
+**Source:** `Tiantai_Teachings_Project/Tiantai_Great_Works/T1718_Fahua_Wenju/T1718_010.txt`
+**Translation:** `.../Wenju_Fascicle_10_FULL_Scholarly.md`
+
+### Chunk Log
+- **CBETA 010: Full-file sweep (initial)** — FAIL
+  - Defects:
+    - Non-CBETA metadata preface at file head (addition).
+    - Q/A source-line structure mismatch at source lines 96/98 and 212/214 (split mapping).
+    - Missing inline apparatus anchor `[A1]` at 「從『斯人頂戴』[A1]下」.
+  - Fixes:
+    - Removed non-source metadata preface.
+    - Recombined Q/A lines to match CBETA line structure.
+    - Restored inline `[A1]` marker at source position.
+
+- **CBETA 010: Full-file re-audit (post-fix)** — PASS
+  - Result: no omissions; no unresolved structure defects; apparatus anchor restored in-line and in note.
+
+---
+
+## Xuanyi Fascicle 7 (Part 1)
+**Source:** `Tiantai_Teachings_Project/Tiantai_Great_Works/T1716_Fahua_Xuanyi/T1716_007.txt` (lines 97-175)
+**Translation:** `Tiantai_Teachings_Project/01_TRANSLATIONS/The_Profound_Meaning/Scholarly/Xuanyi_Fascicle_07_Part_1_Fundamental_Trace_SCHOLARLY.md`
+
+### Chunk Log
+- **CBETA 1716-007:97-175 full-span sweep (initial)** — FAIL
+  - Defects:
+    - Large source omission under strict line mapping: non-empty source lines in range were not fully represented in line-by-line form.
+    - Non-source editorial structure in body (summary headings/tables/wrappers) replacing source progression.
+  - Evidence snapshot:
+    - Source non-empty lines in span: 40.
+    - Initial mapped Chinese lines in translation: 23.
+    - Missing source lines detected: 39.
+
+- **CBETA 1716-007:97-175 full-span re-audit (post-fix)** — PASS
+  - Result:
+    - Source non-empty lines in span: 40.
+    - Translation Chinese source-side lines: 40.
+    - Missing lines: 0.
+    - Non-source table/footnote/body wrapper additions in audited span: 0.
+
+- **CBETA 1716-007:97-175 continuation re-audit (2026-02-05)** — PASS
+  - Result:
+    - Source non-empty lines in span: 40.
+    - Translation Chinese source-side lines: 40.
+    - Ordered source-to-translation comparison: identical.
+    - Missing lines: 0.
+    - Non-source table/footnote/body wrapper additions in audited span: 0.
+    - Repair edits required: none.

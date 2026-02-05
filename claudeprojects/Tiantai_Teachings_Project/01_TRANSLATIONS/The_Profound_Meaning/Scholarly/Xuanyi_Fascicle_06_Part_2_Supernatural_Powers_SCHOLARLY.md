@@ -14,187 +14,67 @@
 
 ---
 
-## ○第七明神通妙
-# The Seventh [Subtlety]: Supernatural Powers Subtlety
+## T1716_006
 
----
+○第七明神通妙者，此為四意：一、明次第。二、名數。三、同異。四、麁妙。來意者，前論機應，止是辨其可生、可赴之相；若正論化用益他，即是三輪不思議化：謂身輪、口輪、他心輪。〈普門品〉但有二文，而兼得三意。「遊於娑婆世界」即是身輪；「而為說法」即是口輪。如見蓮華大，知池水深；若見說法大，則知智慧大。故兩輪兼示他心輪也。又化他多示兩輪，示心輪少。從多但二，故無心輪。經言：「其見聞者，悉皆得度」也。示身輪者，即是示藥樹王身、如意珠王身。示口輪者：即是示毒鼓、天鼓。此是慈悲熏於身、口，則有二身示現，二鼓宣揚。若示心輪，即是示隨自意、隨他意等也，亦是同於病行、嬰兒行。上辨機感相關，而妙理難顯，應須神通發動，現於瑞相，密表乎理。世人以蜘蛛挂則喜事來，𮬧鵲鳴則行人至。小尚有徵，大焉無瑞？以近表遠亦應如是。
+> Seventh, clarifying the Subtlety of Supernatural Powers: this has four intents: (1) clarify sequence, (2) names and numbers, (3) sameness and difference, (4) coarse and subtle. The intent in coming here is that the prior discussion of stimulus and response only distinguished the marks of what can arise and what can be approached; if we directly discuss transformative function that benefits others, this is the inconceivable transformation of the Three Wheels: the body wheel, the speech wheel, and the other-mind wheel. The Universal Gateway chapter has only two passages, yet includes three meanings. "Roaming in the Saha world" is the body wheel; "and expounding the Dharma" is the speech wheel. Just as seeing a large lotus we know the pond is deep, if we see great Dharma-exposition then we know wisdom is great; thus the two wheels also indicate the other-mind wheel. Moreover, transforming others mostly shows the two wheels, and showing the mind wheel is rare; from the many there are only two, hence no mind wheel. The sutra says: "Those who see or hear all attain deliverance." To show the body wheel is to show the Medicine-King body and the Wish-Fulfillment-Pearl King body. To show the speech wheel is to show the poison drum and the heavenly drum. This is compassion permeating body and speech; thus two bodies appear and two drums proclaim. If showing the mind wheel, it is showing acting according to one's own intent and according to others' intent, and it also corresponds to the practices of sickness and of an infant. Above we analyzed the relation between capacities and resonance, yet the subtle principle is difficult to manifest; one should use supernatural powers to stir it, manifest auspicious signs, and secretly indicate the principle. Worldly people take a spider hanging as a sign that happy affairs are coming, and when the magpie cries the traveler arrives; if the small has signs, would the great have no auspicious signs? Using the near to indicate the far should likewise be so.
 
-### Why Supernatural Powers After Resonance
+二、名數者，諸經所出，名數不同。今且依六種：謂天眼、天耳、他心、宿命、如意身通、無漏等也。此六皆稱神通者，如《瓔珞》云：「神名天心，通名慧性。」天心者，天然之心也。慧性者，通達無礙也。《毘曇》亦云障通，無知若去即發慧性也。當知天然慧性與六法相應，即能轉變自在，故名神通。《地持．力品》云：「神謂難測知；通謂無壅礙。」此解與《瓔珞》同。天心即是難測知義；慧性即是無壅礙義。然此六法修無前後、證無次第，用亦任時，故眾經列次不同也。《釋論》云：「幻術事是虛誑法，法於草木，誑惑人眼，物實不變。」神通不爾，實得變法，使物實變：如地有成水之理，水有成地之義。若金、銀得火則融，水遇寒則結；火、寒是融、結法。結則實結，融則實融；若得天然慧性，則實能如此變用自在。所變水、火，令他實得受用，而非其果報，但是神通一時所作耳。
+> Second, as to names and numbers: the names and numbers given in the various sutras differ. Here we follow six kinds: heavenly eye, heavenly ear, other-mind, past-life, supernormal body-power, and outflow-free, and so on. These six are all called supernatural powers. As the Yingluo says: "'Supernatural' means heavenly mind; 'powers' means wisdom-nature." Heavenly mind is the natural mind; wisdom-nature is penetrating without obstruction. The Abhidharma also says that when obstructions are penetrated, if ignorance is removed then wisdom-nature arises. One should know that when natural wisdom-nature corresponds with the six dharmas, it can transform freely, hence the name supernatural powers. The Dichi "Chapter on Powers" says: "'Supernatural' means difficult to fathom and know; 'powers' means unobstructed." This explanation is the same as the Yingluo. Heavenly mind is precisely the meaning of difficult to fathom and know; wisdom-nature is precisely the meaning of unobstructed. Yet these six dharmas are cultivated with no before or after, realized with no sequence, and used as occasion demands; therefore the various sutras list them in different orders. The Shilun says: "Magic arts are deceptive dharmas; they act upon grasses and trees, deceiving human eyes, yet things do not actually change." Supernatural powers are not so; they truly obtain the dharma of transformation, making things actually change: as earth has the principle of becoming water, and water has the meaning of becoming earth. If gold or silver meets fire, it melts; if water meets cold, it freezes; fire and cold are dharmas of melting and freezing. Freezing is truly freezing; melting is truly melting. If one attains natural wisdom-nature, one truly can transform and function freely like this. The transformed water and fire allow others to truly receive benefit, and it is not their karmic retribution; it is only a momentary act of supernatural power.
 
-前論機應，止是辨其可生、可赴之相；若正論化用益他，即是三輪不思議化：謂身輪、口輪、他心輪。
+三、明神通不同者，鬼道報得通；人能服藥亦得通；外道因根本禪亦發通；諸天報得通；二乘依背捨勝處一切處，修十四變化發得神通；六度菩薩因禪得五通，坐道場時能得六通；通教菩薩因禪得五通，依體法慧得無漏通；別教地前依禪發五通，登地發正無漏通，任運常照，不以二相見諸佛土。圓教通者，依今經及《普賢觀》，以鼻、舌兩根，以為六數。《菩薩處胎經》同：他心、宿命入意根攝。然經文明「鼻通」最委悉，取其互用無壅。舌根，取四辯無礙，能以一妙音遍滿三千界，而不取知味，知味是報法。經云：「諸根通利，智慧明了」也。六根皆智慧，即互用意也。
+> Third, clarifying differences in supernatural powers: beings in the ghost realm obtain powers by retribution; humans can obtain powers by taking medicines; externalists give rise to powers through fundamental dhyana; the various heavens obtain powers by retribution; the two vehicles rely on the backs-to-back, the victory places, and the all-places, and by cultivating fourteen transformations they obtain supernatural powers; the six-paramita bodhisattvas obtain five powers through dhyana, and when seated at the place of enlightenment can obtain six powers; Common-teaching bodhisattvas obtain five powers through dhyana and obtain outflow-free powers by the wisdom of the dharma-body; Distinct-teaching bodhisattvas before the ground rely on dhyana and arouse five powers, and upon entering the ground arouse the true outflow-free powers, illuminating constantly and spontaneously, not seeing Buddha-lands through dual marks. As for Perfect-teaching powers, according to this sutra and the Samantabhadra Contemplation, the nose and tongue roots are counted among the six. The Bodhisattva in the Womb sutra is the same: other-mind and past-life are included within the mind-root. Yet the sutra text makes "nose power" most explicit, taking its mutual function without obstruction. For the tongue-root, it takes the four unhindered eloquences, able to pervade the three-thousand worlds with one wondrous sound, and does not take knowledge of flavors, because knowledge of flavors is a retribution dharma. The sutra says: "The faculties are penetrative and the wisdom is clear." The six roots are all wisdom; this is the meaning of mutual function.
 
-> Previously we discussed stimulus-response—simply analyzing the marks of what can arise and what can be approached. Now we **directly discuss transformative function benefiting others**—these are the **Three Wheels of Inconceivable Transformation**: Body-wheel, Speech-wheel, and Other-mind-wheel.
+今云六根之通，不因事禪而發，此乃中道之真。真自有通，任運成就，不須作意，故名無記化化禪。不別作意故名無記，任運常明如阿脩羅琴；化復能化，故言化化。中道真通，任運如此，與餘通異。論其修習，皆緣實相常住之理。文云：「得是常眼根清淨。」既言是常，即本性清淨；常性無垢染。《毘曇婆沙》云：「六入殊勝，本自爾故。」《鴦掘》云：「所謂彼眼根，於諸如來常，具足無減修，了了分明見。」乃至耳、鼻、舌、身、意，皆於諸如來常，具足無減修，了了分明，聞、知等也。彼者於佛為自，於眾生為彼；眾生謂為無常，於如來是常也。減修者，依禪而修，名為減脩；依實相修，名無減修。不見佛性，名不了了見；若見佛性，名了了見。又見實相理，名了了。識法界事，名分明也。
+> Now we say the powers of the six roots do not arise from mundane dhyana; this is the truth of the Middle Way. The truth itself has powers, accomplished spontaneously without intentional effort, therefore it is called neutral transformation-upon-transformation dhyana. Because there is no separate intentional effort it is called neutral; it is constantly bright by spontaneous operation like an asura lute; transformation can further transform, hence it is called transformation-upon-transformation. The true powers of the Middle Way are spontaneously thus, differing from other powers. As for their cultivation, all take as condition the constant-abiding principle of the reality-mark. The text says: "Attain this constant purity of the eye root." Since it says constant, it is originally pure in nature; constant nature has no defilement. The Vibhasa says: "The six entrances are supremely excellent, because they are originally so." The Angulimala says: "So-called, that eye root among the Tathagatas is constant, fully possessing undiminished cultivation, clearly and distinctly seeing." And so on for ear, nose, tongue, body, and mind: among the Tathagatas they are constant, fully possessing undiminished cultivation, clearly and distinctly hearing, knowing, and so on. For the Buddha it is self; for sentient beings it is other. Sentient beings call it impermanent; for the Tathagata it is constant. Diminished cultivation means cultivating by relying on dhyana, called diminished cultivation; cultivating by relying on reality-mark is called undiminished cultivation. Not seeing Buddha-nature is called unclear seeing; if one sees Buddha-nature it is called clear seeing. Also, seeing the principle of the reality-mark is called clear; knowing the matters of the dharma-realm is called distinct.
 
----
+見有二種：一、相似見。二、分真見。相似者，如六根清淨中辨。論其真見，如《華嚴》所明，佛眼、耳、鼻、舌、身、意也。此經中亦明真身通相：所謂普現色身，示一切眾生所喜見身，即是外身通也；現身如琉璃，十方諸佛悉於身中現，即是內現身通也。眼、耳、鼻、舌等，內、外示現，亦例如此。是則圓教神通，異於前辨(云云)。
+> There are two kinds of seeing: (1) semblance seeing; (2) partial-true seeing. Semblance seeing is as distinguished in the purity of the six roots. As for true seeing, as explained in the Avatamsaka, it is the Buddha's eyes, ears, nose, tongue, body, and mind. This sutra also clarifies the marks of true-body powers: namely, universally manifesting form bodies, showing the bodies that all sentient beings delight to see - this is external body-power; manifesting the body like lapis lazuli, with the Buddhas of the ten directions all appearing within the body - this is internal manifest body-power. Eyes, ears, nose, tongue, and so on, are manifested inwardly and outwardly in like manner. This is the Perfect-teaching supernatural powers, different from what was explained before (and so on).
 
-### The Three Wheels
+問：
+> Question:
 
-〈普門品〉但有二文，而兼得三意。「遊於娑婆世界」即是身輪；「而為說法」即是口輪。如見蓮華大，知池水深；若見說法大，則知智慧大。故兩輪兼示他心輪也。
+若以六根為六通者，云何功德有增減？
+> If the six roots are taken as the six powers, how can merit increase or decrease?
 
-> The *Universal Gateway Chapter* has only two texts but encompasses three meanings:
-> - "**Roaming in the Sahā world**" is the **Body-wheel**
-> - "**Expounding the Dharma for them**" is the **Speech-wheel**
-> 
-> Like seeing a large lotus and knowing the pond is deep—if one sees great Dharma-exposition, one knows wisdom is great. Hence **two wheels imply the Mind-wheel**.
+答：
+> Answer:
 
----
+《大論》四十云：「鼻、舌、身，同稱覺；眼稱見；耳稱聞；意稱知。」三識所知為一；三識所知為別。而三識助道法多，故別說；三識不爾，故合說。又三識但知世間事，故合說；三識亦知世間亦知出世間，故別說。又三識但無記法，三識或緣善、惡、無記等；又三識能生三業因緣，故別說也。若例此義，三根種種義強，故有千二百功德。三根力弱故但八百功德者，蓋一途別說，非經圓意。《正法華》「功德正等等千」。
+> The Great Treatise (fascicle 40) says: "Nose, tongue, and body are together called 'awareness'; the eye is called 'seeing'; the ear is called 'hearing'; the mind is called 'knowing.' " The known of the three consciousnesses is one; the known of the three consciousnesses is distinct. The three consciousnesses assist many path-dharmas, so they are spoken of separately; the three consciousnesses are not so, therefore they are spoken of together. Also, the three consciousnesses only know worldly matters, so they are spoken of together; the three consciousnesses also know worldly and also know supramundane matters, so they are spoken of separately. Also, the three consciousnesses are only neutral dharmas; the three consciousnesses may take good, evil, and neutral, and so on as objects; and the three consciousnesses can give rise to causes and conditions of the three karmas, therefore they are spoken of separately. If one applies this meaning, the three roots have many strong meanings, therefore they have twelve hundred merits. That the three roots are weak and thus have only eight hundred merits is merely a separate explanation by one approach, not the sutra's complete intent. The Zhengfa Hua says: "Merits are exactly equal, each a thousand."
 
-### Six Types of Supernatural Powers
+今經顯六根互用，將三根足二百，向三根而互用耳。自在無礙能等，如《正法華》說。能縮，如身眼鼻之八百；能盈，如耳舌意千二百。經云：「若能持是經，功德則無量，如虛空無邊，其福不可限。」互用之意彰矣！
+> This sutra reveals the mutual functioning of the six roots: taking two hundred from the three roots and applying them to the other three roots for mutual functioning. They are freely unobstructed and can be equal, as the Zhengfa Hua explains. They can contract, like the eight hundred of body, eye, and nose; they can expand, like the twelve hundred of ear, tongue, and mind. The sutra says: "If one can uphold this sutra, the merits are immeasurable; like empty space without boundary, its blessings cannot be exhausted." The meaning of mutual functioning is thereby made manifest.
 
-今且依六種：謂天眼、天耳、他心、宿命、如意身通、無漏等也。
+四、明麁妙者，若言神通度物，非但變己身同其正報，亦變己國土同其依報。如《纓珞》云：「起一切國土應，起一切眾生應」也。若應同正報者，即是示為十法界像也；若應同依報者，即是同十界所依處也。若應同四惡趣者，用觀惡業慈悲熏無記化化禪，應作地獄等形質：黑髮纏身、猴猨鹿馬、大鷲鵽鳥、脩羅等像，各各皆見，同其事業。若應人天身者，是用觀善業中慈悲熏無記化化禪，作善道身：如後身菩薩，正慧託胎，墮地七步，盥洗手足，楊枝自淨，納妃生子，厭世出家，乃至天像亦復如是，各各皆見，同其事業。若應作三藏二乘者，是用析空慈悲熏無記化化禪：起老比丘像，共僧布薩律儀規矩，各各皆見同其事業。若應通教者，是用即空慈悲熏無記化化禪，作體法應：觀無生習、應苦空等，悉不可得，各各皆見，同其事業。
+> Fourth, clarifying coarse and subtle: if one speaks of supernatural powers that ferry beings across, it is not only transforming one's own body to match their direct retribution, but also transforming one's own land to match their circumstantial retribution. As the Yingluo says: "arousing responses of all lands, arousing responses of all beings." If the response matches direct retribution, it is displaying the images of the ten dharma realms; if the response matches circumstantial retribution, it is matching the places relied on by the ten realms. If the response matches the four evil destinies, one uses compassion contemplating evil karma, permeating neutral transformation-upon-transformation dhyana, and should take on forms such as hell-beings: black hair wrapped around the body, monkeys, apes, deer, horses, great vultures and owls, asuras, and so on - each is seen, matching its activity. If responding with human or heavenly bodies, one uses compassion amid contemplating good karma, permeating neutral transformation-upon-transformation dhyana, and makes bodies of the good paths: such as the bodhisattva's final body, rightly entering the womb, descending to the ground and walking seven steps, washing hands and feet, cleansing with a willow twig, taking a consort and having a son, loathing the world and leaving home - up to the images of the heavens, likewise; each is seen, matching its activity. If responding as the Tripitaka or two-vehicle practitioners, one uses compassion of analyzing emptiness, permeating neutral transformation-upon-transformation dhyana, and takes on the image of an aged bhiksu, together with the sangha performing the uposatha, precepts, and regulations; each is seen, matching its activity. If responding for the Common Teaching, one uses compassion of immediate emptiness, permeating neutral transformation-upon-transformation dhyana, and makes response in terms of the dharma-body: contemplating the habit of non-arising, responding with suffering and emptiness, and so on - entirely unattainable; each is seen, matching its activity.
 
-> Now following the **six types**: heavenly-eye, heavenly-ear, other-mind-knowledge, past-life-knowledge, supernormal-body-transformation, and outflow-free powers.
+若應別教者，是用即假即中慈悲熏無記化化禪，起漸頓應：示修恒沙佛法，各各皆見，同其事業。若應圓教者，是用即中慈悲熏無記化化禪，起圓頓應：示修一中無量、無量中一，皆各各見，同其事業。如是應同正報，不可稱計，可以意知，不可以言盡(云云)。若得此意，往望漸、頓。
+> If responding for the Distinct Teaching, one uses compassion of immediately provisional and immediately middle, permeating neutral transformation-upon-transformation dhyana, and arouses gradual and sudden responses: showing cultivation of Buddha-dharmas as many as the sands of the Ganges; each is seen, matching its activity. If responding for the Perfect Teaching, one uses compassion of immediately middle, permeating neutral transformation-upon-transformation dhyana, and arouses perfect-sudden response: showing the cultivation of one as immeasurable and the immeasurable as one; all are each seen, matching their activity. In this way responses matching direct retribution are incalculable; they can be known by intent but not exhausted by words (and so on). If one attains this meaning, one can look ahead toward gradual and sudden.
 
----
+五味教中用神通者，乳教所用神力，若多若少，但表兩意：一麁、一妙。三藏用神力，若多若少，但為一麁。方等用神力，若多若少，三麁一妙。般若用神力，若多若少，二麁一妙。此經神力，若多若少，唯為一妙。所以〈序品〉中瑞相有十，咸皆表妙也：「地皆嚴淨」表理妙。「放眉間光」表智妙。「入于三昧」表行妙。「天雨四華」表位妙。「栴檀香風」表乘妙。「四眾咸有疑」表機，「見萬八千土」表應，此二明感應妙也。「地六種動」表神通妙。「天鼓自鳴」及「而為說法」，表說法妙。「天龍大眾歡喜」，表眷屬妙。「又見佛子修種種行」，表利益妙。此用神變，若少若多，俱表妙也。文云：「今佛入于三昧，是不可思議！現希有事！」現希有事，是妙神通也。
+> As for the use of supernatural powers in the Five-Flavors teachings: the Milk teaching's divine powers, whether many or few, only indicate two meanings - one coarse, one subtle. The Tripitaka's powers, whether many or few, are only one coarse. The Vaipulya's powers, whether many or few, are three coarse and one subtle. The Prajna's powers, whether many or few, are two coarse and one subtle. The powers of this sutra, whether many or few, are only for one subtle. Therefore, in the Introduction chapter there are ten auspicious signs, all indicating subtlety: "the ground entirely purified" indicates subtlety of principle; "emitting light between the brows" indicates subtlety of wisdom; "entering samadhi" indicates subtlety of practice; "heaven rains four flowers" indicates subtlety of position; "sandalwood fragrant wind" indicates subtlety of vehicle; "the four assemblies all had doubt" indicates capacity, and "seeing eighteen thousand lands" indicates response - these two clarify the subtlety of stimulus and response. "The ground moved in six ways" indicates supernatural-powers subtlety; "the heavenly drum sounds of itself" and "expounding the Dharma" indicate Dharma-exposition subtlety; "dragons and gods greatly rejoice" indicates retinue subtlety; "again seeing Buddha-children cultivate various practices" indicates benefits subtlety. This use of divine transformations, whether few or many, all indicates subtlety. The text says: "Now the Buddha enters samadhi - this is inconceivable! Manifesting rare events!" Manifesting rare events is subtle supernatural powers.
 
-### What Is "Supernatural"?
+若應同依報者，有兩意：若國土苦樂，由於眾生，非佛所作，佛但應同而已。若作折伏攝受者，佛鑒機緣，或作苦國、或作樂國，苦樂由佛，不關眾生。
+> If responding to match circumstantial retribution, there are two meanings: if the land's suffering or happiness is due to sentient beings and not done by the Buddha, the Buddha only responds in kind. If it is for subduing and gathering, the Buddha examines capacities and conditions and may make a land of suffering or a land of happiness; suffering or happiness comes from the Buddha and does not involve sentient beings.
 
-此六皆稱神通者，如《瓔珞》云：「神名天心，通名慧性。」天心者，天然之心也。慧性者，通達無礙也。
+今且釋初意：《大論》云：「有國土純聲聞僧，或國土純菩薩僧，或菩薩聲聞共為僧。」或淨、或穢，何故差別？皆由乘、戒緩急。若戒緩乘亦急亦緩者，即是穢土，以聲聞菩薩共為僧。以戒緩故，五濁土穢；乘亦緩故，是開三乘；乘亦急故，是顯一乘，娑婆是也。戒急乘亦緩亦急者，淨土也。戒急故，土無五濁；乘亦緩故，開三乘；亦急故，顯一，安養是也。乘緩戒急者，即是淨土，純聲聞為僧，此可知也。戒緩乘急，即是穢國，純菩薩為僧，此亦可知。淨穢差別，悉由眾生，高下苦樂，不關佛也。
+> Now let us explain the first meaning. The Great Treatise says: "There are lands with a purely sravaka sangha, or lands with a purely bodhisattva sangha, or lands where bodhisattvas and sravakas together are the sangha." Some are pure, some are impure - why the difference? It is all due to the laxness or urgency of vehicle and precepts. If the precepts are lax and the vehicle is both urgent and lax, this is an impure land, with sravakas and bodhisattvas together as the sangha. Because the precepts are lax, the land of the five defilements is impure; because the vehicle is also lax, it opens the three vehicles; because the vehicle is also urgent, it reveals the one vehicle - this is Saha. If the precepts are urgent and the vehicle is both lax and urgent, this is a pure land. Because the precepts are urgent, the land has no five defilements; because the vehicle is also lax, it opens the three vehicles; because it is also urgent, it reveals the one - this is Anyang. If the vehicle is lax and the precepts are urgent, this is a pure land with a purely sravaka sangha; this can be known. If the precepts are lax and the vehicle is urgent, this is an impure land with a purely bodhisattva sangha; this too can be known. The distinction between purity and impurity is entirely due to sentient beings; higher and lower, suffering and happiness do not involve the Buddha.
 
-> All six are called "supernatural powers." The *Yingluo Jing* says: "**'Supernatural' means heavenly mind; 'powers' means wisdom-nature.**"
-> - **Heavenly mind** = natural mind
-> - **Wisdom-nature** = penetrating without obstruction
+若作伏攝義者，國由於佛，不關眾生。佛以觀惡慈悲，與無記化化禪合，起於穢國，折伏攝受四趣眾生也。以善業慈悲，與無記化化禪合，折伏攝受兩趣眾生也。佛以折空六度等慈悲，與無記化化禪合，或起於穢國、或起淨國，折伏攝受聲聞、菩薩兩界眾生也。佛以體空慈悲，與無記化化禪合，或起淨國、或起穢國，折伏攝受通教聲聞、菩薩兩界眾生也。佛以歷別慈悲，與無記化化禪合，或起穢國、淨國，折伏攝受別界菩薩眾生也。佛以即中慈悲，與無記化化禪合，或起淨國、或起穢國，折伏攝受圓界菩薩眾生也。如是種種為國不同，皆由如來神力轉變。
+> If it is in the meaning of subduing and gathering, the land is due to the Buddha, not due to sentient beings. The Buddha, with compassion contemplating evil, combines with neutral transformation-upon-transformation dhyana and raises an impure land to subdue and gather beings of the four destinies. With compassion toward good karma, he combines with neutral transformation-upon-transformation dhyana to subdue and gather beings of the two destinies. The Buddha, with compassion of demolishing emptiness, the six paramitas, and so on, combines with neutral transformation-upon-transformation dhyana and may raise an impure land or a pure land to subdue and gather beings of the sravaka and bodhisattva realms. The Buddha, with compassion of embodied emptiness, combines with neutral transformation-upon-transformation dhyana and may raise a pure land or an impure land to subdue and gather Common-teaching sravakas and bodhisattvas of the two realms. The Buddha, with compassion of sequential distinctness, combines with neutral transformation-upon-transformation dhyana and may raise an impure land or a pure land to subdue and gather bodhisattvas of the Distinct realm. The Buddha, with compassion of immediate middle, combines with neutral transformation-upon-transformation dhyana and may raise a pure land or an impure land to subdue and gather bodhisattvas of the Perfect realm. These various differences of lands are all transformations by the Tathagata's supernatural power.
 
-《毘曇》亦云障通，無知若去即發慧性也。當知天然慧性與六法相應，即能轉變自在，故名神通。
+今將此依正轉變，待三教作意神通，悉名為麁。譬如圖畫，盡思竭力，終不似真，名之為麁。若明鏡寫容，任運相似，名之為妙。方便神通，譬如麁畫；中道任運，即對即應，譬於淨鏡，故為妙也。
+> Now, taking this transformation of circumstantial and direct retribution, the intentional supernatural powers of the three teachings are all called coarse. It is like a painting: exhausting thought and effort, in the end it does not resemble the real - this is called coarse. If a bright mirror reflects a face, spontaneously resembling it, this is called subtle. Expedient supernatural powers are like a coarse painting; Middle-Way spontaneous activity, responding immediately when faced, is like a pure mirror, hence subtle.
 
-> The *Abhidharma* also says: "When obstructions are penetrated and ignorance is removed, wisdom-nature arises." When **natural wisdom-nature corresponds with the six dharmas**, one can **transform freely**—hence called supernatural powers.
+就無記化化禪所作神變，自論麁妙。若為九界眾生，用方便神力，作淨作穢，若廣若狹，悉名為麁。若為佛法界眾生，用真實神力，作淨作穢，若廣若狹，悉名為妙。如經：放眉間光照萬八千土，及三變土田。比餘經神力，何足為多？但為開發大事，故言妙也。
+> As for the divine transformations made by neutral transformation-upon-transformation dhyana, their coarseness or subtlety is discussed on its own. If for beings of the nine realms one uses expedient divine power, making lands pure or impure, broad or narrow, all are called coarse. If for beings of the Buddha-dharma realm one uses true divine power, making lands pure or impure, broad or narrow, all are called subtle. As the sutra says: emitting light between the brows to illuminate eighteen thousand lands, and the three transformations of the land-fields. Compared to other sutras' divine powers, how could that be considered many? It is only to open and disclose the great matter, therefore it is called subtle.
 
----
+又約五味論麁妙者，乳教一麁一妙，酪教一麁，生蘇三麁一妙，熟蘇二麁一妙，法華一妙。
+> Again, speaking of coarse and subtle in terms of the five flavors: the Milk teaching has one coarse and one subtle; the Curd teaching has one coarse; the Fresh butter teaching has three coarse and one subtle; the Mature butter teaching has two coarse and one subtle; the Lotus has one subtle.
 
-### Real Transformation vs. Illusion
+又諸經妙同麁異，麁有二種：一、難轉麁；二、易轉麁。易轉者，於諸經中已得為妙。難轉者，今於《法華》，無復兩麁，但有一妙。唯一大佛事因緣，曾無他事，假同九界神通。眾生，自謂他事；於佛，常是佛事。客作自謂賤人；長者審知是子。此即相待神通妙也。
+> Moreover, the subtlety of the various sutras is the same, while the coarseness differs. Coarseness has two kinds: (1) hard-to-transform coarse; (2) easy-to-transform coarse. The easy-to-transform coarse has already become subtle in the various sutras. The hard-to-transform coarse, in the Lotus, no longer has two coarsenesses, but only one subtlety. There is only the one great Buddha-matter cause-and-condition, never any other matter; it is provisionally the same as the supernatural powers of the nine realms. Sentient beings consider it other matters; for the Buddha, it is always the Buddha-matter. The hired laborer considers himself lowly; the elder truly knows he is his son. This is the relative-comparison subtlety of supernatural powers.
 
-《釋論》云：「幻術事是虛誑法，法於草木，誑惑人眼，物實不變。」神通不爾，實得變法，使物實變...
-
-> The *Śāstra* says: "**Magical arts are deceptive dharmas**—they work on grass and trees, deceiving human eyes, but things don't actually change." **Supernatural powers are not like this**—they really transform dharmas, making things actually change...
-
-如地有成水之理，水有成地之義。若金、銀得火則融，水遇寒則結；火、寒是融、結法。結則實結，融則實融；若得天然慧性，則實能如此變用自在。
-
-> Like earth has the principle of becoming water; water has the principle of becoming earth. When gold or silver meets fire, they melt; when water meets cold, it freezes. Fire and cold are melting and freezing dharmas. **Freezing is real freezing; melting is real melting**—when one attains natural wisdom-nature, one can **truly transform freely** like this.
-
----
-
-## Supernatural Powers Across Teachings
-
-諸教神通不同：
-
-> Supernatural powers differ across teachings:
-
-| Teaching | Type of Powers | Description |
-|----------|----------------|-------------|
-| **Ghosts/Spirits** | Karmic-retribution | Born with powers |
-| **Humans** | Medicine-induced | Through herbs/alchemy |
-| **Externalists** | Root-meditation | From fundamental dhyāna |
-| **Tripiṭaka** | Abandonment-based | Through eight liberations |
-| **Common** | Body-dharma-based | Through instant-emptiness wisdom |
-| **Distinct** | Sequential | Pre-ground: five powers; ground-entry: true outflow-free |
-| **Perfect** | Non-intentional | Middle-way powers arising naturally |
-
----
-
-### Perfect Teaching Supernatural Powers
-
-圓教通者，依今經及《普賢觀》，以鼻、舌兩根，以為六數。
-
-> **Perfect Teaching powers**: According to this sūtra and the *Samantabhadra Contemplation*, the nose and tongue roots are counted among the six.
-
-六根皆智慧，即互用意也。
-
-> **All six roots are wisdom**—this is the meaning of mutual function.
-
-今云六根之通，不因事禪而發，此乃中道之真。真自有通，任運成就，不須作意，故名無記化化禪。
-
-> Now we say the **powers of six roots do not arise from mundane dhyāna**—this is the **truth of the Middle Way**. The truth itself has penetration, **naturally accomplished without intentional effort**—hence called "neutral transformation-upon-transformation dhyāna."
-
----
-
-### The Distinction of Perfect Powers
-
-論其修習，皆緣實相常住之理。文云：「得是常眼根清淨。」既言是常，即本性清淨；常性無垢染。
-
-> Discussing their cultivation: **all condition reality-mark constant-abiding principle**. The text says: "Attaining this constant eye-root purity." Since it says "constant," it refers to **originally-pure nature**; constant nature has no defilement.
-
-彼者於佛為自，於眾生為彼；眾生謂為無常，於如來是常也。減修者，依禪而修，名為減脩；依實相修，名無減修。
-
-> "That one" refers to Buddha as self, to sentient beings as other. Sentient beings consider it impermanent; **for the Tathāgata it is constant**. "Diminished cultivation" means depending on dhyāna—called diminished cultivation. **Depending on reality-mark is undiminished cultivation**.
-
----
-
-## Coarse and Subtle Powers
-
-### Coarse Powers
-
-三藏、通教等聖...悉名為麁。譬如圖畫，盡思竭力，終不似真，名之為麁。
-
-> Tripiṭaka and Common Teaching sages... are all called **coarse**. Like a **painting**—exhausting thought and effort, ultimately not resembling the real—this is called coarse.
-
-### Subtle Powers
-
-若明鏡寫容，任運相似，名之為妙。方便神通，譬如麁畫；中道任運，即對即應，譬於淨鏡，故為妙也。
-
-> Like a **bright mirror reflecting form**—naturally resembling—this is called subtle. **Expedient supernatural powers are like a coarse painting; Middle-Way natural powers are like a pure mirror**—hence subtle.
-
----
-
-## Supernatural Powers in the Five Flavors
-
-五味教中用神通者：
-
-| Flavor | Powers Usage |
-|--------|--------------|
-| **Milk** (*Avataṃsaka*) | One coarse, one subtle |
-| **Curds** (*Tripiṭaka*) | One coarse only |
-| **Fresh Butter** (*Vaipulya*) | Three coarse, one subtle |
-| **Clarified Butter** (*Prajñā*) | Two coarse, one subtle |
-| **Ghee** (*Lotus Sūtra*) | **One subtle only** |
-
-此經神力，若多若少，唯為一妙。
-
-> **This sūtra's supernatural powers, whether many or few, are solely for the one subtle.**
-
----
-
-## Ten Auspicious Signs in the Opening Chapter
-
-所以〈序品〉中瑞相有十，咸皆表妙也：
-
-> The *Introduction Chapter*'s ten auspicious signs **all express subtlety**:
-
-| # | Sign | Represents |
-|---|------|------------|
-| 1 | "Ground entirely purified" | **Realm Subtlety** |
-| 2 | "Light emitted between brows" | **Wisdom Subtlety** |
-| 3 | "Entering samādhi" | **Practice Subtlety** |
-| 4 | "Heaven raining four flowers" | **Position Subtlety** |
-| 5 | "Sandalwood fragrant wind" | **Vehicle Subtlety** |
-| 6 | "Four assemblies all had doubt" | **Machine** |
-| 7 | "Seeing 18,000 lands" | **Response** |
-| 8 | "Ground shaking six ways" | **Supernatural Powers Subtlety** |
-| 9 | "Heavenly drum self-sounding" + "Dharma expounded" | **Dharma-exposition Subtlety** |
-| 10 | "Dragons/gods greatly rejoicing" | **Retinue Subtlety** |
-| 11 | "Seeing Buddha-children cultivating various practices" | **Benefits Subtlety** |
-
-文云：「今佛入于三昧，是不可思議！現希有事！」現希有事，是妙神通也。
-
-> The text says: "Now the Buddha enters samādhi—this is inconceivable! Manifesting rare events!" **Manifesting rare events is subtle supernatural powers.**
-
----
-
-## Opening Coarse to Reveal Subtle
-
-今經非但妙者為妙，亦無復有麁，絓是前來諸麁，悉皆決了，為一平等大慧妙法門也。
-
-> **This sūtra not only has subtle as subtle, but also has no more coarse.** All previous coarseness is thoroughly clarified—becoming the **one equal great-wisdom subtle dharma-gate**.
-
-唯一大佛事因緣，曾無他事，假同九界神通。眾生，自謂他事；於佛，常是佛事。客作自謂賤人；長者審知是子。
-
-> **Only the one great Buddha-matter cause-and-condition**—never any other matter. Even seemingly matching nine-realm supernatural powers: sentient beings consider them other matters; **for Buddha, they are always Buddha-matters**. The guest-laborer considers himself lowly; the elder truly knows he is his son.
-
----
-
-## Footnotes
-
-[^1]: The **Three Wheels** (輪) of transformation—body, speech, and mind—represent the Buddha's three modes of teaching. The wheel metaphor suggests constant turning/activity and the ability to crush obstacles. Master Zhiyi emphasizes that subtle supernatural powers arise naturally from Middle-Way realization, unlike the intentional effort required for coarse powers.
-
----
-
-*Seventh of Ten Trace Subtleties complete. Translation continues in Part 3 (Dharma-exposition Subtlety)...*
+又諸經諸麁神通、隔妙神通者，今經皆開權顯實，同妙神通，是名絕待明妙神通。此略記，不周悉也。
+> Moreover, the coarse supernatural powers of the various sutras and their separated subtle supernatural powers are, in this sutra, all opened from provisional and revealed as real, unified as subtle supernatural powers. This is called the absolute clarification of subtle supernatural powers. This is a brief record, not exhaustive.

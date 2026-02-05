@@ -14,158 +14,124 @@
 
 ---
 
-## ○第九、眷屬妙
-# The Ninth [Subtlety]: Retinue Subtlety
+## T1716_006
 
----
+○第九、眷屬妙者，就此為五：一、明來意。二、明眷屬。三、明麁妙。四、明法門。五、辨觀心。
+> Ninth, the Subtlety of Retinue: here there are five: (1) clarify the coming intent; (2) clarify retinue; (3) clarify coarse and subtle; (4) clarify dharma-gates; (5) discern contemplation of mind.
 
-### Why Retinue After Dharma-Exposition
+所言次第者，若無說而已，說必被緣，緣即受道人也。已受道故，即成眷屬。譬如父母遺體，攬此成身，得為天性。天性親愛，故名眷；更相臣順，故名屬。行者亦爾，受戒之時，說此戒法，授於前人，前人聽聞，即得發戒，師、弟所由生也。禪亦如是，授安心法，如教修行，即得發定，是為我師，我是弟子。慧亦如是，說諸法門，轉入人心，由法成親。親故則信，信故則順，是名眷屬也。他土餘根皆利，隨所用塵起之，令他得益。此土耳根利故，偏用聲塵。故二萬佛時，教無上道。十六王子，覆講《法華》，從是已來，恒為眷屬。世世與師俱生，或人天眷屬，或三乘眷屬，或一乘眷屬。故身子云：「今日乃知真是佛子。」昔教五人得真無漏，名佛子。菩薩不發真，名為外人。於《法華》發大乘解，自稱昔日非真佛子。今說一實之道：從聞、悟、解，法身得生。從佛口生，是聞慧中法身生。從法化生，是思慧中法身生。得佛法分，是修慧中法身生。[A2]三慧成就，是真佛子，定於天性，得成眷屬。故次說法之後，而明眷屬妙也。
+> Speaking of sequence: if there were no teaching, that would be all; once there is teaching it must reach conditions, and the conditions are those who receive the Way. Having received the Way, they become retinue. It is like the body left by parents: grasping this one forms a body and obtains natural kinship. Natural kinship is affectionate, therefore called kin; mutually serving and following, therefore called belonging. Practitioners are also like this: at the time of receiving precepts, this precept-dharma is explained and transmitted to the person before him; when that person hears, they immediately arouse the precepts, and teacher and disciple thereby arise. Dhyana is also like this: transmitting the mind-settling method, cultivating as taught, one immediately arouses samadhi; this is my teacher, I am the disciple. Wisdom is also like this: explaining the dharma-gates, they turn and enter a person's mind; by the dharma one becomes kin. Because of kinship there is faith; because of faith there is compliance; this is called retinue. In other lands the remaining roots are all sharp; according to the dust employed they are aroused, causing others to gain benefit. In this land the ear-root is sharp, therefore sound-dust is used in particular. Thus in the time of the twenty thousand Buddhas they taught the unsurpassed path. The sixteen princes re-expounded the Lotus, and from then on they have always been retinue. Life after life they are born together with their teacher: sometimes human-and-heaven retinue, sometimes three-vehicle retinue, sometimes one-vehicle retinue. Thus Sariputra said: "Today I finally know that I truly am a Buddha's son." Formerly he taught five persons to attain true outflow-free, named Buddha's sons. Bodhisattvas who do not arouse the true are called outsiders. In the Lotus they arouse the Mahayana understanding and call themselves formerly not true Buddha's sons. Now one speaks the single real path: from hearing, awakening, and understanding, the dharma-body is born. Born from the Buddha's mouth is the dharma-body born in hearing-wisdom. Born by transformation of the dharma is the dharma-body born in thinking-wisdom. Obtaining a share of the Buddha-dharma is the dharma-body born in cultivating-wisdom. [A2] When the three wisdoms are accomplished, one is a true Buddha's son, fixed in natural kinship, and becomes retinue. Therefore after speaking dharma, the Subtlety of Retinue is clarified.
 
-若無說而已，說必被緣，緣即受道人也。已受道故，即成眷屬。
+    [A2] 三【CB】，二【大】
+> [A2] Three [CB], two [Da]
 
-> If there were no teaching, that would be one thing. **If there is teaching, it must reach those with affinity**—those with affinity are Dharma-receivers. **Having received the Dharma, they become retinue**.
+二、明眷屬者，又為五種：一、明理性眷屬。二、明業生眷屬。三、明願生眷屬。四、明神通生眷屬。五、明應生眷屬。
+> Second, clarifying retinue, again there are five kinds: (1) clarify principle-nature retinue; (2) clarify karma-born retinue; (3) clarify vow-born retinue; (4) clarify supernatural-born retinue; (5) clarify response-born retinue.
 
-譬如父母遺體，攬此成身，得為天性。天性親愛，故名眷；更相臣順，故名屬。
+一、理性眷屬者，眾生如佛如，一如無二如，理性相關，任運是子。故云：「我亦如是，眾聖中尊，世間之父。一切眾生，皆是吾子。」此是理性，不關結緣、不結緣，皆是佛子也。
+> First, principle-nature retinue: the suchness of sentient beings is the suchness of the Buddha; one suchness with no second suchness; principle-nature is mutually related, and of itself they are children. Therefore it says: "I am also like this, honored among sages, father of the world. All sentient beings are my children." This is principle-nature: whether or not affinities are formed, all are Buddha's children.
 
-> Like parents' legacy-body—grasping this, one forms a body, becoming natural kinship. **Natural kinship's loving connection is called "kin" (眷); mutually serving and following is called "belonging" (屬)**.
+二、業生眷屬者，但眾生理論皆子，而飲他毒藥，有失心者、不失心者。不失心者，拜跪問訊，求索救護，與藥即服，故於大通覆講，說《妙法華》，得結大乘父子。其失心者，雖與良藥而不肯服，流浪生死，逃逝他國。即起方便：或作三藏結緣，說生滅之法；或作通教結緣，說無生之法；或作別教結緣，說不生生恒沙佛法；或作圓教結緣，說不生不生一實相法。若信、若謗，因倒、因起，如[A3]喜根雖謗，後要得度。結緣已後，以二十五三昧為二十五有，說三諦法而成熟之。或於中間得度、或于今未度，雖復得度、未度，皆是眷屬。今三藏佛，於分段國，出家成道。往日三藏之緣，或得度、或未得度。得度之者，灰身滅智，不復論生緣。未度者，來牽分段：昔殷重信順，今為親識受道；昔汎汎信順，今為疎外受道；昔時拒謗，今為怨家受道。甘露初降，先得服甞，早斷分段，得出生死。如大象捍群，俱證解脫，如五佛子之流，雖是異姓，則是法親內眷屬也。若不得道，雖是宗族，名外眷屬。佛於其人，則無利益。若入滅度，不復更生，此人緣盡，傳付後佛也。
+> Second, karma-born retinue: though in principle all beings are children, they drink others' poison; some lose their minds, some do not. Those who do not lose their minds bow and kneel, inquire, seek rescue; given medicine, they immediately take it. Therefore in the Great-Universal re-expounding, speaking the Lotus, they obtain the Mahayana father-and-child bond. Those who lose their minds, though given good medicine, are unwilling to take it, wandering birth-and-death, fleeing to other lands. Then expedients are aroused: perhaps forming affinities with the Tripitaka, speaking dharmas of arising and ceasing; perhaps forming affinities with the Common teaching, speaking the dharma of non-arising; perhaps forming affinities with the Distinct teaching, speaking the non-arising that gives rise to innumerable Buddha-dharmas; perhaps forming affinities with the Perfect teaching, speaking the non-arising of non-arising, the one real-mark dharma. Whether believing or slandering, by inversion or by arisal, like [A3] Xi-gen though slandering, later must be saved. After forming affinities, taking the twenty-five samadhis as the twenty-five existences, they speak the three-truths dharma and mature them. Some are saved in the meantime; some have not yet been saved today; whether already saved or not, all are retinue. Now the Tripitaka Buddha, in the realm of segmented [birth-and-death], leaves home and attains the Way. The former Tripitaka affinities - some were saved, some not. Those saved ash the body and extinguish wisdom and no longer discuss birth-affinities. Those not saved come and draw [them] into the segmented [realm]: formerly earnest and deep in faith and compliance, now they receive the Way as close acquaintances; formerly broad and shallow in faith and compliance, now they receive the Way as distant outsiders; formerly they resisted and slandered, now they receive the Way as enemies. When sweet dew first descends, those who first taste it quickly cut off the segmented [birth-and-death] and attain exit from birth-and-death. Like a great elephant protecting the herd, all certify liberation; like the stream of the five Buddha-sons, though of different surnames, they are dharma-kin inner retinue. If they do not attain the Way, though of the same clan, they are called outer retinue. For such persons the Buddha has no benefit. If they enter extinction, they are not reborn; their affinities are exhausted and are transmitted to the next Buddha.
 
----
+    [A3] CBETA 按：「喜根」應作「勝意」，相關典故可參考《諸法無行經》（T15n0650_p0759a23-p0761a26）。宋．從義撰《法華經三大部補注》載：「《妙玄》下文云『喜根雖謗』者，誤也，應云『勝意』也。」（X28n0586_p0169b05-06）
+> [A3] CBETA note: "Xi-gen" should be "Shengyi"; related allusions can be consulted in the *Zhufa Wuxing Jing* (T15n0650_p0759a23-p0761a26). Song, Congyi's *Fahua Jing San Dabu Buzhu* records: "In the Miaoxuan text below, 'Xi-gen though slanders' is an error; it should read 'Shengyi'." (X28n0586_p0169b05-06)
 
-### How Retinue Forms
+三、願眷屬者，先世結緣，雖未斷苦，願生內眷屬中、或怨家等，因之受道。若得道者，成法內眷屬；不得者成，法外眷屬。若佛滅度，此人無益，傳付後佛也。
+> Third, vow-born retinue: in former lives they formed affinities; though suffering not yet cut off, they vow to be born among inner retinue, or among enemies, and thereby receive the Way. If they attain the Way, they become inner retinue of the dharma; if not, they become outer retinue of the dharma. If the Buddha enters extinction, these persons have no benefit; they are handed over to the next Buddha.
 
-行者亦爾，受戒之時，說此戒法，授於前人，前人聽聞，即得發戒，師、弟所由生也。
+四、神通眷屬者，若先世值佛，發真見諦，生猶未盡，或在上界，或在他方。今佛，分段作佛：或以願力、或以通力來生下界；或為親、中、怨，輔佛行化，斷餘殘惑，而出三界。若殘惑未盡，值佛入滅，亦自能斷，或待後佛(云云)。三藏不說界外生，今以大乘意望之。昔值佛得度，三界生盡，受變易身，緣牽分段，非是業生，但是願通。願通云何異？約自報力名神通，約教名誓願。神通生者，本受報處，猶有報身，以身通力，分形來此；若願生者，報處無身，願力下生耳。三藏不說斷結，誓願受生死身，不約此教論願；通教則有誓扶餘習而生分段，依通明願，於義為便。此等未得法身，故全無應生眷屬。三藏眷屬竟。
+> Fourth, supernatural-power retinue: if in former lives one met the Buddha and aroused true seeing of the truths, yet births are not exhausted, they may be in upper realms or in other directions. Now the Buddha acts as a Buddha in the segmented realm: either by vow-power or by spiritual-power they are born in the lower realm; or as kin, neutral, or enemies, they assist the Buddha's transforming teaching, cut off remaining residual delusions, and exit the three realms. If residual delusions are not exhausted and they meet the Buddha's entry into extinction, they can also cut them off themselves, or wait for a later Buddha (and so on). The Tripitaka does not speak of birth outside the realms; now we consider it with Mahayana intent. Formerly, having met the Buddha and been saved, births in the three realms are exhausted, and they receive a transformation body; affinities pull them into the segmented realm; this is not karmic birth but vow-penetration. How does vow-penetration differ? In terms of one's own retribution-power it is called spiritual power; in terms of the teaching it is called a vow. Those born by spiritual power: at the place of retribution they still have a retribution body; by bodily spiritual power they divide their form and come here. Those born by vow: at the place of retribution they have no body; they descend by vow-power. The Tripitaka does not speak of cutting off bonds and, by vow, receiving a body of birth-and-death; it does not discuss vows by this teaching. The Common teaching, however, has vows that support residual habits and give birth in the segmented realm; relying on the Common teaching clarifies vows, which is suitable in meaning. These have not yet attained the dharma-body; therefore there is entirely no response-born retinue. The Tripitaka retinue ends.
 
-> Practitioners are the same. At the time of receiving precepts, this precept-dharma is explained and transmitted to the person before [the teacher]; hearing it, [the student] develops precepts—**this is how teacher and disciple arise**.
+往昔結無生緣者，或已得道、或未得道，佛於分段作佛。未得道者，當處即有業生；上界向下，即有願通兩生。分別願通，如前說。橫從他土來者，即有願通；竪從方便來者，亦有願通。通教未得法身，故無應生眷屬也。
+> Those who in former times formed non-arising affinities, whether already attaining the Way or not, when the Buddha acts as a Buddha in the segmented realm: those not yet attaining the Way have karmic birth on the spot; those descending from upper realms have the two births of vow and penetration. Distinguishing vow and penetration is as explained above. Those who come horizontally from other lands have vow-penetration; those who come vertically from the expedient land also have vow-penetration. The Common teaching has not yet attained the dharma-body, therefore there is no response-born retinue.
 
-禪亦如是，授安心法，如教修行，即得發定，是為我師，我是弟子。
+往昔曾結別教緣者，中間同事說法，種種教詔，成熟未熟。佛今在分段作佛。未得道者。當處即有業生；上界向下，得有願通。橫從他方，得有願通。竪從方便來，亦有願通。竪從實報來者，得有應生，無明先破，已得法身之本，能起應入生死。此則異前(云云)。
+> Those who formerly formed Distinct-teaching affinities, in between shared activities and spoke dharma, with various teachings and admonitions, maturing the unmatured. The Buddha now acts as a Buddha in the segmented realm. Those not yet attaining the Way: on the spot they have karmic birth; descending from upper realms they have vow-penetration. Coming horizontally from other directions they have vow-penetration. Coming vertically from the expedient land, they also have vow-penetration. Those coming vertically from the real-reward land have response-birth: ignorance has first been broken, they have obtained the basis of the dharma-body, and can arouse response to enter birth-and-death. This differs from the previous (and so on).
 
-> Dhyāna is also like this: transmitting the mind-settling method, cultivating as taught, one develops samādhi—**"this is my teacher; I am the disciple."**
+往昔結圓教緣者，中間調熟，或得道、或未得道，今於分段作佛。先緣牽來，差別不同。若未得道，當處有一。上界向下，有二。他方橫來，有二。方便來，亦二。實報來，有一。例如前(云云)。
+> Those who formerly formed Perfect-teaching affinities, in between were tamed and matured; some attained the Way, some did not. Now the Buddha acts as a Buddha in the segmented realm. Former affinities draw them here, with differing distinctions: if not yet attaining the Way, on the spot there is one; from upper realms downward, there are two; coming horizontally from other directions, there are two; coming from the expedient land, also two; coming from the real-reward land, there is one. It is as explained before (and so on).
 
-慧亦如是，說諸法門，轉入人心，由法成親。親故則信，信故則順，是名眷屬也。
+問：
+> Question:
 
-> Wisdom is also like this: explaining the dharma-gates, [they] turn and enter the person's mind—**through Dharma, kinship is established**. Kinship leads to faith; faith leads to following—this is called retinue.
+法身惑除理顯，何故受生？
+> When delusion is removed and principle revealed in the dharma-body, why take birth?
 
----
+答：
+> Answer:
 
-## Five Types of Retinue
+應身受生，其意有三：一為熟他。二為自熟。三為本緣。
+> Response-body taking birth has three intentions: (1) to ripen others; (2) to ripen oneself; (3) for original affinities.
 
-二、明眷屬者，又為五種：
+一熟他者，秖為業生，善根微弱，不能自發。諸菩薩等，先雖得度，愍彼迷闇，慈力起應入二十五有，而作師導，引諸實行，令向佛所。若得真道，成內眷屬，同於應生。若得似道，同於願通；不得真似，令增進勝業。皆使利益，無有唐捐。如《華嚴》中，說佛初託胎，法身菩薩皆侍衛下生，如陰雲籠月，散降餘胎，為親、中、怨，引諸業者。當知，諸眷屬非生死人。摩耶是千佛之母，淨飯是千佛之父，羅睺羅千佛之子。諸聲聞等，悉內祕外現，示眾有三毒，實自淨佛土，諸親族等，皆是大權法身上地。豈有凡夫，能懷那羅延菩薩耶？復次，外道怨惡，抗拒誹謗，當知皆是法身所為。何者？轉輪小善，出世無怨，豈有無上法王怨仇滿路？若於佛起惡，惡道受罪，何得灼然生生相惱？龍象蹴踏，非驢所堪。調達是賓伽羅菩薩，先世大善知識。阿闍世是不動菩薩。薩遮尼犍是大方便菩薩。波旬是住不思議解脫。故《華嚴》列眾，明諸天、龍、鬼神悉住不可思議法門。如是等，若親、中、怨、好、惡、逆、順，皆是法身，先是法內眷屬，今作應生眷屬。若親、中、怨、好、惡、逆、順，未得法身，先雖結緣，為猶在法外，同稱願業等眷屬。諸餘經典，非不明此權利益眾，咸謂是實內、實外、實好、實惡、實逆、實順，故經云：未曾向人，說如此事。今經，佛自開近權、顯遠實，開諸眷屬迹權、顯本實。故文云：「今當為汝說最實事。」是名應生眷屬，熟他故來也。
+> First, for ripening others: it is only for karma-born beings with weak good roots who cannot arouse themselves. Bodhisattvas, though previously already saved, pity their deluded darkness; by compassionate power they arouse response and enter the twenty-five existences, act as teachers and guides, lead the real practitioners, and cause them to approach the Buddha. If they attain the true Way, they become inner retinue, the same as response-born; if they attain the similar Way, they are the same as vow-penetration; if they attain neither true nor similar, they are made to advance superior karma. All are caused to benefit without being in vain. As in the Avatamsaka, it says that when the Buddha first entered the womb, dharma-body bodhisattvas all attended and descended, like cloudy shade covering the moon, scattering to descend into other wombs, as kin, neutral, or enemies, guiding those with karma. One should know: these retinue are not birth-and-death persons. Maya is mother of a thousand Buddhas; Suddhodana is father of a thousand Buddhas; Rahula is son of a thousand Buddhas. All the sravakas secretly hide within and appear without, showing the three poisons to the assembly while actually purifying Buddha-lands; all kinfolk are great expedient dharma-body higher grounds. How could ordinary persons carry the Narayana bodhisattva in the womb? Moreover, heterodox enemies who resist and slander should be known as all acts of the dharma-body. Why? A wheel-turning king's small good has no enemies in the world; how could the unsurpassed Dharma King have enemies filling the road? If one raises evil toward the Buddha and receives punishment in evil paths, how could they blazingly trouble one another life after life? The trampling of dragon-elephants is not bearable for donkeys. Devadatta is the Pingarala bodhisattva, a great good spiritual friend in past lives. Ajatasatru is the Akshobhya bodhisattva. Saccaniganta is the Great Skillful Means bodhisattva. Mara is one abiding in inconceivable liberation. Therefore the Avatamsaka's assembly list clarifies that gods, dragons, ghosts, and spirits all abide in inconceivable dharma-gates. Thus, whether kin, neutral, enemy, favorable, evil, contrary, or compliant, all are dharma-body; previously they were inner dharma retinue and now are response-born retinue. If kin, neutral, enemy, favorable, evil, contrary, or compliant have not attained the dharma-body, though they formerly formed affinities, they are still outside the dharma and are jointly called vow/karma and the like retinue. The other sutras are not without clarifying this expedient benefiting beings; they all claim these are real inner, real outer, real favorable, real evil, real contrary, real compliant; therefore the sutra says: never before have I told people such things. In this sutra the Buddha himself opens near expedients and reveals the far real, opens the traces of expedient retinue and reveals the fundamental real. Therefore the text says: "Now I will tell you the most real matter." This is named response-born retinue: they come to ripen others.
 
-> Explaining retinue has **five types**:
+二、為自成來者，法身菩薩進道無定，或從生身進道、或從法身進道。故下涌出菩薩云：「我亦自欲得此真淨大法。」〈分別功德品〉中明增道損生，即其義也。
+> Second, for self-accomplishment: dharma-body bodhisattvas advance on the path without fixedness; some advance from the birth-body, some advance from the dharma-body. Therefore the bodhisattvas who surge up from below say: "I also myself wish to obtain this truly pure great dharma." In the "Discrimination of Merits" chapter it explains increasing the path and diminishing birth; that is its meaning.
 
-| # | Type | Description |
-|---|------|-------------|
-| 1 | **Principle-nature** (理性眷屬) | Inherent Buddha-nature connection |
-| 2 | **Karma-born** (業生眷屬) | Connection through shared karma |
-| 3 | **Vow-born** (願生眷屬) | Connection through vows |
-| 4 | **Supernatural-born** (神通生眷屬) | Connection through spiritual powers |
-| 5 | **Response-born** (應生眷屬) | Connection through compassionate manifestation |
+三、為本緣所牽，本從此佛初發道心，亦從此佛住不退地。佛尚自入分段施作佛事，有緣之者何得不來！猶如百川應須朝海，緣牽應生亦復如是。
+> Third, being pulled by original affinities: originally they first aroused the aspiration for the Way with this Buddha, and also with this Buddha abode in the non-retrogression stage. The Buddha himself still enters the segmented realm to perform Buddha-works; how could those with affinities not come? It is like the hundred rivers that should all flow toward the sea; affinities pulling response-birth are also like this.
 
----
+若別說者，業生在分段；願生、通生在方便；應生在寂光。通論一處，具有四種如實報，已得法身，能起應作四種眷屬。就圓結緣者，雖未斷惑，自有三種眷屬。就得道者，即是四也。別眷屬，亦四可知。通、藏結緣，三種可知。雖無應來之應，得論感應之應，就所應得名，四義宛足。
+> If spoken separately, karma-born is in the segmented realm; vow-born and penetration-born are in the expedient land; response-born is in the quiescent light. Generally speaking of one place, it has four kinds; as in the real-reward land, those who have obtained the dharma-body can arouse and make the four kinds of retinue. For those who formed Perfect-teaching affinities, though not yet cutting off delusion, there are three kinds of retinue of their own. For those who attained the Way, there are four. Distinct retinue likewise can be known as four. For Common and Tripitaka affinities, three kinds can be known. Though there is no response of "responding to come," one can discuss the response of stimulus-and-response; naming it according to what is responded to, the four meanings are fully present.
 
-### 1. Principle-Nature Retinue
+問：
+> Question:
 
-理性眷屬者，眾生如佛如，一如無二如，理性相關，任運是子。
+下方涌出，妙音東來。如《大經》中召請十方諸大菩薩集娑羅林，大師子吼，於四眷屬，此是何等？
+> Surging up from below and Wonderful Sound coming from the east; as in the Great Sutra, summoning great bodhisattvas of the ten directions to gather in the sal grove and roaring the great lion - among the four retinue, what is this?
 
-> **Principle-nature retinue**: Sentient beings' suchness is Buddha's suchness; **one suchness, no second suchness**; principle-nature mutually connects—**naturally they are children**.
+答：
+> Answer:
 
-故云：「我亦如是，眾聖中尊，世間之父。一切眾生，皆是吾子。」
+是神通來，非神通生。是應來，非應生。是大誓願相關，非願生。是因緣相召，如下方聞聲、妙音見光，是諸佛大事業來，非業生。業生者，不能業來；業來，非是業生。願通生者，不能願通來；願通來者，亦能願通生，亦能應來。應來，亦能應生(云云)。
+> It is supernatural coming, not supernatural-born. It is response coming, not response-born. It is great vow related, not vow-born. It is causal conditions summoning one another; like below hearing the sound and Wonderful Sound seeing the light, it is the great Buddha work coming, not karmic birth. Those born by karma cannot come by karma; coming by karma is not karmic birth. Those born by vow-penetration cannot come by vow-penetration; those who come by vow-penetration can also be born by vow-penetration and can also come by response. Those who come by response can also be born by response (and so on).
 
-> Hence it says: "**I am also like this—honored among sages, father of the world. All sentient beings are my children.**"
+三、明麁妙者，若三藏根性眷屬，此性下劣，昔結此緣，緣亦淺小，中間以法成熟，成熟蓋少。若來生佛國，作內外眷屬，業願通等，乃至應來影響三藏佛者，皆麁眷屬也。通、別根性，乃至內、外，雖巧別有異，準例可知，皆麁眷屬也。此經說諸眾生，悉是吾子，非客作人。論其理性，無非是子，是名理性眷屬妙。往昔覆講，結緣繫珠，二萬億佛，教無上道。經云：「若我遇眾生，盡教以佛道。」若眾生無佛性者，教以佛道，過則屬佛。若眾生皆有佛性，迷惑不受教，過屬眾生。一切有心皆當作佛，闡提不斷心，猶有反復，作佛何難？二乘灰滅，滅智則心盡，灰身則色盡，色心俱敗，其於五欲無所復堪，而能世世遇之盡教佛道，此則中間成熟妙。今於法華普得作佛，此希有事，最上醫王變毒為藥，能治敗種無心成佛，此則內外眷屬妙。譬如臨陣爭勳，前鋒第一。佛說諸教，収羅眾生，而灰心二乘處處不入，於法華忽然得入，故《涅槃》遙指八千聲聞得授記莂，如秋收冬藏，更無所作。若《法華》不悟佛性，《涅槃》不應遙指。若眾生本無佛性，往昔結緣，不應教以佛道。原始要終，佛性義明，可以意得。
+> Third, clarifying coarse and subtle: if it is retinue of Tripitaka root-nature, this nature is inferior; in former times they formed this affinity, the affinity was also shallow and small; in between they are matured by the dharma, and the maturing is scant. If they later are born in the Buddha-land as inner or outer retinue - karmic, vow, penetration, even response-coming that influences a Tripitaka Buddha - all are coarse retinue. Common and Distinct root-natures, even inner and outer, though skillfully distinct, can be known by analogy: all are coarse retinue. This sutra says all sentient beings are entirely my children, not guest laborers. Speaking of their principle-nature, none are not children; this is called the subtlety of principle-nature retinue. Formerly, re-expounding and forming affinities, tying the jewel; for two ten-thousand million Buddhas, they taught the unsurpassed path. The sutra says: "If I encounter sentient beings, I fully teach them the Buddha path." If sentient beings lack Buddha-nature and are taught the Buddha path, the fault belongs to the Buddha; if sentient beings all have Buddha-nature and, deluded, do not accept the teaching, the fault belongs to sentient beings. All with mind will become Buddhas; icchantikas do not cut off mind, still have returning, so how could becoming Buddha be hard? The two vehicles, ash-extinction: extinguishing wisdom, the mind ends; ashing the body, form ends; form and mind both ruined; they can no longer bear the five desires; yet they can meet this teaching life after life and be fully taught the Buddha path - this is the subtlety of maturing in between. Now in the Lotus all universally attain Buddhahood; this rare event, the unsurpassed physician-king turns poison into medicine and can cure the ruined seed with no mind to become Buddha; this is the subtlety of inner and outer retinue. It is like vying for merit on the battlefield: the vanguard is first. The Buddha speaks the various teachings, gathering in sentient beings, yet the ash-minded two vehicles do not enter anywhere; in the Lotus they suddenly enter, therefore the Nirvana points from afar to the eight thousand sravakas receiving prediction, like autumn harvesting and winter storing, with nothing further to do. If the Lotus does not awaken Buddha-nature, the Nirvana should not point from afar. If sentient beings originally had no Buddha-nature, in former times when affinities were formed, they should not have been taught the Buddha path. From beginning to end, the meaning of Buddha-nature is clear and can be grasped in mind.
 
-此是理性，不關結緣、不結緣，皆是佛子也。
+今問《華嚴》師頓極之教，說一切眾生有佛性不？若其有者，二乘何不聞經授記作佛，那忽如聾如瘂？若言二乘本有佛性，而怱怱取小，如閹本根，本根已敗，為可治？為不可治？若可治，何故不治？若不可治，那得復言一切眾生皆有佛性？故知《華嚴》所不能治，是方便之說。《法華》能治，是如實之說。能治、難治，此處則妙。
+> Now ask the Avatamsaka teachers of the sudden and ultimate teaching: do they say all sentient beings have Buddha-nature or not? If they do, why do the two vehicles not hear the sutra and receive prediction to become Buddhas, but are suddenly like deaf and mute? If you say the two vehicles originally have Buddha-nature but hastily take the small, like eunuchs whose root is already ruined, can it be cured or not? If it can be cured, why is it not cured? If it cannot be cured, how can one again say all sentient beings have Buddha-nature? Therefore one knows what the Avatamsaka cannot cure is an expedient teaching; the Lotus can cure - it is a teaching as it really is. Able to cure and hard to cure: here it is subtle.
 
-> This is principle-nature—**whether having established affinity or not, all are Buddha's children**.
+所謂結緣妙、成熟妙、業生妙、願生妙、應生妙、內眷屬妙、外眷屬妙，能受妙道、影響妙事，是故稱妙。若將此意，約五味者：乳教，有別、圓兩眷屬，一麁一妙；酪教，但一麁；生蘇，三麁一妙；熟蘇，二麁一妙；法華，無麁但妙。是名相待明眷屬妙也。
+> So-called subtlety of forming affinities, subtlety of maturing, subtlety of karmic birth, subtlety of vow-born, subtlety of response-born, subtlety of inner retinue, subtlety of outer retinue; able to receive the subtle path, influencing subtle affairs - therefore it is called subtle. If we take this meaning and apply it to the five flavors: the milk teaching has Distinct and Perfect retinue, one coarse and one subtle; the curd teaching has only one coarse; raw milk has three coarse and one subtle; cooked milk has two coarse and one subtle; the Lotus has no coarse, only subtle. This is called relative clarification of retinue subtlety.
 
----
+又開麁顯妙者，諸經明麁眷屬，皆不見佛性。今《法華》定天性審父子，非復客作，故常不輕深得此意，知一切眾生正因不滅，不敢輕慢。於諸過去佛，現在若滅後，若有聞一句，皆得成佛道，即了因不滅；低頭舉手，皆成佛道，即緣因不滅也。一切眾生，無不具此三德，即是開麁顯妙，絕待明眷屬妙也。
+> Further, opening the coarse to reveal the subtle: the various sutras clarify coarse retinue and all do not see Buddha-nature. Now the Lotus definitively establishes natural kinship and examines father and child; no longer guest laborers. Therefore Never-Disparaging deeply grasped this meaning, knowing the right-cause of all sentient beings is indestructible and not daring to slight them. For all past Buddhas, whether now or after extinction, if one hears a single sentence they all attain the Buddha path - this is the indestructibility of the knowing-cause; lowering the head or raising the hands, all attain the Buddha path - this is the indestructibility of the conditioning cause. All sentient beings are without exception endowed with these three virtues; this is opening the coarse to reveal the subtle, the absolute clarification of retinue subtlety.
 
-### 2. Karma-Born Retinue
+四、明法門眷屬者，此如「普現菩薩問淨名居士：父母、妻子、親戚、眷屬、吏民、知識，悉為是誰？奴婢、僮僕、象馬、車乘，皆在何所？淨名答云：方便為父，智度為母，一切眾導師，無不由此生。法喜為妻，慈悲為女，善心誠實男，畢竟空寂舍，弟子眾塵勞，隨意之所轉，道品善知識，由是成正覺。」此法門以為眷屬。若爾者，法門不同，深淺有異。
+> Fourth, clarifying dharma-gate retinue: it is like "Bodhisattva Puxian asked Vimalakirti: father, mother, wife, children, relatives, retinue, officials, and acquaintances - who are they all? servants, boys, elephants, horses, and chariots - where are they all?" Vimalakirti answered: "Expedient means are father, wisdom is mother; all leaders of beings are born from these. Dharma-joy is wife, compassion is daughter, good mind and truthfulness are son, ultimate emptiness and quiescence are the dwelling; disciples and many afflictions turn as they will; the good spiritual friends of the path-factors are from these and thereby attain correct awakening." These dharma-gates are taken as retinue. If so, dharma-gates differ, with depth and shallowness.
 
-業生眷屬者，但眾生理論皆子，而飲他毒藥，有失心者、不失心者。
+若三藏法門，觀真為實、觀假為權，以此二智滿，即名為佛。佛即導師，慈悲六道即是女，令他善順真諦名為男。得此法時喜，名此為妻。此心中修諸波羅蜜道品等，即是善知識也。
+> If it is Tripitaka dharma-gate: contemplating the true as real and the provisional as expedient, when these two wisdoms are complete it is named Buddha. The Buddha is the teacher; compassion for the six paths is the daughter; enabling others to comply well with the true truth is called the son. When one attains this dharma there is joy, named the wife. Within this mind one cultivates the paramitas and path-factors and so on - these are the good spiritual friends.
 
-> **Karma-born retinue**: Though in principle all beings are children, they've drunk others' poison—**some have lost their minds, some haven't**.
+若通教中法門眷屬者，觀諸法如幻、如化，體達即空為實。分別四門，同異為權。於此二智生解，名導師。慈愛眾生為女，令生善直心為男，行六度道品為知識。是為通教中法門眷屬(云云)。
+> If it is the Common teaching's dharma-gate retinue: contemplating all dharmas as illusory and like transformations, realizing identity with emptiness as real; distinguishing the four gates, sameness and difference, as expedient. From these two wisdoms, understanding is born - named the teacher. Loving compassion for beings is the daughter; enabling the arising of a good, straight mind is the son; practicing the six perfections and path-factors is the acquaintance. This is the Common teaching's dharma-gate retinue (and so on).
 
-不失心者，拜跪問訊，求索救護，與藥即服...
+若別教法門恒沙眷屬，真俗合為權，智是父，中實理為母。無量慈善、無量道品、諸波羅蜜通達無滯，道種智分明，觀機識藥，即是別教中眷屬。故《無量義》云：「諸佛法王父，經教夫人母，和合出生諸菩薩子。」《十住毘婆沙》云：「般舟三昧父，大悲無生母，一切諸如來，從此二法生。」《寶性論》云：「大乘信為子，般若以為母，禪胎大悲為乳母。諸佛如實子。」
+> If it is the Distinct teaching's dharma-gate retinue of innumerable kinds: truth and conventional combine as expedient; wisdom is father; the inner real principle is mother. Measureless compassion and goodness, measureless path-factors, and all paramitas freely penetrate without obstruction; the seed-knowledge is clear, contemplating capacities and knowing medicines - this is the Distinct teaching's retinue. Therefore the *Sutra of Infinite Meaning* says: "All Buddhas are Dharma King fathers; the sutra teachings are mothers as ladies; their union gives birth to all bodhisattva children." The *Shizhu Vibhasa* says: "Pratyutpanna samadhi is the father; great compassion and non-arising are the mother; all tathagatas are born from these two dharmas." The *Bao Xing Lun* says: "Mahayana faith is the child; prajna is the mother; dhyana-womb great compassion is the wet nurse. The Buddhas are true children."
 
-> Those who haven't lost their minds bow, inquire, seek protection—given medicine, they take it...
+闡提謗大乘障，外道橫計身中有我障，聲聞怖畏生死障，支佛背捨利益眾生障；菩薩修四法為對治：修信、修般若、修虛空定首楞嚴定、修大悲，得清淨法界，到彼岸，見如來性，生如來家，是佛子也。既道見如來性，生如來家，當知用如來為父也。無量法門，不可說不可說，皆能生佛子(云云)。
+> Icchantika slanders Mahayana and is an obstruction; heterodoxes wrongly posit a self in the body and are an obstruction; sravakas fear birth-and-death and are an obstruction; pratyekabuddhas turn away from benefiting beings and are an obstruction. Bodhisattvas cultivate four dharmas as countermeasures: cultivate faith, cultivate prajna, cultivate the emptiness samadhi and the shurangama samadhi, cultivate great compassion; they attain the pure dharma-realm, reach the other shore, see the Tathagata nature, and are born in the Tathagata family - they are Buddha's children. Since it is said "seeing the Tathagata nature, born in the Tathagata family," one should know they take the Tathagata as father. Measureless dharma-gates, unspeakable and unspeakable, all can give birth to Buddha's children (and so on).
 
-其失心者，雖與良藥而不肯服，流浪生死，逃逝他國。
+若圓教法門明眷屬，自行三諦、一諦為實。化他一諦、三諦為權。隨情一諦、三諦為權。隨智三諦、一諦為實。從此不思議生解，一心具萬行之善為男，無緣大慈為女。開佛知見生喜為妻，非淨非垢等中道、道品、六波羅蜜為善知識。如是等實相，圓極法門以為眷屬。初住之中，便成正覺；能八相化物，即是導師。前來諸法門既麁，生諸導師亦麁。今法門眷屬既妙，所生導師亦妙也。
+> If the Perfect teaching's dharma-gate clarifies retinue: in self-practice the three truths and one truth are real; in transforming others the one truth and three truths are expedient; following feelings, one truth and three truths are expedient; following wisdom, three truths and one truth are real. From this, inconceivable understanding arises: the good of one mind containing ten thousand practices is the son; unconditioned great compassion is the daughter. Opening the Buddha-knowledge-and-seeing gives rise to joy and is the wife; the middle way of neither pure nor defiled, path-factors, and six perfections are the good spiritual friends. Such real mark - the perfect ultimate dharma-gates are taken as retinue. In the first abiding one immediately attains correct awakening; being able to manifest the eight aspects to transform beings is the teacher. The prior dharma-gates are coarse, and the teachers produced are coarse; now the dharma-gate retinue is subtle, and the teachers produced are also subtle.
 
-> Those who have lost their minds—**though given good medicine, they won't take it**, wandering in birth-and-death, fleeing to other countries.
+用此意歷五味教者：乳教一麁一妙。酪教但有一麁。生蘇有三麁一妙。熟蘇有二麁一妙。《法華》但有一妙。待麁意竟。
+> Applying this meaning through the five flavors: the milk teaching has one coarse and one subtle; the curd teaching has only one coarse; raw milk has three coarse and one subtle; cooked milk has two coarse and one subtle; the Lotus has only one subtle. The relative meaning is complete.
 
----
+諸經妙者自妙、麁者自麁。今經非但妙者為妙，亦無復有麁，絓是前來諸麁，悉皆決了，為一平等大慧妙法門也。絕待意竟。
+> The subtle of the various sutras is subtle of itself, the coarse is coarse of itself. Now this sutra is not only that the subtle are subtle; it also has no more coarse. It resolves all the prior coarse and is a single, equal, great-wisdom subtle dharma-gate. The absolute meaning is complete.
 
-### 3. Vow-Born Retinue
+五、觀心眷屬者，即為六：一、愛心；二、見心；四則四教也。
+> Fifth, contemplation-of-mind retinue: there are six: (1) love-mind; (2) view-mind; the remaining four are the four teachings.
 
-願眷屬者，先世結緣，雖未斷苦，願生內眷屬中...
+愛心眷屬者，無明為父，癡愛為母，出生煩惱之子孫。以貪著、憶想，欲得心中法門，魔鬼便入。如媚女思想，邪媚媚之。行人亦爾，憶想偏邪，邪物得入，以鬼力故，或生權解，或生實解。邪解生，故鬼導師生，起鬼慈善，著邪法喜，行邪六度道品，得邪辯，心明口利，說諸法門，即愛心眷屬也。邪相既利，發得四見，見心推畫，作諸法門。心所見處為實，同他為權。心起愛為女，心分別為男。如是心中，修六度為道品，是名見心眷屬。何者？此之見愛，不識己心苦、集，妄謂道、滅！不知字與非字，如蟲食木，偶得法門之名，有名無義，豈非愛見耶？若能觀心，識愛見心皆是因緣生法；無常生滅，即有四番觀心眷屬。如《中論》偈云：「因緣生法，即空、即假、即中。」仍於四觀，各明眷屬，準前可知。
+> Love-mind retinue: ignorance is the father, foolish love is the mother, giving birth to offspring of afflictions. Through greed and clinging, recollective imaginings, wishing to obtain dharma-gates in the mind, demons and ghosts then enter; like a coquettish woman thinking, perversely coaxing. Practitioners are also like this: recollective imaginings are biased and perverse, and perverse things can enter; by ghost power, some generate expedient understanding, some generate real understanding. When perverse understanding arises, ghost teachers arise; they produce ghostly compassion, attach to perverse dharma-joy, practice perverse six perfections and path-factors, gain perverse eloquence, with mind bright and mouth sharp, speaking various dharma-gates - this is love-mind retinue. When perverse marks are already sharp, one gives rise to the four views; the view-mind plans and draws up, making various dharma-gates. What the mind sees is taken as real; with others it is taken as expedient. The mind gives rise to love as daughter; the mind discriminates as son. Thus in the mind, cultivating the six perfections as path-factors is named view-mind retinue. Why? These views and loves do not recognize the mind's own suffering and collection, and falsely call them path and cessation; they do not know the written and the non-written, like worms eating wood and accidentally obtain a dharma-gate name - name without meaning; is this not love and view? If one can contemplate mind and recognize that love and view mind are all dharmas born from causes and conditions, then impermanent arising and ceasing give rise to four kinds of contemplation-of-mind retinue. As the Middle Treatise verse says: "Dharma born from causes and conditions is emptiness, is provisional, is the middle." Still in the four contemplations, each clarifies retinue; by analogy with the previous it can be known.
 
-> **Vow-born retinue**: Past lives established affinity; though suffering not yet cut, **vowing to be born among inner retinue**...
+判五觀心為麁，後一觀心為妙。又決麁論妙，人尚不自識己愛見心是因緣生，何能識因緣心，即空、即假？尚不識空、假，何能魔界即佛界，於見不動，修三十七品耶？今觀愛即是法性，觀見不動，修三十七品，魔界見界即是佛界，於非字中而能知字，行於非道，通達佛道，於一切法無不是妙。
+> Judging the five contemplation-of-mind types as coarse, the last contemplation-of-mind as subtle. Furthermore, deciding coarse and discussing subtle: people still do not recognize their own love-and-view mind as cause-and-conditionally born; how can they recognize that the conditioned mind is emptiness and provisional? Still not recognizing emptiness and provisional, how can they say the demon realm is precisely the Buddha realm, remain unmoved among views, and cultivate the thirty-seven factors? Now contemplating love as precisely dharma-nature, contemplating views without movement, cultivating the thirty-seven factors, the demon realm and view realm are precisely the Buddha realm; within the non-written one can know the written, practice the non-way, and penetrate the Buddha way; in all dharmas none are not subtle.
 
----
-
-### 4. Supernatural-Born Retinue
-
-神通眷屬者，若先世值佛，發真見諦，生猶未盡，或在上界，或在他方...
-
-> **Supernatural-born retinue**: If in past lives one met Buddha, developed true seeing of truth, but births not yet exhausted—whether in higher realms or other directions...
-
-以通力分形來此...為親、中、怨，輔佛行化...
-
-> Using supernatural power to divide one's form and come here... **being kin, neutral, or enemy—assisting Buddha's transformative teaching**...
-
----
-
-### 5. Response-Born Retinue
-
-法身惑除理顯，何故受生？應身受生，其意有三：一為熟他。二為自熟。三為本緣。
-
-> Dharma-body—delusion removed, principle revealed—why take birth? **Response-body taking birth has three meanings**:
-> 1. **For ripening others**
-> 2. **For ripening oneself**
-> 3. **For original affinities**
-
----
-
-## The Secret of the *Lotus Sūtra*'s Retinue
-
-當知，諸眷屬非生死人。摩耶是千佛之母，淨飯是千佛之父，羅睺羅千佛之子。諸聲聞等，悉內祕外現，示眾有三毒，實自淨佛土...
-
-> Know that **these retinue are not birth-and-death beings**. Māyā is mother of a thousand Buddhas; Śuddhodana is father of a thousand Buddhas; Rāhula is son of a thousand Buddhas. **All the śrāvakas secretly hide inside while manifesting outside**—showing they have the three poisons while **actually purifying Buddha-lands**...
-
-諸親族等，皆是大權法身上地。豈有凡夫，能懷那羅延菩薩耶？
-
-> All kinfolk are **great expedient Dharma-body higher-ground [bodhisattvas]**. Could an ordinary being carry the Nārāyaṇa bodhisattva [in the womb]?
-
----
-
-## Even Enemies Are Dharma-Body Manifestations
-
-調達是賓伽羅菩薩，先世大善知識。阿闍世是不動菩薩。薩遮尼犍是大方便菩薩。波旬是住不思議解脫。
-
-> **Devadatta is Siṃhavikrīḍita bodhisattva**—a great spiritual friend from past lives. **Ajātaśatru is Akṣobhya bodhisattva**. **Saccanigaṇṭha is Great Skillful Means bodhisattva**. **Māra is one dwelling in Inconceivable Liberation**.
-
-故《華嚴》列眾，明諸天、龍、鬼神悉住不可思議法門。
-
-> Hence the *Avataṃsaka*'s assembly lists make clear that all gods, dragons, ghosts, and spirits **dwell in inconceivable dharma-gates**.
-
----
-
-## Coarse and Subtle Retinue
-
-若三藏根性眷屬，此性下劣...皆麁眷屬也。
-
-> If Tripiṭaka root-nature retinue—this nature is inferior... all are **coarse retinue**.
-
-今《法華》定天性審父子，非復客作，故常不輕深得此意，知一切眾生正因不滅，不敢輕慢。
-
-> Now the *Lotus* **definitively establishes natural kinship, examining father and children**—no longer guest-laborers. Hence **Never-Disparaging** deeply grasped this meaning: knowing all sentient beings' right-cause is indestructible, **he dared not slight them**.
-
----
-
-## Footnotes
-
-[^1]: The **Five Types of Retinue** reveal the full scope of spiritual connection. Most remarkable is the teaching that even enemies and persecutors may be Dharma-body manifestations helping beings through "reverse methods."
-
----
-
-*Ninth of Ten Trace Subtleties complete. Translation continues in Part 5 (Benefits Subtlety)...*
+明事眷屬，伏聽學文字人；明法門眷屬，伏行教人；明觀心眷屬，伏觀心坐禪人。三種法門，並過其聞見(云云)。
+> Clarifying the retinue of affairs subdues those who listen and learn texts; clarifying the retinue of dharma-gates subdues those who practice teaching others; clarifying the retinue of contemplation of mind subdues those who contemplate mind and sit in meditation. The three dharma-gates all surpass their hearing and seeing (and so on).

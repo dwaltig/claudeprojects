@@ -14,712 +14,166 @@
 
 ---
 
-## 妙法蓮華經玄義卷第一上
-# The Profound Meaning of the Lotus Sutra, Fascicle 1 (Upper)
+## T1716_001
+
+妙法蓮華經玄義卷第一上
+> The Profound Meaning of the Lotus Sutra, Fascicle One (Upper).
 
 天台智者大師說
-
-> Expounded by the Great Master Zhiyi of Tiantai.
-
-**Expounded by the Great Master Zhiyi of Tiantai**
-
----
-
-## The Five Chapters (五重玄義)
+> Spoken by the Great Master Zhizhe of Tiantai.
 
 　釋名第一　辨體第二　明宗第三　論用第四　判教第五
+> First, interpreting the name; second, discerning the substance; third, clarifying the essence; fourth, discussing the function; fifth, classifying the teaching.
 
-> 1. **Interpreting the Name** (釋名)
-> 2. **Discerning the Substance** (辨體)
-> 3. **Clarifying the Essence** (明宗)
-> 4. **Discussing the Function** (論用)
-> 5. **Classifying the Teaching** (判教)
+釋此五章，有通、有別。通是同義，別是異義。如此五章，遍解眾經，故言同也。釋名名異，乃至判教教異，故言別也。例眾經之初，皆安五事，則同義也。如是詮異，我聞人異，一時感應異，佛住處所異，若干人聽眾異，則別義也。又通者，共義；別者，各義。如此通、別，專在一部。通則七番共解，別則五重各說。例如利鈍，須廣略二門也。眾教通別，今所不論；一經通別，今當辨。
+> Explaining these five chapters, there is the general and the particular. The general is shared meaning; the particular is different meaning. These five chapters universally explain the sutras, therefore they are called shared. The name differs, and even to the teaching classification the teaching differs, therefore they are called particular. As an example, at the start of all sutras the five items are set in place, thus it is shared meaning. Thus the explanations differ: the person of "I heard" differs, the one time of stimulus and response differs, the Buddha's dwelling place differs, the number of listeners differs, therefore it is particular meaning. Also, general means collective meaning; particular means individual meaning. Such general and particular are confined to one text. The general is explained in seven shared rounds; the particular is explained by the five layers. For example, sharp and dull require the two gates of broad and concise. The general and particular of all teachings we do not discuss now; the general and particular of one sutra we now discern.
 
----
+△就通作七番共解：一、標章；二、引證；三、生起；四、開合；五、料簡；六、觀心；七、會異。
+> As to the general, there are seven shared explanations: (1) marking the sections; (2) citing proof; (3) arousal; (4) opening and closing; (5) discrimination; (6) contemplation of mind; (7) reconciling differences.
 
-## General and Particular Interpretations
-
-釋此五章，有通、有別。
-
-> In interpreting these five chapters, there is the *general* (通) and the *particular* (別).
-
-通是同義，別是異義。
-
-> The general refers to shared meaning; the particular refers to distinctive meaning.
-
-如此五章，遍解眾經，故言同也。
-
-> These five chapters can be used to interpret all sūtras—hence they are called "shared."
-
-釋名名異，乃至判教教異，故言別也。
-
-> Yet the Name differs [for each sūtra], and so on through to the Teaching classification—hence they are called "distinctive."
-
-例眾經之初，皆安五事，則同義也。如是詮異，我聞人異，一時感應異，佛住處所異，若干人聽眾異，則別義也。
-
-> As an example: at the beginning of every sūtra, five items are established—this is the shared meaning.[^1] But "Thus" (*evam*) is interpreted differently, the "I heard" refers to different persons, the "one time" refers to different occasions of resonance, the Buddha's dwelling place differs, and the assembly of listeners differs—this is the distinctive meaning.
-
-又通者，共義；別者，各義。如此通、別，專在一部。
-
-> Again, "general" means *collective* meaning; "particular" means *individual* meaning. This general-and-particular [analysis] is directed specifically at this one text.
-
-通則七番共解，別則五重各說。
-
-> The general [approach] consists of **seven shared interpretations** (七番共解). The particular [approach] consists of **five layers of individual exposition** (五重各說).
-
-例如利鈍，須廣略二門也。
-
-> Just as [the teaching must accommodate] the sharp and the dull, it requires both the extensive and the concise approaches.
-
-眾教通別，今所不論；一經通別，今當辨。
-
-> The general and particular aspects of all teachings—that is not our present concern. The general and particular aspects of this one sūtra—that is what we shall now analyze.
-
----
-
-## The Seven Shared Interpretations (七番共解)
-
-△就通作七番共解：
-
-> ▷ The general [approach] employs seven shared interpretations:
-
-一、標章；二、引證；三、生起；四、開合；五、料簡；六、觀心；七、會異。
-
-> 1. **Establishing the Chapters** (標章)
-> 2. **Citing Evidence** (引證)
-> 3. **Demonstrating the Arising** (生起)
-> 4. **Opening and Combining** (開合)
-> 5. **Critical Discrimination** (料簡)
-> 6. **Observing the Mind** (觀心)
-> 7. **Reconciling Differences** (會異)
-
----
-
-### The Purpose of Each Interpretation
-
-標章令易憶持，起念心故。
-
-> **Establishing the Chapters** makes them easy to memorize and retain, arousing the *mind of mindfulness* (念心).
-
-引證據佛語，起信心故。
-
-> **Citing Evidence** relies on the Buddha's words, arousing the *mind of faith* (信心).
-
-生起使不雜亂，起定心故。
-
-> **Demonstrating the Arising** prevents confusion and disorder, arousing the *mind of concentration* (定心).
-
-開合、料簡、會異等，起慧心故。
-
-> **Opening and Combining**, **Critical Discrimination**, and **Reconciling Differences** arouse the *mind of wisdom* (慧心).
-
-觀心即聞、即行，起精進心故。
-
-> **Observing the Mind** means to hear and immediately practice, arousing the *mind of vigor* (精進心).
-
-五心立，成五根，排五障，成五力，乃至入三脫門。
-
-> When the Five Minds are established, they become the Five Faculties (五根).[^2] They dispel the Five Hindrances (五障), become the Five Powers (五力), and lead even to entry into the Three Gates of Liberation (三脫門).[^3]
-
-略說七重，共意如此。
-
-> This is a summary of the seven levels and their shared purpose.
-
----
-
-### The Detailed Exposition
+標章令易憶持，起念心故。引證據佛語，起信心故。生起使不雜亂，起定心故。開合、料簡、會異等，起慧心故。觀心即聞、即行，起精進心故。五心立，成五根，排五障，成五力，乃至入三脫門。略說七重，共意如此。
+> Marking the sections makes them easy to remember and hold, thus arousing the mind of recollection. Citing proof relies on the Buddha's words, thus arousing the mind of faith. Arousal makes them not confused, thus arousing the mind of concentration. Opening and closing, discrimination, and reconciling differences, thus arouse the mind of wisdom. Contemplation of mind is hearing and doing at once, thus arousing the mind of diligence. When the five minds are established, they become the five roots, remove the five hindrances, become the five powers, and even enter the three liberation gates. Briefly speaking the seven layers, the shared intent is like this.
 
 廣解五章者，一一廣起五心、五根，令開、示、悟、入佛之知見耳。
-
-> The detailed interpretation of the Five Chapters causes each to extensively arouse the Five Minds and the Five Faculties, enabling one to *open, reveal, awaken to, and enter* the Buddha's knowledge and vision.[^4]
-
----
-
-## Chapter 1: Interpreting the Name (釋名)
+> To explain the five chapters broadly, each broadly arouses the five minds and five roots, enabling opening, showing, awakening, and entering the Buddha's knowledge and insight, that is all.
 
 ○初標五章(云云)。標名為四：一、立；二、分別；三、結；四、譬。
-
-> ○ First, establishing the Five Chapters... The establishment of the Name has four aspects: (1) Establishing, (2) Distinguishing, (3) Concluding, (4) Illustrating with metaphor.
-
----
-
-### 1. Establishing the Name
+> First, marking the five chapters (and so on). Marking the name is four: (1) establishment; (2) discrimination; (3) conclusion; (4) metaphor.
 
 立名者，原聖建名，蓋為開深以進始，咸令視聽，俱得見聞，尋途趣遠，而至於極，故以名名法，施設眾生。
+> Establishing the name: the sage originally established the name, in order to open the profound and advance the beginning, causing seeing and hearing all to obtain seeing and hearing, to seek the path and head far, and reach the ultimate; therefore it uses names to name the dharma, setting forth for beings.
 
-> **Establishing:** The original sage established names in order to open what is profound and advance those at the beginning. He caused all to look and listen, enabling all to see and hear. Following the path, they proceed from afar and arrive at the ultimate. Therefore, names are used to designate the Dharma, providing for sentient beings.
+分別者，但法有麁妙，若隔歷三諦，麁法也；圓融三諦，妙法也。此妙諦本有，文云「是法住法位，世間相常住。唯我知是相，十方佛亦然。」尚非不退菩薩、入證二乘所知，況復人天群萌之類。佛雖知是，不務速說。文云「我若讚佛乘，眾生沒在苦。謗法不信故，墜於三惡道。」所以初教建立融不融，小根併不聞；次教建立不融，大根都不用；次教俱建立，以融斥不融，令小根恥不融，慕於融；次教俱建立，令小根寄融向不融，令大根從不融向於融。雖種種建立，施設眾生，但隨他意語，非佛本懷故，言不務速說也。今經正直捨不融，但說於融，令一座席同一道味，乃暢如來出世本懷，故建立此經，名之為妙。
+> Discrimination: there are only coarse and subtle dharmas. If separated and passing through the three truths, they are coarse dharmas; if perfectly fused in the three truths, they are subtle dharmas. This subtle truth is originally present. The text says, "This dharma abides in the dharma position; the worldly mark is ever abiding. Only I know this mark; the Buddhas in the ten directions are likewise." It is still not known by non-retrogressing bodhisattvas or realizing two vehicles, much less by the mass of humans and heavens. Though the Buddha knows this, he does not hasten to speak it. The text says, "If I praise the Buddha vehicle, beings sink in suffering. Because they slander the dharma and do not believe, they fall into the three evil paths." Therefore the first teaching establishes fusion and non-fusion, and the small roots do not hear; the next teaching establishes non-fusion, and the great roots do not use it; the next teaching establishes both, using fusion to reject non-fusion, causing small roots to be ashamed of non-fusion and long for fusion; the next teaching establishes both, causing small roots to use fusion and move toward non-fusion, and great roots to move from non-fusion toward fusion. Though there are many kinds of establishment, setting forth for beings, they only follow others' intentions, not the Buddha's original mind, therefore he does not hasten to speak. Now this sutra straightforwardly abandons non-fusion and only speaks fusion, causing the whole assembly to share one taste; only then does it express the Tathagata's original intention in appearing in the world. Therefore it establishes this sutra and names it subtle.
 
----
+結者，當知《華嚴》兼，《三藏》但，《方等》對，《般若》帶。此經無復兼、但、對、帶，專是正直無上之道，故稱為妙法也。
+> Conclusion: know that the Avatamsaka is combined, the Tripitaka is only, the Vaipulya is paired, the Prajnaparamita is with. This sutra again has no combined, only, paired, or with; it is purely the straight and unsurpassed path, therefore it is called the subtle dharma.
 
-### 2. Distinguishing Coarse and Wonderful
+譬蓮華者，例有麁妙。云何？麁狂華無果，或一華多菓，或多華一菓，或一華一菓，或前菓後華，或前華後菓。初喻外道，空修梵行，無所剋獲。次喻凡夫，供養父母，報在梵天。次喻聲聞，種種苦行，止得涅槃。次喻緣覺，一遠離行，亦得涅槃。次喻須陀洹，却後修道。次喻菩薩，先籍緣修，生後真修。皆是麁華，不以為喻。蓮華多奇：為蓮故華，華實具足，可喻即實而權；又華開蓮現，可喻即權而實；又華落蓮成，蓮成亦落，可喻非權非實。如是等種種義便故，以蓮華喻於妙法也。
+> As for the lotus flower metaphor, there are coarse and subtle. How? The coarse wild flower has no fruit; or one flower with many fruits; or many flowers with one fruit; or one flower with one fruit; or fruit first and flower later; or flower first and fruit later. The first is a metaphor for outsiders who practice brahman conduct in emptiness and gain nothing. Next is a metaphor for ordinary people who offer to parents and are repaid in the Brahma heaven. Next is a metaphor for sravakas who practice various austerities and only attain nirvana. Next is a metaphor for pratyekabuddhas who practice one renunciation and also attain nirvana. Next is a metaphor for srotaapanna who later cultivate the path. Next is a metaphor for bodhisattvas who first rely on conditions to cultivate and later cultivate the true. These are all coarse flowers and are not used as the metaphor. The lotus flower is more wondrous: because of the lotus there is the flower, and flower and fruit are complete, which can metaphorize that in the real one implements the provisional; moreover when the flower opens and the lotus appears, it can metaphorize that in the provisional one reveals the real; moreover when the flower falls and the lotus completes, and the lotus completes and also the flower falls, it can metaphorize neither provisional nor real. For such various meanings, the lotus flower is used to metaphorize the subtle dharma.
 
-分別者，但法有麁妙，若隔歷三諦，麁法也；圓融三諦，妙法也。
+體者為四：一、釋字。二、引同。三、簡非。四、結正。體字訓禮。禮，法也：各親其親，各子其子，君臣撙節。若無禮者，則非法也。出世法體，亦復如是，善惡、凡聖、菩薩、佛，一切不出法性。正指實相，以為正體也。故〈壽量品〉云「不如三界，見於三界，非如非異。」若三界人見三界為異，二乘人見三界為如，菩薩人見三界亦如亦異，佛見三界非如非異、雙照如異。今取佛所見為實相正體也。金剛藏說「佛甚微智」，辭異意同。其辭曰：「空有、不二、不異、不盡。」空非斷無，故言空有。有即是空，空即是有，故言不二。非離空有外，別有中道，故言不異。遍一切處，故言不盡。此亦與龍樹意同。《中論》云「因緣所生法，即空、即假、即中。」因緣所生法即空者，此非斷無也。即假者，不二也。即中者，不異也。因緣所生法者，即遍一切處也。今言實相體，即權而實，離斷無謗也；即實而權，離建立謗也；權實即非權實，離異謗也；雙照權實，遍一切處，離盡謗也。斯乃總二經之雙美，申兩論之同致，顯二家之懸會，明今經之正體也。
+> As for substance, there are four: (1) explain the term; (2) cite sameness; (3) reject the wrong; (4) conclude the correct. The term for substance is glossed as propriety. Propriety is dharma: each is close to their kin, each is child to their parent, ruler and minister are restrained. If there is no propriety, then it is not dharma. The substance of the supramundane dharma is also like this: good and evil, ordinary and sage, bodhisattva and Buddha, none depart from dharma-nature. It directly points to the real mark as the correct substance. Therefore the Lifespan chapter says, "Not like the three realms; seeing within the three realms, neither like nor different." If people of the three realms see the three realms as different, two-vehicle people see the three realms as like, bodhisattva people see the three realms as both like and different, the Buddha sees the three realms as neither like nor different, and also illuminates like and different. Now we take the Buddha's seeing as the correct substance of the real mark. Vajragarbha says "the Buddha's very subtle wisdom"; the words differ but the meaning is the same. The words say: "empty and existent, not two, not different, not exhausted." Emptiness is not severed non-existence, therefore it says empty and existent. Existence is exactly emptiness, emptiness is exactly existence, therefore it says not two. Not apart from emptiness and existence, there is no separate middle way, therefore it says not different. It pervades all places, therefore it says not exhausted. This also matches Nagarjuna's intent. The Middle Treatise says, "Dharmas arising from causes and conditions are precisely empty, precisely provisional, precisely middle." That dharmas arising from causes and conditions are empty is not severed non-existence. Precisely provisional is not two. Precisely middle is not different. Dharmas arising from causes and conditions are precisely pervading all places. Now speaking of the substance of the real mark: it is provisional yet real, departing from the slander of severed non-existence; it is real yet provisional, departing from the slander of establishment; provisional and real are neither provisional nor real, departing from the slander of difference; dual illumination of provisional and real, pervading all places, departing from the slander of exhaustion. This is to gather the twin beauties of the two sutras, extend the common aim of the two treatises, reveal the distant convergence of the two families, and clarify the correct substance of this sutra.
 
-> **Distinguishing:** Dharmas may be *coarse* or *wonderful*. If the Three Truths are held as separate and sequential, it is the coarse Dharma. If the Three Truths are perfectly interfused, it is the Wonderful Dharma.[^5]
-
-此妙諦本有，文云「是法住法位，世間相常住。唯我知是相，十方佛亦然。」
-
-> This Wonderful Truth is originally existent. The text says: "This Dharma abides in its Dharma-position; the worldly marks are eternally abiding. Only I know this mark, and the Buddhas of the ten directions likewise."[^6]
-
-尚非不退菩薩、入證二乘所知，況復人天群萌之類。
-
-> Even non-retrogressing bodhisattvas and the Two Vehicles who have entered realization cannot know it—how much less the masses of humans and devas!
-
-佛雖知是，不務速說。
-
-> Though the Buddha knows this, he does not hasten to teach it.
-
-文云「我若讚佛乘，眾生沒在苦。謗法不信故，墜於三惡道。」
-
-> The text says: "If I were to praise the Buddha Vehicle, beings immersed in suffering, slandering the Dharma and lacking faith, would fall into the three evil paths."[^7]
-
-所以初教建立融不融，小根併不聞；次教建立不融，大根都不用；次教俱建立，以融斥不融，令小根恥不融，慕於融；次教俱建立，令小根寄融向不融，令大根從不融向於融。
-
-> Therefore, when the first teaching establishes both interfusion and non‑interfusion, the small roots do not hear it; the next teaching establishes non‑interfusion, and the great roots do not use it; the next teaching establishes both, using interfusion to reject non‑interfusion, causing the small roots to feel ashamed of non‑interfusion and long for interfusion; the next teaching establishes both, causing the small roots to rely on interfusion and move toward non‑interfusion, and the great roots to move from non‑interfusion toward interfusion.
-
-雖種種建立，施設眾生，但隨他意語，非佛本懷故，言不務速說也。
-
-> Though there are various establishments and provisions for beings, they are merely words that accord with others’ intentions and are not the Buddha’s original intent; therefore he does not urgently speak them.
-今經正直捨不融，但說於融，令一座席同一道味，乃暢如來出世本懷，故建立此經，名之為妙。
-
-> Now, this present sūtra directly sets aside the unfused and teaches only the fused, causing the entire assembly to share one flavor of the Way. This fully expresses the Tathāgata's original intention in appearing in the world. Therefore this sūtra is established and named "Wonderful."
-
----
-
-### 3. Concluding Statement
-
-結者，當知《華嚴》兼，《三藏》但，《方等》對，《般若》帶。
-
-> **Concluding:** You should understand that the *Avataṃsaka* (華嚴) *includes* [the One Vehicle with the separate vehicles]; the *Tripiṭaka* (三藏) teaches *only* [the separate vehicles]; *Vaipulya* (方等) *contrasts* [One with Three]; *Prajñā* (般若) *carries* [the Three while teaching the One].[^8]
-
-此經無復兼、但、對、帶，專是正直無上之道，故稱為妙法也。
-
-> This sūtra no longer includes, only-teaches, contrasts, or carries. It is exclusively the direct, unsurpassed Way. Therefore it is called the Wonderful Dharma.
-
----
-
-### 4. The Lotus Metaphor
-
-譬蓮華者，例有麁妙。
-
-> **Illustrating with metaphor:** The lotus flower likewise has coarse and wonderful [examples].
-
-云何？麁狂華無果，或一華多菓，或多華一菓，或一華一菓，或前菓後華，或前華後菓。
-
-> How so? A coarse, wild flower has no fruit. Or one flower with many fruits. Or many flowers with one fruit. Or one flower with one fruit. Or fruit before flower. Or flower before fruit.
-
-初喻外道，空修梵行，無所剋獲。次喻凡夫，供養父母，報在梵天。次喻聲聞，種種苦行，止得涅槃。次喻緣覺，一遠離行，亦得涅槃。次喻須陀洹，却後修道。次喻菩薩，先籍緣修，生後真修。
-
-> The first illustrates non-Buddhists who cultivate pure conduct in vain and gain nothing. The second illustrates ordinary beings who serve their parents and are reborn in the Brahma heavens. The third illustrates śrāvakas who practice various austerities and merely attain nirvāṇa. The fourth illustrates pratyekabuddhas who practice one form of renunciation and also attain nirvāṇa. The fifth illustrates stream-enterers who later progress on the path. The sixth illustrates bodhisattvas who first rely on conditioned cultivation and later attain true cultivation.
-
-皆是麁華，不以為喻。
-
-> All of these are coarse flowers and are not used as the metaphor.
-
-蓮華多奇：為蓮故華，華實具足，可喻即實而權；又華開蓮現，可喻即權而實；又華落蓮成，蓮成亦落，可喻非權非實。
-
-> The lotus flower has many extraordinary [qualities]: **The flower exists for the sake of the lotus**—flower and fruit are complete together—this can metaphor *the Real manifesting through the Provisional*. **The flower opens and the lotus appears**—this can metaphor *the Provisional revealing the Real*. **The flower falls and the lotus matures; the mature lotus also falls**—this can metaphor *neither Provisional nor Real*.
-
-如是等種種義便故，以蓮華喻於妙法也。
-
-> Because of these many convenient meanings, the lotus flower is used to metaphor the Wonderful Dharma.
-
----
-
-## Chapter 2: Discerning the Substance (辨體)
-
-體者為四：一、釋字。二、引同。三、簡非。四、結正。
-
-> The Substance has four aspects: (1) Explaining the character, (2) Citing agreement, (3) Discriminating what is not [the Substance], (4) Concluding the correct [Substance].
-
-體字訓禮。
-
-> The character *tǐ* (體, substance) is glossed as *lǐ* (禮, propriety).
-
-禮，法也：各親其親，各子其子，君臣撙節。
-
-> Propriety is Dharma: each cherishes its own kin, each child serves its own parents, rulers and ministers keep to proper measure.
-
-若無禮者，則非法也。
-
-> If there is no propriety, then it is not Dharma.
-
-出世法體，亦復如是，善惡、凡聖、菩薩、佛，一切不出法性。
-
-> The substance of supramundane Dharma is likewise: good and evil, ordinary and sage, bodhisattva and Buddha—all do not depart from Dharma‑nature.
-
-正指實相，以為正體也。
-
-> [The teaching] directly points to *True Reality* (實相) and takes it as the correct Substance.
-
-故〈壽量品〉云「不如三界，見於三界，非如非異。」
-
-> Therefore, the "Lifespan" chapter says: "Unlike the three realms, yet seeing the three realms—neither same nor different."[^9]
-
-若三界人見三界為異，二乘人見三界為如，菩薩人見三界亦如亦異，佛見三界非如非異、雙照如異。
-
-> If beings in the three realms see the three realms as different; if the Two Vehicles see the three realms as the same; if bodhisattvas see the three realms as both same and different; the Buddha sees the three realms as neither same nor different—illumining both same and different.
-
-今取佛所見為實相正體也。
-
-> Now we take what the Buddha sees as the correct Substance of True Reality.
-
-金剛藏說「佛甚微智」，辭異意同。
-
-> Vajragarbha says, "The Buddha's wisdom is extremely subtle." The wording differs, but the meaning is the same.
-
-其辭曰：「空有、不二、不異、不盡。」
-
-> His words are: "Empty and existent; non-dual, non-different, inexhaustible."
-
-空非斷無，故言空有。
-
-> Emptiness is not annihilative nothingness; therefore it is said "empty and existent."
-
-有即是空，空即是有，故言不二。
-
-> Existence is precisely emptiness; emptiness is precisely existence—therefore non-dual.
-
-非離空有外，別有中道，故言不異。
-
-> There is no Middle Way apart from emptiness and existence; therefore it is called non-different.
-
-遍一切處，故言不盡。
-
-> It pervades all places; therefore it is called inexhaustible.
-
-此亦與龍樹意同。
-
-> This also accords with Nāgārjuna's intent.
-
-《中論》云「因緣所生法，即空、即假、即中。」
-
-> The *Madhyamaka-śāstra* says: "Dharmas arising from causes and conditions are precisely emptiness, precisely provisional, precisely the middle."
-
-因緣所生法即空者，此非斷無也。
-
-> That dharmas arising from causes and conditions are emptiness is not annihilative nothingness.
-
-即假者，不二也。
-
-> "Precisely provisional" means non-dual.
-
-即中者，不異也。
-
-> "Precisely the middle" means non-different.
-
-因緣所生法者，即遍一切處也。
-
-> "Dharmas arising from causes and conditions" means pervading all places.
-
-今言實相體，即權而實，離斷無謗也；即實而權，離建立謗也；權實即非權實，離異謗也；雙照權實，遍一切處，離盡謗也。
-
-> Now, speaking of the Substance of True Reality: it is Provisional-yet-Real, thereby avoiding the slander of annihilative nothingness; it is Real-yet-Provisional, thereby avoiding the slander of reification; the Provisional-and-Real are precisely not-Provisional-and-Real, thereby avoiding the slander of difference; it illuminates both Provisional and Real, pervading all places, thereby avoiding the slander of exhaustion.
-
-斯乃總二經之雙美，申兩論之同致，顯二家之懸會，明今經之正體也。
-
-> This gathers the dual excellence of the two sūtras, extends the shared purport of the two śāstras, manifests the convergence of the two schools, and clarifies the correct Substance of this present sūtra.
-
-私謂實相之法，橫破凡夫之四執，竪破三聖之證得。
-
-> I say that the Dharma of True Reality horizontally breaks the four attachments of ordinary beings and vertically breaks the attainments of the three sages.
-
-破凡夫可解。
-
-> Breaking ordinary beings is easy to understand.
-
-破聖者，三藏二乘，指但空為極。
-
-> As for breaking the sages: the Two Vehicles of the Tripiṭaka take only-emptiness as ultimate.
-
-譬頗梨珠，一往似真，再研便偽。
-
-> It is like a crystal jewel: at first glance it seems real; polished again, it proves false.
-
-身子云：「我等同入法性，失於如來無量知見。」
-
-> Śāriputra said: "We have all entered the Dharma-nature together, yet we have lost the immeasurable knowledge and vision of the Tathāgata."
-
-空有之旨，正破此證也。
-
-> The meaning of emptiness and existence precisely breaks this attainment.
-
-通教人，指但空、不但空共為極。
-
-> People of the Common Teaching take both only-emptiness and not-only-emptiness together as ultimate.
-
-譬雜色裹珠，光隨色變。
-
-> It is like a jewel wrapped in mixed colors; its light changes with the colors.
-
-緣所見之光，亡其本體；逐玄黃之色，墮落二乘。
-
-> Chasing the light as seen, they lose its original substance; pursuing the blue and yellow colors, they fall into the Two Vehicles.
-
-《大經》云「聲聞之人，但見於空，不見不空。」
-
-> The *Great Sūtra* says: "Śrāvakas only see emptiness, and do not see non-emptiness."
-
-菩薩之人，非但見空，亦見不空。
-
-> Bodhisattvas not only see emptiness; they also see non-emptiness.
-
-所見既殊，不二之旨正破此證也。
-
-> Since what is seen is different, the principle of non-duality precisely breaks this attainment.
-
-別教人，指不但空為極。
-
-> People of the Distinct Teaching take not-only-emptiness as ultimate.
-
-逈出二邊，如雲外月，棄邊取中，如捨空求空，不異之旨，正破此證。
-
-> They go far beyond the two extremes, like the moon beyond the clouds; discarding the extremes and taking the middle, like abandoning emptiness to seek emptiness—the principle of non-difference precisely breaks this attainment.
-
-若彼有此無，則正法不遍，不盡之旨，亦破此證也。
-
-> If they have this and lack that, then the True Dharma does not pervade; the principle of inexhaustibility also breaks this attainment.
-
-此等皆非佛甚微智，不與金剛藏意同。
-
-> All of these are not the Buddha's extremely subtle wisdom, and do not accord with Vajragarbha's intent.
-
-非佛證得本有常住，不與〈方便品〉同。
-
-> They are not the Buddha's realization of the originally existent permanence, and do not accord with the "Skillful Means" chapter.
-
-不遍一切處，不與〈壽量品〉同。
-
-> They do not pervade all places, and do not accord with the "Lifespan" chapter.
-
-既不會正體，攝屬何法？
-
-> If they do not comprehend the correct Substance, to what Dharma do they belong?
-
-但空，是化他之實；但不但，是自行化他之實。
-
-> Only-emptiness is the Real of transforming others; not-only-emptiness is the Real of both self-practice and transforming others.
-
-出二邊中，是自行之權。
-
-> Emerging from the two extremes and entering the middle is the Provisional of self-practice.
-
-並他經所說，非今體也。
-
-> These are all what other sūtras teach; they are not the Substance of this present [sūtra].
-
-今經體者，體化他之權實，即是自行之權實，如垢衣內身，實是長者。
-
-> The Substance of this sūtra is the Provisional-and-Real of transforming others; this is precisely the Provisional-and-Real of self-practice—like the body within soiled clothing: in truth it is a wealthy elder.
-
-體自行化他之權實，即是自行之權實，如衣內繫珠，即無價寶也。
-
-> The Provisional-and-Real of self-practice and transforming others is precisely the Provisional-and-Real of self-practice—like a pearl tied within the garment: it is a priceless jewel.
-
-自行之權，即自行之實。
-
-> The Provisional of self-practice is precisely the Real of self-practice.
-
-如一切世間，治生產業，皆與實相不相違背。
-
-> As for all worldly activities—governing and livelihood—none are in conflict with True Reality.
-
-一色一香，無非中道。
-
-> One form, one fragrance—none is not the Middle Way.
-
-況自行之實而非實耶！
-
-> How much less could the Real of self-practice be non-Real!
-
----
-
-## Chapter 3: Clarifying the Essence (明宗)
+私謂實相之法，橫破凡夫之四執，竪破三聖之證得。破凡夫可解。破聖者，三藏二乘，指但空為極。譬頗梨珠，一往似真，再研便偽。身子云：「我等同入法性，失於如來無量知見。」空有之旨，正破此證也。通教人，指但空、不但空共為極。譬雜色裹珠，光隨色變。緣所見之光，亡其本體；逐玄黃之色，墮落二乘。《大經》云「聲聞之人，但見於空，不見不空。」菩薩之人，非但見空，亦見不空。所見既殊，不二之旨正破此證也。別教人，指不但空為極。逈出二邊，如雲外月，棄邊取中，如捨空求空，不異之旨，正破此證。若彼有此無，則正法不遍，不盡之旨，亦破此證也。此等皆非佛甚微智，不與金剛藏意同。非佛證得本有常住，不與〈方便品〉同。不遍一切處，不與〈壽量品〉同。既不會正體，攝屬何法？但空，是化他之實；但不但，是自行化他之實。出二邊中，是自行之權。並他經所說，非今體也。今經體者，體化他之權實，即是自行之權實，如垢衣內身，實是長者。體自行化他之權實，即是自行之權實，如衣內繫珠，即無價寶也。自行之權，即自行之實。如一切世間，治生產業，皆與實相不相違背。一色一香，無非中道。況自行之實而非實耶！
+> I privately say that the dharma of real mark horizontally breaks the four attachments of ordinary people and vertically breaks the realizations of the three sages. Breaking ordinary people can be understood. As for breaking sages: the two vehicles of the Tripitaka point to only emptiness as the ultimate. It is like a crystal pearl: at first it seems true, but upon further grinding it is false. Sariputra says, "We all entered the dharma-nature, missing the Tathagata's immeasurable knowledge and insight." The intent of empty and existent precisely breaks this realization. People of the Common teaching point to only emptiness and not-only-emptiness together as the ultimate. It is like a pearl wrapped in mixed colors; the light changes with the colors. Chasing the light that is seen, one loses its original substance; following black and yellow colors, one falls into the two vehicles. The Great Sutra says, "Sravaka people only see emptiness and do not see not-emptiness." Bodhisattva people not only see emptiness but also see not-emptiness. Since what is seen differs, the intent of not-two precisely breaks this realization. People of the Distinct teaching point to not-only-emptiness as the ultimate. Far beyond the two sides, like the moon outside clouds, they abandon the sides and take the middle, like abandoning emptiness to seek emptiness; the intent of not-different precisely breaks this realization. If they have this and not that, then the true dharma does not pervade; the intent of not-exhausted also breaks this realization. These are all not the Buddha's very subtle wisdom and do not match Vajragarbha's intent. They are not the Buddha's realized original abiding, and do not match the Expedient Means chapter. They do not pervade all places, and do not match the Lifespan chapter. Since they do not meet the correct substance, to what dharma do they belong? Only emptiness is the real of transforming others; only not-only emptiness is the real of self-cultivating and transforming others. Emerging from the middle of the two sides is the provisional of self-cultivation. What is spoken in other sutras is not this present substance. The substance of this sutra: the provisional and real of transforming others is precisely the provisional and real of self-cultivation, like the body within dirty clothes is truly the elder. The provisional and real of self-cultivation and transforming others is precisely the provisional and real of self-cultivation, like a pearl tied inside clothing is a priceless jewel. The provisional of self-cultivation is precisely the real of self-cultivation. As for all worldly things, managing livelihood and production are all not contrary to the real mark. One color and one scent are all middle way. How could the real of self-cultivation not be real?
 
 宗者為三：一、示。二、簡。三、結。
+> As for the essence, there are three: (1) indicate; (2) distinguish; (3) conclude.
 
-> The Essence has three aspects: (1) Indicating, (2) Discriminating, (3) Concluding.
+宗者，要也。所謂佛自行因果，以為宗也。云何為要？無量眾善，言因則攝；無量證得，言果則攝。如提綱維，無目而不動；牽衣一角，無縷而不來。故言宗要。
+> Essence means the crucial. That is, the Buddha's self-cultivated cause and fruit are taken as the essence. What is crucial? Innumerable wholesome things are included when speaking of cause; innumerable realizations are included when speaking of fruit. Like lifting the net's head-rope, no mesh does not move; pulling one corner of a robe, no thread does not come. Therefore it is called the essential point.
 
-宗者，要也。所謂佛自行因果，以為宗也。
+然諸因果，善須明識，尚不取別教因果，況餘因果！餘因果者，昔三因大異，而三果小同；又三因大同，而三果小異。又一因逈出，一果不融。因不攝善，果不收德，則非佛自行之因，非佛道場證得之果。又簡者，諸經明佛往昔所行因果，悉皆被拂，咸是方便，非今經之宗要。取意為言，因窮久遠之實修，果窮久遠之實證，如此之因，竪高七種方便，橫包十法界法。初修此實相之行，名為佛因，道場所得，名為佛果。但可以智知，不可以言具。略舉如此因果，以為宗要耳。
+> Yet the various causes and fruits must be clearly known; we still do not take the Distinct teaching's causes and fruits, much less other causes and fruits. As for other causes and fruits: formerly the three causes greatly differed, yet the three fruits slightly coincided; again the three causes greatly coincided, yet the three fruits slightly differed. Again one cause is far beyond, and one fruit does not fuse. If the cause does not include good and the fruit does not gather virtue, then it is not the Buddha's self-cultivated cause and not the fruit attained at the Buddha's seat. Also, as a distinction: the sutras explain the Buddha's past causes and fruits, all of which are brushed aside; all are expedients, not the essential point of this sutra. Taking the meaning as speech: the cause exhausts the true cultivation of the far past, the fruit exhausts the true realization of the far past. With such causes, vertically it is higher than the seven kinds of expedients, horizontally it includes the dharmas of the ten dharma realms. The initial cultivation of this real-mark practice is named the Buddha cause; what is attained at the seat of the Way is named the Buddha fruit. It can only be known by wisdom, not fully expressed in words. Briefly raising such causes and fruits, it is taken as the essential point.
 
-> *Essence* (*zōng* 宗) means *essential*. The Buddha's own practice of cause and effect is taken as the Essence.
-
-云何為要？無量眾善，言因則攝；無量證得，言果則攝。如提綱維，無目而不動；牽衣一角，無縷而不來。
-
-> What makes it essential? Immeasurable goods—speak of "cause" and they are included. Immeasurable realizations—speak of "effect" and they are included. It is like lifting the main cord of a net: no mesh fails to move. It is like pulling one corner of a garment: no thread fails to follow.
-
-故言宗要。
-
-> Therefore it is called the "essential essence."
-
-然諸因果，善須明識，尚不取別教因果，況餘因果！
-
-> Yet as for these causes and fruits, they must be clearly recognized; we do not even take the Distinct Teaching's causes and fruits—how much less other causes and fruits!
-
-餘因果者，昔三因大異，而三果小同；又三因大同，而三果小異。
-
-> Other causes and fruits: formerly the three causes were greatly different, while the three fruits were slightly the same; again, the three causes were greatly the same, while the three fruits were slightly different.
-
-又一因逈出，一果不融。
-
-> Again, one cause is far beyond, and one fruit is not fused.
-
-因不攝善，果不收德，則非佛自行之因，非佛道場證得之果。
-
-> If the cause does not include goodness and the fruit does not gather virtue, then it is not the Buddha's self-practice cause and not the fruit realized at the Buddha's seat of enlightenment.
-
-又簡者，諸經明佛往昔所行因果，悉皆被拂，咸是方便，非今經之宗要。
-
-> Further, in discrimination: the causes and fruits of the Buddha's past practice as explained in other sūtras are all set aside; all are expedient, and not the essential gist of this sūtra.
-
-取意為言，因窮久遠之實修，果窮久遠之實證，如此之因，竪高七種方便，橫包十法界法。
-
-> Speaking by intent: the cause exhausts the real cultivation of the remotest past; the fruit exhausts the real realization of the remotest past. Such a cause vertically towers above the seven kinds of expedients and horizontally includes the dharmas of the ten Dharma-realms.
-
-初修此實相之行，名為佛因，道場所得，名為佛果。
-
-> The initial cultivation of this practice of True Reality is called the Buddha-cause; what is attained at the seat of enlightenment is called the Buddha-fruit.
-
-但可以智知，不可以言具。
-
-> It can only be known by wisdom; it cannot be fully expressed in words.
-
-略舉如此因果，以為宗要耳。
-
-> Briefly citing such causes and fruits—this is the essential gist.
-
----
-
-## Chapter 4: Discussing the Function (論用)
-
-用者為三：一、示。二、簡。三、益。
-
-> The Function has three aspects: (1) Indicating, (2) Discriminating, (3) Benefits.
-
-用者，力用也。三種權實二智，皆是力用。
-
-> *Function* (*yòng* 用) means *power and function*. The three kinds of Provisional-and-Real dual wisdom are all power and function.[^10]
-
-於力用中，更分別：自行二智，照理理周，名為力；二種化他二智，鑒機機遍，名為用。
-
-> Within power and function, further distinction is made: The dual wisdom of self-practice, which illuminates principle thoroughly—this is called *power*. The two kinds of dual wisdom for transforming others, which discerns capacities universally—this is called *function*.
-
-如薩婆悉達彎祖王弓滿，名為力；中七鐵鼓，貫一鐵圍山，洞地徹水輪，名為[A1]用。
-
-> Like Sarvārthasiddha drawing the ancestral king's bow to the full—this is called power; hitting seven iron drums, piercing an iron encircling mountain, boring through the earth and penetrating the water wheel—this is called [A1] function.
-
-諸方便教，力用微弱，如凡人弓箭。
-
-> The various expedient teachings have weak power and function, like an ordinary person's bow and arrows.
-
-何者？昔緣稟化他二智，照理不遍，生信不深，除疑不盡。
-
-> Why is this so? Formerly, relying on the dual wisdom for transforming others, illumination of principle was not universal, faith was not deep, and doubts were not fully removed.
-
-今緣稟自行二智，極佛境界，起法界信，增圓妙道，斷根本惑，損變易生。
-
-> Now, relying on the dual wisdom of self-practice, one reaches the Buddha's realm, gives rise to faith in the Dharma-realm, increases the perfectly wonderful path, cuts off fundamental delusions, and diminishes transformed birth-and-death.
-
-非但生身、及生身得忍兩種菩薩俱益，法身、法身後心兩種菩薩亦俱益。
-
-> Not only the two kinds of bodhisattvas with physical bodies and those who attain patience within the physical body are benefited; the two kinds of bodhisattvas with Dharma-bodies and post-mind of the Dharma-body are also benefited.
-
-化功廣大，利潤弘深，蓋茲經之力用也。
-
-> The transforming merit is vast and great; the benefit is profound and deep. This is the power and function of this sūtra.
+用者為三：一、示。二、簡。三、益。用者，力用也。三種權實二智，皆是力用。於力用中，更分別：自行二智，照理理周，名為力；二種化他二智，鑒機機遍，名為用。秖自行二智，即是化他二智；化他二智，即是自行二智；照理即鑒機，鑒機即照理。如薩婆悉達彎祖王弓滿，名為力；中七鐵鼓，貫一鐵圍山，洞地徹水輪，名為[A1]用。諸方便教，力用微弱，如凡人弓箭。何者？昔緣稟化他二智，照理不遍，生信不深，除疑不盡。今緣稟自行二智，極佛境界，起法界信，增圓妙道，斷根本惑，損變易生。非但生身、及生身得忍兩種菩薩俱益，法身、法身後心兩種菩薩亦俱益。化功廣大，利潤弘深，蓋茲經之力用也。
+> As for function, there are three: (1) indicate; (2) distinguish; (3) benefit. Function means power and function. The two wisdoms of the three kinds of provisional and real are all power and function. Within power and function, it is further distinguished: the two wisdoms of self-cultivation illuminate principle and the principle is fully pervaded, named power; the two wisdoms of transforming others observe the stimulus and the stimulus is fully pervaded, named function. The two wisdoms of self-cultivation are precisely the two wisdoms of transforming others; the two wisdoms of transforming others are precisely the two wisdoms of self-cultivation; illuminating principle is observing stimulus, observing stimulus is illuminating principle. Like Sarvasiddha bending the ancestral king's bow to fullness, it is named power; hitting seven iron drums and piercing one iron encircling mountain, boring through earth and reaching the water-wheel, it is named [A1] function. The various expedient teachings have weak power and function, like ordinary people's bows and arrows. Why? Formerly, in conditions receiving the two wisdoms of transforming others, illumination of principle did not pervade, faith was not deep, and doubt was not fully removed. Now, in conditions receiving the two wisdoms of self-cultivation, it reaches the Buddha's realm, arouses dharma-realm faith, increases the perfectly subtle path, cuts off root delusions, and reduces transformation birth. Not only the two kinds of bodhisattvas with a birth-body and with a birth-body attaining endurance are benefited; the two kinds of bodhisattvas with a dharma-body and with a dharma-body's later mind are also benefited. The transforming power is vast and the benefit and nourishment are deep; this is the power and function of this sutra.
 
     [A1] 用【CB】，月【大】
+> [A1] Yong [CB], Yue [Da].
 
-> [A1] "Use" (用) in CBETA; "Moon" (月) in the Taishō edition.
+教相為三：一、根性融、不融相。二、化道始終、不始終相。三、師弟遠近、不遠近相。教者，聖人被下之言也；相者，分別同異也。云何分別？如日初出，前照高山，厚殖善根，感斯頓說。頓說本不為小，小雖在座，如聾如瘂，良由小不堪大，亦是大隔於小，此如《華嚴》。約法被緣，緣得大益，名頓教相。約說次第，名從牛出乳味相。次照幽谷，淺行偏明當分漸解，此如三藏。三藏本不為大，大雖在座，多跢婆和，小所不識，此乃小隔於大，大隱於小。約法被緣，名漸教相。約說次第，名酪味相。次照平地，影臨萬水，逐器方圓，隨波動靜，示一佛土，令淨穢不同。示現一身，巨細各異，一音說法，隨類各解，恐畏、歡喜厭離、斷疑、神力不共，故見有淨、穢，聞有褒、貶，嗅有薝蔔、不薝蔔，華有著身、不著身，慧有若干、不若干，此如《淨名》、《方等》。約法被緣，猶是漸教。約說次第，生蘇味相。復有義，大人蒙其光用，嬰兒喪其睛明；夜遊者伏匿，作務者興成。故文云「但為菩薩說其實事，而不為我說斯真要。」雖三人俱學，二乘取證，具如《大品》。若約法被緣，猶是漸教。約說次第，名熟蘇味相。復有義，日光普照，高下悉均平。土圭測影，不縮不盈。若低頭，若小音，若散亂，若微善，皆成佛道。不令有人獨得滅度，皆以如來滅度而滅度之。具如今經。若約法被緣，名漸圓教。若說次第，醍醐味相。
+> The teaching characteristics are three: (1) characteristics of fusing or not fusing root-nature; (2) characteristics of the beginning and end of the transforming path, or not beginning and ending; (3) characteristics of near and far between teacher and disciple, or not near and far. Teaching is the sage's words delivered downward; characteristics distinguish sameness and difference. How distinguish? Like the sun first rising, it first shines on the high mountains, thickly cultivating good roots and moving this sudden teaching. The sudden teaching originally is not for the small; though the small sit in the assembly, they are like deaf and mute. It is truly because the small cannot bear the great, and also because the great is separated from the small; this is like the Avatamsaka. In terms of dharmas responding to conditions, conditions gain great benefit; this is called the sudden teaching characteristic. In terms of the sequence of speaking, it is called the milk-flavor characteristic from the cow. Next it shines on the shadowed valleys; shallow practice is partially illuminated and should be gradually understood; this is like the Tripitaka. The Tripitaka originally is not for the great; though the great sit in the assembly, they do not recognize many dharma-words; this is the small separated from the great and the great hidden in the small. In terms of dharmas responding to conditions, it is called the gradual teaching characteristic. In terms of the sequence of speaking, it is called the curd-flavor characteristic. Next it shines on the flat ground; its shadow reaches the ten thousand waters, following vessels as square or round, following waves as moving or still; it displays a single Buddha-land and makes purity and defilement differ. It displays a single body, with great and small differing; with one sound it speaks dharma, and each kind understands. Fear, joy, revulsion, cutting off doubt, and supernatural power are not shared; therefore one sees purity and defilement, hears praise and blame, smells campaka or not campaka, flowers adhere to the body or not, wisdom is more or less; this is like the Vimalakirti and Vaipulya. In terms of dharmas responding to conditions, it is still gradual teaching. In terms of the sequence of speaking, it is called the fresh ghee flavor. There is another meaning: the great person receives its light and function, the infant loses its eye brightness; those who roam at night hide, those who do work arise and accomplish. Therefore the text says, "It only speaks the real matter for bodhisattvas, and does not speak this true essential for me." Though the three persons all study, the two vehicles take realization; this is as in the Mahaprajnaparamita. In terms of dharmas responding to conditions, it is still gradual teaching. In terms of the sequence of speaking, it is called the clarified butter flavor. There is another meaning: sunlight universally illuminates, high and low are equally level. The shadow measured by the gnomon neither shortens nor lengthens. Whether lowered head, small sound, scattered, or slight good, all become Buddhahood. It does not allow anyone alone to attain extinction; all are extinguished by the Tathagata's extinction. It is fully like this sutra. In terms of dharmas responding to conditions, it is called gradual perfect teaching. In terms of the sequence of speaking, it is the tihu flavor.
 
----
+當知《華嚴》之譬，與《涅槃》義同。三子、三田、三馬等譬，皆先菩薩，次及二乘，後則平等凡聖(云云)。
+> You should know the Avatamsaka analogy is the same meaning as the Nirvana [sutra]. The analogies of the three children, three fields, three horses, and the like all first concern bodhisattvas, next the two vehicles, and afterwards equality of ordinary and sage (and so on).
 
-## Chapter 5: Classifying the Teaching (判教)
+問：
+> Question:
 
-教相為三：一、根性融、不融相。二、化道始終、不始終相。三、師弟遠近、不遠近相。
+既以五味分別，那同稱漸？
+> Since the five flavors are distinguished, how can they all be called gradual?
 
-> The Teaching Classification has three aspects: (1) The marks of root-natures as fused or unfused. (2) The marks of the path of transformation as complete or incomplete. (3) The marks of teacher and disciple as remote or near.
+答：
+> Answer:
 
-教者，聖人被下之言也；相者，分別同異也。
+約漸得明五味耳。又若小不聞大，大一向是頓；若大不用小，小一向是漸；若以大破小，是漸頓並陳；若帶小明大，是漸頓相資；若會小歸大，是漸頓泯合。故《無量義》云「漸頓二法，三道、四果不合。」今時則合，即此義也。
+> It is only by gradual that the five flavors are made clear. Again, if the small do not hear the great, the great is entirely sudden; if the great do not use the small, the small is entirely gradual; if one uses the great to break the small, gradual and sudden are both presented; if one carries the small to clarify the great, gradual and sudden mutually support; if one gathers the small and returns to the great, gradual and sudden are merged. Therefore the Immeasurable Meaning says, "The two dharmas of gradual and sudden do not align with the three paths and four fruits." Now they are combined; this is its meaning.
 
-> *Teaching* (教) refers to the sage's words bestowed upon those below. *Marks* (相) refers to distinguishing sameness and difference.
+問：
+> Question:
 
-云何分別？
+云何相資？
+> How do they support each other?
 
-> How are they distinguished?
+答：
+> Answer:
 
----
+小聞於大，恥小而慕大，是為頓資小；佛命善吉轉教，大益菩薩，是為漸資頓。
+> When the small hear the great, they are ashamed of the small and long for the great; this is sudden supporting small. The Buddha commands Subhuti to turn and teach, greatly benefiting bodhisattvas; this is gradual supporting sudden.
 
-### The Five Flavors
+如前分別，但約顯露，明漸頓五味之相。若論不定，義則不然。雖高山頓說，不動寂場，而遊化鹿苑；雖說四諦生滅，而不妨不生不滅；雖為菩薩說佛境界，而有二乘智斷；雖五人證果，不妨八萬諸天獲無生忍。當知即頓而漸，即漸而頓。《大經》云「或時說深，或時說淺。」應問即遮，應遮即問。一時、一說、一念之中，備有不定。不同舊義，專判一部。味味中悉如此，此乃顯露不定。
+> As distinguished above, it is only in terms of the manifest that the characteristics of gradual and sudden in the five flavors are clarified. If discussing indeterminate, the meaning is not so. Though on the high mountain there is sudden speaking, unmoving in the quiescent place, it still wanders and transforms in the Deer Park; though it speaks the arising and ceasing of the four truths, it does not hinder non-arising and non-ceasing; though it speaks the Buddha realm for bodhisattvas, there is still two-vehicle wisdom cutting; though five people certify the fruit, it does not hinder eighty thousand gods obtaining the endurance of non-arising. One should know that it is sudden yet gradual, gradual yet sudden. The Great Sutra says, "At times it speaks deep, at times it speaks shallow." When it should ask, it immediately blocks; when it should block, it immediately asks. Within one time, one speaking, one thought, indeterminacy is fully present. It does not follow the old meaning and exclusively judge one text. In each flavor it is all like this; this is manifest indeterminate.
 
-如日初出，前照高山，厚殖善根，感斯頓說。頓說本不為小，小雖在座，如聾如瘂，良由小不堪大，亦是大隔於小，此如《華嚴》。
+祕密不定，其義不然。如來於法，得最自在，若智、若機、若時、若處，三密四門，無妨無礙。此座說頓，十方說漸、說不定。頓座不聞十方，十方不聞頓座。或十方說頓、說不定，此座說漸。各各不相知聞，於此是顯，於彼是密。或為一人說頓，或為多人說漸、說不定，或為一人說漸，為多人說頓。各各不相知，互為顯密。或一座默，十方說；十方默，一座說。或俱默，俱說。各各不相知，互為顯密。雖復如此，未盡如來於法自在之力。但可智知，不可言辨。雖復甚多，亦不出漸、頓、不定、祕密。
+> Secret indeterminate is not the same in meaning. The Tathagata, in dharmas, obtains the utmost self-mastery: whether wisdom, or stimulus, or time, or place, the three secrets and four gates have no hindrance. In this seat it speaks sudden; the ten directions speak gradual, speak indeterminate. The sudden seat does not hear the ten directions; the ten directions do not hear the sudden seat. Or the ten directions speak sudden, speak indeterminate, while this seat speaks gradual. Each does not know or hear the other; here it is manifest, there it is secret. Or it speaks sudden for one person, or speaks gradual and indeterminate for many people, or speaks gradual for one person and sudden for many people. Each does not know the other, mutually being manifest and secret. Or one seat is silent and the ten directions speak; the ten directions are silent and one seat speaks. Or both are silent, both speak. Each does not know the other, mutually being manifest and secret. Though it is thus, it does not exhaust the Tathagata's self-mastery in dharmas. It can only be known by wisdom and cannot be distinguished in words. Though there are many, they do not go beyond gradual, sudden, indeterminate, and secret.
 
-> It is like the sun first rising, first illuminating the high mountains. Those who had thickly planted good roots were moved by this sudden teaching. The sudden teaching was not originally for those of lesser [capacity]. Though the lesser sat in the assembly, they were like the deaf or mute. This is because the small cannot bear the great, and the great is separated from the small. This is like the *Avataṃsaka*.
-
-約法被緣，緣得大益，名頓教相。約說次第，名從牛出乳味相。
-
-> Considered in terms of Dharma matching conditions, it is called the **Sudden Teaching Mark**. Considered in terms of the sequence of teaching, it is called the **Milk-from-the-Cow Flavor Mark**.[^11]
-
-次照幽谷，淺行偏明當分漸解，此如三藏。
-
-> Next it illuminates the dark valleys; shallow practice is partially clarified and gradually understood in its own measure—this is like the Tripiṭaka.
-
-三藏本不為大，大雖在座，多跢婆和，小所不識，此乃小隔於大，大隱於小。
-
-> The Tripiṭaka was not originally for the Great; though the Great sat in the assembly, many were *duota‑pohe*, and the small could not recognize it—this is the small separated from the great, and the great hidden within the small.
-
-約法被緣，名漸教相。
-
-> In terms of Dharma matching conditions, it is called the Gradual Teaching Mark.
-
-約說次第，名酪味相。
-
-> In terms of teaching sequence, it is called the **Curds Flavor Mark**.
-
-次照平地，影臨萬水，逐器方圓，隨波動靜，示一佛土，令淨穢不同。
-
-> Next it illuminates the level ground; its shadow approaches the ten thousand waters, following vessels as square or round and following waves as moving or still, revealing a single Buddha‑land yet making purity and impurity differ.
-
-示現一身，巨細各異，一音說法，隨類各解，恐畏、歡喜厭離、斷疑、神力不共，故見有淨、穢，聞有褒、貶，嗅有薝蔔、不薝蔔，華有著身、不著身，慧有若干、不若干，此如《淨名》、《方等》。
-
-> It manifests a single body with great and small each differing; with one voice it teaches the Dharma, each kind understanding in its own way—fear, joy, revulsion, cutting off doubt, and supernatural powers are not shared. Therefore one sees purity and impurity, hears praise and blame, smells champak or not champak, flowers either adhere to the body or not, and wisdom is more or less—this is like the *Vimalakīrti* and *Vaipulya*.
-
-約法被緣，猶是漸教。
-
-> In terms of Dharma matching conditions, it is still a gradual teaching.
-
-約說次第，生蘇味相。
-
-> In terms of teaching sequence, it is the **Fresh Butter Flavor Mark**.
-
-復有義，大人蒙其光用，嬰兒喪其睛明；夜遊者伏匿，作務者興成。
-
-> There is another meaning: great persons receive its light and benefit, while infants lose their brightness of the eyes; those who wander at night hide, and those who work rise and thrive.
-
-故文云「但為菩薩說其實事，而不為我說斯真要。」
-
-> Therefore the text says: "It only speaks true matters for the bodhisattvas, and does not speak this true essential for me."
-
-雖三人俱學，二乘取證，具如《大品》。
-
-> Though the three persons all study, the Two Vehicles take realization—this is fully like the *Great Perfection of Wisdom*.
-
-若約法被緣，猶是漸教。
-
-> In terms of Dharma matching conditions, it is still a gradual teaching.
-
-約說次第，名熟蘇味相。
-
-> In terms of teaching sequence, it is called the **Clarified Butter Flavor Mark**.
-
-復有義，日光普照，高下悉均平。
-
-> There is yet another meaning: the sunlight shines everywhere, high and low all equally level.
-
-土圭測影，不縮不盈。
-
-> The gnomon measuring the shadow neither shortens nor lengthens.
-
-若低頭，若小音，若散亂，若微善，皆成佛道。
-
-> Whether one bows the head, speaks in a small voice, is scattered, or has slight goodness—all accomplish the Buddha Way.
-
-不令有人獨得滅度，皆以如來滅度而滅度之。
-
-> It does not allow anyone to attain extinction alone; all are brought to extinction by the Tathāgata's extinction.
-
-具如今經。
-
-> This is fully like the present sūtra.
-
-若約法被緣，名漸圓教。
-
-> In terms of Dharma matching conditions, it is called the gradual-perfect teaching.
-
-若說次第，醍醐味相。
-
-> In terms of teaching sequence, it is the ***Ghee* Flavor Mark**.[^12]
-
----
-
-### The Lotus Sutra's Unique Position
-
-今《法華》是顯露，非祕密；是漸頓，非漸漸；是合，非不合；是醍醐非四味；是定，非不定。
-
-> Now, this *Lotus Sūtra* is **revealed**, not secret. It is **gradual-becoming-sudden**, not gradual-upon-gradual. It is **unified**, not disunified. It is **ghee**, not the [previous] four flavors. It is **definite**, not indefinite.
-
-如此分別，此經與眾經相異也。
-
-> By these distinctions, this sūtra differs from all other sūtras.
+今《法華》是顯露，非祕密；是漸頓，非漸漸；是合，非不合；是[A2]醍醐非四味；是定，非不定。如此分別，此經與眾經相異也。
+> Now the Lotus is manifest, not secret; it is gradual-sudden, not gradual-gradual; it is combined, not uncombined; it is [A2] tihu, not the four flavors; it is determinate, not indeterminate. Thus distinguished, this sutra differs from the other sutras.
 
     [A2] 醍醐【CB】，醐醍【大】(cf. T49n2035_p0161c05; X29n0599_p0621b02)
+> [A2] Tihu [CB], Huti [Da] (cf. T49n2035_p0161c05; X29n0599_p0621b02).
 
-> [A2] "Ghee" (醍醐) in CBETA; "huti" (醐醍) in the Taishō edition (cf. T49n2035_p0161c05; X29n0599_p0621b02).
+又異者，餘教當機益物，不說如來施化之意。此經明佛設教元始，巧為眾生作頓、漸、不定、顯密種子，中間以頓、漸五味調伏長養而成熟之，又以頓漸五味而度脫之。並脫、並熟、並種、番番不息，大勢威猛，三世益物，具如〈信解品〉中說，與餘經異也。
+> Another difference: the other teachings benefit beings according to the stimulus but do not speak the Tathagata's intent in transforming others. This sutra clarifies that the Buddha established the teaching from the origin, skillfully making seeds for beings of sudden, gradual, indeterminate, and manifest/secret; in the middle, using the sudden/gradual five flavors to tame, nourish, and mature them, and again using the sudden/gradual five flavors to deliver them. In parallel he frees, matures, and seeds them, unceasing round after round; the great power is powerful, benefiting beings in the three times, fully as spoken in the Faith and Understanding chapter, differing from other sutras.
 
-又異者，餘教當機益物，不說如來施化之意。
+又眾經咸云「道樹，師實智始滿；起道樹，始施權智」。今經明師之權實，在道樹前久久已滿。諸經明二乘弟子不得入實智，亦不能施權智；今經明弟子入實甚久，亦先解行權。又眾經尚不論道樹之前，師之與弟，近近權實，況復遠遠；今經明道樹之前，權實長遠，補處數世界不知，況其塵數！經云「昔所未曾說，今皆當得聞」，殷勤稱讚，良有以也。當知此經，異諸教也。
+> Again, the various sutras all say, "At the bodhi tree, the teacher's real wisdom is first complete; when rising from the bodhi tree, he first bestows provisional wisdom." Now this sutra clarifies that the teacher's provisional and real were already complete long before the bodhi tree. The various sutras clarify that two-vehicle disciples cannot enter real wisdom and also cannot bestow provisional wisdom; now this sutra clarifies that disciples entered the real long ago and also first understood and practiced the provisional. Again, the various sutras do not yet discuss what is before the bodhi tree, the teacher and disciples' near provisional and real, much less the far; now this sutra clarifies that before the bodhi tree, the provisional and real are long and far, and those in the one-life-remaining position do not know a number of worlds, much less their dust-number. The sutra says, "What was never before spoken, now all will get to hear," diligently praising; it truly has a reason. One should know this sutra differs from the other teachings.
 
-> Further difference: other teachings benefit beings according to their capacities but do not speak the Tathāgata's intent in carrying out transformation.
+○二、引證者，如文殊答問偈云「我見燈明佛，本光瑞如此，以是知今佛，欲說《法華經》」。何但二萬億？大通智勝及五佛章中三世佛說，皆名「法華」也。文云「今佛放光明，助發實相義」，又云「諸法實相義，已為汝等說」，又云「無量眾所尊，為說實相印」。此亦今古同以實相為體也。
+> Second, citing proof: as in the Manjusri answer-and-question verse it says, "I see the Buddha of Lamp-Bright; the fundamental light portent is like this. By this I know the present Buddha is about to speak the Lotus Sutra." Why only the two hundred million? In the Great-Universal Wisdom-Victory and the five-Buddha chapter, the three times' Buddhas speak, all are named "Lotus." The text says, "Now the Buddha releases a bright light to help arouse the meaning of real mark," and also says, "The meaning of the real mark of dharmas has already been spoken for you all," and also says, "Immeasurably many are honored; he speaks the seal of real mark." This too is that past and present alike take real mark as the substance.
 
-此經明佛設教元始，巧為眾生作頓、漸、不定、顯密種子，中間以頓、漸五味調伏長養而成熟之，又以頓漸五味而度脫之。
+文云「佛當雨法雨，充足求道者」，即是會三歸一之法雨，令求佛道因者充足，乃至一切皆會令充足。若開近顯遠之法雨，令求佛道果者充足。文云「諸求三乘人，若有疑悔者，佛當為除斷，令盡無有餘」，又云「諸佛法久後，要當說真實」，即是斷三乘、五乘、七方便、九法界等疑，皆令生信。此證經用也。
+> The text says, "The Buddha will rain the dharma rain and fill those who seek the Way," which is the dharma rain that unites the three and returns to the one, causing those who seek the cause of Buddhahood to be filled, and even all to be filled. If one opens the near and reveals the far dharma rain, it fills those who seek the fruit of Buddhahood. The text says, "Those who seek the three vehicles, if they have doubt or regret, the Buddha will remove and cut it so that none remains," and also says, "The dharma of all Buddhas, after long, must speak the real," which is cutting the doubts of the three vehicles, five vehicles, seven expedients, nine dharma realms, and the like, all causing faith to arise. This proves the sutra's function.
 
-> This sūtra clarifies the Buddha's original establishment of teaching, skillfully making sudden, gradual, indeterminate, and revealed/secret seeds for sentient beings. In the middle he uses the sudden and gradual Five Flavors to tame, nurture, and mature them, and again uses the sudden and gradual Five Flavors to liberate them.
+又〈如來神力品〉云「以要言之，如來一切所有之法，如來一切自在神力，如來一切祕要之藏，如來一切甚深之事，皆於此經宣示顯說」。一切法者，權實一切法皆攝也，此證經名。一切自在神力者，內用名自在，外用名神力，即證用也。一切祕要之藏者，非器莫授為祕，正體為要，多所含容而無積聚名藏，此證體也。一切甚深之事者，實相名甚深，為實相修因名深因，究竟實相名深果。又〈法師品〉云「若聞此經，乃是善行菩薩之道」，深因也。「求佛道者，咸於我前聞《妙法華經》一句，乃至一念隨喜，我皆與授記。乃至須臾聞之，即得究竟三菩提深果。」此證宗也。
+> Also the Tathagata Supernatural Powers chapter says, "In brief, all dharmas possessed by the Tathagata, all self-masteries and spiritual powers of the Tathagata, all secret and essential treasuries of the Tathagata, all very deep matters of the Tathagata, are all proclaimed and clearly spoken in this sutra." "All dharmas" means all provisional and real dharmas are included; this proves the sutra's name. "All self-masteries and spiritual powers" means internal use is called self-mastery, external use is called spiritual power; this proves function. "All secret and essential treasuries" means if it is not a vessel it is not given, and so it is secret; the correct substance is the essential; it contains much without accumulation and is named treasury; this proves the substance. "All very deep matters" means real mark is named very deep; cultivating causes for real mark is named deep cause; ultimate real mark is named deep fruit. Also the Dharma Teacher chapter says, "If one hears this sutra, it is the path of good-practice bodhisattvas"; this is deep cause. "Those who seek the Buddha path, all who before me hear one sentence of the Lotus Sutra, even to one thought of rejoicing, I all give them prediction. Even hearing it for a moment, they immediately attain the ultimate deep fruit of supreme awakening." This proves the essence.
 
-並脫、並熟、並種、番番不息，大勢威猛，三世益物，具如〈信解品〉中說，與餘經異也。
+所以引二文者，古佛事定，舉要略以釋疑。今佛說竟，舉要略以付囑。中間正當機廣說，故不引證耳。若引者，「開、示、悟、入」，即其文也。「為大事因緣故」，證名；「佛之知見」，證體；「開示悟入」，證宗；「為令眾生」，證用；「此異餘經」，證教也。
+> The reason for citing two passages: the matters of ancient Buddhas are fixed, so essentials are raised briefly to explain doubts; when the present Buddha has finished speaking, essentials are raised briefly to entrust. In the middle, it is the broad speaking for the proper stimulus, therefore there is no citation. If citing, "opening, showing, awakening, and entering" are its text. "For the sake of the great matter cause and conditions" proves the name; "the Buddha's knowledge and insight" proves the substance; "opening, showing, awakening, and entering" proves the essence; "to cause beings" proves the function; "this differs from other sutras" proves the teaching.
 
-> Liberation, maturation, and sowing occur together, again and again without cease. The momentum is mighty, benefiting beings across the three times. It is explained in the "Faith and Understanding" chapter—thus it differs from other sūtras.
+又〈藥王品〉舉十譬歎教，今引其六：大如海，高如山，圓如月，照如日，自在如梵王、極如佛。
+> Also the Medicine King chapter raises ten metaphors to praise the teaching; now we cite six of them: great as the sea, high as the mountain, round as the moon, illuminating as the sun, self-mastery as Brahma King, ultimate as Buddha.
 
-又眾經咸云「道樹，師實智始滿；起道樹，始施權智」。
+海是坎德，萬流歸故，同一鹹故。《法華》亦爾，佛所證得，萬善同歸，同乘佛乘。江湖川流，無此大德，餘經亦爾，故《法華》最大也。
+> The sea has the virtue of the abyss; because the ten thousand streams return, and because they share one saltiness. The Lotus is also thus: what the Buddha realizes, ten thousand wholesome virtues return together, together riding the Buddha vehicle. Rivers and lakes do not have this great virtue; the other sutras are also thus, therefore the Lotus is the greatest.
 
-> Further, many sūtras all say: "At the Bodhi tree, the Master's real wisdom was first fulfilled; after rising from the Bodhi tree, he first applied provisional wisdom."
+山王最高，四寶所成故，純諸天居故。《法華》亦爾，在四味教之頂，離四誹謗，開、示、悟、入，純一根一緣，同一道味，純是菩薩，無聲聞弟子故。
+> The king of mountains is highest, because it is formed of four treasures and because only gods dwell there. The Lotus is also thus: it stands atop the four-flavor teachings, apart from the four slanders, opening, showing, awakening, and entering, purely one root and one condition, sharing one taste, purely bodhisattvas, with no sravaka disciples.
 
-今經明師之權實，在道樹前久久已滿。
+月能虧盈故，月漸圓故。《法華》亦爾，同體權實故，會漸入頓故。
+> The moon can wax and wane, and the moon gradually becomes full. The Lotus is also thus: because provisional and real are of the same substance, it gathers the gradual to enter the sudden.
 
-> This sūtra clarifies that the Master's Provisional and Real had long been fulfilled before the Bodhi tree.
+燈、炬、星、月與闇共住，譬諸經存二乘道果，與小並立，日能破闇故。《法華》破化城，除草庵故。又日映奪星月，令不現故。《法華》拂迹，除方便故。
+> Lamp, torch, star, and moon dwell together with darkness, a metaphor for the sutras that preserve the two-vehicle path and fruits and stand together with the small; the sun can break darkness. The Lotus breaks the transformed city and removes the grass hut. Again the sun outshines and eclipses star and moon, making them not appear; the Lotus brushes away traces and removes expedients.
 
-諸經明二乘弟子不得入實智，亦不能施權智；今經明弟子入實甚久，亦先解行權。
+輪王於四域自在，釋王於三十三天自在，大梵於三界自在。諸經或於俗諦自在，或於真諦自在，或於中道自在；但是歷別自在，非大自在。今經三諦圓融，最得自在，譬大梵王。餘經拔眾生出生死，如五佛子，於凡夫第一。或拔眾生出涅槃，如菩薩居無學上。今經拔出眾生，過方便教菩薩上，即成法王，最為第一。
+> The wheel-turning king has self-mastery in the four regions; Sakra has self-mastery in the Thirty-Three Heavens; Great Brahma has self-mastery in the three realms. The sutras are sometimes self-mastery in the conventional truth, sometimes self-mastery in the true truth, sometimes self-mastery in the middle way; these are only sequential and separate self-mastery, not great self-mastery. This sutra's three truths are perfectly fused and it attains the greatest self-mastery, like the Great Brahma King. The other sutras pull beings out of birth and death, like the five Buddha sons, first among ordinary people. Or they pull beings out of nirvana, like bodhisattvas dwelling above the no-learning. This sutra pulls beings out, surpasses the expedient-teaching bodhisattvas, and becomes Dharma King, the very first.
 
-> Other sūtras say that disciples of the Two Vehicles cannot enter real wisdom and cannot apply provisional wisdom; this sūtra clarifies that disciples entered the Real long ago and also first understood and practiced the Provisional.
+引諸譬喻，明教相最大。例知用、宗、體、名，亦大如海，境智乃至利益，亦大如海。教相如山，在四味教上，用、宗、體、名、境、智、利益，亦復如是。教相虧盈圓滿，如月；用、宗、體、名、境、智、利益，亦復如是。教破化城，用、宗、體、名、境、智、利益，亦復如是。教相自在，餘亦如是。教相王中王，餘亦如是。非但引文證教，餘義亦成。
+> Citing the various metaphors clarifies that the teaching characteristics are the greatest. By analogy we know that function, essence, substance, and name are also great as the sea, and realm and wisdom, and even benefits, are also great as the sea. Teaching characteristics are like the mountain, above the four-flavor teachings; function, essence, substance, name, realm, wisdom, and benefits are also thus. Teaching characteristics wax and wane to fullness, like the moon; function, essence, substance, name, realm, wisdom, and benefits are also thus. Teaching breaks the transformed city; function, essence, substance, name, realm, wisdom, and benefits are also thus. Teaching characteristics have self-mastery; the rest are also thus. Teaching characteristics are king of kings; the rest are also thus. Not only citing texts to prove the teaching, the other meanings are also accomplished.
 
-又眾經尚不論道樹之前，師之與弟，近近權實，況復遠遠；今經明道樹之前，權實長遠，補處數世界不知，況其塵數！
+○三、生起者，能生為生，所生為起。前後有次第，麁細不相違。肇云：「名無召物之功，物無應名之實。無名無物，名、物安在？」蓋第一義中無相意耳。世諦為言，無名無以顯法，故初釋名。名，名於法，法即是體，尋名識體；體非宗不會，會體自行已圓，從體起用，導利含識；利益既多，須分別教相也。
+> Third, arousal: what can give birth is birth; what is born is arousal. There is sequence before and after, and coarse and subtle do not conflict. Zhao says, "The name has no efficacy to summon the thing; the thing has no reality that responds to the name. Without name and without thing, where are name and thing?" This is the meaning of no marks in the supreme meaning. Speaking in worldly truth: without name there is no way to manifest dharma, therefore first explain the name. Name is the name of dharma; dharma is substance; by seeking the name one knows the substance. The substance cannot be met without essence; when the substance is met, self-cultivation is already complete; from substance function arises, guiding and benefiting sentient beings. Since the benefits are many, one must distinguish teaching characteristics.
 
-> Moreover, other sūtras do not even discuss the time before the Bodhi tree—let alone the distant past—whereas this sūtra clarifies that before the Bodhi tree the Provisional and Real were long distant, such that even a successor-bodhisattva across many worlds does not know it, much less dust-motes in number.
+〈神力品〉中，約教次第，一切法本皆佛法。《大經》云「一切世諦，若於如來，即是第一義諦。」眾生顛倒，謂非佛法，今明言示之，故言一切法也。
+> In the Supernatural Powers chapter, in terms of teaching sequence, all dharmas are originally Buddha-dharmas. The Great Sutra says, "All worldly truths, if in the Tathagata, are precisely the supreme-meaning truth." Beings are inverted and say they are not Buddha-dharmas; now it clearly speaks and shows this, therefore it says all dharmas.
 
-經云「昔所未曾說，今皆當得聞」，殷勤稱讚，良有以也。
+欲說此法，先以神力駭動，故言一切自在神力。既見變通，醒悟渴仰，得為說教，教詮實相，故言祕密之藏也。稟教修行，即有因果，故言甚深之事也。欲分別四義與餘經同異，次明教相耳。
+> To speak this dharma, first it uses spiritual power to startle and move; therefore it says all self-masteries and spiritual powers. Once changes and transformations are seen, they awaken and yearn, and can be taught; the teaching interprets the real mark, therefore it is called the secret treasury. Receiving the teaching and cultivating practice, there are causes and fruits; therefore it is called very deep matters. Wanting to distinguish the four meanings and their sameness or difference with other sutras, next it clarifies teaching characteristics.
 
-> The sūtra says: "What was never spoken in the past, now all can hear." It praises this earnestly for good reason.
+〈序品〉約行次第，初從經卷，若善知識，有所聞見，即聞名也。聞故推理體顯，顯體須行，行即因果，宗也。行自排惑，亦利眾生，是用也。分別同異，教相也。開、示、悟、入，亦約行次第，法本無開閉，今呼為方便門開，此聞名也。示真實相，體也。自迷得悟，悟因也。由因故悟果，宗也。悟故深入，亦令他入，用也。分別同異，教也。今之五義，依〈序品〉扶行次第也。
+> The Introductory chapter, in terms of practice sequence: first from the sutra scroll, if a good spiritual friend hears and sees something, that is hearing the name. Because of hearing, one infers by reasoning and the substance appears; revealing the substance requires practice; practice is cause and fruit, that is essence. Practice itself dispels delusions and also benefits beings; that is function. Distinguishing sameness and difference is teaching characteristics. Opening, showing, awakening, and entering are also in terms of practice sequence: the dharma originally has no opening or closing; now it is called opening the expedient gate; this is hearing the name. Showing the real mark is substance. From self-delusion one awakens; awakening is cause. Because of the cause, one awakens to fruit; that is essence. Because of awakening one enters deeply and also causes others to enter; that is function. Distinguishing sameness and difference is teaching. The five meanings here rely on the Introductory chapter to support the practice sequence.
 
-當知此經，異諸教也。
+○四、開合者，五章共釋一經，種種分別，令易解故。凡三種開合，謂五種、十種、譬喻。
+> Fourth, opening and closing: the five chapters together explain one sutra; there are many distinctions to make it easy to understand. In general there are three kinds of opening and closing: the five kinds, the ten kinds, and metaphors.
 
-> You should know that this sūtra differs from the other teachings.
+初、釋名通論事、理，顯體專論理，宗、用但論事，教相分別事、理。釋名通說教行，顯體非教、非行，宗、用但行，教相但教。釋名通說因果，顯體非因、非果，宗自因果，用教他因果，教相分別上法耳。釋名通論自行、化他，體非自、非他，宗是自行，用是化他，教相分別自、他。釋名通論說默，體非說、非默，宗默、用說，教相分別(云云)。
+> First, interpreting the name generally discusses phenomena and principle; manifesting the substance exclusively discusses principle; essence and function only discuss phenomena; teaching characteristics distinguish phenomena and principle. Interpreting the name generally speaks of teaching and practice; manifesting the substance is not teaching and not practice; essence and function are only practice; teaching characteristics are only teaching. Interpreting the name generally speaks of causes and fruits; manifesting the substance is not cause and not fruit; essence is one's own cause and fruit; function teaches others' causes and fruits; teaching characteristics only distinguish the higher dharma. Interpreting the name generally discusses self-cultivation and transforming others; substance is neither self nor other; essence is self-cultivation; function is transforming others; teaching characteristics distinguish self and other. Interpreting the name generally discusses speaking and silence; substance is neither speaking nor silence; essence is silent, function speaks; teaching characteristics distinguish (and so on).
 
----
+十種者，釋名總論三軌：體、宗、用開對三軌，教相分別三軌。釋名總論三道：體、宗、用開對三道，教相分別三道。乃至第十，釋名總論三德：體、宗、用開對三德，教相分別三德(云云)。
+> As for the ten kinds: interpreting the name generally discusses the three tracks; substance, essence, and function open and correspond to the three tracks, and teaching characteristics distinguish the three tracks. Interpreting the name generally discusses the three paths; substance, essence, and function open and correspond to the three paths, and teaching characteristics distinguish the three paths. Up to the tenth: interpreting the name generally discusses the three virtues; substance, essence, and function open and correspond to the three virtues, and teaching characteristics distinguish the three virtues (and so on).
 
-## Footnotes
-
-[^1]: The "five items" at the beginning of every sūtra refers to the standard opening formula: "Thus have I heard. At one time, the Buddha dwelt at [place], with a great assembly of [beings]."
-
-[^2]: **Five Faculties** (五根): Faith, Vigor, Mindfulness, Concentration, and Wisdom.
-
-[^3]: **Three Gates of Liberation** (三脫門): Emptiness (*śūnyatā*), Signlessness (*animitta*), and Wishlessness (*apraṇihita*).
-
-[^4]: "Open, reveal, awaken to, and enter" (開示悟入) are the famous four verbs from *Lotus Sūtra* Chapter 2, describing the Buddha's purpose for appearing in the world.
-
-[^5]: **Three Truths** (三諦): Emptiness (*kōng* 空), Provisional Existence (*jiǎ* 假), and the Middle (*zhōng* 中). This is the cardinal doctrine of Tiantai.
-
-[^6]: *Lotus Sūtra*, Chapter 2 ("Skillful Means").
-
-[^7]: *Lotus Sūtra*, Chapter 2.
-
-[^8]: This is a classic Tiantai doctrinal schema summarizing the Buddha's teaching career: *Avataṃsaka* includes the One Vehicle alongside the separate vehicles; *Tripiṭaka* teaches only the separate vehicles; *Vaipulya* contrasts Great and Small Vehicles; *Prajñā* carries the Three Vehicles while gradually revealing the One.
-
-[^9]: *Lotus Sūtra*, Chapter 16 ("The Lifespan of the Tathāgata").
-
-[^10]: "Three kinds of Provisional-and-Real dual wisdom" refers to: (1) wisdom of self-practice, (2) wisdom for transforming others, and (3) the unity of both.
-
-[^11]: The **Five Flavors** (五味) represent the Buddha's teaching career as progressive stages of refinement, like the production of ghee from milk: Milk (乳) → Curds (酪) → Fresh Butter (生蘇) → Clarified Butter (熟蘇) → Ghee (醍醐). This schema comes from the *Mahāparinirvāṇa Sūtra*.
-
-[^12]: **Ghee** (醍醐, *tíhú*): The final, most refined product in the Five Flavors schema—representing the *Lotus Sūtra* as the ultimate, integrative teaching.
-
----
-
-*Translation continues in Part 3 (Seven Shared Interpretations: Sections 2–7)...*
+譬喻者，譬如總名人身，開身則有識、命、煖，分別諸身貴、賤、賢、愚，種種差降。人身譬名，識以譬體，命以譬宗，煖以譬用，分別譬教相(云云)。
+> As for metaphors: for example, the general name "human body"; opening the body there are consciousness, life, and warmth; distinguishing the bodies as noble or base, worthy or foolish, with various differences. The human body is a metaphor for the name; consciousness is a metaphor for the substance; life is a metaphor for the essence; warmth is a metaphor for the function; distinctions are a metaphor for teaching characteristics (and so on).

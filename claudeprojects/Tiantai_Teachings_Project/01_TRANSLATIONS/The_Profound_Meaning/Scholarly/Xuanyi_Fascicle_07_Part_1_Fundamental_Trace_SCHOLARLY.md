@@ -1,5 +1,5 @@
 # The Profound Meaning of the Lotus Sutra (妙法蓮華經玄義)
-## Fascicle 7: Fundamental and Trace (本迹) — The Second Half of the Jewel
+## Fascicle 7, Part 1: Fundamental and Trace (本迹)
 
 **Scholarly Translation by The Architect**
 
@@ -7,211 +7,131 @@
 
 ## Colophon
 
-**Source Text:** *Taishō Tripiṭaka* Vol. 33, No. 1716  
-**Section:** Fascicle 7 Upper (Lines 97–175)  
+**Source Text:** *Taisho Tripitaka* Vol. 33, No. 1716  
+**Section:** Fascicle 7 Upper (Lines 97-175)  
 **Translator:** The Architect (MAS Agent)  
-**Date:** January 17, 2026
+**Date:** February 5, 2026
 
 ---
 
-## ○第二、約本明十妙
-# Part Two: Ten Subtleties Explained According to the Fundamental
+## T1716_007
 
----
+○第二、約本明十妙者，為二：先、釋本迹。二、明十妙。
+> Second, clarifying the ten subtleties in terms of the Origin has two parts: first, explaining Origin and Trace; second, clarifying the ten subtleties.
 
-### Introduction: The Two Halves
+釋本迹為六：本者理本，即是實相一究竟道；迹者，除諸法實相，其餘種種皆名為迹。又理之與事，皆名為本；說理說事，皆名教迹也。又理事之教，皆名為本；稟教修行，名為迹，如人依處，則有行跡，尋跡得處也。又行能證體，體為本；依體起用，用為迹。又實得體用，名為本；權施體用，名為迹。又今日所顯者為本；先來已說者為迹。約此六義，以明本迹也。
+> Explaining Origin and Trace has six meanings: Origin means principle-origin, namely the one ultimate path of reality-mark. Trace means that, except for the reality-mark of all dharmas, all remaining various matters are called trace. Also, both principle and phenomena are called origin; speaking principle and speaking phenomena are both called teaching-trace. Also, the teaching of principle-and-phenomena is called origin; receiving teaching and cultivating practice is called trace, just as a person depending on a place leaves footprints, and by following the tracks one finds the place. Also, practice can realize substance, so substance is origin; based on substance one arouses function, so function is trace. Also, truly attaining substance and function is called origin; provisionally applying substance and function is called trace. Also, what is revealed today is origin; what has already been taught before is trace. By these six meanings, Origin and Trace are clarified.
 
-The Ten Trace Subtleties (迹門十妙) represented the **first half** of the wish-fulfilling jewel—the Buddha's manifest teaching.
+一、約理事明本迹者，從無住本立一切法，無住之理，即是本時實相真諦也；一切法，即是本時森羅，俗諦也。由實相真本垂於俗迹，尋於俗迹即顯真本，本迹雖殊，不思議一也。故文云：「觀一切法空如實相，但以因緣有，從顛倒生(云云)。」
+> First, clarifying Origin and Trace in terms of principle and phenomena: from the origin of non-abiding, all dharmas are established. The principle of non-abiding is the true truth of the original reality-mark. "All dharmas" are the original manifold array, namely conventional truth. From the true origin of reality-mark, conventional traces are cast down; by tracing these conventional traces, the true origin is revealed. Though Origin and Trace differ, they are inconceivably one. Therefore the text says: "Contemplate all dharmas as empty, as the reality-mark; they exist only through causes and conditions, born from inversion (and so on)."
 
-Now we turn to the Ten Fundamental Subtleties (本門十妙)—**the second half**—addressing the Buddha's eternal nature revealed in Chapter 16, "Lifespan of the Tathāgata."
+、二理教明本迹者，即是本時所照二諦，俱不可說，故皆名本也。昔佛方便說之，即是二諦之教，教名為迹。若無二諦之本，則無二種之教，若無教迹，豈顯諦本？本迹雖殊，不思議一。文云：「是法不可示，言辭相寂滅，以方便力故，為五比丘說。」
+> Second, clarifying Origin and Trace in terms of principle and teaching: the two truths illuminated at the original time are both inexpressible, therefore both are called origin. What the Buddha formerly taught through expedients is the teaching of the two truths; that teaching is named trace. If there were no origin of the two truths, there would be no twofold teaching; if there were no teaching-trace, how could the truth-origin be revealed? Though Origin and Trace differ, they are inconceivably one. The text says: "This dharma cannot be shown; the mark of words is quiescent extinction. By the power of expedients, it was preached for the five bhiksus."
 
----
+三、約教行為本迹者，最初稟昔佛之教以為本，則有修因致果之行。由教詮理而得起行，由行會教而得顯理；本迹雖殊，不思議一也。文云：「諸法從本來，常自寂滅相，佛子行道已，來世得作佛(云云)。」
+> Third, taking teaching and practice as Origin and Trace: at the very beginning, receiving the former Buddha's teaching is origin, and then there is practice that cultivates cause and reaches fruit. Through teaching, principle is interpreted and practice can arise; through practice, teaching is realized and principle is revealed. Though Origin and Trace differ, they are inconceivably one. The text says: "Dharmas from the beginning are always of quiescent-extinction mark; when Buddha-sons have practiced the path, in a future age they become Buddhas (and so on)."
 
-## 六重本迹
-# Six Meanings of Fundamental and Trace
+四、約體用明本迹者，由昔最初修行契理，證於法身為本，初得法身本故，即體起應身之用，由於應身得顯法身；本迹雖殊，不思議一。文云：「吾從成佛已來，甚大久遠若斯，但以方便教化眾生，作如此說。」
+> Fourth, clarifying Origin and Trace by substance and function: because in former times one first cultivated practice and accorded with principle, realizing Dharma-body as origin, then from this Dharma-body origin one arouses the function of response-body; through response-body, Dharma-body is revealed. Though Origin and Trace differ, they are inconceivably one. The text says: "Since I became Buddha, it has been extremely vast and long as this; I only use expedients to teach and transform beings, speaking in this way."
 
-釋本迹為六：
+五、約實權明本迹者，實者，最初久遠實得法、應二身，皆名為本；中間數數唱生、唱滅，種種權施法、應二身，故名為迹。非初得法、應之本，則無中間法、應之迹。由迹顯本，本迹雖殊，不思議一也。文云：「是我方便，諸佛亦然。」
+> Fifth, clarifying Origin and Trace by real and provisional: "real" means that in the very first distant past one truly attained both Dharma-body and response-body, both called origin. In the middle period, repeatedly proclaiming birth and proclaiming extinction, various provisional applications of Dharma-body and response-body are called trace. Without the originally attained Dharma/response as origin, there could be no middle-period Dharma/response traces. Through trace, origin is revealed. Though Origin and Trace differ, they are inconceivably one. The text says: "This is my expedient; all Buddhas are likewise."
 
-> Explaining Fundamental and Trace has **six meanings**:
+六、約今已論本迹者，前來諸教已說事理，乃至權實者，皆是迹也。今經所說久遠事理，乃至權實者，皆名為本。非今所明久遠之本，無以垂於已說之迹；非已說迹，豈顯今本？本迹雖殊，不思議一也。文云：「諸佛法久後，要當說真實。」
+> Sixth, discussing Origin and Trace by "now" and "already": in all prior teachings, what has already been taught about phenomena and principle, up to provisional and real, are all trace. In this sutra, what is taught about distant phenomena and principle, up to provisional and real, are all called origin. Without this presently clarified distant origin, there would be no way to cast down previously taught traces; without those previously taught traces, how could the present origin be revealed? Though Origin and Trace differ, they are inconceivably one. The text says: "After a long time, Buddha-dharma must speak the real."
 
----
+若約已今論本迹者，指已為迹，攝得釋迦寂滅道場已來十麁十妙，悉名為迹。指今為本，總遠攝最初本時諸麁諸妙，皆名為本。
+> If discussing Origin and Trace by already/now: taking what is already taught as trace includes the ten coarse and ten subtle from Sakyamuni's quiescent bodhimanda onward, all named trace. Taking now as origin broadly and distantly includes all coarse and subtle of the very first original time, all named origin.
 
-### 1. Principle as Fundamental (理本)
+若約權實明本迹者，指權為迹，別攝得中間種種異名佛十麁十妙，皆名為權。指實為本，攝得最初十麁十妙，悉名為實。
+> If clarifying Origin and Trace by provisional/real: taking provisional as trace separately includes the middle-period Buddhas with various different names and their ten coarse and ten subtle, all named provisional. Taking real as origin includes the first ten coarse and ten subtle, all named real.
 
-本者理本，即是實相一究竟道；迹者，除諸法實相，其餘種種皆名為迹。
+若約體用明本迹者，指用為迹，攝得最初感應、神通、說法、眷屬、利益等五妙。指體為本，攝得最初三法妙也。
+> If clarifying Origin and Trace by substance and function: taking function as trace includes the five subtleties of the first responsiveness, supernatural powers, dharma-preaching, retinue, and benefits. Taking substance as origin includes the first subtlety of the three dharmas.
 
-> **Fundamental means Principle-Fundamental**—this is reality-mark, the One Ultimate Path. **Trace means**: except for reality-mark of all dharmas, everything else is called trace.
+若約教行為本迹者，指行為迹，攝得最初行妙、位妙；指教為本，攝得最初本時智妙。
+> If clarifying Origin and Trace by teaching and practice: taking practice as trace includes the first subtlety of practice and subtlety of stages; taking teaching as origin includes the first original-time subtlety of wisdom.
 
----
+若理教為本迹者，指理為本，攝得本初之境妙；指教為迹，攝得本時之師教妙，兼得本師十妙。
+> If principle and teaching are taken as Origin and Trace: taking principle as origin includes the original subtlety of object-realm; taking teaching as trace includes the original-time subtlety of the master's teaching and also includes the ten subtleties of the original master.
 
-### 2. Principle-and-Event as Fundamental (理事本)
+若理事為本迹者，指事為迹，攝得本時諸麁境；指理為本，攝得本時諸妙境。最初之本為本，但本而非迹；最後已說，但迹而非本；中間亦迹亦本。若無本時之本，不能垂得中間、最後之迹；若無已說之迹，不能顯得今說之本。本迹雖殊，不思議一也。
+> If principle and phenomena are taken as Origin and Trace: taking phenomena as trace includes all coarse realms of the original time; taking principle as origin includes all subtle realms of the original time. The very first origin is origin only, not trace; what was spoken last is trace only, not origin; the middle is both trace and origin. If there were no original-time origin, one could not cast down middle and final traces; if there were no already-spoken traces, one could not reveal the origin spoken now. Though Origin and Trace differ, they are inconceivably one.
 
-又理之與事，皆名為本；說理說事，皆名教迹也。
+△二、明本十妙者：一、本因妙。二、本果妙。三、本國土妙。四、本感應妙。五、本神通妙。六、本說法妙。七、本眷屬妙。八、本涅槃妙。九、本壽命妙。十、本利益妙。
+> Second, clarifying the ten subtleties of the Origin: (1) subtlety of original cause; (2) subtlety of original fruit; (3) subtlety of original land; (4) subtlety of original responsiveness; (5) subtlety of original supernatural powers; (6) subtlety of original dharma-preaching; (7) subtlety of original retinue; (8) subtlety of original nirvana; (9) subtlety of original lifespan; (10) subtlety of original benefit.
 
-> Moreover, **both principle and event are called Fundamental**; **explaining principle and explaining event are called Teaching-Trace**.
+釋此十妙，又為十重：一、略釋十意。二、生起次第。三、明本迹開合。四、引文證成。五、廣解。六、三世料簡。七、論麁妙。八、結成權實。九、利益。十、觀心。
+> Explaining these ten subtleties is again done in ten layers: (1) brief explanation of ten intentions; (2) sequence of arising; (3) clarifying opening and closing of origin and trace; (4) citing text as proof; (5) broad explanation; (6) analysis by three times; (7) discussion of coarse and subtle; (8) concluding as provisional and real; (9) benefits; (10) contemplation of mind.
 
----
+○一、略釋者，本因妙者，本初發菩提心，行菩薩道所修因也。若十六王子在大通佛時弘經結緣，皆是中間所作，非本因也。若娑婆為墨，東行千界方下一點，點不點等，盡抹為塵，一塵一劫，復過於是百千萬億那由他劫，彌勒補處，以出假種智直數世界，尚不能知，況數其塵，寧當得盡？特是如來巧喻，顯其長遠之相；況以世智，巧歷算數耶！文云：「我以佛眼觀彼久遠，猶若今也。」唯佛能知如此久遠，皆是迹因，非本因也。若留中間之因，於後難信，是故《法華》拂迹除疑，權而非實，我本行菩薩道時，不在中間，過是已前所行道者，名之為本，即是本因妙也。
+> First, brief explanation: original-cause subtlety means the cause cultivated when first arousing bodhicitta and practicing the bodhisattva path. If one speaks of the sixteen princes in the time of the Great-Universal Buddha propagating the sutra and forming ties, all that is middle-period activity, not original cause. Suppose Saha were ink; going east through a thousand worlds, one places one dot, then after dotted and undotted places are all rubbed into dust, one dust-particle as one kalpa, then passing again hundreds of thousands of myriads of kotis of nayutas of kalpas - even Maitreya at the stage of one-life-to-go, with post-emptiness all-knowledge, cannot fully know it, much less count those dusts; how could they ever be exhausted? This is only the Tathagata's skillful analogy revealing the mark of great remoteness; how much less could worldly intellect calculate it? The text says: "With Buddha-eye I view that distant past as if it were now." Only the Buddha can know such remoteness. All such are trace-causes, not original cause. If middle-period causes are retained, later faith is difficult; therefore the Lotus brushes aside trace to remove doubt: it is provisional, not real. "When I originally practiced the bodhisattva path" is not in the middle period. What was practiced before that is named origin; this is original-cause subtlety.
 
-### 3. Teaching as Fundamental (教本)
+二、明本果妙者，本初所行圓妙之因，契得究竟常、樂、我、淨，乃是本果。不取寂滅道場，舍那成佛，為本果也。尚不取中間之果以為本果，況舍那始成云何是本？但取成佛已來，甚大久遠，初證之果，名本果妙也。
+> Second, clarifying original-fruit subtlety: the perfectly subtle cause practiced at the very beginning accords with and attains ultimate permanence, bliss, self, and purity; this is the original fruit. One does not take the quiescent bodhimanda where Rocana becomes Buddha as original fruit. If one does not even take middle-period fruit as original fruit, how could Rocana's initial attainment be origin? One only takes the fruit first realized since becoming Buddha in the extremely distant past; this is original-fruit subtlety.
 
-又理事之教，皆名為本；稟教修行，名為迹，如人依處，則有行跡，尋跡得處也。
+三、本國土者，本既成果，必有依國。今既迹在同居、或在三土，中間亦有四土，本佛亦應有土，復居何處？文云：「自從是來，我常在此娑婆世界說法教化。」按此文者，實非今日迹中娑婆，亦非中間權迹處所，乃是本之娑婆，即本土妙也。
+> Third, original-land subtlety: since origin already completes fruit, there must be a land relied upon. Now trace is in the shared-abiding land, or in three lands; the middle period also has four lands; therefore the original Buddha should also have a land. Where is it? The text says: "Since then, I have always been in this Saha world teaching and transforming." According to this passage, it is truly not the Saha of today's trace, nor the place of middle-period provisional traces; it is origin's Saha, namely original-land subtlety.
 
-> Moreover, **teaching of principle-and-event is Fundamental**; **receiving teaching and practicing is Trace**—like a person depending on a place leaves footprints; following tracks, one finds the place.
+四、本感應者，既已成果，即有本時所證二十五三昧，慈悲誓願，機感相關，能即寂而照，故言本感應也。
+> Fourth, original-responsiveness subtlety: since fruit is already accomplished, there are the twenty-five samadhis realized at the original time, with vows of compassion and kindness; stimulus and response interrelate and can be quiescent yet illuminating. Therefore this is called original responsiveness.
 
----
+五、本神通者，亦是昔時所得無記化化禪，與本因時諸慈悲合，施化所作神通，駭動最初可度眾生，故言本神通也。
+> Fifth, original-supernatural-powers subtlety: this is also the neutral transformation-on-transformation dhyana attained in former time, united with all compassion from the time of original cause; the supernatural powers enacted for transformative activity astonish and move the beings first suitable for liberation. Therefore it is called original supernatural powers.
 
-### 4. Body as Fundamental (體本)
+六、本說法者，即是往昔，初坐道場，始成正覺，初轉法輪，四辯所說之法，名本說法也。
+> Sixth, original-dharma-preaching subtlety: in former time, first sitting at the bodhimanda, first accomplishing right awakening, first turning the Dharma-wheel, and preaching by the four eloquences - this is called original dharma-preaching.
 
-又行能證體，體為本；依體起用，用為迹。
+七、本眷屬者，本時說法，所被之人也。如下方住者，彌勒不識，即本之眷屬也。
+> Seventh, original-retinue subtlety: those reached by the preaching at the original time are its retinue. For example, those dwelling below whom Maitreya did not recognize are precisely the original retinue.
 
-> Moreover, **practice can realize the Body; Body is Fundamental**. **Depending on Body to activate Function; Function is Trace.**
+八、本涅槃者，本時所證斷德涅槃，亦是本時應處同居、方便二土，有緣既度，唱言入滅，即本涅槃也。
+> Eighth, original-nirvana subtlety: the nirvana of severance-virtue realized at the original time is also, at the original time, in the shared-abiding and expedient two lands where response appears; when those with conditions are already delivered, proclaiming entry into extinction is original nirvana.
 
----
+九、本壽命者，既唱入滅，則有長短、遠近壽命也。
+> Ninth, original-lifespan subtlety: once one proclaims entering extinction, there is lifespan as long/short and far/near.
 
-### 5. Real-Attainment as Fundamental (實得本)
+十、本利益者，本業、願、通、應等眷屬，八番、十番饒益者是也。
+> Tenth, original-benefit subtlety: this is the benefit bestowed in eightfold and tenfold ways by retinues of original karma, vow, penetration, response, and so forth.
 
-又實得體用，名為本；權施體用，名為迹。
+○二、生起者，此十種義，赴緣直說，散在經文，今欲編次，故須生起。所以本因居初者，必由因而致果。果成，故有國。極果居國，即有照機。機動則施化，施化則有神通。神通竟，次為說法。說法所被，即成眷屬。眷屬已度，緣盡涅槃。涅槃故，則論壽命長短、長短之壽所作利益、乃至佛滅度後正像等益。義乃無量，止作十條，收束始終，復成次第也。
+> Second, sequence of arising: these ten meanings are directly spoken in response to conditions and scattered across the sutra text; now, to arrange them, sequence must be established. Why is original cause first? Because fruit must be reached through cause. Once fruit is complete, there is a land. The ultimate fruit abiding in land then illuminates stimuli. When stimuli move, transformative activity is applied. With transformative activity there are supernatural powers. After supernatural powers comes dharma-preaching. Those reached by preaching become retinue. Once retinue are delivered and conditions end, nirvana is proclaimed. Therefore one discusses long and short lifespan, and the benefits produced by such lifespan, up to benefits in the True and Semblance periods after the Buddha's nirvana. The meaning is immeasurable; it is only made into ten headings to gather beginning and end and establish sequence.
 
-> Moreover, **actually attaining Body-and-Function is Fundamental**; **provisionally bestowing Body-and-Function is Trace**.
+○三、迹本同異者，迹中因開而果合，合習果、報果為三法妙也。本中因合而果開，開習果，出報果，明本國土妙也。作此同異者，依於義便，互有去取。迹中委悉明境、智、行、位；本文語略，通束為因妙，得意知是開合耳。果妙者，即是迹中三軌妙也。感應、神通、說法、眷屬，名同上也。本開涅槃壽命妙者，久遠諸佛，如燈明、迦葉佛等，皆於法華即入涅槃。義推本佛，必是淨土淨機。又往事已成，故開出涅槃等妙也。迹中無此二義者，釋迦雖於《法華》唱言涅槃，而未滅度，此事方在涅槃，故迹中不辨。利益同上也。
+> Third, sameness and difference between trace and origin: in trace, causes are opened while fruits are combined, combining practice-fruit and reward-fruit as the subtlety of three dharmas. In origin, causes are combined while fruits are opened, opening practice-fruit and bringing out reward-fruit, thereby clarifying original-land subtlety. This arrangement of sameness/difference follows what is convenient in meaning, with mutual taking and discarding. In trace, object, wisdom, practice, and stage are explained in detail. In this origin section, wording is concise and generally gathered as cause-subtlety; grasping the meaning shows this is opening/combining. Fruit-subtlety is precisely the subtlety of three tracks in trace. Responsiveness, supernatural powers, dharma-preaching, and retinue are named the same as above. Origin additionally opens subtlety of nirvana and lifespan, because distant Buddhas such as Dipamkara and Kasyapa all enter nirvana at the Lotus. Inferred by principle, the original Buddha must be in pure land with pure faculties. Also, since past matters are already complete, subtleties like nirvana are opened out. Trace does not discuss these two meanings because although Sakyamuni proclaims nirvana in the Lotus, he has not yet passed into extinction; this matter belongs to the Nirvana sutra and is therefore not detailed in trace. Benefit is the same as above.
 
----
+○四、引文證者，不遠索他經，亦不通引部內，但就本門證成十義也。然先佛法華，如恒河沙阿閦婆偈，今佛靈山八年說法，胡本中事，復應何窮？真丹邊鄙，止聞大意，人見七卷，謂為小經，胡文浩博，何所不辨？今就數紙之內，十證宛然。文云：「我本行菩薩道時所成壽命，今猶未盡」者，即是本之行因妙也。文云：「我實成佛已來，無量無邊億那由他。」又云：「我實成佛已來，久遠若斯，但以方便教化眾生，作如此說。」即是本果妙也。文云：「我於娑婆世界得三菩提已，教化示導是諸菩薩。」又云：「自從是來，我常在此娑婆世界說法教化，亦於餘處導利眾生。」此之國土非復今時娑婆，即本國土妙也。文云：「若有眾生來至我所，我以佛眼觀其信等諸根利鈍。」此即本時照機之智，是感應妙也。文云：「如來祕密神通之力。」又中間文云：「或示己身、或示他身；或示己事、或示他事。」即是垂形十界，作種種像，驗本亦然，是本神通妙也。文云：「是諸菩薩悉是我所化，令發大道心，今皆住不退，修學我道法。」又中間，或說己事、或說他事，驗本亦然，即本說法妙。文云：「此諸菩薩身皆金色，下方空中住，此等是我子，我從久遠來，教化是等眾。」即本眷屬妙也。文云：「又復言其入於涅槃，如是皆以方便分別。」又云：「今非實滅，而便唱言當取滅度。」往緣既訖而唱入滅，中間既唱涅槃，例本亦有涅槃，即本涅槃妙。文云：「處處自說名字不同，年紀大小。」年即壽命，大小即長短常無常也。中間既爾，本壽亦然，即本壽命妙也。文云：「又以方便說微妙法，能令眾生發歡喜心。」即中間利益。又云：「聞佛說壽命劫數長遠如是，無量無邊阿僧祇眾生得大饒益。」即迹中之益。迹與中間既爾，例本亦然，即是本利益妙也。十據在經非人造也。
+> Fourth, citing text as proof: we do not search far in other sutras, nor generally quote the whole section, but only prove these ten meanings from the Origin Gate itself. The prior Buddhas' Lotus is as many as Ganges sands and asamkhyeya verses; this Buddha preached for eight years at Vulture Peak. How could matters in the foreign original text be exhausted? In this edge region we hear only the broad intent; people see seven fascicles and call it a small sutra, but the foreign text is vast and extensive. What does it not discuss? Yet within only a few sheets, ten proofs are complete. The text says, "The lifespan achieved when I originally practiced the bodhisattva path is still not exhausted," which is the subtlety of original practice-cause. It says, "Since I truly became Buddha, [it has been] immeasurable, boundless kotis of nayutas." It also says, "Since I truly became Buddha, it has been long as this; I only teach beings by expedients and thus speak this way." This is original-fruit subtlety. It says, "After I attained bodhi in the Saha world, I instructed and guided these bodhisattvas." It also says, "Since then I have always in this Saha world taught and transformed, and in other places as well led and benefited beings." This land is not the present Saha; it is original-land subtlety. It says, "If beings come to me, with Buddha-eye I observe the sharpness and dullness of faith and other faculties." This is the wisdom that illumines faculties at the original time, the subtlety of responsiveness. It says, "The Tathagata's secret power of supernatural penetrations." The middle text also says, "Sometimes showing his own body, sometimes another's body; sometimes his own affairs, sometimes another's affairs." This is manifesting forms through the ten realms and producing many kinds of appearances; by verification, origin is the same, thus original-supernatural-powers subtlety. It says, "These bodhisattvas were all transformed by me; I caused them to arouse the great path-mind; now all dwell in non-retreat and cultivate my path-dharma." In the middle section too, speaking one's own affairs and others' affairs verifies that origin is the same; this is original-dharma-preaching subtlety. It says, "These bodhisattvas, all golden in body, dwell in lower-space; they are my sons; from long ago I have taught and transformed them." This is original-retinue subtlety. It says, "Again he speaks of entering nirvana; all such are distinguished by expedients." It also says, "Now it is not real extinction, yet he proclaims that he will take extinction." Since past conditions were completed and extinction proclaimed, and nirvana was proclaimed in the middle period, by analogy origin also has nirvana; this is original-nirvana subtlety. It says, "In various places he himself speaks different names and greater/lesser years." Years are lifespan; greater/lesser are long/short and permanent/impermanent. Since it is so in the middle period, original lifespan is likewise so; this is original-lifespan subtlety. It says, "Again by expedients he speaks subtle dharma, enabling beings to arouse joy." This is middle-period benefit. It also says, "Hearing the Buddha speak lifespan-kalpas so long and distant, immeasurable and boundless asamkhyeya beings gain great benefit." This is benefit in trace. Since trace and middle period are thus, by analogy origin is thus; this is original-benefit subtlety. These ten proofs are in the sutra, not human fabrication.
 
-### 6. Today-and-Already as Fundamental (今已本)
+○五、廣釋者，夫非本無以垂迹，若能解迹則亦知本，為未解者更重分別。但本極法身，微妙深遠，佛若不說，彌勒尚闇，何況下地！何況凡夫！雖然父母之年不可不知，如來功德何容不識？今略依經旨，髣髴推尋。
+> Fifth, broad explanation: without origin there is no way to cast down trace; if one can understand trace, one also knows origin. For those not yet understanding, we further differentiate. Yet origin is the ultimate Dharma-body - subtle, wondrous, deep, and far. If the Buddha did not teach it, even Maitreya would still be in darkness, much less lower stages, much less ordinary beings. Still, just as one cannot fail to know one's parents' age, how could one fail to know the Tathagata's merits? Now we briefly follow the sutra intent and make an approximate investigation.
 
-又今日所顯者為本；先來已說者為迹。
+本因妙者，經言：「我本行菩薩道時所成壽命」者，慧命，即本時智妙也。我本行者，行是進趣，即本行妙也。菩薩道時者，菩薩是因人，復顯位妙也。一句文證成三妙，三妙即本時因妙，非迹因也。迹因多種，或言昔為陶師，值先釋迦佛，三事供養，藉草然燈、石蜜漿，發口得記，父母名字，弟子侍人，皆如先佛，即是初阿僧祇發心。既不明斷惑，知是三藏行因之相也。或言昔為摩納，值然燈佛，五華奉散，布髮掩泥，躍身虛空，得無生忍，佛與受記，號釋迦文。《大品》亦云：「華嚴城內得記。」義與此同。並云斷惑，故知通佛行因之相也。或言昔為寶海梵志，刪提嵐國，寶藏佛所，行大精進，十方佛送華供養。既為寶藏佛父，又是彌陀之師，稱其功德不可思議，故知是別圓行因之相。
+> As to original-cause subtlety: the sutra says, "the lifespan accomplished when I originally practiced the bodhisattva path." This lifespan is wisdom-life, namely the subtlety of original-time wisdom. "I originally practiced" - practice is forward cultivation, namely original-practice subtlety. "At the time of the bodhisattva path" - a bodhisattva is a causal person, thus also revealing subtlety of stage. One sentence verifies and completes three subtleties. These three subtleties are original-time cause-subtlety, not trace-cause. Trace-cause has many types: some say in the past he was a potter, met a former Sakyamuni Buddha, made three offerings, spread grass for lamp-lighting and offered rock-honey syrup, received prediction by utterance, with parents' names and attendant disciples all like the former Buddha, this being first asamkhyeya arousal of mind. Since severing delusions is not clearly taught, this is known as the mark of Tripitaka practice-cause. Others say in the past he was a brahmacarin, met Dipamkara Buddha, scattered five flowers in offering, spread hair over mud, leapt into empty space, attained patience of non-arising, and Buddha bestowed prediction with the name Sakyamuni. The Great Prajna also says, "Prediction was received inside Floral-Adornment City." The meaning is the same as this. Since both speak of severing delusions, this is known as the mark of common-Buddha practice-cause. Others say in the past he was the brahmin Baohai, in the country of Santilan, at the place of Baocang Buddha, practicing great vigor, with Buddhas of the ten directions sending flowers in offering. Since he was father of Baocang Buddha and also teacher of Amitabha, his merits are called inconceivable; thus this is known as the mark of distinct/perfect practice-cause.
 
-> Moreover, **what is revealed today is Fundamental**; **what was already spoken before is Trace**.
+以三義故，知此諸因悉是迹因：一、近故。二、淺深不同故。三、被拂故。今世已前，本來已後，中間行行，悉是方便，故知是迹因也。若執迹因為本因者，斯不知迹，亦不識本。如不識天月，但觀池月，若光、若桂、若輪，準下知上。光譬智妙，桂譬行妙，輪譬位妙。若識迹中三妙，拂迹顯本，即知本地因妙，如撥影指天，云何臨盆而不仰漢？嗚呼！聾騃，若為論道耶？若得斯意，迹本非本，本迹非迹，本迹雖殊，不思議一也。
+> For three reasons, we know all these causes are trace-causes: first, they are near; second, they differ in shallow/deep; third, they are brushed aside. Before this present world and after the original beginning, all practices in between are expedients; therefore they are trace-causes. If one clings to trace-cause as original-cause, one neither knows trace nor recognizes origin. It is like not knowing the moon in the sky and only looking at the moon in the pond; by light, cassia-shadow, and disk one infers above from below. Light is a metaphor for subtle wisdom; cassia is a metaphor for subtle practice; disk is a metaphor for subtle stage. If one recognizes the three subtleties in trace and brushes aside trace to reveal origin, one then knows subtle cause on original ground. It is like brushing aside shadow and pointing to the sky - how could one stand by the basin and not look up to the Milky Way? Alas, deaf and dull! How could such a one discuss the Way? If one attains this meaning: trace-origin is not [fixed] origin, origin-trace is not [fixed] trace; though origin and trace differ, they are inconceivably one.
 
-約此六義，以明本迹也。
+問：
+> Question:
 
-> According to these six meanings, we clarify Fundamental and Trace.
+經稱本行菩薩道時者，應是初住得真道時也。中間，應是諸地增道損生。今之寂場，應是妙覺。妙覺顯本，應指昔初住。此一途為允？
+> Since the sutra says "when originally practicing the bodhisattva path," should this mean the time of first-abode attaining the true path? Then the middle period should be the various grounds increasing the path and reducing birth. The present quiescent site should be wondrous awakening. If wondrous awakening reveals origin, should it point back to former first-abode? Is this single route acceptable?
 
----
+答：
+> Answer:
 
-## Summary Table: Six Meanings
+文義不可。文云：「盡行諸佛所有道法」，又云：「具足行諸道」，悉具足因，乃是本因。初住，不得稱悉具，故非所指本因也。又中間之果悉拂是權，況今寂場之果，何得為實？又中間之果尚被拂者，中間之因，寧實因也？故爾問，非也。
+> Text and meaning do not allow this. The text says, "fully practicing all path-dharmas possessed by Buddhas," and again, "completely practicing all paths." Only fully complete causes are original cause. First-abode cannot be called fully complete, so it is not the original cause indicated here. Also, middle-period fruits are all brushed aside as provisional; how much less could the fruit at the present quiescent site be real? If even middle-period fruits are brushed aside, how could middle-period causes be real causes? Therefore that question is not correct.
 
-| # | Fundamental | Trace |
-|---|-------------|-------|
-| 1 | Reality-mark principle | Everything else |
-| 2 | Principle and event | Teaching about them |
-| 3 | Teaching | Practice based on teaching |
-| 4 | Body/Substance | Function/Use |
-| 5 | Real attainment | Provisional bestowal |
-| 6 | What's revealed now | What was said before |
+二、明本果妙者，經言：「我成佛已來，甚大久遠。」我者，即真性軌。佛者，覺義，即觀照軌。已來者，乘如實道，來成正覺，即是起應資成軌也。如此三軌，成來已久，即本果妙也。本果圓滿，久在於昔，非今迹成，迹成又非一種：或言道樹草座、三十四心、見思俱斷、朗然大悟，覺知世間出世間一切諸法，名之為佛。唯有此佛、無十方佛，三世佛者悉是他佛，非我分身，此即三藏佛果相也。或言道樹天衣為座，以一念相應慧斷餘殘習氣而得成佛。《大品》中說：「共般若時，十方有千佛現，問難人皆字須菩提、釋提桓因等。」亦是他佛，非我分身，此即通佛果成相也。或言寂滅道場，七寶華為座，身稱華臺，千葉上一一菩薩，復有百億菩薩，如是則有千百億菩薩，十方放白毫及分身光，白毫入華臺菩薩頂，分身光入華葉菩薩頂，此名受法王職位，窮得諸佛法底而得成佛。華臺名報佛，華葉上名應佛，報應但是相關而已，不得相即，此是別佛果成相也。或言道場以虛空為座，一成一切成。毘盧遮那遍一切處，舍那、釋迦成亦遍一切處，三佛具足無有缺減，三佛相即，無有一異。法華八方，一一方各四百萬億那由他國土，安置釋迦，悉是遮那。《普賢觀》云：「釋迦牟尼名毘盧遮那。」此即圓佛果成相也。
+> Second, clarifying original-fruit subtlety: the sutra says, "Since I became Buddha, [it has been] extremely vast and long." "I" is the track of true nature. "Buddha" is awakening-meaning, namely the illuminating-contemplation track. "Since then" means riding the path of thusness and coming to accomplish right awakening, namely the track that arouses response and supports completion. Since these three tracks were completed long ago, this is original-fruit subtlety. Original fruit is complete and fulfilled, long established in the past, not formed in today's trace. Moreover, trace-formation is not one type: some say at the bodhi-tree grass seat, through thirty-four minds, views and thoughts both cut off, with bright great awakening, realizing all worldly and supra-worldly dharmas, this is called Buddha. Only this Buddha exists; there are no Buddhas in the ten directions; Buddhas of three times are all other Buddhas, not my emanations - this is the Tripitaka mark of Buddha-fruit accomplishment. Some say under the tree, with heavenly robe as seat, by one thought of corresponding wisdom one cuts residual habitual traces and becomes Buddha. Great Prajna says: "During shared prajna, a thousand Buddhas appeared in ten directions; those asking difficult questions were all named Subhuti, Sakra Devanam Indra, and so on." These too are other Buddhas, not my emanations - this is the common-Buddha mark of fruit-accomplishment. Some say at the quiescent bodhimanda, with seven-jewel lotus as seat, the body called lotus platform, with a bodhisattva on each thousand petal, and again one hundred kotis of bodhisattvas; thus there are hundreds of billions of bodhisattvas. The ten directions emit white-urna and emanation light; the white-urna enters the crown of platform bodhisattvas, emanation-light enters the crown of petal bodhisattvas. This is called receiving the office of Dharma-king and exhausting the depth of Buddha-dharma to become Buddha. The lotus platform is called reward-Buddha; on lotus petals is called response-Buddha. Reward and response are only related and cannot be identical - this is the distinct-Buddha mark of fruit accomplishment. Some say the bodhimanda takes empty space as seat: one accomplishing means all accomplish. Vairocana pervades all places; Rocana and Sakyamuni accomplishing also pervade all places. The three Buddhas are complete without lack, mutually identical without one or different. In the Lotus's eight directions, each direction with four million kotis of nayuta lands places Sakyamuni, and all are Rocana. The Samantabhadra Contemplation says: "Sakyamuni is named Vairocana." This is the perfect-Buddha mark of fruit accomplishment.
 
----
+有三義故，知此諸果皆是迹果：一、今世始成故。二、淺深不同故。三、拂中間故。若是本果，何得今日始成？本果，一果一切果，何得前後差別不同？自從今世之前，本成之後，百千萬億行因得果，唱生唱滅，悉是中間，拂為方便，寂滅樹王，何得非迹？若執迹果為本果者，斯不知迹，亦不識本。從本垂迹，如月現水，拂迹顯本，如撥影指天。當撥始成之果皆迹果，指久成之果是本果也。如此解者，中間果疑，颯然皆盡，長遠之信，其義明焉。迹本非本，本迹非迹，迹本雖殊，不思議一也。
+> For three reasons, these fruits are known to be trace-fruits: first, they are first accomplished in this world; second, they differ in shallow/deep; third, the middle period is brushed aside. If they were original fruit, how could they first be accomplished today? Original fruit - one fruit, all fruits - how could there be before/after difference? From before this present world and after original accomplishment, the hundreds of thousands of myriads of kotis of practices attaining fruit, proclaiming birth and proclaiming extinction, are all middle-period and are brushed aside as expedients. How could the quiescent tree-king not be trace? If one clings to trace-fruit as original fruit, one neither knows trace nor recognizes origin. From origin trace is cast down, like moon appearing in water; trace is brushed aside and origin revealed, like brushing shadow and pointing to sky. One should brush aside all fruits of initial accomplishment as trace-fruit, and point to long-accomplished fruit as original fruit. With such understanding, doubts about middle-period fruit suddenly end, and faith in long duration becomes clear. Trace-origin is not [fixed] origin; origin-trace is not [fixed] trace. Though trace and origin differ, they are inconceivably one.
 
-## 本門十妙
-# The Ten Fundamental Subtleties
+三、本國土妙者，經云：「自從是來，我常在此娑婆世界說法教化，亦於餘處導利眾生。」娑婆者，即本時同居土也。餘處者，即本時三土也。此指本時真應所栖之土，非迹中土也。迹中明土，又非一途：或言統此三千百億日月者，同居穢土也。或言西方有土，名曰無勝，其土所有莊嚴之事，猶如安養者，同居淨土也。或言華王世界蓮華藏海者，此實報土也。或言其佛住處，名常寂光者，即究竟土也。寂光理通，如鏡如器；諸土別異，如像如飯；業力所隔，感見不同。《淨名》云：「我佛土淨而汝不見」，此乃眾生感見差別，不關佛土也。若言今此三界皆是我有，諸土淨穢調伏攝受，皆佛所為。譬如百姓居土，土非其有；如父立舍，父去舍存。如來亦爾，為眾生故而取佛土，化訖入滅，佛去土存，此乃佛土，不關眾生也。復次三變土田者，或是變同居之穢，令見同居之淨。或見方便有餘淨，例如〈壽量〉云：「若有深信解者，見佛常在耆闍崛山，共大菩薩聲聞眾僧」者是也。或見實報淨，例如見娑婆國土皆紺瑠璃，純諸菩薩，即其義也。或見寂光等也。法華三昧之力，使見不同耳。
+> Third, original-land subtlety: the sutra says, "Since then, I have always in this Saha world taught and transformed, and in other places also guided and benefited beings." "Saha" is the original-time shared-abiding land. "Other places" are the original-time three lands. This points to lands where true and response bodies dwelt at the original time, not lands in trace. Yet lands discussed in trace are not one route: some say this system of three thousand hundred kotis of sun-and-moon worlds is the defiled shared-abiding land. Some say there is a western land named Unsurpassed, whose adornments resemble Peace-and-Nourishment, and this is pure shared-abiding land. Some say the Lotus Treasury Ocean in the Flower-King world is real-reward land. Some say the Buddha's dwelling called Ever-Quiescent Light is ultimate land. The principle of quiescent light is universal, like mirror or vessel; distinct lands differ, like images or food. Separated by karmic force, perceived vision differs. Vimalakirti says: "My Buddha-land is pure, yet you do not see it." This is difference in beings' perceived vision, not the Buddha-land itself. If one says these three realms are all mine now, and all pure/defiled lands of taming and receiving are all what Buddha does: it is like common people dwelling on land that is not theirs, or like a father establishing a house that remains when the father leaves. So too the Tathagata, for beings' sake, takes Buddha-lands; when transformation is complete he enters extinction - Buddha departs, land remains. This is Buddha-land and is not about beings. Further, regarding the three transformations of land: one is transforming shared-abiding defilement so shared-abiding purity is seen. Another is seeing expedient remainder purity, as in the Lifespan chapter: "If one has deep faith-understanding, one sees Buddha always on Grdhrakuta with great bodhisattvas and sravaka assembly." Another is seeing real-reward purity, for example seeing Saha-land all as dark lapis-lazuli and purely bodhisattvas - this is that meaning. Another is seeing quiescent light and so on. It is only that Lotus Samadhi power causes differing vision.
 
-△二、明本十妙者：
-
-| # | Fundamental Subtlety | Chinese |
-|---|---------------------|---------|
-| 1 | Fundamental Cause | 本因妙 |
-| 2 | Fundamental Fruit | 本果妙 |
-| 3 | Fundamental Land | 本國土妙 |
-| 4 | Fundamental Resonance | 本感應妙 |
-| 5 | Fundamental Supernatural Powers | 本神通妙 |
-| 6 | Fundamental Dharma-Exposition | 本說法妙 |
-| 7 | Fundamental Retinue | 本眷屬妙 |
-| 8 | Fundamental Nirvāṇa | 本涅槃妙 |
-| 9 | Fundamental Lifespan | 本壽命妙 |
-| 10 | Fundamental Benefits | 本利益妙 |
-
----
-
-## ○一、略釋十意 — Brief Explanation
-
----
-
-### 1. Fundamental Cause Subtlety (本因妙)
-
-本因妙者，本初發菩提心，行菩薩道所修因也。
-
-> **Fundamental Cause Subtlety**: The original initial arising of bodhicitta, the cause cultivated through practicing the bodhisattva path.
-
-若十六王子在大通佛時弘經結緣，皆是中間所作，非本因也。
-
-> If the sixteen princes at Great-Penetration Buddha's time propagated the sūtra and established connections—**all this is intermediate activity, not Fundamental Cause**.
-
-文云：「我以佛眼觀彼久遠，猶若今也。」唯佛能知如此久遠，皆是迹因，非本因也。
-
-> The text says: "**With Buddha-eye I observe that distant past as if it were today.**" Only Buddha can know such remoteness—all these are **Trace Causes, not Fundamental Cause**.
-
-若留中間之因，於後難信，是故《法華》拂迹除疑...過是已前所行道者，名之為本，即是本因妙也。
-
-> If we retained the intermediate causes, later [practitioners] would find it hard to believe. Hence the *Lotus* **brushes away traces to remove doubt**... Before all that, what was practiced—this is called Fundamental, which is **Fundamental Cause Subtlety**.
-
----
-
-### 2. Fundamental Fruit Subtlety (本果妙)
-
-本初所行圓妙之因，契得究竟常、樂、我、淨，乃是本果。
-
-> The originally first practiced perfect-subtle cause, **contracting ultimate Permanence, Bliss, Self, and Purity**—this is **Fundamental Fruit**.
-
-不取寂滅道場，舍那成佛，為本果也。
-
-> We **do not take the bodhi-tree site where Vairocana became Buddha as Fundamental Fruit**.
-
-但取成佛已來，甚大久遠，初證之果，名本果妙也。
-
-> We only take **"since becoming Buddha, immeasurably long ago"—the originally attained fruit**—as **Fundamental Fruit Subtlety**.
-
----
-
-### 3. Fundamental Land Subtlety (本國土妙)
-
-本既成果，必有依國...文云：「自從是來，我常在此娑婆世界說法教化。」
-
-> Having achieved Fundamental Fruit, there must be a land to dwell in... The text says: "**Since then, I have always been in this Sahā world expounding Dharma and teaching.**"
-
-按此文者，實非今日迹中娑婆，亦非中間權迹處所，乃是本之娑婆，即本土妙也。
-
-> According to this text, it's really **not today's Trace-Sahā, nor the intermediate expedient-trace location**—it is **Fundamental Sahā**, which is **Fundamental Land Subtlety**.
-
----
-
-### 4. Fundamental Resonance Subtlety (本感應妙)
-
-既已成果，即有本時所證二十五三昧，慈悲誓願，機感相關，能即寂而照，故言本感應也。
-
-> Having achieved Fruit, there are **the twenty-five samādhis realized at that original time**, compassion and vows, machine and response mutually connected, **able to be quiescent yet illuminating**—hence Fundamental Resonance.
-
----
-
-### 5-10. Remaining Fundamental Subtleties
-
-| Subtlety | Content |
-|----------|---------|
-| **Supernatural Powers** | Original powers with neutral transformation-upon-transformation dhyāna |
-| **Dharma-Exposition** | Original turning of the Dharma-wheel |
-| **Retinue** | Original disciples—"those from below are my children" |
-| **Nirvāṇa** | Original extinction/non-extinction |
-| **Lifespan** | Original limitless lifespan |
-| **Benefits** | Original benefiting with karma-, vow-, power-, response-born |
-
----
-
-## 本迹雖殊，不思議一
-# Fundamental and Trace Though Different, Are Inconceivably One
-
-This refrain appears throughout Fascicle 7:
-
-> "**Fundamental and Trace, though different, are inconceivably one.**"
-
-The point is not to reject the Trace but to understand that:
-1. The Trace arises from the Fundamental
-2. By following the Trace, we reach the Fundamental
-3. Ultimately they are non-dual
-
----
-
-## Footnotes
-
-[^1]: The **Ten Fundamental Subtleties** parallel the Ten Trace Subtleties but address the Buddha's eternal reality rather than his manifest teaching. The key structural shift: Trace Subtleties 1-5 (境智行位三法) deal with cause; here **Cause** is condensed into one subtlety, while **Nirvāṇa** and **Lifespan** are added as separate subtleties.
-
----
-
-*Part One of Fascicle 7 complete. Translation continues with detailed exposition of the Ten Fundamental Subtleties...*
+有三義故，得知諸土悉迹土也：一、今佛所栖故。二、前後修立故。三、中間所拂故。若是本土，非今佛所栖，今佛所栖，即迹土也。若是本土，一土一切土，不應前、後修立，深、淺不同；今土已前，本土已後，皆名中間，中間悉稱方便，況今之土，寧得非迹？從本垂迹，執迹為本者，此不知迹亦不識本。今拂迹指本，本時所栖四土者，是本國土妙也。迹本非本，本迹非迹，非迹非本，即不思議一也。
+> For three reasons, all these lands are known to be trace-lands: first, they are where the present Buddha dwells; second, they are established through prior/later cultivation; third, they are what is brushed aside in the middle period. If they were original lands, they would not be where the present Buddha dwells; where the present Buddha dwells is trace-land. If they were original land, one land would be all lands; there should not be prior/later establishment with deep/shallow difference. What is before present land and after original land is all called middle period, and middle period is entirely called expedient; how much more must the present land be trace. From origin trace is cast down; if one clings to trace as origin, one neither knows trace nor recognizes origin. Now trace is brushed aside and origin indicated: the four lands inhabited at the original time are original-land subtlety. Trace-origin is not [fixed] origin; origin-trace is not [fixed] trace; neither trace nor origin as fixed entities - this is inconceivably one.
