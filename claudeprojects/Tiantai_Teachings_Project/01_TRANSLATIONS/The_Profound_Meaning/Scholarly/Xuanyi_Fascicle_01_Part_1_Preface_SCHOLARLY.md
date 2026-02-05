@@ -17,6 +17,18 @@
 ## 法華私記緣起
 # The Origins of the Private Record of the Lotus Sutra
 
+[1]法華私記緣起
+
+> [1] Origins of the Private Record of the Lotus Sutra.
+
+ [1] 【原】增上寺報恩藏明本
+
+> [1] [Original] Zōjōji Hōon Repository, Ming edition.
+
+沙門灌頂述
+
+> Composed by the Śramaṇa Guanding.
+
 **Composed by the Śramaṇa Guanding (灌頂, 561–632 CE)**
 
 ---
@@ -223,6 +235,142 @@
 妙法蓮華，即敘名也；示真實之妙理，敘體也；歸廣大之一乘，敘宗也；蕩化城之執教，敘用也；一期化圓，敘教也；六譬，敘迹本也。文略意周矣。
 
 > "Wonderful Dharma Lotus Flower" expounds the *Name*. "Revealing the wonderful principle of true reality" expounds the *Substance*. "Returning to the vast and great One Vehicle" expounds the *Essence*. "Sweeping away the fixed teaching of the Conjured City" expounds the *Function*. "The single period of transformation is perfectly complete" expounds the *Teaching*. The six metaphors expound the Trace and Fundamental. The text is concise, yet the meaning is complete.
+
+---
+
+## Private Preface to the King (私序王)
+
+私序王
+
+> Private Preface to the King.
+
+夫理絕偏圓，寄圓珠而談理；極非遠近，託寶所而論極。
+
+> As for principle, it is beyond partial and perfect; one relies on the round jewel to speak of principle. The ultimate is neither far nor near; one relies on the Treasure‑Place to speak of the ultimate.
+
+極會圓冥，事理俱寂。
+
+> The ultimate and the perfect meet in mysterious stillness; phenomena and principle are both quiescent.
+
+而不寂者，良由耽無明酒，雖繫珠而不覺；迷涅槃道，路弗遠而言長。
+
+> Yet that which is not quiescent is due to being intoxicated by the wine of ignorance: though the jewel is tied on, one does not perceive it; one is deluded about the path of nirvāṇa—though the road is not far, one says it is long.
+
+聖主世尊！
+
+> O holy sovereign, World‑Honored One!
+
+愍斯倒惑，四華六動，開方便之門，三變千踊，表真實之地，咸令一切普得見聞。
+
+> Out of compassion for these inverted delusions, [you caused] four flowers and six tremors, opening the gate of skillful means; three transformations and a thousand upheavals display the ground of true reality, causing all to universally gain seeing and hearing.
+
+發祕密之奧藏，稱之為妙。
+
+> Revealing the profound treasury of the secret is called “Wonderful.”
+
+示權實之正軌，故號為法。
+
+> Showing the correct track of the Provisional and Real is therefore called “Dharma.”
+
+指久遠之本果，喻之以蓮。
+
+> Pointing to the original fruit of the far‑distant past, it is metaphorized by the lotus.
+
+會不二之圓道，譬之以華。
+
+> Uniting the non‑dual perfect path, it is metaphorized by the flower.
+
+聲為佛事，稱之為經。
+
+> The voice is the Buddha’s work; it is called “Sūtra.”
+
+圓詮之初，目之為序。
+
+> The beginning of the perfect exposition is named “Preface.”
+
+序類相從，稱之為品。
+
+> The preface and its kindred follow one another; it is called a “Chapter.”
+
+眾次之首，名為第一。
+
+> As the first among the ordered series, it is named “First.”
+
+釋曰：談記是敘名；會冥是敘體；圓珠是敘宗；俱寂是敘用；四華六動是敘教，本迹可知。
+
+> Explanation: “recording in speech” narrates the Name; “meeting in mystery” narrates the Substance; the round jewel narrates the Essence; “both quiescent” narrates the Function; the four flowers and six tremors narrate the Teaching; thus the trace and fundamental can be known.
+
+此《妙法蓮華經》者，本地甚深之奧藏也。
+
+> This *Lotus Sūtra* is the profoundly deep secret treasury of the original ground.
+
+文云「是法不可示，世間相常住。」
+
+> The text says, “This dharma cannot be shown; the marks of the world are eternally abiding.”
+
+三世如來之所證得也。
+
+> This is what the Tathāgatas of the three times have realized.
+
+文云「是第一寂滅於道場知已，大事因緣出現於世。」
+
+> The text says, “Knowing the supreme extinction at the place of awakening, [the Buddha] appears in the world for the great cause and conditions.”
+
+始見我身，令入佛慧。
+
+> He first reveals my body, causing [beings] to enter Buddha‑wisdom.
+
+為未入者，四十餘年，以異方便，助顯第一義。
+
+> For those not yet entered, for more than forty years he used different skillful means to assist in revealing the First Principle.
+
+今正直捨方便，但說無上道。
+
+> Now he directly sets aside skillful means and teaches only the unsurpassed Way.
+
+所言妙者，褒美不可思議之法也。
+
+> What is called “Wonderful” is praise for the inconceivable Dharma.
+
+又妙者，十法界、十如之法。
+
+> Moreover, “Wonderful” is the dharmas of the Ten Dharma‑Realms and the Ten Suchnesses.
+
+此法即妙，此妙即法，無二無別，故言妙也。
+
+> This Dharma is itself Wonderful; this Wonderful is itself Dharma—non‑dual and undifferentiated—therefore it is called Wonderful.
+
+又妙者，自行權實之法妙也，故舉蓮華而況之也。
+
+> Moreover, “Wonderful” means the wondrous Dharma of self‑practice in Provisional and Real; therefore the lotus is raised as a metaphor.
+
+又妙者，即迹而本，即本而迹，即非本非迹，或為開廢(云云)。
+
+> Moreover, “Wonderful” is: the trace is the fundamental, the fundamental is the trace; it is neither fundamental nor trace; or it is opening or abolishing (etc.).
+
+又妙者，最勝脩多羅甘露之門，故言妙也。
+
+> Moreover, “Wonderful” is the gate of the most supreme sūtra, the sweet‑dew gate; therefore it is called Wonderful.
+
+釋曰：妙無別體，體上褒美者，敘妙名也。
+
+> Explanation: Wonderful has no separate substance; praising it upon the substance narrates the Wonderful Name.
+
+妙即法界，法界即妙者，敘體也。
+
+> Wonderful is the Dharma‑realm; the Dharma‑realm is Wonderful—this narrates the Substance.
+
+自行權實者，敘宗也。
+
+> Self‑practice in Provisional and Real narrates the Essence.
+
+本迹六喻者，敘用也。
+
+> The six metaphors of fundamental and trace narrate the Function.
+
+甘露門者，敘教也。
+
+> The sweet‑dew gate narrates the Teaching.
 
 ---
 

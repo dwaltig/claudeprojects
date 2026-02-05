@@ -74,13 +74,25 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > When cultivating the contemplation of **entering emptiness from the provisional**, first contemplate the dharmas of correct dependent origination.
 
-此法內、外、親、疎隔別，若不殷勤、樂欲，則所習不成，必須曉夜精勤、欣悅、無懈，此即世界悉檀起初觀也。
+此法內、外、親、疎隔別，若不殷勤、樂欲，則所習不成，必須曉夜精勤、欣悅、無[A3]𣀇，此即世界悉檀起初觀也。
 
 > These dharmas—inner and outer, intimate and distant—are separately distinguished. If there is no earnestness and delight, the practice will not succeed. One must diligently strive day and night with joy and without laxity. **This is the Worldly Siddhānta generating initial contemplation.**
 
-若欲觀假入空，須識為人便宜...是為隨宜，善心則發。
+若欲觀假入空，須識為人便宜。
 
-> If one wishes to contemplate entering emptiness from the provisional, one must recognize what is expedient for each person... This is following what is appropriate; the wholesome mind then arises.
+> If one wishes to contemplate entering emptiness from the provisional, one must recognize what is expedient for each person.
+
+若宜修觀，即用擇、精進、喜三覺分起之。
+
+> If it is appropriate to cultivate contemplation, then use the three awakening factors of discrimination, vigor, and joy to arouse it.
+
+若宜修止，則用除、捨、定三覺分起之。
+
+> If it is appropriate to cultivate calming, then use the three awakening factors of exclusion, equanimity, and concentration to arouse it.
+
+念通兩處，是為隨宜，善心則發。
+
+> Mindfulness connects the two; this is following what is appropriate, and the wholesome mind then arises.
 
 若有沈、浮之病，須用對治悉檀。若心沈時，念、擇、進、喜治之。若心浮時，念、捨、除、定治之。
 
@@ -112,6 +124,10 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > If [practicing] **Three Contemplations in One Mind**, the skillful application is likewise.
 
+    [A3] 𣀇【CB】，[睪*支]【大】
+
+> [A3] 𣀇 in CBETA; [睪*支] in the Taishō edition.
+
 ---
 
 ### Teaching Arises Through the Siddhāntas
@@ -120,25 +136,29 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > **Generating Teaching:** The *Mahāprajñāpāramitā-śāstra* says: "The Buddha constantly delights in silence; he does not delight in teaching the Dharma." The *Vimalakīrti* also discusses closing the mouth. This sūtra says: "It cannot be proclaimed with words."
 
-《大經》云：「生生不可說，乃至不生不生不可說」，又云：「亦可得說」。
+《大經》云：「生生不可說，乃至不生不生不可說」，又云：「亦可得說，十因緣法為生作因。」
 
-> The *Mahāparinirvāṇa Sūtra* says: "The arising of arising cannot be spoken... down to the non-arising of non-arising cannot be spoken." Yet it also says: "It can also be spoken."
+> The *Mahāparinirvāṇa Sūtra* says: "The arising of arising cannot be spoken, down to the non-arising of non-arising cannot be spoken"; it also says: "It can also be spoken: the dharmas of the ten conditions make the causes for arising."
+
+亦可得說十因緣者：從無明至有，此十成於眾生，具四根性，能感如來，說四種法。
+
+> It can also be spoken of the ten conditions: from ignorance to existence. These ten constitute sentient beings; possessing the four root-natures, they can move the Tathāgata to speak the four kinds of Dharma.
 
 若十因緣法所成眾生有下品樂欲，能生界內事善，拙度破惑，析法入空；具此因緣者，如來則轉生滅四諦法輪，起三藏教也。
 
-> If sentient beings formed by the ten-factor dependent origination have **lower-grade delight**, able to generate phenomenal good within the realms, with crude methods breaking delusion and analyzing dharmas to enter emptiness—for those possessing these conditions, the Tathāgata turns the Dharma Wheel of the **Arising-and-Ceasing Four Truths**, generating the **Tripiṭaka Teaching**.
+> If sentient beings formed by the ten-factor dependent origination have **lower-grade delight**, able to generate phenomenal good within the realms, with crude methods breaking delusion and analyzing dharmas to enter emptiness—those possessing these conditions, the Tathāgata turns the Dharma Wheel of the **Arising-and-Ceasing Four Truths**, generating the **Tripiṭaka Teaching**.
 
-若十因緣法所成眾生有中品樂欲...如來則轉無生四諦法輪，起通教也。
+若十因緣法所成眾生有中品樂欲，能生界內理善，巧度破惑，體法入空；具此因緣者，如來則轉無生四諦法輪，起通教也。
 
-> If sentient beings have **middle-grade delight**... the Tathāgata turns the Dharma Wheel of the **Non-Arising Four Truths**, generating the **Common Teaching**.
+> If sentient beings formed by the ten conditions have **middle-grade delight**, able to generate inner‑realm principle good, skillfully crossing and breaking delusion, embodying dharmas to enter emptiness—those possessing these conditions, the Tathāgata turns the Dharma Wheel of the **Non‑Arising Four Truths**, generating the **Common Teaching**.
 
-若十因緣所成眾生有上品樂欲...如來則轉無量四諦法輪，起別教也。
+若十因緣所成眾生有上品樂欲，能生界外事善，歷別破惑，次第入中；具此因緣者，如來則轉無量四諦法輪，起別教也。
 
-> If sentient beings have **upper-grade delight**... the Tathāgata turns the Dharma Wheel of the **Immeasurable Four Truths**, generating the **Distinct Teaching**.
+> If sentient beings formed by the ten conditions have **upper-grade delight**, able to generate outer‑realm phenomenal good, gradually breaking delusion and entering the middle in sequence—those possessing these conditions, the Tathāgata turns the Dharma Wheel of the **Immeasurable Four Truths**, generating the **Distinct Teaching**.
 
-若十因緣所成眾生有上上品樂欲...如來則轉無作四諦法輪，起圓教也。
+若十因緣所成眾生有上上品樂欲，能生界外理善，一破惑一切破惑，圓頓入中；具此因緣者，如來則轉無作四諦法輪，起圓教也。
 
-> If sentient beings have **highest-grade delight**... the Tathāgata turns the Dharma Wheel of the **Non-Created Four Truths**, generating the **Perfect Teaching**.
+> If sentient beings formed by the ten conditions have **highest‑grade delight**, able to generate outer‑realm principle good, breaking one delusion and breaking all delusions, entering the middle in a perfect and sudden way—those possessing these conditions, the Tathāgata turns the Dharma Wheel of the **Non‑Created Four Truths**, generating the **Perfect Teaching**.
 
 ---
 
@@ -175,9 +195,9 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > Śāriputra said: "I have heard that within liberation, there is no verbal expression." This clarifies, based on the Arising-and-Ceasing Four Truths of the arising-of-arising dharmas, that [it] cannot be spoken.
 
-《淨名》杜口，《大集》無言菩薩...言語道斷，心行亦訖，不生不滅，法如涅槃。
+《淨名》杜口，《大集》無言菩薩不可智知，不可識識，言語道斷，心行亦訖，不生不滅，法如涅槃。
 
-> In the *Vimalakīrti*, [he] shuts his mouth. In the *Mahāsaṃnipāta*, the Bodhisattva of No Speech... "The path of speech is cut off; mental activity also ceases. Neither arising nor ceasing—the Dharma is like nirvāṇa."
+> In the *Vimalakīrti*, [he] shuts his mouth. In the *Mahāsaṃnipāta*, the Bodhisattva of No Speech is unknowable by wisdom and unrecognized by consciousness; the path of speech is cut off, mental activity also ceases. Neither arising nor ceasing—the Dharma is like nirvāṇa.
 
 此經明「止止不須說，我法妙難思」；「是法不可示，言辭相寂滅」，不可以言宣，非思量分別之所能解。
 
@@ -215,9 +235,9 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > If the Two Vehicles of the Tripiṭaka Teaching diligently practice themselves—knowing suffering, cutting off accumulation, cultivating the path, realizing cessation, entering truth—this is also called **attainment**. But they do not ferry sentient beings, so they **cannot apply**.
 
-假令用者，差機不當...
+假令用者，差機不當，故淨名訶滿願云：「不知人根，不應說法，無以穢食，置於寶器。」
 
-> If they were to apply, they would misjudge capacities...
+> If they were to apply, they would misjudge capacities; therefore the *Vimalakīrti* reproaches Pūrṇa, saying: "Not knowing people's roots, you should not preach the Dharma; do not place impure food in a jeweled vessel."
 
 如富樓那九旬化外道，反被蚩笑！文殊暫往，師徒皆伏。此是不知樂欲，不能用世界悉檀也。
 
@@ -266,9 +286,9 @@ Master Zhiyi presents a comprehensive analysis of the Four Siddhāntas through t
 
 > Even so, this is ultimately a crude method, **provisionally matching lesser capacities**.
 
-若通教四諦明四悉檀，體法即真，其門則巧故...猶屬權也。
+若通教四諦明四悉檀，體法即真，其門則巧故。《釋論》云：「今欲說第一義悉檀故，說《摩訶般若波羅蜜經》。」就佛、菩薩，皆得有四；而約方便真諦以明悉檀，猶屬權也。
 
-> If the Common Teaching's Four Truths clarify the Four Siddhāntas, embodying dharmas as directly true—the gate is skillful, yet... **it still belongs to the Provisional**.
+> If the Common Teaching's Four Truths clarify the Four Siddhāntas, embodying dharmas as directly true, the gate is skillful. The *Śāstra* says: "Now, wishing to speak the First‑Principle Siddhānta, it expounds the *Mahāprajñāpāramitā Sūtra*." For Buddhas and bodhisattvas, all attain the four; yet in terms of expedient true truth used to clarify the Siddhāntas, it still belongs to the **Provisional**.
 
 若別教四諦明四悉檀，約於中道，此意則深；而猶是歷別，別相未融，教道是權，此則非妙。
 

@@ -15,7 +15,7 @@
 - **Files FAIL:** 0 / 14
 - **Open defects:** 0
 - **Repaired – Pending Re‑Audit:** 0
-- **Closed defects:** 134
+- **Closed defects:** 152
 
 ---
 
@@ -49,7 +49,7 @@
 - **Files FAIL:** 0 / 4
 - **Open defects:** 0
 - **Repaired – Pending Re‑Audit:** 0
-- **Closed defects:** 9
+- **Closed defects:** 16
 
 ---
 
@@ -243,7 +243,7 @@
 - **Files FAIL:** 0 / 4
 - **Open defects:** 0
 - **Repaired – Pending Re‑Audit:** 0
-- **Closed defects:** 9
+- **Closed defects:** 18
 
 ---
 
@@ -420,6 +420,223 @@
 - **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_4_Four_Siddhāntas_SCHOLARLY.md):**
   ```
   若通教四諦明四悉檀，體法即真，其門則巧故。《釋論》云：「今欲說第一義悉檀故，說《摩訶般若波羅蜜經》。」
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-010
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 118
+- **Chinese text (quoted):**
+  - 「所以引二文者，古佛事定…若引者，「開、示、悟、入」，即其文也…「此異餘經」，證教也。」
+- **Defect type:** Omission (missing rationale paragraph)
+- **Required correction:**
+  - Insert the full “所以引二文者…” paragraph and the fivefold evidentiary mapping.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  所以引二文者，古佛事定…若引者，「開、示、悟、入」，即其文也…
+  「為大事因緣故」，證名；「佛之知見」，證體；「開示悟入」，證宗；「為令眾生」，證用；「此異餘經」，證教也。
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-011
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 132
+- **Chinese text (quoted):**
+  - 「引諸譬喻，明教相最大…非但引文證教，餘義亦成。」
+- **Defect type:** Omission (missing simile synthesis)
+- **Required correction:**
+  - Insert the full “引諸譬喻…” synthesis paragraph after the six similes.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  引諸譬喻，明教相最大…教相王中王，餘亦如是。
+  非但引文證教，餘義亦成。
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-012
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 136–140
+- **Chinese text (quoted):**
+  - 「〈神力品〉中，約教次第…故言甚深之事也。」
+  - 「〈序品〉約行次第…分別同異，教相也。」
+- **Defect type:** Omission (missing Section 3 expansions)
+- **Required correction:**
+  - Restore both paragraphs (神力品 + 序品) within the “生起” section.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  〈神力品〉中，約教次第…故言甚深之事也。
+  〈序品〉約行次第…分別同異，教相也。
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-013
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 144–146
+- **Chinese text (quoted):**
+  - 「釋名通論自行、化他…教相分別自、他。」
+  - 「釋名通論說默…教相分別(云云)。」
+  - 「十種者…三軌…三道…三德(云云)。」
+- **Defect type:** Omission (missing Open/Combine sub‑sections)
+- **Required correction:**
+  - Insert the self/other, speech/silence, and ten‑kinds paragraphs under “開合”.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  釋名通論自行、化他…教相分別自、他。
+  釋名通論說默…教相分別(云云)。
+  十種者…三軌…三道…三德(云云)。
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-014
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 166–238
+- **Chinese text (quoted):**
+  - 「文內從火宅至醫子，凡七譬…」
+  - 「一切法皆佛法…」
+  - 「何故雙用因果為宗…」
+  - 「宗、用俱明智斷…」
+  - 「經經各有異意…」
+- **Defect type:** Omission (missing Q/A block)
+- **Required correction:**
+  - Insert all missing Q/A exchanges in the 料簡 section between the flower‑hut question and the “五章” question, and append the final “經經各有異意” Q/A.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  問：文內從火宅至醫子…何以取此為題？答：七譬是別…
+  問：一切法皆佛法…答：若開權顯實…
+  問：何故雙用因果為宗？答：由因致果…
+  問：宗、用俱明智斷…答：自行以智德為宗…
+  問：經經各有異意…答：若經經別釋…
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-015
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 240–262
+- **Chinese text (quoted):**
+  - 「○六明觀心者，從標章至料簡，悉明觀心。」
+  - 「觀心引證者…」
+  - 「觀心生起者…」
+  - 「觀心開合者…」
+  - 「觀心料簡者…」
+  - 「若欲免貧窮…六即…」
+  - 「妙法蓮華經玄義卷第一上 / 第一下」
+- **Defect type:** Omission (missing Observing‑Mind blocks + fascicle boundaries)
+- **Required correction:**
+  - Restore the complete Observing‑Mind sub‑sections (引證/生起/開合/料簡), the Six‑Identity list, and the fascicle boundary lines.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  ○六明觀心者，從標章至料簡，悉明觀心。
+  觀心引證者…觀心生起者…觀心開合者…觀心料簡者…
+  若欲免貧窮，當勤三觀；欲免上慢，當聞六即。
+  …唯佛與佛究盡實相，究竟即也。
+  妙法蓮華經玄義卷第一上
+  妙法蓮華經玄義卷第一下
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-016
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 268–350
+- **Chinese text (quoted):**
+  - 「七、會異者。」
+  - 「問：何不次第？…」
+  - 「《論》專釋《大品》…」
+  - 「次解四悉檀為十重…」
+  - 「釋名者…」
+  - 「私十五番釋其相令易解…」
+  - 「三、釋成者…四、對諦者…」
+- **Defect type:** Omission (missing Four‑Siddhāntas exposition)
+- **Required correction:**
+  - Restore the full “會異” section including order Q/A, ten‑layer list, name‑definition paragraph, fifteen‑fold analysis, and the “釋成 / 對諦” blocks.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  七、會異者。
+  問：何不次第？…答：悉檀是佛智慧…
+  次解四悉檀為十重：一、釋名…十、通經
+  釋名者，悉檀，天竺語…
+  私十五番釋其相令易解…
+  三、釋成者…四、對諦者…
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-017
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 112, 134, 142, 150
+- **Chinese text (quoted):**
+  - 「○二、引證者，如文殊答問偈云「我見燈明佛，本光瑞如此，以是知今佛，欲說《法華經》」。」
+  - 「○三、生起者，能生為生，所生為起。前後有次第，麁細不相違。」
+  - 「○四、開合者，五章共釋一經，種種分別，令易解故。凡三種開合，謂五種、十種、譬喻。」
+  - 「○五料簡者，」
+- **Defect type:** Omission (missing section header lines)
+- **Required correction:**
+  - Restore the missing section header phrases at the starts of Sections 2–5.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  ○二、引證者，如文殊答問偈云「我見燈明佛，本光瑞如此，以是知今佛，欲說《法華經》」。
+
+  ○三、生起者，能生為生，所生為起。前後有次第，麁細不相違。
+
+  ○四、開合者，五章共釋一經，種種分別，令易解故。凡三種開合，謂五種、十種、譬喻。
+
+  ○五料簡者，
+  ```
+- **Status:** Closed
+
+### DEFECT-X01-018
+- **File name:** Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md
+- **Fascicle:** 1 (Xuanyi)
+- **CBETA source file:** T1716_001.txt
+- **CBETA line numbers:** 150–152; 240–242; 268–270; 350 (end of fascicle)
+- **Chinese text (quoted):**
+  - N/A (non‑CBETA additions in English only)
+- **Translation excerpt (non‑CBETA additions removed):**
+  - “This section presents a series of questions and answers addressing potential objections.”
+  - “This is the practical core of the Seven Interpretations—transforming doctrine into meditation.”
+  - “This section harmonizes the Five‑Chapter system with the Four Siddhāntas.”
+  - “*Fascicle 1 Upper translation complete. Fascicle 1 Lower continues with the detailed Four Siddhāntas exposition...*”
+- **Defect type:** Addition (non‑CBETA editorial lines)
+- **Required correction:**
+  - Remove all non‑CBETA editorial sentences inserted between CBETA blocks or appended after the fascicle.
+- **Post‑edit excerpt (Xuanyi_Fascicle_01_Part_3_Seven_Interpretations_SCHOLARLY.md):**
+  ```
+  ○五料簡者，
+
+  > Fifth, critical discrimination.
+
+  ### Q1: Doesn't "flower for the lotus" imply cause contains effect?
+  ```
+  ```
+  ○六明觀心者，從標章至料簡，悉明觀心。
+
+  > Section Six clarifies observing the mind: from the establishing of headings through critical discrimination, all of it clarifies observing the mind.
+  ```
+  ```
+  七、會異者。
+
+  > Seven: reconciling differences.
+
+  ### The Four Siddhāntas and the Five Chapters
+  ```
+  ```
+  四、對諦者，直對一番四諦，如前說。廣對四種四諦者，四種四諦，一一以四悉檀對之。復總對者，生滅四諦對世界，無生四諦對為人，無量四諦對對治，無作四諦對第一義。
+
+  > Four, corresponding to the truths: directly correspond to one set of Four Truths, as previously explained. Broadly corresponding to the four kinds of Four Truths: each kind of Four Truths is matched with the Four Siddhāntas. In overall correspondence: the Four Truths of arising‑and‑ceasing correspond to Worldly; the Four Truths of non‑arising correspond to For‑Each‑Person; the immeasurable Four Truths correspond to Therapeutic; the Four Truths of non‑fabrication correspond to First Principle.
   ```
 - **Status:** Closed
 
@@ -3183,7 +3400,7 @@
 - **CBETA source file:** T1718_004.txt
 - **CBETA line numbers:** 87–88
 - **CBETA text (quoted):**
-  - 「十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說…若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。」
+  - 「十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說。若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。」
 - **Translation excerpt:**
   - The Chinese source used ellipses (“顯密二說…”, “此乃大判時不時…”) that truncated the CBETA line, and the English quote used ellipsis within the direct citation.
 - **Defect type:** Omission / Ellipsis
@@ -3192,9 +3409,7 @@
 - **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
   ```
   十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說。
-  …
   若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。
-  …
   Therefore it says: "Because the Time for speaking had not yet arrived, now is exactly the Time; I decisively speak the Great Vehicle." This is **Waiting for Time**.
   ```
 - **Status:** Closed
@@ -3218,6 +3433,192 @@
   Therefore, in Śāriputra’s request verse, it says: "Those seeking the Pratyekabuddha Vehicle, Bhikṣus and Bhikṣuṇīs." Relying on this text, we know that Pratyekabuddhas are gathered within the Four Assemblies.
   …
   In the *Suvarṇaprabhāsa Sūtra* (*Golden Light*), it says in Jambudvīpa there were two kinds of people; this is also the meaning of this example.
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-006
+- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 42–56
+- **CBETA locator:** T1718_004.txt 42–56
+- **Chinese text (quoted):**
+  - 「問：三根入初住位，猶有利鈍不？」
+  - 「答：真修體顯則無差降。」
+  - 「問：若爾，初住已上更起緣修，有優劣不？」
+  - 「答：此同位人無復勝負，真修體融寧得有異耶？」
+- **Translation excerpt:**
+  - The Q/A block is missing between the “three knives chopping wood” paragraph and the “Meanings 5: Roots have Awakening or Do Not Have Awakening” heading.
+- **Defect type:** Omission (missing Q/A block)
+- **Required correction:**
+  - Insert the missing four Q/A lines with bilingual translation in Meaning 4, immediately after the “three knives chopping wood” paragraph and before Meaning 5.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
+  ```
+  問：<br><br>
+  三根入初住位，猶有利鈍不？
+  **Question:** When the three roots enter the first abode, is there still sharpness and dullness?
+  …
+  答：<br><br>
+  此同位人無復勝負，真修體融寧得有異耶？
+  **Answer:** For those in the same level there is no longer victory or defeat; once the substance of true cultivation is fused, how could there be differences?
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-007
+- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 256
+- **CBETA text (quoted):**
+  - 「此就小乘，應四句分別：小乘根利遮輕，障不能障，身子是也；根利遮重，障亦不能障，央掘是也；根鈍遮輕亦不為障，槃特是也；根鈍遮重，此則成障，不聞小乘、不得度者[1]是。」
+- **Translation excerpt:**
+  - 「…根鈍遮重，此則成障，不聞小乘、不得度者是。[1]」
+- **Defect type:** Marker misplacement (apparatus anchor)
+- **Required correction:**
+  - Move the [1] marker to match CBETA placement: immediately after 「者」 and before 「是」.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
+  ```
+  答：此就小乘，應四句分別：小乘根利遮輕，障不能障，身子是也；根利遮重，障亦不能障，央掘是也；根鈍遮輕亦不為障，槃特是也；根鈍遮重，此則成障，不聞小乘、不得度者[1]是。
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-008
+- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 393
+- **CBETA text (quoted):**
+  - 「…「種種法門」即對不種種，為下唯有一門譬作本；…」
+- **Translation excerpt:**
+  - 「…「種種法門」即對不種種，為下唯一門譬作本；…」
+- **Defect type:** Omission (single character)
+- **Required correction:**
+  - Insert 「有」 to match CBETA: 「唯有一門」.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
+  ```
+  又安隱者，即是安隱法，還對不安隱法，不安隱法即五濁法也，為下火起譬作本；「種種法門」即對不種種，為下唯有一門譬作本；「知眾生性欲」者，即是五道根性有三乘差別，為下三十子譬作本。
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-009
+- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 75–84
+- **CBETA text (quoted):**
+  - 「七、得記不得記者，若同皆領解，何故聲聞得記，不見緣覺、菩薩受記？此亦三意：一者、昔明二乘入正位不能發心，何由得記？今既悟大，欣斯別決，故為記劫國也。」
+- **Translation excerpt:**
+  - “This also has **three meanings**: 1. **The Surprise Factor:** …”
+- **Defect type:** Addition (interpretive label not in source)
+- **Required correction:**
+  - Remove the editorial label “The Surprise Factor” and render 「一者」 with a neutral ordinal (e.g., “First,” / “First meaning:”).
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
+  ```
+  This also has **three meanings**:
+  1.  **First:** Formerly, it was explained that Two Vehicles entering the **Correct Position** (*zhèng wèi*) could not generate the [Bodhi] Mind.
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-010
+- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 110–114
+- **CBETA text (quoted):**
+  - 「問：身子初周為四眾三根請，譬周為中下請，云何言佛各為三根人三周說法耶？」
+- **Translation excerpt:**
+  - “Why then do we say the Buddha speaks Dharma in Three Weeks, each for the people of the Three Roots? **If the request was specific, why is the response general?**”
+- **Defect type:** Addition (non‑source sentence)
+- **Required correction:**
+  - Remove the added sentence “If the request was specific, why is the response general?”
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
+  ```
+  **Question:** In the First Week, Śāriputra requested on behalf of the Three Roots of the Four Assemblies. In the Parable Week, he requested for the Intermediate and Inferior [Roots].
+  Why then do we say the Buddha speaks Dharma in Three Weeks, each for the people of the Three Roots?
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-011
+- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 118–122
+- **CBETA text (quoted):**
+  - 「答：經無文，義推應爾。引三歸一，三望一，一則是當；舉事為譬，譬即是現。準後望前，應如所問。」
+- **Translation excerpt:**
+  - “Measuring the Back (Future) and looking at the Front (Past), it should be as you asked. **[Thus: Past = Causes/Conditions, Present = Parable, Future = Dharma/One Vehicle Result].**”
+- **Defect type:** Addition (editorial summary not in source)
+- **Required correction:**
+  - Remove the bracketed summary sentence and keep a literal rendering of the source line.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
+  ```
+  Guiding the Three to return to the One: The Three look toward the One; the One is the **Future**.
+  Raising affairs to make a Parable: The Parable is the **Present**.
+  Measuring the Back (Future) and looking at the Front (Past), it should be as you asked.
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-012
+- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 240–241
+- **CBETA text (quoted):**
+  - 「…如水奔昏風波鼓努魚龍攪撓，無一憀賴時使之然。」
+- **Translation excerpt:**
+  - English block ends after “the Multitude of Corruptions gather together (*jiāocòu*).” (no rendering for 「無一憀賴時使之然」)
+- **Defect type:** Omission (untranslated clause)
+- **Required correction:**
+  - Add a translation for 「無一憀賴時使之然」 after the existing English sentence.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
+  ```
+  Coarse and vile Form and Mind, evil names and filthy designations, destroying years and reducing lifespan—the Multitude of Corruptions gather together (*jiāocòu*).
+  There is not a single moment of respite; time makes it so.
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-013
+- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 299–331
+- **CBETA text (quoted):**
+  - 「故文云：「喜稱南無佛」。」
+- **Translation excerpt:**
+  - “Therefore the text says: **‘Joyfully称 “Namo Buddha.”’**”
+- **Defect type:** Translation error (untranslated character)
+- **Required correction:**
+  - Replace the mixed Chinese character with an English verb (e.g., “Joyfully say/call ‘Namo Buddha.’”).
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
+  ```
+  …therefore the text says: “Joyfully say ‘Namo Buddha.’”
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F04-014
+- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
+- **Fascicle:** 4
+- **CBETA source file:** T1718_004.txt
+- **CBETA line numbers:** 87
+- **CBETA text (quoted):**
+  - 「…名不待時。何故爾？佛有顯密二說，若顯說為論，《法華》之前二乘未悟大道…」
+- **Translation excerpt:**
+  - 「…名不待時。何故爾？佛有顯密二說。」 (full stop used instead of CBETA comma)
+- **Defect type:** Punctuation mismatch (CBETA comma)
+- **Required correction:**
+  - Change the punctuation after 「佛有顯密二說」 to a comma to match CBETA.
+- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
+  ```
+  十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說，
   ```
 - **Status:** Closed
 
@@ -3394,6 +3795,44 @@
 - **Status:** Closed
 
 
+### DEFECT-F06-001
+- **File name:** Wenju_Fascicle_06_Part2_Scholarly.md
+- **Fascicle:** 6 (Lower)
+- **CBETA source file:** T1718_006.txt
+- **CBETA line numbers:** 224
+- **CBETA text (quoted):**
+  - 「從「父遙見之」，即是第三，放捨勸誡息大乘化。」
+- **Translation excerpt:**
+  - 「從「父遙見」下，即是第三，放捨勸誡息大乘化。」
+- **Defect type:** Omission (single character in quoted line)
+- **Required correction:**
+  - Restore 「之」 inside the quoted phrase to match CBETA: 「父遙見之」.
+- **Post‑edit excerpt (Wenju_Fascicle_06_Part2_Scholarly.md):**
+  ```
+  從「父遙見之」，即是第三，放捨勸誡息大乘化。
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F06-002
+- **File name:** Wenju_Fascicle_06_Part2_Scholarly.md
+- **Fascicle:** 6 (Lower)
+- **CBETA source file:** T1718_006.txt
+- **CBETA line numbers:** 241
+- **CBETA text (quoted):**
+  - 「「語諸作人」下，第四，親教子作譬也，即是道品中七科法門，以顯除糞之相，領上諸子心各勇銳互相推排競共馳走爭出火宅也。一者語作人譬，譬四念處是外凡位；二、令勤作勿得懈息譬，譬四正勤；三、「咄男子」，勿復餘去譬，譬四如意足；四、「好自安意」下，名安慰譬，譬五根；五、「所以者何」下，名無五過譬，譬五力。此前四句是第二內凡位。六、即時長者字以為子譬，譬八正。七、「雖欣此遇」下，名教常令除糞譬，譬七覺。此二句是第三聖位也。」
+- **Translation excerpt:**
+  - The Chinese source moves from 「狀有所畏」… to the next section header and begins at 「今初語諸作人者…」 without the 「語諸作人」 summary line and the seven‑item list.
+- **Defect type:** Omission (missing CBETA block)
+- **Required correction:**
+  - Insert the missing 「語諸作人」 line and its seven‑item list (with bilingual translation) between the sentence ending 「狀有所畏…」 and the subsequent 「今初語諸作人者…」 block.
+- **Post‑edit excerpt (Wenju_Fascicle_06_Part2_Scholarly.md):**
+  ```
+  「語諸作人」下，第四，親教子作譬也，即是道品中七科法門，以顯除糞之相，領上諸子心各勇銳互相推排競共馳走爭出火宅也。一者語作人譬，譬四念處是外凡位；二、令勤作勿得懈息譬，譬四正勤；三、「咄男子」，勿復餘去譬，譬四如意足；四、「好自安意」下，名安慰譬，譬五根；五、「所以者何」下，名無五過譬，譬五力。此前四句是第二內凡位。六、即時長者字以為子譬，譬八正。七、「雖欣此遇」下，名教常令除糞譬，譬七覺。此二句是第三聖位也。
+  ```
+- **Status:** Closed
+
+
 ### DEFECT-F07-001
 - **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
 - **Fascicle:** 7 (Lower)
@@ -3486,6 +3925,155 @@
   *[Critical apparatus: [1] 也【大】，〔－〕【甲】]*
   *[Critical apparatus: [2] 本【大】＊，〔－〕【甲】＊]*
   *[Critical apparatus: [3] 次頁[01]不分卷【甲】]*
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-005
+- **File name:** Wenju_Fascicle_07_Part1_Scholarly.md
+- **Fascicle:** 7 (Upper)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 48–50 (approx.)
+- **CBETA locator:** T1718_007.txt 「迦葉當知如來」…「第一，合密雲」…「於大眾中而唱」
+- **Chinese text (quoted):**
+  - 「迦葉當知如來」下，合譬也…合譬次第者…得潤是同不無差別增長(云云)。
+  - 第一，合密雲…五陰合上山川谿谷也。「於大眾中而唱」下，即是第二，合上第四注雨譬…
+- **Translation excerpt:**
+  - The file places **「第一，合密雲」** before **「迦葉當知如來」**, then resumes with **「於大眾中而唱」**, breaking CBETA order.
+- **Defect type:** Misordering (sequence error)
+- **Required correction:**
+  - Move the **「迦葉當知如來」下，合譬也…** block to precede **「第一，合密雲…」**, restoring CBETA sequence so **「合密雲」** flows into **「於大眾中而唱」**.
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part1_Scholarly.md):**
+  ```
+  「迦葉當知如來」下，合譬也…得潤是同不無差別增長(云云)。
+  第一，合密雲…五陰合上山川谿谷也。「於大眾中而唱」下，即是第二，合上第四注雨譬…
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-006
+- **File name:** Wenju_Fascicle_07_Part1_Scholarly.md
+- **Fascicle:** 7 (Upper)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 59 (approx.)
+- **CBETA locator:** T1718_007.txt 「五乘者」…「隨緣不同耳」
+- **Chinese text (quoted):**
+  - 「五乘者，五戒乘出三途苦，十善乘出人道八苦，聲聞乘出三界無常苦，緣覺乘出從他聞法苦，菩薩乘出內無利智外無相好苦，是為五乘。問：但應以人天為世間乘，餘是出世間乘。又佛為實乘，餘是權乘。又佛為果乘，餘是因乘。又應為三乘，人天為下、二乘為中、佛為上。又人天名不斷煩惱乘，二乘名斷煩惱乘，佛名非斷非不斷乘。又人天名不斷，佛名斷，二乘名亦斷亦不斷。又凡夫、賢聖、非凡非聖，有、空、非有非空等乘(云云)。《大論》明五善根，《勝鬘》辨四藏，與三草二木云何？人天為二善，二乘為一，佛菩薩為五，開大合小，五乘開小合大，四藏合凡開聖，五乘則凡聖俱開，隨緣不同耳。」
+- **Translation excerpt:**
+  - The Chinese source jumps from 「任力所堪漸得入道，即後世以道受樂。」 directly to 「如彼大雲」 without the **五乘** paragraph.
+- **Defect type:** Omission (missing CBETA block)
+- **Required correction:**
+  - Insert the missing **「五乘者…隨緣不同耳」** block with full bilingual translation between 「即後世以道受樂。」 and 「如彼大雲」.
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part1_Scholarly.md):**
+  ```
+  「任力所堪漸得入道」，即後世以道受樂。
+  五乘者，五戒乘出三途苦…五乘則凡聖俱開，隨緣不同耳。
+  「如彼大雲」下，第二，提譬帖合六意者…
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-007
+- **File name:** Wenju_Fascicle_07_Part1_Scholarly.md
+- **Fascicle:** 7 (Upper)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 66 (approx.)
+- **CBETA locator:** T1718_007.txt 「地雖無差別，而能生桃梅卉木差別等異」
+- **Chinese text (quoted):**
+  - 「地雖無差別，而能生桃梅卉木差別等異；桃[1]李卉木雖差，而同是一堅相。」
+- **Translation excerpt:**
+  - 「地雖無差別，而能生桃梅卉木差別等異；桃[1]李卉木雖差，而同是一堅相。」
+- **Defect type:** Omission (missing character)
+- **Required correction:**
+  - Restore **「梅」** so the phrase reads **「桃梅卉木差別等異」**, and align the **[1]** marker to **「桃[1]李」** per CBETA.
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part1_Scholarly.md):**
+  ```
+  地雖無差別，而能生桃梅卉木差別等異；桃[1]李卉木雖差，而同是一堅相。
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-008
+- **File name:** Wenju_Fascicle_07_Part1_Scholarly.md
+- **Fascicle:** 7 (Upper)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 80 (approx.)
+- **CBETA locator:** T1718_007.txt 「究竟涅槃終歸於空」
+- **Chinese text (quoted):**
+  - 「究竟涅槃終歸於空」，即是無量中一。
+- **Translation excerpt:**
+  - 「究竟涅槃終歸於空」，即是無量中一。
+- **Defect type:** Omission (missing character)
+- **Required correction:**
+  - Restore **「於」** so it reads **「究竟涅槃終歸於空」**, and move **[1]** to **「終歸[1]空」** per CBETA.
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part1_Scholarly.md):**
+  ```
+  「究竟涅槃終歸於空」，即是無量中一。
+  …壽盡終歸灰斷，故言終歸[1]空。
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-009
+- **File name:** Wenju_Fascicle_07_Part1_Scholarly.md
+- **Fascicle:** 7 (Upper)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 66 (approx.)
+- **CBETA locator:** T1718_007.txt 「究竟至於一切種智」者…
+- **Chinese text (quoted):**
+  - 「究竟至於一切種智」者，若得二邊滅相，即是通、別二惑盡，入佛知見，以一切種智心中行般若，初發、畢竟二不別，故言「究竟」，此即佛之智慧，故言「一切種智」也。
+- **Translation excerpt:**
+  - The explanatory sentence beginning **「究竟至於一切種智」者…** was missing after 「準一相可解。」.
+- **Defect type:** Omission (missing CBETA sentence)
+- **Required correction:**
+  - Insert the missing sentence with full bilingual translation immediately after 「準一相可解。」.
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part1_Scholarly.md):**
+  ```
+  句句例作[2]差無差別義，準一相可解。「究竟至於一切種智」者，若得二邊滅相，即是通、別二惑盡，入佛知見，以一切種智心中行般若，初發、畢竟二不別，故言「究竟」，此即佛之智慧，故言「一切種智」也。
+  ```
+- **Status:** Closed
+
+
+### DEFECT-F07-010
+- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
+- **Fascicle:** 7 (Lower)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 221–235 (approx.)
+- **CBETA locator:** T1718_007.txt 「又明二乘，六義同、十義別」…「佛道雖長如萬里行，但五百是難、餘者則易」
+- **Chinese text (quoted):**
+  - 「又明二乘，六義同、十義別，同出三界、同盡無生…同名小乘，所以合為一化城。」
+  - 「別開十義：行因久近…聲聞不定。」
+  - 「火宅三車今為二百…佛道雖長如萬里行，但五百是難、餘者則易。」
+- **Translation excerpt:**
+  - The Six-Shared-Meanings / Ten-Differences analysis and the Fire-House/Three-Carts-as-200 explanation were missing in English.
+- **Defect type:** Omission (missing doctrinal analysis block)
+- **Required correction:**
+  - Insert the full bilingual translation of the "Six Shared Meanings / Ten Differences" block and the subsequent Fire-House/Three-Carts discussion before "Zhiyi's Determination."
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
+  ```
+  **Two Vehicles: Six Shared Meanings, Ten Differences:**
+  Shared six: both exit the Three Realms… therefore they are combined as one Magic City.
+  Ten differences:
+  1. Length of causal practice (60 kalpas vs 100).
+  …
+  Fire-House three carts are now 200… the 500 are the difficulty; the rest are easy.
+  ```
+- **Status:** Closed
+
+### DEFECT-F07-011
+- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
+- **Fascicle:** 7 (Lower)
+- **CBETA source file:** T1718_007.txt
+- **CBETA line numbers:** 235–238 (approx.)
+- **CBETA locator:** T1718_007.txt 「問：二百是二乘難…《大論》六十六云」…「若過五百即入佛道」
+- **Chinese text (quoted):**
+  - 「問：二百是二乘難…既求車出，何不為二百所障(云云)？」
+  - 「《大論》六十六云「險道是世間，一百由旬是欲界…四百是二乘。」…此經明五百由旬即菩薩道，若過五百即入佛道(云云)。」
+- **Translation excerpt:**
+  - The Q&A and Great Treatise (fascicle 66) citation were missing from the English block.
+- **Defect type:** Omission (missing Q&A + citation)
+- **Required correction:**
+  - Insert the Q&A and the Great Treatise citation (fasc. 66) with full bilingual translation before "Zhiyi's Determination."
+- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
+  ```
+  **Q&A on the 200 Yojanas (Great Treatise, Fascicle 66):**
+  **Q:** If 200 is the Two-Vehicle difficulty… why are they not obstructed by the 200? (etc.)
+  **A:** The *Great Treatise* (*Da Lun*) fascicle 66 says: the perilous road is the world; 100 yojanas = Desire Realm… This sutra clarifies that 500 yojanas are the bodhisattva path; passing beyond 500 one enters the Buddha path. (etc.)
   ```
 - **Status:** Closed
 

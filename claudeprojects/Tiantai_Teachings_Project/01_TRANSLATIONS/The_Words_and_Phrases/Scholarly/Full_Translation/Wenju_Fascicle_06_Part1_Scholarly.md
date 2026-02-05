@@ -9,6 +9,24 @@
 
 ---
 
+<div class="bilingual-row">
+<div class="chinese-source">
+妙法蓮華經文句卷第六上
+</div>
+<div class="english-translation">
+The Words and Phrases of the Lotus Sutra, Fascicle Six (Upper).
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+天台智者大師說
+</div>
+<div class="english-translation">
+Spoken by the Great Master Zhiyi of Tiantai.
+</div>
+</div>
+
 ## I. GENERAL EXPLANATION OF VERSES (Lines 13-37; CBETA 006:13–37)
 
 ### 1. Structure of the Verses (Lines 13-16)
@@ -21,6 +39,7 @@
 Second, the gāthā[^1]: there are one hundred sixty‑five lines, divided into two. The first has one hundred lines, versifying the preceding prose[^2]; the latter [4] has sixty‑five lines, clarifying the methods of propagating the sūtra. The preceding prose has opening‑parable and combining‑parable; the verses likewise are two: first there are sixty‑five and a half lines, versifying the opening parable[^3]; next there are thirty‑four and a half lines, versifying the combining parable. The first also has two: first there are thirty‑three lines of gāthā, versifying the general parable[^4]; next there are thirty‑two and a half lines of gāthā, versifying the specific parable.
 </div>
 </div>
+*[Critical apparatus: [3] 不分卷【甲】; [4] 有【大】，〔－〕【甲】]*
 
 ---
 
@@ -198,6 +217,7 @@ It generally versifies six meanings; within the six meanings it only versifies f
 The three realms[^5] are beginningless, therefore “long”; not made now, therefore “old”; impermanent and base are called “dilapidated.” It is also said: head as pavilion, belly as hall, back as house; moment‑to‑moment succession and impermanence is “high and dangerous.” One also says: the form realm[^6] is the “hall,” the desire realm[^7] is the “house”; not avoiding falling is called “high and dangerous.” The life faculty[^8] supports like “pillars,” past actions are the “foundation steps.” It is also said: the two feet are “pillar roots,” and being moved by the three marks[^9] is called “rotting.” The network of mental consciousness[^10] is taken as “beams and ridgepoles,” and being ruined by the sufferings is like “leaning.” It is also said: the spine is “beams and ridgepoles,” the buttocks are “foundation steps,” and in old age it is “crumbling.” “Walls”: one says the four elements[^11] are “walls,” skin is “mud plaster,” the four deportments[^12] being improper is “falling down,” and the five consciousnesses[^13] being dull and not mutually governing objects is “coming apart.” It is also said: “walls [A1] crumbling” are like skin chapping and rotting; robust color and freshness are like the first plastering, old color and withering are like later peeling; hair and beard decaying and falling are like “thatched coverings falling in disorder,” and sinews and bones weakening with the joints unsupported are like “rafters and beams decaying and falling.”
 </div>
 </div>
+*[Critical apparatus: [A1] 圮【CB】，𡉏【大】]*
 
 ### 3. Obstacles and Impurities (Lines 34-37)
 
@@ -209,33 +229,10 @@ The three realms[^5] are beginningless, therefore “long”; not made now, ther
 “Encircling obstacles and crookedness”: Master Yin[^14] says, “The thirty‑six substances[^15] mutually obstruct, therefore ‘encircling obstacles’; pig intestines [1] coil and turn, therefore ‘crookedness.’ Not only are they shifted by impermanence, there are also impurity and suffering, therefore it is said ‘miscellaneous filth fills everywhere.’” Now we say: “encircling obstacles” are the six consciousnesses[^16]; “crookedness” are the six roots[^17]; the six consciousnesses condition on the six roots to grasp objects, and because it is difficult and obstructed it is called “crookedness”; the six dusts[^18] pervasively stain the six roots, therefore it is said “miscellaneous filth fills [2] everywhere.” This is explained in two ways—by dependent origination[^19] and by contemplation of mind[^20] (etc.). Below “there are five hundred people,” third, a half line, it versifies the previous third parable, the five hundred people: the roots of the three vehicles[^21] are included within the five paths[^22], and it also gains the parable of the thirty sons.
 </div>
 </div>
+*[Critical apparatus: [1] 腸【大】，腹【甲】; [2] 遍【大】，滿【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [A1] 圮【CB】，𡉏【大】
-</div>
-<div class="english-translation">
-[A1] Variant: "圮" in CBETA; "𡉏" in Taisho.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 腸【大】，腹【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "腸" in Taisho; "腹" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 遍【大】，滿【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "遍" in Taisho; "滿" in A-text.
-</div>
-</div>
 
 ---
 
@@ -251,69 +248,14 @@ The three realms[^5] are beginningless, therefore “long”; not made now, ther
 From "Kites and owls" downward, fourth, there are twenty-nine [3] lines of gatha, directly versifying the fifth above, the arising of fire. Within this there are again four: first there are twenty-two gatha, explaining matters on the ground, parabling the arising of the fire in the desire realm; second there are three and a half gatha, explaining matters in holes, parabling the arising of the fire in the form realm; third there are two and a half gatha, explaining matters in the air, parabling the arising of the fire in the formless [4] realm[^32]; fourth, one gatha, in general concludes that the many dangers are not just one. For the desire-realm fire arising there are again four: first seventeen and a half gatha explain the kinds being burned, parabling beings' ten envoys[^25]; second [5], one and a half gatha explain the causes of the fire's arising, parabling the causes for the five turbidities[^28]; third, [7] one and a half lines directly explain the momentum of the fire's arising, parabling the actual arising of the five turbidities; [8] fourth [9], one and a half lines explain the appearance of being burned, parabling receiving the eight sufferings[^29] and five turbidities. For the first, seventeen and a half lines again have two: first sixteen lines directly explain what is burned; later one and a half lines make the general conclusion. Within what is burned there are again two: first six lines explain birds and beasts being burned, parabling beings with the five blunt envoys[^26]; later ten lines explain ghosts and spirits being burned, parabling beings with the five sharp envoys[^27]. The first, five blunt envoys, has two: first five and a half lines explain the five blunt; second, a half line concludes.
 </div>
 </div>
+*[Critical apparatus: [3] 行【大】，〔－〕【甲】; [4] 界【大】，〔－〕【甲】; [5] 有【大】，〔－〕【甲】; [6] 半【大】＊，〔－〕【甲】＊; [7] 一【大】，二【甲】; [8] 後【大】，〔－〕【甲】; [9] 四【大】，四後【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 不分卷【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "不分卷" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 有【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "有" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 有【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "有" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 半【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[6] Variant: "半" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 一【大】，二【甲】
-</div>
-<div class="english-translation">
-[7] Variant: "一" in Taisho; "二" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 後【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[8] Variant: "後" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [9] 四【大】，四後【甲】
-</div>
-<div class="english-translation">
-[9] Variant: "四" in Taisho; "四後" in A-text.
-</div>
-</div>
 
 ### 2. The Five Blunt Envoys (Lines 40-49)
 
@@ -325,6 +267,7 @@ From "Kites and owls" downward, fourth, there are twenty-nine [3] lines of gatha
 Now first, the five blunt are five: first, a half line [10] parables the arrogance envoy. Beings raise themselves and belittle others, like birds whose nature is to soar high and look down. The eight birds parable the eight arrogances[^30]; the Manjushri Inquiry Sutra[^31] clarifies the eight arrogances, and here they are paired with the eight birds. Arrogance of vigorous strength is like the kite; arrogance of nature [11] is like the owl; arrogance of wealth is like the eagle; arrogance of freedom is like the vulture; arrogance of lifespan is like the crow; arrogance of intelligence is like the magpie; arrogance of doing good is like the turtledove; arrogance of form is like the pigeon. Looking down on others is arrogance; esteeming oneself is arrogance. Self-love is greed; loving others is [12] lust. Self-anger is resentment; anger toward others is fury. Self-delusion is stupidity; deluding others is ignorance (etc.).
 </div>
 </div>
+*[Critical apparatus: [10] 譬【大】，舉【甲】; [11] 憍如【大】，如憍【甲】; [12] 淫【大】，婬【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -334,6 +277,7 @@ Now first, the five blunt are five: first, a half line [10] parables the arrogan
 Next, below "vipers and snakes," second, two phrases, parables the anger envoy. Anger has three: the viper's poison is intense, it sucks without touching, parabling anger arising without reason; the adder [13] stings when touched, parabling anger that clings to reasons; the centipede parables contentious anger. People of the world say: the red-necked is a centipede; the non-red-necked is an A2 millipede.
 </div>
 </div>
+*[Critical apparatus: [13] 蠍【大】，竭【甲】; [A2] 蜒【CB】，蜓【大】(cf. T34n1718_p0075b09)]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -343,6 +287,7 @@ Next, below "vipers and snakes," second, two phrases, parables the anger envoy. 
 Below "geckos," third, two lines, parables the ignorance envoy. Ignorance has arising-alone [14] and arising-in-conjunction; geckos, millipedes, and the like are inert, parabling single-headed ignorance; weasels, foxes, and mice parable the concomitant. Below "various evil [15] insects," from the root of ignorance all the knots are fully raised. This clarifies the mutual conditioning of the envoys: they may condition the three realms like crisscrossing, and their arising is swift like running. The next line "dung and urine" clarifies the objects to which the ignorant mind clings: all are impermanent, painful, not-self, and impure; because ignorance does not understand, it takes purity and so forth within them and gives rise to defiled attachment, therefore it says "dung beetles and various [*15-1] insects gather on it."
 </div>
 </div>
+*[Critical apparatus: [14] 起【大】，起有【甲】; [15] 蟲【大】＊，虫【甲】＊; [＊15-1] 蟲【大】＊，虫【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -352,6 +297,7 @@ Below "geckos," third, two lines, parables the ignorance envoy. Ignorance has ar
 Below "foxes and wolves," fourth, two lines, clarifies the greed envoy. Greed has two kinds: one with power, one without power. Those with power take by force, like foxes and wolves; those without power only beg for coarse and base, like jackals. Below "chewing" it clarifies greed taking objects, drawing things toward oneself like "chewing"; not using the proper principle is like "trampling." The greedy mind takes objects: sometimes taking one city, sometimes one country; when it has boundaries it is like "gnawing." It is also said: greed taking objects has use and non-use; taking with use [16] is like "chewing," taking without use is like "trampling"; also little is chewing, much is trampling. "Bones and flesh strewn" means accumulating the five dusts without knowing sufficiency. "Therefore packs of dogs compete to seize" means this is powerful greed, seizing from the powerless, namely kings and bandits. "Hungry, emaciated, and frightened" means always not knowing sufficiency like hunger; seeking and not obtaining like emaciation; variously searching like fright. A person of many desires, though rich, is poor. Love-mind greed greedily takes the flesh of the five dusts; view-mind greed greedily takes the bones of principle. Pushing to seek knowledge and views thus produces many explanations, which are many bones; dogs that need bones compete to seize them. In the minds of various views, not yet obtaining the food of the correct Dharma is called hunger; not being able to subdue and cut off views is called emaciation; seeking explanations everywhere is called fright. One says: this is simply the greedy person's longing and hoping.
 </div>
 </div>
+*[Critical apparatus: [16] 而【大】，故【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -359,87 +305,6 @@ Below "foxes and wolves," fourth, two lines, clarifies the greed envoy. Greed ha
 </div>
 <div class="english-translation">
 "Fighting and dragging," fifth, two phrases, parables the doubt envoy. Hesitating between two sides is called doubt; not deciding right and wrong is fighting; the mind thinks it is right and is called dragging; it again thinks it is wrong and is called pulling. "Gnashing, snarling, howling, and barking" is speaking and debating the principles of right and wrong. The two phrases "fear and terror," second, conclude the five blunt envoys above.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [10] 譬【大】，舉【甲】
-</div>
-<div class="english-translation">
-[10] Variant: "譬" in Taisho; "舉" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [11] 憍如【大】，如憍【甲】
-</div>
-<div class="english-translation">
-[11] Variant: "憍如" in Taisho; "如憍" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [12] 淫【大】，婬【甲】
-</div>
-<div class="english-translation">
-[12] Variant: "淫" in Taisho; "婬" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [13] 蠍【大】，竭【甲】
-</div>
-<div class="english-translation">
-[13] Variant: "蠍" in Taisho; "竭" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [A2] 蜒【CB】，蜓【大】(cf. T34n1718_p0075b09)
-</div>
-<div class="english-translation">
-[A2] Variant: "蜒" in CBETA; "蜓" in Taisho (cf. T34n1718_p0075b09).
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [14] 起【大】，起有【甲】
-</div>
-<div class="english-translation">
-[14] Variant: "起" in Taisho; "起有" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [15] 蟲【大】＊，虫【甲】＊
-</div>
-<div class="english-translation">
-[15] Variant: "蟲" in Taisho; "虫" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊15-1] 蟲【大】＊，虫【甲】＊
-</div>
-<div class="english-translation">
-[*15-1] Variant: "蟲" in Taisho; "虫" in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [16] 而【大】，故【甲】
-</div>
-<div class="english-translation">
-[16] Variant: "而" in Taisho; "故" in A-text.
 </div>
 </div>
 
@@ -453,6 +318,7 @@ Below "foxes and wolves," fourth, two lines, clarifies the greed envoy. Greed ha
 Below "Everywhere there are," second, there are ten lines, clarifying the five sharp [17] envoys. It has two: first, half a line, generally clarifying sharp envoys. Sharp envoys pervasively condition the five aggregates[^33] and the four noble truths[^34]; therefore it says "everywhere there are." Ghosts and spirits have penetrations and knowledge; birds and beasts do not. Therefore the sharp envoys are parabled by ghosts and spirits, and the blunt envoys are compared to [18] insects and beasts. Below "yaksa," second, nine and a half lines, separately clarifies the five sharp envoys, in five parts. First, three lines: it clarifies yaksa, swift ghosts, parabling wrong views that deny cause and effect. Humans are good retribution, parabling supramundane cause and effect not mixed with afflictions; denying this principle is like eating human flesh. Poisonous [*15-2] insects are evil retribution, like worldly cause and effect mixed with various afflictions; denying this principle is like eating poisonous [*15-3] insects. "Nursing and producing" means worldly dharmas give rise to their own kind of fruit from causes of the same kind. "Each stores and protects" means causes can produce fruit, called storing; necessarily obtaining and not losing is called protecting. Again, human flesh is good, poisonous [*15-4] insects are evil; the mind of wrong views denies good and evil causes and effects, the matter is like eating. "Nursing and producing" generally states that good and evil both have the function of causes and fruits arising together. "When it has eaten and is full" means the view-mind is accomplished. "Evil mind [19] blazing" means the view-mind expands. "The sound of fighting" means the inner mind is accomplished and outwardly manifests in words and teachings, proclaiming a doctrine of no cause and no fruit, able to make hearers fall into the three evil paths; therefore it is called terrifying.
 </div>
 </div>
+*[Critical apparatus: [17] 使【大】，〔－〕【甲】; [18] 蟲【大】，禽【甲】; [＊15-2] 蟲【大】＊，虫【甲】＊; [＊15-3] 蟲【大】＊，虫【甲】＊; [＊15-4] 蟲【大】＊，虫【甲】＊; [19] 熾盛者【大】，轉熾者【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -462,6 +328,7 @@ Below "Everywhere there are," second, there are ten lines, clarifying the five s
 Below "kumbhanda," second, two lines and two phrases, parables precept-grasping. Kumbhanda [*20-1] is the superior among ghosts; it is like defiled good that can [21] overcome various [*15-5] insects. "Squatting on an earthen mound" means practicing the ten wholesome precepts[^35] can be born in the six heavens; the six heavens are high places in the desire realm, the matter is like an earthen mound. Also outsiders who keep precepts can cultivate dhyana; they first attain desire-realm samadhi, or attain the future [22] samadhi; the future [*22-1] samadhi has not left the desire realm; the top of the desire realm is like an earthen mound. "Some are one foot or two feet away" means attaining form-realm samadhi is like one foot, attaining formless-realm samadhi is like two feet; ascending to the higher realm is called "going," falling back is called "returning"; arising view-coverings is like "indulgent play." "Grabbing a dog by both legs": one says that slandering there is no cause of suffering is like grabbing the dog's legs; denying there is no fruit of suffering is like adding a foot to its neck; when the cause gathers it obtains fruit like the dog's sound; sharp views deny there is no cause and no attainment of suffering, causing it to lose its voice. For contemplative explanation: practicing the six practices to subdue greed—when greed does not function it is like being cut off and losing voice. The dog is desire-greed; the two legs are initial and sustained thought; initial and sustained thought go back and forth and are always in greedy objects. Counting the breath and stopping the mind [2] has the meaning of binding; this is grabbing initial and sustained thought. "Striking" means: if the greedy thought strongly turns toward an impure object, one makes the impure contemplation to subdue greedy thought; the greedy thought is subdued, like a dog struck and unable to bark. It is also said: making the impure contemplation is like striking a dog; being able to produce dhyana is like being struck [3] and losing voice. "Adding a foot to the neck" means: although the dog has been struck, it still stirs and is not subdued, so one adds a foot. Although greed knows to stop in the impure, it is still not very quiet; further using contemplation of impermanence as the foot, adding it to the neck of preserving permanence then produces fear, and greedy thought does not arise. It is also said: one push to control the mind is like striking toward the ground; constantly tying it to the object is like adding a foot to the neck so it cannot rise. "Frightening the dog and taking joy" means: by cultivating impermanence one awakens the greedy mind; like frightening a dog, one then gains the taste of dhyana and is called self-joy.
 </div>
 </div>
+*[Critical apparatus: [20] 茶【大】＊，荼【甲】＊; [＊20-1] 茶【大】＊，荼【甲】＊; [21] 勝【大】，肢【甲】; [＊15-5] 蟲【大】＊，虫【甲】＊; [22] 定【大】＊，〔－〕【甲】＊; [＊22-1] 定【大】＊，〔－〕【甲】＊; [1] 如【大】，〔－〕【甲】; [2] 是【大】，〔－〕【甲】; [3] 失【大】，出【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -489,6 +356,7 @@ Below "again there are various ghosts," fourth, half a line, parables view-grasp
 Below "the head is like an ox head," fifth, two lines, parables extreme views. Pushing the self to cessation and permanence, the two extremes of cessation and permanence are like the two horns of an ox head. "The body is self" [4] and "self is the body"—extreme views arise based on self-view like the two horns of the head. The faults of counting permanence and cessation can cut off supramundane good, like eating human flesh. They can cut off worldly good roots, like "sometimes [5] eating dogs." Sometimes they count permanence, sometimes count cessation, turning back and forth like "hair disheveled." Counting permanence breaks cessation; counting cessation breaks permanence, like "cruel and dangerous." With no wisdom or samadhi, they sustain themselves on food and drink, like being "pressed by hunger and thirst."
 </div>
 </div>
+*[Critical apparatus: [4] 為我【大】，我為【甲】; [5] 時【大】，復【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -498,168 +366,64 @@ Below "the head is like an ox head," fifth, two lines, parables extreme views. P
 Below "yaksa and hungry ghosts," second, one and a half lines, generally concludes the appearance of desire-realm afflictions, and also concludes the appearance of beings purely of sharp afflictions. Both are minds with outflows, always without the flavor of the Way, therefore it says "hungry and urgent." "[6] Peering through a window" clarifies that their wrong contemplation of emptiness longs for the flavor of the Way; though they observe, they still cling, the mind mostly does not grasp correct principle—like peering through a window and seeing empty space without gaining unimpededness.
 </div>
 </div>
+*[Critical apparatus: [6] 窺【大】，〔－〕【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [17] 使【大】，〔－〕【甲】
+「是朽故宅屬于一人」下，第二，有一偈，明失火之由。三界是佛化應之處，發心已來誓願度脫，故云屬于一人。長者在宅能令慎火，由出去後諸子無知故令火起，內合正由如來大通佛時常教是等令伏五濁眾生，感盡如來捨應，此等於後便起五濁，他土赴緣非是永去，故言「近出」。又云，從得無生已，不生三界故名「出」，不久應來故言「近」。〈壽量品〉云「數現涅槃」，即是出宅意也。
 </div>
 <div class="english-translation">
-[17] Variant: "使" in Taisho; omitted in A-text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [18] 蟲【大】，禽【甲】
-</div>
-<div class="english-translation">
-[18] Variant: "蟲" in Taisho; "禽" in A-text.
+Below “This dilapidated old house belongs to one person,” second, there is one gāthā, clarifying the cause of the fire. The three realms are the place of the Buddha’s transforming response; since arousing the mind he has vowed to liberate and ferry, therefore it is said to belong to one person. When the elder is in the house he can make them be cautious of the fire; after he went out, the sons were without knowledge, therefore the fire arose. Internally this corresponds to: precisely because, in the time of the Tathāgata Great‑Pervasive Buddha, he always taught these to subdue the beings of the five turbidities; when the responsive conditions are exhausted, the Tathāgata discards the response. After that these then give rise to the five turbidities; when he goes to other lands to respond to conditions, it is not a permanent departure, therefore it says “recently went out.” It also says: from attaining non‑arising, he does not arise in the three realms, therefore he is called “gone out”; he will soon come in response, therefore it says “recently.” The *Lifespan* chapter says, “I repeatedly manifest nirvāṇa”—this is precisely the meaning of “going out of the house.”
 </div>
 </div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [＊15-2] 蟲【大】＊，虫【甲】＊
+「於後[7]宅舍」下，第三，二行，正明火起之勢。「四面」即是處所，身受心法等起四倒五濁八苦，故云「一時」，相續漸增為「熾」，命根斷為「爆」，風刀解體為「裂」。又云，受苦悲痛呻吟聲名為「爆」，諸根破壞為「裂」，氣斷骨離筋絕，為「摧折墮落」，四大解散為「牆壁崩倒」也。「諸鬼神等」下，第四，一行半，明被燒之相。或云，親屬為「鬼神」，哭泣為「揚聲」，今例上利使以譬神鬼。利使之人或計斷常，若計常者謂法定空，已有還無，無即常；計斷之人謂法定斷，唯此一死更無復續，皆唱言定說其事已顯，故云「揚聲大叫」也。若是鈍使及諸戒取，本不計斷，今見無常但生疑怖，不知出離之方，故言「慞惶不能自出」。
 </div>
 <div class="english-translation">
-[*15-2] Variant: "蟲" in Taisho; "虫" in A-text.
+Below “afterwards [7] the house‑dwellings,” third, two lines, directly clarifies the momentum of the fire’s arising. “On all four sides” means the locations: body, feelings, mind, and dharmas, etc., give rise to the four inversions, the five turbidities, and the eight sufferings; therefore it says “all at once.” Continuation gradually increases and becomes “blazing”; the life‑faculty is cut off and becomes “exploding”; the wind‑knives dismember the body and become “splitting.” It also says: the sounds of suffering, grief, pain, and moaning are called “exploding”; the destruction of the faculties is “splitting”; when breath is cut off, bones separate and sinews break, this is “crumbling and falling”; the four great elements disperse and this is “walls collapsing.” Below “various ghosts and spirits,” fourth, one and a half lines, clarifies the appearance of being burned. Some say relatives are the “ghosts and spirits,” and weeping is “raising voices.” Here, following the above, the sharp afflictions are used to parable ghosts and spirits. Those of sharp afflictions may count cessation and permanence: if they count permanence, they say dharmas are fixedly empty—having already been, they return to non‑being; non‑being is then permanence. Those who count cessation say dharmas are fixedly cut off; only this one death exists, there is no further continuation; they all proclaim and firmly state that their view has already manifested, therefore it says “raising voices and great shouting.” If they are blunt afflictions and various grasping of precepts, originally they do not count cessation; now, seeing impermanence, they only give rise to doubt and fear and do not know the way to escape; therefore it says “panic and unable to get out themselves.”
 </div>
 </div>
+*[Critical apparatus: [7] 宅舍【大】，舍宅【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [＊15-3] 蟲【大】＊，虫【甲】＊
+「惡獸毒[＊15-6]蟲」下，第二，三行半，明穴中事，譬色界火起，諸部解義瞋通三界，即此文也。文為四：初一行，明所燒之類。四禪之定，譬如孔穴也，雖復不及門外敞豁，猶得免於猛炎，入禪定中猶得免於欲界麁惡也。利使眾生亦得禪定，如毘舍闍鬼亦住其中。「薄福德故」一句，是第二，火起之由，由少福故近惡遇苦。「為火所逼」一句，是第三，明火起之勢，孔穴之中雖無猛炎猶有熱惱，四禪雖無欲界惡，亦有愛味細苦，故言為火所逼。「共相殘害」下，第四，二行，明被燒之相，明利鈍相奪，諸使眾生得禪是同，所計各異，異故互相是非，如相殘害也。既於禪中起諸見，則不能生無漏定慧，但著默然如「飲血」，又著五支如「噉肉」，「野干」是欲界貪，未來定已斷，故言「並已前死」，亦名「食噉」，禪定之貪如大惡獸能吞欲界貪也。欲界四倒八苦如「猛炎」，色界四倒此苦如「臭煙」，亦通身受心法四大皮肉等，故言「四面充塞」也。
 </div>
 <div class="english-translation">
-[*15-3] Variant: "蟲" in Taisho; "虫" in A-text.
+Below “evil beasts and poisonous [*15‑6] insects,” second, three and a half lines, clarifies the matters in the holes, a parable for the fire arising in the form realm. The various schools explain that anger penetrates the three realms—this is precisely this text. The text is four: first, one line clarifies the kinds that are burned. The samādhi of the four dhyānas is like holes; though it does not reach the openness outside the door, it still can avoid the fierce flames; entering dhyāna still can avoid the coarse evils of the desire realm. Beings of sharp afflictions also attain dhyāna, like Piśāca ghosts also dwelling therein. The phrase “because of scant merit and virtue” is second, the cause of the fire’s arising: because merit is few, one approaches evil and meets suffering. The phrase “pressed by the fire” is third, clarifying the momentum of the fire’s arising: within the holes though there is no fierce flame, there is still heat‑vexation; the four dhyānas though lacking the evils of the desire realm still have subtle suffering of attachment to flavor; therefore it says pressed by the fire. Below “mutually harming each other,” fourth, two lines, clarifies the appearance of being burned: it clarifies the sharp and blunt afflictions seizing each other. The afflictive beings obtain dhyāna in common, but what they count differs; because of difference they mutually affirm and deny, like harming each other. Once various views arise within dhyāna, they cannot produce the uncontaminated samādhi‑wisdom, but cling to silence like “drinking blood,” and also cling to the five branches like “eating meat.” “Foxes” are desire‑realm craving; in the future‑samādhi they have already been cut off, therefore it says “all previously dead,” also named “food‑devouring.” The craving in dhyāna is like great evil beasts that can swallow desire‑realm craving. The desire realm’s four inversions and eight sufferings are like “fierce flames”; the form realm’s four inversions and this suffering are like “smoky stench.” It also extends to body, feelings, mind, and dharmas, the four great elements, skin and flesh, etc.; therefore it says “filling on all four sides.”
 </div>
 </div>
+*[Critical apparatus: [＊15-6] 蟲【大】＊，虫【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [＊15-4] 蟲【大】＊，虫【甲】＊
+蜈蚣下，第三，二行半偈，明空中事，譬無色界火起。為二：初一行，明所燒之類；後一行半，明所燒之相。厭色界定出向無色，厭色麁境觀無色法，如毒蛇類火燒出穴，若爾瞋通三界也。若得無色定必滅下緣，故云「隨取而食」也。非想最頂，猶尚不免顛倒諸苦，如「頭上火然」。非想亦有八苦之火：心生異念名生苦；念念不住名老苦；行心擾擾妨定名病苦；退定是死苦；求定不得是求不得苦；求定不得必有於障，即怨憎會苦；四陰心即五盛陰苦。不能即斷有頂種，故頭上火然也。無無漏故飢渴所惱，[1]猶是輪迴周慞悶走也。「其宅如是」下，第四，一行，總結三界眾難非一，頌總譬竟。
 </div>
 <div class="english-translation">
-[*15-4] Variant: "蟲" in Taisho; "虫" in A-text.
+Below “centipedes,” third, two and a half gāthā lines, clarifies the matters in the open space; it is a parable for the fire arising in the formless realm. It is two: first, one line clarifies the kinds that are burned; afterward one and a half lines clarify the appearance of being burned. Disgusting the form‑realm samādhi, they go out toward the formless; disgusting the coarse form‑realm, they contemplate formless dharmas. It is like poisonous‑snake types being burned by fire and coming out of the holes—if so, anger penetrates the three realms. If one attains the formless samādhi, one must extinguish the lower conditions; therefore it says “taking and eating as one pleases.” The summit of Neither‑Perception‑nor‑Non‑Perception is still not free from the inverted sufferings, like “a fire burning on the head.” Neither‑Perception‑nor‑Non‑Perception also has the fire of the eight sufferings: the mind giving rise to different thoughts is the suffering of birth; thoughts not abiding moment by moment is the suffering of aging; the agitation of the mental processes that obstructs samādhi is the suffering of sickness; falling from samādhi is the suffering of death; seeking samādhi and not obtaining it is the suffering of not obtaining; seeking samādhi and not obtaining it necessarily has obstruction—this is the suffering of meeting with what one hates; the four‑aggregate mind is precisely the suffering of the five blazing aggregates. One cannot immediately cut off the seed of the highest existence, therefore the fire burns on the head. Because there is no uncontaminated [dharma], hunger and thirst afflict, [1] and it is still revolving in saṃsāra, wandering in confusion. Below “the house is like this,” fourth, one line, it generally concludes that the three realms’ many difficulties are not one; the verse of the general parable is finished.
 </div>
 </div>
+*[Critical apparatus: [1] 猶【大】，由【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [19] 熾盛者【大】，轉熾者【甲】
-</div>
-<div class="english-translation">
-[19] Variant: "熾盛者" in Taisho; "轉熾者" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [20] 茶【大】＊，荼【甲】＊
-</div>
-<div class="english-translation">
-[20] Variant: "茶" in Taisho; "荼" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊20-1] 茶【大】＊，荼【甲】＊
-</div>
-<div class="english-translation">
-[*20-1] Variant: "茶" in Taisho; "荼" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [21] 勝【大】，肢【甲】
-</div>
-<div class="english-translation">
-[21] Variant: "勝" in Taisho; "肢" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊15-5] 蟲【大】＊，虫【甲】＊
-</div>
-<div class="english-translation">
-[*15-5] Variant: "蟲" in Taisho; "虫" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [22] 定【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[22] Variant: "定" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊22-1] 定【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[*22-1] Variant: "定" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 如【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "如" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 是【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "是" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 失【大】，出【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "失" in Taisho; "出" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 為我【大】，我為【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "為我" in Taisho; "我為" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 時【大】，復【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "時" in Taisho; "復" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 窺【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "窺" in Taisho; omitted in A-text.
-</div>
-</div>
+
+
+
+
+
 
 ## III. SPECIFIC PARABLE: SEEING FIRE & USING CARTS (Lines 61-90; CBETA 006:61–89)
 
@@ -673,15 +437,8 @@ Below "yaksa and hungry ghosts," second, one and a half lines, generally conclud
 Below “At that time the householder stood outside the door,” there are thirty‑two and a half lines of gāthā, versifying the second specific parable. The specific parable has four; now the verses only versify three: first there are two and a half lines, versifying the elder seeing the fire; second, thirteen lines, versifying the parable of discarding the bench and using carts—stopping the great and giving the small; third, seventeen lines, versifying the parable of bestowing the great cart. The first two and a half lines that versify seeing the fire have three: (1) the one who can see, (2) what is seen, (3) arousing alarm and fear; all are included here. First, below “householder,” the three phrases are the one who can see. Above it clarified “seeing”; now it says “hearing,” using hearing in place of seeing—hearing must come from another. “Standing outside the door” directly versifies the above: “Though I can safely exit through the burning door.” “Standing” means: in the dharmakāya ground[^36] he constantly harbors great compassion[^42], wishing to save beings, and does not sit on the seat of ultimate‑meaning emptiness[^37]. The old explanation says: the Buddhas of the ten directions told Śākyamuni, “You have connected sons in the three realms[^5]; their good roots are about to be extinguished.” It also says: beings’ responsiveness to the Buddha is “another person.” Now we say: the Dharma is the Buddha’s teacher—namely the samādhi dharma[^38]; this Dharma is the teacher, namely “another person” [2]. If one enters samādhi one can see the capacity; samādhi enables the Buddha to see, therefore it says “someone said.” It also says: great compassion is the “other person” (etc.). Below “You sons, etc.,” second, one line and one phrase, it versifies the fire that is seen.
 </div>
 </div>
+*[Critical apparatus: [2] 也【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 也【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "也" in Taisho; omitted in A-text.
-</div>
-</div>
 
 ### 2. Q&A: Entrance of the Sons (Lines 65-72)
 
@@ -751,24 +508,19 @@ Below “Just appropriately rescue,” second, thirteen lines, it versifies disc
 Below “At that time the elder had this thought,” second, seven and a half gāthā versify the above “using carts.” Above there are four: (1) proposing appropriately the three carts, (2) knowing the sons’ prior minds, (3) praising the rarity of the three carts, (4) fitting the sons’ wishes. Now the verse has only three meanings, and it omits versifying “knowing the sons’ prior minds.” The first three lines versify proposing appropriately; below “telling the sons,” second, three gāthā [3] exhort and praise the rarity of the three carts. Above it clarifies the three meanings of exhortation, demonstration, and certification; here it also versifies three meanings, but it re‑versifies exhortation, making four: first, one line versifies exhortation; next, below “goat cart” [4], second, three phrases versify demonstration; next, “you all come out,” third, one phrase, again versifies exhortation; next, below “I will, for you,” fourth, one gāthā, versifies certification. Below “hearing of such carts,” third, one and a half gāthā versifies fitting the sons’ wishes. It now generally versifies the six phrases above: “running” versifies the above seeing‑of‑truths[^43]; “open ground” versifies the above no‑learning[^44].
 </div>
 </div>
+*[Critical apparatus: [3] 勸【大】，〔－〕【甲】; [4] 羊【大】，鹿【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [3] 勸【大】，〔－〕【甲】
+從「長者見子得出火宅」下，第三，有十七行偈，頌上第三等賜大車譬。上文有四：一免難，二索車，三等賜大車，四得車歡喜。今頌亦四：初五[5]行頌免難歡喜；[6]第二，三行，頌索車，[7]第三，七行半，頌等賜，第四，一行半，頌得車歡喜。就初五行頌上諸子免難，又二：初一行，頌免難；次「而自」下，第二，四行，頌歡喜。「坐師子座」者，有二釋：一云，諸子坐座，得出三界故無畏也；二云，是長者坐座，長者見子免難即得無畏，初在門外猶有憂畏故云立，今得出門方坐無畏，故〈方便品〉云「今我喜無畏」。免難文竟。「而自慶」下，第二，四行，頌長者歡喜，如文。「知父安坐」下，第二，三行偈，頌第二索車，如文。「長者大富」下，第三，七行半，頌上第三等賜大車，上文有二章、二廣、二釋，合有[8]五文，今但頌四，不頌廣等心，不頌釋等心。初一行，超頌第四釋大車，屋盛稱庫、地盛曰藏，行具一切法名藏，眼耳六根具一切法名庫(云云)。「次以眾寶物」下，第二，六行偈，頌第三廣大車。次二句頌二章門，「以是妙車」一句，第三，頌第二大車章門。「等賜諸子」一句，第四，頌初等心章門也。「諸子是時歡喜踊躍」下，第四，一行半，頌得車歡喜。「遊於四方」者，乘中道慧，橫遊四種[9]四門、四種四諦，豎遊四十一位、究竟常樂我淨之德，故言嬉戲自在也。
 </div>
 <div class="english-translation">
-[3] Variant: "勸" in Taisho; omitted in A-text.
+Below “the elder saw the sons get out of the burning house,” third, there are seventeen lines of gāthā, versifying the above third parable of equally bestowing the great cart. Above, the prose has four: (1) escaping difficulties, (2) asking for the cart, (3) equally bestowing the great cart, (4) rejoicing on obtaining the cart. Now the verse also has four: first, five [5] lines verse escaping difficulties and rejoicing; [6] second, three lines verse asking for the cart; [7] third, seven and a half lines verse equal bestowal; fourth, one and a half lines verse rejoicing on obtaining the cart. As for the first five lines versifying the sons’ escape from difficulty, it is also two: first, one line verses escaping difficulties; next, below “and they themselves,” second, four lines verse rejoicing. As for “sitting on the lion seat,” there are two explanations: one says the sons sit on the seat—because they have escaped the three realms they are without fear; two says it is the elder sitting on the seat—the elder sees the sons escape difficulties and then obtains fearlessness. At first he was outside the gate and still had worry and fear, therefore he is said to “stand”; now having gotten out of the gate he then sits without fear. Therefore the *Skillful Means* chapter says, “Now I rejoice without fear.” The text on escaping difficulties ends. Below “and they themselves rejoiced,” second, four lines verse the elder’s rejoicing, as in the text. Below “knowing the father sits safely,” second, three lines of gāthā verse the second, asking for the cart, as in the text. Below “the elder is greatly wealthy,” third, seven and a half lines verse the above third, equal bestowal of the great cart. Above there are two chapter‑gates, two expansive explanations, and two explanations—together there are [8] five passages; now it only verses four, not versifying the expansive equal‑mind and not versifying the explanation of equal‑mind. The first one line, in advance, verses the fourth explanation of the great cart: a house that holds is called a treasury; ground that holds is called a storehouse; practices that contain all dharmas are called “storehouse”; the six roots of eye and ear that contain all dharmas are called “treasury” (etc.). Below “next, with many precious things,” second, six lines of gāthā verse the third, the vast great cart. The next two phrases verse the two chapter‑gates; the phrase “with this wondrous cart,” third, verses the second chapter‑gate of the great cart. The phrase “equally bestow to the sons,” fourth, verses the first chapter‑gate of equal mind. Below “the sons at that time rejoiced and leapt,” fourth, one and a half lines verse rejoicing on obtaining the cart. As for “wandering in the four directions,” they ride the wisdom of the Middle Way, horizontally roaming the four kinds of [9] four gates and the four kinds of four truths; vertically roaming the forty‑one stages and the virtues of ultimate permanence, bliss, self, and purity; therefore it says they play freely.
 </div>
 </div>
+*[Critical apparatus: [5] 行頌【大】，頌行【甲】; [6] 第【大】，次第【甲】; [7] 第【大】，次第【甲】; [8] 五【大】，六【甲】; [9] 四【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 羊【大】，鹿【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "羊" in Taisho; "鹿" in A-text.
-</div>
-</div>
+
 
 ## IV. COMBINING THE PARABLES AND ADMONITION (Lines 90-125; CBETA 006:90–125)
 
@@ -782,15 +534,8 @@ Below “At that time the elder had this thought,” second, seven and a half g�
 Below “Telling Śāriputra, I am also like this,” second, thirty‑four and a half lines, this is the verse that combines the parable. The first four lines verse the combined general parable; it only makes four meanings and thereby also attains six parables. “I am also like this,” one line, verses the combined elder: the upper half verses the combined rank and title; the lower half verses the combined name and conduct and also praises the virtue‑meaning. [He is] honored among the sages of the seven kinds of expedients[^45], the father of the nine kinds of worlds[^46]. “All living beings are my sons,” one gāthā, verses the combined five paths[^22], and by meaning also includes the thirty sons. The thirty sons are children of the conditioned cause[^47]; all living beings are precisely children of the proper cause[^47]. “The three realms[^5] have no peace,” half a gāthā, verses the combined house‑and‑dwelling, and also attains the meaning of the one door. “Many sufferings fill [it],” one and a half gāthā, verses the combined arising of the fire. The combined general parable ends [10].
 </div>
 </div>
+*[Critical apparatus: [10] 也【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [10] 也【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[10] Variant: "也" in Taisho; omitted in A-text.
-</div>
-</div>
 
 ### 2. Combining the Specific Parable (Lines 94-105)
 
@@ -811,60 +556,13 @@ From “The Tathāgata has already left the burning house of the three realms,�
 Below “Although I nevertheless teach and instruct,” second, four lines, it verses the parable of discarding the bench and using carts, in two: the first one line verses discarding the bench, etc. In the opening parable there are three—proposing appropriately, no capacity, and ceasing the transformation; now this one gāthā also has three meanings, but in a general abridgment. The phrase “Although I nevertheless teach and instruct” verses proposing appropriately; the phrase “yet they do not believe and accept” verses no capacity; the next two phrases [1] verse ceasing the transformation; or it could be that the next two verse no capacity. “Because craving and attachment are deep [2]” verses the above “not yet avoiding birth, aging, sickness, death, sorrow, grief, suffering, [3] vexation, etc.” Below “By these expedient means”[^45], second, three gāthā, it verses the combined parable of using carts to rescue the sons and obtain [them]. Above there are four; now it only verses three; the combining also is three, and it omits combining “knowing the sons’ prior minds.” First, the phrase “by these expedient means” verses the above “only using wisdom‑expedients to propose appropriately”; from “to speak the three vehicles” below, [4] second, one line and one phrase, verses the combined above third “praising the rarity of the three carts”; below “these sons, etc.” third, one line and a half, verses the combined fourth “fitting their wishes.” Above, in the combining, each of the three vehicles has four phrases; now it generally verses them. “If the mind is determined” means: from the dharma‑patience with respect to suffering[^48] and above is true determination; this one phrase generally verses the stage of running of the three vehicles[^21]; afterward, the line below “complete” separately verses the stage of scrambling to get out of the three vehicles [*5‑1].
 </div>
 </div>
+*[Critical apparatus: [1] 頌【大】，頌合【甲】; [2] 深【大】，染【甲】; [3] 惱【大】，〔－〕【甲】; [4] 第二【大】，〔－〕【甲】; [5] 乘【大】＊，家【甲】＊; [＊5-1] 乘【大】＊，家【甲】＊]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 頌【大】，頌合【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "頌" in Taisho; "頌合" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 深【大】，染【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "深" in Taisho; "染" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 惱【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "惱" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 第二【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "第二" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 乘【大】＊，家【甲】＊
-</div>
-<div class="english-translation">
-[5] Variant: "乘" in Taisho; "家" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊5-1] 乘【大】＊，家【甲】＊
-</div>
-<div class="english-translation">
-[*5-1] Variant: "乘" in Taisho; "家" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -930,15 +628,8 @@ Below “if there are bodhisattvas,” second, twelve lines, it verses the combi
 Below “actually not yet obtained,” third, three gāthā, it explains that once the obstacles are removed and the faculties are again sharp, he returns to carry out the original intent and give the Great Vehicle Dharma. The Buddha originally wished to give all liberation; now you have only begun to cut off segmental [birth‑and‑death][^56], this is not Great Nirvāṇa[^57]. Because you have not yet obtained everything, in the end it still does not match the original intent; therefore it says, “My intent is not to make [you] reach extinction.” Now he again causes [them] to obtain the unsurpassed path[^58] and enter Great Nirvāṇa[^57]; this is ultimately matching the Buddha’s original intent. All liberation is precisely the unconstructed cessation truth[^59]; the unsurpassed path is precisely the unconstructed path truth[^59]. He uses the two truths[^60] to break the unconstructed suffering‑and‑accumulation; formerly he wished to speak this but [6] these beings were not capable; once the obstacles are removed he again speaks this. The Buddha is the Dharma‑king; with respect to provisional and real dharmas he already has mastery[^61]; opening the three and revealing the one real, how could there be falsity?
 </div>
 </div>
+*[Critical apparatus: [6] 此【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 此【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "此" in Taisho; omitted in A-text.
-</div>
-</div>
 
 ### 4. Method of Propagation (Lines 111-125)
 
@@ -950,6 +641,7 @@ Below “actually not yet obtained,” third, three gāthā, it explains that on
 Below “You, Śāriputra, this Dharma‑seal of mine,”[^62] [7] sixth, fifteen lines of gāthā, it exhorts faith and propagation. “Faith” means believing in what the Buddha speaks and does not speak; “exhortation” means exhorting what can be passed on and what cannot; because there are these two meanings [8], it is called “exhorting faith.” The text has two: (1) marking the two chapters, (2) explanation. First, one line marks the “speaking / not speaking” chapter: the Tathāgata speaks this Dharma‑seal in order to benefit the world; “not speaking” means that for more than forty years it was not the time to speak, and because the five thousand had not yet departed, therefore he did not speak. Next, below “in the places [1] he roams,” the half‑line marks the “can pass / cannot pass” chapter: do not recklessly propagate. For evil people, to forcefully speak causes them to fall into suffering; for good people, not speaking wrongly makes them lose joy. If with great compassion one pities the evil, one therefore does not pass [it on]; if with great kindness one thinks of the good, one should pass [it on]. This is called marking the “can pass / cannot pass” chapter.
 </div>
 </div>
+*[Critical apparatus: [7] 六十五【大】，第二六十五【甲】; [8] 有此【大】，此有【甲】; [1] 所【大】，〔－〕【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -959,51 +651,12 @@ Below “You, Śāriputra, this Dharma‑seal of mine,”[^62] [7] sixth, fiftee
 From “if there are those who hear,” this is the second, the explanation; it is again two: first eight lines explain what can be spoken and what cannot be spoken; second, fifty and a half lines explain what can be passed on and what cannot be passed on. Now the first eight lines clarify the Tathāgata’s manner of benefiting the world. It generally discusses benefits across the three times, and separately discusses enabling the two vehicles[^21] to enter faith. “Avinivartaniya”[^63] is observing the present benefit; “formerly seen” is observing the past benefit and speaking for it. “Believing you and me” is observing the future benefit and speaking for it; the text below says, “If one deeply believes and understands, one sees the Buddha constantly abiding at Vulture Peak,”[^64] which is precisely its meaning. This *Lotus Sūtra*[^65] one line [2] concludes what is above and opens what is below: the Tathāgata observes and knows the three‑time benefits, therefore he speaks; if shallow wisdom does not understand, he does not speak. This explains the Tathāgata’s “speaking / not speaking” chapter [3].
 </div>
 </div>
+*[Critical apparatus: [2] 是【大】，〔－〕【甲】; [3] 也【大】，竟【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 六十五【大】，第二六十五【甲】
-</div>
-<div class="english-translation">
-[7] Variant: "六十五" in Taisho; "第二六十五" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 有此【大】，此有【甲】
-</div>
-<div class="english-translation">
-[8] Variant: "有此" in Taisho; "此有" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 所【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "所" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 是【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "是" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 也【大】，竟【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "也" in Taisho; "竟" in A-text.
-</div>
-</div>
 ### 5. Explaining the Can‑Pass / Cannot‑Pass Chapter (Lines 126-160)
 
 <div class="bilingual-row">
@@ -1014,51 +667,12 @@ From “if there are those who hear,” this is the second, the explanation; it 
 From “arrogant and lazy”[^66] below, it explains the chapter on whether practitioners [4] can or cannot be passed [the Dharma]; it is again two. First, thirty‑six and a half lines: it clarifies that if one uses the gate of great compassion[^42], one must not speak to the evil—first list the evil kinds; they will surely arouse evil slander and obtain evil retribution; therefore, by great compassion one must not speak [to them]. “Cutting off the worldly Buddha‑seed” means: the *Vimalakīrti Sūtra*[^69] takes afflictions[^67] as the Tathāgata‑seed[^68]; this takes the nature of objects/realm. The *Mahāprajñāpāramitā Sūtra*[^70] takes the wisdom of all modes[^71] as learning prajñā[^72]; this takes the illuminating‑cause nature[^73] as the Buddha‑seed. The *Mahāparinirvāṇa Sūtra*[^74] uses mind‑nature‑principle as not cut off; this takes the proper‑cause nature[^47] as the Buddha‑seed. This sūtra clarifies that small good [deeds] become Buddhahood; this takes the conditioned cause[^47] as the Buddha‑seed. If one does not believe that small good becomes Buddhahood, one then cuts off the worldly Buddha‑seed. Below “if there are those of sharp faculties,” nineteen lines, it explains that when propagating the sūtra one uses the gate of great kindness[^75]; good people should be taught so they do not lose joy. The essentials of propagation are to harmonize the two gates and make them obtain their proper place; this is good transmission. If they do not obtain their proper place, that is reckless propagation. The text is two: the first seventeen lines have five pairs and ten marks of good people who can be taught; the latter two lines conclude that they should be spoken to. First, past/present as one pair: “sharp faculties” is present; “[6] planted good” [7] is past; “strong memory” is present; “seeing a hundred thousand” is past. Second, above/below as one pair: “cultivating kindness” is pitying below; “reverent” is honoring above. Third, inner/outer as one pair: “abandoning evil and drawing near good” is seeking outward; “holding precepts like pearls” is guarding inward. Fourth, self‑practice and transforming others as one pair: “upright and revering the Buddha” is self‑practice; “speaking Dharma by parables” is transforming others. Fifth, beginning/end as one pair: “seeking Dharma in the four directions” is the beginning of requesting benefit; “receiving at the crown and exclusively cultivating” is the end of reliance (etc.). Below “Telling Śāriputra,” two lines, it concludes. There are many good believers; it briefly raises ten marks to show the methods of propagation, revealing the main essentials of the two gates of compassion—what can be passed on and what cannot. [8]
 </div>
 </div>
+*[Critical apparatus: [4] 人【大】，人通【甲】; [5] 智學【大】，覺【甲】; [6] 植【大】，殖【甲】; [7] 是【大】，〔－〕【甲】; [8] 法華文句卷第五終【甲】，法隆寺本奧書云僧琳兌之本，法隆寺五師大法師覺印修複之康治元年壬戌五月日傳得之]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 人【大】，人通【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "人" in Taisho; "人通" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 智學【大】，覺【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "智學" in Taisho; "覺" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 植【大】，殖【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "植" in Taisho; "殖" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 是【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[7] Variant: "是" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 法華文句卷第五終【甲】，法隆寺本奧書云僧琳兌之本，法隆寺五師大法師覺印修複之康治元年壬戌五月日傳得之
-</div>
-<div class="english-translation">
-[8] A‑text colophon: “End of *Fahua Wenju*[^76], fascicle five.” The Hōryū‑ji manuscript postscript says this is the copy of the monk Lin‑dui; it was restored by the fifth master‑great‑dharma‑teacher Jueyin at Hōryū‑ji and transmitted on the first year of Kōji (ren‑xu), fifth month.
-</div>
-</div>
 
 ---
 
@@ -1072,15 +686,8 @@ From “arrogant and lazy”[^66] below, it explains the chapter on whether prac
 [9] Explaining the “Belief and Understanding” chapter.
 </div>
 </div>
+*[Critical apparatus: [9] 法花文句卷第六首【甲】，但卷題下無天台智者大師說七字]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [9] 法花文句卷第六首【甲】，但卷題下無天台智者大師說七字
-</div>
-<div class="english-translation">
-[9] A‑text note: “Beginning of *Fahua Wenju*, fascicle six”; beneath the scroll title the seven characters “spoken by the Great Master Tiantai Zhizhe” are absent.
-</div>
-</div>
 ## I. INTERPRETING THE TITLE (Lines 127-131; CBETA 006:127–131)
 
 ### 1. Critique of Old Definitions (Lines 131)
@@ -1093,24 +700,9 @@ From “arrogant and lazy”[^66] below, it explains the chapter on whether prac
 Some say there are three dharmas of “belief and understanding”: one‑time transformation[^77], following transformation[^77], and ultimate transformation[^77]. Formerly speaking the Great [Vehicle] is the one‑time; afterward turning away from the Great is the following; the father and son meeting is the ultimate. [10] Moreover, human‑and‑heaven good[^78] is the one‑time; speaking the Small Vehicle to match the *Lotus Sūtra*[^65] is the following; speaking the *Lotus* and receiving prediction[^80] is the ultimate. Moreover, initially speaking the two vehicles[^79] is the one‑time; turning‑teaching[^81] is the following; the *Lotus* is the ultimate. Moreover, turning‑teaching is the one‑time; passing through the Vaipulya teachings[^82] is the following; awakening the One Vehicle[^53] is the ultimate. Moreover, saying the *Lotus* is the one‑time; the ten bhūmis’ constant teaching[^83] is the following; reaching the diamond‑mind[^84] is the ultimate. Moreover, “jiesengna”[^85] is the one‑time; the middle [stage] is the following; attaining Buddhahood is the ultimate. I privately say these explanations overlap; jade dust is not treasure. The one‑time is not the original intent; the ultimate is the doctrinal summit. Saying humans‑and‑heavens and the two vehicles are the one‑time is surely not the original intent. Formerly he spoke the Great; now he speaks the *Lotus*—[11] this is the ultimate; how can it be called the one‑time? If the *Lotus* is ultimate and yet becomes the one‑time, then the human‑and‑heaven one‑time becomes ultimate, which is a great inversion. Moreover, if the two vehicles are the one‑time, the “grass‑hut” must be broken; if the former Great is the one‑time, the “tied pearl” must also be broken.[^86] If one is broken and one is not broken, one is one‑time and one is not one‑time. Moreover, if the father and son meeting is the ultimate, the earlier ultimate should be awakening to the one; then the later ultimate has no further use. If the later ultimate is when one awakens to the one, the earlier ultimate is not ultimate. At each step there is obstruction; now all are not used.
 </div>
 </div>
+*[Critical apparatus: [10] 又【大】，又云【甲】; [11] 箇【大】，筒【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [10] 又【大】，又云【甲】
-</div>
-<div class="english-translation">
-[10] Variant: "又" in Taisho; "又云" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [11] 箇【大】，筒【甲】
-</div>
-<div class="english-translation">
-[11] Variant: "箇" in Taisho; "筒" in A‑text.
-</div>
-</div>
 
 ### 2. Tiantai Definition of Belief and Understanding
 
@@ -1122,15 +714,8 @@ Some say there are three dharmas of “belief and understanding”: one‑time t
 Some say this chapter is Trace[^87]. Why? The Tathāgata attained the Way long ago; even the intermediate pause is also trace. I privately say: in principle that is so, but in the text it is not fitting. Why? The Buddha has not yet spoken of origin‑and‑trace; how could one prematurely take it? If they have not yet understood the three vehicles[^21], they should already have awakened to the One Vehicle[^53] (etc.). Now, to explain the chapter: roots have sharp and blunt; defilements have thick and thin; the teaching has Dharma and parable; realization has earlier and later. Before the Lotus seat they were like peas; the text says, “The Tathāgata has spoken the Dharma for a long time; at that time, sitting in the assembly, my body was weary and slack; I only thought of emptiness, signlessness, and wishlessness[^88], and toward the Bodhisattva‑Dharma I did not have a single thought of delight.” At first, hearing the brief explanation stirred attachment and gave rise to doubt; hearing broadly of the five Buddhas[^89] they were fogged and did not understand; now, hearing the parable, they rejoice and leap; faith arises, understanding is born, doubt departs, principle becomes clear. Rejoicing is the Worldly Siddhānta, faith arising is the Individual Siddhānta, doubt departing is the Therapeutic Siddhānta, and principle becoming clear is the First‑Principle Siddhānta[^90]. By these causes and conditions, it is called the “Belief and Understanding” chapter. Receiving the small and great teachings[^92], at first they [12] transform from ordinary to sage, each with its own successive stages. For the Small Vehicle, the faith‑practice person[^91] produces understanding from hearing; when the dharma‑patience of suffering[^48] becomes manifest, the arising of faith is called “practice.” The dharma‑practice person[^91] observes the Dharma through the stages; when the dharma‑patience of suffering becomes manifest, the arising of Dharma is called “practice.” If one is a faith‑practice person, upon entering the path of cultivation[^93] one is renamed “belief and understanding”; if one is a dharma‑practice person, upon entering the path of cultivation one is renamed “seeing and attaining.” Taking the small to view the great, it should also be like this. Those of middle roots[^95], hearing the parable, first break doubt and enter the Great Vehicle path of seeing[^93], therefore it is named “faith”; entering the Great Vehicle path of cultivation[^93], therefore it is named “understanding.” The text says, “The unsurpassed treasure‑collection is obtained without seeking; today we are truly śrāvakas[^52].” By the Buddha‑way sound he causes all to hear; hearing the perfect teaching and entering the perfect stage[^94], therefore it is called the “Belief and Understanding” chapter. As for origin and trace: the four great disciples have long entered the Great Vehicle and accomplished Buddha‑dharma; by trace he leads the middle‑rooted and shows initial belief and understanding; therefore it is called the “Belief and Understanding” chapter.
 </div>
 </div>
+*[Critical apparatus: [12] 革【大】，隔【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [12] 革【大】，隔【甲】
-</div>
-<div class="english-translation">
-[12] Variant: "革" in Taisho; "隔" in A‑text.
-</div>
-</div>
 
 ## II. THE NARRATORS (PROSE) (Lines 131+)
 
@@ -1142,24 +727,9 @@ Some say this chapter is Trace[^87]. Why? The Tathāgata attained the Way long a
 This is the section of receiving‑understanding: nearby it receives the burning‑house [parable], and distantly it receives the expedients[^45]. The text is two: (1) the sūtra narrator narrates rejoicing; (2) addressing the Buddha [13], they self‑report. First it narrates the inner mind, next it narrates the outer reverence. Subhūti alone is called “Wisdom‑Life”[^96]. As for the three who are Mahā[^97]: generally speaking all are great and all have wisdom; specifically, Subhūti understands emptiness, and emptiness‑wisdom is his life—this is in terms of practice. Among all wise persons, Buddha‑wisdom is foremost. In the *Prajñā*[^72] [sūtra], the Buddha commands him to turn the teaching; because he is commanded by the wise, therefore [14] it is called “Wisdom‑Life.” The three disciples were commanded less; they do not take emptiness as the basis of practice—this is in terms of teaching. “Mahā” is as explained above (etc.). The reason for joy: in the distance they heard the expedient five‑section Dharma‑teaching; the sūtra narrator only narrates two kinds—hearing the rare Dharma and hearing the prediction[^80]. It may be that “hearing the rare Dharma” narrates four sections, and “seeing the prediction” is the fifth section. Thus hearing and seeing what was previously never; this is the reason for joy. “Arousing the rare mind” means: narrating that upon recently hearing the four rounds of the parable‑explanations, a rare mind arises; because the mind arises, it is named “faith.” Because of faith one enters; entering the stage of joy—this is precisely the meaning of the “Belief and Understanding” chapter. “Rising from the seat” narrates outer reverence, as in the text. By example of Śāriputra, it should also be the three karmas[^98] receiving understanding; following earlier, it can be explained. Below “Addressing the Buddha,” by mouth they self‑report. The text is two: first, the long‑prose and seventy‑three and a half gāthā[^1] directly state the obtained understanding; second, thirteen gāthā praise the Buddha’s deep恩. This understanding comes from the Buddha; therefore first state, then praise.
 </div>
 </div>
+*[Critical apparatus: [13] 自陳【大】，陳自【甲】; [14] 云【大】，言【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [13] 自陳【大】，陳自【甲】
-</div>
-<div class="english-translation">
-[13] Variant: "自陳" in Taisho; "陳自" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [14] 云【大】，言【甲】
-</div>
-<div class="english-translation">
-[14] Variant: "云" in Taisho; "言" in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1198,100 +768,40 @@ Below “we now before the Buddha,” it states the reason for obtaining underst
 From “World‑Honored One, we delight to speak parables” below, this is the broad receiving‑understanding. It has opening‑parable and combining‑parable; wishing to open, first consult and arouse (etc.). The parables are five: (1) from “abandoning the father and fleeing away” below, named the parable of father and son losing each other; near it receives the burning‑house general parable, far it receives the expedients[^45] in brief verse. (2) From “the poor son hires himself out” below, named the parable of father and son seeing each other; near it receives the burning‑house seeing‑the‑fire [parable], far it receives the expedients: “I, with the Buddha‑eye, see.” (3) From “[1] immediately dispatches someone to urgently chase and bring back” below, named the parable of chasing and luring; near it receives the burning‑house discarding the bench and using carts, far it receives the expedients: withholding the great and giving the small. (4) From “after this the minds mutually trust” below, named the parable of fully knowing the household business; this does not receive the near/far above, but rather pursues the intent of Vaipulya admonition[^82] and the *Mahāprajñāpāramitā* turning‑teaching[^70]. (5) From “[2] again after [3] a short time the father knows the son’s intent” below, named the parable of bequeathing the household business; near it receives the burning‑house giving one great cart, far it receives the Dharma‑exposition’s “directly abandoning expedients” [4]. Moreover, combining the fourth and fifth together makes one parable of receiving and entrusting; below its meaning is explained again. Formerly, using the Western Infinite‑Life Buddha[^107] to combine with the elder, now we do not use it. The Western Buddha is distinct and the conditions are different: because the Buddhas are distinct, the meaning of concealment and revelation[^112] does not stand; because the conditions are different, the meaning of father and son does not stand. Moreover, at the beginning and end of this sūtra there is entirely no such intent—this is drilling and chiseling with eyes closed. Now, relying on the text and attaching the meaning: if explaining the poor son, take the two‑vehicle people[^79] and use the half‑character Dharma[^108] to interpret the text; if explaining the elder, take the Lushena Buddha[^109] and use the full‑character Dharma‑gate[^108] to interpret the text. Why? The elder inside the house removes [6] necklaces and puts on dirty clothing; the clothing’s [*6‑1] necklaces differ, but the person [7] is just one. This is a parable: the Lushena Buddha hides immeasurable divine virtues and shows a sixteen‑foot golden radiance[^110], holding the dung‑vessel[^111] and setting up the three‑vehicle teaching[^21]. Concealing and revealing differ; how could there be a difference of body? Even nearby, the wearing and removing of Śe‑na are not yet understood; [A3] Amitābha is far away—how could he change (etc.)?
 </div>
 </div>
-
+*[Critical apparatus: [1] 即【大】＊，則【甲】＊; [2] 復【大】，又【甲】; [3] 少【大】，小【甲】; [4] 便【大】，便意也【甲】; [5] 銷【大】＊，消【甲】＊; [＊5-1] 銷【大】＊，消【甲】＊; [6] 纓【大】＊，瓔【甲】＊; [＊6-1] 纓【大】＊，瓔【甲】＊; [7] 秖【大】，只【甲】; [A3] 彌【CB】，爾【大】]*
 <div class="bilingual-row">
 <div class="chinese-source">
-    [1] 即【大】＊，則【甲】＊
+父子相失譬[8]又為四：一、子背父去，二、父求子中止，三、子遇到本，四、其父憂念。四段各兩。初[9]兩者：一、背父而去，領總譬中五百人。昔結大乘子父，尋復失解流浪五道，故言「或十二十至五十歲」，通是佛子，子義微弱故言「幼稚」，非結緣己界，故言「久住他國」；二者向本而還，領總譬三十子。此緣有微著之義故言「長大」，緣既經苦關佛大悲，故言「遇到本國」。[10]父求子而止為兩者：一、父求子不得，領總譬中長者。從眾生退大之後，伺其大機未得其會，故言「不得」；二、中止一城，「其家」者，領總譬中宅，「大富」者，領總譬中長者德業內外財富意耳。[11]子到父城為[12]二：一、到城之由，領火起苦惱之相。從退大已後，處處遊歷備嬰辛苦；二遂到父城者，以苦為機扣於大悲，故言遂到父城。[13]其父憂喜[＊1-1]即是兩者：一、念失子[14]苦，二、念得子樂，領總譬中一門。子既幼稚取門不當動父之憂，元以此門通之，故動父之喜。分章竟。
 </div>
 <div class="english-translation">
-[1] Variant: "即" in Taisho; "則" in A‑text.
+Moreover, the parable of the father and son losing each other [8] is again four: (1) the son turns his back on the father and goes away, (2) the father seeks the son and stops in the middle, (3) the son meets and arrives at the origin, (4) the father worries and rejoices. Each of the four sections has two. The first [9] two are: first, turning away from the father and leaving, receiving the five‑hundred people in the general parable. In the past they formed a Great Vehicle father‑son connection; then they again lost understanding and wandered in the five paths, therefore it says “or twelve, twenty, to fifty years.” Generally they are Buddha‑sons; because the son‑meaning is weak it says “young and tender”; because they have not formed an affinity within their own realm, it says “long dwelling in another land.” Second, returning toward the origin, receiving the thirty sons of the general parable. Because this affinity has a slight attachment, it says “grown”; because the affinity has already undergone suffering and connects with the Buddha’s great compassion, it says “meeting the original country.” [10] The father seeking the son and stopping is two: first, the father seeks the son and does not find him, receiving the elder in the general parable. After beings retreat from the Great, he waits for their great capacity but has not yet met it, therefore it says “not found.” Second, stopping in a city: “his house” receives the house in the general parable; “great wealth” receives the elder’s inner‑and‑outer wealth of virtue and enterprise. [11] The son arriving at the father’s city is [12] two: first, the cause of arriving at the city receives the appearance of fire‑arising suffering and distress. After retreating from the Great, they wander everywhere and fully undergo hardships. Second, the son then arriving at the father’s city: using suffering as the capacity, he knocks at great compassion, therefore it says arriving at the father’s city. [13] The father’s worry and joy [*1‑1] are two: first, thinking of the suffering [14] of losing the son; second, thinking of the joy of obtaining the son, receiving the one gate in the general parable. Since the son is young and does not properly take the gate, it does not stir the father’s worry; originally it is through this gate that he leads him, therefore it stirs the father’s joy. The division of sections is complete.
 </div>
 </div>
+*[Critical apparatus: [8] 又【大】，文【甲】; [9] 兩【大】，二【甲】; [10] 父【大】，二父【甲】; [11] 子【大】，三子【甲】; [12] 二【大】，二者【甲】; [13] 其【大】，四其【甲】; [＊1-1] 即【大】＊，則【甲】＊; [14] 苦【大】，之苦【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 復【大】，又【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "復" in Taisho; "又" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 少【大】，小【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "少" in Taisho; "小" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 便【大】，便意也【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "便" in Taisho; "便意也" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 銷【大】＊，消【甲】＊
-</div>
-<div class="english-translation">
-[5] Variant: "銷" in Taisho; "消" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊5-1] 銷【大】＊，消【甲】＊
-</div>
-<div class="english-translation">
-[*5-1] Variant: "銷" in Taisho; "消" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 纓【大】＊，瓔【甲】＊
-</div>
-<div class="english-translation">
-[6] Variant: "纓" in Taisho; "瓔" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊6-1] 纓【大】＊，瓔【甲】＊
-</div>
-<div class="english-translation">
-[*6-1] Variant: "纓" in Taisho; "瓔" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 秖【大】，只【甲】
-</div>
-<div class="english-translation">
-[7] Variant: "秖" in Taisho; "只" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [A3] 彌【CB】，爾【大】
-</div>
-<div class="english-translation">
-[A3] Variant: "彌" in CBETA; "爾" in Taisho.
-</div>
-</div>
+
 
 ## VI. DETAILED PARABLE: PART 1 - LOSING AND SEEKING (Lines 161-200; CBETA 006:161–200)
 
 ### 1. The Son Leaving the Father (Lines 161-170)
+
+<div class="bilingual-row">
+<div class="chinese-source">
+[＊5-2]銷文者，初、子背父去有二：初、「譬如有人」，領二十子譬二乘人，菩薩位行難知，且齊已領耳。「年既幼[15]穉者」，舊云，聞法少為稚，若爾下文云長大，應是聞法多？今以無明厚重覆障解心，解心無力故言「幼稚」，善根熏被稍稍欲著名為「長大」。「捨父逃逝」者，退大為捨，無明自覆曰逃，趣向生死為逝。
+</div>
+<div class="english-translation">
+[*5‑2] Exegesis of the text: first, the son turning his back on the father and going away has two. First, “for example there is a person,” receives the twenty sons and is a parable for the two‑vehicle people; the bodhisattva stages and practices are difficult to know, so for now we match only what has already been received. “Year already young [15] and tender”: the old explanation says that hearing little Dharma is called “tender”; if so, the later text says “grown,” which would mean hearing much Dharma? Now we say: because ignorance is thick and heavy and covers the understanding‑mind, the understanding‑mind has no power, therefore it is called “young and tender.” Because good roots are perfumed and coated, and little by little one wishes to attach, this is called “grown.” “Abandoning the father and fleeing away”: retreating from the Great is “abandoning”; ignorance covering itself is “fleeing”; moving toward birth and death is “going away.”
+</div>
+</div>
+*[Critical apparatus: [＊5-2] 銷【大】＊，消【甲】＊; [15] 穉【大】，稚【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1311,15 +821,8 @@ From “World‑Honored One, we delight to speak parables” below, this is the 
 **“Long dwelling in another land”:** The nirvāṇa‑dharma realm[^103][^115] is the Buddha’s own land; birth‑and‑death with the five desires[^116] is the other land. Originally seeking escape but falling back and not returning, therefore it is called “long dwelling.” “Or ten” is the heavenly path, “twenty” the human path, “fifty” the five paths[^22]; within a single person the revolving of the paths is fully present.
 </div>
 </div>
+*[Critical apparatus: [16] 反【大】＊，返【甲】＊]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [16] 反【大】＊，返【甲】＊
-</div>
-<div class="english-translation">
-[16] Variant: "反" in Taisho; "返" in A‑text.
-</div>
-</div>
 
 ### 2. Returning Towards the City (Lines 174-181)
 
@@ -1333,31 +836,17 @@ Below “year already grown,” second, returning toward the country: “young�
 “Gradually wandering, meeting toward the original country”: this clarifies that one detests suffering, hopes for release, and wrongly seeks nirvāṇa; although not the original intent, one still meets the Buddha, therefore it says “meeting toward”; the “original country” is as explained above. Below it clarifies how city and house are distinguished: all Buddha‑dharmas are the country—this meaning is broad; “city” speaks of the narrower and more guarded: the nirvāṇa of severance‑virtue, which prevents wrong and wards off evil, is the city; “house” speaks still more intimate: great compassion of the same substance is the house.
 </div>
 </div>
+*[Critical apparatus: [＊16-1] 反【大】＊，返【甲】＊; [1] 之【大】，諸【甲】; [A4] 經【CB】，輕【大】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [＊16-1] 反【大】＊，返【甲】＊
+「時貧窮子遊諸聚落」下，第三，是子還近父譬。此亦二：一、求衣食，二、到父城。初內合退大乘已，備遭諸苦深起厭患，欲求出離取理不中，致成邪僻。因邪慧歷心易可入正，以求出世為感佛由也。觀察五陰為「聚落」，十二入為「邑」，十八界為「國」，歷此求理名「求衣食」。二、「遂到其父所止」下，此是正向。「其父所止之城」者，苦境為機，感佛大悲名為到城，城即涅槃，涅槃通半滿，眾生習解可有得涅槃之義，故言到城。
 </div>
 <div class="english-translation">
-[*16-1] Variant: "反" in Taisho; "返" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 之【大】，諸【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "之" in Taisho; "諸" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [A4] 經【CB】，輕【大】
-</div>
-<div class="english-translation">
-[A4] Variant: "經" in CBETA; "輕" in Taisho.
+Below “At that time the poor son wandered among the settlements,” third, this is the parable of the son returning near the father. This also has two: first, seeking clothing and food; second, arriving at the father’s city. First, internally it corresponds to: after retreating from the Great Vehicle, one fully undergoes various sufferings, deeply gives rise to weariness and affliction, and wishes to seek escape but takes principle incorrectly, thus becoming deviant. Because the deviant wisdom traverses the mind, it is easy to enter the correct [path]; seeking to transcend the world becomes the cause that moves the Buddha. Observing the five aggregates is “settlements,” the twelve sense‑bases are “towns,” the eighteen elements are “countries”; traversing these seeking principle is called “seeking clothing and food.” Second, below “then arrived at the father’s dwelling,” this is the direct turning‑toward. “The city where the father dwells” means: suffering conditions are the capacity that moves the Buddha’s great compassion, therefore it is called arriving at the city. The city is nirvāṇa; nirvāṇa includes both half and full; beings’ habitual understanding can have the meaning of attaining nirvāṇa, therefore it says arriving at the city.
 </div>
 </div>
 
@@ -1378,15 +867,8 @@ Below “the father previously came seeking the son but did not find him,” sec
 “The merchants and traders are also very numerous” means: bodhisattvas are merchants, and they again travel through the three lands seeking Dharma‑profit, therefore they are called numerous. Bodhisattvas of this land go to other regions to hear the Dharma; great beings from other regions come here to hear the sūtra; going and coming they gather profit. Moreover, the response and transformation bodies[^138] are like traders: bringing the real Dharma through the three lands, transforming and benefiting beings and returning to the dharma‑body[^36], therefore they are called very numerous. It is like people in the world who cause others to grasp wealth and flourish, and themselves also flourish.
 </div>
 </div>
+*[Critical apparatus: [2] 相【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 相【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "相" in Taisho; omitted in A‑text.
-</div>
-</div>
 
 ### 4. Father's Anxiety and Regret (Lines 183-200)
 
@@ -1410,57 +892,13 @@ Below “the father always thinks of the son,” fourth, this is the parable of 
 **Answer:** Those transformed by the dharma‑body are originally without rise or decline—who speaks of old and worn out? This is not the matter. Now we clarify that the retinue of the transformation body[^147][^146] has two kinds: first, dharma‑body great beings; their marks are like echoes and responses; though their traces are disciples, originally they may be teachers; he also does not, in terms of this, think himself old and worn out. Second are common‑dwelling ordinary beings, who from the transforming Buddha first aroused the mind of the Way; these are called sons. When the son continues the father’s enterprise, the lineage does not break: if Śāriputra receives the prediction[^149] and becomes the Buddha Flower‑Light[^152], then the Buddha‑seed[^150] in one region continues without break, and the Mahāyāna household enterprise[^139] is transmitted in turn. If Śāriputra has no capacity that can be transformed, then the Mahāyāna Dharma‑wealth[^151] presently has no entrustment; where will the Buddha‑seed of future beings be placed? The sigh over being old and worn out is precisely for this. Below “again he makes this thought: if I could obtain a son,” second, thinking of obtaining the son as joy. The capacity that can be crossed over is called “obtaining a son”; granting a Buddha prediction is called entrusting the Dharma‑wealth; it accords with his original mind and again he says “joy.” The receiving of the overall parable above is finished.[2]
 </div>
 </div>
+*[Critical apparatus: [3] 人【大】，民【甲】; [4] 拜【大】，行【甲】; [5] 悔恨【大】，恨悔【甲】; [6] 令【大】，〔－〕【甲】; [1] 來【大】，解【甲】; [2] 不分卷【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [3] 人【大】，民【甲】
+妙法蓮華經文句卷第六上
 </div>
 <div class="english-translation">
-[3] Variant: "人" in Taisho; "民" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 拜【大】，行【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "拜" in Taisho; "行" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 悔恨【大】，恨悔【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "悔恨" in Taisho; "恨悔" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 令【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "令" in Taisho; omitted in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 來【大】，解【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "來" in Taisho; "解" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 不分卷【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "Not divided by fascicle" in A‑text.
+The Words and Phrases of the Lotus Sutra, Fascicle Six (Upper).
 </div>
 </div>

@@ -6,6 +6,34 @@
 **Coverage:** CBETA T.1718_007 lines 141–312 (Lower Roll). Bracketed numbers in Chinese text match CBETA line anchors. *(Note: Anchor sigla like [A1] indicate CBETA variants).*
 ---
 
+<div class="bilingual-row">
+<div class="chinese-source">
+妙法蓮華經文句卷第七下
+</div>
+<div class="english-translation">
+The Words and Phrases of the Lotus Sutra, Fascicle Seven (Lower).
+</div>
+</div>
+*[Critical apparatus: [1] 十劫【大】，〔－〕【甲】]*
+<div class="bilingual-row">
+<div class="chinese-source">
+天台智者大師說
+</div>
+<div class="english-translation">
+Spoken by the Great Master Zhiyi of Tiantai.
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+[2]釋化城喻品
+</div>
+<div class="english-translation">
+[2] Explaining the “Magic City Parable” Chapter.
+</div>
+</div>
+*[Critical apparatus: [2] 不分卷【甲】]*
+
 ## X. EXPLANATION OF MAGIC CITY PARABLE CHAPTER (Lines 141-180; CBETA 007:141–180)
 
 ### 1. Title and Cause/Condition (Lines 141-150)
@@ -14,7 +42,7 @@
 <div class="chinese-source">
 「化」者，神力所為也，以神力故無而欻有，名之為化。防非禦敵，稱之為「城」，內合二乘涅槃者，權智所為也。以權智力無而說有，用教為化防思禦見，名為涅槃；蘇息引入實未究竟，而言滅度。權假施設故言「化城」。喻如前說。此是因緣釋也。
 
-約教者，若三藏義者，於涅槃生安隱想、生滅度想；若通教二乘與三藏同；菩薩不爾，《釋論》云，如父過險，一脚入城一脚門外，憶妻子故從城入險，誓願扶餘習入生死，而不以空為證也；別教不道城如化，用城防險，從城門徑過，將城作方便斷見思惑，不道此為極也；圓教知無賊病亦不須城，故言化城也。今是圓教意，故題為「化城喻品」也。本迹、觀心不記。
+約教者，若三藏義者，於涅槃生安隱想、生滅度想；若通教二乘與三藏同；菩薩不爾，《釋論》云，如父過險，一脚入城一脚門外，憶妻子故從城入險，誓願扶餘習入生死，而不以空為證也；別教不道城如化，用城防險，從城門徑過，將城作方便斷見思惑，不道此為極也；圓教知無賊[3]病亦不須城，故言化城也。今是圓教意，故題為「化城喻品」也。本迹、觀心不記。
 
 問：此品說因緣事，下根得悟，應名宿世品。答：品初廣說因緣，末則結譬化城，若從前應稱宿世，經從末故言化城。又上根疑薄，但取道樹三七思惟，以明機緣；中根疑濃加以譬喻，探取二萬億佛所教無上道，以為機緣；下根疑復厚，則明宿世久遠機緣。若從宿世之始，明久遠因緣，語其中間言其化城，明其究竟言其寶所，經家處中標品，收得初後，從此義便，故言化城品。
 
@@ -36,7 +64,7 @@
     *   The Two Vehicles are the same as the Tripitaka.<br>
     *   The Bodhisattva is not like this. *The Treatise* says: "Like a father passing danger, one foot enters the city, one foot is outside the gate. Because he remembers his wife and children, from the city he enters danger [again], swearing a vow to support remaining habits to enter birth and death, and does not take Emptiness as realization."<br>
 *   **Distinct Teaching (*Bié Jiào*):** Does not say the city is "like magic." Uses the city to defend against danger. Passing straight through the city gate, taking the city as a skillful means to sever View and Thought confusions, but does not say this is the ultimate.<br>
-*   **Perfect Teaching (*Yuán Jiào*):** Knows there are no thieves/bandits, and the sickness also does not require a city. Therefore, it is called "Magic City."<br>
+*   **Perfect Teaching (*Yuán Jiào*):** Knows there are no thieves/bandits, and the [3] sickness also does not require a city. Therefore, it is called "Magic City."<br>
 *   **Conclusion:** Now, this is the intent of the **Perfect Teaching**. Therefore, the title is "Magic City Parable Chapter." (The Vital/Traces and Contemplating Mind are not recorded).<br>
 
 **3. Question and Answer: Naming the Chapter:**<br>
@@ -54,12 +82,13 @@
 *   **Answer:** Because knowing the City is Magic, one knows the Treasure Trove is Real. Therefore, **Marking the Magic does not lose the Real** (*Biāo Huà Bù Shī Shí Yě*).<br>
 </div>
 </div>
+*[Critical apparatus: [3] 病【大】，〔－〕【甲】]*
 
 ### 2. Structural Analysis of the Three Chapters (Lines 164-180)
 
 <div class="bilingual-row">
 <div class="chinese-source">
-此段三品經文，例前應四，但領解、述成皆在授記段中。何者？若不領解，安得授記、述成，故兼得二意。又領解、述成、得記，或前後不定，領解或默念、發言不同，其文少，不足分品，但入他段中。此品正說因緣，後兩品授記。初又二：一、先明知見久遠，二、明宿世結緣。如來三達，遠明如見今日，所引往事決定不虛，然後說宿命也。此二各有長行、偈頌。初長行有三：一、出所見事，即是好成、大相、大通勝佛也；二、舉譬明久遠；三、結見昔如今(云云)。偈有七行，頌前三義，如文。「佛壽五百四十」下，正明結緣。又為兩：初、結緣由，二、正結緣。由中又兩：遠由、近由。遠由又二：一、大通智勝佛成道，二、十方梵請法。成道為五：一、佛壽長遠。「其佛本坐」下，第二，成道前事。但諸佛道同、為緣事異，釋迦苦行六年，草生攢髀至肘不覺，諸天哭喚動地不聞，移坐得道；彌勒即出家日得道；彼佛十劫猶不現前，非根有利鈍、道有難易，緣宜奢促應示長短耳。三，「諸比丘大通過十小劫」下，明正成道。四，「其佛未出家」下，明成道後眷屬供養。五，「爾時十六王偈讚」下，明請轉法輪。第一文易解。第二成佛前事，有二：一、佛坐道場所經時節，二、諸天供養。「佛告諸」至「得三菩提時」下，第二，諸梵請。文為二：一、威光照動，二、十方梵請。初威光者，《過去因果經》云「薩婆悉達處胎時，三千國土朗然大光，日月所不照處大明，其中眾生各得相見」。初成道時亦如是，朝為色天、中為欲天、晡為鬼神說法，夜亦如是。觀解，「忽生眾生」者，心性本淨，陰入界覆之則闇，若修觀慧本性理顯。又兩山是二諦，其間是中道。日月光是二智，佛光是中道。無分別智光，照本有三諦洞明也。「爾時東方」下，第二，十方梵。文為二：先九方，後上方。九方為四：一東，二東南，三南，四總明六方。前三方梵，文各有七：一覩瑞，二驚駭，三相問決，四尋光見佛，五三業供養，六請法，七默許，皆如文。上方梵止有六，世尊即說故無默許。舊云東、東南請小，七方請大，上方請小大。若《釋論》明梵本請大，佛雖說小未遂所請，若說般若猶酬梵請耳。若依〈方便品〉文，梵王請大，然佛法道同不應偏請。但經論存略，諸師偏據耳。又如今佛自始至終，具轉五味法輪，一一皆酬梵請，彼亦應然。初十六子請轉滿教，如今佛說《華嚴》；東、東南二方請轉半教，如今佛說三藏；後七方請轉對半明滿，如今佛說方等；上方梵請帶半明滿，如今佛說《般若》，後十六子請廢半明滿，如今佛說《法華》醍醐教也。今古節目文義相應(云云)。「爾時大通智受十方」下，結緣近由。由佛受請說法，故後得覆講正作結緣。文為二：一、先轉半字法輪，二、諸子請轉廢半明滿字法輪。初為三：一、受請，二、正轉，三、聞法得道。此中應說三乘，如序品文，而今不說者，正為下根論結緣開顯等，略不言六度耳。三轉者，謂示、勸、證(云云)。亦將三轉對示教利喜，示即示轉，教即勸轉，利喜即證轉也。亦對見諦思惟無學也，為聲聞三轉，為緣覺再轉，為菩薩一轉。何故爾？由根利鈍。此一往說耳。通方例皆三轉。何故三轉？諸佛語法，法至於三，為眾生有三根故，《大論》及《婆沙》悉作此說。問：初為五人，云何作三根耶？復有八萬諸天，何故無三根？為生三慧、三根、三道故。「十二行」者，一約四諦教，二約十六行。教十二者，即示勸證是也；行十二者，三轉皆生眼智明覺。又教十二為能轉，行十二為所轉。十二行是輪，十二教非輪，若作二輪義，眼智明覺者，約四十八法，開此四心成十六心，謂苦法忍為眼、苦法智為智，比忍為明、比智為覺，餘三諦亦爾，故成十六心，三根人各得十六心，故成四十八行也。十二諦是教法輪，十二行是行法輪，教輪則能轉唯是一權智，所轉則有十二教也。若行法輪能轉之教有十二，所轉之行亦十二。或通三人、或約一人，今就見諦道三人，利根聞示轉，即生眼智明覺，三人合舉故言十二行也。所不能轉者，沙門不聞尚不能知，何況能轉？支佛雖悟，口不能說；婆羅門雖聞其名，不解其理；魔梵亦爾。夫轉者，轉此法度入他心，令彼得悟，破六十二見，乃名轉法輪；為無此義，魔梵等所不能轉也。有解大乘四諦，次轉二諦、次轉一諦、次轉無諦，皆是卷舒之意。小乘四諦以生滅為體，大乘以無生為體(云云)。
+此段三品經文，例前應四，但領解、述成皆在授記段中。何者？若不領解，安得授記、述成，故兼得二意。又領解、述成、得記，或前後不定，領解或默念、發言不同，其文少，不足分品，但入他段中。此品正說因緣，後兩品授記。初又二：一、先明知見久遠，二、明宿世結緣。如來三達，遠明如見今日，所引往事決定不虛，然後說宿命也。此二各有長行、偈頌。初長行有三：一、出所見事，即是好成、大相、大通勝佛也；二、舉譬明久遠；三、結見昔如今(云云)。偈有七行，頌前三義，如文。「佛壽五百四十」下，正明結緣。又為兩：初、結緣由，二、正結緣。由中又兩：遠由、近由。遠[4]由又二：一、大通智勝佛成道，二、十方梵請法。成道為五：一、佛壽長遠。「其佛本坐」下，第二，成道前事。但諸佛道同、為緣事異，釋迦苦行六年，草生攢髀至肘不覺，諸天哭喚動地不聞，移坐得道；彌勒即出家日得道；彼佛十劫猶不現前，非根有利鈍、道有難易，緣宜奢促應示長短耳。三，「諸比丘大通過十小劫」下，明正成道。四，「其佛未出家」下，明成道後眷屬供養。五，「爾時十六王偈讚」下，明請轉法輪。第一文易解。第二成佛前事，有二：一、佛坐道場所經時節，二、諸天供養。「佛告諸」至「得三菩提時」下，第二，諸梵請。文為二：一、威光照動，二、十方梵請。初威光者，《過去因果經》云「薩婆悉達處胎時，三千國土朗然大光，日月所不照處大明，其中眾生各得相見」。初成道時亦如是，朝為色天、中為欲天、晡為鬼神說法，夜亦如是。觀解，「忽生眾生」者，心性本淨，陰入界覆[5]之則闇，若修觀慧本性理顯。又兩山是二諦，其[6]間是中道。日月光是二智，佛光是中道。無分別智光，照本有三諦洞明也。「爾時東方」下，第二，十方梵。文為二：先九方，後上方。九方為四：一東，二東南，三南，四總明六方。前三方梵，文各有七：一覩瑞，二驚駭，三相問決，四尋光見佛，五三業供養，六請法，七默許，皆如文。上方梵止有六，世尊即說故無默許。舊云東、東南請小，七方請大，上方請小大。若《釋論》明梵本請大，佛雖說小未遂所請，若說般若猶酬梵請耳。若依〈方便品〉文，梵王請大，然佛法道同不應偏請。但經論存略，諸師偏據耳。又如今佛自始至終，具轉五味法輪，一一皆酬梵請，彼亦應然。初十六子請轉滿教，如今佛說《華嚴》；東、東南二方請轉半教，如今佛說三藏；後七方請轉對半明滿，如今佛說方等；上方梵請帶半明滿，如今佛說《般若》，後十六子請廢半明滿，如今佛說《法華》醍醐教也。今古節目文義相應(云云)。「爾時大通[7]智受十方」下，結緣近由。由佛受請說法，故後得覆講正作結緣。文為二：一、先轉半字法輪，二、諸子請轉廢半明滿字法輪。初為三：一、受請，二、正轉，三、聞法得道。此中應說三乘，如序品文，而今不說者，正為下根論結緣開顯等，略不言六度耳。三轉者，謂示、勸、證(云云)。亦將三轉對示教利喜，示即示轉，教即勸轉，利喜即證轉也。亦對見諦思惟無學也，為聲聞三轉，為緣覺再轉，為菩薩一轉。何故爾？由根利鈍。此一往說耳。通方例皆三轉。何故三轉？諸佛語法，法至於三，為眾生有三根故，《大論》及《婆沙》悉作此說。問：初為五人，云何作三根耶？復有八萬諸天，何故無三根？為生三慧、三根、三道故。「十二行」者，一約四諦教，二約十六行。教十二者，即示勸證是也；行十二者，三轉皆生眼智明覺。又教十二為能轉，行十二為所轉。十二行是輪，十二教非輪，若作二輪義，眼智明覺者，約四十八法，開此四心成十六心，謂苦法忍為眼、苦法智為智，比忍為明、比智為覺，餘三諦亦爾，故成十六心，三根人各得十六心，故成四十八行也。十二諦是教法輪，十二行是行法輪，教輪則能轉唯是一權智，所轉則有十二教也。若行法輪能轉之教有十二，所轉之行亦十二。或通三人、或約一人，今就見諦道三人，利根聞示轉，即生眼智明覺，三人合舉故言十二行也。所不能轉者，沙門不聞尚不[1]能知，何況能轉？支佛雖悟，口不能說；婆羅門雖聞其名，不解其理；魔梵亦爾。夫轉者，轉此法度入他心，令彼得悟，破六十二見，乃名轉法輪；為無此義，魔梵等所不能轉也。有解大乘四諦，次轉二諦、次轉一諦、次轉無諦，皆是卷舒之意。小乘四諦以生滅為體，大乘以無生為體(云云)。「十二因緣」者，還是別相細觀四諦耳。約苦、集即有無明老死，約道、滅即有無明滅乃至老死滅也。又三人通觀十二緣，二乘生滅十二緣，為菩薩無生十二緣。無生十二緣，本不生、今不滅，相生則相、生傳傳滅(云云)。又三乘亦通論四諦，二乘有量四諦，為菩薩無量四諦。又六度亦通三人，《大品．發趣品》云「阿羅漢、支佛，因六波羅蜜至彼岸。」《攝大乘》云「凡夫、二乘皆有六度，但不同耳。」若爾應俱名波羅蜜，然二乘行到涅槃彼岸亦稱波羅蜜，但不能到佛道彼岸，比菩薩異耳。《阿毘曇》有六足，[2]六足即六度，《寶雲經》明三乘毘尼(云云)。第三，聞法得悟者，初少中多。「不受」者，不受四見，悟初果[3]也。「得解脫」者，脫子、果兩縛，得無學也。「深妙定」者，即俱解脫也(云云)。
 </div>
 <div class="english-translation">
 **1. Structure of the Segment (*Sān Pǐn Jīng Wén*):**<br>
@@ -78,7 +107,7 @@
 *   **Format:** Both sections have Prose (*Cháng Xíng*) and Verse (*Jì Sòng*).<br>
 
 **3. Knowledge of Long Ago (Prose):**<br>
-1.  **Bringing forth the Seen Event:** Specifically, the **Great Universal Wisdom Excellence Buddha** (*Dà Tōng Zhì Shèng Fó*), his Good Accomplishment (*Hǎo Chéng*), and Great Marks (*Dà Xiàng*).<br>
+1.  **Bringing forth the Seen Event:** Specifically, the [7] **Great Universal Wisdom Excellence Buddha** (*Dà Tōng Zhì Shèng Fó*), his Good Accomplishment (*Hǎo Chéng*), and Great Marks (*Dà Xiàng*).<br>
 2.  **Citing Parables:** Clarifying the duration (Dust Moth Kalpas).<br>
 3.  **Conclusion:** Seeing the past is like [seeing] today.<br>
 *   **Verse:** Seven lines praise the first three meanings, as in the text.<br>
@@ -87,7 +116,7 @@
 Divided into two: **Basis of Bonding** (*Jié Yuán Yóu*) and **Correctly Bonding** (*Zhèng Jié Yuán*).<br>
 The Basis (*Yóu*) is further divided into **Distant Basis** (*Yuǎn Yóu*) and **Near Basis** (*Jìn Yóu*).<br>
 
-**A. Distant Basis (*Yuǎn Yóu*):**<br>
+**A. Distant Basis [4] (*Yuǎn Yóu*):**<br>
 1.  **Buddha Life Span Long/Far:** "That Buddha originally sat"<br>
 2.  **Events Before Attaining Way:** "That Buddha originally sat in the Way Place"<br>
     *   *Note:* Although the Way of all Buddhas is the same, the conditions/events differ. Shakyamuni practiced bitterness for six years, grass growing through his elbows, not noticing; gods weeping and shaking the earth, not hearing. Maitreya attains the Way on the very day of leaving home. That Buddha [Great Universal Wisdom Excellence] sat for ten kalpas with [the Way] not appearing. It is not that roots are sharp/dull or the Way is hard/easy; the conditions suitable for "Long" or "Short" respond accordingly.<br>
@@ -97,7 +126,7 @@ The Basis (*Yóu*) is further divided into **Distant Basis** (*Yuǎn Yóu*) and 
     *   *Note:* The first is easy to understand. The second (Before Attaining) has two parts: 1. Time passing at the Way Place; 2. Offerings by Gods.<br>
     *   **Brahma Request (Ten Directions):** Two parts: **Majestic Light Shaking** and **Ten-Direction Brahmas**.<br>
         *   **Majestic Light Shaking:** *Past Causes Sutra* says: "When Sarvasiddhartha was in the womb, the three-thousand worlds were brightly illuminated; places not lit by sun and moon were greatly brightened; beings there could see each other." At first enlightenment it was likewise: morning teaching the Form Heavens, midday teaching the Desire Heavens, afternoon teaching ghosts/spirits; at night also likewise.<br>
-        *   **Contemplative Interpretation:** "Suddenly beings arise" means mind-nature is originally pure; when skandhas/entrances/realms cover it, it becomes dark. If one cultivates contemplative wisdom, the original nature and principle manifest. The two mountains are the Two Truths; between them is the Middle Way. Sun/moon light are the Two Wisdoms; Buddha light is the Middle Way. The light of non-discriminating wisdom illuminates the inherently existing Three Truths.<br>
+        *   **Contemplative Interpretation:** "Suddenly beings arise" means mind-nature is originally pure; when skandhas/entrances/realms cover [5] it, it becomes dark. If one cultivates contemplative wisdom, the original nature and principle manifest. The two mountains are the Two Truths; [6] between them is the Middle Way. Sun/moon light are the Two Wisdoms; Buddha light is the Middle Way. The light of non-discriminating wisdom illuminates the inherently existing Three Truths.<br>
         *   **Ten-Direction Brahmas:** The text has two parts: first the nine directions, then the upper direction. The nine directions are four: East, Southeast, South, and a general explanation of the remaining six. For the first three directions, each has seven items: seeing the omen, shock, mutual inquiry/confirmation, following the light to see the Buddha, three-karmas offerings, requesting Dharma, and silent permission—each as in the text. The upper direction Brahmas have only six items; the World-Honored One immediately speaks, so there is no silent permission.<br>
         *   **Old Explanation:** East and Southeast request the Small; the seven directions request the Great; the upper direction requests both Small and Great.<br>
         *   **Treatise View:** If the *Treatise* says Brahmas originally requested the Great, then even if the Buddha spoke the Small, it did not fulfill their request; if he spoke Prajna, it still repaid the Brahma request.<br>
@@ -137,15 +166,27 @@ Because the Buddha accepted the request to speak Dharma, later he could have the
     *   The Teaching Wheel (Capable of Turning) is only the One Provisional Wisdom. The Activity Wheel (Object of Turning) has Twelve Teachings.<br>
     *   **If the Activity Wheel is the Turning:** The teaching that turns has Twelve, and the activity turned also has Twelve. It can apply to **Three Persons** or **One Person**. Here, regarding the three persons in the Seeing-Truth path: sharp roots hearing the Demonstration Turning immediately produce Eye/Wisdom/Clarity/Awakening. The three persons are combined, thus called **Twelve Lines**.<br>
 *   **"What Mara/Brahma Cannot Turn":**
-    *   Sravakas not hearing it cannot even know it, let alone turn it.
+    *   Sravakas not hearing it cannot even [1] know it, let alone turn it.
     *   Pratyekabuddhas although awakened, cannot speak it.
     *   Brahmins although hearing the name, do not understand the principle.
     *   Maras/Brahmas also thus.
     *   *Turning* means transferring this Dharma to enter another's mind, causing them to awaken and break the 62 Views—this is named "Turning the Dharma Wheel." Because they lack this meaning, Maras/Brahmas cannot turn it.<br>
 *   **Mahayana Interpretation:** Turning 4 Truths, then 2, then 1, then No Truth. This implies the "Rolling and Unrolling" (*Juǎn Shū*) of the teaching.<br>
 *   **Substance:** Small Vehicle uses Birth/Extinction as Substance. Mahayana uses **Non-Birth** (*Wú Shēng*) as Substance.<br>
+“As for the ‘Twelve Links of Dependent Arising’: it is still a detailed contemplation of the Four Truths in their specific aspects. In terms of Suffering and Accumulation there are ignorance and aging‑and‑death; in terms of Path and Cessation there are the cessation of ignorance up to the cessation of aging‑and‑death. Also, the three kinds of persons all contemplate the twelve links: for the two vehicles, the twelve links of arising‑and‑ceasing; for bodhisattvas, the twelve links of non‑arising. The twelve links of non‑arising are originally not born and now not extinguished; when there is arising it is only relative arising, and in succession it is relative extinction (etc.). Moreover, the three vehicles all in general discuss the Four Truths: for the two vehicles, limited Four Truths; for bodhisattvas, immeasurable Four Truths. The six pāramitās are also common to the three kinds of persons. The *Mahāprajñā* “Fāqù” chapter says: ‘Arhats and pratyekabuddhas reach the other shore by means of the six pāramitās.’ The *Mahāyānasaṃgraha* says: ‘Ordinary beings and the two vehicles all have the six pāramitās, only they differ.’ If so, all should be called pāramitās; yet the two vehicles’ practice reaching the nirvāṇa other shore is also called pāramitā, but they cannot reach the Buddha‑way’s other shore—therein they differ from bodhisattvas. The *Abhidharma* has six “legs”; [2] the six legs are precisely the six pāramitās. The *Baoyun Sūtra* explains the three‑vehicle vinaya (etc.). Third, those who hear the Dharma and awaken: few at first, many in the middle. ‘Not accepting’ means not accepting the four views, awakening the first fruit [3]. ‘Obtaining liberation’ means being freed from the two bonds of seed and fruit, attaining no‑learning. ‘Profound and wondrous samādhi’ is precisely the liberation of both (etc.).”<br>
 </div>
 </div>
+*[Critical apparatus: [4] 由【大】，〔－〕【甲】; [5] 之【大】，〔－〕【甲】; [6] 間是中道【大】，中間是中道【甲】; [7] 智【大】，智勝【甲】; [1] 能【大】，〔－〕【甲】; [2] 六足【大】，〔－〕【甲】; [3] 也【大】，〔－〕【甲】]*
+
+<div class="bilingual-row">
+<div class="chinese-source">
+「爾時十六[4]王子皆出家」下，第二，重請滿字法輪。文為七：一、出家，二、請法，三、所將亦出家，四、佛受請，五、時眾有解不解，六、時節，七、說已入定。「諸根」者，六根也，六根清淨故言通利。又六根互用故言「通」，入佛境界故言「利」。「智慧明了」者，開示悟入也，彼佛初說圓頓，諸子大乘功德悉皆具足，愍諸方便重請佛開權顯實也。「聲聞皆已成就」者，明其障除機動，是故為請。「我等志願如來知見」者，此《法華經》但明佛之知見，唯志於此，即正請滿字廢半之文，明顯若此也。「過二萬[5]劫」者，上開三既久，不容中間無事，望下文意，二萬劫中必說方等《般若》，文云「說六波羅蜜及諸神通事」，般若是行、神通是事，諸方等經多明不可思議事行也。頌中又云「分別真實法」，即是《大品》明實相般若意也。十六沙彌信受及二乘，即信得解者；其餘千萬皆生疑惑，是不解眾。此不解眾即與十六子，結法華之緣者也。第七，明說法已入定，[6]此正是結緣之近由。由佛入定不出，諸疑惑眾無所諮問，十六於後為不解者覆講說經也。文中明入定處所，即是靜室，正入定即是住於禪定，入定時節即是八萬四千劫(云云)。
+</div>
+<div class="english-translation">
+**From “At that time the sixteen [4] princes all left home” downward:** Second, the repeated request to turn the full‑word Dharma wheel. The text has seven: (1) leaving home, (2) requesting Dharma, (3) those they led also leaving home, (4) the Buddha accepting the request, (5) at that time a multitude with understanding and non‑understanding, (6) the time period, (7) after speaking he enters samādhi. “Faculties” are the six faculties; because the six are pure, it is called penetrating and sharp. Because the six inter‑function, it is called “penetrating”; because they enter the Buddha realm, it is called “sharp.” “Wisdom is clear” means opening, showing, awakening, entering. That Buddha first spoke the perfect‑sudden; the princes’ Mahāyāna merit was fully complete; out of compassion for expedients they again request the Buddha to open the provisional and reveal the real. “The śrāvakas are already accomplished” clarifies their obstacles removed and capacities moving, so they request. “We aspire to the Tathāgata’s knowledge and vision” — the Lotus only clarifies Buddha knowledge‑and‑vision; they solely aspire to this. This is the direct request for the full‑word, abandoning the half; it is explicit. “After two‑ten‑thousand [5] kalpas”: since opening the three has already been long, there cannot have been no events in between; considering the text below, within those twenty thousand kalpas he must have spoken Vaipulya and Prajñā. The text says “speaking the six pāramitās and the matters of supernormal powers”; Prajñā is practice and supernormal powers are matters; many Vaipulya sūtras illuminate inconceivable practices. The gāthā also says “discriminating the true Dharma,” which is the *Great Prajñā*’s meaning of real‑mark Prajñā. The sixteen śrāmaṇeras’ faith‑acceptance and the two vehicles are those who believe and understand; the remaining thousands of ten‑thousands all give rise to doubt—these are the non‑understanding multitude. This non‑understanding multitude are those who, with the sixteen princes, formed the Lotus karmic bond. Seventh: after speaking he enters samādhi; [6] this is precisely the near cause of bonding. Because the Buddha enters samādhi and does not emerge, the doubting multitude have nowhere to ask; later the sixteen re‑explain the sūtra for those who do not understand. The text clarifies the place of entering samādhi: the quiet chamber; to enter samādhi is to abide in dhyāna‑samādhi; the time of entering samādhi is eighty‑four thousand kalpas (etc.).
+</div>
+</div>
+*[Critical apparatus: [4] 王子【大】，〔－〕【甲】; [5] 劫【大】，〔－〕【甲】; [6] 此【大】，〔－〕【甲】]*
 
 ### 3. The Bonding Cycle and the Guide Parable (Lines 181-220)
 
@@ -153,7 +194,7 @@ Because the Buddha accepted the request to speak Dharma, later he could have the
 <div class="chinese-source">
 「是時十六菩薩知佛入室」下，第二，正結緣。就此有二：先法說結緣，次譬說結緣。就法說有三：第一明昔日共結緣，第二明中間更相值遇，第三明今還說法華。第一有四：一者知佛入定，二者王子覆講，三者眾得利益，四佛從定起稱歎菩薩。由佛入定所以得說，佛知一化將畢不復熟此段之人，故令王子共其結緣；又知此等必由王子究竟得度，所以入定久而不出也(云云)。
 
-「是十六沙彌」下，第一，知佛入定。「各升法座」下，第二，覆說《法華》。「一一皆度」下，第三，說法利益。皆發菩提心故云「度」，若初發心時誓願當作佛已過於世間，即是度七方便彼岸義也。「大通智勝過八萬」下，第四，佛從定起稱歎勸信。此中復二：一、正稱歎菩薩，二、「汝等皆當」下，勸物親近。勸物親近中又二：先勸親近，次「所以者何」下，第一、釋勸意，「佛告諸比丘是十六」下，第二、明中間常相逢值。逢值有三種，若相逢遇常受大乘，此輩中間皆已成就不至于今；若相逢遇，遇其退大仍接以小，此輩中間猶故未盡，今得還聞大乘之教；三但論遇小不論遇大，則中間未度，于今亦不盡，方始受大乃至滅後得道者是也。
+「是十六沙彌」下，第一，知佛入定。「各升法座」下，第二，覆說《法華》。「一一皆度」下，第三，說法利益。皆發菩提心故云「度」，若初發心時誓願當作佛已過於世間，即是度七方便彼岸義也。「大通智勝過八萬」下，第四，佛從定起稱歎勸信。此中復二：一、正稱歎菩薩，二、「汝等皆當」下，勸物親近。勸物親近中[7]又二：先勸親近，次「所以者何」下，第[8]一、釋勸意，「佛告[9]諸比丘是十六」下，第二、明中間常相逢值。逢值有三種，若相逢遇常受大乘，此輩中間皆已成就不至于今；若相逢遇，遇其退大仍接以小，此輩中間猶故未盡，今得還聞大乘之教；三但論遇小不論遇大，則中間未度，于今亦不盡，方始受大乃至滅後得道者是也。
 
 問：如上塵數多許時節，今始得羅漢，當知無生法忍何易可階。
 
@@ -165,7 +206,7 @@ Because the Buddha accepted the request to speak Dharma, later he could have the
 
 「譬如五百」下，第二譬者，有開、有合。開譬為二：第一、導師譬，譬上覆講共結大緣，即擬〈火宅〉之總譬、〈方便〉之略頌也；第二、將導譬，譬上中間相遇今還說《法華》也，若中間相逢從我聞法皆為三菩提者，不為此人設譬；若中間相逢于今有住聲聞地者，正為此人設第二譬也，即擬〈火宅〉之別譬、〈方便〉之廣頌。
 
-就初導師譬，其文有五，即擬〈火宅〉總譬、〈方便〉略頌中之六意也。一、五百由旬譬。譬上未度之眾樂著諸有輪迴處所，即擬〈火宅〉中其家廣大三界無安、〈方便品〉安隱對不安隱處之意也。二、險難惡道譬。譬上未度之眾煩惱垢重，於如來智慧難信難解，即擬〈火宅〉中火起、〈方便品〉安隱對不安隱之法也。三、若有多眾譬，正譬上百千萬億種皆生疑惑不解之眾生也，即擬〈火宅〉中三十子五百人、〈方便〉中知眾生性欲意也。四、欲過此道至珍寶處譬，舊不取，今取此譬譬上覆講《法華》，擬〈草喻〉中一味雨、〈火宅〉中唯有一門、〈方便品〉宣示佛道意也。五者、一導師譬，譬上第十六王子也，即〈藥草〉中密雲、〈火宅〉中長者、〈方便〉中我今亦如是意也。
+就初導師譬，其文有五，即擬〈火宅〉總譬、〈方便〉略頌中之六意也。一、五百由旬譬。譬上未度之眾樂著諸有[A1]輪迴處所，即擬〈火宅〉中其家廣大三界無安、〈方便品〉安隱對不安隱處之意也。二、險難惡道譬。譬上未度之眾煩惱垢重，於如來智慧難信難解，即擬〈火宅〉中火起、〈方便品〉安隱對不安隱之法也。三、若有多眾譬，正譬上百千萬億種皆生疑惑不解之眾[1]生也，即擬〈火宅〉中三十子五百人、〈方便〉中知眾生性欲意也。四、欲過此道至珍寶處譬，舊不取，今取此譬譬上覆講《法華》，擬〈草喻〉中一味雨、〈火宅〉中唯有一門、〈方便品〉宣示佛道意也。五者、一導師譬，譬上第十六王子也，即〈藥草〉中密雲、〈火宅〉中長者、〈方便〉中[2]我今亦如是意也。
 
 問：
 
@@ -197,9 +238,9 @@ Divided into two: **Dharma Explanation** (*Fǎ Shuō*) and **Parable Explanation
 *   **Benefit:** "One by one, all were saved." Saved means generating the **Bodhicitta**. If at the initial time one swears to become a Buddha, one has already surpassed the world.<br>
 *   **Buddha Praising:** "Great Universal Wisdom Excellence arose from samadhi"<br>
     *   **Praising:** Praising the Bodhisattvas.<br>
-    *   **Exhorting:** "You should all draw near to them."<br>
+    *   **Exhorting [7]:** "You should all draw near to them."<br>
 
-**3. Intermediate Encounters (*Zhōng Jiān Cháng Xiāng Féng Zhí*):**<br>
+**3. Intermediate Encounters [8] (*Zhōng Jiān Cháng Xiāng Féng Zhí*):**<br>
 Three types of encounters:<br>
 1.  **Always Accepting Great:** Those who met and always accepted the Mahayana are already accomplished and not here today.<br>
 2.  **Retreating to Small:** Those who met, retreated from the Great, but were still received/connected (*Jiē*) with the Small. These people are not yet exhausted, so today they return to hear the Mahayana teaching.<br>
@@ -220,7 +261,7 @@ Three types of encounters:<br>
         *   **Non-Retreating:** Dwelling in Bodhi.<br>
         *   **Retreating:** Dwelling in Sravaka.<br>
     *   **Explanation of Retreating:** "Why? Because"<br>
-    *   **Conclusion:** "At that time the 16" concludes the Ancient/Modern.<br>
+    *   **Conclusion:** [9] "At that time the 16" concludes the Ancient/Modern.<br>
 *   **Connecting Future Disciples:**<br>
     *   **Doubt:** Those who don't hear the Lotus now and enter Nirvana—how can they enter the One Vehicle?<br>
     *   **Answer:** Even if they enter Nirvana, they will eventually hear it. "I will become a Buddha in another land and they will hear this sutra." (*Yú Guó Zuò Fó*).<br>
@@ -260,11 +301,11 @@ Three types of encounters:<br>
     *   **Why a Second Parable:** If those met in the intermediate encounters all heard from the Buddha and became **Unsurpassed Bodhi**, there would be no need to set up this parable. Because some who met in between now dwell in the **Sravaka stage**, the second parable is established specifically for them.
 
 *   **The Five Elements of the Guide Parable (Matching *Burning House*):**
-    1.  **500 Yojanas Parable:** Metaphor for the **Unsaved Multitudes** delighting in the Place of Samsara. Matches the *Burning House* (the house is vast; the three realms have no peace) and *Expedient Means* (safe vs. unsafe place).
+    1.  **500 Yojanas Parable:** Metaphor for the **Unsaved Multitudes** delighting in the Place of Samsara [A1]. Matches the *Burning House* (the house is vast; the three realms have no peace) and *Expedient Means* (safe vs. unsafe place).
     2.  **Dangerous Evil Road Parable:** Metaphor for the **Unsaved Multitudes** having heavy defilements/afflictions, hard to believe or understand the Tathagata's wisdom. Matches the *Burning House* fire and *Expedient Means* (safe vs. unsafe dharmas).
     3.  **"If there are Many Multitudes" (*Ruò Yǒu Duō Zhòng*) Parable:** Directly metaphors the "Living Beings of the Hundred-Thousand-Million kinds" in the *Burning House*. Matches the *Burning House*'s thirty children/five hundred people and *Expedient Means*' knowing beings' desires.
     4.  **Desiring to Cross this Road to Treasure Place:** (Old masters didn't take this; Tiantai takes it). Metaphors the **Covering/Re-telling of the Lotus**. Matches *Herbs Parable*'s **One-Flavor Rain**, *Burning House*'s **Single Door**, and *Expedient Means*' proclamation of the **Buddha Path**.
-    5.  **One Guide Parable:** Metaphors the **16th Prince** (The Father/Teacher). Matches *Medicinal Herbs*' **Dense Cloud**, *Burning House*'s **Elder**, and *Expedient Means*' **"I am also like this"** meaning.
+    5.  **One Guide Parable:** Metaphors the **16th Prince** (The Father/Teacher). Matches *Medicinal Herbs*' **Dense Cloud**, *Burning House*'s **Elder**, and *Expedient Means*' [2] **"I am also like this"** meaning.
         *   *Qualities:* "Clever" (*Cōng*) = Pure Eyes/Ears. "Sharp" (*Lì*) = Pure Will. "Illuminated" (*Míng*) = Three Wisdoms. "Reaching" (*Dá*) = Ten Powers.
 
 
@@ -288,6 +329,8 @@ Three types of encounters:<br>
 *   **Answer:** The text has already "Opened the Provisional to Reveal the Real" 22 times. The meaning that it is "Not False" is already manifest. The Lower Roots will believe soon, so it is not needed.<br>
 </div>
 </div>
+*[Critical apparatus: [7] 又【大】，〔－〕【甲】; [8] 一【大】，二【甲】; [9] 諸【大】，〔－〕【甲】]*
+*[Critical apparatus: [A1] 輪【CB】【宮-CB】，論【大】(cf. 《福州藏》（日本宮內庁書陵部藏大藏經第6030帖第34圖第1行）); [1] 生【大】，〔－〕【甲】; [2] 我今【大】，今我【甲】]*
 
 ### 4. Doctrinal Analysis of the 500 Yojanas (Lines 221-240)
 
@@ -303,7 +346,7 @@ Three types of encounters:<br>
 
 有人云，三界為三百，聲聞為四百，緣覺地為五百，凡夫三界障，二乘涅槃障，亦是有空二見。《華嚴》藥樹不生深水火坑，火坑即三界，深水即二乘，三界是二乘之牢獄，二乘是菩薩之牢獄，又是福智二邊，不能自行不能化他。《大品》明四百由旬，合二乘為一百，《法華》開為五百。《大品》明菩薩度凡聖二地，未明二乘是權，闕化城之意，既未論化城，亦未明寶所。答：《大品》已顯實故辨寶所，未開權不明化城。下文云「為止息故說二涅槃」，此令度三百由旬也。「汝所住地近於佛慧」，此令出二百由旬也。文既分明，無勞惑也。
 
-又明二乘，六義同、十義別，同出三界、同盡無生、同斷正使、同得有餘無餘、同得一切智、同名小乘，所以合為一化城。別開十義：行因久近，六十劫、百劫故；根利鈍；從師獨悟無悲鹿羊；有相無相；觀略廣；能說得四果法，不能說法得煖法；在佛世不在佛世；頓證漸證；多現通少說法，聲聞不定。火宅三車今為二百，三根同為火宅所燒，三根求出故三車；佛道長遠，二乘是惡道，故二百須離。佛乘非障，但明二百，何故約凡開三、約聖開二？此引進之言耳。所度猶少、未度猶多，若爾未成了義。佛道雖長如萬里行，但五百是難、餘者則易。
+又明二乘，六義同、十義別，同出三界、同盡無生、同斷正使、同得有餘無餘、同得一切智、同名小乘，所以合為一化城。別開十義：行因久近，六[1]十劫、百劫故；根利鈍；從師獨悟無悲鹿羊；有相無相；觀略廣；能說得四果法，不能說法得煖法；在佛世不在佛世；頓證漸證；多現通少說法，聲聞不定。火宅三車今為二百，三根同為火宅所燒，三根求出故三車；佛道長遠，二乘是惡道，故二百須離。佛乘非障，但明二百，何故約凡開三、約聖開二？此引進之言耳。所度猶少、未度猶多，若爾未成了義。佛道雖長如萬里行，但五百是難、餘者則易。
 
 問：二百是二乘難，三界是凡夫難，菩薩有難不？菩薩不以火宅為難，不應求車而出。既求車出，何不為二百所障(云云)？《大論》六十六云「險道是世間，一百由旬是欲界，二百色界，三百無色界，四百是二乘。」又倒出數，一百是二乘道，二百是無色，三百是色界，四百是欲界。此經明五百由旬即菩薩道，若過五百即入佛道(云云)。
 
@@ -322,9 +365,27 @@ Zhiyi reviews and refutes multiple past interpretations:<br>
 <br>
     *   **Someone says (*Yǒu Rén Yán*):** 300=Three Realms. 400=7 Abodes/2 Vehicles. 500=7 Abodes+.
 <br>
-    *   **Someone says (*Yǒu Rén Yún*):** 300=Three Realms. 400=Sravaka. 500=Pratyekabuddha. *Critique:* *Prajnaparamita* (Da Pin) combines 2 Vehicles into 100 (Total 400). *Lotus* opens it to 500.
+*   **Someone says (*Yǒu Rén Yún*):** 300=Three Realms. 400=Sravaka. 500=Pratyekabuddha. *Critique:* *Prajnaparamita* (Da Pin) combines 2 Vehicles into 100 (Total 400). *Lotus* opens it to 500.
 <br>
 *   **Comparison:** *Prajnaparamita* reveals the Real (Treasure Trove) but doesn't fully explain the Provisional (Magic City). *Lotus* explains both.<br>
+
+**Two Vehicles: Six Shared Meanings, Ten Differences:**<br>
+Shared six: both exit the Three Realms; both exhaust non-arising; both cut the proper afflictions; both attain with-remainder and without-remainder; both attain all-knowledge; both are called the Small Vehicle--therefore they are combined as one Magic City.<br>
+Ten differences:<br>
+1.  Length of causal practice (60 kalpas vs 100).<br>
+2.  Sharp vs dull roots.<br>
+3.  From a teacher vs self-awakened; lacking compassion (deer/ram).<br>
+4.  With marks vs without marks.<br>
+5.  Contemplation brief vs broad.<br>
+6.  Can teach the dharma for attaining the four fruits; cannot teach and only attains the Warmth stage.<br>
+7.  In the Buddha's time vs not in the Buddha's time.<br>
+8.  Sudden realization vs gradual realization.<br>
+9.  Display many supernormal powers vs speak little Dharma.<br>
+10. Sravaka not fixed (classification unsettled).<br>
+Fire-House three carts are now 200: the three roots are burned by the burning house; the three roots seek exit, therefore three carts. The Buddha-path is long and far; the Two Vehicles are an evil road, therefore the 200 must be left behind. The Buddha-vehicle is not an obstruction--why, for ordinary beings, open three, but for saints open two? This is language of guiding-in. Those already crossed are few; those not yet crossed are many--if so, this is not yet definitive. Though the Buddha-path is long like a ten-thousand-li journey, the 500 are the difficulty; the rest are easy.<br>
+**Q&A on the 200 Yojanas (Great Treatise, Fascicle 66):**<br>
+**Q:** If 200 is the Two-Vehicle difficulty and the Three Realms are the ordinary-being difficulty, do bodhisattvas have a difficulty? Bodhisattvas do not take the burning house as a difficulty, so they should not seek a cart to exit. If they seek the cart to exit, why are they not obstructed by the 200? (etc.)<br>
+**A:** The *Great Treatise* (*Da Lun*) fascicle 66 says: the perilous road is the world; 100 yojanas = Desire Realm, 200 = Form Realm, 300 = Formless Realm, 400 = Two Vehicles. It also reverses the numbers: 100 = Two-Vehicle path, 200 = Formless, 300 = Form, 400 = Desire. This sutra clarifies that 500 yojanas are the bodhisattva path; passing beyond 500 one enters the Buddha path. (etc.)<br>
 
 **2. Zhiyi's Determination (*Jīn Yī Cǐ Jīng Pàn Zhī*):**<br>
 Relying on the Lotus Text:<br>
@@ -353,6 +414,40 @@ To understand the "Difficulties/Afflictions" (*Xiǎn Nàn*):<br>
 *   **"One Guide":** The 16th Prince (Sakyamuni). "Clear Eyes/Ears" = Clever (*Cōng*). "Clear Will" = Sharp (*Lì*). Having the Three Knowledges and Five Eyes.<br>
 </div>
 </div>
+<div class="bilingual-row">
+<div class="chinese-source">
+「將導眾人」下，是第二，將導譬，此與〈火宅〉、〈方便〉別譬廣頌意同也。就此文為三：一、所將人眾譬。譬本結緣未得度者，本緣不失，而為導師所將，同上〈火宅〉長者見火驚怖、〈方便品〉見五濁而起大悲心。二、中路懈退譬。譬上中間相值退大乘心即以小接，與〈火宅〉中不用身手而歎三車希有、〈方便品〉息大乘化念用方便意也。三、「爾時導師知此人眾」下，滅化引至寶所譬。譬上還為說《法華經》，便集菩薩及聲聞眾為說此經，即與〈火宅〉賜一大車、〈方便〉中但說無上道意同也。分文竟。次釋文，初「所將人眾」者，通是結緣之眾也；若別論者，昔得大益被將已竟，未得大益正是所將；若約五百人三十子中，未得開悟之人也。「中路懈退」者，即是第二譬。文為二：一、退大，二、接小。退大擬上息一，接小擬上施三。退大，文為三：一、「中路懈退」，即擬上無大機。二、「白導師言」擬上不受勸誡，「我等疲極」即是不受勸門，「而復怖畏」即不受誡門。三、「不能復進」者，即擬上息化也。分文竟。次釋者，初、「中路」者，非是半途名中路，但以發心為始、至佛為終，此兩楹間而起退意故名中路。第二、「白導師言」者，自有通途慈悲導師，如文云「有一導師將導眾人」者是也；自有結緣導師，如文云「所將人眾白導師言」是也；自有權智導師，如文云「導師多諸方便」者是也；自有實智導師，如文云「導師知此人眾」是也。今言「白導師」者，正白結緣之導師也，以其退大則大滅、接小則小生，一生一滅感於法身，呼此為「白」。王子知其退大，即是聞其所白。善根微弱、無明所翳，故言「疲極」。憚生死名為「怖畏」。第三、「不能復進前路猶遠」者，見思、塵沙、無明難可卒斷也，然用小乘接之，不令頓還本處亦有進義。「導師多方便」下，第二，即以小接也。上〈火宅〉、〈方便〉開三乘法皆有四意，此中具足。初，多方便譬擬宜。「而作是念」下，第二，傷其失寶譬，知有小無大也。次「作是念已」下，第三，化作城譬，正用方便。「是時疲極之眾」下，第四，入城譬，三乘悟入也。上兩意如文，作化城譬自復為二：先、作化，後、說化。「以方便力」下，正作化；「告眾言」下，正說化。上車譬云，吾為汝等造作此車。今城是有，故須先作。說化城譬擬上勸、示、證也。「汝等勿怖莫得退還」者，勸轉，令前進入城也。「今是大城」乃至「隨意所作」者，是示轉，示城可住也。「若入是城快得安[1]樂」，是證轉，讚城安隱也。「前至寶所亦可得去」者，三藏教中未論前進。一說云，明三乘教時語言，若發大乘求佛者亦善，如其不能但作[2]二乘亦好，例如《勝鬘》云「三乘初業不愚於法」，自知應得作佛，但厭憚不堪，故取永滅耳。若爾成別教。又說云，但令入化城竟，然後更復前進，《大品》、《淨名》中悉有其意。此即別接通意耳。但於今佛未開顯之前，不得彰灼而有此語，若論宿世應有是言。何者？既知退意，王子教化言，汝等若畏生死，且取涅槃消息，然後更行大道，亦可隨意；亦如今人欲學大乘而畏怖生死欲起退心，有人勸言汝且斷煩惱證羅漢，然後更取大道亦可得也。今現在一代化道未周，不得忽有此語，若開權顯實即得說之，如《涅槃》中諸取羅漢者，皆是其義也。「大歡喜」即聞慧，「未曾有」即煖位，「免惡道」即頂位，「快安隱」即忍位，「前入城」即見諦位，「已度想」即無學位，此與〈火宅〉適[3]子願勇銳推排出宅同也。生已度想如得盡智，安隱想如得無生智；又具智德如已度，證斷德如安隱也。有人說寶所者，三界二乘若過即至佛道，佛道是寶所。《大經》有三文：一、至菩提心，二、至菩提，三、至大涅槃門。若至菩提心，必至菩提及涅槃。引此三文者，至菩提心謂至因，菩提、涅槃謂至果。果中有智、斷，菩提是智、涅槃是斷。具說始終、具說智斷，故說三文也。然過五百有三義：一免惡道、二得好路、三是寶所。菩提心謂度惡道，菩提行如平坦路，三得佛道如至寶所，下文云「今為汝說實汝所得非真」，此明度五百惡道也；「為佛一切智當發大精進」，謂行菩提好道也；「汝證一切智十力等佛法」，謂得佛道也。何故要須度五百？二乘度三百，菩薩度四百，佛乘度五百也。
+</div>
+<div class="english-translation">
+**“From ‘Leading the Multitude’”:** This is the second, the **Leading/Conducting Parable**. It matches the intent of the *Burning House* and *Expedient Means* separate parable and wide verse. This text has three parts:<br>
+1.  **Parable of the People Being Led:** Metaphors those who, in the original bonding, had not yet been crossed. The original bond is not lost, and they are led by the guide. This corresponds to the *Burning House* elder seeing the fire and being frightened, and the *Expedient Means* seeing the five turbidities and arousing great compassion.<br>
+2.  **Parable of Slackening Mid‑Road:** Metaphors the intermediate encounter—retreating from the Great Vehicle and then being received with the Small. This corresponds to the *Burning House* not using hands/body but praising the three carts as rare, and to the *Expedient Means* stopping the Great‑Vehicle conversion‑thought and using expedients.<br>
+3.  **From “At that time the guide knew these people” onward:** Parable of **extinguishing the magic and leading to the treasure place**. It metaphors returning to speak the *Lotus Sutra*, gathering bodhisattvas and śrāvakas to speak this sutra—matching the *Burning House* giving one great cart and *Expedient Means* only speaking the unsurpassed path.<br>
+*Parsing complete.* Next, explanation: “People being led” in general are the bonded multitude; specifically, those who previously received great benefit have already been led; those who have not received great benefit are precisely those led; or, among the 500 people/30 sons, those not yet awakened.<br>
+“Slackening mid‑road” is the second parable. The text has two: (1) retreating from the Great; (2) receiving the Small. Retreating from the Great corresponds above to **stopping the One**; receiving the Small corresponds above to **applying the Three**. Retreating has three: (1) “slackening mid‑road” = above, no Great‑vehicle capacity; (2) “telling the guide” = above, not receiving exhortation/discipline; “we are exhausted” = not receiving exhortation; “and further fearful” = not receiving discipline; (3) “cannot go forward” = above, stopping the transformation. *Parsing complete.* Next explanation:<br>
+**“Mid‑road”** is not literal halfway; resolve is the beginning and Buddhahood the end, and between these two pillars the thought of retreat arises—hence “mid‑road.” **“Telling the guide”** includes: a general compassionate guide (“a guide leading the multitude”), a bond‑forming guide (“the people led told the guide”), a provisional‑wisdom guide (“the guide has many expedients”), and a real‑wisdom guide (“the guide knew these people”). Here “told the guide” means the bond‑forming guide. Retreating from the Great makes the Great cease; receiving the Small makes the Small arise—one arising and one ceasing respond to the Dharma‑body; this is called “telling.” The prince knows their retreat from the Great—that is, he hears what they told. Good roots are weak and covered by ignorance; thus “exhausted.” Fear of birth and death is called “fearful.” **“Cannot advance; the road ahead is far”** refers to view‑thought, dust‑sand, and ignorance delusions being hard to cut quickly; yet by receiving with the Small Vehicle they are not suddenly returned to the original place, and there is still a sense of progress.<br>
+From “The guide has many expedients” downward is the second part—**receiving with the Small**. Above, *Burning House* and *Expedient Means* opening the Three Vehicles have four meanings; here they are complete: (1) “many expedients” parable = fitting suitability; (2) from “and he thought thus” = lamenting the loss of the treasure, knowing there is Small and no Great; (3) from “having thought thus” = conjuring the city, properly using expedients; (4) from “at that time the exhausted multitude” = entering the city, the Three Vehicles awakening/entering. The first two are as the text says. The conjured‑city parable again has two: first conjuring, then speaking. “By the power of expedients” is the actual conjuring; “telling the multitude” is the speaking. In the cart parable it said, “I made this cart for you.” Here the city is existent, so it must first be made. Explaining the conjured‑city parable corresponds to **exhortation, demonstration, and proof**: “Do not fear; do not return” = exhortation turning, leading them to enter the city. “Now this is a great city… you may act as you wish” = demonstration turning, showing it is a place to dwell. “If you enter this city you will quickly gain peace and joy [1]” = proof turning, praising its safety.<br>
+“From here to the treasure place you can also go”: In the Tripitaka teaching, advancing beyond was not discussed. One explanation: when explaining the Three Vehicles, if one arouses Mahayana seeking Buddhahood, that is good; if unable, one may take the [2] Two Vehicles—e.g., *Śrīmālā* says “those of the Three Vehicles at the first stage are not deluded about the Dharma”; they know they should become Buddhas but are tired and cannot bear it, so they take permanent extinction. If so, it becomes the Distinct Teaching. Another says: after entering the conjured city, then advance; *Da Pin* and *Vimalakīrti* have this meaning—this is the Distinct‑meeting‑Common intent. But before the present Buddha has opened and revealed, one must not openly say this; regarding past lives, one should have spoken thus. Why? Knowing their retreat, the prince teaches: if you fear birth and death, first take the rest of Nirvana, then practice the great path; likewise today, if one fears birth and death and wants to retreat, someone advises: first cut afflictions and certify Arhatship, then later take the great path. In this present lifetime, the teaching work is not yet complete, so one must not suddenly say this; once the provisional is opened and the real revealed, one may say it—this is the meaning of those who take Arhatship in the *Nirvana Sutra*.<br>
+“Great joy” = hearing‑wisdom; “never had” = warm stage; “freed from evil paths” = summit stage; “quick peace” = patience stage; “entering the city before” = seeing‑truth stage; “already passed the thought” = no‑learning stage—matching the *Burning House*’s apt [3] son who courageously pushes them out of the house. “Already passed the thought” is like attaining exhaustion‑knowledge; “peaceful thought” is like attaining non‑arising‑knowledge. It also has wisdom‑virtue as “already passed,” and severing‑virtue as “peaceful.”<br>
+Someone says the treasure place is: once the three realms and two vehicles are passed, one reaches the Buddha‑path; the Buddha‑path is the treasure place. The *Mahāparinirvāṇa Sutra* has three passages: (1) reaching bodhicitta, (2) reaching bodhi, (3) reaching the gate of great nirvana. If one reaches bodhicitta, one must reach bodhi and nirvana. These three passages show: bodhicitta is cause; bodhi and nirvana are fruit. In the fruit there is wisdom and severing: bodhi is wisdom, nirvana is severing. It explains beginning/end and wisdom/severing, hence three passages. Yet passing five hundred has three meanings: (1) escaping evil paths, (2) obtaining a good road, (3) reaching the treasure place. Bodhicitta is crossing the evil path; bodhi practice is like a level road; the third is reaching Buddhahood as the treasure place. The later text says, “Now I tell you the truth: what you obtained is not real”—this clarifies crossing the five‑hundred evil path; “for the Buddha’s all‑wisdom you should arouse great vigor” means practicing the bodhi good road; “you will realize all‑wisdom, the ten powers, and other Buddha‑dharmas” means attaining the Buddha‑path. Why must one cross five hundred? The Two Vehicles cross three hundred, bodhisattvas cross four hundred, and the Buddha‑vehicle crosses five hundred.<br>
+</div>
+</div>
+*[Critical apparatus: [1] 樂【大】，隱【甲】; [2] 二【大】，三【甲】; [3] 子【大】，〔－〕【甲】]*
+
+
+<div class="bilingual-row">
+<div class="chinese-source">
+「爾時導師知此」下，第三，滅化引至寶所。此中有二：一、知息已，二、向寶所。「既得止息無復疲倦」者，譬上涅槃時到，眾又清淨、免難，大機發也。「即滅化城」引向寶所，譬上正說《法華》示真實相。寶所有二義：若用究竟，則以極果為寶所，上文云「唯佛與佛乃能究[4]竟諸法實相」也；若分入，即以初發心住為寶所，故上文云「無上寶聚不求自得」，又云「得佛法分」，佛子所應得者皆已得之。《大經》云「須陀洹者八萬劫到」，到初發菩提心處也，此取鈍根任運用八萬十千等至；若如三藏中四果，不經少時皆得入大，豈須八萬之與十千耶(云云)。
+
+「寶處在近，向者大城我所化作」，即舉廢權譬，以帖顯實譬也。上云「如來智慧難信難解，是諸人等應以是法漸入佛慧」，擬方便中云「[5]我令脫苦縛逮得涅槃」者，佛以方便力示以三乘教也。
+</div>
+<div class="english-translation">
+**“From ‘At that time the guide knew this’”:** Third, **extinguishing the magic and leading to the treasure place**. This has two parts: (1) knowing they have rested; (2) directing toward the treasure place. “Having already attained rest and no longer being weary” metaphors the above: the time of Nirvana arrives, the assembly is again pure and free of difficulty, and the great capacity is aroused. “Immediately extinguishing the conjured city” leads them toward the treasure place, metaphorizing the above **correctly speaking the *Lotus* and revealing true reality**. The treasure place has two meanings: if taken as **ultimate**, then the treasure place is the ultimate fruit—above it says, “Only Buddha and Buddha can fully know[4] the real mark of all dharmas.” If taken as **partial entry**, then the treasure place is the first arousal of bodhicitta; thus above it says, “The unsurpassed treasure‑heap is obtained without seeking,” and also “obtaining a share of Buddha‑dharma”—what the Buddha’s children ought to obtain they have already obtained. The *Mahāparinirvāṇa Sutra* says, “A srota‑āpanna reaches it in eighty‑thousand kalpas”—that is, reaching the place of first arousing bodhicitta. This is for dull roots, letting them progress in eighty‑thousand or ten‑thousand [kalpas]; but as in the Tripiṭaka’s four fruits, they can enter the Great without long time—why must there be eighty‑thousand or ten‑thousand? (etc.).<br>
+
+“The treasure place is near; the great city before was what I conjured”—this raises the **abandoning‑provisional** parable to attach the **revealing‑real** parable. Above it says, “The Tathagata’s wisdom is hard to believe and understand; these people should gradually enter Buddha‑wisdom by this Dharma,” corresponding to *Expedient Means* saying, “ [5]I caused them to be freed from the bonds of suffering and to attain Nirvana”—the Buddha uses expedient power to show the Three Vehicles teaching.<br>
+</div>
+</div>
+*[Critical apparatus: [4] 竟【大】，盡【甲】; [5] 我【大】，〔－〕【甲】]*
 
 ### 5. The Magic City and the Three Cars (Lines 241-260)
 
@@ -364,11 +459,11 @@ To understand the "Difficulties/Afflictions" (*Xiǎn Nàn*):<br>
 
 問：化為三車，與化城何異？
 
-答：三車為說法輪作譬，化城為神通輪作譬。又車約聲作譬，諸子聞而不見；城為色作譬。問：城與二使云何？使能指示，如教詮理；城為息患，教動而城靜。教即四諦、十二緣有異；城是二智入無餘不異。教通因果；城車但在果。教通有為無為；城車但在無為。權智謂車是無，名教施設故；實智謂車是有，無離文字說解脫故。權智照城為有，引眾生故；實智照城是無，偏真非實故。權智照車是三，逗三緣故；實智照車是一，俱會一乘故。權智照城為一，是偏真故；實智照城為三，如來藏故。權智照城為靜，是灰斷故；實智照城為動，滅此化故。權智照車為運，運入無餘故；實智照車為靜，不動不出故。作如此釋豈與舊同？舊秖在小乘中作義。
+答：三車為說法輪作譬，化城為神通輪作譬。又車約聲作譬，諸子聞而不見；城為色作譬。問：城與二使云何？使能指示，如教[1]詮理；城為息患，教動而城靜。教即四諦、十二緣有異；城是二智入無餘不異。教通因果；城車但在果。教通有為無為；城車但在無為。權智謂車是無，名教施設故；實智謂車是有，無離文字說解脫故。權智照城為有，引眾生故；實智照城是無，偏真非實故。權智照車是三，逗三緣故；實智照車是一，俱會一乘故。權智照城為一，是偏真故；實智照城為三，如來藏故。權智照城為靜，是灰斷故；實智照城為動，滅此化故。權智照車為運，運入無餘故；實智照車為靜，不動不出故。作如此釋豈與舊同？舊[2]秖在小乘中作義。
 
 問：凡五處開三顯一，為有何異？
 
-答：通論無異，別論有差。〈方便品〉約教開三顯一，文云「如來但以一佛乘故，為眾生說法，無二亦無三」也。〈火宅〉約行開三顯一，車是運義，運則譬行，文云「各乘大車遊於四方，嬉戲快樂」也。〈信解〉中約人開三顯一，結會傭作之人即是長者之兒，「我等昔來真是佛子」也。〈藥草喻〉中，約差別無差別明權實，不的去取，但明眾生不知，佛令其知。若七種差別即知權，同依一理無差別即知實。差別無差別，無差別而差別，令知此意耳，終不說言無一有一，此約自行權實二智隨自意語，故佛能知而眾生不知也。亦是通前通後，知不知明權實也。今化城正約理開三顯一，寶所化城，皆是小大兩理，破除二乘化理，顯於寶所真實一理也。下去五百領解舉珠為譬，亦是約理也。
+答：通論無異，別論有差。〈方便品〉約教開三顯一，文云「如來但以一佛乘故，為眾生說法，無二亦無三」也。〈火宅〉約行開三顯一，車是運義，運則譬行，文云「各乘大車遊於四方，嬉戲快樂」也。〈信解〉中約人開三顯一，結會傭作之人即是長者之兒，「我等[A2]昔來真是佛子」也。〈藥草喻〉中，約差別無差別明權實，不的去取，但明眾生不知，佛令其知。若七種差別即知權，同依一理無差別即知實。差別無差別，無差別而差別，令知此意耳，終不說言無一有一，此約自行權實二智隨自意語，故佛能知而眾生不知也。亦是通前通後，知不知明權實也。今化城正約理開三顯一，寶所化城，皆是小大兩理，破除二乘化理，顯於寶所真實一理也。下去五百領解舉珠為[3]譬，亦是約理也。
 </div>
 <div class="english-translation">
 **1. Q/A: Three Cars vs. One City (*Sān Chē Yī Chéng*):**<br>
@@ -395,37 +490,33 @@ To understand the "Difficulties/Afflictions" (*Xiǎn Nàn*):<br>
     *   **3 Cars:** Metaphor for the **Dharma Wheel** (Sound). Children hear but don't see.<br>
     *   **Magic City:** Metaphor for the **Supernatural Power Wheel** (Form/Color).<br>
 *   **Analysis:**<br>
-    *   **City vs. Messengers:** Messengers (Ch 4) point the way (Teaching). City rests the affliction (Result).<br>
+    *   **City vs. Messengers:** Messengers (Ch 4) point the way (Teaching [1]). City rests the affliction (Result).<br>
     *   **Dynamic/Static:** Teaching moves (Methods change). City is static (Nirvana is same).<br>
     *   **Provisional/Real Dialectic:**<br>
         *   Provisional Wisdom sees City as One (Partial Truth). Real Wisdom sees City as Three (Tathagatagarbha has aspects).<br>
         *   Provisional Wisdom sees City as Static (Grey Body/Extinguished Knowledge). Real Wisdom sees City as Dynamic (Extinguishing the Magic to advance).<br>
-        *   *Zhiyi's Critique:* Old masters only interpreted within the Small Vehicle. This explanation uses the Great Vehicle.<br>
+        *   *Zhiyi's Critique:* Old [2] masters only interpreted within the Small Vehicle. This explanation uses the Great Vehicle.<br>
+<br>
+**3. Q/A: The Five Places Opening Three and Revealing One:**<br>
+*   **Question:** In all five places opening the three and revealing the one, what differences are there?<br>
+*   **Answer:** Generally there is no difference; specifically there are distinctions.<br>
+    *   **Expedient Means:** By teaching; it says, “The Tathāgata only uses the one Buddha‑vehicle to teach beings; there are not two and not three.”<br>
+    *   **Burning House:** By practice; the cart signifies carrying/transport, thus practice; it says, “Each rides a great cart and roams the four directions, playing in delight.”<br>
+    *   **Faith Understanding:** By persons; those hired workers are the elder’s son; “We [A2] in the past were truly Buddha‑sons.”<br>
+    *   **Medicinal Herbs:** By difference and non‑difference to clarify provisional and real. It does not explicitly accept or reject; it only shows that beings do not know and the Buddha lets them know. If the seven kinds of difference are known, that is provisional; if all rely on one principle without difference, that is real. Difference within non‑difference and non‑difference within difference is taught so they know this meaning; it never says there is no one or there is one. This is the Buddha’s own speech of the two wisdoms of provisional and real; thus the Buddha can know and beings cannot know. It also connects earlier and later, using knowing/not‑knowing to clarify provisional and real.<br>
+*   **Magic City:** Here it is primarily by principle to open three and reveal one. The treasure place and the magic city are the two principles of small and great; it breaks the two‑vehicle transformed principle and reveals the treasure place’s true one principle.<br>
+*   **Below:** In the 500 disciples’ understanding, the jewel is used as a parable [3]; this too is by principle.<br>
+</div>
+</div>
+*[Critical apparatus: [1] 詮【大】，論【甲】; [2] 秖【大】，只【甲】]*
+*[Critical apparatus: [A2] 昔【CB】，音【大】; [3] 譬【大】，喻【甲】]*
 
 ### 6. The Parable Conclusion and Verse Analysis (Lines 261-293)
 
-<div class="bilingual-row">
-<div class="chinese-source">
-凡五處開三顯一，為有何異？答：通論無異，別論有差。〈方便品〉約教開三顯一，文云「如來但以一佛乘故，為眾生說法，無二亦無三」也。〈火宅〉約行開三顯一，車是運義，運則譬行，文云「各乘大車遊於四方，嬉戲快樂」也。〈信解〉中約人開三顯一，結會傭作之人即是長者之兒，「我等昔來真是佛子」也。〈藥草喻〉中，約差別無差別明權實，不的去取，但明眾生不知，佛令其知。若七種差別即知權，同依一理無差別即知實。差別無差別，無差別而差別，令知此意耳，終不說言無一有一，此約自行權實二智隨自意語，故佛能知而眾生不知也。亦是通前通後，知不知明權實也。今化城正約理開三顯一，寶所化城，皆是小大兩理，破除二乘化理，顯於寶所真實一理也。下去五百領解舉珠為譬，亦是約理也。
-</div>
-<div class="english-translation">
-**1. The Five Places of Opening the Three (*Wǔ Chù Kāi Sān*):**<br>
-**Question:** In total, there are five places that "Open the Three to Reveal the One." What is the difference between them?<br>
-**Answer:**<br>
-*   **General Discussion (*Tōng Lùn*):** There is no difference (all reveal the One Vehicle).<br>
-*   **Specific Discussion (*Bié Lùn*):** There are distinctions.<br>
-    1.  **Expedient Means Chapter:** Opens the Three via **Teaching** (*Yuē Jiào*). The text says: "The Tathagata speaks Dharma only because of the One Buddha Vehicle there is no second, nor a third."<br>
-    2.  **Burning House Parable:** Opens the Three via **Practice** (*Yuē Xíng*). The Cart implies "Transport" (*Yùn*), and transport metaphors Practice. The text says: "Each riding a Great Cart, roaming the four directions, playing and enjoying."<br>
-    3.  **Belief and Understanding Chapter:** Opens the Three via **Person** (*Yuē Rén*). It connects the "Hired Laborer" as being the "Elder's Son." Text: "We have originally been true Buddha Sons."<br>
-    4.  **Herbs Parable:** Clarifies Provisional and Real via **Differentiation vs. Non-Differentiation** (*Yuē Chā Bié Wú Chā Bié*). It does not explicitly discard or take, but clarifies that sentient beings "Do not know," and the Buddha makes them know. If one knows the seven differences (Seven Provisional), one knows the Provisional. If one relies on the One Principle of Non-Difference, one knows the Real. This is regarding the **Two Wisdoms of Self-Practice** (*Zì Xíng Quán Shí Èr Zhì*), spoken according to the Buddha's own will (*Suí Zì Yì Yǔ*). Thus the Buddha knows, but beings do not.<br>
-    5.  **Magic City Parable (Current):** Opens the Three via **Principle/Reason** (*Yuē Lǐ*). The Treasure Trove and Magic City represent the **Two Principles of Small and Great** (*Xiǎo Dà Liǎng Lǐ*). It destroys the "Magic Principle" of the Two Vehicles to reveal the "True Principle" of the Treasure Trove. <br>
-    *   *Note:* The "Hidden Jewel" below (500 Disciples) is also about Principle.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-「諸比丘如來」下，第二，合譬，先正合，後舉譬帖合，而不次第。「如來亦復如是」下，初，合第五導師譬。「今為汝等」下，第二，合第三多諸人眾譬。「知諸生死煩惱惡道險難」下，第三，合第二險惡道譬。「長遠」二字，第四，合第一五百由旬譬。「應去應度」者，第五，合聰慧明達，亦是合第四欲過險道至珍寶處也。「若眾生但聞」下，合第二將導譬。譬本有三，今亦合三：「若眾生」合第一所將人眾也；「但聞一佛乘」者，合第二退大接小譬；「若眾生住於二地」下，合第三滅化將至寶所譬也。
+「諸比丘如來」下，第二，合譬，先正合，後舉譬帖合，而不次第。「如來亦復如是」下，初，合第五導師譬。「今為汝等」下，第二，合第三多諸人眾譬。「知諸生死煩惱惡道險難」下，第三，合第二險惡道譬。「長遠」二字，第四，合第一五百由旬譬。「應去應度」者，第五，合聰慧明達，亦是合第四欲過險道至珍寶處也。「若眾生但聞」下，合第二將導譬。譬本有三，今亦合三：「若眾生」合第一所將人眾也；「但聞一佛乘」者，合第二退大接小譬；「若眾生住於二地」下，合第三滅化將至寶所譬也。第二譬本有退大、接小，今具合之。上退大有三意，「但聞一佛乘」者，合上中路懈退，無機意也；「不欲見佛不欲聞法」，合上白導師，不受誡勸也；「便作是念」者，合上不能前進，息化意也。「佛知是心」下，合上小接退。譬本有四，今合但三：「佛知是心」合上導師多方便，擬宜意也；「怯弱下劣」者，合上此等可愍，知有小機也；「而於中道為止息故」下，合第三現作化城，眾人入城譬也；「而於中道說二涅槃」者，三界惑盡，塵沙、無明未破，於此兩楹判有餘、無餘涅槃，亦是聲聞、緣覺涅槃。又分段已盡、變易未除，二死之間判為有餘、無餘，故言中道(云云)。「若眾生住於二地」下，合第三將至寶所。上文有二，今合亦二：「若眾生住於二地」，此合知止息已；「如來爾時即便為說」下，此合將向寶所。「如彼導師」下，第二，牒譬帖合，牒接退譬來合施三，牒滅化譬來合顯一，如文(云云)。
 </div>
 <div class="english-translation">
 **2. Joining the Parable (*Hé Pì*):**<br>
@@ -441,12 +532,15 @@ This section joins the metaphors to the Dharma. It does not follow the original 
 *   **"If sentient beings only hear":** Joins with the **Leading Metaphor**.<br>
 *   **"Only hear One Buddha Vehicle":** (They become anxious/retreat). Joins with **Retreating from Great to receive Small**.<br>
 *   **" If sentient beings dwell in the Two Lands":** Joins with **Extinguishing Magic to reach the Treasure**.
+
+**Further Joining of the Second Parable (Retreating/Receiving):**<br>
+The second parable originally has **retreating from the Great** and **receiving the Small**; here it is fully joined. In the retreating from the Great there are three meanings: “only hearing one Buddha‑vehicle” joins the previous mid‑road slackening (no capacity); “not wishing to see the Buddha, not wishing to hear the Dharma” joins the previous telling the guide (not accepting admonition/exhortation); “then they think thus” joins the previous inability to advance (stopping the transformation). From “the Buddha knows this mind” downward joins the previous receiving‑with‑the‑Small. The parable originally has four; here it joins only three: “the Buddha knows this mind” joins the previous “the guide has many expedients” (fitting suitability); “cowardly and inferior” joins the previous “these are pitiable” (knowing there is small capacity); from “for the sake of rest in mid‑road” downward joins the third, actually creating the conjured city—people entering the city parable; and “in mid‑road he speaks two Nirvanas” means: when three‑realm afflictions are exhausted but dust‑sand and ignorance are not yet broken, between these two pillars he distinguishes remainder and non‑remainder Nirvana, also the Nirvana of śrāvakas and pratyekabuddhas. Also, when fragmentary birth‑death is exhausted and transformational birth‑death not yet removed, between the two deaths he distinguishes remainder and non‑remainder; therefore it is called mid‑road (etc.). From “if sentient beings dwell in the two stages” downward joins the third, leading toward the treasure place. The text above has two; here the joining is also two: “if sentient beings dwell in the two stages” joins knowing they have rested; from “then the Tathagata immediately speaks” downward joins leading toward the treasure place. From “like that guide” downward, second, reiterating the parable to attach the joining—reiterating the receiving‑with‑the‑Small parable to join applying the Three, reiterating the extinguishing‑the‑magic parable to join revealing the One, as in the text (etc.).<br>
 </div>
 </div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-第二，偈頌，四十九行半偈頌上。上有二，今初二十二行半，頌結緣之由；次二十七行，頌第二正結緣。上由有近遠，今初十二行，頌上遠由；次「無量慧世尊」下十行半，頌近由。上遠由有二，今初六行頌大通成道，次六行頌十方梵來請轉法輪。上成道中有五，今初三行頌第二將成道前事；次「過十小劫已」下，第二，一行，頌第三正成道；次「彼佛十六子」下，第三，二行，頌第五十六子請轉法輪，兼頌第四成道已眷屬申供養，略不頌第一佛壽長遠也。「世尊甚難值」下六行，頌十方梵請。上有二，今初一行，頌威光動耀；次「東方諸」下，第二，五行，頌十方梵尋光而來。此中前三行頌東方，次二行總頌九方也。從「無量慧世尊」下，第二，十行半，頌近由。上有二，今初五行，頌第一轉二乘法輪；次「時十六王子」下，第二五行半，頌第二重請轉大乘法輪。上第一文復三，初「無量」下，半行，頌第一受請；次「為宣」下，第二，一行半，頌第二正轉二乘法輪；次「宣暢」下，第三，三行，頌第三時眾聞法得道。
+第二，偈頌，四十九行半偈頌上。上有二，今初二十二行半，頌結緣之由；次二十七行，頌第二正結緣。上由有近遠，今初十二行，頌上遠由；次「無量慧世尊」下十行半，頌近由。上遠由有二，今初六行頌大通成道，次六行頌十方梵來請轉法輪。上成道中有五，今初三行頌第二將成道前事；次「過十小劫已」下，第二，一行，頌第三正成道；次「彼佛十六子」下，第三，二行，頌第五十六子請轉法輪，兼頌第四成道已眷屬申供養，略不頌第一佛壽長遠也。「世尊甚難值」下六行，頌十方梵請。上有二，今初一行，頌威光動耀；次「東方諸」下，第二，五行，頌十方梵尋光而來。此中前三行頌東方，次二行總頌九方也。從「無量慧世尊」下，第二，十行半，頌近由。上有二，今初五行，頌第一轉二乘法輪；次「[1]時十六王子」下，第二五行半，頌第二重請轉大乘法輪。上第一文復三，初「無量」下，半行，頌第一受請；次「為宣」下，第二，一行半，頌第二正轉二乘法輪；次「宣暢」下，第三，三行，頌第三時眾聞法得道。
 </div>
 <div class="english-translation">
 **3. Verse Analysis (*Jì Sòng*):**<br>
@@ -464,7 +558,7 @@ There are **49 and a half lines** of verse relating to the above.<br>
         *   **Half Line:** Receiving the request.<br>
         *   **1.5 Lines:** Turning the Two Vehicle Wheel.<br>
         *   **3 Lines:** The assembly hears Dharma and attains the Way.<br>
-    *   **Next 5.5 Lines:** Praise the **Second, Repeated Request to turn the Great Vehicle Dharma Wheel** by the Sixteen Princes.<br>
+    *   **Next 5.5 Lines:** Praise the **Second, Repeated Request to turn the Great Vehicle Dharma Wheel** by the [1] Sixteen Princes.<br>
 
 **B. Praise of the Actual Bonding (`27 Lines`):**<br>
 *   **"These Novices" onwards:**<br>
@@ -475,6 +569,27 @@ There are **49 and a half lines** of verse relating to the above.<br>
 *   **Key Insight:** The verses re-iterate the prose but add emotional depth, highlighting the "Sincerity of the Bond" (*Jié Yuán Zhī Chéng*) and the "Virtue of the Buddha."
 </div>
 </div>
+*[Critical apparatus: [1] 時【大】，〔－〕【甲】]*
+
+<div class="bilingual-row">
+<div class="chinese-source">
+「時十六王子」下，五行半，第二，王子重請。中有七：初二句，頌第一王子出家；次「皆共請彼」下，第二，一行半，頌第二正請轉大乘；次「佛知童子」下，第三，二行，[2]頌二萬劫中間說方等《般若》；次「說是法華」下，第四，半行，正頌第四受請說《法華》；次「彼佛說經已」下，第五，一行，頌第七說經已入定，略不頌第三父王所將八萬求出家、第五聞經之眾有解不解、第六說經時節長久也。
+</div>
+<div class="english-translation">
+**“From ‘At that time the sixteen princes’”:** Five and a half lines, second—the princes’ repeated request. There are seven parts: the first two phrases praise the first (the princes leaving home); next, from “all together requested that Buddha,” second, one and a half lines praise the second (properly requesting the Great‑Vehicle turning); next, from “the Buddha knew the boys,” third, two lines—[2] praising the two‑ten‑thousand kalpas in between when Vaipulya and Prajñā were spoken; next, from “speaking this *Lotus*,” fourth, half a line—directly praising the fourth (accepting the request and speaking the *Lotus*); next, from “after that Buddha spoke the sutra,” fifth, one line—praising the seventh (after speaking, entering samādhi), omitting the third (the father‑king’s 80,000 seeking to leave home), the fifth (among those hearing, some understood and some did not), and the sixth (the long duration of teaching).<br>
+</div>
+</div>
+*[Critical apparatus: [2] 頌【大】，頌第四【甲】]*
+
+<div class="bilingual-row">
+<div class="chinese-source">
+「是諸沙彌[3]等」下，二十七行，頌正結緣。上文有二，今初八行頌法說，次十九行頌譬說。上法說有三，今初三行頌第一昔結因緣，次一行頌第二中間相值，次四行頌第三今日還說法華。上昔結因緣有四，初半行頌佛入定；次「為無量億」下，第二，一行半，頌正覆講；後「一一沙彌」下，第三，一行，頌聞法得益，略不頌第四佛起定稱歎也。[4]次「彼佛滅度[5]後」下，第二，[6]三行，頌中間相遇。「是十六沙彌」下，第三，四行，頌今[7]日說《法華》。上[8]文二：初、結會古今，有現在未來，今初三行頌結會現在師弟子。「以是本因緣」下，第二，一行，頌還說《法華》，上文有三，今初一句頌第一時眾清淨，以是本因緣，今日時眾免難機發也；次「今說法華」下，第二，三句，頌第二為說是經也，略不頌第三釋開三意也。「險惡道」下，第二，十九行，頌譬開合，初十一行半頌開譬，後七行半頌合譬。上開譬為二，今初三行頌五百由旬譬，次八行半頌將導譬。上五百譬有五，今初一行頌第二險惡道；次「無數千萬」下，第二，半行，頌第三多諸人眾；次「其路甚」下，第三，半行，頌第一五百由旬；次「時有一導師」下，第四，一句，頌第五一導師；「強識有」下，三句，頌聰慧明達也，不頌第四。「眾人皆疲倦」下，第二，有八行半，頌第二將導譬。上文有三，今亦頌三：初二字頌上第一將導；從「皆疲倦」下，第二，五行三句三字，頌第二眾人懈退權立化城譬；次「導師知已」下，第三，[9]二行半，頌第三滅化引至寶所譬。上第二文有二，謂初、懈退，次、接退。今初三句三字頌懈退，次五行頌作化接退。上懈退中有三，今略不頌第一中路也。上接退作化文，今皆具頌，初一行頌第二傷失大；次「尋時思」下，第二，二句，頌第一作念；次「化作大城」下，第三，二行半，頌第三作化。上文又二，今初一行半，頌正作化譬。「諸舍宅」者，諸空觀境也。「園林」者，二乘總持無漏法林也。九次第定為「渠流」，八解為「浴池」，「重門」是三空門，又是重空三昧盡無生智，為樓閣高出也。「男女」是定慧也。觀心解者，智體周備如城隍，善法圓足如郭之圍繞，畢竟空為舍宅，[10]直善能成自行，如男能幹家事，慈悲外化如女外適。次「即作是化已」下，第二，一行，頌上說化。次「諸人既入」下，第四，一行，頌[11]第四入城。「導師知息已」下，第三，兩行半，頌第三滅化至寶所。上文有二，今初一句頌第一知息已；次「集眾」下，第二，二行一句，頌滅化引向寶所也。「我亦復如是」下，第二，七行半，頌第二合二譬，初半行頌合第一五百譬，次七行頌合第二將導譬。上合五百，又有四，今半行總頌而已也。「見諸求[12]道者」兩行，頌合懈退譬。上頌開譬不頌中路，今一行合中路懈退，次一行頌合接退作化也。「既知到涅槃」下，第二，五行，頌第二合滅化至寶所。上文合二，今頌亦二：初半行頌第一知息已；「爾乃集大眾」下，第二，三行半，頌第二合滅化引向寶所也。合息化偈中，即有三德祕密藏義：「汝證一切智」即是般若，「具三十二相」即是法身，「乃是真實滅」即是解脫，三法不縱不橫，即是見佛性也。「諸佛之導師」下，一行，頌帖合也。
+</div>
+<div class="english-translation">
+**“From ‘These śrāmaṇeras [3]…’”:** Twenty‑seven lines, praising the correct bonding. The prose above has two; now the first eight lines praise the **Dharma explanation**, and the next nineteen lines praise the **parable explanation**. The Dharma explanation has three: now the first three lines praise the first (former bonding causes); next one line praises the second (intermediate encounter); next four lines praise the third (today returning to speak the *Lotus*). The former bonding has four: first half‑line praises the Buddha entering samādhi; next, from “for countless …” second, one and a half lines praise the re‑explaining; later, from “each śrāmaṇera” third, one line praises hearing Dharma and benefiting—omitting the fourth (the Buddha rising from samādhi to praise). [4] Next, from “after that Buddha’s extinction [5]” the second, [6] three lines praise intermediate encounter. From “these sixteen śrāmaṇeras” the third, four lines praise today’s[7] speaking of the *Lotus*. The above text has [8] two: first, connecting ancient and modern (present and future). Now the first three lines praise connecting the present teachers and disciples. From “by these original causes and conditions” onward, second, one line praises returning to speak the *Lotus*—the prose above has three; now the first line praises the first (assembly pure): by these original causes and conditions, today’s assembly is free of difficulty and capacities arise. Next, from “now speak the *Lotus*” onward, second, three phrases praise the second (speaking this sutra), omitting the third (explaining the opening of the Three). From “dangerous evil road” onward, second, nineteen lines praise the opening and joining of the parable: first 11.5 lines praise the opening; later 7.5 lines praise the joining. The opening parable has two: now the first three lines praise the 500‑yojanas parable; the next eight and a half lines praise the leading parable. The 500‑yojanas parable has five: now the first line praises the second (dangerous evil road); next, from “countless thousands…” second, half‑line praises the third (many multitudes); next, from “the road is very…” third, half‑line praises the first (500 yojanas); next, from “there was a guide” fourth, one phrase praises the fifth (one guide); from “strongly knowing…” three phrases praise cleverness and penetration, not praising the fourth. From “the people were all weary” onward, second, eight and a half lines praise the leading parable. The prose has three; now it also praises three: the first two characters praise the first leading; from “all weary” onward, second, five lines three phrases three characters praise the second (multitudes slacken and provisionally establish the conjured city); next, from “the guide knew” onward, third, [9] two and a half lines praise the third (extinguishing the magic and leading to the treasure). The second prose has two—first slackening, second receiving; now the first three phrases three characters praise slackening, and the next five lines praise making the conjured city to receive. In the slackening portion there are three; now it omits praising the first mid‑road. In the receiving/conjuring portion it praises all: first line praises the second (lamenting loss of the Great); next, from “then thought” second, two phrases praise the first (forming the thought); next, from “conjuring a great city” third, two and a half lines praise the third (conjuring). The prose has two; now the first one and a half lines praise the actual conjuring parable. “Houses” are the realms of empty contemplation; “parks/groves” are the two‑vehicle dhāraṇī forests of non‑outflow dharmas. The nine successive samādhis are “channels”; the eight liberations are “bathing pools”; “double gates” are the three gates of emptiness and also the double‑emptiness samādhi that exhausts non‑arising wisdom, as towers rise high. “Men and women” are concentration and wisdom. In contemplative interpretation, the wisdom‑body is complete like city walls; good dharmas are full like encircling outer walls; ultimate emptiness is the houses; [10] straight good can accomplish self‑practice like men managing household affairs; compassionate external transformation is like women marrying outward. Next, from “having conjured thus” onward, second, one line praises the speaking of the conjuring. Next, from “after the people entered” onward, fourth, one line praises [11] the fourth (entering the city). From “the guide knew they had rested” onward, third, two and a half lines praise the third (extinguishing the magic and reaching the treasure). The prose has two; now the first phrase praises knowing they have rested; next, from “gathering the assembly” onward, second, two lines and one phrase praise extinguishing the magic and leading to the treasure. From “I am also like this” onward, second, seven and a half lines praise the joining of the two parables: first half‑line praises joining the first (500‑yojanas) parable; next seven lines praise joining the second (leading) parable. The joining of the 500 has four; now half‑line summarizes. “Seeing those who seek the [12] Way” two lines praise joining the slackening parable. In the opening parable, the mid‑road was not praised; now one line joins the mid‑road slackening, and the next line praises joining the receiving/conjuring. From “already knowing they have reached Nirvana” onward, second, five lines praise joining the extinguishing‑magic and leading‑to‑treasure parable. The joining prose has two; now the verse also has two: first half‑line praises knowing they have rested; next, from “then gathers the great assembly” onward, second, three and a half lines praise joining extinguishing the magic and leading to the treasure. In the extinguishing‑magic verse there is the hidden treasury of three virtues: “you will realize all‑wisdom” is prajñā; “possessing the thirty‑two marks” is dharmakāya; “that is true extinction” is liberation. The three dharmas are not vertical and not horizontal—this is seeing Buddha‑nature. From “Buddhas are guides” onward, one line praises the concluding joining.<br>
+</div>
+</div>
+*[Critical apparatus: [3] 等【大】，〔－〕【甲】; [4] 次【大】，〔－〕【甲】; [5] 後【大】，〔－〕【甲】; [6] 三【大】，一【甲】; [7] 日【大】，日還【甲】; [8] 文【大】，文有【甲】; [9] 二【大】，兩【甲】; [10] 直【大】，真【甲】; [11] 第四【大】，〔－〕【甲】; [12] 道【大】，導【甲】]*
 
 ## XI. EXPLANATION OF 500 DISCIPLES CHAPTER (Lines 294-312; CBETA 007:294–312)
 
@@ -484,7 +599,7 @@ There are **49 and a half lines** of verse relating to the above.<br>
 <div class="chinese-source">
 釋五百弟子受記品
 
-此品具記千二，而標「五百」者何？五百得記名同，五百口陳領解，故以標品耳。此品是因緣說中第二段。就得記有二：一、千二百，二、二千。千二復二：一、授滿願，二、授千二百。滿願復二：一、序默領解，二、如來述記。先敘其得解歡喜，次敘其默念領解。歡喜復二：一、敘其得解之由，二、敘其得解歡喜。得解之由有四：初、聞法譬，二周開三顯一；二、授身子等五大弟子記；三、復聞宿世結緣之事；四、復聞諸佛如來三達無礙。觀彼久遠猶若今日，即是大自在神通之力，斥異二乘止齊八萬也。若「從佛聞是智慧」，即領〈方便〉、〈火宅〉中顯實；「方便隨宜所說」，即領兩處開權。「諸大弟子」即領開權，「授菩提記」即領顯實；「宿世因緣」即領顯實，「神通之力」即領開權也。「得未曾有」下，敘其得解歡喜，先明內解歡喜，次明外形恭敬。由昔未聞開權顯實而今得聞，故言「得未曾有」，除涅槃愛斷破別惑故言「心淨」，開佛知見是故「踊躍」，得解由佛故起恭敬也。若約本迹者，慶諸實行耳。
+此品具記千二，而標「五百」者何？五百得記名同，五百口陳領解，故以標品耳。此品是因緣說中第二段。就得記有二：一、千二百，二、二千。千二復二：一、授滿願，二、授千二百。滿願復二：一、序默領解，二、如來述記。先敘其得解歡喜，次敘其默念領解。歡喜復二：一、敘其得解之由，二、敘其得解歡喜。得解之由有四：初、聞法譬，二周開三顯一；二、授身子等五大弟子記；三、復聞宿世結緣之事；四、復聞諸佛如來三達無礙。觀彼久遠猶若今日，即是大自在神通之力，斥異二乘止齊八萬也。若「從佛聞是智慧」，即領〈方便〉、〈火宅〉中顯實；「方便隨宜所說」，即領兩處開權。「諸大弟子」即領開權，「授菩提記」即領顯實；「宿世因緣」即領顯實，「神通之力」即領開權也。「得未曾有」下，敘其得解歡喜，先明內解歡喜，次明外形恭敬。由昔未聞開權顯實而今得聞，故言「得未曾有」，除涅槃愛斷破別惑故言「心淨」，開佛知見是故「踊躍」，得解由佛故起恭敬[1]也。若約本迹者，慶諸實行耳。
 
 「而作是念」下，正明默念領解。初明默念領解，次明默求發迹請記。上二周得悟，皆發言領解，此何默念？上為下根未悟，事須彰言勸動；今下根已悟，無所勸動，故默念不言。又上來但領解不求發迹言則不嫌，今則亦解亦發，亦解故念，避物譏嫌故默，默念允宜也。又默念領解是大領解，如《淨名》默然是真入不二法門也。又權實不可思議，非言非念而言而念，非言而言故上來口陳領解，亦非念而念，今則默念領解。上來何意不求發迹？為下根未悟，是故不求發迹。今下根已解，權化事足也。若下根發迹，則知中上亦權；若約上中，則於下不便故也。「世尊甚奇特所為希有」者，領實智也。「隨順世間若干種性而為說法」，即領權智也，是七種方便之根性也。此領〈方便品〉中開權顯實意也。「拔出眾生處處貪著」者，即是領〈火宅〉中開權顯實也。「我等於佛功德言不能宣」者，領上《藥草喻》中如來有無量功德汝等所不能及也。既云言不能宣，亦是念所不及也。「唯佛能知」下，即是默念求發迹請記也。「我等」者，通念請發諸人迹也。「深心」是本今，現作是迹。「本願」者，大慈誓願也，大慈下化故我為誓，上求作佛故我有願。請上求即是求記，請說下化即求發迹。又從深心故，明其三世助佛宣化；從本願故即與授記也。
 </div>
@@ -527,7 +642,7 @@ This is the **Third Cycle of Prediction** (Causes and Conditions Cycle).
     *   **"Never had":** Formerly they had not heard Opening-Provisional/ Revealing-Real; now they have.<br>
     *   **"Mind pure":** Removing Nirvana-attachment and breaking distinct delusions.<br>
     *   **"Leaping with joy":** Opening Buddha knowledge/vision.<br>
-    *   **"Reverence":** Understanding arises from the Buddha, hence reverence.<br>
+    *   **"Reverence":** Understanding arises from the Buddha, hence reverence [1].<br>
 *   **Root/Trace View:** If read as Root/Trace, this is celebrating those who practice the Real.<br>
 
 **5. Silent Understanding — Detailed Analysis:**<br>
@@ -609,49 +724,13 @@ There are **49 and a half lines** of verse relating to the above.
 *   **Key Insight:** The verses re-iterate the prose but add emotional depth, highlighting the "Sincerity of the Bond" (*Jié Yuán Zhī Chéng*) and the "Virtue of the Buddha."
 </div>
 </div>
+*[Critical apparatus: [1] 也【大】，〔－〕【甲】]*
 
-## XI. EXPLANATION OF 500 DISCIPLES CHAPTER (Lines 294-312; CBETA 007:294–312)
-
-### 8. The Hidden Jewel Parable (Lines 300-312)
-
-<div class="bilingual-row">
-<div class="chinese-source">
-譬中二：初、略，次、正舉譬。「如無智者」，略舉譬況。「所以者何」下，釋無智意也。譬說有二：一者醉酒譬，譬法說自悔得少為足不知求大，領前法譬宿世中施權意；二者親友覺悟譬，譬法說自責根鈍難悟，今乃知之，領前法譬宿世中顯實。就初復三意：一者繫珠譬，領上王子結緣；二者醉臥不覺譬，領上遇其退大；三者起已遊行譬，領上接之以小。「譬如有人」者，即二乘人也。「親友」者，昔日第十六王子也。「家」即大乘教為家也。「醉酒而臥」者，當于爾時大機暫發無明暫伏，以得聞經內心微解，以無明重故還復迷失。醉有二義：一、重醉，都不覺知；二、輕醉，微覺尋忘亦名不覺。雖有二義，終成繫珠如毒鼓耳。「官事當行」者，明王子餘處機興逗緣往應，故云「當行」。弘法化他此非私務，故云「官事」。「無價寶珠」者，一乘實相真如智寶也。「繫其衣裏」者，慚愧忍辱能遮瞋恚及防外惡，即是外衣；信樂之心內裏善根，即是內衣。于時聞法微信樂欲，即了因智願種子也。第二，「醉臥不覺知」者，無明心重尋復不憶，此領中間懈退不受大法也。第三，「起已遊行他國」者，領上中間接之以小，受三乘化也，善根欲發厭苦求樂，故云「起已遊行」。無明覆解不知向本求大乘衣食，故言向他國求於小乘衣食。若魔佛相望，生死魔界為他國，佛法大小皆為本國；就小大相望，小乘未免生死，猶是他國，大乘永免生死，乃為本土。究竟還源也，明背大乘國往小乘土，不知從珠取給，而傭作自資獲一日價，得少為足也。
-</div>
-<div class="english-translation">
-**The Hidden Jewel in the Robe Parable (*Yī Lǐ Xì Zhū Pì*):**<br>
-*   **Two Layers:** First, a **brief parable**; second, a **full parable**. "Like a man without wisdom" is the brief parable. "Why is this?" explains the meaning of that lack of wisdom.<br>
-*   **Two Parables Explained:**<br>
-    1.  **Drunk Parable:** Metaphors the Dharma explanation—regretting taking the small as sufficient and not seeking the great. This receives the earlier Dharma-parable (past lives giving provisional teachings).<br>
-    2.  **Close Friend Awakening Parable:** Metaphors the Dharma explanation—blaming dull roots and difficult awakening, now finally knowing. This receives the earlier Dharma-parable (past lives revealing the real).<br>
-*   **Drunk Parable (Three Meanings):**<br>
-    1.  **Jewel Tied:** Receives the earlier Princes’ bonding (王子結緣).<br>
-    2.  **Drunk Asleep Unaware:** Receives the earlier retreat from the Great (退大).<br>
-    3.  **Rising and Wandering:** Receives the earlier being led by the Small (接之以小).<br>
-*   **Key Mappings:**<br>
-    *   **"Like a person":** The Two Vehicles person.<br>
-    *   **"Close friend":** The former **16th Prince**.<br>
-    *   **"Home":** The **Mahayana teaching** as home.<br>
-*   **"Drunk and asleep":** At that time, the great capacity temporarily arose and ignorance temporarily subsided. Hearing the sutra brought a slight inner understanding, but because ignorance is heavy, it was lost again. Drunkenness has two meanings: **heavy drunk** (no awareness) and **light drunk** (slight awareness then forgetting). Either way, it still results in the jewel being tied—**like a poison drum** (once struck, its effect is irreversible).<br>
-*   **"Official business to go":** The Prince had other occasions where capacities arose and needed response, so he had to go. Spreading Dharma to transform others is not private business; thus it is called "official business."<br>
-*   **"Priceless jewel":** The **One Vehicle Real Mark**, the True Suchness wisdom-jewel.<br>
-*   **"Tied inside the robe":** Shame and patience that block anger and prevent external evil are the **outer robe**; faith and delight as inner roots are the **inner robe**. At that time, hearing the Dharma with slight faith and delight is the seed of **Understanding-Cause Wisdom and Vow** (*Liǎo Yīn Zhì Yuàn*).<br>
-*   **"Drunk asleep unaware":** Ignorance is heavy and soon forgets; this receives the intermediate-stage retreat, not accepting the Great Dharma.<br>
-*   **"Rising and wandering in another land":** Receives the intermediate leading with the Small, accepting the Three Vehicles’ teaching. Good roots begin to arise, weary of suffering and seeking joy—thus "rising and wandering." Ignorance covers understanding, not knowing to seek Mahayana clothing/food, so one seeks Small Vehicle clothing/food in another land.<br>
-    *   **Demon/Buddha framing:** The samsaric demon realm is the **other land**; Buddha Dharma (small and great) is the **home land**.<br>
-    *   **Small/Great framing:** The Small Vehicle still has samsara, so it is the **other land**; the Great Vehicle is permanently free, thus the **home land**.<br>
-    *   **Ultimate return:** Turning away from the Mahayana homeland to the Small Vehicle land, not knowing to draw from the jewel, one works for daily wages and is satisfied with little.<br>
-*   **Meaning:** You have always had the Jewel (Buddha Nature/Past Bond). You suffered unnecessarily thinking you were poor. Now, simply use the Jewel.<br>
-*   **Conclusion:** The 500 Disciples all receive the prediction of Anuttara-Samyak-Sambodhi.<br>
-*   *[End of Fascicle 7 Part 2]*
-</div>
-</div>
-
-### 9. The Buddha Bestows Prediction and Reveals Origin/Traces (Lines 302-311)
+### 8. The Buddha Bestows Prediction and Reveals Origin/Traces (Lines 302-311)
 
 <div class="bilingual-row">
 <div class="chinese-source">
-「佛告」下，第二，佛述而記之，有長行、偈頌。長行有二：一、述本迹，二、與授記。初有三：一、就釋迦世行因發迹，二、約過去佛世行因顯本，三、就三世佛所修因行滿。就釋迦佛所行因發迹復三：一、舉示其人，二、總標本迹章，三、別釋本迹。即標言「汝等見不」，有二意：一、見其迹為小不，二、見其本功德不。眾人但見迹為聲聞，而不能知本是菩薩，故云見不。「我常稱其」下，是標其迹。迹為說法人中最為第一，若非法身妙本，無以垂於第一勝迹。昔來但言於迹中說法第一，今則不爾，於無上法久得第一，此舉迹以顯本也。「亦常歎其」下，標其本地。福慧萬行法門，故云「種種」也。本地既有種種法門，亦復何但迹為二乘耶？此舉本以明迹也。「精勤護持」下，別釋也。「助宣我法」者，即是迹中助宣半滿之法。迹為下根聲聞，即是護持助宣酪法；迹在方等示受彈訶，即是護持助宣生蘇法；迹領《般若》即是護持助宣熟蘇法；迹在《法華》得悟，即是護持助宣醍醐法。上總本中云「我常稱歎種種功德」者，即此意也。具足權實功德，而迹起五味，助佛調熟實行眾生，豈非精勤助宣之意也。別釋本迹功德，「能於四眾示教」者，分別半字教也；「具足解釋」者，助宣滿字般若教也；「而大饒益」者，助佛饒益半滿之眾生也；「同梵行者」是迹所化半滿弟子也。「自捨如來」下，別述本地功德也。「自捨」者，降妙覺已來也。「無能知」者，七種方便也。
+「佛告」下，第二，佛述而記之，有長行、偈頌。長行有二：一、述本迹，二、與授記。初有三：一、就釋迦世行因發迹，二、約過去佛世行因顯本，三、就三世佛所修因行滿。就釋迦佛所行因發迹復三：一、舉示其人，二、總標本迹章，三、別釋本迹。即標言「汝等見不」，有二意：一、見其迹為小不，二、見其本功德不。眾人但見迹為聲聞，而不能知本是菩薩，故云見不。「我常稱其」下，是標其迹。迹為說法人中最為第一，若非法身妙本，無以垂於第一勝迹。昔來但言於迹中說法第一，今則不爾，於無上法久得第一，此舉迹以顯本也。「亦常歎其」下，標其本地。福慧萬行法門，故云「種種」也。本地既有種種法門，亦復何但迹為二乘耶？此舉本以明迹也。「精勤護持」下，別釋也。「助宣我法」者，即是迹中助宣半滿之法。迹為下根聲聞，即是護持助宣酪法；迹在方等示受彈訶，即是護持助宣生蘇法；迹領《般若》即是護持助宣熟蘇法；迹在《法華》得悟，即是護持助宣醍醐法。上總本中云「我常稱歎種種功德」者，即此意也。具足權實功德，而迹起五味，助佛調熟實行眾生，豈非精勤助宣之意也。別釋[2]本迹功德，「能於四眾示教」者，分別半字教也；「具足解釋」者，助宣滿字般若教也；「而大饒益」者，助佛饒益半滿之眾生也；「同梵行者」是迹所化半滿弟子也。「自捨如來」下，別述本地功德也。「自捨」者，降妙覺已來也。「無能知」者，七種方便也。
 </div>
 <div class="english-translation">
 **"The Buddha told" (Line 302):**<br>
@@ -673,7 +752,7 @@ The Buddha narrates and bestows the prediction (*Shù Ér Jì Zhī*). This has P
 *   **"Also always admire him" (*Yì Cháng Tàn Qí*):** Marks the **Origin Ground** (*Biāo Qí Běn Dì*).<br>
     *   "Various Merits" = Ten Thousand Practices of Blessings and Wisdom.<br>
     *   If the Origin has "Various Merits," why is the Trace only a Two Vehicle? This **Raises the Origin to Clarify the Trace**.<br>
-*   **"Diligently Protects and Upholds" (*Jīng Qín Hù Chí*):** Detailed Explanation.<br>
+*   **"Diligently Protects and Upholds" (*Jīng Qín Hù Chí*):** Detailed Explanation [2].<br>
     *   **"Helping Proclaim My Dharma" (*Zhù Xuān Wǒ Fǎ*):** This refers to helping proclaim the **Half and Full Teachings** (*Bàn Mǎn*) within the Traces.<br>
     *   **Five Flavors Mapping:**<br>
         1.  **Trace as Sravaka:** Helps proclaim the **Dairy Dharma** (*Lào Fǎ*) (Avatamsaka/Agamas).<br>
@@ -686,6 +765,7 @@ The Buddha narrates and bestows the prediction (*Shù Ér Jì Zhī*). This has P
     *   **"Self-discarding the Tathagata":** Aside from the Tathagata (who knows), no one else knows his depth. "Self-discarding" implies descending from the level of Subtle Enlightenment.
 </div>
 </div>
+*[Critical apparatus: [2] 本【大】＊，〔－〕【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -712,5 +792,16 @@ The Buddha narrates and bestows the prediction (*Shù Ér Jì Zhī*). This has P
 Refers to the **Three Periods** (Past 90 Billion, Recent Past 7 Buddhas, Present).<br>
 *   It illustrates that throughout all these times, he has been helping proclaim the Half and Full, Five Flavor Dharmas to benefit beings both Small and Great.<br>
 *   *[End of Fascicle 7 Commentary]*
+</div>
+</div>
+
+*[Critical apparatus: [3] 次頁[01]不分卷【甲】]*
+
+<div class="bilingual-row">
+<div class="chinese-source">
+[3]妙法蓮華經文句卷第七下
+</div>
+<div class="english-translation">
+The Words and Phrases of the Lotus Sutra, Fascicle Seven (Lower).
 </div>
 </div>

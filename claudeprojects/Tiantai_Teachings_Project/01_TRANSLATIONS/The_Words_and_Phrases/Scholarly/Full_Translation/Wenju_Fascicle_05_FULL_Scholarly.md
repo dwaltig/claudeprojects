@@ -37,9 +37,10 @@ Spoken by the Great Master Zhiyi of Tiantai.
 [7]從「我始坐道場」下，第二十七行半，頌施方便化，就此為二：初有六行半，明念用大乘擬不得；次「尋念」下，第二十一行，明念同諸佛用三乘化，稱宜可得。
 </div>
 <div class="english-translation">
-From “I first sat at the place of enlightenment” onward, there are twenty‑seven and a half lines, versing the application of expedient transformation. Here it is two: first, six and a half lines clarify the thought of using the Great Vehicle (Mahāyāna)[^1] and finding it unsuitable; next, from “Seeking/Thinking” onward, twenty‑one lines clarify thinking together with the Buddhas to transform by the Three Vehicles[^2], matching what is appropriate and attainable.
+[7] From “I first sat at the place of enlightenment” onward, there are twenty‑seven and a half lines, versing the application of expedient transformation. Here it is two: first, six and a half lines clarify the thought of using the Great Vehicle (Mahāyāna)[^1] and finding it unsuitable; next, from “Seeking/Thinking” onward, twenty‑one lines clarify thinking together with the Buddhas to transform by the Three Vehicles[^2], matching what is appropriate and attainable.
 </div>
 </div>
+*[Critical apparatus: [7] 不分卷【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -76,6 +77,7 @@ In the “event/phenomenal” explanation: at first, because he cultivated and a
 In the “contemplation‑of‑mind” explanation: the tree is precisely the great tree of the Twelve Links of Dependent Arising[^4]. Deeply contemplating dependent arising, one naturally accomplishes bodhi; wishing to benefit living beings with the shade of the forest of undefiled dharmas,[1] it therefore says “observe the tree.”
 </div>
 </div>
+*[Critical apparatus: [1] 益【大】，蓋【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -94,6 +96,7 @@ As for “walking about” (*jingxing*): the Great Vehicle’s Thirty‑Seven Ai
 The tree and ground have no discrimination—why must one repay恩? The *Sūtra of Never‑Before‑Have*[^6] says: “[2] Only by universally transforming and transmitting the Dharma is it called ‘repaying恩.’”
 </div>
 </div>
+*[Critical apparatus: [2] 秖【大】＊，只【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -175,6 +178,7 @@ Apart from those who previously cultivated and studied the Small Vehicle, he now
 As for the five bhikṣus[^12]: the women heard the ascetic preach the Dharma; King Evil‑Birth angrily cut off both arms, ears, nose, and so forth, and the blood[3] turned into milk.
 </div>
 </div>
+*[Critical apparatus: [3] 變【大】，反【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -185,41 +189,9 @@ King Evil‑Birth is Kauṇḍinya; the ascetic is the Buddha. The Buddha vowed 
 </div>
 </div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 不分卷【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “not divided by fascicle” (A‑text).
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 益【大】，蓋【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “益” (benefit) in Taishō; “蓋” (shade/canopy) in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 秖【大】＊，只【甲】＊
-</div>
-<div class="english-translation">
-[2] Variant: “秖” in Taishō; “只” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 變【大】，反【甲】
-</div>
-<div class="english-translation">
-[3] Variant: “變” (transform) in Taishō; “反” (reverse) in A‑text.
-</div>
-</div>
 
 ### 2. Q&A: Why the Five Companions? (Lines 20-27)
 
@@ -315,9 +287,10 @@ As for “three sevens of days”: older explanations say “thinking of princip
 瑤師云：「事之至深，至聖猶思而後行。一七思佛智微妙，二[4]七思眾生根性不同，三七思法藥萬品，即舉偈證之：『我所得智慧，微妙最第一，眾生諸根鈍，云何而可度？』」
 </div>
 <div class="english-translation">
-Master Yao[^25] says: “When a matter is extremely deep, even the utmost sage still thinks and only then acts. The first seven [days] he thinks of the subtlety of Buddha‑wisdom; the second seven he thinks of the differences in living beings’ faculties; the third seven he thinks of the myriad kinds of Dharma‑medicine. He then cites a verse as proof: ‘The wisdom I have obtained is subtle, most foremost; living beings’ faculties are dull—how could they be saved?’”
+Master Yao[^25] says: “When a matter is extremely deep, even the utmost sage still thinks and only then acts. The first seven [days] he thinks of the subtlety of Buddha‑wisdom; the second [4] seven he thinks of the differences in living beings’ faculties; the third seven he thinks of the myriad kinds of Dharma‑medicine. He then cites a verse as proof: ‘The wisdom I have obtained is subtle, most foremost; living beings’ faculties are dull—how could they be saved?’”
 </div>
 </div>
+*[Critical apparatus: [4] 七【大】，七日【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -364,14 +337,6 @@ In the contemplation‑of‑mind explanation: first he wished to contemplate the
 </div>
 </div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 七【大】，七日【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “seven” in Taishō; “seven days” in A‑text.
-</div>
-</div>
 
 ---
 
@@ -428,15 +393,8 @@ Here it has two parts: first, ten lines correctly clarify the attainment of tran
 In the prior ten lines there are four: first, one line makes clear the fitting adaptation of the Three Vehicles[^2]; next, below “Thus I think,” the second, six and a half lines make clear that there is capacity; next, below “Thinking thus,” the third, one and a half lines make clear the application of transformation; next, below “This is called,” the fourth, one line makes clear acceptance and practice.[5]
 </div>
 </div>
+*[Critical apparatus: [5] 行【大】，行悟入【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 行【大】，行悟入【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “practice” in Taishō; “practice and realize/enter” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -509,15 +467,8 @@ Below “Excellent,” the second, one line and one clause, makes clear that the
 Because for the sake of the One he dispenses the Three and leads into Buddha‑wisdom, this is the “foremost guide.”[6]
 </div>
 </div>
+*[Critical apparatus: [6] 導【大】，道【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 導【大】，道【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “guide” in Taishō; “path/way” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -871,6 +822,15 @@ In past teachings there were already two seekings, but no spoken request; up to 
 </div>
 </div>
 
+<div class="bilingual-row">
+<div class="chinese-source">
+「咸以恭敬心，皆來至我所」者，一云：「耻小慕大，大機感佛故云至佛所。」今明非但機至佛所，亦乃身到，如無量義中四眾圍繞，合掌敬心，欲聞具足道也。「曾從諸佛聞，方便所說法」者，此中初味調伏，受行三藏、六度，通、別等三教方便，由此調熟故，使障除機發而求大也。從「我即作是念」下，二行一句，明障除佛喜。佛為佛慧故出，昔障重無機，不得即說佛慧；中間雖障除又未得說；今機發正是說時。昔眾生根鈍智小，恐其謗法墮惡，故未是說時；今根利志大，聞必信解故佛歡喜。「無畏」者，不畏執小謗大起罪墮惡，故言無畏。「於菩薩中」下三句，正顯實也。五乘是曲而非直，通別偏傍而非正，今皆捨彼偏曲，但說正直一道也。「菩薩聞是法」下一行，明受行悟入，六度通二菩薩，初聞略說，動舊執致新疑，今悉已除；非獨菩薩，二乘亦爾。而云「聲聞皆當作佛」者，昔教不說二乘作佛，今行與授記，授記豈獨二乘？除疑豈獨菩薩？互存則兩備。
+</div>
+<div class="english-translation">
+As for “All with respectful minds, all came to my place,” one says: “Ashamed of the small and admiring the great, their great capacity moved the Buddha; therefore it says they came to the Buddha’s place.” Now we clarify that it is not only capacity that comes to the Buddha’s place; the body also arrives—just as in the Infinite Meanings[^44] where the four assemblies surround [him], clasping hands with respectful minds, wishing to hear the complete path. As for “Having heard from the Buddhas the Dharma taught by expedients,” here in the first flavor it is a pacifying discipline: receiving and practicing the Tripiṭaka and the six pāramitās[^180], and the expedients of the Shared and Distinct teachings; by this training and ripening, obstacles are removed, capacity arises, and they seek the Great. From “I then had this thought” downward, two lines and one phrase clarify that obstacles are removed and the Buddha rejoices. The Buddha appears for the sake of Buddha‑wisdom; formerly, obstacles were heavy and there was no capacity, so he could not immediately speak Buddha‑wisdom. In the middle, although obstacles were removed, he still could not yet speak it; now capacity has arisen, and it is precisely the time to speak. Formerly beings’ roots were dull and wisdom small; fearing they would slander the Dharma and fall into evil, it was not yet the time to speak. Now roots are keen and resolve great; on hearing they surely believe and understand, therefore the Buddha rejoices. “Fearless” means he does not fear clinging to the small and slandering the great, producing offenses and falling into evil; therefore it is called fearless. The three phrases below “Among the Bodhisattvas” directly reveal the real. The five vehicles are crooked and not straight; the Shared and Distinct are partial and off‑to‑the‑side and not correct; now he discards those partial and crooked, and only speaks the single straight path. The one line below “When Bodhisattvas hear this Dharma” clarifies receiving, practicing, awakening, and entering. The six perfections pass through the two‑vehicle Bodhisattvas; on first hearing the brief explanation, it stirred old attachments and produced new doubts—now all are removed. It is not only Bodhisattvas; the two vehicles are also so. When it says “Śrāvakas will all become Buddhas”: the former teachings did not say the two vehicles become Buddhas; now practice and prediction are given. Is prediction only for the two vehicles? Is the removal of doubt only for Bodhisattvas? If both are preserved, both are complete.
+</div>
+</div>
+
 ---
 
 ### Resolving the Bodhisattva's Doubt (Lines 61-63)
@@ -907,9 +867,10 @@ Answer:
 三藏說三僧祇未斷惑，一斷即入真；通教說菩薩斷正留[1]習，習盡即成佛。
 </div>
 <div class="english-translation">
-The Tripiṭaka teaching[^29] says that after three asaṃkhyeya kalpas[^47] one has not yet cut off delusions; once they are cut, one enters the True. The Shared Teaching[^28] says that Bodhisattvas cut the primary [afflictions] and retain the residual habits; when the habits are exhausted they become Buddhas.
+The Tripiṭaka teaching[^29] says that after three asaṃkhyeya kalpas[^47] one has not yet cut off delusions; once they are cut, one enters the True. The Shared Teaching[^28] says that Bodhisattvas cut the primary [afflictions] and retain [1] the residual habits; when the habits are exhausted they become Buddhas.
 </div>
 </div>
+*[Critical apparatus: [1] 習習【大】，集集【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -938,14 +899,6 @@ Now, hearing the Lotus Sūtra[^9], all doubts are swept away with not a single s
 </div>
 </div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 習習【大】，集集【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “習習” in Taishō; “集集” in A‑text.
-</div>
-</div>
 
 ---
 
@@ -1162,15 +1115,8 @@ Below “in the future world,” the next two lines clarify the substance of pro
 After “Śāriputra,” the remaining one and a half lines doubly conclude two meanings: the first [1] line concludes the secret essential, making clear that this Dharma is thus—first using myriads of expedients, then showing the real; the latter half‑line concludes the substance of propagating the sūtra: those who do not study and practice cannot understand—this precisely concludes “do not preach to unwholesome persons”; but for those who study and practice, they can understand—thus it may be preached.
 </div>
 </div>
+*[Critical apparatus: [1] 行【大】，一行【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 行【大】，一行【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “line” in Taishō; “one line” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1199,15 +1145,8 @@ Here the prediction opens the basis for the later prediction given to Śāriputr
 Now, explaining from “five turbidities” below, the sixth has six lines; it versifies the above [2] selection of the assembly and exhorting faith. Above, fortunately, there is this text—would it be so near and yet not versified?
 </div>
 </div>
+*[Critical apparatus: [2] 揀【大】＊，簡【甲】＊]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 揀【大】＊，簡【甲】＊
-</div>
-<div class="english-translation">
-[2] Variant: “揀” in Taishō; “簡” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1217,6 +1156,7 @@ Now, explaining from “five turbidities” below, the sixth has six lines; it v
 Again two: first three lines versify [*2-1] selecting the assembly; next three lines versify exhorting faith.
 </div>
 </div>
+*[Critical apparatus: [＊2-1] 揀【大】＊，簡【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1226,6 +1166,7 @@ Again two: first three lines versify [*2-1] selecting the assembly; next three l
 The line “five turbidities” versifies above [*2-2] selecting out non‑Buddha disciples.[^51]
 </div>
 </div>
+*[Critical apparatus: [＊2-2] 揀【大】＊，簡【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1235,6 +1176,7 @@ The line “five turbidities” versifies above [*2-2] selecting out non‑Buddh
 Why? If they delight in all desires, they practice Māra’s deeds; therefore one must [*2-3] select them out.
 </div>
 </div>
+*[Critical apparatus: [＊2-3] 揀【大】＊，簡【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1244,6 +1186,7 @@ Why? If they delight in all desires, they practice Māra’s deeds; therefore on
 In the previous text, those attached to nirvāṇa are still not Buddha’s disciples; in this text, those attached to saṃsāra—how are they Buddha’s disciples? It is mutually [*2-4] selecting out non‑disciples.
 </div>
 </div>
+*[Critical apparatus: [＊2-4] 揀【大】＊，簡【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1253,6 +1196,7 @@ In the previous text, those attached to nirvāṇa are still not Buddha’s disc
 “Finally not seeking the Buddha‑way” versifies above [*2-5] selecting out overweening pride.[^52]
 </div>
 </div>
+*[Critical apparatus: [＊2-5] 揀【大】＊，簡【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1307,6 +1251,7 @@ First one and a half lines exhort faith in the provisional; next one and a half 
 With no doubt about real and provisional, one knows oneself will become a Buddha [3] (etc.).
 </div>
 </div>
+*[Critical apparatus: [3] 法華經文句卷第四終【甲】，法隆寺本奧書云康治元年壬戌八月十八日奉寫已了南都法隆寺五師大法師覺印之一校了（朱書）同二年癸亥六月五日移點已了為令法久住往生極樂也覺印]*
 
 ---
 
@@ -1331,15 +1276,8 @@ Explanation of the “Parable” Chapter.
 [4] First, a general explanation: “parable” (譬) means comparison; “illustration” (喻) means instructing/enlightening. It entrusts this to compare to that, lodging the shallow to instruct the deep.
 </div>
 </div>
+*[Critical apparatus: [4] 法華文句卷第五首【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 法華文句卷第五首【甲】
-</div>
-<div class="english-translation">
-[4] Note: “Fahua Wenju, volume five, beginning” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1349,15 +1287,8 @@ Explanation of the “Parable” Chapter.
 Previously it broadly clarified the five Buddhas’[^57] prose (長行) and verses (偈頌)[^56]; those of upper roots and sharp wisdom heard fully and attained awakening, while the middle and lower streams held to delusion and had not yet [5] dispelled it. Great compassion does not cease and skillful wisdom is boundless; therefore he again moves the tree to instruct the wind and raises a fan to illustrate the moon, causing them to awaken and understand—therefore it is called “parable.”
 </div>
 </div>
+*[Critical apparatus: [5] 遣【大】，達【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 遣【大】，達【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “dispel” in Taishō; “reach/attain” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1525,7 +1456,7 @@ Today in the Royal City[^69] he decisively speaks the Great Vehicle, universally
 
 <div class="bilingual-row">
 <div class="chinese-source">
-如今回始，如始如今，無二無異。
+如今如始，如始如今，無二無異。
 </div>
 <div class="english-translation">
 As now so was the beginning; as the beginning so is now—no two, no difference.
@@ -1574,7 +1505,7 @@ As for origin/trace and contemplation of mind, they can be understood by analogy
 
 <div class="bilingual-row">
 <div class="chinese-source">
-法說有五段經文，其一始竟四猶未了。
+法說有五段經文，其一始竟四猶未了，
 </div>
 <div class="english-translation">
 In the Dharma‑explanation section there are five segments of scripture; once the first is finished, the four remain unfinished.[^73]
@@ -1664,21 +1595,14 @@ Again, he changes from the small to learn the great, abandons the poor thatched 
 
 <div class="bilingual-row">
 <div class="chinese-source">
-又憂悔雙遣疑難並除，內外妨障廓然大朗，文云：「我已得漏盡，聞亦除憂惱」，是故歡喜，此對治釋也。
+又憂悔雙遣疑難並除，內外妨障廓然大朗，文云：「我已得漏盡，聞亦除憂惱」，是故歡喜，此對治釋也。[1]
 </div>
 <div class="english-translation">
-Again, worries and regrets are both removed, doubts and difficulties are all eliminated, and inner and outer obstructions open wide and become bright; the text says: “I have already attained the ending of outflows; hearing also removes sorrow and distress.” Therefore he rejoices—this is the counteractive explanation.[^61]
+Again, worries and regrets are both removed, doubts and difficulties are all eliminated, and inner and outer obstructions open wide and become bright; the text says: “I have already attained the ending of outflows; hearing also removes sorrow and distress.” Therefore he rejoices—this is the counteractive explanation.[1][^61]
 </div>
 </div>
+*[Critical apparatus: [1] 又【大】，又云【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 又【大】，又云【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “又” in Taishō; “又云” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1806,15 +1730,8 @@ In narrating the outer demeanor: “immediately rising and joining palms” is c
 As for “facing the Buddha”: formerly the provisional was not the Buddha‑cause and the real was not the Buddha‑fruit; now understanding provisional as real forms the great [2] perfect cause, and since cause must tend toward fruit it is said “join palms and face the Buddha.”
 </div>
 </div>
+*[Critical apparatus: [2] 圓【大】，員【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 圓【大】，員【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “perfect” in Taishō; “member/round” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1833,15 +1750,8 @@ As for “gazing up at the honored face”: it indicates his understanding of th
 Below “addressing the Buddha,” it is verbal receiving‑understanding; this is Śāriputra’s[^50] own statement. The text has [3] two parts: first prose (長行), second verses (偈頌).[^56]
 </div>
 </div>
+*[Critical apparatus: [3] （二初…三）十一字【大】，三名身喜聞此法音依於佛口聞而歡喜故【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] （二初…三）十一字【大】，三名身喜聞此法音依於佛口聞而歡喜故【甲】
-</div>
-<div class="english-translation">
-[3] Variant note: Taishō has eleven characters “(two: first … three)”; A‑text reads “three: called body‑joy; ‘hearing this Dharma sound’ relies on hearing from the Buddha’s mouth and thus rejoices.”
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1851,15 +1761,8 @@ Below “addressing the Buddha,” it is verbal receiving‑understanding; this 
 The first prose has three: (1) marking the three‑joys section; (2) [4] explanation; (3) conclusion.
 </div>
 </div>
+*[Critical apparatus: [4] 二【大】，次【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 二【大】，次【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “second” in Taishō; “next” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1896,15 +1799,8 @@ From “Why is this?” to “immeasurable knowledge and vision,” it makes cle
 As for “hearing such a Dharma”: when the sun shines on high mountains, there is secretly hearing the meaning, yet outwardly one is like deaf and mute and cannot attain the way by hearing such a Dharma; [*2‑1] it is only that in the Vaipulya (Fangdeng) teaching[^85] one heard the Great Vehicle’s real wisdom, which is not different from now—therefore it is said “hearing such a Dharma.”
 </div>
 </div>
+*[Critical apparatus: [＊2-1] 秖【大】＊，只【甲】＊]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊2-1] 秖【大】＊，只【甲】＊
-</div>
-<div class="english-translation">
-[*2-1] Variant: “秖” in Taishō; “只” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1950,15 +1846,8 @@ From “World‑Honored One” through “not World‑Honored One,” it makes c
 As for “I [5] formerly dwelt alone”: it is the place of reflecting on fault.
 </div>
 </div>
+*[Critical apparatus: [5] 甞【大】，常【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 甞【大】，常【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “甞” in Taishō; “常” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1968,15 +1857,8 @@ As for “I [5] formerly dwelt alone”: it is the place of reflecting on fault.
 As for “together entering the Dharma‑nature”: it precisely states his fault. Clinging to the one principle entered, he doubted the gateways of the three teachings; the one principle is the same and yet I lost [6] knowledge and vision, while the three teachings are different and Bodhisattvas receive prediction—thus the Tathāgata would be partial and a fault is formed. Now he recounts this loss, therefore he says he repents.
 </div>
 </div>
+*[Critical apparatus: [6] 知見【大】，見知【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 知見【大】，見知【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “knowledge‑vision” in Taishō; “vision‑knowledge” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2022,15 +1904,8 @@ The spoken cause has two meanings: first, not receiving and matching the former;
 The Buddhas’ Dharma, after a long time, must speak the real; I did not wait, and between these two pillars I hurriedly took the small and did not understand [7] real/provisional, as the text says.
 </div>
 </div>
+*[Critical apparatus: [7] 實權【大】，權實【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 實權【大】，權實【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “real/provisional” in Taishō; “provisional/real” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2175,6 +2050,7 @@ Those who enter through the Avataṃsaka[^11] have a weaker path of transformati
 From “And now I myself awaken” below, the third has nine and a half lines, versifying the above joy of the mind attaining wondrous understanding. Above, it explained that not waiting for the spoken cause meant not understanding expedients; in the verses it makes clear [1] that one obtains the spoken cause and also understands expedients.
 </div>
 </div>
+*[Critical apparatus: [1] 得【大】，待【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2185,14 +2061,6 @@ Hearing “you will become a Buddha” is the spoken cause; hearing that the fiv
 </div>
 </div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 得【大】，待【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “obtain” in Taishō; “wait” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2208,7 +2076,7 @@ From “Hearing the Buddha’s gentle voice” below, the third, two and a half 
 「爾時佛告舍利弗吾今」下，是第三，述成段。
 </div>
 <div class="english-translation">
-Below “At that time the Buddha told Śāriputra, I now…,” this is the third: the narrating‑accomplishment section.
+Below “At that time the Buddha told Śāriputra, I now,” this is the third: the narrating‑accomplishment section.
 </div>
 </div>
 
@@ -2337,15 +2205,8 @@ From “I formerly taught you to aspire to the Buddha‑way, yet now you have en
 Because you forgot the great, [2] the vow then became practicing the small, resulting in sorrow and regret—and thus hearing the Dharma was not false.
 </div>
 </div>
+*[Critical apparatus: [2] 願即【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 願即【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “the vow then” in Taishō; omitted in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2362,6 +2223,33 @@ Because you forgot the great, [2] the vow then became practicing the small, resu
 </div>
 <div class="english-translation">
 First he applied provisional teaching to complete the small goodness along the way; afterward he revealed the real and thus fulfilled his original great vow‑mind.
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+從「汝於未來」下，是大段第四，授記段。前自陳佛印竟，是故與記，若得大解自知得佛，何俟須記？記有四意：一、昔未記二乘而今須記；二、中下未悟，以記勉勵之；三、令聞者結緣；四、滿其本願，是故記也。
+</div>
+<div class="english-translation">
+From “In the future...” below is the fourth major section, the prediction section. Previously he himself stated the Buddha’s seal was complete; therefore he is given a prediction. If one has obtained great understanding and knows oneself will become a Buddha, why wait for a prediction? There are four meanings to prediction: (1) previously the two vehicles were not predicted, now they must be predicted; (2) the middle and lower have not yet awakened, so the prediction encourages them; (3) it allows hearers to form karmic ties; (4) it fulfills their original vows—therefore the prediction.
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+有長行、偈頌，長行為十：一、時節；二、行因；三、得果，釋十號甚多，且記一種，無虛妄名如來，良福田名應供，知法界名正遍知，具三明名明行足，不還來名善逝，知眾生國土名世間解，無與等名無上士，調他心名丈夫，為眾生眼名天人師，知三聚名為佛，壞波旬名婆伽婆；四、國土；五、說法；六、劫名；七、眾數；八、壽量；九、補處；十、法住久近，悉如文。《大論》四十八云：「舍利弗，正法三十二小劫者，三災飢、病、刀滅眾生者名小劫。」又直是時節名小劫，如說《法華經》六十小劫，亦是時節數耳，非三災滅外物為小劫也。偈有十一行半，為二：初十行，頌上九意，略不頌補處，長有供養舍利；後一行半，結歎。初一行，超頌得果；次「供養」下，第二，一行，追頌行因；次「過無量」下，第三，半行，超頌劫名；次「世界名」下，第四，一行半，頌國淨；次「彼國」下，第五，一行半，頌菩薩眾數；次「如是等」下，第六，半行，頌說法；次「佛為王子」下，第七，二行，頌壽量；次「佛滅度之」下，第八，一行半，頌法住久近；次「舍利廣」下，第九，半行，供養舍利；後「華光佛」下，第二，一行半，結歎。「宜應自欣慶」者，成初入歡喜位之解也，初住能百佛世界作佛，行地倍是。
+</div>
+<div class="english-translation">
+There are prose and verse. The prose has ten: (1) time; (2) practice‑cause; (3) attainment‑fruit—there are many explanations of the ten epithets; here we record one set: non‑false is called Tathāgata; good field of blessings is called Worthy of Offerings; knowing the dharma‑realm is called Right Pervasive Knowledge; possessing the three clarities is called Bright Conduct; not returning is called Well‑Gone; knowing beings and lands is called World‑Understanding; none equal is called Unsurpassed; taming others’ hearts is called Hero; being the eye for beings is called Teacher of Gods and Humans; knowing the three assemblies is called Buddha; destroying Pāpīyas is called Bhagavat. (4) land; (5) preaching; (6) kalpa name; (7) number of assembly; (8) lifespan; (9) successor; (10) duration of the Dharma—everything is as in the text. The Mahāprajñāpāramitā Śāstra[^111], scroll 48, says: “Śāriputra, the right Dharma’s thirty‑two small kalpas—those where the three calamities of famine, disease, and sword destroy beings—are called small kalpas.” Also, simply the time period itself is called a small kalpa; as when the Lotus Sūtra[^168] says sixty small kalpas, it is a time count, not that the three calamities destroy external things. The verse has eleven and a half lines, in two: the first ten lines versify the nine meanings above, briefly not versifying the successor, and at length include offerings of relics; the latter one and a half lines conclude and praise. The first line over‑versifies attainment of the fruit; next, from “offering” downward, the second, one line, retrospectively versifies the practice‑cause; next, from “over immeasurable” downward, the third, half a line, over‑versifies the kalpa name; next, from “world name” downward, the fourth, one and a half lines, versify the purity of the land; next, from “that land” downward, the fifth, one and a half lines, versify the number of bodhisattvas; next, from “such and so” downward, the sixth, half line, versify preaching; next, from “the Buddha as a prince” downward, the seventh, two lines, versify lifespan; next, from “after the Buddha’s extinction” downward, the eighth, one and a half lines, versify the duration of the Dharma; next, from “Śāriputra extensively” downward, the ninth, half line, offerings of relics; finally, from “Buddha Flower‑Light” downward, the second, one and a half lines, conclude and praise. “You should rejoice” completes the understanding of first entering the joy‑abode: at the first abode one can become a Buddha in a hundred Buddha‑worlds; the practice‑grounds are double that.
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+第五，四眾領解，有長行、偈頌。初經家敘眾喜；次陳供養。「作是言」下，正領解。初領開權，今乃復轉下，領顯實也。偈有六行半，為二：初二行，頌上開權顯實；後四行半，自述得解隨喜迴向也。「我等亦如是」者，如身子之領解，如身子被述成，如身子之得記也。
+</div>
+<div class="english-translation">
+Fifth, the four assemblies receive understanding; there are prose and verse. First the compiler narrates the assembly’s joy; next he sets forth offerings. Below “he said thus” is the proper receiving‑understanding. First they receive the opening of the provisional; now they turn below to receive the revealing of the real. The verse has six and a half lines, in two: the first two lines versify the opening of the provisional and revealing of the real; the latter four and a half lines self‑state their understanding and rejoice, dedicating merit. “We also are thus” is like Śāriputra’s receiving‑understanding, like Śāriputra being narrated‑accomplished, like Śāriputra’s prediction.
 </div>
 </div>
 
@@ -2532,6 +2420,7 @@ In the parable‑explanation text there are two: first the request, second the a
 The request has three: (1) self‑statement of no doubt; (2) stating that peer [1] companions have doubts; (3) universally on behalf of the four assemblies.[^13]
 </div>
 </div>
+*[Critical apparatus: [1] 輩【大】＊，背【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2550,6 +2439,7 @@ The self‑statement is as in the text.
 Peer [*1‑1] companions are fellow practitioners; because they harbor the old [understanding], a request must be made for them.
 </div>
 </div>
+*[Critical apparatus: [＊1-1] 輩【大】＊，背【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2623,23 +2513,26 @@ As for causes and conditions, they are the causes and conditions of the first th
 </div>
 </div>
 
+
+
 <div class="bilingual-row">
 <div class="chinese-source">
-    [1] 輩【大】＊，背【甲】＊
+「爾時佛告舍利」下，第二，佛答，文為三：一、發起；二、譬喻；三、勸信。
 </div>
 <div class="english-translation">
-[1] Variant: “輩” in Taishō; “背” in A‑text.
+Below “At that time the Buddha told Śāriputra,” the second is the Buddha’s answer. The text has three: first, arousing; second, parable; third, encouraging faith.
 </div>
 </div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [＊1-1] 輩【大】＊，背【甲】＊
+發起為二：一抑、二引，抑令憤勇，引令速進。「我先不言」下，指上明權皆為菩提，指上顯實皆為化菩薩者，若權若實，皆入佛道無住涅槃，上已明言，云何執教迷闇不解，如此責謂是抑文也。「然舍利弗今當」下，[2]是引接安慰。前斥既切，恐鄙懟自沈，今許其譬喻更明此義，若能解者猶稱智也。
 </div>
 <div class="english-translation">
-[*1-1] Variant: “輩” in Taishō; “背” in A‑text.
+The arousing is two: (1) suppression, (2) leading. Suppression makes [them] indignant and courageous; leading makes [them] advance quickly. Below “I previously did not speak,” it points above to clarify that the provisional is all for bodhi; it points above to show that the real is all for transforming bodhisattvas. Whether provisional or real, all enter the Buddha‑path and do not abide in nirvana. This has already been clearly stated above—how can one cling to the teaching, be confused and dark, and not understand? Such rebuke is called the “suppression” passage. Below “However, Śāriputra, now I will,” [2] this is leading and consoling. The prior reprimand was already sharp; fearing he might feel slighted and sink on his own, he now promises a parable to further clarify this meaning. One who can understand it is still called wise.
 </div>
 </div>
+*[Critical apparatus: [2] 是引【大】，引是【甲】]*
 
 ## II. THE PARABLE (Lines 147-150; CBETA 005:147–150)
 
@@ -2648,18 +2541,11 @@ As for causes and conditions, they are the causes and conditions of the first th
 二譬喻說長行偈頌，長行開譬合譬，開譬不同已如上說，今為二：一總、二別。總譬譬釋迦章[3]中「今我亦如是」兩行偈略頌開權顯實也，別譬譬釋迦章中「我以佛眼觀見」四十一行半偈，廣頌開權顯實六意也。總譬有六：一、長者；二、舍宅；三、一門；四、五百人；五、火起；六、三十子。長者譬於我，我即釋迦一化之主也；火宅譬上處所，安隱對上三界不安隱也；一門譬上宣示佛道門也；五百人譬上眾生也；火起譬上對不安隱法五濁、八苦也；三十子譬上知眾生性欲三乘行人也。
 </div>
 <div class="english-translation">
-The second parable section explains prose and verse. In the prose it opens the parable and matches the parable; the differing openings have already been discussed above. Now there are two: general and specific. The general parable corresponds to the Sakyamuni section[^103], where the two-line verse "Now I too am like this" briefly versifies opening the provisional and revealing the real[^104]; the specific parable corresponds to the Sakyamuni section's forty-one and a half lines of verse, "I use the Buddha-eye to observe,"[^105] broadly versifying the six meanings of opening the provisional and revealing the real. The general parable has six: (1) the elder, (2) the house, (3) one door, (4) five hundred people, (5) fire arising, (6) thirty sons. The elder is a parable for "me"--I am Sakyamuni, the lord of a single transformative teaching; the burning house is a parable for the place above: security corresponds to the insecurity of the three realms[^106]; the one door is a parable for the gate that proclaims the Buddha-way; the five hundred people are a parable for living beings; the arising fire is a parable for the unsafe dharmas above--the five turbidities[^51] and eight sufferings[^107]; the thirty sons are a parable for knowing beings' natures and desires, the practitioners of the Three Vehicles[^2].
+The second parable section explains prose and verse. In the prose it opens the parable and matches the parable; the differing openings have already been discussed above. Now there are two: general and specific. The general parable corresponds to the Sakyamuni section [3][^103], where the two-line verse "Now I too am like this" briefly versifies opening the provisional and revealing the real[^104]; the specific parable corresponds to the Sakyamuni section's forty-one and a half lines of verse, "I use the Buddha-eye to observe,"[^105] broadly versifying the six meanings of opening the provisional and revealing the real. The general parable has six: (1) the elder, (2) the house, (3) one door, (4) five hundred people, (5) fire arising, (6) thirty sons. The elder is a parable for "me"--I am Sakyamuni, the lord of a single transformative teaching; the burning house is a parable for the place above: security corresponds to the insecurity of the three realms[^106]; the one door is a parable for the gate that proclaims the Buddha-way; the five hundred people are a parable for living beings; the arising fire is a parable for the unsafe dharmas above--the five turbidities[^51] and eight sufferings[^107]; the thirty sons are a parable for knowing beings' natures and desires, the practitioners of the Three Vehicles[^2].
 </div>
 </div>
+*[Critical apparatus: [3] 中【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 中【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "中" in Taisho; omitted in A-text.
-</div>
-</div>
 
 ## III. SPECIFIC PARABLE: THE SIX METAPHORS (Lines 151-180; CBETA 005:151–180)
 
@@ -2677,81 +2563,27 @@ The elder parable is threefold: (1) name and conduct, (2) rank and title, (3) vi
 二、標位號。為三：一、世長者；二、出世長者；三、觀心長者。世備十德：一、姓貴；二、位高；三、大富；四、威猛；五、智深；六、年耆；七、行淨；八、禮備；九、上歎；十、下歸。姓則三皇五帝之裔，左貂右插之家，位則輔弼丞相鹽梅阿衡，富則銅陵金谷豐饒侈靡，威則嚴霜隆重不肅而成，智則胸如武庫權奇超拔，年則蒼蒼稜稜物[4]儀所伏，行則白珪無點所行如言，禮則節度庠序世所式瞻，上則一人所敬，下則四海所歸，十德具焉名大長者。出世長者，佛從三世真如實際中生，功成道著十號無極，法財萬德悉皆具滿，十力雄猛降魔制外，一心三智無不通達，早成正覺久遠若斯，三業隨智運動無失，具佛威儀心大如海，十方種覺所共稱譽，七種方便而來依止，是名出世佛大長者。三、觀心者，觀心之智從實相出，生在佛家種性真正，三惑不起，雖未發真，是著如來衣稱寂滅忍，三諦含藏一切功德，正觀之慧降伏愛見，中道雙照權實並明，久積善根能修此觀，此觀出於七方便上，此觀觀心性名上定，則三業無過，歷緣對境威儀無失，能如此觀，是深信解相，諸佛皆歡喜。歎美持法者，天龍四部恭敬供養，下文云：「佛子住是地，即是佛受用，經行及坐臥。」既稱此人為佛，豈不名觀心長者？今以十德帖經義足，而闕一文，「國邑聚落有大長者」，三處稱譽為大，豈非姓貴？「長者」豈非位高？「衰邁」豈非耆老？「財富無量」豈非豐足？「多有田宅」即分略周[5]贍，豈非智深？「多有僮僕」豈非勢大？「其家廣大」，豈非德行師之？「唯有一門」，豈非禮節訓人一路？「多諸人眾」即下人所歸。但闕上人所敬一文，今以大字兼之，大人所知故稱大也。
 </div>
 <div class="english-translation">
-Second, it marks rank and title. It is three: (1) the worldly elder; (2) the supramundane elder; (3) the contemplative-mind elder. The worldly one possesses ten virtues[^116]: (1) noble lineage, (2) high rank, (3) great wealth, (4) mighty power, (5) deep wisdom, (6) venerable age, (7) pure conduct, (8) complete propriety, (9) praised by superiors, (10) followed by inferiors. For lineage: descendants of the Three Sovereigns and Five Emperors, a household with marten-trim on the left and a hairpin on the right; for rank: assistants and chancellors, "salt-and-plum" and "A-heng"; for wealth: Tongling and Jingu--abundance and extravagance; for power: like severe frost and solemn weight, accomplished without sternness; for wisdom: a chest like an armory, ingenious and outstanding; for age: hoary and rugged, so that even persons and bearing bow; for conduct: like white jade without a blemish, actions matching words; for propriety: standards and schools, models looked to by the world; above, respected by the one man; below, returned to by the four seas--having the ten virtues, he is called a great elder. The supramundane elder: the Buddha is born from the true thusness and real limit of the three times; with achievement complete and the Way manifest, the ten epithets[^117] are without limit; the Dharma-treasure and myriad virtues are fully complete; the ten powers[^118] are heroic, subduing demons and controlling the external; in one mind the three wisdoms[^119] all penetrate; he long ago accomplished right awakening. The three karmas[^108] move with wisdom without fault; endowed with Buddha-dignity, his mind is vast as the sea; the awakened of the ten directions praise him together; by the seven expedients[^120] they come to rely on him. This is called the supramundane Buddha, the great elder. Third, the contemplative-mind [elder]: the wisdom of contemplating mind arises from the real aspect[^121]; born in the Buddha-family, its seed-nature is genuine; the three delusions[^122] do not arise. Though true realization has not yet manifested, he "puts on the Tathagata's robe" and is called the patience of quiescent extinction[^123]. The Three Truths[^88] contain all virtues; the wisdom of correct contemplation subdues love and views; the Middle Way illuminates both provisional and real[^104][^145]. Long accumulating good roots, he can cultivate this contemplation; this contemplation arises above the seven expedients[^120]. This contemplation of mind-nature is called supreme samadhi; then the three karmas[^108] are without fault; through conditions and facing objects, dignified comportment is not lost. One who can contemplate thus is a mark of deep faith-understanding; all Buddhas rejoice. Those praised for upholding the Dharma are reverently supported by the devas, nagas, and fourfold assembly[^124]; below it says: "A Buddha-child dwelling on this ground is precisely the Buddha's own enjoyment, walking and sitting and lying." Since this person is called a Buddha, how could he not be named a contemplative-mind elder? Now, matching the ten virtues to the sutra's meaning is sufficient, but one line is missing: "In the country, city, and hamlets there was a great elder." Being called "great" in three places--how is that not noble lineage? "Elder"--how is that not high rank? "Aged and decayed"--how is that not venerable age? "Wealth without measure"--how is that not abundant? "Many fields and houses"--this broadly supplies and provides [5]--how is that not deep wisdom? "Many servants"--how is that not great power? "His house was vast"--how is that not virtuous conduct that serves as a model? "Only one door"--how is that not propriety, training people along one path? "Many people"--that is the inferiors returning to him. Only the line about being respected by superiors is lacking; now we include it with the character "great"--known by great persons, therefore called great.
+Second, it marks rank and title. It is three: (1) the worldly elder; (2) the supramundane elder; (3) the contemplative-mind elder. The worldly one possesses ten virtues[^116]: (1) noble lineage, (2) high rank, (3) great wealth, (4) mighty power, (5) deep wisdom, (6) venerable age, (7) pure conduct, (8) complete propriety, (9) praised by superiors, (10) followed by inferiors. For lineage: descendants of the Three Sovereigns and Five Emperors, a household with marten-trim on the left and a hairpin on the right; for rank: assistants and chancellors, "salt-and-plum" and "A-heng"; for wealth: Tongling and Jingu--abundance and extravagance; for power: like severe frost and solemn weight, accomplished without sternness; for wisdom: a chest like an armory, ingenious and outstanding; for age: hoary and rugged, so that even persons [4] and bearing bow; for conduct: like white jade without a blemish, actions matching words; for propriety: standards and schools, models looked to by the world; above, respected by the one man; below, returned to by the four seas--having the ten virtues, he is called a great elder. The supramundane elder: the Buddha is born from the true thusness and real limit of the three times; with achievement complete and the Way manifest, the ten epithets[^117] are without limit; the Dharma-treasure and myriad virtues are fully complete; the ten powers[^118] are heroic, subduing demons and controlling the external; in one mind the three wisdoms[^119] all penetrate; he long ago accomplished right awakening. The three karmas[^108] move with wisdom without fault; endowed with Buddha-dignity, his mind is vast as the sea; the awakened of the ten directions praise him together; by the seven expedients[^120] they come to rely on him. This is called the supramundane Buddha, the great elder. Third, the contemplative-mind [elder]: the wisdom of contemplating mind arises from the real aspect[^121]; born in the Buddha-family, its seed-nature is genuine; the three delusions[^122] do not arise. Though true realization has not yet manifested, he "puts on the Tathagata's robe" and is called the patience of quiescent extinction[^123]. The Three Truths[^88] contain all virtues; the wisdom of correct contemplation subdues love and views; the Middle Way illuminates both provisional and real[^104][^145]. Long accumulating good roots, he can cultivate this contemplation; this contemplation arises above the seven expedients[^120]. This contemplation of mind-nature is called supreme samadhi; then the three karmas[^108] are without fault; through conditions and facing objects, dignified comportment is not lost. One who can contemplate thus is a mark of deep faith-understanding; all Buddhas rejoice. Those praised for upholding the Dharma are reverently supported by the devas, nagas, and fourfold assembly[^124]; below it says: "A Buddha-child dwelling on this ground is precisely the Buddha's own enjoyment, walking and sitting and lying." Since this person is called a Buddha, how could he not be named a contemplative-mind elder? Now, matching the ten virtues to the sutra's meaning is sufficient, but one line is missing: "In the country, city, and hamlets there was a great elder." Being called "great" in three places--how is that not noble lineage? "Elder"--how is that not high rank? "Aged and decayed"--how is that not venerable age? "Wealth without measure"--how is that not abundant? "Many fields and houses"--this broadly supplies and provides [5]--how is that not deep wisdom? "Many servants"--how is that not great power? "His house was vast"--how is that not virtuous conduct that serves as a model? "Only one door"--how is that not propriety, training people along one path? "Many people"--that is the inferiors returning to him. Only the line about being respected by superiors is lacking; now we include it with the character "great"--known by great persons, therefore called great.
 </div>
 </div>
+*[Critical apparatus: [4] 儀【大】，議【甲】; [5] 贍【大】，瞻【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 儀【大】，議【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "儀" in Taisho; "議" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 贍【大】，瞻【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "贍" in Taisho; "瞻" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
 從「其年衰邁」下，三、歎德業。德有內外，內則智略，外則貲財。年高博達今古，譬佛智德；衰邁根志純熟，譬佛斷德。「財富」譬外德，「無量」總譬萬德也。「田宅」別譬也，田能養命，譬禪定資般若；宅可棲身，譬實境為智所託，略則十八空門，廣則無量空門。若論福德，無行而不修；若論智慧，無境而不照，故云「多有田宅」也。「僮僕」者，給侍使人，譬方便知見皆已具足，和光六道曲順萬機，即實智之僮僕也。二、「其家廣大」者，家宅譬上，安隱對不安隱。不安隱譬三界也，眾生穴穴皆宅三界，如來應化[1]統而家之，故言「廣大」也。三、「唯有一門」者，譬上種種法門宣示於佛道。道場觀云：「實相理不異，慧亦宜一，出無異路故言一門。」光宅雲曰：「三界雖曠、九十雖多，論於出要唯是佛教，故言一門。」今明若單理為門，理無通塞，何門之謂？單教為門，得經者眾，何意不出？今取理為教所詮，文云「以佛教門出三界苦得涅槃證」。門又二：宅門、車門。宅者生死也，門者出要路也，此方便教之詮也。車者大乘法也，門者圓教之詮也。若宅門是[2]車門，初三車救子，亦應即是等賜大車；若所出門非所入門，驗車宅異也。四、「五百人」者，譬上眾生，即五道也。五、「堂閣」下，譬上安隱對不安隱法五濁也。先出所燒之宅相，譬六道果報；次明能燒之火，譬八苦五濁。「堂」譬欲界，「閣」譬色、無色界，「牆壁」譬四大，「[3]頹落」譬減損，「傾危」譬遷變，「柱根」譬命，「梁棟」譬意識，「腐敗」譬危殆不久。欲令易解，作觀釋之。堂譬身之下分，閣譬頭等上分，牆壁譬皮肉，[＊3-1]頹落譬老朽，柱根譬兩足，腐敗譬無常，梁棟譬脊骨，傾危譬大期，周障屈曲譬大小腸，又云譬心(云云)。「周匝」下，明能燒之火，八苦遍在四大、四生故言「周匝」，並皆無常故云「俱時」，「炊然」譬本無今有，本無此苦，無明故有。六、「長者諸子」下，三十子，譬上知眾生性欲，曾習佛法天性相關則子義；性欲有異，若十是菩薩子，二十、三十是二乘子，此機俱得出宅故名為子，無此機是五百人。或者，支佛出沒不同，或小乘攝或中乘攝，皆言十者，悉有十智之性，故云內有智性，但無如實智性耳。上三偈先頌實、後頌權，今總譬中先實後權(云云)。[4]
 </div>
 <div class="english-translation">
-From "his age was advanced" below, third, it praises virtue and deeds. Virtue has inner and outer: inner is wisdom-strategy, outer is wealth. Great age with broad penetration of past and present is a parable for the Buddha's wisdom-virtue; aged and decayed, roots and will fully matured, is a parable for the Buddha's severance-virtue. "Wealth" parables the outer virtue; "immeasurable" generally parables the myriad virtues. "Fields and houses" are a specific parable: fields can nurture life, a parable for samadhi nourishing prajna[^125]; houses can lodge the body, a parable for the real realm serving as the support for wisdom--briefly, the eighteen gates of emptiness; broadly, the immeasurable gates of emptiness[^126]. If we speak of merit-virtue, there is no practice not cultivated; if we speak of wisdom, there is no realm not illumined; therefore it says "many fields and houses." "Servants" are attendants and helpers, a parable that expedient knowledges and insights are already complete, harmonizing the light with the six paths[^127] and bending to the myriad conditions--these are the servants of real wisdom. Second, "his house was vast": the house-dwelling is a parable above; security corresponds to insecurity. Insecurity is a parable for the three realms[^106]; beings in every hole dwell in the three realms, and the Tathagata's responsive transformations [1] gather and make them his house; therefore it says "vast." Third, "only one door" is a parable for the various Dharma-gates proclaimed as the Buddha-way. The Daochang guan commentary says: "The principle of real aspect is not different, and wisdom should also be one; since there is no different road out, it is called one door." The Guangzhai says: "Although the three realms are vast and the ninety are many, when discussing escape, only the Buddha-teaching--therefore called one door."[^128] Now we clarify: if the principle alone is the door, the principle has no opening or closing--what door is that? If the teaching alone is the door, many have obtained the sutra--why do they not exit? Now we take principle as what the teaching explicates; the text says "By the Buddha-teaching door one exits the suffering of the three realms and attains nirvana-realization."[^129] The door is also two: house-door and cart-door. The house is birth-and-death; the door is the escape-route--this is what the expedient teaching explicates. The cart is the Great Vehicle[^1]; the door is what the Perfect Teaching[^26] explicates. If the house-door is the cart-door [2], then the three carts used at the beginning to rescue the children should be exactly the same as the later equal gift of the great cart; if the door of exit is not the door of entry, it proves the cart and house are different. Fourth, "five hundred people" are a parable for sentient beings, namely the five paths[^127]. Fifth, below "hall and pavilion" is a parable for security versus insecurity, i.e., the five turbidities[^51]. First it sets out the appearance of the house being burned--a parable for retribution in the six paths[^127]; next it clarifies the fire that can burn--a parable for the eight sufferings[^107] and five turbidities[^51]. "Hall" is a parable for the desire realm; "pavilion" for the form and formless realms; "walls" for the four elements[^130]; "[3] collapsing" for diminution; "tilting and endangered" for change; "pillar-bases" for life; "beams and ridgepoles" for the mental consciousness[^131]; "decay" for peril and not long-lasting. To make it easier to understand, it gives a contemplative explanation: the hall is the lower part of the body; the pavilion the upper part such as the head; walls are skin and flesh; [*3-1] collapsing is old decay; pillar-bases are the two legs; decay is impermanence; beams and ridgepoles are the spine; tilting is the great term (death); the encircling and winding are the large and small intestines; it also says a parable for the mind (etc.). From "encircling all around" below, it clarifies the fire that can burn: the eight sufferings[^107] pervade the four elements[^130] and four births[^132], therefore it is said "encircling all around"; all are impermanent, therefore it says "at the same time"; "blazing" is a parable for what was originally nonexistent now existing--this suffering was originally absent; because of ignorance[^134] it exists. Sixth, below "the elder's sons," the thirty sons are a parable for knowing beings' natures and desires; having previously practiced the Buddha-Dharma and being naturally related is the meaning of "sons." Natures and desires differ: if ten are Bodhisattva sons, twenty or thirty are the two-vehicle sons; these capacities can all exit the house and are therefore named sons; those without this capacity are the five hundred people. Alternatively, because pratyekabuddhas appear and disappear differently--sometimes included in the small vehicle, sometimes included in the middle vehicle--both are said to be ten; all have the nature of the ten knowledges[^135], therefore it is said they have inner wisdom-nature, but they lack the nature of true-as-such wisdom[^135]. The three verses above first versify the real, then the provisional; now within the general parable it is first real, then provisional (etc.)[^104].
+From "his age was advanced" below, third, it praises virtue and deeds. Virtue has inner and outer: inner is wisdom-strategy, outer is wealth. Great age with broad penetration of past and present is a parable for the Buddha's wisdom-virtue; aged and decayed, roots and will fully matured, is a parable for the Buddha's severance-virtue. "Wealth" parables the outer virtue; "immeasurable" generally parables the myriad virtues. "Fields and houses" are a specific parable: fields can nurture life, a parable for samadhi nourishing prajna[^125]; houses can lodge the body, a parable for the real realm serving as the support for wisdom--briefly, the eighteen gates of emptiness; broadly, the immeasurable gates of emptiness[^126]. If we speak of merit-virtue, there is no practice not cultivated; if we speak of wisdom, there is no realm not illumined; therefore it says "many fields and houses." "Servants" are attendants and helpers, a parable that expedient knowledges and insights are already complete, harmonizing the light with the six paths[^127] and bending to the myriad conditions--these are the servants of real wisdom. Second, "his house was vast": the house-dwelling is a parable above; security corresponds to insecurity. Insecurity is a parable for the three realms[^106]; beings in every hole dwell in the three realms, and the Tathagata's responsive transformations [1] gather and make them his house; therefore it says "vast." Third, "only one door" is a parable for the various Dharma-gates proclaimed as the Buddha-way. The Daochang guan commentary says: "The principle of real aspect is not different, and wisdom should also be one; since there is no different road out, it is called one door." The Guangzhai says: "Although the three realms are vast and the ninety are many, when discussing escape, only the Buddha-teaching--therefore called one door."[^128] Now we clarify: if the principle alone is the door, the principle has no opening or closing--what door is that? If the teaching alone is the door, many have obtained the sutra--why do they not exit? Now we take principle as what the teaching explicates; the text says "By the Buddha-teaching door one exits the suffering of the three realms and attains nirvana-realization."[^129] The door is also two: house-door and cart-door. The house is birth-and-death; the door is the escape-route--this is what the expedient teaching explicates. The cart is the Great Vehicle[^1]; the door is what the Perfect Teaching[^26] explicates. If the house-door is the cart-door [2], then the three carts used at the beginning to rescue the children should be exactly the same as the later equal gift of the great cart; if the door of exit is not the door of entry, it proves the cart and house are different. Fourth, "five hundred people" are a parable for sentient beings, namely the five paths[^127]. Fifth, below "hall and pavilion" is a parable for security versus insecurity, i.e., the five turbidities[^51]. First it sets out the appearance of the house being burned--a parable for retribution in the six paths[^127]; next it clarifies the fire that can burn--a parable for the eight sufferings[^107] and five turbidities[^51]. "Hall" is a parable for the desire realm; "pavilion" for the form and formless realms; "walls" for the four elements[^130]; "[3] collapsing" for diminution; "tilting and endangered" for change; "pillar-bases" for life; "beams and ridgepoles" for the mental consciousness[^131]; "decay" for peril and not long-lasting. To make it easier to understand, it gives a contemplative explanation: the hall is the lower part of the body; the pavilion the upper part such as the head; walls are skin and flesh; [*3-1] collapsing is old decay; pillar-bases are the two legs; decay is impermanence; beams and ridgepoles are the spine; tilting is the great term (death); the encircling and winding are the large and small intestines; it also says a parable for the mind (etc.). From "encircling all around" below, it clarifies the fire that can burn: the eight sufferings[^107] pervade the four elements[^130] and four births[^132], therefore it is said "encircling all around"; all are impermanent, therefore it says "at the same time"; "blazing" is a parable for what was originally nonexistent now existing--this suffering was originally absent; because of ignorance[^134] it exists. Sixth, below "the elder's sons," the thirty sons are a parable for knowing beings' natures and desires; having previously practiced the Buddha-Dharma and being naturally related is the meaning of "sons." Natures and desires differ: if ten are Bodhisattva sons, twenty or thirty are the two-vehicle sons; these capacities can all exit the house and are therefore named sons; those without this capacity are the five hundred people. Alternatively, because pratyekabuddhas appear and disappear differently--sometimes included in the small vehicle, sometimes included in the middle vehicle--both are said to be ten; all have the nature of the ten knowledges[^135], therefore it is said they have inner wisdom-nature, but they lack the nature of true-as-such wisdom[^135]. The three verses above first versify the real, then the provisional; now within the general parable it is first real, then provisional (etc.) [4][^104].
 </div>
 </div>
+*[Critical apparatus: [1] 統【大】，繞【甲】; [2] 車門【大】，門車【甲】; [3] 頹【大】＊，隤【甲】＊; [＊3-1] 頹【大】＊，隤【甲】＊; [4] 不分卷【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 統【大】，繞【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "統" in Taisho; "繞" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 車門【大】，門車【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "車門" in Taisho; "門車" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 頹【大】＊，隤【甲】＊
-</div>
-<div class="english-translation">
-[3] Variant: "頹" in Taisho; "隤" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊3-1] 頹【大】＊，隤【甲】＊
-</div>
-<div class="english-translation">
-[*3-1] Variant: "頹" in Taisho; "隤" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 不分卷【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "not divided into rolls" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2788,15 +2620,8 @@ Spoken by the Great Master Zhiyi of Tiantai.
 [5] From "the elder sees this great fire" below is the second, the specific parable. The specific is further four: first, the parable of the elder seeing the fire, matching the above where the Buddha sees the five turbidities[^51], based on four lines of verse; second, the parable of discarding the table and using carts, matching the above where Sakyamuni, for the five turbidities, puts aside the great and gives the small, beginning to sit at the place of enlightenment, based on seventeen and a half lines of verse; third, the parable of equally granting the great cart to the children, matching the above where Sakyamuni reveals the real aspect[^121]--"I see the Buddha-children who all aspire to the Buddha-way"--based on six lines of verse; fourth, the parable of the elder without falsehood, matching the above "I am king of all dharmas," based on two and a half lines of verse. As for the first, seeing the fire, the text has four but the intent only three: (1) clarifying the seer, (2) clarifying what is seen, (3) clarifying alarm and fear, (4) expanding what was seen above. It still makes three meanings: "the elder sees" marks the seer, matching above "I use the Buddha-eye to observe";[^105] "this great fire arises from four sides" marks what is seen, matching above what is seen--the beings of the six paths[^127]; "he is greatly alarmed and afraid" matches above that for these beings he raises a great compassionate mind. Below "and the sons and others within the burning house" expands the second, the fire that is seen, and still explains the meaning of alarm and fear. Body, feeling, mind, and dharmas are the four sides of the house; from these four sides arise purity, pleasure, and the other four inversions[^133]; the fire of the eight sufferings[^107] gathers all sufferings--if one knows the body is impure, suffering, impermanent, the fire of afflictions is extinguished. There are three old explanations: (1) the four elements[^130] are the four sides, and the six consciousnesses[^131] are all lodged within; (2) it is the four births[^132]; (3) it is the four inversions[^133]. According to the following text, birth, aging, sickness, and death are the four sides. "Great alarm and fear" means: he is alarmed that they retreat from great good; he fears that they will raise heavy evil. Alarm corresponds to compassion--he thinks they have no happiness; fear corresponds to pity--he worries they have suffering. "Although I can safely exit from this burning door" explains the meaning of alarm and compassionate concern: though it is not yet an ultimate statement, it clarifies that the Buddha, by the power of wisdom, can seek the correct teaching and see the truth it signifies, not endangered by the five turbidities[^51] and eight sufferings[^107], hence "safe"; the violent winds of the four inversions[^133] cannot move him, hence "secure"; detached beyond burdens, hence "able to exit." But beings are not like this; they are burned by the fire, and the Tathagata's compassion is still inflamed by worry over the fire, hence he says "although." When the sutra says "the burning door," we now ask: "If the teaching is the door, is this teaching burned or not burned?" The answer: "The teaching-door is not burned; the Buddha-teaching is the door, able to pass those who are burned. Those who pass are burned; thus the door that can pass is called 'burned'--like calling a door 'decayed' because people inside died; the door itself is not decayed."
 </div>
 </div>
+*[Critical apparatus: [5] 不分卷【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 不分卷【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "not divided into rolls" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2815,15 +2640,8 @@ Again it asks: "If so, the teaching is permanent, not a conditioned dharma; if n
 "Delighting and clinging to play and games": clinging to views is called play; clinging to love is called games. Again, indulging the four views/inversions[^133] is called play; losing its merit [6] is called games; clinging to love is the same. Indulging the five dusts[^138] is called play; empty with no gain is called games--empty birth and futile death without revulsion, like children at play. "Unaware and unknowing" means: not saying there is fire is called unaware; not understanding that fire is a hot dharma is called unknowing. Not knowing fire's heat, one does not fear bodily harm--this is called not alarmed; not worrying about life being cut off is called not afraid. Beings are entirely unaware of the five aggregates[^139] and eight sufferings[^107], and do not know the four inversions[^133] and three poisons[^140]; not recognizing afflictions, how could they be anxious? Afflictions invade the dharmakaya[^143] and injure the wisdom-life. Thus: being unaware of suffering, unknowing of its accumulation; not alarmed at injuring the path, not afraid of losing cessation. Because they have not heard the Four Truths teaching[^14], there is no wisdom of hearing[^141], called unaware; lacking the wisdom of thinking[^141] is called unknowing. Lacking seeing-understanding is called unaware; lacking contemplative-understanding is called unknowing. Seeing the truths[^142] is alarm-awakening; thinking is loathing-fear. Also, unaware of present suffering and unknowing of future suffering--therefore the text below says "presently receive many sufferings; later receive hell and other sufferings," which is this meaning. "Pressed on the body" is the five consciousnesses[^131]; "mind" is the mental consciousness, the mind-king[^131]. The body is pressed by the eight sufferings[^107], yet the mind does not weary. It is also said: they once planted Mahayana[^1] merit--taking the dharmakaya-wisdom as their body; that body is pressed by the four inversions[^133], yet they are unaware and unknowing. "The mind does not dislike or worry" means it does not dislike the suffering of impermanence, nor worry about the accumulation of afflictions. "No intent to seek exit" means it does not cultivate the path to seek cessation. Now we say: the burning-house is originally a parable for the five turbidities[^51]; play is a parable for the view-turbidity, games for the affliction-turbidity; unaware/unknowing, not alarmed/not afraid is a parable for the beings-turbidity; the fire coming to press the body, pain intense, is a parable for the life-turbidity; the mind not disliking or worrying and having no intent to seek exit is a parable for the kalpa-turbidity. This corresponds to the five turbidities (etc.).
 </div>
 </div>
+*[Critical apparatus: [6] 名【大】，為【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 名【大】，為【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "名" in Taisho; "為" in A-text.
-</div>
-</div>
 
 ### 3. Discarding the Table and Using Carts (Lines 182-198; CBETA 005:182–198)
 
@@ -2841,9 +2659,10 @@ From "The elder then thought..." downward is the second [section], the parable o
 「長者作是思惟」下，譬上三七日思惟也。「身手」等者，引下合譬云「但以神力及智慧力」以釋此譬，身譬神通荷負，手譬智慧提拔，依三昧斷德則有神通，依智慧智德則有說法，智斷之力能成法身，此之智斷還從勸、誡兩門入，勸即為人悉檀，誡即對治悉檀，此二悉檀，為第一義悉檀而作方便。如來初欲勸門擬宜眾生令眾善奉行成就十力無畏一切種智，而眾生不堪；次欲以誡門擬宜令諸惡莫作證大涅槃，眾生不堪無機息化，故知念用大乘，[1]秖是勸、誡兩悉檀，神通、智斷耳，故上文云「定慧力莊嚴以此度眾生」即其義也。
 </div>
 <div class="english-translation">
-Below "The elder then thought" corresponds to the three seven-day periods of contemplation. The "body and hands" etc. are clarified by the matching-parable line below, "only by spiritual power and wisdom power"—thus interpreting this parable: the body parables supernormal powers[^148] carrying and bearing; the hands parable wisdom lifting and pulling. Relying on samadhi[^149] and the merit of severance[^150] there are supernormal powers; relying on wisdom and the merit of wisdom there is teaching. The power of wisdom-and-severance can realize the dharmakaya[^143]. This wisdom-and-severance still enters through the two gates of exhortation and admonition: exhortation is the Siddhanta for persons, admonition is the Siddhanta of counteracting; these two Siddhantas are expedients for the Siddhanta of the First Principle.[^147] The Tathagata first wished, through the exhortation gate, to propose appropriately to beings so they would practice all good and accomplish the ten powers[^118], the fearlessnesses[^151], and all-knowledge[^152]; but beings could not bear it. Next he wished, through the admonition gate, to propose appropriately so that all evils would not be done and the great nirvana[^129] would be realized; beings could not bear it—without capacity, he stopped the transformation. Therefore we know that the resolve to use the Great Vehicle[^1] was only the two Siddhantas of exhortation and admonition, namely supernormal powers and wisdom-and-severance. Hence the earlier text says, "Adorned with the power of samadhi and wisdom[^125], by this he ferries beings"—that is its meaning.
+Below "The elder then thought" corresponds to the three seven-day periods of contemplation. The "body and hands" etc. are clarified by the matching-parable line below, "only by spiritual power and wisdom power"—thus interpreting this parable: the body parables supernormal powers[^148] carrying and bearing; the hands parable wisdom lifting and pulling. Relying on samadhi[^149] and the merit of severance[^150] there are supernormal powers; relying on wisdom and the merit of wisdom there is teaching. The power of wisdom-and-severance can realize the dharmakaya[^143]. This wisdom-and-severance still enters through the two gates of exhortation and admonition: exhortation is the Siddhanta for persons, admonition is the Siddhanta of counteracting; these two Siddhantas are expedients for the Siddhanta of the First Principle.[^147] The Tathagata first wished, through the exhortation gate, to propose appropriately to beings so they would practice all good and accomplish the ten powers[^118], the fearlessnesses[^151], and all-knowledge[^152]; but beings could not bear it. Next he wished, through the admonition gate, to propose appropriately so that all evils would not be done and the great nirvana[^129] would be realized; beings could not bear it—without capacity, he stopped the transformation. Therefore we know that the resolve to use the Great Vehicle[^1] was [1] only the two Siddhantas of exhortation and admonition, namely supernormal powers and wisdom-and-severance. Hence the earlier text says, "Adorned with the power of samadhi and wisdom[^125], by this he ferries beings"—that is its meaning.
 </div>
 </div>
+*[Critical apparatus: [1] 秖【大】＊，只【甲】＊]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2863,14 +2682,6 @@ Now taking the matching-parable text: if I only use spiritual power and wisdom p
 </div>
 </div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 秖【大】＊，只【甲】＊
-</div>
-<div class="english-translation">
-[1] Variant: "秖" in Taisho; "只" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2940,18 +2751,11 @@ From "The elder then thought: this house is already being burned by a great fire
 從「我今當設方便」，欲[1]設權也。
 </div>
 <div class="english-translation">
-From "I now should set up an expedient," it means he wishes to set up provisional means.[^163]
+From "I now should set up an expedient," it means he wishes [1] to set up provisional means.[^163]
 </div>
 </div>
+*[Critical apparatus: [1] 設權【大】，權設【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 設權【大】，權設【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "設權" in Taisho; "權設" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -2961,15 +2765,8 @@ From "I now should set up an expedient," it means he wishes to set up provisiona
 From "Knowing the children's former minds" downward, [2] second, it clarifies that there is capacity to be saved. They formerly practiced the small, thus he knows their prior mind-natures and desires differ—this is knowing each has his preference. He also knows that beings formerly practiced the great; their practice of the great is not strong, so the great is weak; because they loathe aging, sickness, and death, he meets them with the small—this is the small's strength. For example, Śāriputra retreated among the six minds: formerly practicing the great is called knowing the prior mind; in the middle, loathing aging and death is called "each has his preference."
 </div>
 </div>
+*[Critical apparatus: [2] 第【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 第【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "第" in Taisho; omitted in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -3013,129 +2810,26 @@ Below “At that time the elder saw the sons and others” is, within the specif
 
 <div class="bilingual-row">
 <div class="chinese-source">
-「各白父言」下，第二，是索車譬。文云：「願賜我等三種寶車」，文無索字義者，依此請辭明索車耳。有人云：「二乘索車，菩薩不索。作十難難之，一云：二乘出三界外，至許車處索果車；菩薩未至許處，那忽索車？二云：大乘經無菩薩索小乘果，故知不索。三云：所化菩薩從初發心終至補處，皆是凡夫不出三界，義則無索；能化菩薩三十三心，見傾思未盡，三十四心便是佛，佛從誰索？四、二乘果在正使門外，佛果在習氣無知門外，二乘斷正使盡不見車，是故索；菩薩未斷習與無知，那忽索？五、明二是方便可言索，文云唯此一事實，餘二則非真，以此推之但二索、一不索。六、從《大品》已來，至《法華》已前，佛因佛果皆是方便者，付窮子財此之珍寶，皆應是方便，若付財是真實，則《大品》等明佛乘，已是真實，那忽更索？七、〈方便品〉偈，敘昔說小是方便，不敘大是方便，當知佛子大乘非方便，那忽有索？八、若三人索者何？無領解，領解無故，故知不索也。九、合賜車，文云『見諸眾生出三界苦、得涅槃樂，故賜以大乘』，菩薩不證涅槃，那忽索？十、諸子安坐故就父索，二乘果滿不修行，故安坐可得有索；菩薩行未息，無安坐義，那忽索？」私以總別駁之。索是求請之別名，在意名求索，在口名請索，在身名乞索，如矇者求知，如飢者請食，如迷者問道，凡居不達之地，何有不索之理？由索故許與，許與故歡喜，今文具有請與歡喜，法說中千二百人，身子為首，慇懃三請；菩薩眾中彌勒為首，佛口所生子，大數有八萬，合掌以敬心，欲聞具足道，譬說之初，身子為中根人請，又總為四眾請，傍為下根請，文云：「善哉世尊，願為四眾說其因緣。」法說許云：「汝已殷勤三請，豈得不說？」譬說許云：「當以譬喻更明此義。」因緣許云：「我及汝等宿世因緣，吾今當說。」法說竟，身子歡喜；譬說竟，迦葉等歡喜；宿世[1]說竟，樓那歡喜。又合譬文云：「令諸子等日夜劫數常得遊戲，與諸菩薩乘是寶乘直至道場。」以喜故知與，與故知請，三周三義明文炳然，何故偏言二索、一不索？別駁，其一，齊三藏明菩薩不斷惑，依《法華》有四句，謂障除大機動，障未除大機動，[2]機動則知索。其二云：大乘經無菩薩索小乘果，《大品》云：「三乘之人，同以無言說道，斷煩惱入涅槃」，斷煩惱入涅槃同，何故不索？其三云：三十三心名菩薩，三十四斷思盡即成佛，佛從誰索？此猶三藏義，見障未除大機尚動，況三十三心而當不動，動即知索。其四，菩薩未斷習氣無知不應索，斷盡成佛，佛從誰索？此三乘通教義，具縛障存尚大機動，況殘習無知耶？其五，唯此一事實，實即是真，那忽復索？被會絕待之唯一，一外更無法，昔待二之唯一，一外更有法，一名同而體異，闇執瓦礫魚目，謂夜光月形，愚[3]豈而智愍(云云)。其六，《般若》已來《法華》已上，與付財法同，不應有索。汝不聞共不共般若，不共不須索，共者不應不索(云云)。其七，〈方便品〉初，昔說小是方便，不敘昔說大是方便，大非方便，是故不索者。汝不[4]聞〈壽量品〉中，我少出家得三菩提，乃至中間若小若大若己若他皆我方便，諸佛亦然，寧得不索？其八，若菩薩索，菩薩應領解，領解既無，故知不索。汝不聞法說竟，天龍四眾皆領解，其非菩薩謂是何耶？又〈法師品〉中，三乘皆與記，若不領解，那忽與記？其九，出三界苦得安隱樂，乃賜乃索，菩薩未出未證，是故不索，猶是三藏義耳。其十，諸子安坐爾乃賜車，二乘行息名安坐，菩薩行不息非安坐，那忽索車？猶是前義耳。自有行息索、行未息索，又菩薩行行，即是乘乘，乘由索得，何謂不索？觀其詭累三藏，故設此十難，管見一斑都非大體，今當為爾分別說之。自有不斷惑不索車，三藏菩薩是；自有斷惑索車，通教菩薩是；自有亦斷惑亦不斷惑亦索亦不索，別教菩薩是；自有非斷惑非不斷惑非索非不索，圓教菩薩是。又歷五味：乳味兩意：一、亦斷亦不斷，亦索亦不索，二、非斷非不斷，非索非不索；酪味一意不斷不索；生酥備四意；熟[1]酥味但三意；醍醐一意。宏綱大統其義如此。於一一句一一意，復各四句：謂障除機動，障未除機動，障亦除亦未除機動，障非除非不除機動。斯宗不見執一非三，深可悲愍。世人執車數不同，說車體不同，或言初說三車，後會二歸一；或言初說有三，後會三歸一；或言初說有四，後會三歸一。所以出經勿信人語，此文引昔佛為聲聞說應四諦法，為緣覺人說應十二因緣法，為菩薩人說應六波羅蜜法，今佛說三，數亦如此。《華嚴》第八云：「下劣厭沒者，為示聲聞道；根鈍樂因緣，為說緣覺道；根利有慈悲，為說菩薩道；無上樂大事，說無量佛法。」三十六又云：「三解脫法出聲聞乘，無諍法出緣覺乘，六度四攝出大乘，知一切法出佛乘。」又第九地說聲聞乘相、支佛乘相、菩薩乘相、如來乘相。《地論》釋第二地，觀十不善集墜三途，十善集生天。上十善與四諦觀智合成聲聞，又上十善與不從他聞觀智合成緣覺，又上十善與具足清淨觀智合，成菩薩地，又上上十善與一切種一切佛法合成佛。《瓔珞》第十三云：「十方佛說三乘，一乘中又開三合九乘，九乘悉會入平等大慧。」聖說如此，不能融通，互相是非，非法毀人，過莫大焉。今約教分別之。若說三乘法門異而真諦同者，三藏教也；若說三乘法門同、真諦皆同者通教也；若說三乘三三九乘，若說四乘淺深階級各各不同而同入平等大慧者，別教也；若說三乘九乘四乘一一皆與平等大慧相應無二無異者，圓教也。又歷五味分別；乳味但明菩薩乘、佛乘；酪味但明異三乘；生酥味備明三乘四乘九乘各各分齊不相濫；熟[＊1-1]酥味唯除異三乘，餘如生[＊1-1]酥也；醍醐中純說佛乘，無復餘乘也。若識此意異說無妨，若不知者[＊1-1]秖增諍論耳。世人明佛乘乘體有異，光宅取佛果究竟盡無生二智為車體，遠出五百由旬之外對昔為高，具含萬德對昔為廣。莊嚴取因總萬行為體，上求為高下化為廣。舊不取功德，功德與凡夫共，唯取智慧為體。舊又取福慧共為體。文云「乘是三車」，以無漏根力覺道禪定解脫三昧而自娛樂，豈但智慧耶？又一[2]師但取有解為體，空解無動故不取，盡無生智即有解也。又一小乘取空慧為[3]車體，文云「我等長夜修習空法」(云云)。大乘亦以實慧方便為車體，車體譬有，有有運動故也。私謂諸師釋佛乘之體，而競指具度，何異眾盲觸象諍其尾牙。依天台智者，明諸法實相正是車體，一切眾寶莊校皆莊嚴具耳，至賜車文中當點出。舊解：小車[4]者小果也，果有有為、無為功德，正取有為以譬車運，運入無餘也。有為果中具有福慧，以慧為正、福屬具度，其慧有十，而八智通因果，盡無生智唯是果位，乃取二智以譬車果，以是義故車在門外。若依《大品》云：「是乘從三界出，到薩婆若中住。」若未出時，已乘是乘爭出火宅，何故復言車在門外？若先在外，乘何而出？然但乘通因果，三十七品斷見思惑，皆是因乘，盡無生智皆名果乘，要因因乘斷除惑盡，方得果乘盡無生智，故言車在門外。但果正因傍，就果為言車在門外；若內因斷結運義名乘，外果不運何得名乘？然果無斷惑之運，要以盡無生智入無餘涅槃，方是好運也；若乘因到果，何意方更索車？舊云：機索、情索。機索者可解；情索者，佛說盡無生教，羅漢證此果，已用神通天眼試觀未來，猶見變易生死浩然，自疑所得盡無生證，若實無生云何見有？如其浩然昔非究竟情中從佛索先所許是為情索，若尋經文文無此語，若推索義義不應然，文無可解。推者，下文云：「自於所得生滅度想」，既以天眼見有生死，何故復起滅度之想？此則自相[5]矛盾。又佛滅後羅漢，不值餘佛不能決了，既自以天眼照見生死，何須見佛而決了耶？又初禪天眼，尚不見二禪，況見變易？亦與《攝大乘》乖也。又羅漢得無漏業，用天眼見變易未來生死果報者，即時[6]人修五戒十善，應自見其未來果報；當知界外果報，豈是天眼所見耶？不用此判情索也。今言情索者，昔日依教謂盡無生能入無餘，而於方等中，見菩薩不思議，聞淨名彈斥，若我所得是實，大士不應折挫；若我非實，佛不應說真。故云茫然不知所云。至《大品》中領知大法，聞此樂大心起，方欲進修大乘，而不能知得與不得，此等皆是情中已索大乘之義。故身子領解，提昔疑情：「見諸菩薩[7]授記作佛，不豫斯事，嗚呼自責，欲以問世尊，為失為不失？」即是指昔方等已有情索也。今加口索者，因聞〈方便品〉初偈略聞佛說並是方便，即復執今方便疑昔未極，故云：「我今不知是義所趣」，動宿疑情故發言三請，索求昔日所說之實，機在大乘、情求昔實。又情求大乘、口問昔實，六度通教例爾。
+「各白父言」下，第二，是索車譬。文云：「願賜我等三種寶車」，文無索字義者，依此請辭明索車耳。有人云：「二乘索車，菩薩不索。作十難難之，一云：二乘出三界外，至許車處索果車；菩薩未至許處，那忽索車？二云：大乘經無菩薩索小乘果，故知不索。三云：所化菩薩從初發心終至補處，皆是凡夫不出三界，義則無索；能化菩薩三十三心，見傾思未盡，三十四心便是佛，佛從誰索？四、二乘果在正使門外，佛果在習氣無知門外，二乘斷正使盡不見車，是故索；菩薩未斷習與無知，那忽索？五、明二是方便可言索，文云唯此一事實，餘二則非真，以此推之但二索、一不索。六、從《大品》已來，至《法華》已前，佛因佛果皆是方便者，付窮子財此之珍寶，皆應是方便，若付財是真實，則《大品》等明佛乘，已是真實，那忽更索？七、〈方便品〉偈，敘昔說小是方便，不敘大是方便，當知佛子大乘非方便，那忽有索？八、若三人索者何？無領解，領解無故，故知不索也。九、合賜車，文云『見諸眾生出三界苦、得涅槃樂，故賜以大乘』，菩薩不證涅槃，那忽索？十、諸子安坐故就父索，二乘果滿不修行，故安坐可得有索；菩薩行未息，無安坐義，那忽索？」私以總別駁之。索是求請之別名，在意名求索，在口名請索，在身名乞索，如矇者求知，如飢者請食，如迷者問道，凡居不達之地，何有不索之理？由索故許與，許與故歡喜，今文具有請與歡喜，法說中千二百人，身子為首，慇懃三請；菩薩眾中彌勒為首，佛口所生子，大數有八萬，合掌以敬心，欲聞具足道，譬說之初，身子為中根人請，又總為四眾請，傍為下根請，文云：「善哉世尊，願為四眾說其因緣。」法說許云：「汝已殷勤三請，豈得不說？」譬說許云：「當以譬喻更明此義。」因緣許云：「我及汝等宿世因緣，吾今當說。」法說竟，身子歡喜；譬說竟，迦葉等歡喜；宿世[1]說竟，樓那歡喜。又合譬文云：「令諸子等日夜劫數常得遊戲，與諸菩薩乘是寶乘直至道場。」以喜故知與，與故知請，三周三義明文炳然，何故偏言二索、一不索？別駁，其一，齊三藏明菩薩不斷惑，依《法華》有四句，謂障除大機動，障未除大機動，[2]機動則知索。其二云：大乘經無菩薩索小乘果，《大品》云：「三乘之人，同以無言說道，斷煩惱入涅槃」，斷煩惱入涅槃同，何故不索？其三云：三十三心名菩薩，三十四斷思盡即成佛，佛從誰索？此猶三藏義，見障未除大機尚動，況三十三心而當不動，動即知索。其四，菩薩未斷習氣無知不應索，斷盡成佛，佛從誰索？此三乘通教義，具縛障存尚大機動，況殘習無知耶？其五，唯此一事實，實即是真，那忽復索？被會絕待之唯一，一外更無法，昔待二之唯一，一外更有法，一名同而體異，闇執瓦礫魚目，謂夜光月形，愚[3]豈而智愍(云云)。其六，《般若》已來《法華》已上，與付財法同，不應有索。汝不聞共不共般若，不共不須索，共者不應不索(云云)。其七，〈方便品〉初，昔說小是方便，不敘昔說大是方便，大非方便，是故不索者。汝不[4]聞〈壽量品〉中，我少出家得三菩提，乃至中間若小若大若己若他皆我方便，諸佛亦然，寧得不索？其八，若菩薩索，菩薩應領解，領解既無，故知不索。汝不聞法說竟，天龍四眾皆領解，其非菩薩謂是何耶？又〈法師品〉中，三乘皆與記，若不領解，那忽與記？其九，出三界苦得安隱樂，乃賜乃索，菩薩未出未證，是故不索，猶是三藏義耳。其十，諸子安坐爾乃賜車，二乘行息名安坐，菩薩行不息非安坐，那忽索車？猶是前義耳。自有行息索、行未息索，又菩薩行行，即是乘乘，乘由索得，何謂不索？觀其詭累三藏，故設此十難，管見一斑都非大體，今當為爾分別說之。自有不斷惑不索車，三藏菩薩是；自有斷惑索車，通教菩薩是；自有亦斷惑亦不斷惑亦索亦不索，別教菩薩是；自有非斷惑非不斷惑非索非不索，圓教菩薩是。又歷五味：乳味兩意：一、亦斷亦不斷，亦索亦不索，二、非斷非不斷，非索非不索；酪味一意不斷不索；生酥備四意；熟酥但三意；醍醐一意。宏綱大統其義如此。於一一句一一意，復各四句：謂障除機動，障未除機動，障亦除亦未除機動，障非除非不除機動。斯宗不見執一非三，深可悲愍。世人執車數不同，說車體不同，或言初說三車，後會二歸一；或言初說有三，後會三歸一；或言初說有四，後會三歸一。所以出經勿信人語，此文引昔佛為聲聞說應四諦法，為緣覺人說應十二因緣法，為菩薩人說應六波羅蜜法，今佛說三，數亦如此。《華嚴》第八云：「下劣厭沒者，為示聲聞道；根鈍樂因緣，為說緣覺道；根利有慈悲，為說菩薩道；無上樂大事，說無量佛法。」三十六又云：「三解脫法出聲聞乘，無諍法出緣覺乘，六度四攝出大乘，知一切法出佛乘。」又第九地說聲聞乘相、支佛乘相、菩薩乘相、如來乘相。《地論》釋第二地，觀十不善集墜三途，十善集生天。上十善與四諦觀智合成聲聞，又上十善與不從他聞觀智合成緣覺，又上十善與具足清淨觀智合，成菩薩地，又上上十善與一切種一切佛法合成佛。《瓔珞》第十三云：「十方佛說三乘，一乘中又開三合九乘，九乘悉會入平等大慧。」聖說如此，不能融通，互相是非，非法毀人，過莫大焉。今約教分別之。若說三乘法門異而真諦同者，三藏教也；若說三乘法門同、真諦皆同者通教也；若說三乘三三九乘，若說四乘淺深階級各各不同而同入平等大慧者，別教也；若說三乘九乘四乘一一皆與平等大慧相應無二無異者，圓教也。又歷五味分別；乳味但明菩薩乘、佛乘；酪味但明異三乘；生酥味備明三乘四乘九乘各各分齊不相濫；熟[1]酥味唯除異三乘，餘如生[＊1-1]酥也；醍醐中純說佛乘，無復餘乘也。若識此意異說無妨，若不知者[＊1-1]秖增諍論耳。世人明佛乘乘體有異，光宅取佛果究竟盡無生二智為車體，遠出五百由旬之外對昔為高，具含萬德對昔為廣。莊嚴取因總萬行為體，上求為高下化為廣。舊不取功德，功德與凡夫共，唯取智慧為體。舊又取福慧共為體。文云「乘是三車」，以無漏根力覺道禪定解脫三昧而自娛樂，豈但智慧耶？又一[2]師但取有解為體，空解無動故不取，盡無生智即有解也。又一小乘取空慧為[3]車體，文云「我等長夜修習空法」(云云)。大乘亦以實慧方便為車體，車體譬有，有有運動故也。私謂諸師釋佛乘之體，而競指具度，何異眾盲觸象諍其尾牙。依天台智者，明諸法實相正是車體，一切眾寶莊校皆莊嚴具耳，至賜車文中當點出。舊解：小車[4]者小果也，果有有為、無為功德，正取有為以譬車運，運入無餘也。有為果中具有福慧，以慧為正、福屬具度，其慧有十，而八智通因果，盡無生智唯是果位，乃取二智以譬車果，以是義故車在門外。若依《大品》云：「是乘從三界出，到薩婆若中住。」若未出時，已乘是乘爭出火宅，何故復言車在門外？若先在外，乘何而出？然但乘通因果，三十七品斷見思惑，皆是因乘，盡無生智皆名果乘，要因因乘斷除惑盡，方得果乘盡無生智，故言車在門外。但果正因傍，就果為言車在門外；若內因斷結運義名乘，外果不運何得名乘？然果無斷惑之運，要以盡無生智入無餘涅槃，方是好運也；若乘因到果，何意方更索車？舊云：機索、情索。機索者可解；情索者，佛說盡無生教，羅漢證此果，已用神通天眼試觀未來，猶見變易生死浩然，自疑所得盡無生證，若實無生云何見有？如其浩然昔非究竟情中從佛索先所許是為情索，若尋經文文無此語，若推索義義不應然，文無可解。推者，下文云：「自於所得生滅度想」，既以天眼見有生死，何故復起滅度之想？此則自相[5]矛盾。又佛滅後羅漢，不值餘佛不能決了，既自以天眼照見生死，何須見佛而決了耶？又初禪天眼，尚不見二禪，況見變易？亦與《攝大乘》乖也。又羅漢得無漏業，用天眼見變易未來生死果報者，即時[6]人修五戒十善，應自見其未來果報；當知界外果報，豈是天眼所見耶？不用此判情索也。今言情索者，昔日依教謂盡無生能入無餘，而於方等中，見菩薩不思議，聞淨名彈斥，若我所得是實，大士不應折挫；若我非實，佛不應說真。故云茫然不知所云。至《大品》中領知大法，聞此樂大心起，方欲進修大乘，而不能知得與不得，此等皆是情中已索大乘之義。故身子領解，提昔疑情：「見諸菩薩[7]授記作佛，不豫斯事，嗚呼自責，欲以問世尊，為失為不失？」即是指昔方等已有情索也。今加口索者，因聞〈方便品〉初偈略聞佛說並是方便，即復執今方便疑昔未極，故云：「我今不知是義所趣」，動宿疑情故發言三請，索求昔日所說之實，機在大乘、情求昔實。又情求大乘、口問昔實，六度通教例爾。
 </div>
 <div class="english-translation">
 Below “Each said to the father” is, second, the parable of requesting carts. The text says: “We wish you to grant us three kinds of jeweled carts.” Although the wording has no character for “request,” this petitioning language makes the request clear. Someone says: “The two vehicles[^173] request carts; bodhisattvas[^174] do not.” They raise ten difficulties: (1) the two vehicles exit beyond the three realms and at the place where carts are promised request the fruit‑cart; bodhisattvas have not yet reached the promised place—how could they suddenly request a cart? (2) Mahayana sutras have no bodhisattvas requesting small‑vehicle fruits; therefore they do not request. (3) The bodhisattvas who are transformed, from initial aspiration up to the stage of one‑life‑remaining[^175], are all ordinary beings who do not leave the three realms—by meaning there is no request; the bodhisattvas who transform others have thirty‑three minds[^176], with view‑delusions slanting and thought‑delusions not yet ended; at the thirty‑fourth mind they become Buddhas—so from whom would a Buddha request? (4) The two‑vehicle fruit is outside the gate of root afflictions; the Buddha‑fruit is outside the gate of habitual tendencies and ignorance[^177]. The two vehicles cut off root afflictions and do not see the cart, therefore they request; bodhisattvas have not cut off habits and ignorance—how could they request? (5) The two are expedients, so one can speak of requesting them; the text says only this one matter is real, the other two are not true—by this reasoning only two request and one does not. (6) From the Large Prajna[^158] up to before the Lotus[^168], the Buddha‑cause and Buddha‑fruit are all expedients; giving the poor son wealth and treasures should all be expedients. If giving the wealth is real, then the Large Prajna and the like already reveal the Buddha‑vehicle as real—why request again? (7) The verse in the Skillful Means chapter[^170] narrates that formerly speaking the small is expedient, but does not narrate that the great is expedient; thus the Buddha‑children’s Mahayana is not expedient—how could there be a request? (8) If the three people request, then what? There is no “understanding‑acceptance”; because there is no understanding‑acceptance, it is known they do not request. (9) The combined‑giving of carts says: “Seeing beings leave the suffering of the three realms and obtain the joy of nirvana, therefore he gives them the Mahayana.” Bodhisattvas do not realize nirvana—how could they request? (10) The sons sit peacefully and then request the father; the two‑vehicle fruit is complete and they do not practice, therefore they can sit and request; bodhisattvas’ practice has not ceased, they have no meaning of sitting—how could they request? I refute these, generally and specifically. “Requesting” is another name for seeking and asking: in the mind it is “seeking,” in the mouth it is “requesting,” in the body it is “begging,” like a blind person seeking knowledge, a hungry person asking for food, a lost person asking the way. Whoever dwells in a place of not‑arriving—how could there be no request? Because of requesting, there is permission and giving; because of giving, there is rejoicing. The present text has both requesting, giving, and rejoicing. In the Dharma‑explanation, the 1,200 people, led by Śāriputra, earnestly made three requests; among the bodhisattva assembly, Maitreya is the head, sons born from the Buddha’s mouth, numbering eighty thousand—joining palms with reverent minds, desiring to hear the complete path. At the start of the parable, Śāriputra, as a middle‑root person, requests; he also requests generally for the four assemblies, and secondarily for the lower roots. The text says: “Excellent, World‑Honored One, please explain their causes and conditions for the four assemblies.” The Dharma‑explanation allows: “You have diligently asked three times; how could I not speak?” The parable‑explanation allows: “I will use a parable to clarify this meaning further.” The cause‑and‑conditions section allows: “The past‑life causes and conditions of you and me, I will now speak.” When the Dharma‑explanation is finished, Śāriputra rejoices; when the parable‑explanation is finished, Mahākāśyapa and the others rejoice; when the past‑life [1] account is finished, Pūrṇa rejoices. Again, the combined‑parable text says: “Let the sons day and night over kalpas always play, and together with the bodhisattvas ride this jeweled vehicle straight to the seat of enlightenment.” From rejoicing we know there was giving; from giving we know there was requesting. The three turnings and three meanings are made brilliant in the text—why then insist that two request and one does not? The specific refutation: first, with the Tripiṭaka teaching, bodhisattvas do not cut off delusions; yet in the Lotus[^168] there are four clauses: obstacles removed and great capacity moves; obstacles not removed and great capacity moves; [2] if capacity moves then it is known there is requesting. Second, Mahayana sutras have no bodhisattvas requesting small‑vehicle fruits; yet the Large Prajna says: “People of the three vehicles together, by the inexpressible path, cut afflictions and enter nirvana.” Since cutting afflictions and entering nirvana is shared, why not request? Third, thirty‑three minds are called bodhisattva; at the thirty‑fourth, cutting off thought, one becomes a Buddha—so from whom would a Buddha request? This is still the Tripiṭaka sense: view‑obstacles not yet removed, great capacity still moves; how much more would the thirty‑three minds not move—moving means requesting. Fourth, bodhisattvas who have not cut off habitual tendencies and ignorance should not request; when they cut them off and become Buddhas, from whom would they request? This is the shared‑teaching meaning of the three vehicles: with bondage and obstacles still present, the great capacity still moves; how much more with remaining habits and ignorance! Fifth, “only this one matter is real”—if it is real it is true, why request again? It is the single absolute that is beyond comparison; outside the one there is no other dharma. But in the former case of the one that is in contrast to two, outside the one there are still dharmas. The name is the same but the substance differs; in the dark they take tiles and fish‑eyes for the night‑shining pearl and the moon’s form—how could the foolish [3] not be pitied by the wise? (etc.) Sixth, from the Prajna to before the Lotus, it is like the giving of wealth; there should be no requesting. Have you not heard of shared and unshared Prajna? The unshared does not require requesting; the shared should not be without requesting (etc.). Seventh, in the Skillful Means chapter[^170] at the start, it narrates that formerly speaking the small is expedient; it does not narrate that formerly speaking the great is expedient; therefore the great is not expedient and thus no request—this is what they say. Have you not [4] heard in the Lifespan chapter[^178], “I left home young and attained bodhi; all the way to the middle, whether small or great, self or other, are all my expedients”? The Buddhas are the same—how could there be no requesting? Eighth, if bodhisattvas request, they should have understanding‑acceptance; since there is no understanding‑acceptance, it is known they do not request. Have you not heard that when the Dharma‑explanation ends, the devas, nagas, and four assemblies all have understanding‑acceptance—if they are not bodhisattvas, what are they? And in the Dharma Teacher chapter[^97], the three vehicles are all given predictions; if there is no understanding‑acceptance, why give predictions? Ninth, when beings exit the suffering of the three realms and attain secure joy, then there is giving and requesting; bodhisattvas have not exited or realized, therefore they do not request—this is still the Tripiṭaka meaning. Tenth, the sons sit peacefully and then are given carts; the two vehicles, with practice ended, are called sitting; bodhisattvas’ practice has not ended, so they have no meaning of sitting—how could they request? This is still the former meaning. Some have practice ended and request; some have practice not ended and request. Moreover, bodhisattvas practice‑as‑practice, which is vehicle‑as‑vehicle; vehicles are obtained through requesting—how can there be no requesting? Seeing their deceptive entangling of the Tripiṭaka, he raises these ten difficulties; a pipe‑view sees only one patch and is not the main body. Now I will discriminate it for you. Some do not cut off delusions and do not request carts—the Tripiṭaka bodhisattvas are so. Some cut off delusions and request carts—the shared‑teaching bodhisattvas are so. Some both cut and do not cut, both request and do not request—the distinct‑teaching bodhisattvas are so. Some neither cut nor not‑cut, neither request nor not request—the perfect‑teaching bodhisattvas are so.[^197] Again through the five flavors[^84]: milk has two meanings—(1) both cut and not cut, both request and not request; (2) neither cut nor not cut, neither request nor not request. Curd has one meaning: not cut and not request. Raw butter has all four meanings. Cooked [1] butter has only three meanings. Ghee has one meaning. This is the great net and overall structure of the meaning. For each phrase and each meaning, again there are four clauses: obstacles removed and capacity moves; obstacles not removed and capacity moves; obstacles both removed and not removed and capacity moves; obstacles neither removed nor not removed and capacity moves. This school does not see and clings to one, rejecting three—deeply pitiable. People of the world cling to different numbers of carts and speak of different cart‑bodies: some say first three carts were spoken, later two are united into one; some say first there were three, later three are united into one; some say first there were four, later three are united into one. Therefore when one leaves the sutra, do not trust people’s words. This passage cites the former Buddhas: for śrāvakas, they taught the dharma of the Four Truths; for pratyekabuddhas, they taught the dharma of the Twelve Links; for bodhisattvas, they taught the dharma of the Six Perfections[^180]; now the Buddha speaks three, and the number is likewise. The Avatamsaka[^169], fascicle eight, says: “Those of inferior capacity who are weary and sink—show them the śrāvaka path; those with dull roots who delight in causes and conditions—teach the pratyekabuddha path; those with sharp roots and compassion—teach the bodhisattva path; those who delight in the unsurpassed great matter—teach immeasurable Buddha‑dharmas.” Fascicle thirty‑six also says: “The three liberation dharmas come out of the śrāvaka vehicle; the non‑contention dharma comes out of the pratyekabuddha vehicle; the six perfections and four gatherings come out of the great vehicle; knowing all dharmas comes out of the Buddha‑vehicle.”[^182] The ninth bhūmi speaks of the marks of the śrāvaka vehicle, the pratyekabuddha vehicle, the bodhisattva vehicle, and the Tathagata vehicle. The Treatise on the Ten Stages[^181] explains the second bhūmi: by contemplating the accumulation of the ten unwholesome deeds one falls into the three evil paths; by accumulating the ten wholesome deeds[^195] one is born in heaven. Adding the ten wholesome deeds to the Four Truths contemplation‑wisdom yields śrāvaka; adding them to the contemplation‑wisdom not learned from another yields pratyekabuddha; adding them to fully pure contemplation‑wisdom yields the bodhisattva stage; adding the uppermost ten wholesome deeds to all‑knowledge and all Buddha‑dharmas yields Buddhahood. The Bodhisattva Necklace[^91], fascicle thirteen, says: “The Buddhas of the ten directions speak three vehicles; within one vehicle they also open three and combine nine vehicles; the nine vehicles all converge into equal great wisdom.” The sages speak thus; if one cannot integrate it, mutually affirming and denying and slandering persons contrary to the Dharma, the fault is great indeed. Now we differentiate by teachings. If one says the three vehicles’ dharma‑gates are different but the true truth is the same, that is the Tripiṭaka teaching; if one says the three vehicles’ dharma‑gates are the same and the true truth is the same, that is the shared teaching; if one says the three vehicles, three‑by‑three and nine vehicles, or says four vehicles with shallow and deep stages each different yet all entering equal great wisdom, that is the distinct teaching; if one says the three vehicles, nine vehicles, and four vehicles each correspond to equal great wisdom without difference, that is the perfect teaching.[^197] Again differentiating through the five flavors[^84]: the milk flavor only clarifies the bodhisattva vehicle and the Buddha vehicle; the curd flavor only clarifies the distinct three vehicles; the raw‑butter flavor fully clarifies the three vehicles, four vehicles, and nine vehicles[^183], each with its own boundary and no mixing; the cooked‑butter flavor only removes the distinct three vehicles, the rest like raw [*1‑1] butter; within ghee only the Buddha vehicle is purely spoken, with no remaining vehicles. If one knows this meaning, differing explanations do no harm; if one does not know, they [*1‑1] only increase contention. People say the Buddha‑vehicle’s vehicle‑body differs: Guangzhai[^128] takes the Buddha‑fruit’s ultimate, fully exhausted, non‑arising two wisdoms as the cart‑body, far beyond five hundred yojanas and thus higher than before, containing myriad virtues and thus broader than before. Zhuangyan takes the cause as the cart‑body—summing the myriad practices, above seeking is height, below transforming is breadth. The old view does not take merit; merit is shared with ordinary people—only wisdom is the body. Another old view takes merit and wisdom together as the body. The text says “ride these three carts,” using undefiled faculties and powers, the factors of awakening, dhyana, liberation, and samadhi to amuse themselves—how could it be only wisdom? Another [2] master takes only “having understanding” as the body; “empty understanding” has no movement and thus is not taken; the wisdom of exhausted non‑arising is precisely “having understanding.” Another small‑vehicle view takes empty‑wisdom as the [3] cart‑body; the text says “we have long practiced the emptiness‑dharma” (etc.). Mahayana also takes real‑wisdom and expedient‑wisdom as the cart‑body; cart‑body is a parable for existence, because existence has movement. I say: the masters interpret the body of the Buddha‑vehicle and compete in pointing to its equipment—no different from blind people touching an elephant and disputing its tail and tusks. According to Tiantai Zhiyi, the real aspect of all dharmas is precisely the cart‑body; all jeweled adornments are only adornments. It should be pointed out within the giving‑carts passage. Old explanation: the small cart [4] is the small fruit. The fruit has conditioned and unconditioned merit; it takes the conditioned as the cart’s movement, carrying into nirvana without remainder. In the conditioned fruit there are merit and wisdom: wisdom is primary, merit is accessory equipment. That wisdom has ten; eight knowledges span cause and fruit; the knowledge of exhausted non‑arising is only the fruit position—therefore it takes the two knowledges to parable the cart‑fruit, and by this meaning the cart is outside the gate. If according to the Large Prajna[^158] it says “this vehicle exits the three realms and resides in sarvajna”[^187]—if before exiting one already rides this vehicle and strives to exit the burning house, why again say the cart is outside the gate? If it is first outside, by what does one exit? But in fact the vehicle passes through cause and fruit; the thirty‑seven aids[^196] cut view‑ and thought‑delusions and are all the cause‑vehicle; the wisdom of exhausted non‑arising is all the fruit‑vehicle. One must use the cause‑vehicle to cut delusions and exhaust them, then obtain the fruit‑vehicle of exhausted non‑arising; therefore it is said the cart is outside the gate. But the fruit is primary and the cause is secondary—speaking from the fruit, the cart is outside the gate. If the inner cause cuts fetters, it has the function of a vehicle; the outer fruit does not move, so how can it be called a vehicle? Yet the fruit has no movement of cutting delusions; one must use the wisdom of exhausted non‑arising to enter nirvana without remainder—only then is it good movement. If one rides the cause to the fruit, why then request a cart again? Old say: “capacity‑requesting” and “emotional‑requesting.” Capacity‑requesting can be understood. Emotional‑requesting: the Buddha preached the teaching of exhausted non‑arising; arhats attain this fruit. They already used supernormal powers and the heavenly eye to examine the future, and still see vast transformed birth‑and‑death. They doubt their attained proof of exhausted non‑arising; if it is truly non‑arising, why do they see existence? Because it is vast and not ultimate, in their emotion they request from the Buddha the promise previously given—this is emotional requesting. But if one searches the sutra text, there are no such words; if one pushes the meaning, the meaning should not be so; the text has no explanation. As for the inference: below it says “from their attainment they produce thoughts of extinction.” If, by the heavenly eye, they see birth and death, why do they again produce thoughts of extinction? This is self‑[5]‑contradiction. Further, after the Buddha’s extinction, arhats who do not meet another Buddha cannot resolve it; since they themselves use the heavenly eye to see birth and death, why must they see a Buddha to resolve it? Moreover, the heavenly eye of the first dhyana does not yet see the second dhyana—how could it see transformed existence? This also conflicts with the Mahayana‑saṃgraha[^194]. Further, if an arhat obtains undefiled karma and with the heavenly eye sees the future transformed birth‑and‑death retributions, then at that time [6] people who cultivate five precepts and ten goods should themselves see their future retribution; but know that out‑of‑realm retribution is not what the heavenly eye sees. Thus we need not use this to judge emotional requesting. Now, by “emotional requesting” we mean: in former days, relying on the teaching, they said that exhausted non‑arising could enter nirvana without remainder; but in the Fangdeng teachings, seeing the bodhisattvas’ inconceivable [powers] and hearing Vimalakīrti’s rebuke, if what I have attained is real, the great beings should not refute me; if what I have attained is not real, the Buddha should not have spoken it as true. Therefore they say, “I am at a loss and do not know what to say.” When they reach the Large Prajna[^158], they understand the great Dharma; hearing this, their delight in the great mind arises and they wish to advance in Mahayana practice, yet they cannot know whether they will attain or not—these are all meanings of already requesting the Mahayana in their emotions. Therefore Śāriputra, in his understanding, raises former doubts: “Seeing the bodhisattvas receive [7] predictions to become Buddhas, I was not included; alas, I blame myself and wish to ask the World‑Honored One: am I lost or not lost?” This indicates that in the Fangdeng teachings there was already emotional requesting. Now add oral requesting: because he heard the opening verse of the Skillful Means chapter[^170] and briefly heard the Buddha say all are expedients, he again grasps the present expedients and doubts that the former was not ultimate. Therefore he says: “I now do not know where this meaning tends,” stirring old doubts and thus speaking three requests, requesting the reality spoken in former days. The capacity is in Mahayana, the emotion seeks the former real. Moreover, emotion seeks Mahayana and the mouth asks the former real—this is the shared‑teaching pattern for the six perfections.[^180]
 </div>
 </div>
+*[Critical apparatus: [1] 說【大】，因緣【甲】; [2] 機【大】，〔－〕【甲】; [3] 豈【大】，蚩【甲】; [4] 聞【大】，見【甲】; [1] 酥【大】＊，蘇【甲】＊; [＊1-1] 酥【大】＊，蘇【甲】＊; [＊1-1] 秖【大】＊，只【甲】＊; [2] 師【大】，〔－〕【甲】; [3] 車【大】，〔－〕【甲】; [4] 者【大】，者小果者【甲】; [5] 矛盾【大】，鉾楯【甲】; [6] 人【大】，有【甲】; [7] 授【大】，受【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 說【大】，因緣【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "說" in Taisho; "因緣" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 機【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "機" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 豈【大】，蚩【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "豈" in Taisho; "蚩" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 聞【大】，見【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "聞" in Taisho; "見" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 酥【大】＊，蘇【甲】＊
-</div>
-<div class="english-translation">
-[1] Variant: "酥" in Taisho; "蘇" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊1-1] 酥【大】＊，蘇【甲】＊
-</div>
-<div class="english-translation">
-[*1-1] Variant: "酥" in Taisho; "蘇" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊1-1] 秖【大】＊，只【甲】＊
-</div>
-<div class="english-translation">
-[*1-1] Variant: "秖" in Taisho; "只" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 師【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "師" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 車【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "車" in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 者【大】，者小果者【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "者" in Taisho; "者小果者" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 矛盾【大】，鉾楯【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "矛盾" in Taisho; "鉾楯" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 人【大】，有【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "人" in Taisho; "有" in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 授【大】，受【甲】
-</div>
-<div class="english-translation">
-[7] Variant: "授" in Taisho; "受" in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -3165,15 +2859,8 @@ Next, below “Why is this?” it explains the reason for having carts: because 
 From “What do you think?” downward, fourth, is the parable of not‑false, parabling that the Dharma‑King is not deceptive: (1) question, (2) answer, (3) concluding praise. The question is as in the text. Below “Śāriputra said” is the second, the answer, and it has two: first, “escape from danger is not false,” also called “using the heavy to take away the light—therefore not false”; second, “not contradicting the original intent is not false,” also called “surpassing the original hope—therefore not false.” Each has three: heading, explanation, and analogical conclusion. The heading for escape from danger is as in the text. Below “Why is that?” the second, the explanation: life is heavy, the body is light; the whole body escapes the fire. Having already obtained a great treasure to save the heavy life, how could it be false? The conclusion: escaping the fire of the eight sufferings[^107] and preserving the five‑part body[^198] is already a great treasure—how much more the Mahayana wisdom‑life and perfect cause of the twenty‑thousand Buddhas, accomplishing the opening of Buddha‑knowledge‑and‑vision[^105][^152]; how could that be false? Next, below “World‑Honored One, if so…” is the second, not contradicting the original intent. First it marks the section of not contradicting the original intent: originally knowing there are no three, the intent is to make them not slander; those who do not slander already do not contradict the original intent. The explanation says: originally knowing there is no small, the intent is to prevent destroying and falling into evil; since there is no cause of slander, they do not fall into evil results; not giving the small cart does not contradict the original intent. The conclusion says: knowing one’s wealth is immeasurable, wishing to benefit the sons, giving one great cart beyond what was originally hoped—therefore it is not false. The conclusion of the former section says: expedient [1] rescue, resembling the power of severance‑merit and supernormal powers[^148]; the conclusion of the latter section says: wealth without measure, resembling the power of wisdom‑merit and eloquent explanation. The former is not false because the sons are equal; the latter is not false because the wealth is equal. Below “The Buddha told Śāriputra,” third, is concluding praise; the two “Good!” are praising these two not‑falses.
 </div>
 </div>
+*[Critical apparatus: [1] 救【大】，拔【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 救【大】，拔【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “救” in Taisho; “拔” in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -3219,24 +2906,9 @@ The Buddha promised three and gave one; to say it himself would be difficult. Ś
 Below “Śāriputra, the Tathagata likewise…” is, second, the combined parable. Guangzhai[^128] opens ten parables but combines only seven and not three; within the seven he properly combines five, also combining the fifth and eighth, not combining the seventh and ninth. Thus the ten parables are numerous yet not integrated. Now we combine the general and specific parables. In the general there are six; the present text combines them all, though in a slightly non‑sequential way. First, it combines the first above: the elder’s name, conduct, rank, title, and virtue. It combines by saying “the Tathagata is likewise,” first combining rank and title. The Tathagata’s immeasurable virtue‑titles are briefly the ten meanings as explained above. “All the world” uses the locations to fix name and conduct: above it said country, city, and hamlets; the combination simply says “all the world,” broadly indicating the co‑inhabited and with‑remainder [lands], the very body, all of which are places of subtle form and subtle mind retribution. The Tathagata responds universally in the three places; thus “all the world” combines the country, city, and hamlets above. Below “amid all fears,” it combines the praise of inner and outer virtue above: the inner is age advanced and decayed, knowledge and penetration are many—this parables the Tathagata’s wisdom‑and‑severance[^150]; amid all fears, ignorance is forever exhausted—this combines the “advanced and decayed” to reveal severance‑virtue. “Accomplishing immeasurable knowledge and vision” combines the advanced age to reveal wisdom‑virtue; “powers and fearlessnesses,” etc., combine the outer virtue of immeasurable wealth above.[1] “Spiritual power” means deep cultivation of dhyana enabling supernormal powers; this combines the fields above. “Wisdom [2] power” means wisdom necessarily illumines objects, like the body’s place of support; this combines the houses above. “Fully possessing the paramita of expedients” combines the servants above. From “great compassion and great pity,” second, it combines the fourth above: compassion is the root of teaching and transforming; “all” is the five paths[^127], constantly covered by compassion; this combines the five hundred people above. From “and are born in the burning house of the three realms,” third, it combines the second above, the house. From “in order to save beings,” fourth, it combines the sixth above—beings have affinities. Those who are close are ferried first; this combines the thirty sons above. From “birth, aging, sickness, death,” etc., fifth, it combines the fifth above, the parable of blazing fire. From “teaching and transforming to attain bodhi,” sixth, it combines the third above: the teaching can explicate principle; seeking principle, one arouses practice and attains bodhi. Therefore we know teaching and principle are used together; this combines the parable of only one door above. If one lectures and explains so that the earlier and later are understood, each one must cite the parable basis from the Skillful Means chapter[^170] to check and sort; the later parts follow this pattern.
 </div>
 </div>
+*[Critical apparatus: [1] 外德【大】，〔－〕【甲】; [2] 力【大】，力者【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 外德【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “外德” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 力【大】，力者【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “力” in Taisho; “力者” in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -3246,87 +2918,16 @@ Below “Śāriputra, the Tathagata likewise…” is, second, the combined para
 From “Seeing the beings” downward, second, it combines the specific parable. The specific parable has four; now it combines the first, the parable of seeing the fire. The parable has three meanings, its text has four; the combination is also four. In the parable, alarm and fear are first and the sons’ clinging to play is later; in the combination, not‑knowing and not‑alarmed are first, pulling out of suffering and giving joy are later—these mutually appear and show the lack of fixed order. Now with the single word “see,” first, it combines the first above, the eye that can see: this is the Tathagata’s quiescent‑illumination wisdom‑eye that can see. Below “beings are [subject to] birth and aging,” second, it combines the second above: the seen fire arises from four sides. Here it clarifies the eight sufferings as fire: the four sufferings are as in the text; “craving and pursuing” is the suffering of not getting what one seeks; “later receiving hell, heaven, and human” is the suffering of the five aggregates; separation from loved and meeting with hated are as in the text. These eight sufferings arise from the four inversions on four sides.[^133] From “beings sink within it” downward, third, it combines the fourth above, the parable of the seen fire: the sons are unaware and unknowing, etc. Because they do not contemplate suffering and its origin, they “do not loathe”; because they do not contemplate path and cessation, they “do not seek liberation.” “Though they meet great suffering, they do not take it as a calamity” combines the above “mind does not loathe or worry,” the “no intent to seek exit” [3] as well. From “The Buddha saw this [4] and then had this thought,” fourth, it combines the third above, arousing alarm and fear: “I, though able to safely exit through the burning door.” “Should pull them out of their suffering and difficulty” is the power of great compassion; “give immeasurable joy” [5] is the power of great kindness. From “The Tathagata again had this thought” downward, it combines the second parable of discarding table and using carts. The parable above has exhortation and admonition; here it combines exhortation only, not admonition. In the Dharma‑explanation it also encourages good without explicitly admonishing evil; therefore encouraging cultivation is primary, admonishing evil is secondary. Encouraging good is itself admonishing evil, and admonishing evil is itself encouraging good; now combining the encouragement of good, we know it also combines admonishing evil. The exhortation text above has three: proposing appropriately, no capacity, and stopping the transformation; proposing appropriately has body, hands, robe‑hem, etc. “Only by spiritual power” combines the body‑power above; “and wisdom‑power” combines the hand‑power above; “praising the Tathagata’s knowledge‑and‑vision” combines the robe‑hem above; “powers and [6] fearlessnesses” combines the table and bench above. If the Buddha at first emergence used these to propose to beings, they could not be saved by this. Below “Why is that?” it explains the inability to be saved, combining the second above—the children not accepting exhortation. It is precisely because the five turbidities are heavy obstructions and one has not yet escaped the fire of birth‑and‑death; the Mahayana is subtle and cannot be entered. Therefore it says “How could they understand the Buddha’s wisdom?” This single line combines the above “only one door and it is narrow and small”: because it is narrow they cannot understand wisdom; not understanding wisdom is the meaning of “practice as door.” “Like that elder, though he had strength of body and hands, did not use it,” combines the third above: letting go of good inducement, stopping the transformation for those without capacity—“or they may fall and be burned by fire.” This text has no explicit “letting go” wording in the parable or its base; the intent of stopping transformation is very clear. The stopping‑transformation text is two: first it reprises the three parables before and after; next it directly combines stopping transformation. It reprises the first parable to directly align with stopping transformation; it reprises the latter two parables to indirectly complete stopping transformation. “Though he had strength of body and hands, he did not use it”—this reprises the earlier parable of body‑and‑hands failing to rescue the sons, to combine stopping transformation; the Tathagata likewise sets aside the great transformation. “But with diligent words…” reprises the parable of giving the three carts. As for “then he gave each,” it reprises the third parable of equally bestowing the great cart [*3‑1]. The sixteen characters under “The Tathagata likewise” directly combine the third—stopping transformation. From “But by wisdom and expedients” downward, it combines the parable of using carts to save; above there are four, and here also four. “By wisdom only” combines the first above, proposing the three carts appropriately. “Explaining the three vehicles” combines the second above, knowing the children’s prior minds. “And he said…” combines the third above, praising the rarity of the three carts; above there are exhortation, demonstration, and certification—here it also combines them, though not in sequence; first it combines the second above. “You must not delight in dwelling in the three realms” shows the exhaustion of non‑arising. “Three realms” indicates suffering‑truth; “do not covet the coarse and base” up through “give rise to love,” etc., indicates origin‑truth; “quickly exit the three realms” indicates cessation and path. Cessation and path indicate that outside the three realms there are the fruits of wisdom‑and‑severance and the three vehicles; therefore it makes them quickly exit the three realms to obtain the three vehicles—the three vehicles properly take path and cessation as their substance. “I now guarantee this for you; it will never be false” is second, combining the third above, the definite giving, thus certifying not‑false [*3‑2]. From “Again he said, you should know” downward, third, it combines the first above, praising rarity: these three vehicles are the Buddhas’ expedients and rituals for guiding beings; therefore the sages praise them. Attaining the wisdom of non‑arising is “freedom”; attaining the wisdom of exhaustion is “no [A1] bonds”; “my births are ended, I do not receive later existence” is “having no reliance”; “what had to be done is done, the holy conduct is established” is “having no seeking.” From “If there are beings with inner wisdom‑nature” downward, it combines the fourth above, matching the sons’ wishes. Above there are four positions of true and semblant; here also four are combined, but above is general and here is specific—each of the three vehicles has four, and all draw on the earlier parable to align. “Inner wisdom‑nature” means that through past practice the three vehicles have desires, forming the wisdom‑nature of the three vehicles; therefore the Buddha bestows the teaching of the three vehicles. “Inner wisdom” up to “hearing the Dharma from the Buddha and receiving it in faith” combines the above: hearing the father’s words about the playthings fits their wishes—this combines hearing wisdom. “Diligent” combines the above where each mind is brave and sharp—thinking wisdom. “Vigorous” combines the above second [1] pushing and shoving: pushing is pushing principle, shoving is shoving away evil; evil leaves, thus “vigorous”; principle is clear, thus “advance”—this combines cultivating wisdom. “Desiring quickly to exit” combines the above third, racing together and running. “This is called the śrāvaka vehicle” combines the above fourth, striving to exit the burning house. All three vehicles’ cultivation has these four. As for pratyekabuddhas seeking natural wisdom: pratyekabuddha are Dharma‑practitioners who hear less from others and infer more from themselves; thus the deer is used as the parable—the deer does not rely on people. “Natural” means entering through the gate of the twelve links; this gate is originally present, not made by Buddhas or devas, thus called natural wisdom; not hearing from others is also called natural wisdom. Bodhisattvas who are called “all‑knowledge” are not like the two vehicles; it is Buddha‑wisdom. Bodhisattvas cultivate causes aiming at it; this is the intent of Mahayana’s combined conveyance. From “Like that elder seeing the sons safely get out” downward, it combines the third parable of equally bestowing the great cart. Above there are four: escape from danger, requesting carts, equal bestowal, rejoicing. Here it omits combining the second and fourth, but combines the meaning of escape from danger and also requests, and combines equal bestowal and also rejoicing. Now it reprises the two parables—escape from danger and giving carts—and then combines them. “Like that elder…” reprises escape from danger. “He himself considered his wealth” reprises equal bestowal. “The Tathagata likewise” combines escape from danger. A door has three meanings: entry, exit, and distinction. If the three realms are the house and the five aggregates are the dwelling, by deluding form and mind one enters form and mind—this is entering the house, the gate of birth and death. If one speaks of exit, it is the vehicle exiting the three realms—this is taking the principle explicated under the Buddha’s shared teaching as the door. If one speaks of distinction, it is taking the principle explicated under the distinct teaching as the door. Now when it says the Buddha‑teaching door, it is precisely the Tripiṭaka and shared teachings; the principles under the teachings together serve as the door, enabling exit from the three realms and escape from danger. From “At that time the Tathagata had this thought” downward, it combines equal bestowal. Above, equal bestowal first lists two headings, two expansions, and three explanations of exiting; now the combination is abbreviated and the text slightly out of sequence. From “The Tathagata at that time had this thought: I have immeasurable wisdom‑power,” first, it combines the fourth above, explaining the reason for having carts; above it said wealth without measure and treasury overflowing. From “These beings are all my sons,” second, it combines the fifth above, broadly equal mind; above it said my wealth is endless and should not be given as inferior small carts. “Not allowing anyone to attain extinction alone, but all are extinguished by the Tathagata’s extinction”—does this not combine the equal‑mind meaning? From “These beings have left the three realms,” third, it combines the first above, the equal‑mind heading; above it said each is given to the sons. From “The Buddhas’ samadhi, liberation, etc.,” fourth, it combines the second above, the cart‑heading. From “All are one mark, one kind,” fifth, it combines the third above, the broad great cart—generally combining the high and broad and even the attendants above. “One mark” is the real aspect, namely the dharmakaya; “one kind” is the seed‑knowledge. Prajna can give rise to pure, wondrous joy; joy is without suffering, and is called liberation. The three virtues are high and broad, fully adorned and gathering all virtues, called Mahayana; this combines the great‑cart parable above. From “Like that elder with the three carts” downward, it combines the fourth parable of not‑false. Above, the answer had two: (1) preserving life, (2) not contradicting the original intent—each has three parts; now it only combines not contradicting the original intent and also gains preserving life. Why? The Buddha’s intent originally was to remove the five turbidities; once the five turbidities are exhausted, great good is itself preserved. Above, not contradicting the intent has three: heading, explanation, conclusion; now it combines only explanation and conclusion. First it reprises the three carts as inducement, then gives the great cart; next it combines the Tathagata’s first teaching of three vehicles as guidance, then only with Mahayana—this combines the explanation of not contradicting the original intent; above it said “first I had this thought: I will use expedients to make the sons exit.” Below “Why is that?” it combines the third above, the analogical conclusion of not‑false: the elder knows his wealth is immeasurable and wishes to benefit the sons, therefore he promised three and gave one—this is not false. This explanation slightly differs from the previous: previously the intent was to make the sons exit and was not in the three; once they exit, even not giving is not false. Now it clarifies: when the Tathagata appears in the world, he originally wishes to teach the great; but because small wisdom delights in clinging to the three realms, he uses expedients to guide; once they have exited, he returns and gives the Mahayana, thus matching the original intent. Therefore it is said he can give beings the Mahayana dharma, though they cannot fully receive it. If in the Avatamsaka[^169] they can receive it, then it is giving the great directly, without waiting to open the one as three; if they cannot receive, then by expedient power he differentiates three within the one Buddha‑vehicle. The three are due to beings, not the Buddha’s original intent; therefore he uses this to explain not contradicting the original intent and not‑false.[2]
 </div>
 </div>
+*[Critical apparatus: [3] 也【大】＊，〔－〕【甲】＊; [4] 已【大】，〔－〕【甲】; [5] 者【大】，〔－〕【甲】; [6] 所【大】，〔－〕【甲】; [＊3-1] 也【大】＊，〔－〕【甲】＊; [＊3-2] 也【大】＊，〔－〕【甲】＊; [A1] 繫【CB】，繁【大】; [1] 推【大】，惟【甲】; [2] 不分卷【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 也【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[3] Variant: “也” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 已【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “已” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 者【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “者” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 所【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “所” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊3-1] 也【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[*3-1] Variant: “也” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊3-2] 也【大】＊，〔－〕【甲】＊
-</div>
-<div class="english-translation">
-[*3-2] Variant: “也” in Taisho; omitted in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [A1] 繫【CB】，繁【大】
-</div>
-<div class="english-translation">
-[A1] Variant: “繫” in CBETA; “繁” in Taisho.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 推【大】，惟【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “推” in Taisho; “惟” in A-text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 不分卷【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “不分卷” in A-text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">

@@ -311,6 +311,46 @@ It is like three knives chopping wood: the sharp [cuts] in one stroke, the inter
 </div>
 </div>
 
+<div class="bilingual-row">
+<div class="chinese-source">
+問：<br><br>
+三根入初住位，猶有利鈍不？
+</div>
+<div class="english-translation">
+**Question:** When the three roots enter the first abode, is there still sharpness and dullness?
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+答：<br><br>
+真修體顯則無差降。
+</div>
+<div class="english-translation">
+**Answer:** When the substance of true cultivation is manifest, there are no gradations.
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+問：<br><br>
+若爾，初住已上更起緣修，有優劣不？
+</div>
+<div class="english-translation">
+**Question:** If so, above the first abode, when contingent cultivation arises again, is there superiority and inferiority?
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+答：<br><br>
+此同位人無復勝負，真修體融寧得有異耶？
+</div>
+<div class="english-translation">
+**Answer:** For those in the same level there is no longer victory or defeat; once the substance of true cultivation is fused, how could there be differences?
+</div>
+</div>
+
 ---
 
 ### Meanings 5: Roots have Awakening or Do Not Have Awakening (Lines 58-69; CBETA 004:58–69)
@@ -397,7 +437,7 @@ As for why bodhisattvas do not \"receive understanding\": the voice-hearer teach
 **7. Clarifying Obtaining Prediction (*dé jì*) or Not Obtaining:**<br>
 If all equally receive understanding, why do Voice-Hearers receive the Prediction (*vyākaraṇa*), but we do not see Pratyekabuddhas or Bodhisattvas receiving it?<br>
 This also has **three meanings**:<br>
-1.  **The Surprise Factor:** Formerly, it was explained that Two Vehicles entering the **Correct Position** (*zhèng wèi*) could not generate the [Bodhi] Mind. How could they receive a prediction? Now that they have awakened to the Great, they rejoice in this special decision (*bié jué*). Therefore, the Buddha predicts their **Kalpas and Lands** (*jié guó*).
+1.  **First:** Formerly, it was explained that Two Vehicles entering the **Correct Position** (*zhèng wèi*) could not generate the [Bodhi] Mind. How could they receive a prediction? Now that they have awakened to the Great, they rejoice in this special decision (*bié jué*). Therefore, the Buddha predicts their **Kalpas and Lands** (*jié guó*).
 </div>
 </div>
 
@@ -483,7 +523,7 @@ Furthermore, [the line] "I myself desire to obtain this Great Dharma of True Pur
 
 <div class="bilingual-row">
 <div class="chinese-source">
-十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說...
+十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說，
 </div>
 <div class="english-translation">
 **10. Clarifying Waiting for Time (*dài shí*) or Not Waiting for Time:**<br>
@@ -499,13 +539,13 @@ Why is this? The Buddha has **Two Expositions**: **Explicit** (*xiǎn*) and **Se
 </div>
 <div class="english-translation">
 If we discuss the **Explicit Exposition**: Before the *Lotus*, the Two Vehicles did not awaken to the Great Way. They required the **Five Flavors** to tune and mature them, converging (*huì*) only in the *Lotus*.<br>
-Therefore it says: "Because the Time for speaking had not yet arrived... Now is exactly the Time; I decisively speak the Great Vehicle." This is **Waiting for Time**.
+Therefore it says: "Because the Time for speaking had not yet arrived, now is exactly the Time; I decisively speak the Great Vehicle." This is **Waiting for Time**.
 </div>
 </div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時... 迹本二門，亦是待時、不待時，致有前後悟入，即此意也。
+若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。
 </div>
 <div class="english-translation">
 If we discuss the **Secret Teaching**: They need not necessarily wait for the Five Flavors to converge only in the *Lotus*. Previously, there were those who secretly entered [the Great Vehicle], thus named **Not Waiting for Time**.<br>
@@ -559,7 +599,7 @@ Therefore, there is **No Lost Time**. It is merely **Waiting for the Time of Tha
 </div>
 <div class="english-translation">
 **Question:** In the First Week, Śāriputra requested on behalf of the Three Roots of the Four Assemblies. In the Parable Week, he requested for the Intermediate and Inferior [Roots].<br>
-Why then do we say the Buddha speaks Dharma in Three Weeks, each for the people of the Three Roots? If the request was specific, why is the response general?
+Why then do we say the Buddha speaks Dharma in Three Weeks, each for the people of the Three Roots?
 </div>
 </div>
 
@@ -600,7 +640,7 @@ You should follow the **Meaning** (*suí yì*); why follow the mere words (*suí
 **Answer:** The Sutra has no [explicit] text, but by inferring the meaning, it should be so.<br>
 Guiding the Three to return to the One: The Three look toward the One; the One is the **Future**.<br>
 Raising affairs to make a Parable: The Parable is the **Present**.<br>
-Measuring the Back (Future) and looking at the Front (Past), it should be as you asked. [Thus: Past = Causes/Conditions, Present = Parable, Future = Dharma/One Vehicle Result].
+Measuring the Back (Future) and looking at the Front (Past), it should be as you asked.
 </div>
 </div>
 

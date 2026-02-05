@@ -6,18 +6,38 @@
 **Coverage:** CBETA T.1718_006 lines 207–343 (Lower Roll). Bracketed numbers in Chinese text match CBETA line anchors. *(Note: Anchor sigla like [A1] indicate CBETA variants).*
 ---
 
+<div class="bilingual-row">
+<div class="chinese-source">
+妙法蓮華經文句卷第六下
+</div>
+<div class="english-translation">
+The Words and Phrases of the Lotus Sutra, Fascicle Six (Lower).
+</div>
+</div>
+
+<div class="bilingual-row">
+<div class="chinese-source">
+天台智者大師說
+</div>
+<div class="english-translation">
+Spoken by the Great Master Zhiyi of Tiantai.
+</div>
+</div>
+
 ## VII. DETAILED PARABLE: PART 2 - SEEING AND PURSUING (Lines 207-250; CBETA 006:207–250)
 
 ### 1. Father and Son Seeing Each Other (Lines 207-220)
 
 <div class="bilingual-row">
 <div class="chinese-source">
-「爾時窮子傭賃」下，第二父子相見譬，近領火宅中見火，遠領方便中五濁意。為三：一、明窮子傭賃，領火宅所見之火，法說所見五濁；二、父見子，領火宅長者見，法說中佛眼見也；三、歡喜適願，領火宅中驚怖，法說中起大悲心。法譬並明父前見子，此中明子前見父。就佛則靈智先知，機後起應，故言父先見子；若約眾生，必先機而後應，故言子先見父。機應不可思議，不後不前，故前後互舉也。今取文便但為二段：一、子見父，二、父見子。此兩段中各復為四。初子見父四者：一、見父之由，由求衣食；二、見父之處，處在門側；三、見父[4]之相，踞師子床；四、生畏避，悔來至此。
+[3]「爾時窮子傭賃」下，第二父子相見譬，近領火宅中見火，遠領方便中五濁意。為三：一、明窮子傭賃，領火宅所見之火，法說所見五濁；二、父見子，領火宅長者見，法說中佛眼見也；三、歡喜適願，領火宅中驚怖，法說中起大悲心。法譬並明父前見子，此中明子前見父。就佛則靈智先知，機後起應，故言父先見子；若約眾生，必先機而後應，故言子先見父。機應不可思議，不後不前，故前後互舉也。今取文便但為二段：一、子見父，二、父見子。此兩段中各復為四。初子見父四者：一、見父之由，由求衣食；二、見父之處，處在門側；三、見父[4]之相，踞師子床；四、生畏避，悔來至此。
 </div>
 <div class="english-translation">
 Below “At that time the poor son hires himself out,” this is the second parable of father and son seeing each other: near it receives the burning‑house’s seeing‑the‑fire[^3], far it receives the intent of the five turbidities[^2] in expedient means[^1]. It is three: (1) it clarifies the poor son hiring himself out, receiving the burning‑house’s seen fire, and, in the Dharma exposition, the seen five turbidities; (2) the father sees the son, receiving the burning‑house elder’s seeing, and, in the Dharma exposition, the Buddha‑eye seeing[^4]; (3) joy suiting the wish, receiving in the burning‑house the alarm and fear, and, in the Dharma exposition, the arousing of great compassion[^5]. The Dharma and parable both clarify that the father sees the son first; here it clarifies that the son sees the father first. With respect to the Buddha, numinous wisdom knows first and capacity later gives rise to response, therefore it says the father first sees the son; if in terms of beings, the capacity must first and then response, therefore it says the son first sees the father. Capacity and response[^6] are inconceivable, neither after nor before, therefore the before and after are raised mutually. Now, taking the convenience of the text, it is only two sections: (1) the son sees the father, (2) the father sees the son. In these two sections each again has four. The four of the son seeing the father are: (1) the cause of seeing the father, due to seeking clothing and food; (2) the place of seeing the father, located at the side of the gate; (3) the appearance of seeing the father [4], squatting on a lion seat[^7]; (4) giving rise to fear and avoidance, regretting coming here.
 </div>
 </div>
+*[Critical apparatus: [3] 不分卷【甲】; [4] 之【大】，〔－〕【甲】]*
+
 
 ### 2. Analysis of the Son Seeing the Father (Lines 213-219)
 
@@ -37,71 +57,35 @@ Now we clarify: the superior response answering bodhisattvas[^24] is precisely t
 “Arranging treasures” means arranging the true merits of the various bhūmis; the inner and outer are as previously explained (etc.). “Majesty and virtue are supremely honored” means limitless light, limitless forms, the sea of marks towering and grand; this meaning must be explained as the Śe‑na Buddha[^57]—how could it be explained otherwise?
 </div>
 </div>
+*[Critical apparatus: [5] 緣【大】，緣大【甲】; [6] 尊特【大】，特尊【甲】; [7] 云【大】＊，言【甲】＊; [8] 者【大】，〔－〕【甲】; [9] 法【大】，法身【甲】]*
+
+
+
+
+
+
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [3] 不分卷【甲】
+「窮子見父有大力勢」下，是第四，見父畏避。「大力勢」者，智大故名大力，神通大故名大勢，如上身手有力義也。「恐怖」者，小機劣弱怯懼大道也。「悔來至此」者，佛本欲以大法擬之，應不稱機，但有退大之意，故言悔來至此也。「竊作是念」者，機中潛密冥有此事，非是顯對見勝應身也。「或是王王等」者，波旬是王，徒輩為等，小機灰斷無言說道絕於色像，既見勝應之像，非天人所及，所說法相逈異二乘，小智薄德未曾見聞，便謂是魔是魔所說。略開三顯一，身子狐疑將非魔作佛惱亂我心耶？若初用大逗小疑佛為魔，有過今日也。復次勝應譬長者，長者即表報身佛，故是王等，法身是報師，師即如王，諸經多名是經王，智契於法即是智與法等，故名報佛為等，此乃大乘法報，非是小乘得益之處，故或是王王等也。「非我傭力得物之處」者，小機不能受大化也。「不如往至貧里」乃至「衣食易得」者，《淨名》云「能以貧所得法，度斯下劣」也。但空之理不含萬德非如來藏，故言貧里；偏空稱於小智，故言「肆力有地」也。「衣食易得」者，能得有餘涅槃無漏衣食，行行衣惠行食也。「若久住此或見逼迫強使我作」者，行大乘道經無量劫，故言久住。我本厭怖生死，若修大乘必入生死。廣學萬行，故言逼迫。我本樂小，而今令我發大乘菩提心，是為強使。捨大取小故言「疾走」也。
 </div>
 <div class="english-translation">
-[3] Variant: “Not divided by fascicle” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 之【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "之" in Taisho; omitted in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 緣【大】，緣大【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "緣" in Taisho; "緣大" in A‑text.
+Below “the poor son saw the father with great power and authority,” this is the fourth: seeing the father and fearing avoidance. “Great power and authority” means: because wisdom is great it is called great power; because spiritual powers are great it is called great authority; it is like the above meaning of “body and hands having strength.” “Fear and terror” means the small capacity is weak and timid, afraid of the great path. “Regretting coming here” means: the Buddha originally wished to match him with the great Dharma; it would not fit the capacity, and there was only the intention of retreating from the Great; therefore it says “regretting coming here.” “Secretly he made this thought” means: within the capacity there is covertly and obscurely this matter; it is not a manifest face‑to‑face seeing of the superior response‑body. “Perhaps he is a king or the like” means: Pāpīyān is the king and his followers are the like. The small capacity ashes and cuts, with no speech and the Way cut off from form and appearance; once it sees the image of the superior response, which is beyond devas and humans, and the Dharma‑marks spoken are far different from the two vehicles—small wisdom and thin virtue have never seen or heard it—thus they say it is Māra and Māra’s teaching. Slightly opening the three and revealing the one, Śāriputra was suspicious: could it be Māra making the Buddha to trouble my mind? If at first the great is used to meet the small and one doubts the Buddha is Māra, that is a fault greater than today. Moreover, the superior response is a parable of the elder; the elder represents the reward‑body Buddha; therefore he is “king and the like.” The dharma‑body is the reward’s teacher; the teacher is like a king. Many sūtras call it the king of sūtras; wisdom matching the Dharma is wisdom and Dharma being equal, therefore the reward‑Buddha is called “the like.” This is the Mahāyāna Dharma‑reward, not the place where the Small Vehicle obtains benefit; therefore it says “perhaps a king or the like.” “This is not a place where my hired labor can obtain things” means the small capacity cannot receive the great conversion. “Better to go to the poor village” up to “clothing and food are easy to obtain”: the *Vimalakīrti* says, “With the Dharma obtained in poverty, one can ferry these lower [beings].” The principle of mere emptiness does not include the myriad virtues and is not the tathāgata‑store; therefore it is called the poor village. Partial emptiness corresponds to small wisdom; therefore it says “a place where one can exert oneself.” “Clothing and food are easy to obtain” means one can obtain the unconditioned clothing and food of with‑remainder nirvāṇa: conduct is clothing, beneficent conduct is food. “If one dwells here long, one might be pressed and forced to make me work” means: practicing the Mahāyāna path passes through immeasurable kalpas, therefore it says long dwelling. I originally detest and fear birth‑and‑death; if I cultivate the Mahāyāna I must enter birth‑and‑death. Broadly learning the myriad practices, therefore it is called being pressed. I originally delight in the small; now he makes me arouse the Mahāyāna bodhi‑mind—this is forcing. Abandoning the great and taking the small, therefore it says “fleeing quickly.”
 </div>
 </div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [6] 尊特【大】，特尊【甲】
+「時富長者」下，第二，父見子譬。亦有四：一、父見子處，二、見子便識，三、見子歡喜，四、見子適願。見子處者，即師子床也。如來法身，居第一義空無畏之境，明照機也。見子便識者，知是往日結緣眾生也。心大歡喜者，佛恒伺子機，今機來稱慈，是故歡喜，即是領法說而起大悲，火宅即大驚怖，彼明拔苦故言驚怖，此明與樂故言歡喜。「即作是念庫藏今有所付」者，是見子適願。昔見眾生退大取小，貧里求食資生艱難，常欲與財無機不得，今日機來稱大慈心，故言庫藏今有所付。「我常思念」者，明其非但貧無大財，又流轉生死眾苦所逼，為大悲所痛，故言常思念之。雖欲救拔無機叵濟，故云「無由見之」。今有可度機生，故云「而忽自來」。稱[1]大悲心，故云「甚適我願」。「我雖年朽猶故貪惜」者，釋於適願之由。由一期化訖故言年朽，未見大機法無委付，將來之徒從誰得脫？為可度者故言貪惜。今機自來無此憂念，故我願得適[2]也。
 </div>
 <div class="english-translation">
-[6] Variant: "尊特" in Taisho; "特尊" in A‑text.
+Below “At that time the wealthy elder,” second, is the parable of the father seeing the son. It also has four: (1) the father sees the son’s place, (2) seeing the son he immediately recognizes him, (3) seeing the son he rejoices, (4) seeing the son he fits the wish. The place of seeing the son is precisely the lion seat. The Tathāgata’s dharma‑body abides in the fearless realm of ultimate‑meaning emptiness, clearly illuminating capacities. Seeing the son and immediately recognizing him means knowing he is a being who formed affinities in past days. The great rejoicing of the mind: the Buddha always waits for the son’s capacity; now the capacity comes and accords with compassion, therefore he rejoices—this is receiving the Dharma exposition and arousing great compassion. In the burning‑house it is great alarm and fear; there it clarifies rescuing from suffering, therefore it says alarm and fear; here it clarifies giving joy, therefore it says rejoicing. “He then made this thought: now there is someone to entrust the storehouse and treasury” is seeing the son fitting the wish. Formerly, seeing beings retreat from the Great and take the small, in a poor village seeking food to sustain life with difficulty, he always wished to give wealth but had no capacity and could not; today the capacity comes and accords with the great compassionate mind, therefore it says now the storehouse and treasury have someone to entrust. “I always think of him” clarifies that it is not only poverty and lack of great wealth, but also cycling through birth‑and‑death and being pressed by many sufferings, painful to great compassion; therefore it says he always thinks of him. Although he wished to rescue, without capacity he could not save; therefore it says “there was no way to see him.” Now a capacity that can be crossed over arises, therefore it says “and suddenly he comes by himself.” Calling it the [1] great compassionate mind, therefore it says “very much fits my wish.” “Although I am old and worn, I still cherish” explains the reason for fitting the wish: because one period of transformation is completed, it says old and worn; without seeing a great capacity, the Dharma has no entrustment—who will the future followers obtain liberation from? Because there is a capacity that can be crossed over, therefore he cherishes. Now the capacity comes by itself and there is no such worry; therefore my wish is obtained and fitted [2].
 </div>
 </div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 云【大】＊，言【甲】＊
-</div>
-<div class="english-translation">
-[7] Variant: "云" in Taisho; "言" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 者【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[8] Variant: "者" in Taisho; omitted in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [9] 法【大】，法身【甲】
-</div>
-<div class="english-translation">
-[9] Variant: "法" in Taisho; "法身" in A‑text.
-</div>
-</div>
-
-
+*[Critical apparatus: [1] 大【大】，本【甲】; [2] 也【大】，〔－〕【甲】]*
 
 ### 3. Sending the Person to Chase him (Lines 221-229)
 
@@ -116,30 +100,15 @@ Below “Immediately dispatches a bystander to urgently chase and bring back,”
 “The poor son is alarmed” is precisely the encouragement gate’s lack of capacity. Once no capacity appears, even if he had aroused it in the past, it has long been abandoned and forgotten; suddenly hearing the great teaching, it conflicts with his mind, therefore he is alarmed; not recognizing it, therefore he is startled. “Crying out in resentment” means: the Small Vehicle[^73] takes afflictions[^74] as enemies and birth‑and‑death[^75] as suffering; if one encourages “afflictions are bodhi,” he cries out loudly, calling it a wrongful resentment; if he hears “birth‑and‑death is nirvāṇa”[^28], he cries out loudly, calling it painful suffering. No capacity does not accept—this is the encouragement gate. “I do not offend” means: I do not intrude or seek; why use the great conversion on me? This receives the two intentions of the encouragement gate, not yet the ceasing conversion. Next, after calling again he does not come; “seizing him more urgently” receives the fitting of the admonition gate. Earlier it clarified that encouraging good is still tolerable[3]; I should speak fearful matters—this is the urgency. [4] Although “forcibly dragging back” means admonishing with painful words to make him keep far from evil. Internally he already lacks capacity; externally he is forced by great conversion—this is forcibly dragging back. “He himself thinks ‘I am without罪’” receives not accepting the admonition gate: 죄 is compassion; because beings have罪 they enter the prison of birth‑and‑death, and bodhisattvas likewise enter that prison. Two‑vehicle people lack great compassion[^5], and are called without罪. To make them enter birth‑and‑death is to be imprisoned; without great expedient means and yet entering birth‑and‑death, they will certainly forever lose the wisdom‑life[^77] of the three vehicles[^76], therefore it says “must die.” Thinking these things, therefore it says “even more terrified.” Forcing them with the great teaching, small wisdom cannot understand, therefore it says “fainting.” At once slander arises and they must fall into the three evil paths[^78], therefore it says “falling to the ground”; this is also being deluded and sinking into the ground of ignorance[^79].
 </div>
 </div>
+*[Critical apparatus: [3] 與【大】，豫【甲】; [4] 雖【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 與【大】，豫【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "與" in Taisho; "豫" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 雖【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "雖" in Taisho; omitted in A‑text.
-</div>
-</div>
 
 ### 4. The Father's Strategy (Lines 229-236)
 
 <div class="bilingual-row">
 <div class="chinese-source">
-從「父遙見」下，即是第三，放捨勸誡息大乘化。就此為四：一、思惟息化，二、釋息化，三、正息化，四、息化得宜。初有兩意：一、知大志弱，二、知小志強。「父遙見」者，小去大遠故名為遙，是結緣子故言為見。「而語使言」者，約教為使[1]者，智本說教，智知無機，智息故教息；約人為使者，語諸菩薩不須現汝尊妙之身令二乘見，《淨名》中「攝汝身香，無令彼諸眾生而起惑著」，普賢入此娑婆，促身令小，皆是其義也。「勿強將來」者，既無大機，恐傷其善根，故言勿強也。私謂「不須此人」者，思惟息勸門擬宜；「勿強將來」者，思惟息誡門擬宜也。「冷水灑面」者，第二，知有小志，宜以灰斷理水[2]除見思之熱。「面」者，厭生死名背，向涅槃如面也。「醒悟」者，開小逗機得離煩悶悟四真諦也。「莫復與語」者，決定應息大乘教也。「所以者何」下，第二，釋息化之意，正厭苦欣空，親狎下劣無慈悲心，即畏難大法，且任其小志，抑佛[3]本懷，所以息化也。審知二萬億佛所曾發道心非都無大機也，且息大化，佛意未已，更俟後期。「不語他人」者，於昔小乘教中，隨他意語方便覆護稱是聲聞，不說隨自意語云是菩薩也。「使者[4]語之」下，第三，正明息化。「我今放汝」，即是知大機弱，隨意所趣，即是知小善強，以此二緣故息大化也。「窮子歡喜」下，第四，即是息化稱機。不為大教所逼，是故「歡喜」；無謗大罪得免三[5]途，故言「從地」；有小善生，故言「而起」。又前擬[6]宜大法，迷悶不解臥無明地，今逗以小可得醒悟，故言「從地而起」。於四諦中欲求道法，故言「往至貧里以求衣食」；或於四見之中求道，故言「貧里」。
+從「父遙見之」，即是第三，放捨勸誡息大乘化。就此為四：一、思惟息化，二、釋息化，三、正息化，四、息化得宜。初有兩意：一、知大志弱，二、知小志強。「父遙見」者，小去大遠故名為遙，是結緣子故言為見。「而語使言」者，約教為使[1]者，智本說教，智知無機，智息故教息；約人為使者，語諸菩薩不須現汝尊妙之身令二乘見，《淨名》中「攝汝身香，無令彼諸眾生而起惑著」，普賢入此娑婆，促身令小，皆是其義也。「勿強將來」者，既無大機，恐傷其善根，故言勿強也。私謂「不須此人」者，思惟息勸門擬宜；「勿強將來」者，思惟息誡門擬宜也。「冷水灑面」者，第二，知有小志，宜以灰斷理水[2]除見思之熱。「面」者，厭生死名背，向涅槃如面也。「醒悟」者，開小逗機得離煩悶悟四真諦也。「莫復與語」者，決定應息大乘教也。「所以者何」下，第二，釋息化之意，正厭苦欣空，親狎下劣無慈悲心，即畏難大法，且任其小志，抑佛[3]本懷，所以息化也。審知二萬億佛所曾發道心非都無大機也，且息大化，佛意未已，更俟後期。「不語他人」者，於昔小乘教中，隨他意語方便覆護稱是聲聞，不說隨自意語云是菩薩也。「使者[4]語之」下，第三，正明息化。「我今放汝」，即是知大機弱，隨意所趣，即是知小善強，以此二緣故息大化也。「窮子歡喜」下，第四，即是息化稱機。不為大教所逼，是故「歡喜」；無謗大罪得免三[5]途，故言「從地」；有小善生，故言「而起」。又前擬[6]宜大法，迷悶不解臥無明地，今逗以小可得醒悟，故言「從地而起」。於四諦中欲求道法，故言「往至貧里以求衣食」；或於四見之中求道，故言「貧里」。
 </div>
 <div class="english-translation">
 Below “the father sees from afar,” this is third: letting go of encouragement and admonition and ceasing the Mahāyāna conversion. In this there are four: (1) contemplating the ceasing of conversion, (2) explaining the ceasing of conversion, (3) directly ceasing conversion, (4) ceasing conversion as fitting. First there are two intents: one, knowing the great aspiration is weak; two, knowing the small aspiration is strong. “The father sees from afar” means the small has gone far from the great, therefore it is called “afar”; because he is a son with a connection‑binding, therefore it says he sees him.  
@@ -152,60 +121,13 @@ Below “the messenger tells him” is third, directly clarifying the ceasing of
 Below “the poor son rejoices” is fourth: ceasing conversion fitting the capacity. Not being forced by the great teaching, therefore “rejoices”; having no great罪 of slander and being spared the three paths[^78], therefore it says “from the ground”; the small good arises, therefore it says “he rises.” Moreover, earlier the great Dharma was fitting, but he was confused and did not understand, lying on the ground of ignorance; now he is met with the small and can awaken, therefore it says “he rises from the ground.” In the Four Truths he seeks the path‑Dharma, therefore it says “he goes to the poor hamlet seeking clothing and food”; or he seeks the path within the four views, therefore it says “poor hamlet.”
 </div>
 </div>
+*[Critical apparatus: [1] 者【大】，〔－〕【甲】; [2] 除【大】，除其【甲】; [3] 本【大】，大【甲】; [4] 語【大】，放【甲】; [5] 途【大】，塗【甲】; [6] 宜【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 者【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "者" in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 除【大】，除其【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "除" in Taisho; "除其" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 本【大】，大【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "本" in Taisho; "大" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 語【大】，放【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "語" in Taisho; "放" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 途【大】，塗【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "途" in Taisho; "塗" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 宜【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "宜" in Taisho; omitted in A‑text.
-</div>
-</div>
 
 ### 5. Secretly Sending Two Men (Lines 240-250)
 
@@ -259,31 +181,14 @@ Below “immediately removes the necklaces,” third, it receives knowing in adv
 Below “holding the filth‑remover,” he only treats the defiled dharmas of views and thoughts[^82], not the pure wisdom of the various bhūmis. The left hand is a parable of the real, the right hand a parable of the provisional; the provisional is easy to use—by this Dharma he cuts bonds and becomes Buddha, and by this he transforms people. “Appearance as if fearful” [4] means: showing himself as equally fearing birth‑and‑death, and also having the karmic retribution of cold winds and horse‑feed.
 </div>
 </div>
+*[Critical apparatus: [7] 言【大】，云【甲】; [8] 怪【大】，怖怪【甲】; [9] 隨【大】，墮【甲】; [1] 事【大】，事也【甲】; [2] 領【大】，〔－〕【甲】; [3] 牖窓【大】，窓牖【甲】; [4] 示【大】，亦【甲】]*
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [7] 言【大】，云【甲】
+「語諸作人」下，第四，親教子作譬也，即是道品中七科法門，以顯除糞之相，領上諸子心各勇銳互相推排競共馳走爭出火宅也。一者語作人譬，譬四念處是外凡位；二、令勤作勿得懈息譬，譬四正勤；三、「咄男子」，勿復餘去譬，譬四如意足；四、「好自安意」下，名安慰譬，譬五根；五、「所以者何」下，名無五過譬，譬五力。此前四句是第二內凡位。六、即時長者字以為子譬，譬八正。七、「雖欣此遇」下，名教常令除糞譬，譬七覺。此二句是第三聖位也。
 </div>
 <div class="english-translation">
-[7] Variant: "言" in Taisho; "云" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 怪【大】，怖怪【甲】
-</div>
-<div class="english-translation">
-[8] Variant: "怪" in Taisho; "怖怪" in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [9] 隨【大】，墮【甲】
-</div>
-<div class="english-translation">
-[9] Variant: "隨" in Taisho; "墮" in A‑text.
+Below “telling the workers,” this is the fourth: the parable of personally teaching the son to work. It is precisely the seven sets of path factors, in order to clarify the aspect of removing filth; it receives above where the sons’ minds are each brave and sharp, mutually pushing and racing, competing to flee the burning house. First, the parable of telling the workers corresponds to the four foundations of mindfulness as the stage of external ordinary persons. Second, the parable of ordering diligent work without slackness corresponds to the four right efforts. Third, “Ho, man!” and “do not go elsewhere” corresponds to the four bases of miraculous power. Fourth, below “calm your mind well,” the comfort parable corresponds to the five roots. Fifth, below “why is this,” the parable of no five faults corresponds to the five powers. These preceding four clauses are the second stage of inner ordinary persons. Sixth, the parable of the elder immediately giving him a name and calling him a son corresponds to the eightfold right path. Seventh, below “although he rejoiced at this encounter,” the parable of constantly teaching him to remove filth corresponds to the seven factors of awakening. These two clauses are the third stage of the noble.
 </div>
 </div>
 
@@ -315,33 +220,10 @@ Below “although the poor son rejoiced at this encounter,” seventh, is the pa
 “Twenty years” means: in seeing the truths[^129], one liberation and one non‑hindrance; in contemplation, nine non‑hindrances and nine liberations—therefore it says twenty years. Another says: cutting bonds within the two paths of seeing and thought is called twenty years. Another says: five lower and five higher fetters[^130] are twenty years. Another says: still within the two‑vehicle Dharma, cutting thought‑delusions, therefore called twenty years. Another says: relying on the two messengers, together cutting the remaining bonds, therefore called twenty years. Because he came with the two‑vehicle capacity and resonated with the Buddha, therefore it says “since he saw his son it has been twenty years.” If one dwells in the two‑vehicle position and turns to Mahāyāna teaching, this is called “within twenty years he handled household affairs.” The “twenty” statements each have their reasons; pointing to this one sentence, it is precisely the stage of striving to exit the three‑realm burning house.
 </div>
 </div>
+*[Critical apparatus: [5] 故【大】，〔－〕【甲】; [6] 支【大】，枝【甲】; [7] 麪【大】＊，麵【甲】＊]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 故【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "故" in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 支【大】，枝【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "支" in Taisho; "枝" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 麪【大】＊，麵【甲】＊
-</div>
-<div class="english-translation">
-[7] Variant: "麪" in Taisho; "麵" in A‑text.
-</div>
-</div>
 
 ### 2. Entrusting the Family Business (Lines 257-266)
 
@@ -362,60 +244,13 @@ Next, “when nearing the end he commands his son”: this is a parable of, afte
 The four great disciples deeply grasped the Buddha’s intent, probing and receiving the one conversion as the teaching of the five flavors; beginning and end in sequence, the text emerges here.
 </div>
 </div>
+*[Critical apparatus: [1] 車【大】，大車【甲】; [2] 位【大】，味【甲】; [3] 革【大】，隔【甲】; [4] 之【大】，〔－〕【甲】; [5] 說【大】，〔－〕【甲】; [6] 以【大】，已【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 車【大】，大車【甲】
-</div>
-<div class="english-translation">
-[1] Variant: "車" in Taisho; "大車" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 位【大】，味【甲】
-</div>
-<div class="english-translation">
-[2] Variant: "位" in Taisho; "味" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 革【大】，隔【甲】
-</div>
-<div class="english-translation">
-[3] Variant: "革" in Taisho; "隔" in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 之【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: "之" in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 說【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: "說" in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 以【大】，已【甲】
-</div>
-<div class="english-translation">
-[6] Variant: "以" in Taisho; "已" in A‑text.
-</div>
-</div>
 
 ### 3. Managing the Warehouse (Lines 266-280)
 
@@ -431,33 +266,10 @@ As for “now I and you are not different,” this is explained in three ways: (
 Below “then he received the instruction and command,” second, is receiving the command. Again there are four: (1) properly receiving the command and knowing it; (2) no hope of taking—although Subhūti speaks prajñā, he regards it as not his share; (3) not yet abandoning the inferior mind and still abiding in the original place: abiding in the arhat position, though he admires the great, he has not yet decisively said he wants to be a bodhisattva; not yet abandoning the inferior mind, though ashamed of the small, he has not yet decisively said he will abandon small realization; (4) below “after a short time, the father knew the son’s intent,” this receives the above parable of requesting the cart—despising the former mind, the desire to seek the Great Way arises, the great capacity is activated.
 </div>
 </div>
+*[Critical apparatus: [7] 文【大】，文又【甲】; [1] 云【大】，言【甲】; [2] 命【大】，命令【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 文【大】，文又【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “文” in Taisho; “文又” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 云【大】，言【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “云” in Taisho; “言” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 命【大】，命令【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “命” in Taisho; “命令” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -480,24 +292,9 @@ One says: when the *Prajñā*[^137] teaching is finished, traveling and contempl
 Also, when the *Infinite Meanings* is about to be spoken, Mahāyāna capacity arises. How is this known? In the *Infinite Meanings* it clarifies seven kinds of expedients; the immeasurable gradual and sudden arise from one dharma. Having heard this, they reflect that the former Tripiṭaka[^109] three vehicles[^76] all arise from one dharma; thus the three vehicles should also enter the one. When reflecting in this way, the mind gradually becomes open and at ease[^134] and the great aspiration arises; therefore it is said “accomplishing the great aspiration.”
 </div>
 </div>
+*[Critical apparatus: [3] 去【大】，去般若【甲】; [4] 是【大】，此【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 去【大】，去般若【甲】
-</div>
-<div class="english-translation">
-[3] Variant: “去” in Taisho; “去般若” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 是【大】，此【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “是” in Taisho; “此” in A‑text.
-</div>
-</div>
 
 ### 4. Bestowing the Estate (Lines 283-294)
 
@@ -518,33 +315,10 @@ Below “Gentlemen, you should know,” third, is uniting father and son: truly 
 As for “in a certain city,” the Indian version has much detail, but little was transmitted here; perhaps it is a former named land like the causes and conditions of Great‑Universal‑Wisdom‑Excellence. Now the name is abbreviated and simply said as “so‑and‑so.” These beings turned their backs on the Mahāyāna, aroused the darkness of ignorance, and fled into birth and death; therefore it says “left me and ran away.”[7] Having passed through the six destinies, therefore it says “more than fifty years.” “Formerly in the original city, grieving and searching”: from long ago, in the Dharma‑body ground, he constantly used the two wisdoms to observe and seek the capacities that could be transformed. Beginning today the path of stimulus and response meets, therefore it says “suddenly in this place he met and saw him.”
 </div>
 </div>
+*[Critical apparatus: [5] 謂【大】，〔－〕【甲】; [6] 甞【大】，常【甲】; [7] 言【大】，云【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 謂【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “謂” in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 甞【大】，常【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “甞” in Taisho; “常” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 言【大】，云【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “言” in Taisho; “云” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -556,15 +330,8 @@ Below “[1] the poor son heard his father’s words,” second, this is the joy
 Below “World‑Honored One, great wealthy elder,” second, is the combined parable. Guangzhai combines it either before or after and explains it very briefly. Now we only follow the text to indicate the meaning and do not branch into sub‑schools. When combining the parable, the value is in grasping the meaning without verbose wording. “Great wealthy elder” combines the parable of father and son being separated. The parable text has four, but it only combines father and son to obtain the other meaning: the Tathāgata combines as the father; “semblance” combines as the son. “Semblance” has two meanings: (1) taking great capacity as the son—formerly he had not escaped, thus not yet a true stage, still outside ordinary, therefore called “semblance”; (2) taking small capacity as the son—small capacity is only a likeness of Mahāyāna roots. Since the son already fled the father, he is depreciated as “semblance.” (etc.).
 </div>
 </div>
+*[Critical apparatus: [1] 窮【大】，實【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 窮【大】，實【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “窮” in Taisho; “實” in A‑text.
-</div>
-</div>
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -603,42 +370,11 @@ From “Now we for the first time know” downward, it combines the entrusting o
 From “We say originally we had no mind” downward, it combines rejoicing, which also means “not seeking” in the three [vehicles].
 </div>
 </div>
+*[Critical apparatus: [2] 棄【大】，縱【甲】; [3] 力說【大】，〔－〕【甲】; [4] 付【大】，付與【甲】; [5] 下【大】，〔－〕【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 棄【大】，縱【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “棄” in Taisho; “縱” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 力說【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[3] Variant: “力說” in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 付【大】，付與【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “付” in Taisho; “付與” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 下【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “下” in Taisho; omitted in A‑text.
-</div>
-</div>
 
 ---
 
@@ -675,51 +411,12 @@ Below “like a rich elder,” ten lines, praise correctly entrusting the busine
 “Holding [2] the precepts’ reward” means: formerly holding precepts and brahma‑conduct together revealed the unconditioned; the ash‑body and extinguished‑wisdom had no one to receive this reward. Today brahma‑conduct can obtain the unconditioned: this is the meaning of taking the fruit by the realizing cause; holding precepts is the meaning of the conditioning cause; the principle seen by the pure eye is the meaning of the proper cause. “We truly are śrāvakas” means it is the true Mahāyāna position. The ten faiths, with one sound pervading the three‑thousand worlds, are a semblance path, not true; entering the ten abodes is true. The true arhat has three meanings; here only the “worthy of offerings” meaning is raised. If one does not arise in transformation‑birth and kills the shared and distinct delusions, that is the meaning of non‑arising and slaying thieves; it can be the field of merit for the ten dharma‑realms—this is the meaning of worthy of offerings. Worthy of offerings and slaying thieves mutually illuminate [3] each other. The following thirteen lines praise the Buddha’s deep kindness, difficult to repay, as in the text.
 </div>
 </div>
+*[Critical apparatus: [6] 弟【大】，第【甲】; [7] 子【大】，〔－〕【甲】; [8] 相【大】，根相【甲】; [1] 長者【大】，〔－〕【甲】; [2] 踞【大】，〔－〕【甲】; [3] 即【大】，〔－〕【甲】; [4] 合【大】，〔－〕【甲】; [＊7-1] 麪【大】＊，麵【甲】＊; [5] 暖【大】，煖【甲】; [6] 軟【大】，濡【甲】; [7] 即【大】，即此【甲】; [8] 領【大】，頌【甲】; [9] 有【大】，〔－〕【甲】; [10] 正【大】，上【甲】; [1] 歡【大】，付【甲】; [2] 戒【大】，戒得【甲】; [3] 也【大】，也世尊大【甲】]*
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 弟【大】，第【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “弟” in Taisho; “第” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 子【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “子” in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 相【大】，根相【甲】
-</div>
-<div class="english-translation">
-[8] Variant: “相” in Taisho; “根相” in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 長者【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “長者” in Taisho; omitted in A‑text.
-</div>
-</div>
 
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 踞【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “踞” in Taisho; omitted in A‑text.
-</div>
-</div>
 
 ### 2. Eulogy of the Buddha's Kindness (Lines 337)
 
@@ -731,132 +428,31 @@ Below “like a rich elder,” ten lines, praise correctly entrusting the busine
 Privately I say that “the World‑Honored One’s great kindness” is: (1) The Buddha first established compassion, pulled beings out of the suffering of the six destinies and gave them the joy of the four sages, universally bringing the ten dharma‑realms into the four vast vows; this is the kindness of the Tathāgata’s room. (2) The Tathāgata practiced the bodhisattva path, teaching, benefiting, and rejoicing; he once taught me Mahāyāna; although I later forgot, wisdom and vows were not lost; this is the Tathāgata’s room’s cool warmth, the great‑compassion giving‑joy kindness. (3) When beings encounter suffering, they only look to a father; the Buddha watches what is appropriate, like a calf following its mother, fully practicing the six perfections to benefit beings; this is the Tathāgata’s room shielding cold and blocking heat, the great‑compassion pulling‑out‑suffering kindness. (4) After the Buddha attained the path, he should receive the joy of unconditioned quiescent extinction, yet he concealed his spiritual virtue, using the poor man’s liked Dharma of five precepts and ten good deeds; with cold water he sprinkled the face to awaken him—this is the Buddha’s clothing shielding the heat of greed and desire. (5) He manifested as an old bhikṣu, expediently drawing near and giving a day’s wage—this is the Buddha’s clothing removing the cold of views and the heat of craving. (6) After this, with mutual trust of mind‑appearance he admonished and depreciated, making him ashamed of the small and yearning for the great; [4] this is the Buddha’s clothing shielding ugliness. (7) He ordered the son to manage the household business; the gold and silver treasury [5] he let him all know; this is the Buddha’s clothing giving me adornment kindness. (8) He gathered relatives, fixed the father‑son relation, and entrusted the household business; the unsurpassed treasure‑mass is obtained without seeking; this is the Tathāgata’s seat kindness. (9) and (10): once seated on the seat, body and mind are tranquil and quickly obtain peace and security; with the Buddha‑way’s sound he causes all to hear; all devas and humans universally therein should receive offerings—this is the Tathāgata’s seat enabling me to be complete, the kindness of self‑practice and transforming others. The World‑Honored One’s great kindness cannot be repaid even with two shoulders bearing; this is what is meant.
 </div>
 </div>
+*[Critical apparatus: [4] 蓋【大】，蓋是【甲】; [5] 皆悉【大】，悉皆【甲】]*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
-    [3] 即【大】，〔－〕【甲】
+[6]妙法蓮華經文句卷第六[7]下
 </div>
 <div class="english-translation">
-[3] Variant: “即” in Taisho; omitted in A‑text.
+The Words and Phrases of the Lotus Sutra, Fascicle Six (Lower).
 </div>
 </div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 合【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “合” in Taisho; omitted in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [＊7-1] 麪【大】＊，麵【甲】＊
-</div>
-<div class="english-translation">
-[＊7-1] Variant: “麪” in Taisho; “麵” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 暖【大】，煖【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “暖” in Taisho; “煖” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [6] 軟【大】，濡【甲】
-</div>
-<div class="english-translation">
-[6] Variant: “軟” in Taisho; “濡” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [7] 即【大】，即此【甲】
-</div>
-<div class="english-translation">
-[7] Variant: “即” in Taisho; “即此” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [8] 領【大】，頌【甲】
-</div>
-<div class="english-translation">
-[8] Variant: “領” in Taisho; “頌” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [9] 有【大】，〔－〕【甲】
-</div>
-<div class="english-translation">
-[9] Variant: “有” in Taisho; omitted in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [10] 正【大】，上【甲】
-</div>
-<div class="english-translation">
-[10] Variant: “正” in Taisho; “上” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [1] 歡【大】，付【甲】
-</div>
-<div class="english-translation">
-[1] Variant: “歡” in Taisho; “付” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [2] 戒【大】，戒得【甲】
-</div>
-<div class="english-translation">
-[2] Variant: “戒” in Taisho; “戒得” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [3] 也【大】，也世尊大【甲】
-</div>
-<div class="english-translation">
-[3] Variant: “也” in Taisho; “也世尊大” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [4] 蓋【大】，蓋是【甲】
-</div>
-<div class="english-translation">
-[4] Variant: “蓋” in Taisho; “蓋是” in A‑text.
-</div>
-</div>
-
-<div class="bilingual-row">
-<div class="chinese-source">
-    [5] 皆悉【大】，悉皆【甲】
-</div>
-<div class="english-translation">
-[5] Variant: “皆悉” in Taisho; “悉皆” in A‑text.
-</div>
-</div>
+*[Critical apparatus: [6] 妙法蓮華經【大】，法華【甲】; [7] 下【大】，〔－〕【甲】，法隆寺本奧書云康治元年壬戌八月二十七日寫書了南都法隆寺桑門覺印為令法久住往生極樂為也（朱書）同二年六月三十日移點已了覺印]*
 
 #### FOOTNOTES
 

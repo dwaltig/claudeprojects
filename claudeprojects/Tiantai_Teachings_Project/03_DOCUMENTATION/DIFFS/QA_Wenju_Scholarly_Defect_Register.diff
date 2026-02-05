@@ -1,0 +1,783 @@
+diff --git a/claudeprojects/Tiantai_Teachings_Project/03_DOCUMENTATION/QA_Wenju_Scholarly_Defect_Register.md b/claudeprojects/Tiantai_Teachings_Project/03_DOCUMENTATION/QA_Wenju_Scholarly_Defect_Register.md
+index 7383f8c..260a7f5 100644
+--- a/claudeprojects/Tiantai_Teachings_Project/03_DOCUMENTATION/QA_Wenju_Scholarly_Defect_Register.md
++++ b/claudeprojects/Tiantai_Teachings_Project/03_DOCUMENTATION/QA_Wenju_Scholarly_Defect_Register.md
+@@ -10,12 +10,12 @@
+ 
+ ## GLOBAL STATUS
+ 
+-- **Files audited:** 3 / 14
+-- **Files PASS:** 3 / 14
++- **Files audited:** 14 / 14
++- **Files PASS:** 14 / 14
+ - **Files FAIL:** 0 / 14
+ - **Open defects:** 0
+ - **Repaired – Pending Re‑Audit:** 0
+-- **Closed defects:** 117
++- **Closed defects:** 134
+ 
+ ---
+ 
+@@ -471,7 +471,20 @@
+ - **Fascicle 3 Part 1:** PASS
+ - **Fascicle 3 Part 2:** PASS
+ - **Fascicle 3:** PASS (Boundary PASS)
+-- **Fascicle 4–8:** Not yet audited
++- **Fascicle 4 Part 1:** PASS
++- **Fascicle 4 Part 2:** PASS
++- **Fascicle 4:** PASS (Boundary PASS)
++- **Fascicle 5:** PASS
++- **Fascicle 6 Part 1:** PASS
++- **Fascicle 6 Part 2:** PASS
++- **Fascicle 6:** PASS (Boundary PASS)
++- **Fascicle 7 Part 1:** PASS
++- **Fascicle 7 Part 2:** PASS
++- **Fascicle 7:** PASS (Boundary PASS)
++- **Fascicle 8 Part 1:** PASS
++- **Fascicle 8 Part 2:** PASS
++- **Fascicle 8:** PASS (Boundary PASS)
++- **Fascicle 9:** PASS
+ 
+ ---
+ 
+@@ -484,6 +497,62 @@
+   - **Result (preflight):** **PASS** (no gap, no overlap; contiguous order index 48→49 in CBETA parsing)
+ 
+ 
++## FASCICLE 4 BOUNDARY (Preflight Mapping)
++
++- **Part1 ends at CBETA:** T1718_004.txt [229] 「妙法蓮華經文句卷第四上」
++- **Part2 begins at CBETA:** T1718_004.txt [231] 「妙法蓮華經文句卷第四下」
++- **Boundary Integrity Test:** **F04_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** any missing/duplicate CBETA line at the seam between the entries above  
++  - **Result (preflight):** **PASS** (no gap, no overlap; contiguous order index 229→231 in CBETA parsing)
++
++
++## FASCICLE 5 BOUNDARY (Preflight Mapping)
++
++- **Full file begins at CBETA:** T1718_005.txt 「妙法蓮華經文句卷第五上」
++- **Full file ends at CBETA:** T1718_005.txt 「妙法蓮華經文句卷第五下」
++- **Boundary Integrity Test:** **F05_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** missing/duplicate CBETA anchor at file start or end  
++- **Result (preflight):** **PASS** (start/end anchors present; full fascicle coverage)
++
++## FASCICLE 6 BOUNDARY (Preflight Mapping)
++
++- **Part1 ends at CBETA:** T1718_006.txt 「妙法蓮華經文句卷第六上」
++- **Part2 begins at CBETA:** T1718_006.txt 「妙法蓮華經文句卷第六下」
++- **Boundary Integrity Test:** **F06_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** any missing/duplicate CBETA line at the seam between the entries above  
++  - **Result (preflight):** **PASS** (no gap, no overlap; contiguous upper→lower roll transition)
++
++
++
++## FASCICLE 7 BOUNDARY (Preflight Mapping)
++
++- **Part1 ends at CBETA:** T1718_007.txt 「妙法蓮華經文句卷第七上」
++- **Part2 begins at CBETA:** T1718_007.txt 「妙法蓮華經文句卷第七下」
++- **Boundary Integrity Test:** **F07_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** any missing/duplicate CBETA line at the seam between the entries above  
++  - **Result (preflight):** **PASS** (no gap, no overlap; contiguous upper→lower roll transition)
++
++
++
++## FASCICLE 8 BOUNDARY (Preflight Mapping)
++
++- **Part1 ends at CBETA:** T1718_008.txt 「妙法蓮華經文句卷第八上」
++- **Part2 begins at CBETA:** T1718_008.txt 「妙法蓮華經文句卷第八下」
++- **Boundary Integrity Test:** **F08_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** any missing/duplicate CBETA line at the seam between the entries above  
++  - **Result (preflight):** **PASS** (no gap, no overlap; contiguous upper→lower roll transition)
++
++
++
++## FASCICLE 9 BOUNDARY (Preflight Mapping)
++
++- **Full file begins at CBETA:** T1718_009.txt 「妙法蓮華經文句卷第九上」
++- **Full file ends at CBETA:** T1718_009.txt 「妙法蓮華經文句卷第九下」
++- **Boundary Integrity Test:** **F09_BOUNDARY_CONTINUITY**  
++  - **Fail condition:** missing/duplicate CBETA anchor at file start or end  
++  - **Result (preflight):** **PASS** (start/end anchors present; full fascicle coverage)
++
++
+ ### DEFECT-F02-015
+ - **File name:** Wenju_Fascicle_02_FULL_Scholarly.md
+ - **Fascicle:** 2
+@@ -2563,3 +2632,677 @@
+ *[Critical apparatus: 故【大】，佛故【甲】]*
+ ``
+ - **Status:** Closed
++
++
++
++### DEFECT-F04-001
++- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
++- **Fascicle:** 4
++- **CBETA source file:** T1718_004.txt
++- **CBETA line numbers:** 9–227
++- **CBETA locator:** T1718_004.txt [1]–[2], [3], [4], [1], [＊1-1], [2], [3], [4], [＊4-1], [1], [2], [＊4-2]–[＊4-4], [＊4-5], [＊4-6], [1]–[4], [1], [2], [＊1-2], [＊1-3], [＊1-4], [1], [2]
++- **CBETA apparatus (verbatim):**
++  - [1] 妙法蓮華經【大】，法華【甲】
++  - [2] 上【大】，〔－〕【甲】
++  - [3] 天台智者大師說【大】，〔－〕【甲】
++  - [4] 揀【大】＊，簡【甲】＊
++  - [1] 二【大】，第二【甲】
++  - [1] 優【大】＊，〔－〕【甲】＊
++  - [＊1-1] 優【大】＊，〔－〕【甲】＊
++  - [2] 胡【大】，梵【甲】
++  - [3] 九【大】，第九【甲】
++  - [4] 正【大】，止【甲】
++  - [＊4-1] 揀【大】＊，簡【甲】＊
++  - [1] 秖【大】＊，只【甲】＊
++  - [2] 諳【大】，識【甲】
++  - [＊4-2] 揀【大】＊，簡【甲】＊
++  - [3] 是【大】，〔－〕【甲】
++  - [4] 是【大】，此【甲】
++  - [＊4-3] 揀【大】＊，簡【甲】＊
++  - [＊4-4] 揀【大】＊，簡【甲】＊
++  - [＊4-5] 揀【大】＊，簡【甲】＊
++  - [＊4-6] 揀【大】＊，簡【甲】＊
++  - [1] 解【大】，知【甲】
++  - [＊1-1] 秖【大】＊，只【甲】＊
++  - [2] 引【大】，胤【甲】
++  - [1] 矛【大】，桙【甲】
++  - [2] 若【大】，答【甲】
++  - [3] 來【大】，未【甲】
++  - [4] 為【大】，為示無量義為【甲】
++  - [1] 知【大】，〔－〕【甲】
++  - [2] 體【大】，體顯【甲】
++  - [＊1-2] 秖【大】＊，只【甲】＊
++  - [＊1-3] 秖【大】＊，只【甲】＊
++  - [＊1-4] 秖【大】＊，只【甲】＊
++  - [1] 結【大】，結成諸佛四一文也【甲】
++  - [2] 不分卷【甲】
++- **Translation excerpt:**
++  - CBETA markers appear in the Chinese linework, but no critical‑apparatus lines were present in Part 1.
++- **Defect type:** Variant missing
++- **Required correction:**
++  - Insert critical‑apparatus lines at each marker location using the standard scholarly format.
++- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
++  ```
++  [1]妙法蓮華經文句卷第四[2]上<br>
++  [3]天台智者大師說
++  *[Critical apparatus: [1] 妙法蓮華經【大】，法華【甲】; [2] 上【大】，〔－〕【甲】; [3] 天台智者大師說【大】，〔－〕【甲】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F04-002
++- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
++- **Fascicle:** 4
++- **CBETA source file:** T1718_004.txt
++- **CBETA line numbers:** 235–414
++- **CBETA locator:** T1718_004.txt [3], [4], [5], [＊4-1], [1], [2], [3], [4], [＊2-1], [＊4-2]–[＊4-4], [5], [6], [1], [2], [3], [＊4-5], [＊4-6], [4], [5], [1], [2], [3], [4], [5], [＊2-2], [6], [1], [2], [3], [＊2-3], [4], [5], [A1], [1]–[7], [A2], [5]–[7], [8], [1]–[5], [＊3-1], [＊3-2], [6]
++- **CBETA apparatus (verbatim):**
++  - [3] 不分卷【甲】
++  - [4] 揀【大】＊，簡【甲】＊
++  - [5] 秖【大】，只【甲】
++  - [＊4-1] 揀【大】＊，簡【甲】＊
++  - [1] 是【大】，是也【甲】
++  - [2] 邪【大】＊，耶【甲】＊
++  - [3] 執【大】，〔－〕【甲】
++  - [4] 作是思惟【大】，即生此念【甲】
++  - [＊2-1] 邪【大】＊，耶【甲】＊
++  - [＊4-2] 揀【大】＊，簡【甲】＊
++  - [＊4-3] 揀【大】＊，簡【甲】＊
++  - [＊4-4] 揀【大】＊，簡【甲】＊
++  - [5] 一【大】，一也【甲】
++  - [6] 入【大】，應入【甲】
++  - [1] 將【大】，用【甲】
++  - [2] 云【大】，言【甲】
++  - [3] 有【大】，〔－〕【甲】
++  - [＊4-5] 揀【大】＊，簡【甲】＊
++  - [＊4-6] 揀【大】＊，簡【甲】＊
++  - [4] 我有方便下【大】，有【甲】
++  - [5] 小【大】，少【甲】
++  - [1] 人【大】，上人【甲】
++  - [2] 中【大】，中亦二內心外色【甲】
++  - [3] 心【大】，心次一行舉外色【甲】
++  - [4] 誓【大】，誓願【甲】
++  - [5] 障【大】，障大【甲】
++  - [＊2-2] 邪【大】＊，耶【甲】＊
++  - [6] 秖【大】，〔－〕【甲】
++  - [1] 酥【大】，蘇【甲】
++  - [2] 四【大】，疱【甲】
++  - [3] 蟲【大】，虫【甲】
++  - [＊2-3] 邪【大】＊，耶【甲】＊
++  - [4] 或【大】，或云【甲】
++  - [5] 劫【大】，佛【甲】
++  - [A1] 二【CB】，一【大】
++  - [1] 二【大】，六【甲】
++  - [2] 古【大】，古時【甲】
++  - [3] 皮【大】，膠【甲】
++  - [4] 墮【大】，隨【甲】
++  - [5] 盤【大】，槃【甲】
++  - [6] 次【大】，〔－〕【甲】
++  - [7] 也【大】，〔－〕【甲】
++  - [1] 龍【大】，籠【甲】
++  - [2] 互【大】，更互【甲】
++  - [1] 末【大】，未【甲】
++  - [2] 本【大】，作本【甲】
++  - [3] 始【大】，〔－〕【甲】
++  - [4] 大【大】，大寢【甲】
++  - [A2] 派【CB】，泒【大】(cf. X29n0597_p0528c03)
++  - [5] 觀【大】，〔－〕【甲】
++  - [6] 得【大】，同【甲】
++  - [7] 原【大】，元【甲】
++  - [8] 用【大】，之【甲】
++  - [1] 曜【大】，耀【甲】
++  - [2] 在【大】，在天【甲】
++  - [3] 胡【大】＊，梵【甲】＊
++  - [4] 味【大】，無味【甲】
++  - [5] 變【大】，反【甲】
++  - [＊3-1] 胡【大】＊，梵【甲】＊
++  - [＊3-2] 胡【大】＊，梵【甲】＊
++  - [6] 不分卷【甲】
++- **Translation excerpt:**
++  - CBETA markers appear throughout Part 2, but no critical‑apparatus lines were present.
++- **Defect type:** Variant missing
++- **Required correction:**
++  - Insert critical‑apparatus lines at each marker location using the standard scholarly format.
++- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
++  ```
++  [3]第二、廣釋迦章，於六義中，無歎法希有，初開權，次顯實，三舉五濁釋方便，四[4]揀偽敦信一實，五無虛妄。
++  *[Critical apparatus: [3] 不分卷【甲】; [4] 揀【大】＊，簡【甲】＊]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F04-003
++- **File name:** Wenju_Fascicle_04_Part2_Scholarly.md
++- **Fascicle:** 4
++- **CBETA source file:** T1718_004.txt
++- **CBETA line numbers:** 235, 256
++- **CBETA text (quoted):**
++  - 「[3]第二、廣釋迦章，於六義中，無歎法希有，初開權，次顯實，三舉五濁釋方便，四[4]揀偽敦信一實，五無虛妄。…況有單三、單五之權？[5]秖為五濁障重實不得宣…」
++  - 「…根鈍遮重，此則成障，不聞小乘、不得度者[1]。」
++- **Translation excerpt:**
++  - The opening line lacked the leading [3] marker, the “秖為五濁…” line used [＊4-5] instead of [5], and the small‑vehicle Q&A line omitted the trailing [1].
++- **Defect type:** Marker omission / mismatch
++- **Required correction:**
++  - Insert [3] at the start of the “第二、廣釋迦章” line, correct [＊4-5] → [5] in “秖為五濁…”, and add the trailing [1] at the end of the small‑vehicle Q&A line.
++- **Post‑edit excerpt (Wenju_Fascicle_04_Part2_Scholarly.md):**
++  ```
++  [3]第二、廣釋迦章，於六義中，無歎法希有，初開權，次顯實，三舉五濁釋方便，四[4]揀偽敦信一實，五無虛妄。
++  [5]秖為五濁障重實不得宣，須施單五、單三之權，亦施帶二、帶三之權，故言「於一佛乘分別說三」，分別說於若帶二、帶三之三，若單五、單三之三也。
++  …
++  答：此就小乘，應四句分別：小乘根利遮輕，障不能障，身子是也；根利遮重，障亦不能障，央掘是也；根鈍遮輕亦不為障，槃特是也；根鈍遮重，此則成障，不聞小乘、不得度者是。[1]
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F04-004
++- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
++- **Fascicle:** 4
++- **CBETA source file:** T1718_004.txt
++- **CBETA line numbers:** 87–88
++- **CBETA text (quoted):**
++  - 「十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說…若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。」
++- **Translation excerpt:**
++  - The Chinese source used ellipses (“顯密二說…”, “此乃大判時不時…”) that truncated the CBETA line, and the English quote used ellipsis within the direct citation.
++- **Defect type:** Omission / Ellipsis
++- **Required correction:**
++  - Restore the full CBETA line (no ellipses) and render the quoted line without ellipsis.
++- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
++  ```
++  十、明待時不待時，爾前不悟必待《法華》悟者，名為待時；《法華》前教已解者，名不待時。何故爾？佛有顯密二說。
++  …
++  若密教為論，未必具待五味在法華方會，爾前密有入者故名不待時，此乃大判時不時。若就三周，亦是待時、不待時，迹本二門，亦是待時、不待時，致有前後悟入，即此意也。
++  …
++  Therefore it says: "Because the Time for speaking had not yet arrived, now is exactly the Time; I decisively speak the Great Vehicle." This is **Waiting for Time**.
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F04-005
++- **File name:** Wenju_Fascicle_04_Part1_Scholarly.md
++- **Fascicle:** 4
++- **CBETA source file:** T1718_004.txt
++- **CBETA line numbers:** 58, 173–179
++- **CBETA text (quoted):**
++  - 「其求緣覺者，比丘、比丘尼。」
++  - 「《金光明》中，時閻浮提有二種人，亦是斯例意。」
++- **Translation excerpt:**
++  - English citations used ellipses: “Bhikṣus and Bhikṣuṇīs.” and “there were two kinds of people.”
++- **Defect type:** Paraphrase / Ellipsis
++- **Required correction:**
++  - Remove ellipses and render the quoted phrases fully.
++- **Post‑edit excerpt (Wenju_Fascicle_04_Part1_Scholarly.md):**
++  ```
++  Therefore, in Śāriputra’s request verse, it says: "Those seeking the Pratyekabuddha Vehicle, Bhikṣus and Bhikṣuṇīs." Relying on this text, we know that Pratyekabuddhas are gathered within the Four Assemblies.
++  …
++  In the *Suvarṇaprabhāsa Sūtra* (*Golden Light*), it says in Jambudvīpa there were two kinds of people; this is also the meaning of this example.
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F05-001
++- **File name:** Wenju_Fascicle_05_FULL_Scholarly.md
++- **Fascicle:** 5
++- **CBETA source file:** T1718_005.txt
++- **CBETA line numbers:** 55
++- **CBETA text (quoted):**
++  - 「咸以恭敬心，皆來至我所」者，一云：「耻小慕大，大機感佛故云至佛所。」今明非但機至佛所，亦乃身到，如無量義中四眾圍繞，合掌敬心，欲聞具足道也。「曾從諸佛聞，方便所說法」者，此中初味調伏，受行三藏、六度，通、別等三教方便，由此調熟故，使障除機發而求大也。從「我即作是念」下，二行一句，明障除佛喜。佛為佛慧故出，昔障重無機，不得即說佛慧；中間雖障除又未得說；今機發正是說時。昔眾生根鈍智小，恐其謗法墮惡，故未是說時；今根利志大，聞必信解故佛歡喜。「無畏」者，不畏執小謗大起罪墮惡，故言無畏。「於菩薩中」下三句，正顯實也。五乘是曲而非直，通別偏傍而非正，今皆捨彼偏曲，但說正直一道也。「菩薩聞是法」下一行，明受行悟入，六度通二菩薩，初聞略說，動舊執致新疑，今悉已除；非獨菩薩，二乘亦爾。而云「聲聞皆當作佛」者，昔教不說二乘作佛，今行與授記，授記豈獨二乘？除疑豈獨菩薩？互存則兩備。
++- **Translation excerpt:**
++  - Paragraph missing between the Q/A on “seeking one” and the “Resolving the Bodhisattva’s Doubt” heading.
++- **Defect type:** Omission (missing CBETA paragraph)
++- **Required correction:**
++  - Insert the full CBETA paragraph with bilingual translation immediately after the “昔出宅索三…” Q/A block.
++- **Post‑edit excerpt (Wenju_Fascicle_05_FULL_Scholarly.md):**
++  ```
++  「咸以恭敬心，皆來至我所」者，一云：「耻小慕大，大機感佛故云至佛所。」…
++  As for “All with respectful minds, all came to my place,” one says: “Ashamed of the small and admiring the great, their great capacity moved the Buddha…”
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F05-002
++- **File name:** Wenju_Fascicle_05_FULL_Scholarly.md
++- **Fascicle:** 5
++- **CBETA source file:** T1718_005.txt
++- **CBETA line numbers:** 141–145
++- **CBETA text (quoted):**
++  - 「爾時佛告舍利」下，第二，佛答，文為三：一、發起；二、譬喻；三、勸信。
++  - 發起為二：一抑、二引，抑令憤勇，引令速進。「我先不言」下，指上明權皆為菩提，指上顯實皆為化菩薩者，若權若實，皆入佛道無住涅槃，上已明言，云何執教迷闇不解，如此責謂是抑文也。「然舍利弗今當」下，[2]是引接安慰。前斥既切，恐鄙懟自沈，今許其譬喻更明此義，若能解者猶稱智也。
++  - [2] 是引【大】，引是【甲】
++- **Translation excerpt:**
++  - The “佛答/發起” paragraph and its [2] marker/apparatus line were absent before the parable section.
++- **Defect type:** Omission / Variant missing
++- **Required correction:**
++  - Insert the missing paragraph, restore the [2] marker, and add the critical‑apparatus line for [2].
++- **Post‑edit excerpt (Wenju_Fascicle_05_FULL_Scholarly.md):**
++  ```
++  「爾時佛告舍利」下，第二，佛答，文為三：一、發起；二、譬喻；三、勸信。
++  發起為二：…「然舍利弗今當」下，[2]是引接安慰。…
++  *[Critical apparatus: [2] 是引【大】，引是【甲】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F05-003
++- **File name:** Wenju_Fascicle_05_FULL_Scholarly.md
++- **Fascicle:** 5
++- **CBETA source file:** T1718_005.txt
++- **CBETA line numbers:** 122–124
++- **CBETA text (quoted):**
++  - 從「汝於未來」下，是大段第四，授記段。前自陳佛印竟，是故與記，若得大解自知得佛，何俟須記？記有四意：一、昔未記二乘而今須記；二、中下未悟，以記勉勵之；三、令聞者結緣；四、滿其本願，是故記也。…「宜應自欣慶」者，成初入歡喜位之解也，初住能百佛世界作佛，行地倍是。
++  - 第五，四眾領解，有長行、偈頌。初經家敘眾喜；次陳供養。「作是言」下，正領解。初領開權，今乃復轉下，領顯實也。偈有六行半，為二：初二行，頌上開權顯實；後四行半，自述得解隨喜迴向也。「我等亦如是」者，如身子之領解，如身子被述成，如身子之得記也。
++- **Translation excerpt:**
++  - The prediction section and the four‑assemblies understanding paragraph were missing before the Q&A section.
++- **Defect type:** Omission (missing CBETA paragraphs)
++- **Required correction:**
++  - Insert both paragraphs with bilingual translation before the “Q&A: Why Shariputra First?” section.
++- **Post‑edit excerpt (Wenju_Fascicle_05_FULL_Scholarly.md):**
++  ```
++  從「汝於未來」下，是大段第四，授記段。…
++  第五，四眾領解，有長行、偈頌。…
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F05-004
++- **File name:** Wenju_Fascicle_05_FULL_Scholarly.md
++- **Fascicle:** 5
++- **CBETA source file:** T1718_005.txt
++- **CBETA locator:** T1718_005.txt apparatus entries (all)
++- **CBETA apparatus (verbatim):**
++  - [7] 不分卷【甲】
++  - [1] 益【大】，蓋【甲】
++  - [2] 秖【大】＊，只【甲】＊
++  - [3] 變【大】，反【甲】
++  - [4] 七【大】，七日【甲】
++  - [5] 行【大】，行悟入【甲】
++  - [6] 導【大】，道【甲】
++  - [1] 習習【大】，集集【甲】
++  - [1] 行【大】，一行【甲】
++  - [2] 揀【大】＊，簡【甲】＊
++  - [＊2-1] 揀【大】＊，簡【甲】＊
++  - [＊2-2] 揀【大】＊，簡【甲】＊
++  - [＊2-3] 揀【大】＊，簡【甲】＊
++  - [＊2-4] 揀【大】＊，簡【甲】＊
++  - [＊2-5] 揀【大】＊，簡【甲】＊
++  - [3] 法華經文句卷第四終【甲】，法隆寺本奧書云康治元年壬戌八月十八日奉寫已了南都法隆寺五師大法師覺印之一校了（朱書）同二年癸亥六月五日移點已了為令法久住往生極樂也覺印
++  - [4] 法華文句卷第五首【甲】
++  - [5] 遣【大】，達【甲】
++  - [1] 又【大】，又云【甲】
++  - [2] 圓【大】，員【甲】
++  - [3] （二初…三）十一字【大】，三名身喜聞此法音依於佛口聞而歡喜故【甲】
++  - [4] 二【大】，次【甲】
++  - [＊2-1] 秖【大】＊，只【甲】＊
++  - [5] 甞【大】，常【甲】
++  - [6] 知見【大】，見知【甲】
++  - [7] 實權【大】，權實【甲】
++  - [1] 得【大】，待【甲】
++  - [2] 願即【大】，〔－〕【甲】
++  - [1] 輩【大】＊，背【甲】＊
++  - [＊1-1] 輩【大】＊，背【甲】＊
++  - [2] 是引【大】，引是【甲】
++  - [3] 中【大】，〔－〕【甲】
++  - [4] 儀【大】，議【甲】
++  - [5] 贍【大】，瞻【甲】
++  - [1] 統【大】，繞【甲】
++  - [2] 車門【大】，門車【甲】
++  - [3] 頹【大】＊，隤【甲】＊
++  - [＊3-1] 頹【大】＊，隤【甲】＊
++  - [4] 不分卷【甲】
++  - [5] 不分卷【甲】
++  - [6] 名【大】，為【甲】
++  - [1] 秖【大】＊，只【甲】＊
++  - [1] 設權【大】，權設【甲】
++  - [2] 第【大】，〔－〕【甲】
++  - [1] 說【大】，因緣【甲】
++  - [2] 機【大】，〔－〕【甲】
++  - [3] 豈【大】，蚩【甲】
++  - [4] 聞【大】，見【甲】
++  - [1] 酥【大】＊，蘇【甲】＊
++  - [＊1-1] 酥【大】＊，蘇【甲】＊
++  - [＊1-1] 秖【大】＊，只【甲】＊
++  - [2] 師【大】，〔－〕【甲】
++  - [3] 車【大】，〔－〕【甲】
++  - [4] 者【大】，者小果者【甲】
++  - [5] 矛盾【大】，鉾楯【甲】
++  - [6] 人【大】，有【甲】
++  - [7] 授【大】，受【甲】
++  - [1] 救【大】，拔【甲】
++  - [1] 外德【大】，〔－〕【甲】
++  - [2] 力【大】，力者【甲】
++  - [3] 也【大】＊，〔－〕【甲】＊
++  - [4] 已【大】，〔－〕【甲】
++  - [5] 者【大】，〔－〕【甲】
++  - [6] 所【大】，〔－〕【甲】
++  - [＊3-1] 也【大】＊，〔－〕【甲】＊
++  - [＊3-2] 也【大】＊，〔－〕【甲】＊
++  - [A1] 繫【CB】，繁【大】
++  - [1] 推【大】，惟【甲】
++  - [2] 不分卷【甲】
++- **Translation excerpt:**
++  - Apparatus appeared as standalone bilingual “Variant:” rows; no critical‑apparatus lines were present.
++- **Defect type:** Variant missing / Apparatus format
++- **Required correction:**
++  - Remove apparatus‑only rows and insert critical‑apparatus lines in the scholarly format after each relevant block.
++- **Post‑edit excerpt (Wenju_Fascicle_05_FULL_Scholarly.md):**
++  ```
++  *[Critical apparatus: [7] 不分卷【甲】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F05-005
++- **File name:** Wenju_Fascicle_05_FULL_Scholarly.md
++- **Fascicle:** 5
++- **CBETA source file:** T1718_005.txt
++- **CBETA line numbers:** 94
++- **CBETA text (quoted):**
++  - 「…是故歡喜，此對治釋也。[1]又佛子所應得者皆已得之…」
++  - [1] 又【大】，又云【甲】
++- **Translation excerpt:**
++  - “此對治釋也” lacked the [1] marker and no critical‑apparatus line appeared.
++- **Defect type:** Marker omission / Variant missing
++- **Required correction:**
++  - Restore [1] in the Chinese line and insert the critical‑apparatus line for [1].
++- **Post‑edit excerpt (Wenju_Fascicle_05_FULL_Scholarly.md):**
++  ```
++  …是故歡喜，此對治釋也。[1]
++  *[Critical apparatus: [1] 又【大】，又云【甲】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F07-001
++- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
++- **Fascicle:** 7 (Lower)
++- **CBETA source file:** T1718_007.txt
++- **CBETA line numbers:** 213–240 (approx.)
++- **CBETA locator:** T1718_007.txt 「將導眾人」…「汝證一切智十力等佛法」
++- **Chinese text (quoted):**
++  - 「將導眾人」下，是第二，將導譬…「若入是城快得安[1]樂」…「但作[2]二乘亦好」…「適[3]子願勇銳推排出宅」…
++- **Translation excerpt:**
++  - The entire **Leading/Conducting Parable** analysis block (and its doctrinal mapping) was missing in English.
++- **Defect type:** Omission
++- **Required correction:**
++  - Insert the full CBETA block beginning at 「將導眾人」 through the end of the parable/doctrinal mapping, with a complete bilingual translation and its apparatus notes.
++- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
++  ```
++  「將導眾人」下，是第二，將導譬…「若入是城快得安[1]樂」…「但作[2]二乘亦好」…「適[3]子願勇銳推排出宅」…
++  *[Critical apparatus: [1] 樂【大】，隱【甲】; [2] 二【大】，三【甲】; [3] 子【大】，〔－〕【甲】]*
++  ```
++- **Status:** Closed
++
++### DEFECT-F07-002
++- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
++- **Fascicle:** 7 (Lower)
++- **CBETA source file:** T1718_007.txt
++- **CBETA line numbers:** 241–260 (approx.)
++- **CBETA locator:** T1718_007.txt 「爾時導師知此」…「[5]我令脫苦縛逮得涅槃」
++- **Chinese text (quoted):**
++  - 「爾時導師知此」下，第三，滅化引至寶所…「唯佛與佛乃能究[4]竟諸法實相」…
++  - 「寶處在近，向者大城我所化作」…「[5]我令脫苦縛逮得涅槃」…
++- **Translation excerpt:**
++  - The entire extinguish‑magic/treasure‑place analysis was missing in English.
++- **Defect type:** Omission
++- **Required correction:**
++  - Insert the missing CBETA paragraphs with full bilingual translation and apparatus notes [4] and [5].
++- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
++  ```
++  「爾時導師知此」下…「唯佛與佛乃能究[4]竟諸法實相」…
++  「寶處在近，向者大城我所化作」…「[5]我令脫苦縛逮得涅槃」…
++  *[Critical apparatus: [4] 竟【大】，盡【甲】; [5] 我【大】，〔－〕【甲】]*
++  ```
++- **Status:** Closed
++
++### DEFECT-F07-003
++- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
++- **Fascicle:** 7 (Lower)
++- **CBETA source file:** T1718_007.txt
++- **CBETA line numbers:** 261–293 (approx.)
++- **CBETA locator:** T1718_007.txt 「時十六王子」…「諸佛之導師」
++- **Chinese text (quoted):**
++  - 「時十六王子」下，五行半…[2]頌二萬劫中間說方等《般若》…
++  - 「是諸沙彌[3]等」下，二十七行…「見諸求[12]道者」…
++- **Translation excerpt:**
++  - The entire gāthā‑analysis sub‑blocks for the “sixteen princes” and “sramaneras” verses were missing, along with their apparatus lines.
++- **Defect type:** Omission
++- **Required correction:**
++  - Insert the two missing gāthā‑analysis paragraphs with full bilingual translation and the apparatus lines [1], [2], [3]–[12].
++- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
++  ```
++  *[Critical apparatus: [1] 時【大】，〔－〕【甲】]*
++  「時十六王子」下…
++  *[Critical apparatus: [2] 頌【大】，頌第四【甲】]*
++  「是諸沙彌[3]等」下…「見諸求[12]道者」…
++  *[Critical apparatus: [3] 等【大】，〔－〕【甲】; [4] 次【大】，〔－〕【甲】; [5] 後【大】，〔－〕【甲】; [6] 三【大】，一【甲】; [7] 日【大】，日還【甲】; [8] 文【大】，文有【甲】; [9] 二【大】，兩【甲】; [10] 直【大】，真【甲】; [11] 第四【大】，〔－〕【甲】; [12] 道【大】，導【甲】]*
++  ```
++- **Status:** Closed
++
++### DEFECT-F07-004
++- **File name:** Wenju_Fascicle_07_Part2_Scholarly.md
++- **Fascicle:** 7 (Lower)
++- **CBETA source file:** T1718_007.txt
++- **CBETA line numbers:** [1], [2], [A2], [3]
++- **CBETA locator:** T1718_007.txt [1] 詮 / [2] 秖 / [A2] 昔 / [3] 譬 / [1] 也 / [2] 本 / [3] 次頁[01]
++- **CBETA apparatus (verbatim):**
++  - [1] 詮【大】，論【甲】
++  - [2] 秖【大】，只【甲】
++  - [A2] 昔【CB】，音【大】
++  - [3] 譬【大】，喻【甲】
++  - [1] 也【大】，〔－〕【甲】
++  - [2] 本【大】＊，〔－〕【甲】＊
++  - [3] 次頁[01]不分卷【甲】
++- **Translation excerpt:**
++  - Multiple apparatus lines were missing in the Magic‑City Q/A, Five‑Places analysis, and prediction sections.
++- **Defect type:** Variant missing
++- **Required correction:**
++  - Insert the missing apparatus lines at each respective location.
++- **Post‑edit excerpt (Wenju_Fascicle_07_Part2_Scholarly.md):**
++  ```
++  *[Critical apparatus: [1] 詮【大】，論【甲】; [2] 秖【大】，只【甲】]*
++  *[Critical apparatus: [A2] 昔【CB】，音【大】; [3] 譬【大】，喻【甲】]*
++  *[Critical apparatus: [1] 也【大】，〔－〕【甲】]*
++  *[Critical apparatus: [2] 本【大】＊，〔－〕【甲】＊]*
++  *[Critical apparatus: [3] 次頁[01]不分卷【甲】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F09-001
++- **File name:** Wenju_Fascicle_09_FULL_Scholarly.md
++- **Fascicle:** 9
++- **CBETA source file:** T1718_009.txt
++- **CBETA line numbers:** [6]
++- **CBETA locator:** T1718_009.txt [6]
++- **CBETA apparatus (verbatim):**
++  - [6] 法華文句卷第八終【甲】，法隆寺本奧書云康治元年壬戌六月三十日寫之法隆寺僧覺印一校了（朱書）康治二年六月二十八日移點已了
++- **Translation excerpt:**
++  - Apparatus line present only in a nonstandard label (“Critical apparatus (A-text colophon)”), missing the CBETA [6] locator.
++- **Defect type:** Variant missing / apparatus format
++- **Required correction:**
++  - Replace the nonstandard line with a standard critical‑apparatus line including the [6] locator.
++- **Post‑edit excerpt (Wenju_Fascicle_09_FULL_Scholarly.md):**
++  ```
++  *[Critical apparatus: [6] 法華文句卷第八終【甲】，法隆寺本奧書云康治元年壬戌六月三十日寫之法隆寺僧覺印一校了（朱書）康治二年六月二十八日移點已了]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F08-001
++- **File name:** Wenju_Fascicle_08_Part1_Scholarly.md
++- **Fascicle:** 8
++- **CBETA source file:** T1718_008.txt
++- **CBETA line numbers:** 1–186 (Upper Roll)
++- **CBETA locator:** T1718_008.txt (卷第八上) from 「妙法蓮華經文句[A1]卷第八上」 through the upper‑roll closing line 「妙法蓮華經文句卷第八上」
++- **Chinese text (quoted):**
++  - 「妙法蓮華經文句[A1]卷第八上」
++  - 「[1]「漸漸具足菩薩」下，第二，授記。文為七：一、明因圓…」
++  - 「釋法師品」
++  - 「妙法蓮華經文句卷第八上」
++- **CBETA apparatus (verbatim):**
++  - [A1] 卷【CB】，［－］【大】
++  - [1] 前頁[03]不分卷【甲】
++  - [2] 是【大】，知【甲】
++  - [3] 別分【大】，分別【甲】
++  - [4] 也【大】，〔－〕【甲】
++  - [5] 淫【大】，婬【甲】
++  - [6] 記【大】，說【甲】
++  - [7] 以【大】，〔－〕【甲】
++  - [1] 智【大】，知【甲】
++  - [2] 學【大】＊，覺【甲】＊
++  - [3] 人【大】，〔－〕【甲】
++  - [4] 雲【大】＊，云【甲】＊
++  - [＊4-1] 雲【大】＊，云【甲】＊
++  - [＊2-1] 學【大】＊，覺【甲】＊
++  - [＊2-2] 學【大】＊，覺【甲】＊
++  - [5] 法華文句卷第七終【甲】，法隆寺本奧書云□四年十月二日初舟後圓河上之䉼堂勝法寺□□萬壽五年二月十六日□為令法久住書寫了僧琳兌之本法隆寺五師大法師覺印修複之康治元年五月日傳得之
++  - [6] 法華文句卷第八首【甲】，但卷題下無天台智者大師七字
++  - [1] 以【大】，〔－〕【甲】
++  - [2] 亡【大】，忌【甲】
++  - [3] 空【大】，坐【甲】
++  - [4] 空【大】，空座【甲】
++  - [5] 忍【大】，悲【甲】
++  - [6] 所【大】，門【甲】
++  - [7] 一【大】，而【甲】
++  - [8] 覓【大】，觀【甲】
++  - [9] 美【大】，善美【甲】
++  - [10] 語【大】，諸【甲】
++  - [11] 揀【大】＊，簡【甲】＊
++  - [＊11-1] 揀【大】＊，簡【甲】＊
++  - [＊11-2] 揀【大】＊，簡【甲】＊
++  - [1] 喜【大】，之【甲】
++  - [2] 譚【大】＊，談【甲】＊
++  - [＊2-1] 譚【大】＊，談【甲】＊
++  - [3] 況【大】，況有人【甲】
++  - [4] 於【大】，〔－〕【甲】
++  - [5] 種【大】，權【甲】
++  - [1] 下【大】，〔－〕【甲】
++  - [2] 半【大】，半行【甲】
++  - [3] 棲【大】＊，栖【甲】＊
++  - [＊3-1] 棲【大】＊，栖【甲】＊
++  - [＊11-3] 揀【大】＊，簡【甲】＊
++  - [1] 般【大】＊，波【甲】＊
++  - [＊1-1] 般【大】＊，波【甲】＊
++  - [2] 詺【大】，名【甲】
++  - [3] 世【大】，世諸【甲】
++  - [4] 算【大】，弄【甲】
++  - [5] 實【大】，實真【甲】
++  - [6] 物【大】，總【甲】
++  - [7] 章【大】，章互【甲】
++  - [8] 問【大】，問門【甲】
++  - [＊11-4] 揀【大】＊，簡【甲】＊
++  - [1] 就【大】，〔－〕【甲】
++  - [2] 荷【大】，荷檐【甲】
++  - [3] 見【大】，見況見佛【甲】
++  - [4] 知【大】，知下【甲】
++  - [＊11-5] 揀【大】＊，簡【甲】＊
++  - [5] 軌【大】，軌方軌【甲】
++  - [6] 不分卷【甲】
++- **Translation excerpt:**
++  - “## Explanation of the Prophecy for Five Hundred Disciples Chapter”
++  - “### 1. Title Explanation”
++  - Summary bullet blocks replacing line‑by‑line CBETA translation.
++- **Defect type:** Omission (summary/paraphrase)
++- **Required correction:**
++  - Replace all summary/outline blocks with full CBETA text and line‑by‑line bilingual translation for the entire upper roll.
++  - Insert every CBETA apparatus line in the standard scholarly critical‑apparatus format at the correct positions.
++  - Preserve the upper‑roll boundary line at the end (“妙法蓮華經文句卷第八上”).
++- **Post‑edit excerpt (Wenju_Fascicle_08_Part1_Scholarly.md):**
++  ```
++  妙法蓮華經文句[A1]卷第八上
++
++  The Words and Phrases of the Lotus Sutra, Fascicle Eight (Upper).
++
++  *[Critical apparatus: [A1] 卷【CB】，［－］【大】]*
++  ```
++- **Status:** Closed
++
++
++### DEFECT-F08-002
++- **File name:** Wenju_Fascicle_08_Part2_Scholarly.md
++- **Fascicle:** 8
++- **CBETA source file:** T1718_008.txt
++- **CBETA line numbers:** 188–360 (Lower Roll)
++- **CBETA locator:** T1718_008.txt (卷第八下) from 「妙法蓮華經文句卷第八下」 through the lower‑roll closing line 「妙法蓮華經文句卷第八下」
++- **Chinese text (quoted):**
++  - 「妙法蓮華經文句卷第八下」
++  - 「[7]釋見寶塔品」
++  - 「釋安樂行品」
++  - 「妙法蓮華經文句卷第八下」
++- **CBETA apparatus (verbatim):**
++  - [7] 不分卷【甲】
++  - [8] 或【大】，或言【甲】
++  - [9] 倚切【大】，荷反【甲】
++  - [10] 秖【大】＊，只【甲】＊
++  - [1] 涌【大】下同，踊【甲】下同
++  - [2] 雲【大】，云【甲】
++  - [＊10-1] 秖【大】＊，只【甲】＊
++  - [3] 此【大】，是【甲】
++  - [4] 般【大】，波【甲】
++  - [5] 子【大】，〔－〕【甲】
++  - [1] 也【大】，者【甲】
++  - [2] 言【大】，〔－〕【甲】
++  - [3] 三【大】，三問【甲】
++  - [4] 當【大】，當知【甲】
++  - [5] 同【大】，〔－〕【甲】
++  - [6] 病【大】，病之【甲】
++  - [7] 法【大】，〔－〕【甲】
++  - [8] 百【大】，百八【甲】
++  - [1] 四【大】，〔－〕【甲】
++  - [2] 示【大】，亦【甲】
++  - [3] 經【大】，縛【甲】
++  - [4] 多【大】，〔－〕【甲】
++  - [5] 達【大】，達多【甲】
++  - [6] 般【大】，波【甲】
++  - [7] 伏慳【大】，慳伏【甲】
++  - [8] 熟【大】，就【甲】
++  - [9] 不【大】，〔－〕【甲】
++  - [10] 悔恨【大】，恨悔【甲】
++  - [1] 足【大】，足下【甲】
++  - [A2] 膞【CB】【北藏-CB】，膊【大】(cf. P159n1654_p0617b09)
++  - [2] 相【大】，二相【甲】
++  - [3] 拘【大】，物【甲】
++  - [4] 如【大】，如文【甲】
++  - [1] 歎【大】，讚【甲】
++  - [＊10-2] 秖【大】＊，只【甲】＊
++  - [2] 然【大】，〔－〕【甲】
++  - [3] 煩【大】，繁【甲】
++  - [4] 加【大】，知【甲】
++  - [5] 抖擻【大】，斗藪【甲】
++  - [6] 自既【大】，既自【甲】
++  - [7] 茶【大】，荼【甲】
++  - [8] 能【大】，〔－〕【甲】
++  - [9] 瘳【大】，聊【甲】
++  - [10] 不善【大】，惡【甲】
++  - [1] 毘【大】，〔－〕【甲】
++  - [2] 諸【大】，〔－〕【甲】
++  - [3] 慈與【大】，與慈【甲】
++  - [1] 先【大】，光【甲】
++  - [2] 已【大】，〔－〕【甲】
++  - [3] 眾【大】，眾生【甲】
++  - [4] 空【大】，室【甲】
++  - [5] （初一…二）二十四字【大】，〔－〕【甲】
++  - [6] 棲【大】，栖【甲】
++  - [7] 也【大】，〔－〕【甲】
++  - [8] 窮二【大】，二窮【甲】
++  - [1] 心【大】，心亦【甲】
++  - [2] 邪【大】，耶【甲】
++  - [3] 旃【大】，栴【甲】
++  - [4] 不分卷【甲】
++- **Translation excerpt:**
++  - “## Explanation of the Vision of the Jeweled Stupa Chapter”
++  - “### 1. Title Explanation”
++  - Summary bullet blocks replacing line‑by‑line CBETA translation.
++- **Defect type:** Omission (summary/paraphrase)
++- **Required correction:**
++  - Replace all summary/outline blocks with full CBETA text and line‑by‑line bilingual translation for the entire lower roll.
++  - Insert every CBETA apparatus line in the standard scholarly critical‑apparatus format at the correct positions.
++  - Preserve the lower‑roll boundary line at the end (“妙法蓮華經文句卷第八下”).
++- **Post‑edit excerpt (Wenju_Fascicle_08_Part2_Scholarly.md):**
++  ```
++  妙法蓮華經文句卷第八下
++
++  The Words and Phrases of the Lotus Sutra, Fascicle Eight (Lower).
++
++  *[Critical apparatus: [7] 不分卷【甲】]*
++  ```
++- **Status:** Closed

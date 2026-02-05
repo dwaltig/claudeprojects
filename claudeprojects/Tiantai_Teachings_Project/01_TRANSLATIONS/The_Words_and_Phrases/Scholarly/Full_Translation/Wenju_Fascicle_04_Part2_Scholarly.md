@@ -35,7 +35,7 @@ Spoken by the Great Master **Zhiyi** of Tiantai.
 
 <div class="bilingual-row">
 <div class="chinese-source">
-第二、廣釋迦章，於六義中，無歎法希有，初開權，次顯實，三舉五濁釋方便，四[4]揀偽敦信一實，五無虛妄。
+[3]第二、廣釋迦章，於六義中，無歎法希有，初開權，次顯實，三舉五濁釋方便，四[4]揀偽敦信一實，五無虛妄。
 </div>
 <div class="english-translation">
 **Second: The Chapter Extensively Explaining Śākyamuni.**<br>
@@ -48,6 +48,9 @@ It [contains]:<br>
 5.  No Falsehood (*Wú xūwàng*).
 </div>
 </div>
+*[Critical apparatus: [3] 不分卷【甲】; [4] 揀【大】＊，簡【甲】＊]*
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -90,7 +93,7 @@ The Dharma is pure, deeply One like Space. There is not even the "Provisional co
 
 <div class="bilingual-row">
 <div class="chinese-source">
-[＊4-5]秖為五濁障重實不得宣，須施單五、單三之權，亦施帶二、帶三之權，故言「於一佛乘分別說三」，分別說於若帶二、帶三之三，若單五、單三之三也。
+[5]秖為五濁障重實不得宣，須施單五、單三之權，亦施帶二、帶三之權，故言「於一佛乘分別說三」，分別說於若帶二、帶三之三，若單五、單三之三也。
 </div>
 <div class="english-translation">
 It is only because the **Five Corruptions** are heavy obstacles that the Real cannot be proclaimed.<br>
@@ -100,6 +103,8 @@ Therefore it says: **"Within the One Buddha Vehicle, distinguishingly speaking T
 "Distinguishing" means speaking of the "Three" that contains Two/Three, or the "Three" of the Single Five/Single Three.
 </div>
 </div>
+*[Critical apparatus: [5] 秖【大】，只【甲】]*
+
 
 ### Definitions of the Five Corruptions
 
@@ -114,7 +119,7 @@ Regarding the **Five Corruptions** (*Wǔ Zhuó*), there are four distinctions:<b
 3.  Substance and Marks (*Tǐ Xiàng*).<br>
 4.  Explanation and Conclusion.<br>
 "Chanting the number" and "Listing the names" are as in the text.<br>
-**[Sutra Text]: "Thus..." (*Rúshì*)** clarifies the Substance and Marks.<br>
+**[Sutra Text]: "Thus." (*Rúshì*)** clarifies the Substance and Marks.<br>
 1.  **Corruption of the Kalpa (*Jié Zhuó*):** It has no separate substance. "Kalpa" is a long time; "Kṣaṇa" is a short time. This false name is established only with regard to the [other] Four Corruptions.<br>
 The text says "The time when the Corruption of the Kalpa is chaotic/disordered"—this is the meaning.
 </div>
@@ -153,6 +158,7 @@ The Four Corruptions increase and intensify, gathering in this time.<br>
 *   When **Ignorance** increases intensely, the [Disaster of] Pestilence arises.<br>
 Because the Three Disasters arise, Afflictions doubly flourish, and Views turn blazing.<br>
 Coarse and vile Form and Mind, evil names and filthy designations, destroying years and reducing lifespan—the Multitude of Corruptions gather together (*jiāocòu*).<br>
+There is not a single moment of respite; time makes it so.<br>
 </div>
 </div>
 
@@ -164,6 +170,8 @@ Coarse and vile Form and Mind, evil names and filthy designations, destroying ye
 For example: at the beginning of a kalpa, the Light-Sound Heaven beings fall to the earth and the earth causes desire; like the Trāyastriṃśa Heaven beings entering a coarse and rough garden, the garden gives rise to fighting-minds—this is called the mark of kalpa-corruption. As for afflictions-corruption: the sea of greed receives streams and is never sated; the venomous serpent of anger absorbs poison and vexes the world; the darkness of ignorance is more stubborn than lacquer and ink; pride looks down from on high with no limit; the net of doubt has no faith and cannot be told the truth—these are the marks of afflictions-corruption. As for views-corruption: taking “no person” as “there is a person,” taking “there is a path” as “there is no path,” the sixteen views and sixty-two, etc., are like a net and like a dense forest—binding and twisting so one cannot escape—these are the marks of views-corruption. As for beings-corruption: grasping form and mind and establishing a single “controller,” like sticky glue that does not fail to adhere to anything; drifting through the six destinies, receiving birth everywhere; like poverty and shortness being named long and rich—these are the marks of beings-corruption. As for life-corruption: born in the morning, dying at dusk; emerging by day, sinking by evening; like waves turning and smoke circling, instant by instant not abiding—these are the marks of life-corruption. The marks of corruption are many and cannot be fully described. As for their sequence: afflictions and views are the root; from these two corruptions beings are formed; from beings there is the linking-and-holding of life; these four, passing through time, are called kalpa-corruption. As for discriminating selection [of these]:
 </div>
 </div>
+*[Critical apparatus: [＊4-1] 揀【大】＊，簡【甲】＊]*
+
 
 ### Q&A: Hearing the Great in Avataṃsaka Before Removing Turbidities? (Lines 242-248; CBETA 004:242–248)
 
@@ -198,7 +206,7 @@ For example: at the beginning of a kalpa, the Light-Sound Heaven beings fall to 
 
 <div class="bilingual-row">
 <div class="chinese-source">
-答：此就小乘，應四句分別：小乘根利遮輕，障不能障，身子是也；根利遮重，障亦不能障，央掘是也；根鈍遮輕亦不為障，槃特是也；根鈍遮重，此則成障，不聞小乘、不得度者是。
+答：此就小乘，應四句分別：小乘根利遮輕，障不能障，身子是也；根利遮重，障亦不能障，央掘是也；根鈍遮輕亦不為障，槃特是也；根鈍遮重，此則成障，不聞小乘、不得度者[1]是。
 </div>
 <div class="english-translation">
 **Answer:** Regarding the Small Vehicle, one should distinguish **Four Phrases** (*Sì Jù*):<br>
@@ -208,6 +216,8 @@ For example: at the beginning of a kalpa, the Light-Sound Heaven beings fall to 
 4.  **Roots Dull, Obscuration Heavy:** This then forms an obstacle; they do not hear the Small Vehicle and do not obtain deliverance.
 </div>
 </div>
+*[Critical apparatus: [1] 是【大】，是也【甲】]*
+
 
 ---
 
@@ -260,6 +270,10 @@ Discussing the four siddhāntas in terms of the five corruptions: kalpa and life
 If one discusses cause and fruit: there are two causes and three fruits; one person and four dharmas; the four dharmas in one time; two retribution obstructions and two affliction obstructions, with karma between them. Sentient beings are the cause-constructed provisional; lifespan is the continuity provisional; and the mutual-dependence provisional can be understood. Sentient beings are the receiving provisional; the four are dharma-provisional; the name-provisional spans both places. Afflictions and views are in ordinary beings; the other three span ordinary and sages. Lifespan is short; kalpa is long; the other three span long and short. Kalpa is only time; lifespan discusses time together with dharmas. Kalpa spans inner and outer; lifespan is only inner. The three small disasters harm persons and do not harm things; the three great disasters harm things and do not harm persons. The small kalpa pertains only to persons; the great kalpa spans the form realm. Lifespan spans the five destinies and the three realms. Kalpa is a shared corruption; the other four are each individual corruptions. The small kalpa is kalpa-corruption; the great kalpa spans corrupted and uncorrupted. From eighty thousand down to ten years is a small kalpa; eighty [years] in reverse is a great kalpa.
 </div>
 </div>
+*[Critical apparatus: [2] 邪【大】＊，耶【甲】＊; [3] 執【大】，〔－〕【甲】; [4] 作是思惟【大】，即生此念【甲】]*
+
+
+
 
 ---
 
@@ -282,6 +296,10 @@ If one discusses cause and fruit: there are two causes and three fruits; one per
 **Answer:** By analogy with the three poisons in their evil and wholesome forms: the evil corresponds to the five corruptions; the wholesome corresponds to the five clears. In the pure lands of other directions there are no evil three poisons, so the obstruction of the five corruptions is light; this meaning can be understood (etc.).
 </div>
 </div>
+*[Critical apparatus: [＊2-1] 邪【大】＊，耶【甲】＊]*
+
+
+
 
 ### 4. Rejecting the False and Exhorting Truth (Lines 290-298; CBETA 004:290–298)
 
@@ -290,11 +308,15 @@ If one discusses cause and fruit: there are two causes and three fruits; one per
 從「若我弟子自謂」下，是第四[＊4-2]揀偽敦真。若佛弟子自能信解，若不信解非真弟子亦非羅漢，敦逼時眾令信受解。就文為二：初、[＊4-3]揀真偽，二、開除釋疑。
 </div>
 <div class="english-translation">
-From the line **"If my disciples call themselves..."** onward is the **Fourth Part: Discriminating the False and Urging the True** (*Jiǎn wěi dūn zhēn*).<br>
+From the line **"If my disciples call themselves."** onward is the **Fourth Part: Discriminating the False and Urging the True** (*Jiǎn wěi dūn zhēn*).<br>
 If one is a Buddha’s disciple, one should naturally be able to believe and understand. If one does not believe and understand, one is not a true disciple and also not an arhat—this is to press the assembly of the time, causing them to believe, accept, and understand.<br>
 In terms of the text, it is divided into two: first, **discriminating the true and the false**; second, **opening an exception and resolving doubt**.
 </div>
 </div>
+*[Critical apparatus: [＊4-2] 揀【大】＊，簡【甲】＊; [＊4-3] 揀【大】＊，簡【甲】＊]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -309,6 +331,8 @@ The Tathāgata formerly spoke of the five corruptions and opened the three. You 
 Now that the five corruptions have already been removed, he speaks the One for your sake—why would you not hear and not know?
 </div>
 </div>
+*[Critical apparatus: [＊4-4] 揀【大】＊，簡【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -319,7 +343,7 @@ Now that the five corruptions have already been removed, he speaks the One for y
 **"Not Knowing":** Means not knowing the **One Action**.<br>
 "Not True [Arhat]" means not [knowing] **One Principle**.<br>
 "Not [Buddha] Disciple" means not [being part of] **One Person**.<br><br>
-Next, from **"Also, Śāriputra..."** onward, the second [subsection] clarifies that **not believing** becomes overweening pride—this is to press them so that they believe.<br>
+Next, from **"Also, Śāriputra."** onward, the second [subsection] clarifies that **not believing** becomes overweening pride—this is to press them so that they believe.<br>
 Why?<br>
 You yourself say you are in the **final body**, yet the body is still immeasurable—truly, it is not the final body.<br>
 You yourself say you are **ultimate**, yet there remain two hundred yojanas—truly, it is not ultimate.<br>
@@ -336,20 +360,24 @@ As for a **true arhat**: once the corruptions are removed and the roots are shar
 Believing is believing the teaching—this is **Teaching-One**. Being the Buddha’s disciple is **Person-One**.
 </div>
 </div>
+*[Critical apparatus: [5] 一【大】，一也【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
 「除佛滅」下，第二開除釋疑者，先開除，除佛滅後不成增上慢。次、「所以者何？佛滅」下，明好人難得、深經難解，亦不成上慢。若佛在世正說此經，不信不受非真羅漢成增上慢；若佛滅後方得羅漢者，偏執權經不信圓法，聽許非增上慢。又佛雖入滅此經尚在，不信、不受，應是上慢耶？即得開除，佛滅度後雖有此經，解其文義者，此人難遇，致令羅漢不信、不解，亦聽許非增上慢。次、釋疑。若佛滅後解經人難遇，得羅漢者即永[6]入涅槃耶？
 </div>
 <div class="english-translation">
-From **"Except after the Buddha’s extinction..."** onward is the second [subsection], **opening an exception and resolving doubt**.<br>
+From **"Except after the Buddha’s extinction."** onward is the second [subsection], **opening an exception and resolving doubt**.<br>
 First, he opens the exception: after the Buddha’s extinction, [their not believing] does not become overweening pride.<br>
-Next, from **"Why is this? After the Buddha’s extinction..."** onward, he clarifies that good people are hard to obtain and deep sūtras are hard to understand—this also does not constitute overweening pride.<br>
+Next, from **"Why is this? After the Buddha’s extinction."** onward, he clarifies that good people are hard to obtain and deep sūtras are hard to understand—this also does not constitute overweening pride.<br>
 If the Buddha is in the world and is directly preaching this sūtra, then not believing and not accepting means one is not a true arhat and becomes overweening pride. If, after the Buddha’s extinction, one only then attains arhatship: clinging one-sidedly to provisional sūtras and not believing the Perfect Dharma is permitted as **not** being overweening pride.<br>
 Moreover, though the Buddha has entered extinction, this sūtra still remains—if one does not believe and does not accept, should that be overweening pride? Here too he can open the exception: after the Buddha’s extinction, though this sūtra exists, those who can explain its words and meaning are hard to encounter; thus the arhat does not believe and does not understand, and it is again permitted as not being overweening pride.<br>
 Next, he resolves doubt: if after the Buddha’s extinction, those who can explain the sūtra are hard to meet, then will those who attain arhatship **enter nirvāṇa forever**?
 </div>
 </div>
+*[Critical apparatus: [6] 入【大】，應入【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -364,6 +392,10 @@ It then cites the *Lotus* and says: “If there is an arhat who has not heard th
 Since the treatise cites the sūtra as proof, here in explaining the sūtra we in turn use the treatise to interpret it.
 </div>
 </div>
+*[Critical apparatus: [1] 將【大】，用【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -386,13 +418,17 @@ This is simply a different interpretation; we do not use this meaning.
 「舍利弗」下，第五，明無虛妄者，止物謗心。此為三：初、勸信釋迦實說，故云：「汝等當一心信解、受持佛語。」次、勸信諸佛，故云：「諸佛言無虛妄」，諸佛道同，彌加信受。後結成不虛，故[2]云：「無[3]有餘乘，唯一佛乘」也。
 </div>
 <div class="english-translation">
-From **"Śāriputra..."** onward, the **Fifth** [meaning] clarifies **No Falsehood** (*Wú xūwàng*): it stops beings from harboring a mind of slander.<br>
+From **"Śāriputra."** onward, the **Fifth** [meaning] clarifies **No Falsehood** (*Wú xūwàng*): it stops beings from harboring a mind of slander.<br>
 This has three parts:<br>
 First, he exhorts faith that **Śākyamuni truly speaks**, hence it says: “You should single-mindedly believe and understand, and uphold the Buddha’s words.”<br>
 Second, he exhorts faith in **all Buddhas**, hence it says: “The Buddhas say there is no falsehood.” The Buddhas’ path is the same; all the more one should believe and accept.<br>
 Finally, he concludes it as not false; therefore it says: “There is no other vehicle—there is only the One Buddha Vehicle.”
 </div>
 </div>
+*[Critical apparatus: [2] 云【大】，言【甲】; [3] 有【大】，〔－〕【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -415,6 +451,8 @@ The “discriminating [the] assembly” is [set] as two: first, three and a half
 Overweening pride and self-pride, and not believing, are found throughout the fourfold assembly. Yet among the two monastic assemblies, many cultivate the path and attain meditative absorption and mistakenly claim the noble fruit—thus overweening pride tends to arise. Among the laity, many vaunt themselves and thus self-pride often arises. Women, having shallow wisdom, often give rise to deviant and perverse [views/behaviors].[^2]
 </div>
 </div>
+*[Critical apparatus: [＊4-5] 揀【大】＊，簡【甲】＊; [＊4-6] 揀【大】＊，簡【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -493,6 +531,10 @@ The presently-arisen hoping is called “thought”; the dharma-gates differing 
 The Buddha uses provisional wisdom to illuminate the various expedients, natures, and desires; then, by various causes and conditions and parables and similes, he preaches the nine-part sūtras according to what is appropriate—twelve parts as discussed in the *Fahua Xuanyi*. From “dull roots delight in small dharma” onward, one and a half lines, it concludes the intention of applying the provisional: the roots in past lives are dull, and in this life there is no capacity, so they cannot bear to hear the Great—therefore it says “they do not practice the deep and subtle path”; in past lives they were greedy and attached, with heavy obstacles; in this life they are troubled by the multitude of sufferings, and only can hear the small—therefore it says “for these I preach nirvāṇa.”
 </div>
 </div>
+*[Critical apparatus: [4] 我有方便下【大】，有【甲】; [5] 小【大】，少【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -506,6 +548,10 @@ From “In the ten directions Buddha-lands” onward, the third, one line and th
 From “Buddhas appear in the world; only this one matter is real” onward, the fourth, three lines and three phrases, verses the above: all that they do is always for one matter—this is the passage on **Action-One**. The “matter” is precisely action. “They never use the Small Vehicle to ferry sentient beings” is versing the above intention of “always for one great matter.” “The Buddha himself abides in the Great Vehicle; by this he ferries sentient beings” verses the above: only by the Buddha’s knowledge-and-vision does he show and awaken sentient beings. The final line explains the intention of not ferrying by the small.
 </div>
 </div>
+*[Critical apparatus: [1] 人【大】，上人【甲】]*
+
+
+
 
 ### 3. Exhorting Faith and Vow Fulfillment (CBETA 004:319–331)
 
@@ -516,9 +562,13 @@ From “Buddhas appear in the world; only this one matter is real” onward, the
 <div class="english-translation">
 From **“If persons believe and take refuge in the Buddha”** onward, the third [portion], four and a half lines, verses the above **exhortation to faith**; above it said: “You should believe what the Buddha has spoken.” Within the verse there are two: first, two and a half lines raise the **result** to exhort faith; second, from “Śāriputra” onward, two lines raise the **cause** to exhort faith.<br>
 Within raising the result: the first one and a half lines raise the inner mind. As for “if persons believe and take refuge in the Buddha, the Tathāgata does not deceive”: this clarifies that the Buddha’s mind is pure; ignorance, stinginess, defilement, and the multitude of evils have already been cut off; spoken from a pure mind, therefore it is believable. From “I adorn my body with marks” onward, one line, clarifies outer form: the body’s marks are blazing and manifest, with dignified radiance and color; within there is no dark delusion and without there is light—therefore the mouth has no deception, and he is honored by the assembly. When he speaks the Great Vehicle seal, it is believable and acceptable.<br>
-From “I originally established vows” onward, two lines, raise the cause to exhort faith; this too has two: first, from “I originally established the vow” onward, one line, raises the former vow; second, from “As I formerly...” onward, one line, clarifies the fulfillment of the vow. My former vow was not only a vow of my own bodhi; it also vowed that sentient beings together enter the Buddha’s wisdom. Now, repaying the vow, I speak—this too is believable. Now that bodhi is already fulfilled, sentient beings also enter; since you yourself have already realized the Buddha’s wisdom, you also verify that my vow is not false—thus it concludes “raising the cause to exhort faith.”
+From “I originally established vows” onward, two lines, raise the cause to exhort faith; this too has two: first, from “I originally established the vow” onward, one line, raises the former vow; second, from “As I formerly.” onward, one line, clarifies the fulfillment of the vow. My former vow was not only a vow of my own bodhi; it also vowed that sentient beings together enter the Buddha’s wisdom. Now, repaying the vow, I speak—this too is believable. Now that bodhi is already fulfilled, sentient beings also enter; since you yourself have already realized the Buddha’s wisdom, you also verify that my vow is not false—thus it concludes “raising the cause to exhort faith.”
 </div>
 </div>
+*[Critical apparatus: [2] 中【大】，中亦二內心外色【甲】; [3] 心【大】，心次一行舉外色【甲】; [4] 誓【大】，誓願【甲】]*
+
+
+
 
 #### Q&A: Is the Vow Fulfilled? (CBETA 004:325–331)
 
@@ -554,6 +604,10 @@ Above, the five corruptions were clarified as being after the Śākyamuni chapte
 This text has four: first, one line generally clarifies that the five corruptions obstruct the Great; second, six lines separately clarify that the five corruptions obstruct the Three; third, one line clarifies that because of the five corruptions one expediently speaks the Small; fourth, one and a half lines clarify that for the sake of the Great one speaks the Small—the Small cures the five corruptions and the great vow is able to arise.
 </div>
 </div>
+*[Critical apparatus: [5] 障【大】，障大【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -586,6 +640,8 @@ Again, in Fascicle Five it says: “The mind paints hell as black; ghosts as pig
 Answer: “Above it spoke of the five destinies’ fruit of retribution; now it speaks of the five destinies’ karma-creation; therefore they differ (etc.).”
 </div>
 </div>
+*[Critical apparatus: [＊2-2] 邪【大】＊，耶【甲】＊]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -609,6 +665,8 @@ Now [I] cause all living beings to obtain wondrous wisdom of real mark; embodyin
 I always speak like this, but living beings’ roots are dull and their offenses are heavy; it cannot be as wished.
 </div>
 </div>
+*[Critical apparatus: [6] 秖【大】，〔－〕【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -645,6 +703,10 @@ The subtle form when receiving the womb: form is the five aggregates; aggregates
 The *Receiving-the-Aggregate-Body Sūtra* says: “When an ordinary person receives a body: in the first seven [days] there is no transformation; in the second seven, there is the mark of arising like thin curd; in the third seven, like thick curd; in the fourth seven, like congealed ghee; in the fifth seven, like a lump; in the sixth seven, like a ball of flesh; in the seventh seven, from the ball of flesh five pustules arise—head, hands, feet, etc.; in the eighth seven, again five pustules: one head, two shoulders, two arms; in the ninth seven, twenty-four pustules arise in succession: four pustules make eyes, ears, nose, tongue; twenty pustules are the twenty fingers; the seventeen then turn and manifest the belly-form; gradually skin and bone separate and become various different marks; seven hundred sinews and seven thousand vessels arise; according to the marks needed, one wind dyes them—if one needs the white mark, the white wind dyes it; and so forth for the other winds as well. Because of fragrant wind, one is secure and upright; because of stinking wind, one is not secure—ugly and twisted. After emerging from the womb and eating the five grains, then eighty-thousand households of worms arise.”[^3]
 </div>
 </div>
+*[Critical apparatus: [1] 酥【大】，蘇【甲】; [2] 四【大】，疱【甲】; [3] 蟲【大】，虫【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -655,6 +717,8 @@ From **“Entering the dense forest of deviant views”** onward, the third [por
 The five views intersect and pile up like a dense, thick forest: “If there is” is the view of permanence; “if there is not” is the view of annihilation. From these two views arise sixty-two. Or it is said: the outsiders’ calculation of self has four phrases—form is self; apart from form is self; form is great and self is small, self abides in form; self is great and form is small, form abides in self. The other four aggregates are the same—this makes twenty. The three times make sixty; together with the root it makes sixty-two; or as described in the *Mahāprajñāpāramitā* (Dàpǐn).
 </div>
 </div>
+*[Critical apparatus: [＊2-3] 邪【大】＊，耶【甲】＊; [4] 或【大】，或云【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -672,7 +736,7 @@ As for “such people are hard to save”: because the five corruptions obstruct
 「是故舍利弗」下，第三，一行，即權為說小，如文。
 </div>
 <div class="english-translation">
-From **“Therefore, Śāriputra...”** onward, the third [portion], one line, is [the Buddha] provisionally speaking the Small, just as in the text.
+From **“Therefore, Śāriputra.”** onward, the third [portion], one line, is [the Buddha] provisionally speaking the Small, just as in the text.
 </div>
 </div>
 
@@ -706,10 +770,14 @@ The first two phrases first clarify that Śākyamuni first opened the Three; the
 從「過去無數[5]劫」下，第二二十七行半，頌上過去佛章，文為二：初二行頌開三，如文；「是諸世尊」下，第[A1]二有二十五行半，頌顯一，上文顯實兼有四一，今偈具頌。於中又二：初一行，略頌上三一，皆說一乘法，即是頌教一；化無量眾生，頌人一；令入於佛道即頌理一，兼得行一。
 </div>
 <div class="english-translation">
-From **“In the past, countless [5] kalpas”** onward, the second [subsection], twenty-seven and a half lines, verses the above “Past Buddhas” chapter. The text has two: first, two lines verse opening the Three, just as in the text; second, from “These World-Honored Ones...” onward, twenty-five and a half lines verse revealing the One. In the prose above, revealing the real also included the four ones; now the verse fully verses them.<br>
+From **“In the past, countless [5] kalpas”** onward, the second [subsection], twenty-seven and a half lines, verses the above “Past Buddhas” chapter. The text has two: first, two lines verse opening the Three, just as in the text; second, from “These World-Honored Ones.” onward, twenty-five and a half lines verse revealing the One. In the prose above, revealing the real also included the four ones; now the verse fully verses them.<br>
 Within it there are again two: first, one line briefly verses the above “three ones.” “All speak the One Vehicle Dharma” verses Teaching-One; “transform immeasurable living beings” verses Person-One; “cause [them] to enter the Buddha Way” verses Principle-One, and also includes Action-One.
 </div>
 </div>
+*[Critical apparatus: [5] 劫【大】，佛【甲】; [A1] 二【CB】，一【大】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -785,27 +853,35 @@ Lowering the head and raising the hand are like the first basket of earth that b
 Regarding this there are two: the first nineteen lines use human-and-deva small good as seeds of conditional cause to clarify revealing the real; the later one line uses seeds of discerning cause to clarify revealing the real—consulting the text, it can be understood.<br>
 The first nineteen lines are ten [items]: first, three and a half lines use stūpa-building to clarify the deva vehicle. At the time of cause, with utmost sincerity they pour out wealth and relinquish treasures; at the time of result, naturally and effortlessly they receive bliss—therefore it is the deva vehicle. As for “wood-mì”: in Chang’an there is a tree named mì; it can also be used to make images. The *Golden Light Sūtra* says: “Taking Buddha relics as small as a mustard seed and placing them in a small stūpa—within the Trāyastriṃśa Heaven there is already natural retribution.” This is its meaning.<br>
 Next, from “even children” onward, the [1] second: one line. A child playing with sand and making a stūpa is human karma. At the time of cause, one casually and at ease does wholesome [deeds]; at the time of result, one intentionally and diligently seeks and obtains bliss—therefore it is human karma.<br>
-Next, from “If someone, for the sake of the Buddha...” onward, the third: four lines. Using resolute sincerity in making Buddha images clarifies deva karma. The *Upāsaka-śīla Sūtra* does not permit using glue; one obtains the offense of negligent intention. Yet this sūtra uses it; [2] an ancient master says: “In foreign lands they use tree-resin.” Guangzhai says: “In some places one must, for the sake of an image, permit using ox-hide glue; if there are other things, then one must not use it.” Some say: “Soy-bean juice can replace glue and be pure.” Yet ox-[3] hide is ultimately an impure thing, and afterward one obtains an impure retribution. Impure money is not fit to make images; one can exchange it for pure money in accord with the Dharma and make images. The *Bodhisattvabhūmi* does not use realgar and stinking substances. The “Precepts Sūtra” does not permit making half-body images; one obtains the offense of negligent intention. If a wholesome mark does not arise, [4] one falls into saṃsāra. Yet in making images, each has what it models: if it is the Buddha of the main hall, it must sit; a “message Buddha” may sit or recline; a “moving Buddha” must stand. Further, disciples within stūpa-halls and image-halls must not sit before standing images—because this place definitely belongs to the Buddha. If a layperson sits in other places, and cannot long stand before the image, if he asks to sit he is permitted; but in front of a standing image he must not sit (etc.).<br>
+Next, from “If someone, for the sake of the Buddha.” onward, the third: four lines. Using resolute sincerity in making Buddha images clarifies deva karma. The *Upāsaka-śīla Sūtra* does not permit using glue; one obtains the offense of negligent intention. Yet this sūtra uses it; [2] an ancient master says: “In foreign lands they use tree-resin.” Guangzhai says: “In some places one must, for the sake of an image, permit using ox-hide glue; if there are other things, then one must not use it.” Some say: “Soy-bean juice can replace glue and be pure.” Yet ox-[3] hide is ultimately an impure thing, and afterward one obtains an impure retribution. Impure money is not fit to make images; one can exchange it for pure money in accord with the Dharma and make images. The *Bodhisattvabhūmi* does not use realgar and stinking substances. The “Precepts Sūtra” does not permit making half-body images; one obtains the offense of negligent intention. If a wholesome mark does not arise, [4] one falls into saṃsāra. Yet in making images, each has what it models: if it is the Buddha of the main hall, it must sit; a “message Buddha” may sit or recline; a “moving Buddha” must stand. Further, disciples within stūpa-halls and image-halls must not sit before standing images—because this place definitely belongs to the Buddha. If a layperson sits in other places, and cannot long stand before the image, if he asks to sit he is permitted; but in front of a standing image he must not sit (etc.).<br>
 Next, from “even children” onward, the fourth: one line clarifies human karma. Next, from “such persons” onward, the fifth: one and a half lines conclude and form revealing the real. Such persons all become Person-One; gradually accumulating merit and fully possessing the mind of great compassion then becomes Action-One; the Buddha Way then becomes Principle-One; having already become Buddhas they again can [complete] the Four Ones, only transforming bodhisattvas—this is Teaching-One (etc.).<br>
-Next, from “If a person, in stūpa-shrines...” onward, the sixth: three and a half lines. Using various dusty offerings clarifies deva karma. As for “copper cymbals”: the people of Chang’an call a dew-[5] tray a copper cymbal; because in that place [the translator] was translating sūtras, he used that name.<br>
+Next, from “If a person, in stūpa-shrines.” onward, the sixth: three and a half lines. Using various dusty offerings clarifies deva karma. As for “copper cymbals”: the people of Chang’an call a dew-[5] tray a copper cymbal; because in that place [the translator] was translating sūtras, he used that name.<br>
 Next, from “If a person is scattered” onward, the seventh: one line. Using offerings with scattered mind clarifies human karma. Next, from “Or someone bows” onward, the eighth: one line. Using bodily-karma offering clarifies human-and-deva karma. In the phrase “bowing”: with five limbs touching the ground is the highest bow and is deva karma; joining palms and lowering the head is the middle bow and is human karma.<br>
 Next, from “By these offerings” onward, the ninth: one and a half lines conclude and form [it]. Not only does revealing the real itself complete the Buddha Way, it also can open the provisional: when firewood is exhausted, nirvāṇa [is reached] (etc.).<br>
-Next, from “If a person is scattered...” onward, the tenth: one line. Using verbal karma: by analogy with the above it should include human-and-deva karma; now it only brings out human karma (etc.).<br><br>
-“Namo” has great meaning. Some say: “Save me, save me—this can be applied to living beings.” If the Buddha answered: “The Buddhas save me,” the meaning would not be fitting. The *Five Precepts Sūtra* calls it “frightened”; “frightened” is precisely something that can be applied to the Buddha. The dangers of birth-and-death are indeed frightening; the Great cannot save them, and now, along with the Buddhas, [we] use the Small to aid them. Applying “frightened” to the Buddha is fitting; therefore the text says: “Joyfully称 ‘Namo Buddha.’” “Joy” means rejoicing in having obtained the manner of saving beings. The *Five Precepts Sūtra* also says: “Taking refuge in life—this is entirely applied to living beings.” Devadatta, at death, uttered “Namo.” Before he could utter “Buddha,” he fell into hell. The Buddha predicted that when he emerges from hell he will become a pratyekabuddha, named Namo.<br>
+Next, from “If a person is scattered.” onward, the tenth: one line. Using verbal karma: by analogy with the above it should include human-and-deva karma; now it only brings out human karma (etc.).<br><br>
+“Namo” has great meaning. Some say: “Save me, save me—this can be applied to living beings.” If the Buddha answered: “The Buddhas save me,” the meaning would not be fitting. The *Five Precepts Sūtra* calls it “frightened”; “frightened” is precisely something that can be applied to the Buddha. The dangers of birth-and-death are indeed frightening; the Great cannot save them, and now, along with the Buddhas, [we] use the Small to aid them. Applying “frightened” to the Buddha is fitting; therefore the text says: “Joyfully say ‘Namo Buddha.’” “Joy” means rejoicing in having obtained the manner of saving beings. The *Five Precepts Sūtra* also says: “Taking refuge in life—this is entirely applied to living beings.” Devadatta, at death, uttered “Namo.” Before he could utter “Buddha,” he fell into hell. The Buddha predicted that when he emerges from hell he will become a pratyekabuddha, named Namo.<br>
 As for foreign lands serving a deva image: they take gold and make the image’s head. A thief comes and steals it; he cannot get it, and then says: “Namo Buddha!” and immediately obtains the head. The next day the people gather and say: “The deva image has lost its head; it must be that a no-deva has come to possess it. How could a possessor lose his head?” The deva then descends, as one person, and says: “When the thief came to take the head, he said: ‘Namo Buddha!’ and all the devas were alarmed; therefore he obtained me—therefore I lost my head.” The people say: “Is the deva not equal to the Buddha? If it is not equal, why do we not now serve the Buddha?” If even a thief saying “Namo Buddha” can obtain a deva head, how much more can a worthy person saying “Namo Buddha”! The honored spirits of the ten directions do not dare withstand it—only be diligent and do not be lax.<br>
 The *Nāgasena Sūtra* says: “When a person at death says ‘Namo Buddha,’ he can avoid the mud-plough [hell]. Why? It is like a person holding one stone and placing it in water: the stone certainly sinks, with no doubt. If one can hold a hundred stones and place them on a boat, they certainly do not sink. If one dies directly, one certainly enters the mud-plough, like a stone placed in water. If, at death, one says ‘Namo Buddha,’ by Buddha-power he is caused not to enter the mud-plough—by boat-power the stones do not sink (etc.).” The *Embryo Sūtra* and the *Repaying Kindness Sūtra* say: “In the Huálín Garden’s third great assembly, the 9.2 billion persons are those in Śākyamuni’s leftover Dharma, who by one utterance of ‘Namo Buddha’ are able to see Maitreya.”
 </div>
 </div>
+*[Critical apparatus: [1] 二【大】，六【甲】; [2] 古【大】，古時【甲】; [3] 皮【大】，膠【甲】; [4] 墮【大】，隨【甲】; [5] 盤【大】，槃【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
 [6]次「於諸過去佛」下，第二，有一行，明了因種子，若例上皆有相、無相、非有相非無相、至心、散心等五乘種子，今皆開入一實(云云)。至心聞一句，是天業，散心聞一句，是人業(云云)。
 </div>
 <div class="english-translation">
-[6] Next, from **“Regarding all past Buddhas...”** onward, the second [portion], one line, clarifies seeds of the discerning cause. If, by analogy with the above, it should include seeds of the five vehicles—having marks, without marks, neither having-marks nor without-marks, utmost sincerity, scattered mind, etc.—now all are opened and enter the One Real (etc.).<br>
+[6] Next, from **“Regarding all past Buddhas.”** onward, the second [portion], one line, clarifies seeds of the discerning cause. If, by analogy with the above, it should include seeds of the five vehicles—having marks, without marks, neither having-marks nor without-marks, utmost sincerity, scattered mind, etc.—now all are opened and enter the One Real (etc.).<br>
 Utmost sincerity hearing one phrase is deva karma; scattered mind hearing one phrase is human karma (etc.).
 </div>
 </div>
+*[Critical apparatus: [6] 次【大】，〔－〕【甲】]*
+
+
+
 
 #### Q&A: Why Elaborate the Five Vehicles in the “Past Buddhas” Gate? (CBETA 004:374–380)
 
@@ -826,6 +902,10 @@ Utmost sincerity hearing one phrase is deva karma; scattered mind hearing one ph
 **Answer:** The Buddhas of the Three Times all have opening the provisional. Yet the future has not yet arisen and the present has only just begun; therefore, regarding the meaning to be proven, it is weak. In the past, opening the provisional has already been long; the persons who received transformation all became the Four Ones, and throughout the ten directions they apply the provisional and reveal the real—thus, in terms of the proven meaning, the matter is strong. Constructing it as empty words is not as good as verifying it through the real; therefore, for the past Buddhas, it extensively speaks the Five Vehicles.[^4]
 </div>
 </div>
+*[Critical apparatus: [7] 也【大】，〔－〕【甲】]*
+
+
+
 
 ---
 
@@ -871,15 +951,19 @@ Orally, the old [scheme] made five parables: (1) the elder parable; (2) the “t
 瑤師云：「〈方便品〉中從『諸佛隨宜所說』，竟長行，正顯一乘真實。凡有四章：一者、開昔四三，成今四一；二、以五濁故，不得說一乘；三、從『若我弟子自謂』下，明不得者；四、從『汝當一心信解』下，明不虛妄。始末言異，以意求之皆實也。下火宅中，但譬〈方便品〉內三章：從『譬如』下，竟『願時賜與』，是第一譬五濁章；從『各賜諸子等一大車』，竟『得未曾有』，是第二譬真實章；從『是長者等賜諸子』，竟『寧有虛妄不』，是第三譬不虛妄章。」玄暢師云六譬：「一、宅中眾災之相；二、覺者唯佛起一乘念；三、眾生不受，為說怖畏之事；四；說三乘樂；五；還說一乘教；六結不虛妄也。」[1]龍師云六譬：「一、舍宅父子，譬佛王三界化眾生也；二、長者見火，譬我以佛眼觀見六道眾生也；三、長者救火，譬佛三七欲度眾生不得用大也；四、長者方便誘以三車，譬佛設三乘教也；五、長者賜一大車，譬說妙法華；六、不虛妄譬也。」火宅十譬：一、「今我亦如是」二行，總頌上權實，為下總譬作本；二、「舍利弗當知」四行，頌上五濁，為下見火譬本；三、「我始坐道場」六行半，明大乘化不得，為下救子不得譬本；四、「尋念過去佛」十一行，明三乘化得，為下救子得譬本；五「我見佛子等」一行，明大機發，為下見子免難譬本；六、「咸以恭敬心」一行，明三乘索果，為下諸子索車譬本；七、「我即作是念」二行一句，明如來歡喜，為下長者歡喜譬本；八、「於諸菩薩前」三句，明為說大乘，為下等賜大車譬本；九、「菩薩聞是法」一行，明眾生歡喜，為下諸子得車歡喜譬本；十、「汝等勿有疑」一行半，明佛無虛妄，為下長者不虛譬本也。有人評之，若以句判應有十九句，若以義判則有六義：一、總，二、見火，三、一乘化不得，四、三乘化得，五、還說一乘，六、不虛，自餘攝入六義之內。又十譬則法譬參差，法說中索車在前、父喜在後；譬說中父喜在前、索車在後，雖欲會通，終成迂迴。又大小相違，法說見大機動故喜，譬說見小緣免難故喜；法說明大因，譬說敘小果；法說大障將傾，譬說小難已離，義勢乖各。又有無異故，法說中敘上根易悟，故無索車；譬說明中根猶惑，故有索車。若引恭敬為索車者，殊不體文意，今無此四失。然有無者，長行有五：一、開三，二、顯一，三、五濁，四、真偽，五、不虛。偈亦五，但長行有真偽，偈則無；偈有歎法，長行則無，[2]互現耳。次第者，長行先開三、後顯一；偈先顯一、後開三。開合者，開三顯一，為總譬本，二偈合而不開；次離五濁文，為四譬之本，開而不合。不虛為不虛譬本，不合不開。明取捨，四段經文為六譬之本，取而不捨；歎法一章非六譬，故捨而不取。論總別，初開三顯一，總敘釋迦一化教門；從五濁去，皆屬別譬也。次本迹者，總敘佛教總含本迹，從五濁去別明本迹。五濁一章正明居法身本，見眾生苦起大悲；從一乘化不得者，垂迹(云云)。今謂迹門大意，正是開三顯一，前直法說上根即悟解，中、下未悟更為作譬，譬於三一令得曉了。前法說中既略廣開三顯一，後譬說中亦應略廣許三賜一，因緣中亦應引三入一，若作三譬、六譬、十譬，於三周之文不合，於四人信解乖離，是所不用。
 </div>
 <div class="english-translation">
-Master Yáo says: “In the *Expedient Means* chapter, from ‘what the Buddhas preach according to what is appropriate’ up to the end of the prose, it directly reveals the One Vehicle’s reality. In general there are four parts: (1) opening the former four-threes and completing the present four-ones; (2) because of the five corruptions, one cannot speak the One Vehicle; (3) from ‘If my disciples call themselves...’ onward, clarifying those who cannot [accept it]; (4) from ‘You should single-mindedly believe and understand’ onward, clarifying not-falsehood. The beginning and end speak differently; seeking it by meaning, all are real. In the parable of the burning house below, it only parables three parts within the *Expedient Means* chapter: from ‘For example...’ up to ‘at the time of vow, bestow,’ this is the first parable, the five-corruptions part; from ‘bestow on all the children one great cart’ up to ‘obtaining what they never had,’ this is the second parable, the true-real part; from ‘the elder bestows on the children’ up to ‘how could there be falsehood?,’ this is the third parable, the not-falsehood part.”<br><br>
+Master Yáo says: “In the *Expedient Means* chapter, from ‘what the Buddhas preach according to what is appropriate’ up to the end of the prose, it directly reveals the One Vehicle’s reality. In general there are four parts: (1) opening the former four-threes and completing the present four-ones; (2) because of the five corruptions, one cannot speak the One Vehicle; (3) from ‘If my disciples call themselves.’ onward, clarifying those who cannot [accept it]; (4) from ‘You should single-mindedly believe and understand’ onward, clarifying not-falsehood. The beginning and end speak differently; seeking it by meaning, all are real. In the parable of the burning house below, it only parables three parts within the *Expedient Means* chapter: from ‘For example.’ up to ‘at the time of vow, bestow,’ this is the first parable, the five-corruptions part; from ‘bestow on all the children one great cart’ up to ‘obtaining what they never had,’ this is the second parable, the true-real part; from ‘the elder bestows on the children’ up to ‘how could there be falsehood?,’ this is the third parable, the not-falsehood part.”<br><br>
 Master Xuánchàng says there are six parables: “(1) the marks of many calamities within the house; (2) the awakened one, only the Buddha, gives rise to the thought of One Vehicle; (3) living beings do not accept, therefore he speaks of fearful matters; (4) he speaks of the pleasures of the three vehicles; (5) he again speaks the One Vehicle teaching; (6) he concludes not-falsehood.”<br><br>
 [1] Master Lóng says there are six parables: “(1) house and father-and-son: parabling the Buddha King transforming living beings in the three realms; (2) the elder sees the fire: parabling ‘I use the Buddha-eye to see the living beings of the six destinies’; (3) the elder rescues from the fire: parabling that for three periods of seven the Buddha wanted to deliver living beings but could not use the Great; (4) the elder expediently lures with three carts: parabling the Buddha setting up the three-vehicle teaching; (5) the elder bestows one great cart: parabling preaching the *Lotus*; (6) the not-falsehood parable.”<br><br>
-The burning-house has ten parables: (1) “Now I too am thus,” two lines, generally versing the above provisional/real, making the basis for the overall parable below; (2) “Śāriputra, you should know,” four lines, versing the above five corruptions, making the basis for the “seeing fire” parable below; (3) “I first sat at the place of enlightenment,” six and a half lines, clarifying that transforming by the Great Vehicle does not succeed, making the basis for the “unable to save the children” parable below; (4) “Seeking and recollecting the past Buddhas,” eleven lines, clarifying that transforming by the three vehicles succeeds, making the basis for the “able to save the children” parable below; (5) “I see Buddha-sons...” one line, clarifying the arising of the Great capacity, making the basis for the “seeing the children escape danger” parable below; (6) “all with reverent mind,” one line, clarifying the three vehicles’ seeking fruit, making the basis for the “children seek carts” parable below; (7) “I then made this thought,” two lines and one phrase, clarifying the Tathāgata’s joy, making the basis for the “elder rejoices” parable below; (8) “before the bodhisattvas,” three phrases, clarifying preaching the Great Vehicle, making the basis for the “equally bestowing the great cart” parable below; (9) “bodhisattvas hear this Dharma,” one line, clarifying living beings’ joy, making the basis for the “children obtain the cart and rejoice” parable below; (10) “You must not have doubts,” one and a half lines, clarifying the Buddha has no falsehood, making the basis for the “elder not false” parable below.<br><br>
+The burning-house has ten parables: (1) “Now I too am thus,” two lines, generally versing the above provisional/real, making the basis for the overall parable below; (2) “Śāriputra, you should know,” four lines, versing the above five corruptions, making the basis for the “seeing fire” parable below; (3) “I first sat at the place of enlightenment,” six and a half lines, clarifying that transforming by the Great Vehicle does not succeed, making the basis for the “unable to save the children” parable below; (4) “Seeking and recollecting the past Buddhas,” eleven lines, clarifying that transforming by the three vehicles succeeds, making the basis for the “able to save the children” parable below; (5) “I see Buddha-sons.” one line, clarifying the arising of the Great capacity, making the basis for the “seeing the children escape danger” parable below; (6) “all with reverent mind,” one line, clarifying the three vehicles’ seeking fruit, making the basis for the “children seek carts” parable below; (7) “I then made this thought,” two lines and one phrase, clarifying the Tathāgata’s joy, making the basis for the “elder rejoices” parable below; (8) “before the bodhisattvas,” three phrases, clarifying preaching the Great Vehicle, making the basis for the “equally bestowing the great cart” parable below; (9) “bodhisattvas hear this Dharma,” one line, clarifying living beings’ joy, making the basis for the “children obtain the cart and rejoice” parable below; (10) “You must not have doubts,” one and a half lines, clarifying the Buddha has no falsehood, making the basis for the “elder not false” parable below.<br><br>
 Someone evaluates this: if judged by phrases, it should have nineteen phrases; if judged by meaning, it has six meanings: (1) overall; (2) seeing fire; (3) One Vehicle transforming does not succeed; (4) three vehicles transforming succeeds; (5) again speaking the One Vehicle; (6) not false—everything else is included within these six meanings. Further, with ten parables, the Dharma-parable is uneven: in Dharma-teaching, seeking carts comes first and the father’s joy comes after; in parable-teaching, the father’s joy comes first and seeking carts comes after. Though one may want to reconcile them, in the end it becomes circuitous. Further, great and small conflict: Dharma-teaching rejoices because it sees the Great capacity move; parable-teaching rejoices because it sees the small condition escape danger. Dharma-teaching clarifies the Great cause; parable-teaching narrates the small fruit. Dharma-teaching shows the Great obstruction about to collapse; parable-teaching shows the small difficulty already departed—meanings and forces diverge. Further, because of difference in having and not-having: in Dharma-teaching it narrates upper-roots easily awakening, therefore there is no “seeking carts”; parable-teaching clarifies middle-roots still confused, therefore there is “seeking carts.” If one takes “reverent mind” as “seeking carts,” it is wholly not embodying the text’s meaning; now there are not these four failures.<br><br>
 Yet regarding having and not-having: the prose has five: (1) opening the Three; (2) revealing the One; (3) five corruptions; (4) true/false; (5) not false. The verse also has five, but the prose has true/false while the verse does not; the verse has praising Dharma while the prose does not—[2] they mutually manifest. As for sequence: prose first opens the Three and later reveals the One; verse first reveals the One and later opens the Three. As for opening and combining: opening the Three and revealing the One are the basis of the overall parable; the two verses combine but do not open. Next, separating out the five-corruptions text makes the basis of the four parables; it opens but does not combine. Not-falsehood is the basis of the not-falsehood parable; it neither combines nor opens. Clarifying taking and discarding: the four segments of the sūtra text are the basis of the six parables—taken and not discarded; the “praising Dharma” section is not among the six parables, therefore it is discarded and not taken. Discussing overall vs. particular: opening the Three and revealing the One generally narrates the gate of Śākyamuni’s one transformation-teaching; from the five-corruptions onward all belong to the particular parables. Next, regarding fundamental and trace: the overall narration of the Buddha’s teaching generally includes fundamental and trace; from the five-corruptions onward it separately clarifies fundamental and trace. The five-corruptions section directly clarifies abiding in the fundamental of the dharmakāya, seeing beings’ suffering and arousing great compassion; from “One Vehicle transforming does not succeed” onward is lowering trace (etc.).<br><br>
 Now I say: the great intent of the Trace Gate is precisely opening the Three and revealing the One. Earlier, direct Dharma-teaching: the upper-roots immediately awaken and understand; the middle and lower have not yet awakened, therefore again a parable is made, parabling the Three and One so that they understand. Since earlier in Dharma-teaching the Three are opened and the One revealed in both brief and broad ways, later in parable-teaching it should likewise, in brief and broad ways, permit bestowing the Three and granting the One; in the Causes-and-Conditions [week] it should likewise lead the Three into the One. If one makes three parables, six parables, or ten parables, it does not fit the text of the Three Weeks, and it diverges from the four persons’ faith and understanding—therefore it is not used.
 </div>
 </div>
+*[Critical apparatus: [1] 龍【大】，籠【甲】; [2] 互【大】，更互【甲】]*
+
+
+
 
 ---
 
@@ -911,7 +995,7 @@ As for “secure/at ease” (*ān-yǐn*): it is the dwelling-place of the Great 
 
 <div class="bilingual-row">
 <div class="chinese-source">
-又安隱者，即是安隱法，還對不安隱法，不安隱法即五濁法也，為下火起譬作本；「種種法門」即對不種種，為下唯一門譬作本；「知眾生性欲」者，即是五道根性有三乘差別，為下三十子譬作本。
+又安隱者，即是安隱法，還對不安隱法，不安隱法即五濁法也，為下火起譬作本；「種種法門」即對不種種，為下唯有一門譬作本；「知眾生性欲」者，即是五道根性有三乘差別，為下三十子譬作本。
 </div>
 <div class="english-translation">
 Further, “secure/at ease” is the “Dharma of being secure/at ease,” and in turn stands opposite the “Dharma of not being secure/at ease.” The Dharma of not being secure/at ease is precisely the Dharma of the five turbidities; it serves as the basis for the parable below of the fire arising.<br>
@@ -927,12 +1011,15 @@ Further, “secure/at ease” is the “Dharma of being secure/at ease,” and i
 <div class="english-translation">
 Looking upward, it is a “brief summary-verse”; looking downward, it is the basis of the overall parable. Root and branch ([1]) mutually carry and follow one another; text and meaning are fully complete. Within the parable, one should further cite the above to prove the below (etc.).<br>
 Within the “broad versing” of the above six meanings, the text is divided into four, as the basis for the particular parables below:<br>
-(1) From “I use the Buddha-eye to observe...” onward, four lines: broadly versing the above five turbidities, as the basis of the “seeing the fire” parable below.[2]<br>
-(2) From “When I[3] first sat at the place of enlightenment...” onward, seventeen and a half lines: broadly versing the above “within the One, opening the Three,” as the basis for the “setting aside the great and bestowing the small” parable below.[4]<br>
-(3) From “I see the Buddha-children...” onward, six lines: broadly versing the above revealing of the real, as the basis for the parable below of equally bestowing the great cart.<br>
-(4) From “Like the Buddhas of the three times...” onward, five and a half lines: broadly versing the above praise of the Dharma as rare; next, two and a half lines directly verse the above “not false”; next, six lines verse the above “pressing faith.” These three intents together serve as the basis for the “not-false” parable below; and one specifically uses the two and a half lines versing “not false” as the basis for the “not-false” parable below.
+(1) From “I use the Buddha-eye to observe.” onward, four lines: broadly versing the above five turbidities, as the basis of the “seeing the fire” parable below.[2]<br>
+(2) From “When I[3] first sat at the place of enlightenment.” onward, seventeen and a half lines: broadly versing the above “within the One, opening the Three,” as the basis for the “setting aside the great and bestowing the small” parable below.[4]<br>
+(3) From “I see the Buddha-children.” onward, six lines: broadly versing the above revealing of the real, as the basis for the parable below of equally bestowing the great cart.<br>
+(4) From “Like the Buddhas of the three times.” onward, five and a half lines: broadly versing the above praise of the Dharma as rare; next, two and a half lines directly verse the above “not false”; next, six lines verse the above “pressing faith.” These three intents together serve as the basis for the “not-false” parable below; and one specifically uses the two and a half lines versing “not false” as the basis for the “not-false” parable below.
 </div>
 </div>
+*[Critical apparatus: [1] 末【大】，未【甲】; [2] 本【大】，作本【甲】; [3] 始【大】，〔－〕【甲】; [4] 大【大】，大寢【甲】]*
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -945,15 +1032,17 @@ Second, from “living beings in the six paths” onward—two lines, three phra
 Third, from “for the sake of these living beings” onward—half a line: it clarifies the arousing of great compassion, serving as the basis for the later parable of the elder rushing in, alarmed, into the burning house.
 </div>
 </div>
+*[Critical apparatus: [A2] 派【CB】，泒【大】(cf. X29n0597_p0528c03); [5] 觀【大】，〔－〕【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
 二、「我始坐」下，若頌開三者更開二意：初有六行半，念用大乘化不得，為下身手有力而不用之寢大譬作本；次「尋念過去」下有十一行，念同諸佛三乘化，為後設三車施小譬作本。
 </div>
 <div class="english-translation">
-Second, under “When I first sat...” if one is versing “opening the Three,” it further opens two intents:<br>
+Second, under “When I first sat.” if one is versing “opening the Three,” it further opens two intents:<br>
 First, six and a half lines: he thinks to use the Great Vehicle to transform, but cannot succeed; this serves as the basis for the parable below of “having strength in body and hands but not using it”—setting aside the great.<br>
-Next, from “Then I thought of past Buddhas...” onward, eleven lines: he thinks to be the same as the Buddhas in transforming by the Three Vehicles; this serves as the basis for the later parable of establishing the three carts and bestowing the small.
+Next, from “Then I thought of past Buddhas.” onward, eleven lines: he thinks to be the same as the Buddhas in transforming by the Three Vehicles; this serves as the basis for the later parable of establishing the three carts and bestowing the small.
 </div>
 </div>
 
@@ -963,13 +1052,15 @@ Next, from “Then I thought of past Buddhas...” onward, eleven lines: he thin
 </div>
 <div class="english-translation">
 Third, within the part that verses the above revealing of the real, it further opens four intents:<br>
-First, under “Śāriputra, you should know; I see Buddha-children...” two lines: it clarifies that the Great Vehicle capacity is stirred; it serves as the basis for the later parable of “seeking carts.”<br>
-Next, under “I then had this thought...” the second, two lines and one phrase: it clarifies the Buddha’s joy; it serves as the basis for the later parable of “seeing the children escape difficulty.”<br>
-Next, under “Before the bodhisattvas...” the third, three phrases: it directly reveals the real; it serves as the basis for the later parable of equally bestowing the one great cart.<br>
-Next, under “Bodhisattvas, hearing this...” the fourth, one line: it clarifies receiving, practicing, awakening, and entering; it serves as the basis for the later parable of the children[6] obtaining the one great cart and rejoicing.<br>
+First, under “Śāriputra, you should know; I see Buddha-children.” two lines: it clarifies that the Great Vehicle capacity is stirred; it serves as the basis for the later parable of “seeking carts.”<br>
+Next, under “I then had this thought.” the second, two lines and one phrase: it clarifies the Buddha’s joy; it serves as the basis for the later parable of “seeing the children escape difficulty.”<br>
+Next, under “Before the bodhisattvas.” the third, three phrases: it directly reveals the real; it serves as the basis for the later parable of equally bestowing the one great cart.<br>
+Next, under “Bodhisattvas, hearing this.” the fourth, one line: it clarifies receiving, practicing, awakening, and entering; it serves as the basis for the later parable of the children[6] obtaining the one great cart and rejoicing.<br>
 The “not false” that is versed above directly serves as the basis for the “not-false” parable below, and therefore it does not discuss “opening” here.
 </div>
 </div>
+*[Critical apparatus: [6] 得【大】，同【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -978,7 +1069,7 @@ The “not false” that is versed above directly serves as the basis for the �
 <div class="english-translation">
 Further, at one time one can broadly open it as three parables:<br>
 First, the two lines “Now I too am thus”: combined and not separated—serving as the basis for the overall parable below.<br>
-Second, from “I use the Buddha-eye to observe...” onward: separated and not combined—serving as the basis for the particular parables below.<br>
+Second, from “I use the Buddha-eye to observe.” onward: separated and not combined—serving as the basis for the particular parables below.<br>
 Third, the not-false parable: neither separated nor combined—serving as the basis for the not-false parable.<br>
 If one carries on the “brief and broad” two versings that connect root-above to branch-below, then throughout the Three Cycles and within the Faith-and-Understanding [chapter], both text and meaning are entirely not lacking. If, by contrast, one takes the “broad versing” and further opens four intents to verse the above four meanings, as the basis for the four parables below, this too passes through the Three Cycles and within Faith-and-Understanding, with text and meaning not lacking. If one further subdivides: opening the versing of the five turbidities into three; opening the versing of expedients into two; opening the versing of revealing the real into four; and within “not false” there is only one—combining to make ten intents, as the basis for the ten parables below. Yet these ten intents exist only within the two cycles of Dharma-teaching and parable-teaching; within Faith-and-Understanding and Causes-and-Conditions, the text is then lacking. Therefore, making the three-section opening of the chapter that carries root-above to branch-below is not done pointlessly and at random.
 </div>
@@ -996,6 +1087,8 @@ As for “secure/at ease”: the secret treasury of nirvāṇa is the “secure/
 Though the two verses are brief, they gather in the Buddha’s single teaching-transformation of opening the provisional and revealing the real—[7] from origin to completion nothing is left unexhausted. Therefore it is called a “brief summary,” and is taken as the basis of the overall parable below.
 </div>
 </div>
+*[Critical apparatus: [7] 原【大】，元【甲】]*
+
 
 ---
 
@@ -1006,10 +1099,14 @@ Though the two verses are brief, they gather in the Buddha’s single teaching-t
 二、從「我以佛眼觀」下，四十一行半，廣頌上六義。舊以最後七行，是法說流通，今不用，[8]用頌歎法敦信耳。
 </div>
 <div class="english-translation">
-Second: from “I use the Buddha-eye to observe...” onward, there are forty-one and a half lines—broadly versing the above six meanings.<br>
+Second: from “I use the Buddha-eye to observe.” onward, there are forty-one and a half lines—broadly versing the above six meanings.<br>
 In the old [scheme], the final seven lines were taken as the Dharma-teaching’s “circulation” (the concluding dissemination); here they are not used—[8] one uses only the verses praising the Dharma to press faith.
 </div>
 </div>
+*[Critical apparatus: [8] 用【大】，之【甲】]*
+
+
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1061,6 +1158,8 @@ If there were no five destinies, no five aggregates, and no six sense-faculties,
 Abhidharma, in the seventh fascicle of the *Vibhāṣā*, says: “When a person in hell is first born, they think: In the past I heard a śramaṇa say that craving/desire is the fault and evil of hell, a greatly fearsome place. I formerly did not cut off craving/desire; now I undergo this fierce torment.” This raises craving/desire as the cause of hell.[^6]
 </div>
 </div>
+*[Critical apparatus: [1] 曜【大】，耀【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1071,6 +1170,8 @@ It also says: “The five paths each have their own natural laws: in hell, form 
 In hell, [beings] accomplish the afflictive karma and wholesome [karma] of the Paranirmita-vaśavartin Heaven, yet it does not manifest as present activity. Paranirmita-vaśavartin accomplishes hell’s afflictive karma and unwholesome [karma], yet it does not manifest as present activity. By raising the highest and raising the lowest, the middle can be known.
 </div>
 </div>
+*[Critical apparatus: [2] 在【大】，在天【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1083,6 +1184,8 @@ The prison guards are transformations made for [beings] to see; they are not cou
 At the beginning of the kalpa, all understood the noble language; later, because food and drink differed, with a flattering mind their speech all [5]changed—or they were no longer able to speak.
 </div>
 </div>
+*[Critical apparatus: [3] 胡【大】＊，梵【甲】＊; [4] 味【大】，無味【甲】; [5] 變【大】，反【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1096,6 +1199,8 @@ As for “devas”: because their naturalness and spontaneity are superior—sup
 The former is an explanation of the six destinies by causes-and-conditions; the latter resembles an explanation of the six destinies by contemplation-of-mind. Under “for the sake of these living beings,” the third [part], half a line, clarifies arousing great compassion. As for “and arousing a great compassionate mind”: above he raised the one able to see; next he clarified what is seen; now he clarifies great compassion perfuming the mind—one should enter the Three Realms and establish expedients, leading them toward Buddha-wisdom.[6]
 </div>
 </div>
+*[Critical apparatus: [＊3-1] 胡【大】＊，梵【甲】＊; [＊3-2] 胡【大】＊，梵【甲】＊; [6] 不分卷【甲】]*
+
 
 <div class="bilingual-row">
 <div class="chinese-source">
@@ -1115,7 +1220,7 @@ The former is an explanation of the six destinies by causes-and-conditions; the 
 
 [^1]: **Single Three / Single Five; Containing Two / Containing Three:** Tiantai categories of provisional teachings. "Single Five/Single Three" are standalone Human-Heaven or Tripiṭaka vehicles; "Containing Two/Containing Three" are shared (common) or distinct teachings that carry Śrāvaka/Pratyekabuddha tracks within a broader schema. Zhiyi uses them to explain how expedients diversify within the One Vehicle.
 
-[^2]: **Translator’s Note (Gendered Claim in the Source):** The statement “women, having shallow wisdom...” is translated as written. It reflects a common medieval polemical trope in Chinese Buddhist exegetical literature and is not endorsed as an evaluative claim.
+[^2]: **Translator’s Note (Gendered Claim in the Source):** The statement “women, having shallow wisdom.” is translated as written. It reflects a common medieval polemical trope in Chinese Buddhist exegetical literature and is not endorsed as an evaluative claim.
 
 [^3]: **受陰身經 (Receiving-the-Aggregate-Body Sūtra):** A Buddhist scripture frequently cited in Chinese commentaries for a week-by-week account of embryological development; here it is used to gloss the continuity of “life-turbidity” across birth and death.
 
