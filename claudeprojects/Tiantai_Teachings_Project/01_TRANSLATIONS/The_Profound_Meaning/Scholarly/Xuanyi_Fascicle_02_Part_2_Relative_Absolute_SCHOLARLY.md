@@ -86,6 +86,22 @@
 
 > *Vaipulya* brings fresh butter in discussing the Wonderful to contrast the coarse. *Prajñā* brings aged butter in discussing the Wonderful to contrast the coarse. **This present sūtra has no two-flavor expedients—pure true ghee discusses the Wonderful to contrast the coarse.** This Wonderful and that Wonderful—the meaning of "wonderful" is not different. The only difference is bringing expedients or not bringing expedients.
 
+復次，三藏但半字生滅門，不能通滿理，故名為麁。滿字是不生不滅門，能通滿理，故名妙。能通滿理，復有二種：一、帶方便通滿理，二、直顯滿理。方等、般若帶方便通滿理，今經直顯滿理。故《中論》云：「為鈍根弟子說因緣生滅相；為利根弟子說因緣不生不滅相(云云)。」《中論》偈(云云)。若不即空為通真方便，是故言麁；若能即空是通中方便。通中方便，若帶即空即假通中者麁；不帶空假直通中者妙(云云)。
+
+> Furthermore, the Tripiṭaka is only the half‑word gate of arising and ceasing; it cannot penetrate the full principle, therefore it is called coarse. The full word is the gate of non‑arising and non‑ceasing; it can penetrate the full principle, therefore it is called wonderful. To penetrate the full principle there are two kinds: (1) penetrating the full principle with expedients, (2) directly revealing the full principle. *Vaipulya* and *Prajñā* use expedients to penetrate the full principle; this sūtra directly reveals the full principle. Therefore the *Madhyamaka‑śāstra* says: "For dull‑rooted disciples, [it] speaks the marks of dependent arising and ceasing; for sharp‑rooted disciples, [it] speaks the marks of dependent arising as non‑arising and non‑ceasing (and so on)." The *Madhyamaka‑śāstra* verse (and so on). If one does not take "emptiness" as the expedient that penetrates the true, therefore it is called coarse. If one can take "emptiness," this is the expedient that penetrates the Middle. The expedient that penetrates the Middle—if it still carries "emptiness and provisional" to penetrate the Middle, it is coarse; if it does not carry emptiness and provisional and directly penetrates the Middle, it is wonderful (and so on).
+
+問：
+
+> Q:
+
+乳至醍醐，同稱為滿，是譬云何？
+
+> From milk to ghee, all are called "full"—what is the simile?
+
+答：
+
+> A:
+
 ---
 
 ### The Navigation Metaphor
@@ -211,82 +227,95 @@
 
 > Why? Words arise from investigation and discrimination; if mental deliberation does not cease, how could words be severed? It is like a **foolish dog chasing a clod**—tiring itself in vain; the clods never end. If one can wonderfully awaken within the realm, ceasing the wind of investigation and discrimination, the water of mind becomes clear—words and thoughts are both severed. It is like a **clever lion that releases the clod and chases the person**—the source of clods having been removed, the clods are then severed![^2]
 
+妙悟之時，洞知法界外無法而論絕者，約有門明絕也。是絕亦絕，約空門明絕也。如快馬見鞭影，無不得入，是名絕待妙也。用是兩妙，妙上三法。眾生之法，亦具二妙，稱之為妙。佛法、心法，亦具二妙，稱之為妙。
+
+> At the time of wonderful awakening, knowing thoroughly that outside the Dharma‑Realm there is no dharma and yet speaking of "absolute"—this clarifies absolute in terms of the gate of existence. That absolute is also absolute—this clarifies absolute in terms of the gate of emptiness. Like a fast horse seeing the whip’s shadow, there is nowhere it does not enter—this is called the Absolute Wonderful. Using these two wonders, the three dharmas are made wonderful. Sentient‑being dharma also possesses two wonders and is called wonderful. Buddha dharma and mind dharma also possess two wonders and are called wonderful.
+
+若將上四種絕待約五味經者，乳教兩絕，酪教一絕，生蘇四絕，熟蘇三絕，此經但有一絕。若開權絕者，無不入一妙絕也。
+
+> If one applies the four kinds of absolute above to the Five‑Flavor teachings, the Milk Teaching has two absolutes, the Curds Teaching has one absolute, Fresh Butter has four absolutes, Clarified Butter has three absolutes, and this sūtra has only one absolute. If one opens the provisional and absolutizes, there is nothing that does not enter a single wonderful absolute.
+
+問：
+
+> Q:
+
+何意以絕釋妙？
+
+> Why use "absolute" to explain "wonderful"?
+
+答：
+
+> A:
+
+秖喚妙為絕，絕是妙之異名，如世人稱絕能耳。又妙是能絕，麁是所絕，此妙有絕麁之功，故舉絕以名妙。如迹中先施方便之教，大教不得起。今大教若起，方便教絕，將所絕以名於妙耳。又迹中大教既起，本地大教不得興。今本地教興，迹中大教即絕。絕於迹大，功由本大，將絕迹之大，名於本大，故言絕也。又本大教若興，觀心之妙不得起。今入觀緣寂，言語道斷，本教即絕。絕由於觀，將此絕名，名於觀妙，為顯此義，故以絕為妙。
+
+> One simply calls the wonderful "absolute"; "absolute" is an alternate name for "wonderful," like people in the world calling [something] "absolute ability." Moreover, the wonderful is what can sever; the coarse is what is severed. This wonderful has the function of severing the coarse—therefore we raise "absolute" to name the wonderful. For example, in the Trace, the expedient teaching was first set forth, so the great teaching could not arise. Now if the great teaching arises, the expedient teaching is severed; we take what is severed to name the wonderful. Moreover, once the great teaching in the Trace has arisen, the great teaching in the Fundamental cannot arise. Now when the Fundamental teaching arises, the great teaching in the Trace is severed. Severing the Trace‑great—its功 is due to the Fundamental‑great; we take the severing of the Trace‑great and name it the Fundamental‑great, hence we say "absolute." Moreover, if the Fundamental‑great teaching arises, the wonder of observing the mind cannot arise. Now entering contemplative conditions and quiescence, the path of words is cut off, and the Fundamental teaching is severed. The severing is due to contemplation; taking this severing as a name, we name the contemplation as wonderful. To make this meaning clear, we therefore take "absolute" as "wonderful."
+
+今將迹之絕妙，妙上眾生法；將本地之絕妙，妙上佛法；將觀心之絕妙，妙上心法。前四絕橫約四教；今三絕竪約圓教(云云)。
+
+> Now, using the Trace’s absolute‑wonderful to make sentient‑being dharma wonderful; using the Fundamental‑ground’s absolute‑wonderful to make Buddha dharma wonderful; using the contemplation‑of‑mind’s absolute‑wonderful to make mind dharma wonderful. The former four absolutes are horizontally in terms of the four teachings; the present three absolutes are vertically in terms of the Perfect Teaching (and so on).
+
 ---
 
 ## The Ten Trace Subtleties (迹中十妙)
 
 ---
 
-別釋妙者，為三...迹中有眾生法妙、佛法妙、心法妙，各十重，合三十重。
+△別釋妙者，為三：若鹿苑三麁，鷲頭一妙，皆迹中之說，約迹開十重論妙。此妙有迹、有本，本據元初，元初本妙十重論妙。迹本俱是教，依教作觀，觀復有十重論妙。迹中有眾生法妙、佛法妙、心法妙，各十重，合三十重。此與眾經論妙有同有異。本中三十妙，與眾經一向異。此六十重一一復有待妙、絕妙，則有一百二十重。若破麁顯妙，即用上相待妙。若開麁顯妙，即用上絕待妙(云云)。
 
-> The particular interpretation of "Wonderful" has three [parts]... Within the Trace, there is Sentient Being Dharma Wonderful, Buddha Dharma Wonderful, and Mind Dharma Wonderful—each has ten layers, totaling thirty layers.
+> In the particular interpretation of the Wonderful there are three: if the Deer Park has three coarse [teachings] and Vulture Peak has one wonderful [teaching], these are statements within the Trace, opening ten layers to discuss the wonderful in terms of the Trace. This wonderful has Trace and Fundamental; the Fundamental is based on the original beginning; the original‑beginning Fundamental‑wonderful is discussed in ten layers. Trace and Fundamental are both teachings; relying on the teaching one makes contemplation, and contemplation again has ten layers to discuss the wonderful. Within the Trace there is Sentient‑Being Dharma Wonderful, Buddha Dharma Wonderful, and Mind Dharma Wonderful; each has ten layers, totaling thirty layers. This has sameness and difference with the wonderful discussed in other sūtras and śāstras. The Fundamental’s thirty wonders are uniformly different from the other sūtras. These sixty layers each again have Relative‑Wonderful and Absolute‑Wonderful, thus there are one hundred twenty layers. If one breaks the coarse to reveal the wonderful, then use the Relative‑Wonderful above. If one opens the coarse to reveal the wonderful, then use the Absolute‑Wonderful above (and so on).
 
----
+迹中十妙者：一、境妙。二、智妙。三、行妙。四、位妙。五、三法妙。六、感應妙。七、神通妙。八、說法妙。九、眷屬妙。十、功德利益妙。
 
-迹中十妙者：
+> The ten subtleties within the Trace are: (1) realm subtlety, (2) wisdom subtlety, (3) practice subtlety, (4) position subtlety, (5) three‑dharmas subtlety, (6) resonance subtlety, (7) supernatural‑powers subtlety, (8) teaching‑the‑Dharma subtlety, (9) retinue subtlety, (10) merit‑and‑benefit subtlety.
 
-> **The Ten Trace Subtleties are:**
+釋十妙為五番：一、標章。二、引證。三、生起。四、廣解。五、結權實。
 
-一、境妙。二、智妙。三、行妙。四、位妙。五、三法妙。六、感應妙。七、神通妙。八、說法妙。九、眷屬妙。十、功德利益妙。
+> Explaining the ten subtleties has five rounds: (1) establishing the headings, (2) citing proof, (3) arising, (4) broad explanation, (5) concluding Provisional and Real.
 
-> 1. **Realm Subtlety** (境妙)
-> 2. **Wisdom Subtlety** (智妙)
-> 3. **Practice Subtlety** (行妙)
-> 4. **Position Subtlety** (位妙)
-> 5. **Three Dharmas Subtlety** (三法妙)
-> 6. **Resonance Subtlety** (感應妙)
-> 7. **Supernatural Powers Subtlety** (神通妙)
-> 8. **Teaching the Dharma Subtlety** (說法妙)
-> 9. **Retinue Subtlety** (眷屬妙)
-> 10. **Merit and Benefit Subtlety** (功德利益妙)
+○標章者，云何境妙？謂十如、因緣、四諦、三諦、二諦、一諦等。是諸佛所師，故稱境妙。
 
----
+> Establishing the headings: What is realm subtlety? It means the Ten Suchnesses, dependent origination, Four Truths, Three Truths, Two Truths, One Truth, and the like. These are what all Buddhas take as their teacher; therefore it is called realm subtlety.
 
-### Brief Explanations
+智妙者，所謂二十智，四菩提智，下、中、上、上上，七權實，五三智，一如實智，以境妙故，智亦隨妙。以法常故，諸佛亦常。函蓋相稱，境智不可思議，故稱智妙。
 
-○標章者...
-
-> **Establishing the chapters:**
-
-云何境妙？謂十如、因緣、四諦、三諦、二諦、一諦等。是諸佛所師，故稱境妙。
-
-> What is **Realm Subtlety**? The Ten Suchnesses, dependent origination, Four Noble Truths, Three Truths, Two Truths, One Truth, etc. These are what all Buddhas take as their teacher—hence called Realm Subtlety.
-
-智妙者，所謂二十智...以境妙故，智亦隨妙。
-
-> **Wisdom Subtlety:** The so-called twenty kinds of wisdom... Because the realm is subtle, wisdom follows as subtle.
+> Wisdom subtlety refers to the twenty wisdoms: the four bodhi‑wisdoms—lower, middle, upper, and upper‑upper; the seven provisional and real; the five of the three wisdoms; the one wisdom of true reality. Because the realm is subtle, wisdom too follows as subtle. Because the Dharma is constant, the Buddhas are also constant. Box and lid correspond; realm and wisdom are inconceivable—therefore it is called wisdom subtlety.
 
 行妙者，謂增數行、次第五行、不次第五行，智導行故，故言行妙。
 
-> **Practice Subtlety:** The numerical practices, sequential five practices, non-sequential five practices. Because wisdom guides practice, it is called Practice Subtlety.
+> Practice subtlety refers to the increasing‑number practices, the sequential five practices, and the non‑sequential five practices. Because wisdom guides practice, it is called practice subtlety.
 
 位妙者，謂三草位、二木位、一實位，妙行所契，故言位妙。
 
-> **Position Subtlety:** The three-grass positions, two-wood positions, one-real position. What subtle practice realizes—hence called Position Subtlety.[^3]
+> Position subtlety refers to the three‑grass position, the two‑tree position, and the one‑real position. Subtle practice accords with these—therefore it is called position subtlety.[^3]
 
 三法妙者，謂總三法，縱三法、橫三法、不縱不橫三法、類通三法，皆祕密藏，故稱為妙。
 
-> **Three Dharmas Subtlety:** The combined three dharmas, vertical three dharmas, horizontal three dharmas, neither-vertical-nor-horizontal three dharmas, analogically-pervading three dharmas. All are the secret treasury—hence called subtle.
+> Three‑dharmas subtlety refers to the combined three dharmas, the vertical three dharmas, the horizontal three dharmas, the neither‑vertical‑nor‑horizontal three dharmas, and the analogically‑pervasive three dharmas. All are the secret treasury—therefore it is called subtle.
 
-感應妙者...水不上升、月不下降，一月一時普現眾水；諸佛不來、眾生不往，慈善根力見如此事，故名感應妙。
+感應妙者，謂四句感應、三十六句感應、二十五感應、別圓感應。水不上升、月不下降，一月一時普現眾水；諸佛不來、眾生不往，慈善根力見如此事，故名感應妙。
 
-> **Resonance Subtlety:** Water does not rise; the moon does not descend. One moon simultaneously manifests in all waters. The Buddhas do not come; sentient beings do not go. Through the power of compassionate roots, one sees such things—hence called Resonance Subtlety.
+> Resonance subtlety refers to the four‑phrase resonances, the thirty‑six‑phrase resonances, the twenty‑five resonances, and the distinct and perfect resonances. Water does not rise; the moon does not descend; one moon at one time universally appears in all waters. The Buddhas do not come; sentient beings do not go; by the power of compassionate good roots one sees such things. Therefore it is called resonance subtlety.
 
-神通妙者，謂報通、修通、作意通、體法通、無記化化通...若遠、若近、若種、若熟、若脫，皆為一乘，故言神通妙。
+神通妙者，謂報通、修通、作意通、體法通、無記化化通，無謀之權，稱緣轉變，若遠、若近、若種、若熟、若脫，皆為一乘，故言神通妙。
 
-> **Supernatural Powers Subtlety:** Karmic powers, cultivated powers, intentional powers, embodying-dharma powers, neutral transformation powers... Whether remote or near, whether seeding or ripening or liberating—all are for the One Vehicle. Hence called Supernatural Powers Subtlety.
+> Supernatural‑powers subtlety refers to karmic powers, cultivated powers, intentional powers, embodying‑dharma powers, and neutral transformation powers. It is the unplanned provisional, called transformation in accord with conditions: whether far or near, whether seed or ripe, whether liberated—all are for the One Vehicle. Therefore it is called supernatural‑powers subtlety.
 
 說法妙者，謂說十二部法、小部法、大部法、逗緣法、所詮法、圓妙法，如理圓說，咸令眾生開、示、悟、入佛之知見，故言說法妙。
 
-> **Teaching the Dharma Subtlety:** Teaching the Twelve Divisions of scripture, lesser teachings, greater teachings, matching-conditions teachings, what is expressed, the perfect and subtle dharma. Teaching completely in accord with principle, causing all sentient beings to open, reveal, awaken to, and enter the Buddha's knowledge and vision—hence called Teaching Subtlety.
+> Teaching‑the‑Dharma subtlety refers to teaching the twelve‑division dharmas, the small‑division dharmas, the great‑division dharmas, the condition‑matching dharmas, the expressed dharmas, and the perfect‑subtle dharmas. Teaching fully in accord with principle, it causes all sentient beings to open, reveal, awaken to, and enter the Buddha’s knowledge and vision. Therefore it is called teaching‑the‑Dharma subtlety.
 
 眷屬妙者，謂業眷屬、神通眷屬、願眷屬、應眷屬、法門眷屬，如陰雲籠月，群臣豪族，前後圍遶，故言眷屬妙。
 
-> **Retinue Subtlety:** Karmic retinue, supernatural-power retinue, vow retinue, responsive retinue, dharma-gate retinue. Like cloudy sky surrounding the moon, like ministers and nobility surrounding [the king]—hence called Retinue Subtlety.
+> Retinue subtlety refers to karmic retinue, supernatural‑power retinue, vow retinue, responsive retinue, and dharma‑gate retinue. Like overcast clouds enveloping the moon, like ministers and great clans surrounding in front and behind—therefore it is called retinue subtlety.
 
 利益妙者，謂果益、因益、空益、假益、中益、變易益，猶如大海能受龍雨，故名利益妙。
 
-> **Merit and Benefit Subtlety:** Fruit-benefits, cause-benefits, emptiness-benefits, provisional-benefits, middle-benefits, transformation-benefits. Like the great ocean able to receive dragon-rain—hence called Merit and Benefit Subtlety.
+> Merit‑and‑benefit subtlety refers to fruit benefit, cause benefit, emptiness benefit, provisional benefit, middle benefit, and transformation benefit. Like the great ocean able to receive dragon rain—therefore it is called merit‑and‑benefit subtlety.
+
+○二引證者，但引迹文，尚不引本文，況引餘經耶。文云：「諸法如是相等，唯佛與佛乃能究盡諸法實相。」實相是佛智慧門，門即境也。又云：「甚深微妙法，難見難可了。我及十方佛，乃能知是相。」即境妙也。「我所得智慧，微妙最第一。」又以此妙慧，求無上道。「無漏不思議，甚深微妙法，唯我知是相。」(云云)即智妙也。「本從無數佛，具足行諸道，行此諸道已，道場得成果。」又云：「合掌以敬心，欲聞具足道。」又「諸法從本來，常自寂滅相，佛子行道已，來世得作佛。」即行妙。「天雨四華」表住、行、向、地。「開、示、悟、入」亦是位義。「乘是寶乘」遊於四方，四方是因位；「直至道場」是果位。是名位妙。「佛自住大乘，如其所得法，定慧力莊嚴。」大乘即真性，定即資成，慧即觀照，是為三法妙。「我於三七日中，思惟如是事。」又「我以佛眼觀，見六道眾生。」又「一切眾生，皆是吾子。」又「遙見其父，踞師子床。」即感應妙也。今佛世尊入于三昧，是不可思議，現希有事，神通妙也。如來能種種分別，巧說諸法，言辭柔軟，悅可眾心。身子云：「聞佛柔軟音，深遠甚微妙。」又其所說法，皆悉到於一切智地。又但說無上道。又已今當說，最為難信難解。即說法妙。「但教化菩薩」，無聲聞弟子。即眷屬妙。「現在、未來，若聞一句一偈，皆與三菩提記。」又「須臾聞者，即得究竟三菩提。」又「若以小乘化，我即墮慳貪，此事為不可。」又「終不令一人獨得滅度，皆以如來滅度而滅度之。」即利益妙也。
+
+> Citing proof: only Trace passages are cited; Fundamental passages are not yet cited—how much less other sūtras. The text says: "The dharmas are suchness of mark and so on; only a Buddha and a Buddha can fully fathom the true mark of all dharmas." The true mark is the gate of the Buddha’s wisdom; the gate is precisely the realm. It also says: "The profoundly deep and subtle Dharma is hard to see and hard to understand. I and the Buddhas of the ten directions can know this mark." This is realm subtlety. "The wisdom I have attained is subtly wonderful and most supreme." And with this subtle wisdom, [one] seeks the unsurpassed path. "Outflow‑free and inconceivable, profoundly deep and subtle Dharma—only I know this mark" (and so on). This is wisdom subtlety. "From countless Buddhas from the beginning, fully practiced all paths; having practiced these paths, in the bodhi‑place one attains the fruits." It also says: "With palms joined in reverence, [they] wish to hear the complete path." And "All dharmas from the beginning are always of the mark of quiescent extinction; after the Buddha‑children practice the path, in future lives they will become Buddhas." This is practice subtlety. "Heaven rains four flowers" signifies abode, practice, dedication, and ground. "Open, reveal, awaken, enter" is also the meaning of position. "Riding this jeweled vehicle" travels to the four directions—the four directions are the cause‑position; "straight to the bodhi‑place" is the fruit‑position. This is called position subtlety. "The Buddha himself dwells in the Great Vehicle; the Dharma as he has attained is adorned by the powers of samādhi and wisdom." The Great Vehicle is true nature; samādhi is accumulation and completion; wisdom is contemplation and illumination—this is three‑dharmas subtlety. "For three seven‑day periods I pondered such matters." Again, "With the Buddha‑eye I observe and see the sentient beings of the six destinies." Again, "All sentient beings are all my children." Again, "From afar he sees his father, seated on a lion throne." This is resonance subtlety. Now the Buddha, the World‑Honored One, enters samādhi—this is inconceivable, manifesting rare events—this is supernatural‑powers subtlety. The Tathāgata can variously discriminate, skillfully teach the dharmas; his words are gentle, pleasing the hearts of the multitudes. Śāriputra says: "Hearing the Buddha’s gentle voice, it is deep, far‑reaching, and very subtle." Also, the dharmas he teaches all reach the ground of all‑knowledge. Also, he only speaks the unsurpassed path. Also, what has been and will now be taught is most difficult to believe and understand. This is teaching‑the‑Dharma subtlety. "Only teaching bodhisattvas," with no śrāvaka disciples—this is retinue subtlety. "In the present and the future, if one hears a single line or a single gāthā, all receive a prediction of three bodhi." Again, "Those who hear it even for a moment immediately obtain ultimate three bodhi." Again, "If I were to transform [beings] with the Small Vehicle, I would fall into stinginess and greed; this would be unacceptable." Again, "I will never let any single person attain extinction alone; all are extinguished by the Tathāgata’s extinction." This is merit‑and‑benefit subtlety.
 
 ---
 
