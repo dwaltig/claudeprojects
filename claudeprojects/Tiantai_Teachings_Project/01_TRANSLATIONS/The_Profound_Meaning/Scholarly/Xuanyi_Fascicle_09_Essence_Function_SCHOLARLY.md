@@ -1,5 +1,5 @@
 # The Profound Meaning of the Lotus Sutra (妙法蓮華經玄義)
-## Fascicle 9: Essence (宗), Function (用), and Teaching Classification
+## Fascicle 9: Essence (宗) and Function (用)
 
 **Scholarly Translation by The Architect**
 
@@ -7,202 +7,294 @@
 
 ## Colophon
 
-**Source Text:** *Taishō Tripiṭaka* Vol. 33, No. 1716  
-**Section:** Fascicle 9 Upper/Lower (Lines 199–376)  
+**Source Text:** *Taisho Tripitaka* Vol. 33, No. 1716  
+**Section:** Fascicle 9 Upper/Lower (Lines 199-376)  
 **Translator:** The Architect (MAS Agent)  
 **Date:** January 17, 2026
 
 ---
 
-# Part One: Essence/Aim (宗) — The Third of Five Chapters
+## T1716_009
 
-## △大章第三、明宗
+△大章第三、明宗。宗者，修行之喉衿，顯體之要蹊，如梁柱持屋，結網綱維，提維則目動，梁安則桷存。釋宗為五：一、簡宗體。二、正明宗。三、眾經同異。四、明麁妙。五、結因果。
+> The third major section clarifies the Essence: Essence is the throat and collar of cultivation, the crucial path for manifesting the Substance, like beams and pillars holding a house and the main cord holding a net; when the cord is lifted the mesh moves, when the beam is set the rafters remain. Explaining Essence has five points: (1) distinguish Essence and Substance, (2) directly clarify Essence, (3) compare sameness and difference with other sutras, (4) clarify coarse and subtle, (5) conclude cause and fruit.
 
-宗者，修行之喉衿，顯體之要蹊，如梁柱持屋，結網綱維。
+簡宗體者，有人言：宗即是體，體即是宗。今所不用。何者？宗致既是因果，因果即二體，非因非果，體即不二。體若是二，體即非體；體若不二，體即非宗。宗若不二，宗即非宗；宗若是二，宗即非體。云何而言：體即是宗，宗即是體？又，柱梁是屋之綱維，屋空是梁柱所取，不應以梁柱是屋空，屋空是梁柱。宗、體若一，其過如是。又，宗、體異者，則二法孤調，宗非顯體之宗，體非宗家之體。宗非顯體之宗，宗則邪倒無印；體非宗家之體，則體狹不周，離法性外，別有因果。宗體若異，其過如是。
+> To distinguish Essence and Substance, some say Essence is precisely Substance and Substance is precisely Essence, but this is not adopted. Why? Essence concerns cause and fruit, hence dual; Substance, as neither cause nor fruit, is nondual. If Substance were dual, it would not be Substance; if nondual, it is not Essence. If Essence were nondual, it would not be Essence; if dual, it would not be Substance. How then can one say each is the other? Again, beams and pillars are the framework of a house, while empty space is what beams and pillars support; one should not say beams and pillars are empty space or empty space is beams and pillars. If Essence and Substance are one, the fault is like this. If they are different, the two dharmas become isolated: Essence is no longer the Essence that manifests Substance, and Substance is no longer the Substance of Essence. Then Essence becomes inverted and unsealed, and Substance becomes narrow and incomplete, with separate cause and fruit outside Dharma-nature. If Essence and Substance are different, the fault is thus.
 
-> "**Essence** is the **throat** of practice, the **key pathway** to revealing Substance. Like **pillars holding a house**, like the **main cord of a net**."
+今言不異而異，約非因非果而論因果，故有宗體之別耳。《釋論》云：「若離諸法實相，皆名魔事。」《普賢觀》云：「大乘因者，諸法實相。大乘果者，亦諸法實相。」即其義也。當知實相體通，而非因果，行始辨因，行終論果。而復偏圓有別者，譬如銅體，非始非終，擬鑄為像，即名像始；治瑩悉畢，即名像終；此譬圓因果。若擬器皿及其成就，器皿始終，譬偏因果也。發七方便心謂偏因，證有餘、無餘名偏果；開佛知見名圓因，究竟妙覺名圓果。若識此喻，不即不離，宗義明矣。
+> Now we say they are different without being different: from the standpoint of neither cause nor fruit, one discusses cause and fruit, and therefore there is a distinction between Essence and Substance. The Treatise says, "Apart from the reality-mark of all dharmas, all is called Mara's work." The *Puxian Contemplation* says, "The Mahayana cause is the reality-mark of all dharmas; the Mahayana fruit is likewise the reality-mark of all dharmas." This is its meaning. One should know the reality-mark substance is pervasive and not itself cause-fruit; practice first distinguishes cause and at completion discusses fruit. Yet there is still a distinction of partial and perfect: like a bronze mass that is neither beginning nor end, when one intends to cast an image it is called the image's beginning; when polishing is fully completed it is called the image's end. This analogizes perfect cause and fruit. If one intends a vessel and then completes it, the vessel's beginning and end analogize partial cause and fruit. Arousing the mind of the seven expedient levels is called partial cause; certifying with remainder and without remainder is called partial fruit; opening Buddha knowledge-and-vision is called perfect cause; ultimate wondrous awakening is called perfect fruit. If one understands this analogy, neither identical nor separate, the meaning of Essence is clear.
 
-提維則目動，梁安則桷存。
+例如正因佛性，非因非果，而言是因非果名佛性，是果非因名大涅槃。又佛性非當非本，而言本自有之，一切眾生即涅槃相，不可復滅。又言一切眾生悉有佛性，而實未有三十二相，未來當得金剛之身，以其非當，是故言本；以其非本，是故言當。宗體之義，亦復如是。
+> Likewise with Buddha-nature as right cause: neither cause nor fruit, yet as cause-not-fruit it is called Buddha-nature, and as fruit-not-cause it is called Great Nirvana. Again, Buddha-nature is neither future nor original, yet one says it is originally present and that all beings are precisely nirvana-mark, not to be extinguished again. One also says all beings entirely possess Buddha-nature, though they do not yet have the thirty-two marks and will in the future attain the adamantine body. Because it is not merely future, one speaks of origin; because it is not merely original, one speaks of future. The meaning of Essence and Substance is likewise.
 
-> "**Lift the cord, and the mesh moves; set the beam, and the rafters stand.**"
+遠師以一乘為宗，所謂妙法。引文云：「是乘微妙，為無有上。」私謂為破三故一，待麁非妙因，而不該始末。
+> Master Yuan took One Vehicle as the Essence, namely the Subtle Dharma, citing "This vehicle is subtle and unsurpassed." I judge that this "one" is one set against breaking the three, still dependent on coarse-to-subtle contrast, and does not include beginning and end.
 
----
+龍師云：但以果為宗。妙法者，是如來靈智體也。眾麁斯盡為妙，動靜軌物為法，法既真妙，借蓮華譬之，所以果智為宗也。私謂果不孤立，云何棄其因，又乖文也。
+> Master Long said only fruit is Essence. "Subtle Dharma" is the body of the Tathagata's numinous wisdom; when all coarseness is exhausted, that is called subtle, and when moving and stilling regulate beings, that is called dharma; since dharma is truly subtle, lotus is borrowed as metaphor, so fruit-wisdom is taken as Essence. I judge fruit does not stand alone; how can cause be discarded? This also conflicts with the text.
 
-## Five Topics on Essence
+慧觀序云：「會三歸一，乘之始也；慧覺成滿，乘之盛也；滅影澄神，乘之終也。」什師歎云：「若非深入經藏，豈能作如此說？」
+> Huiguan's preface says, "Uniting the three into one is the vehicle's beginning; wisdom-awakening brought to fullness is the vehicle's flourishing; extinguishing traces and clarifying spirit is the vehicle's end." Kumarajiva praised it: "Without entering deeply into the canon, how could one speak like this?"
 
-釋宗為五：一、簡宗體。二、正明宗。三、眾經同異。四、明麁妙。五、結因果。
+印師云：諸法實相是一乘妙境，用境智為宗，境無三偽，故稱實相也。今謂加境而闕果，腫不益肥。光宅用一乘因果為宗，前段為因，後段為果。私謂二文各有因果，若互存互沒，則害經文。
+> Master Yin said the reality-mark of all dharmas is the subtle realm of the one vehicle, and taking realm-wisdom as Essence, with no three falsities in that realm, one calls it reality-mark. I judge this adds realm but lacks fruit, like swelling that adds no strength. Guangzhai used one-vehicle cause and fruit as Essence, first section as cause and latter section as fruit. I judge each section has both cause and fruit; to preserve one and suppress the other harms the sutra text.
 
-> Explaining Essence has **five topics**:
-> 1. Distinguishing Essence from Substance
-> 2. Directly clarifying Essence
-> 3. Sameness and difference with other sūtras
-> 4. Coarse and subtle
-> 5. Concluding with cause-and-fruit
+有人用權實二智為宗。私謂用權，應明三是經宗；三是今經所棄，云何取所棄為宗？
+> Some use the two wisdoms, provisional and real, as Essence. I judge that if one uses provisional, one would have to make the three vehicles the sutra's Essence; but those three are exactly what this sutra discards, so how can what is discarded be taken as Essence?
 
----
+又師云：此名「妙法蓮華」，即以名為宗，妙法是佛所得根本真實法性，此性不異惑染，不與惑同，故稱妙，即宗為名耳。此是地師所用，據八識是極果，今《攝大乘》破之，謂是生死根本。
+> Another master said since the title is "Subtle Dharma Lotus," one takes the title itself as Essence; Subtle Dharma is the root true dharma-nature obtained by Buddha, and this nature is not different from defiled delusion yet not identical with it, therefore called subtle, with "Essence" taken from the title. This is the Dilun position, treating the eighth consciousness as ultimate fruit, but the *Mahayana-samgraha* refutes it as the root of birth-and-death.
 
-## Distinguishing Essence from Substance
+有師云：常住為宗，但未極上，是覆相明常。私謂都非經意，常若被覆，宗何所顯？常不被覆，常則非宗。
+> Some masters said permanence is Essence, but not yet at the highest level, merely permanence under concealment. I judge this is not the sutra's intent: if permanence is concealed, what does Essence reveal? if not concealed, permanence is not Essence.
 
-有人言：宗即是體，體即是宗。今所不用。
+有師云：是顯了明常，與《涅槃》為廣略耳。私謂常為宗者，常無因果，常亦無宗(云云)。
+> Some said this is manifestly clarified permanence and differs from *Nirvana* only in length. I judge that if permanence is made Essence, permanence has no cause-fruit and therefore no Essence either (and so on).
 
-> "Some say: 'Essence is Substance, Substance is Essence.' **I don't use this**."
+有言：萬善為宗，但使是善皆得作佛。私謂若作佛即是果，何不取果為宗？
+> Some say myriad virtues are Essence, so long as all good leads to Buddhahood. I judge that if Buddhahood is attained, that is fruit; why not take fruit as Essence?
 
-宗致既是因果，因果即二體...體若不二，體即非宗。
+有言：萬善中取無漏為宗。私謂太局，又濫小涅槃。
+> Some say in myriad virtues one should take the undefiled as Essence. I judge this is too narrow and also conflates with lesser nirvana.
 
-> "**Essence's point is cause-and-fruit**; cause-and-fruit are two... If Substance is non-dual, Substance is not Essence."
+有人言：若稟斯異說各蒙益者，眾釋無可為非；聞而不悟，眾師無可為是。一師之意，唯貴在悟，宜以悟為經宗。《大經》云：「若有定相是生死法，是魔王相；佛法無定相。」是故如來非道說道、道說非道，當知唯悟是從。私謂若悟為宗，乃是果證，非謂行因。問南指北，方隅料亂。又定以悟為宗，是為定定，何謂不定？說者甚多，不能具出也。
+> Some say if each of these explanations gives benefit to its recipients, none may be condemned; if one hears yet does not awaken, none may be affirmed. A single master's intent values awakening alone, so awakening should be Essence. The *Great Sutra* says, "If there is fixed mark, it is birth-and-death dharma, the mark of Mara; Buddha-dharma has no fixed mark." Therefore the Tathagata speaks path as nonpath and nonpath as path; one should follow awakening alone. I judge that if awakening is Essence, that is fruit-certification, not practice-cause; it points south and indicates north, confusing orientation. Again, to fix awakening as Essence is another fixed fixation; how is that nonfixed? Explanations are many and cannot all be listed.
 
-不異而異，約非因非果而論因果，故有宗體之別耳。
+二、正明宗者，此經始從〈序品〉訖〈安樂行品〉，破廢方便，開顯真實佛之知見，亦明弟子實因實果，亦明師門權因權果。文義雖廣，撮其樞要，為成弟子實因，因正果傍，故於前段明迹因迹果也。從〈涌出品〉訖〈勸發品〉，發迹顯本，廢方便之近壽，明長遠之實果。亦明弟子實因實果，亦明師門權因權果，而顯師之實果，果正因傍，故於後段明本因本果。合前因果共為經宗，意在於此。所以經分二文，論本論迹，雙題法譬，舉蓮舉華，師弟權實，總在其間也。
+> Second, directly clarifying Essence: from the Introductory Chapter through the Peaceful Conduct Chapter, the sutra breaks and discards expedients and opens and reveals true Buddha knowledge-and-vision; it also clarifies disciples' true cause and fruit and the teacher-gate's provisional cause and fruit. Though the wording is broad, gathering the hinge-point, it is to complete disciples' true cause, with cause primary and fruit secondary, so the first section clarifies trace-cause and trace-fruit. From the Emerging from Earth Chapter through the Encouragement Chapter, it unfolds trace to reveal origin, discards the expedient near lifespan, and clarifies the truly long lifespan-fruit. It likewise clarifies disciples' true cause and fruit and the teacher-gate's provisional cause and fruit, while revealing the teacher's true fruit, fruit primary and cause secondary, so the latter section clarifies origin-cause and origin-fruit. Taking earlier and later cause-fruit together forms the sutra's Essence, and that is the intent. Thus the sutra is divided in two, discussing origin and trace, with paired dharma and simile titles, naming lotus and flower, and all teacher-disciple, provisional-real relations lie within it.
 
-> "**Not-different yet different**: According to non-cause-non-fruit, we discuss cause-and-fruit—hence the distinction between Essence and Substance."
+三、眾經因果同異者，謂迹因果或同或異，本因果永異迹。因果者，實相通印諸體，何經不約此論因果？《大品》明非因非果，實相為體，而但因為宗般若遣蕩，正是因意。故云：「菩薩心中名般若，在佛心中名薩婆若。」文中亦說菩薩無生無滅因，獲不斷不常薩婆若果。叡師序云：「啟玄章以不住為始，歸三慧以無得為終。」終始，因果也。文中亦說一切種智佛果，為成般若因，因正果傍。無量義宣說摩訶般若，歷劫修行，故知彼經用因為宗也。《淨名》用佛國因果兩義為宗，寶積具問因果，佛備答因果。故知雙用因果為宗也。《華嚴》圓頓之教，解宗不同。或言用因為宗，據題言華嚴是萬行莊飾，修因之義。文中多說四十地行相，故用因為宗。又云果為宗，據題云大方廣佛，佛是極果之名，華嚴是定慧萬善，莊嚴佛身，非莊嚴因。文中多說舍那法身之事，即用果為宗也。又解云：因果合為宗，如言佛即是果，華嚴即是因，文中具說法身，亦說諸地，俱用因果為宗。
+> Third, sameness and difference of cause-fruit among sutras: trace cause-fruit may be same or different, but origin cause-fruit is always different from trace. Cause-fruit means reality-mark seals all substances; what sutra does not discuss cause-fruit on this basis? The *Mahaprajna* clarifies neither cause nor fruit, with reality-mark as substance, yet takes cause as Essence because Prajna functions by removing attachments, which is precisely the cause-intent. Thus it says, "In a bodhisattva's mind it is called prajna; in a Buddha's mind it is called sarvajna." It also says bodhisattvas obtain the unborn-undying cause and attain the sarvajna fruit that is neither annihilation nor permanence. Rui's preface says, "Opening the mysterious chapter with non-abiding as beginning, returning to the three wisdoms with non-attainment as end." Beginning and end are cause and fruit. The text also says all-species wisdom Buddha-fruit is present to complete the Prajna cause, with cause primary and fruit secondary. The *Innumerable Meanings* proclaims maha-prajna and kalpas of cultivation, so that sutra uses cause as Essence. *Vimalakirti* uses both cause and fruit of Buddha-land as Essence: Ratnakara asks fully about cause-fruit and Buddha answers fully about cause-fruit. Thus it uses both. In *Avatamsaka*, interpretations differ: some use cause as Essence because "flower adornment" signifies cultivation of causes and the text speaks much of forty-ground practices; others use fruit as Essence because "Buddha" in the title names ultimate fruit, and flower-adornment as concentration-wisdom myriad virtues adorns Buddha-body, not cause; the text often speaks of Rocana Dharma-body events, so fruit is used as Essence. Others combine cause and fruit as Essence, taking "Buddha" as fruit and "flower adornment" as cause, with both Dharma-body and grounds taught in the text.
 
----
+諸經對緣不同，故明宗互異耳。《般若》通對三人，傍真因果，此義則異。別對菩薩，復有利鈍，為鈍明因，此義亦異。利人因者，此義則同。《淨名》佛國義兼，若三種佛國因果，此義則異；一種佛國因果者則同。《華嚴》亦對兩緣鈍異利同，如前分別。又將此意歷五味因果，例可知。是為眾經因果與迹門同異之相也。
+> Sutras respond to different conditions, so their Essences differ. *Prajna* generally addresses three types, with side-oriented true cause-fruit, thus differing; when specifically addressing bodhisattvas there are sharp and dull, and for the dull it clarifies cause, also different; for sharp persons, cause in this sense is same. *Vimalakirti* includes Buddha-land meanings: if three kinds of Buddha-land cause-fruit, it differs; if one kind, it is same. *Avatamsaka* also addresses two conditions, dull as different and sharp as same, as previously distinguished. Extending this through the five flavors, one can infer likewise. This is the pattern of sameness and difference between other sutras' cause-fruit and the Trace Gate.
 
-## Rejecting Previous Interpretations
+二、本門因果永異眾經者，若三藏菩薩始行實因果，無權因果，乃至明佛道樹始成，非久遠本迹。通教菩薩亦始行因，神通變化而論本迹，非久遠本迹也。《大品》說菩薩有本迹，二乘則無，說佛始得生法二身本迹，不說久遠。《淨名》不說聲聞有本迹，但明菩薩住不思議之本迹。說佛有淨土，螺髻所見亦非久遠。《華嚴》說舍那釋迦為本迹，菩薩亦有本迹，聲聞尚不聞不解，云何自有本迹？今經發聲聞有本，本有因果，示為二乘迹中因果。發佛之迹，王宮生身生，道樹法身生，乃至中間生法二身，悉皆是迹。但取最初先得真應，名之為本。故師弟本因本果，與餘經永異。今經迹中師弟因果，與眾經有同有異，本中師弟因果，眾經所無，正以此之因果為經妙宗也。
+> Second, the Origin Gate cause-fruit is forever different from other sutras. In Tripitaka teaching, bodhisattvas begin practice with true cause-fruit and no provisional cause-fruit, up to saying Buddhahood is first attained at the bodhi tree, not long-remote origin-trace. In the Common teaching too, bodhisattvas begin with cause, and origin-trace is discussed only via supernormal transformations, not long-remote origin-trace. The *Mahaprajna* says bodhisattvas have origin-trace while two vehicles do not, and speaks of Buddha first obtaining the two bodies as origin-trace, not long remote time. *Vimalakirti* does not speak of sravakas having origin-trace, only bodhisattvas abiding in inconceivable origin-trace. Its Buddha pure land and the snail-topknot vision are likewise not long-remote. *Avatamsaka* takes Rocana and Sakyamuni as origin-trace, and bodhisattvas also have origin-trace; if sravakas do not even hear or understand this, how could they have their own origin-trace? In the present sutra, sravakas are disclosed as having origin, with origin cause and fruit shown as two-vehicle cause-fruit within trace. Buddha's trace is disclosed as palace birth-body birth and bodhi-tree Dharma-body birth, up to the middle two bodies, all as trace; only the very first prior attainment of true response is named origin. Therefore teacher and disciple origin cause-fruit are forever different from other sutras. In this sutra, trace-gate teacher-disciple cause-fruit has sameness and difference with other sutras, while origin-gate teacher-disciple cause-fruit is absent elsewhere, and this is exactly why it is the sutra's subtle Essence.
 
-| Interpreter | Interpretation | Why Rejected |
-|-------------|----------------|--------------|
-| Master Yuan | One Vehicle as Essence | Too broad—doesn't include beginning-to-end |
-| Master Long | Fruit alone as Essence | Fruit doesn't stand alone; ignores cause |
-| Others | Cause alone | Ignores the complete fruit |
-| Others | Expedient-Real as Essence | Expedient is what this sūtra abandons |
-| Others | Awakening as Essence | Awakening is only fruit, no cause |
+四、麁妙者，若半字之因，道樹遍果，此宗則麁。《大品》所明三乘共因果，亦如是不共之因。雖云菩薩一日行般若，如日照闇，發心即遊戲神通，而猶帶麁因，圓因不得獨顯；雖說法身無來無去，猶帶麁果，圓果不得獨顯，故名為麁。方等中雖彈偏因果，高原陸地不生蓮華，不辨偏得入圓，圓不彰顯，是亦為麁。《華嚴》前照高山，說一圓因；究竟後身，說一圓果。又帶別因果，所帶處麁。今經聲聞受記，菩薩疑除，同開佛知見，俱入一圓因，發迹顯本，同悟實果，因圓果實，不帶方便，永異餘經，故稱為妙也。開麁者，昔緣根鈍，未堪聞讚佛乘因果，用方便因果引接近情，五味調熟，心漸通泰，決了麁因，同成妙因；決諸麁果，同成妙果。故低頭舉手著法之眾，皆成佛道，更無非佛道因。佛道既成，那得猶有非佛之果？散善微因，今皆開決，悉是圓因，何況二乘行！何況菩薩行！無不皆是妙因果也。
+> Fourth, coarse and subtle: if one takes half-word causes and pervasively realized fruit at the tree, this Essence is coarse. In *Mahaprajna* where three vehicles share cause-fruit, even its non-shared cause is like this. Though it says a bodhisattva practicing prajna for one day is like sunlight dispelling darkness and can play with supernormal powers upon arousing mind, it still carries coarse cause, so perfect cause is not independently manifest. Though it says Dharma-body neither comes nor goes, it still carries coarse fruit, so perfect fruit is not independently manifest; thus it is called coarse. In Vaipulya, though partial cause-fruit is criticized, like lotus not growing on high dry land, it does not clarify how the partial enters the perfect, so the perfect is not manifest, and this too is coarse. *Avatamsaka* first illumines the high mountain and teaches one perfect cause; in ultimate latter-body it teaches one perfect fruit. Yet it still carries distinct cause-fruit, and where carried is coarse. In this sutra, sravakas receive predictions and bodhisattvas' doubts are removed; together they open Buddha knowledge-and-vision and all enter one perfect cause; by revealing trace and manifesting origin they equally awaken true fruit. Cause is perfect and fruit real, without expedient admixture, forever different from other sutras, therefore called subtle. Opening the coarse means: formerly, roots were dull and not ready to hear praise of Buddha-vehicle cause-fruit, so expedient cause-fruit drew near their dispositions. Through ripening across five flavors, mind gradually became open and calm, coarse cause was decisively understood and became subtle cause, and coarse fruits became subtle fruits. Thus the masses attached to dharmas, even by lowering head and raising hand, all become Buddha-path; there is no non-Buddha-path cause. Once Buddha-path is accomplished, how could non-Buddha fruit remain? Scattered minor good causes are now all opened and decided as perfect causes, much more so two-vehicle practice and bodhisattva practice; none is not subtle cause-fruit.
 
----
+五、結成者，即為二：一、結因果。二、四句料簡。
+> Fifth, concluding formation has two parts: (1) concluding cause-fruit, (2) four-sentence analytical clarification.
 
-## The Correct Essence: One-Vehicle Cause-and-Fruit
+夫經說因果，正為通益生法行人。若開權顯實，正令七種方便生身未入者入，傍令生、法二身已入者進。若說壽量長遠，傍令生身未入者入，正令生法已入者進。〈神力品〉云：「如來所有一切甚深之事」者，非因非果，是甚深之理，因果是甚深之事。從七種方便，初得入圓，登銅輪位，名之為因。乃至餘有一生在，若轉一生，即得妙覺，名之為果。從於二住至於等覺，中間名為亦因亦因因，亦果亦果果。用無礙道伏一分無明，名之為因；用解脫道斷一分無明，名之為果。約此解脫，復修無礙，故云因因；從此無礙，復得解脫，故言果果。
+> When the sutra teaches cause and fruit, it chiefly benefits practitioners of both physical and Dharma-body practice. In opening provisional and revealing real, it primarily causes those in seven expedient levels of physical body not yet entered to enter, and secondarily advances those in physical and Dharma-body already entered. In teaching the long lifespan, it secondarily causes physical-body practitioners not yet entered to enter, and primarily advances Dharma-body practitioners already entered. The *Spiritual Powers Chapter* says "all the Tathagata's extremely profound matters"; the principle is neither cause nor fruit, while cause-fruit are profound matters. From seven expedient levels, first entry into perfection and ascent to the copper-wheel stage is called cause. Up to one remaining birth, when that one birth is turned, wondrous awakening is attained, called fruit. From second abode to equal awakening, the middle is called both cause and cause-of-cause, and both fruit and fruit-of-fruit. Using the unobstructed path to subdue one portion of ignorance is called cause; using the liberation path to cut one portion of ignorance is called fruit. On the basis of that liberation one again cultivates unobstructed path, hence cause-of-cause; from that unobstructed path one again obtains liberation, hence fruit-of-fruit.
 
-二、正明宗者，此經始從〈序品〉訖〈安樂行品〉...為成弟子實因，因正果傍...從〈涌出品〉訖〈勸發品〉...而顯師之實果，果正因傍。
+復次，初十住為因，十行為果；十行為因，迴向為果；十向為因，十地為果；十地為因，等覺為果；等覺為因，妙覺為果。妙覺唯果、唯解脫，不得名因、名無礙；初住唯因、唯無礙，不得名果、名解脫。何者？初住見真，以真為因，住前相似，非是真因。若取性德為初因者，彈指散華是緣因種，隨聞一句是了因種，凡有心者是正因種。此乃遠論性德三因種子，非是真實開發，故不取為因也。
+> Further, the first ten abodes are cause and ten practices are fruit; ten practices are cause and dedications are fruit; ten dedications are cause and ten grounds are fruit; ten grounds are cause and equal awakening is fruit; equal awakening is cause and wondrous awakening is fruit. Wondrous awakening is only fruit, only liberation, and cannot be named cause or unobstructed path; first abode is only cause, only unobstructed path, and cannot be named fruit or liberation. Why? First abode sees truth and takes truth as cause; what is before first abode is only resemblance and not true cause. If one takes nature-virtue as initial cause, finger-snap flower-scattering is the conditioning-cause seed, hearing one sentence is the understanding-cause seed, and any being with mind is the right-cause seed. This is only a remote discussion of the three causal seeds of nature-virtue, not true actual activation, therefore not taken as cause.
 
-> "**Directly clarifying Essence**: This sūtra from *Introduction* to *Peaceful Practices* [Chapters 1-14]... **establishes disciples' real cause—cause is primary, fruit is secondary**... From *Emerging from Earth* to *Encouragement* [Chapters 15-28]... **reveals the Teacher's real fruit—fruit is primary, cause is secondary**."
+二、四句料簡者。
+> Second, the four-sentence analytical clarification.
 
-合前因果共為經宗，意在於此。
+問：
+> Question:
 
-> "**Combining both cause-and-fruit together makes the sūtra's Essence**—the meaning is in this."
+若言初住入理，名為圓因圓果，何得文云：「漸漸修學得成佛道」？
+> If entering principle at first abode is called perfect cause and perfect fruit, why does the text say "by gradual cultivation and study one attains Buddhahood"?
 
----
+答：
+> Answer:
 
-## The Two Halves of the Sūtra
+應作兩種四句料簡：自有漸圓，自有圓漸，自有漸漸，自有圓圓。漸圓者，此約理外七種方便，同開佛知見，始見圓理。見圓理者，良由理外七種方便，漸入圓因，故言漸圓。漸圓三句(云云)。圓漸者，初入此圓，同觀三諦，見實相理，初後無殊，然而事中修行，未能盡備，復須研習，據初入圓，故名為圓。進修上行，復名為漸。漸漸者，從二住去至等覺，此是圓家漸漸，非理外漸漸。圓圓者，至妙覺亦名漸圓，亦名圓圓，圓理先圓，今復事圓，故言圓圓。復次，圓漸如初住，漸漸如二住已去至三十心，漸圓如初地已去，圓圓即妙覺也。
+> Two sets of four-sentence clarifications should be made: there is gradual-perfect, perfect-gradual, gradual-gradual, and perfect-perfect. Gradual-perfect means that among seven expedients outside direct realization, all are made to open Buddha knowledge-and-vision and first see perfect principle. Seeing perfect principle is precisely because those seven expedients gradually enter perfect cause, so it is called gradual-perfect. The three further gradual-perfect sentences are omitted (and so on). Perfect-gradual means that at first entry into the perfect one contemplates three truths together and sees reality-mark principle with no difference between beginning and end; yet in practice matters one has not fully completed all aspects and must continue refinement. Thus by initial perfect entry it is called perfect; by advancing higher practice it is called gradual. Gradual-gradual means from second abode up to equal awakening, this is gradual-gradual within the perfect school, not gradual outside realization. Perfect-perfect means at wondrous awakening it is also called gradual-perfect and also perfect-perfect: perfect principle was first complete, and now affairs are complete as well, therefore called perfect-perfect. Again, perfect-gradual corresponds to first abode; gradual-gradual corresponds from second abode through the thirty minds; gradual-perfect corresponds from first ground onward; perfect-perfect is wondrous awakening.
 
-| Half | Chapters | Content | Focus |
-|------|----------|---------|-------|
-| **Trace Gate** (迹門) | 1-14 | Opening expedient, revealing real | **Cause** primary |
-| **Fundamental Gate** (本門) | 15-28 | Revealing original lifespan | **Fruit** primary |
+三十心雖同有賢聖之義，義稱為賢，伏多斷少故。十地去名為聖，伏少斷多故。又十住名賢聖，二十心是聖賢，十地等覺是聖，妙覺是聖聖。今借喻初月，匡郭已圓，光用未備，此譬圓漸；從二日至十四日，其明漸進，此譬漸漸；至十五日此譬漸圓，又譬圓圓。夫月無虧盈，亦約月辨虧盈；理無圓漸，亦約理判圓漸耳。此經之宗，利益巨大，始自圓漸，終竟圓圓。大乘因果，增長具足(云云)。
+> Though the thirty minds all share the meaning of worthy and noble, they are termed worthy because they subdue more and cut less. From ten grounds onward they are termed noble because they subdue less and cut more. Again, ten abodes are worthy-noble, twenty minds are noble-worthy, ten grounds and equal awakening are noble, and wondrous awakening is noble-noble. Now by analogy with the first moon: the circular outline is already full but light-function not yet complete, this analogizes perfect-gradual; from day two to day fourteen, brightness gradually increases, this analogizes gradual-gradual; day fifteen analogizes gradual-perfect and also perfect-perfect. The moon itself has no waxing or waning, yet we speak of waxing and waning by reference to it; principle has no gradual or perfect, yet by reference to principle we distinguish gradual and perfect. This sutra's Essence yields immense benefit, beginning with perfect-gradual and ending in perfect-perfect. Mahayana cause and fruit thus increase to full completion (and so on).
 
-所以經分二文，論本論迹...師弟權實，總在其間也。
+問：
+> Question:
 
-> "Hence the sūtra divides into two texts, discussing Fundamental and Trace... Teacher-and-disciple, expedient-and-real—all are within this."
+既稱圓漸，復稱圓別，乃至通藏亦應爾耶？
+> Since one speaks of perfect-gradual and also perfect-distinct, should this not also apply up through Common and Tripitaka?
 
----
+答：
+> Answer:
 
-# Part Two: Function/Power (用) — The Fourth of Five Chapters
+此義出《四教章》中。其意云何？三藏，三藏可解。別者，諦緣度也。通者，真諦也。圓者，無學辦也。通通者，同無生也。三藏者，道諦中戒定慧也。別者，正習盡不盡也，化他不化他、出假不出假之別也。圓者，同證真也。別別者，別上別下也。三藏者，修無量道諦中戒定慧也。通者，四門俱契中也。圓者，五住盡也。圓圓者，融也。別者，四門異也。通者，四門相攝也。藏者，圓道諦、圓戒定慧也。
+> This meaning comes from the *Chapter on Four Teachings*. What is its intent? Tripitaka is explicable as Tripitaka. "Distinct" means truths, conditions, and perfections. "Common" means true truth. "Perfect" means completion at no-more-learning. Common-with-common means sharing the unborn. Tripitaka means precepts, concentration, and wisdom within path-truth. Distinct means whether right and residual habits are exhausted or not, whether one transforms others or not, whether one exits into provisionality or not. Perfect means shared certification of truth. Distinct-with-distinct means distinctions above and below. Tripitaka again means cultivating immeasurable precepts, concentration, and wisdom within path-truth. Common means all four gates accord with the middle. Perfect means five dwellings exhausted. Perfect-perfect means fusion. Distinct means the four gates are different. Common means the four gates mutually include one another. Tripitaka means perfect path-truth and perfect precepts-concentration-wisdom.
 
-## △大章第四、明用
+此義既通，亦應漸圓，漸圓四句皆得也。結因果皆成也。然後判麁妙開麁妙，悉得也。
+> Since this meaning is already comprehensive, one should also allow gradual-perfect, and all four gradual-perfect sentences are admissible. Concluding cause-fruit is also admissible. Then judging coarse and subtle and opening coarse into subtle are all admissible.
 
-用是如來之妙能，此經之勝用。
+△大章第四、明用者，用是如來之妙能，此經之勝用。如來以權實二智為妙能，此經以斷疑生信為勝用，秖二智能斷疑生信，生信斷疑由於二智，約人約法左右互論耳。
+> The fourth major section clarifies Function: function is the Tathagata's subtle capacity and this sutra's supreme function. The Tathagata's subtle capacity is the two wisdoms, provisional and real; this sutra's supreme function is cutting doubt and generating faith. Only these two wisdoms can cut doubt and generate faith, and generation of faith and cutting of doubt both arise from the two wisdoms; this is discussed left and right by person and by dharma.
 
-> "**Function** is the Tathāgata's **subtle ability**, this sūtra's **superior power**."
+前明宗，就宗體分別，使宗體不濫。今論於用，就宗用分別，使宗用不濫。何者？宗亦有用，用亦有宗。宗用非用用，用用非宗用，用宗非宗宗，宗宗非用宗。宗用者，因果是宗，因果各有斷伏為用；用有宗者，慈悲為用宗，斷疑生信為用用。若論於宗，且置斷伏，但論因果；仐明於用，但論斷疑生信，且置慈悲。若得此意，則知權實二智能斷疑生信，是今經之大用，其義明矣！
+> Earlier Essence was discussed by distinguishing Essence and Substance so they would not be conflated. Now Function is discussed by distinguishing function within Essence and essence within Function so they are not conflated. Essence has function and Function has essence; essence-function is not function-function, and function-function is not essence-function; function-essence is not essence-essence, and essence-essence is not function-essence. Essence-function means cause-fruit as Essence, with each having subduing and suppressing as function. Function-essence means compassion as function's essence and cutting doubt generating faith as function's function. When discussing Essence, we set aside subduing and discuss only cause-fruit; now discussing Function, we discuss only cutting doubt and generating faith and set aside compassion. If one gets this meaning, one knows the two wisdoms cut doubt and generate faith as this sutra's great function, and the point is clear.
 
-如來以權實二智為妙能，此經以斷疑生信為勝用。
+論用開為五：一、明力用。二、明同異。三、明歷別。四、對四悉檀。五、悉檀同異。
+> Function is unfolded in five: (1) clarify power-function, (2) clarify sameness and difference, (3) clarify itemized distinctions, (4) relate to four siddhantas, (5) sameness and difference of siddhantas.
 
-> "The Tathāgata takes **expedient-and-real two wisdoms** as subtle ability. This sūtra takes **breaking doubt and generating faith** as superior power."
+一、正明用者，諸經不純明佛，智慧不發，佛自應迹，不正破廢二乘果、不斷生身菩薩之近疑，起其遠信不顯本地，增法身菩薩大念佛之道，損界外之生。如此力用，眾經所無，今經具之，所以命章。不論二乘菩薩等智，純顯佛之微妙智慧；不開眾生九法界知見，純開眾生佛之知見。餘經但道佛所變化是迹，不道佛身自是迹；今經自道佛身是迹，其餘變化寧得非迹？今經正破廢化城二乘之果，況其因行耶！又破稟方便教菩薩執迹為極，今皆發廢，悉稱是權迹，及中間諸疑悉斷，起於深遠不思議信。又顯本地真實功德，令法身菩薩得大利益。始自初阿，終隣後茶。抹十方那由他土為塵數增道菩薩，不能令盡。蓋由如來雨權實二智一味之雨，普等四方俱下者，一切諸四門俱破也。充足求於具足道者，斷其深疑，起其大信，令入一圓因。控摩訶衍車，遊於四方，直至道場，大用大力，妙能妙益，猶自未盡。
+> First, directly clarifying function: other sutras do not purely reveal Buddha's wisdom, so wisdom does not fully emerge; though Buddha manifests traces, they do not directly break and discard the two-vehicle fruit, nor cut the near doubts of bodily bodhisattvas and generate their far faith, nor reveal the original ground to increase Dharma-body bodhisattvas' great recollection-of-Buddha path and reduce beyond-realm birth. Such power-function is absent in other sutras and present in this one, hence this chapter title. It does not discuss the wisdom of two vehicles or bodhisattvas, but purely reveals Buddha's subtle wondrous wisdom; it does not open beings' knowledge-and-vision of nine dharma-realms, but purely opens beings' Buddha knowledge-and-vision. Other sutras only say Buddha's transformations are trace, not that Buddha's own body is trace; this sutra itself says Buddha-body is trace, so how could other transformations not be trace? This sutra directly breaks and discards transformed-city two-vehicle fruit, much more their causal practice. It also breaks bodhisattvas who received expedient teaching and cling to trace as ultimate; now all are disclosed and discarded as provisional trace, all intermediate doubts are cut, and deep, far, inconceivable faith is generated. It further reveals the original ground's true merits so Dharma-body bodhisattvas gain great benefit. From initial alpha to final tea-neighbor, even bodhisattvas increasing the path as numerous as dust from rubbing ten-direction nayuta lands cannot exhaust it. This is because the Tathagata rains one-flavor rain of provisional-real two wisdoms equally in all four directions, and all four gates are broken. Those seeking the complete path have deep doubt cut and great faith generated, entering one perfect cause. Harnessing the Mahayana cart, they roam in all directions straight to the bodhi-site. Great function and power, subtle capacity and benefit, are still not exhausted.
 
----
+復次，此力能破二乘之果。二乘怖畏生死，入空取證，生安隱想，生已度想，墮三無為坑。若死若死等苦，已如敗種，更不還生，智醫拱手，方藥無用。至如《涅槃》能治闡提，此則為易。闡提心智不滅，夫有心者，皆當作佛，非定死人，治則不難。二乘灰身滅智，灰身則色非常住，滅智則心慮已盡。焦芽敗種，復在高原陸地，既聾且瘂，永無反復，諸教主所棄，諸經方藥不行。今則本佛智大、妙法藥良，色身不灰如淨琉璃，內外色像悉於中現，令心智不滅，開示悟入佛之知見。令客作賤人，付菩提家業，高原陸地，授佛蓮華。其耳一時聽十法界聲；其舌隨一切類，演佛音聲，令一切聞。能以一根遍為眾用，即是今經之力用也。
+> Further, this power can break the two-vehicle fruit. Two-vehicle practitioners fear birth-and-death, enter emptiness and take realization, form the idea of secure peace and of already crossing over, and fall into the pit of three unconditioneds. Their suffering is like dead seeds that do not regrow; the wise physician can only fold his hands and medicine has no use. Even *Nirvana* treating icchantikas is easier: icchantika mind-cognition is not extinguished, and whoever has mind can become Buddha, not fixed dead persons, so treatment is not difficult. But two vehicles burn body and extinguish cognition; with body burned, form is not constant; with cognition extinguished, mind deliberation is exhausted. With withered sprouts and rotten seeds on high dry land, deaf and mute, there is no return; they are abandoned by teaching-masters and untreatable by sutra medicines. Now, with Buddha's great wisdom and the fine medicine of subtle Dharma, form-body is not burned and is like pure lapis, inner and outer forms all appearing within; mind-cognition is not extinguished, and Buddha knowledge-and-vision is opened, shown, awakened, and entered. The hired poor son is entrusted with the bodhi family estate, and lotus of Buddhahood is granted on the high dry land. Their ear in one instant hears voices of ten dharma-realms; their tongue, according to every class, proclaims Buddha sound so all can hear. One faculty can be used universally for all functions, and this is this sutra's power-function.
 
-## Distinguishing Function from Essence
+上已說佛智力竟，今更重說。如漢末三分，曹公智略當時第一，復劣楊修三十五里。此真丹人智不及外國外道智，如芥比山。一切世人外道智，不及舍利弗智十六分一。二乘智如螢火蟲，菩薩智如日光。通菩薩智如鴻鵠，勢不及遠。別菩薩智如金翅鳥，從一須彌至一須彌。別菩薩智如爪上土，比佛智慧如十方土。當知佛之智慧，至融至即，至頓至實，不可思議，不縱不橫，圓妙無比，喻不可盡問答。餘經不純說，今經獨純說之，此佛實智力大也。譬如十小牛，乃至一龍、十龍、一力士、十力士不如五通人，外五通不如一羅漢，一切羅漢不如一目連，目連不如一身子，身子不如菩薩，菩薩不如別菩薩，別菩薩不如圓菩薩，圓菩薩不如佛。佛迹甚大，化復作化，化化無盡，無謀而當，如脩羅琴，一切賢聖，無能測者。佛權力既如此，餘諸義例可知，不復記。
+> Above Buddha-wisdom power has been stated; now it is restated. At the late Han three-way division, Lord Cao's strategic intelligence ranked first in his time, yet still fell short of Yang Xiu by thirty-five li. Intelligence of people in this land does not match foreign outsiders, like mustard seed to mountain. Intelligence of all worldly outsiders is less than one-sixteenth of Sariputra's wisdom. Two-vehicle wisdom is like fireflies; bodhisattva wisdom like sunlight. Common-teaching bodhisattva wisdom is like wild geese, unable to reach far. Distinct-teaching bodhisattva wisdom is like a garuda traveling from one Mount Sumeru to another. Distinct bodhisattva wisdom is like dust on a fingernail compared with Buddha wisdom like earth in ten directions. One should know Buddha wisdom is utterly fused and immediate, sudden and real, inconceivable, neither vertical nor horizontal, perfectly subtle beyond compare, beyond exhaustion by analogy or questioning. Other sutras do not speak it purely; this sutra alone does. This is the greatness of Buddha's real-wisdom power. By analogy, ten small bulls, even one dragon, ten dragons, one strongman, ten strongmen are not equal to a five-supernormal person; outsider five supernormals are not equal to one arhat; all arhats are not equal to one Maudgalyayana; Maudgalyayana is not equal to one Sariputra; Sariputra is not equal to a bodhisattva; bodhisattva is not equal to distinct-teaching bodhisattva; distinct is not equal to perfect; perfect bodhisattva is not equal to Buddha. Buddha's trace-power is immense: transformations produce further transformations without end, fitting without contrivance like the asura lute, immeasurable by any worthy or sage. Since Buddha's provisional power is like this, other meanings can be inferred and need not be recorded further.
 
-宗亦有用，用亦有宗。宗用非用用，用用非宗用。
+二、明同異者。
+> Second, clarifying sameness and difference.
 
-> "Essence also has function; Function also has essence. **Essence's function is not Function's function; Function's function is not Essence's function.**"
+問：
+> Question:
 
-宗用者，因果是宗，因果各有斷伏為用...
+實相體，因果宗，既通眾經，權實二智復云何？
+> Reality-mark as substance and cause-fruit as Essence are common to many sutras, so how are the two wisdoms of provisional and real to be understood?
 
-> "Essence's function: Cause-and-fruit is essence; cause-and-fruit each have subduing as function..."
+答：
+> Answer:
 
-用有宗者，慈悲為用宗，斷疑生信為用用。
+名雖通用，力大差別。藏、通以二智斷四住之疑，生偏真之信。《淨名》雖彈斥二乘及偏行菩薩，亦是界內斷疑生信，不能令小乘及方便菩薩斷大疑生大信。《大品》通意，亦是界內疑斷信生，別意雖在界外，亦未斷近疑生遠信。《華嚴》正意，斷界外疑，生於圓信，亦未斷近生遠。故權實二名雖復通用，而力大異。今經用佛菩提二智，斷七種方便最大無明，同入圓因。破執近迹之情，生本地深信，乃至等覺，亦令斷疑生信。如是勝用，豈同眾經耶？
+> Although the names are used in common, the power differs greatly. Tripitaka and Common use two wisdoms to cut doubt of the four dwellings and generate faith in partial truth. Though *Vimalakirti* criticizes two vehicles and partially practicing bodhisattvas, it still cuts doubt and generates faith only within the realm; it cannot make two-vehicle and expedient bodhisattvas cut great doubt and generate great faith. In *Mahaprajna*, its general intent also cuts doubt and generates faith within the realm; though its distinct intent points beyond the realm, it still has not cut near doubt to generate far faith. *Avatamsaka* in main intent cuts beyond-realm doubt and generates perfect faith, yet still does not cut near to generate far. Therefore, though the two names provisional and real are shared, their power differs greatly. This sutra uses Buddha's bodhi two wisdoms to cut the greatest ignorance of the seven expedient levels and bring all into perfect cause, breaking attachment to near trace and generating deep faith in the original ground, and even up to equal awakening it cuts doubt and generates faith. How could such supreme function be the same as other sutras?
 
-> "Function has essence: **Compassion** is Function's essence; **breaking doubt, generating faith** is Function's function."
+三、別釋，為兩：一、別釋迹門。二、別釋本門。
+> Third, itemized explanation has two parts: (1) itemized explanation of the Trace Gate, (2) itemized explanation of the Origin Gate.
 
----
+釋迹門為十：　　一、破三顯一。
+> Explaining the Trace Gate as ten: first, breaking the three and revealing the one.
 
-## The Unique Function of This Sūtra
+二、廢三顯一。　　三、開三顯一。
+> Second, abandoning the three and revealing the one; third, opening the three and revealing the one.
 
-諸經不純明佛智慧...不正破廢二乘果...如此力用，眾經所無，今經具之。
+四、會三顯一。　　五、住一顯一。
+> Fourth, reconciling the three and revealing the one; fifth, abiding in the one and revealing the one.
 
-> "Other sūtras don't purely clarify Buddha's wisdom... don't directly break and abandon Two-Vehicle fruit... **Such power and function no other sūtra has; this sūtra has it completely**."
+六、住三顯一。　　七、住非
+> Sixth, abiding in the three and revealing the one; seventh, abiding in neither...
 
-純顯佛之微妙智慧；不開眾生九法界知見，純開眾生佛之知見。
+三非一顯一。　　八、覆三顯一。
+> neither three nor one and revealing the one; eighth, covering the three and revealing the one.
 
-> "**Purely reveals Buddha's subtle wisdom**; doesn't open beings' nine-dharma-realm knowledge-and-vision—**purely opens beings' Buddha knowledge-and-vision**."
+九、住三用一。　　十、住一用三。
+> Ninth, abiding in the three and using the one; tenth, abiding in the one and using the three.
 
----
+此意通歷十妙，一一妙中皆具十意，義推可解(云云)。
+> This meaning runs through the ten subtleties: each subtlety includes all ten intents, and the meaning can be inferred (and so on).
 
-## Ten Uses of the Trace Gate
+今就別說者，破三顯一，正破三情而顯一智。何者？昔若初讚佛乘，眾生沒在苦，既不堪聞大，尋念過去佛所行方便力，亦應說三乘。說三乘已，齊教封三情，不更願好者。今破三執顯於佛智，故言諸佛法久後，要當說真實也。
+> Now speaking specifically: breaking three and revealing one directly breaks the three attachments and reveals one wisdom. Why? Formerly, if Buddha had praised Buddha-vehicle at first, beings sunk in suffering would not have borne hearing the great; thus recalling the convenient power used by past Buddhas, he should also teach three vehicles. Once three vehicles were taught, beings sealed themselves to the teaching and fixed the three attachments, no longer aspiring higher. Now he breaks three clingings and reveals Buddha wisdom; therefore it is said, "After long ages, Buddha-dharma must speak the true."
 
-| # | Use | Meaning |
-|---|-----|---------|
-| 1 | 破三顯一 | **Breaking three, revealing one** — Breaking attachment to three vehicles |
-| 2 | 廢三顯一 | **Abandoning three, revealing one** — Abandoning expedient teaching |
-| 3 | 開三顯一 | **Opening three, revealing one** — Opening three to show they are one |
-| 4 | 會三顯一 | **Meeting three, revealing one** — Gathering all practices into one |
-| 5 | 住一顯一 | **Abiding in one, revealing one** — Buddha's original intent |
-| 6 | 住三顯一 | **Abiding in three, revealing one** — Using expedient skillfully |
-| 7 | 住非三非一顯一 | **Abiding in neither-three-nor-one, revealing one** — Transcending categories |
-| 8 | 覆三顯一 | **Covering three, revealing one** — Preserving expedient for later use |
-| 9 | 住三用一 | **Abiding in three, using one** — Disciples abiding in expedient |
-| 10 | 住一用三 | **Abiding in one, using three** — Original vow to teach three |
+廢三顯一者，此正廢教。雖破其情，若不廢教，樹想還生，執教生惑，是故廢教。正直捨方便，但說無上道，十方佛土中，唯有一乘法，無二亦無三。
+> Abandoning three and revealing one directly abandons teaching. Even if attachment is broken, if teaching is not abandoned, conceptual trees regrow and attachment to teaching produces delusion; therefore teaching is abandoned. "Straightforwardly discard expedients and speak only unsurpassed path; in Buddha-lands of ten directions there is only one vehicle-dharma, without two and without three."
 
----
+開三顯一者，正就於理，傍得約教。約教者，昔教明三人入真，今教明三人得佛也。正約理者，秖是二乘真空，自有實相。昔方便不深，不能妙見。今開此空即是實相，故言決了聲聞法，是諸經之王；開方便門，示真實相。《大經》云：「為諸聲聞開發慧眼。」
+> Opening three and revealing one is mainly in principle, with secondary reference to teaching. In teaching terms: formerly teaching explained three persons entering truth; now teaching explains three persons attaining Buddhahood. In principle terms: the two-vehicle true emptiness itself has reality-mark. Former expedients were not deep enough, so this was not subtly seen. Now opening this emptiness as precisely reality-mark, thus "decisively understanding sravaka dharma as king of sutras; opening the gate of expedients and showing true reality-mark." The *Great Sutra* says, "For sravakas, open and develop the wisdom-eye."
 
-## Ten Uses of the Fundamental Gate
+會三顯一者，正就於行。《大品》會宗云：「四念處四禪等，皆是摩訶衍。」但會其法，未會其人。此經人法行俱會，故云：汝等所行是菩薩道，漸漸修學悉當成佛，低頭舉手皆成佛道(云云)。
+> Reconciling three and revealing one is mainly in practice. The *Mahaprajna* doctrinal synthesis says "four establishments of mindfulness and four dhyanas are all Mahayana." It reconciles dharmas but not persons. This sutra reconciles persons, dharmas, and practices together; therefore it says, "What you practice is bodhisattva path; by gradual study all shall become Buddha; lowering head and raising hand all become Buddha path" (and so on).
 
-| # | Use | Meaning |
-|---|-----|---------|
-| 1 | 破迹顯本 | **Breaking trace, revealing fundamental** |
-| 2 | 廢迹顯本 | **Abandoning trace, revealing fundamental** |
-| 3 | 開迹顯本 | **Opening trace, revealing fundamental** |
-| 4 | 會迹顯本 | **Meeting trace, revealing fundamental** |
-| 5 | 住本顯本 | **Abiding in fundamental, revealing fundamental** |
-| 6 | 住迹顯本 | **Abiding in trace, revealing fundamental** |
-| 7 | 住非迹非本顯本 | **Abiding in neither-trace-nor-fundamental, revealing fundamental** |
-| 8 | 覆迹顯本 | **Covering trace, revealing fundamental** |
-| 9 | 住迹用本 | **Abiding in trace, using fundamental** |
-| 10 | 住本用迹 | **Abiding in fundamental, using trace** |
+住一顯一者，此就佛本意，本以實智化物，佛平等說如一味雨，佛自住大乘，如其所得法，定慧力莊嚴，以此度眾生。若以小乘化，我則墮慳貪，是事為不可。故知從得道夜，常說中道，常說大乘；而眾生罪故，故使如來以毒塗乳，著弊垢衣，方便婆和，引令向大。故言雖說種種道，其實為一乘(云云)。
+> Abiding in one and revealing one is from Buddha's original intent. Originally, with real wisdom, he transformed beings: Buddha's equal teaching is like one-flavor rain. "The Buddha himself abides in Great Vehicle; with the dharma he has attained, adorned by concentration and wisdom, he ferries beings." "If I taught by lesser vehicle, I would fall into miserliness; this is impossible." Therefore from the night of attainment, he always taught middle way and always taught Great Vehicle. Yet because beings have offenses, the Tathagata used poison on milk and wore worn dirty garments, harmonizing by expedients to lead them toward the great. Hence, "Though various paths are taught, in truth it is one vehicle" (and so on).
 
----
+住三顯一者，此就佛權智，方便化物。尋念過去佛所行方便力，我今亦如是，即趣波羅柰，以方便力故，為五比丘說。過去諸佛，亦住三乘而顯一乘，今佛亦爾，故言更以異方便，助顯第一義。又昔於菩薩前毀訾聲聞，然佛實以大乘而得度脫。
+> Abiding in three and revealing one is from Buddha's provisional wisdom, skillfully transforming beings. Recalling the expedient power practiced by past Buddhas, "I now also do the same," going to Varanasi and teaching five bhiksus by expedient power. Past Buddhas likewise abided in three vehicles while revealing one vehicle; now Buddha is the same. Therefore it says, "Again by a different expedient, assisting to reveal the first meaning." Formerly before bodhisattvas he criticized sravakas, yet in truth Buddha used Great Vehicle to liberate them.
 
-## Connection to Four Siddhāntas
+住非三非一顯一者，或約理，或約事。約理者，是法住法位，世間相常住，是法不可示，知法常無性，佛種從緣起。無性即非三非一，從緣起即是三緣顯一，令會非三非一。約事者，即是人天乘，此乘非三，亦復非一。常以此乘引入於大，低頭舉手，皆成佛道，若我遇眾生，盡教以佛道。
+> Abiding in neither three nor one and revealing one can be read by principle or by affairs. By principle: "Dharma abides in dharma-position; worldly marks are always abiding; this dharma cannot be shown; knowing dharma always without self-nature, Buddha-seed arises from conditions." No self-nature is neither three nor one; arising from conditions is three conditions revealing one, causing entry into neither-three-nor-one. By affairs: this is human-heaven vehicle, neither three nor one. Constantly using this vehicle to lead into the great, lowering head and raising hand all become Buddha path: "If I encounter beings, I teach all by Buddha path."
 
-結成悉檀者，權實二智，十用不同，即是一音演說，隨類各解。
+覆三顯一者，此就權巧多端，前權前度，但除其病，不除其法，法不除故，擬化後緣，若破此法，後何所用？機息則覆，機興則用，何但佛爾，入實菩薩亦然。若有不信此法，於餘深法中，示教利喜(云云)。
+> Covering three and revealing one is skillful versatility. In previous expedient rescue, only the disease was removed, not the dharma itself; because dharma was not removed, it could transform later conditions. If this dharma were broken, what would be used later? When the opportunity rests, it is covered; when opportunity arises, it is used. Not only Buddha, but bodhisattvas entering reality also do this. "If there are those who do not trust this dharma, in other deep dharmas one shows, teaches, benefits, and gladdens" (and so on).
 
-> "**Concluding with Siddhāntas**: Expedient-real two wisdoms, ten uses different—this is **one voice teaching, each type understanding according to its kind**."
+住三用一者，此就法身妙應眷屬，前住三顯一是師門，今住三用一是弟子門。如富樓那等，實是法身，現作聲聞，示住於三而常顯一，饒益同梵行者。
+> Abiding in three and using one concerns Dharma-body responsive retinue. Earlier "abiding in three and revealing one" is teacher-gate; now "abiding in three and using one" is disciple-gate. Figures like Purna are in truth Dharma-body, appearing as sravakas, showing abiding in three while always revealing one, benefiting companions of Brahma-conduct.
 
-| Siddhānta | Trace Uses | Fundamental Uses |
-|-----------|------------|------------------|
-| **World** (世界) | Abiding in 3+1, using 3 | Abiding in trace/fundamental |
-| **Person** (為人) | Opening, meeting, abiding in 3 | Opening, meeting trace |
-| **Cure** (對治) | Breaking, abandoning, covering | Breaking, abandoning trace |
-| **Ultimate** (第一義) | Abiding in 1, neither-3-nor-1 | Abiding in fundamental, neither |
+住一用三者，此就本誓，如華光作佛，願說三乘，而非惡世。今佛亦於寶藏佛所，願於惡世說此三乘(云云)。但權實大用包括法界，豈止十意而已，為顯十妙之用，故略言十耳。
+> Abiding in one and using three concerns original vow: as when Huaguang becomes Buddha and vows to teach three vehicles, though not in an evil age. The present Buddha also, before Treasure-Store Buddha, vowed to teach these three vehicles in an evil age (and so on). Provisional-real great function includes the whole Dharma-realm, not only ten intents, but ten are briefly stated to reveal function of the ten subtleties.
 
----
+破三顯一是用智妙，廢三顯一是用說法妙，開三顯一是用境妙，會三顯一是用行妙，住一顯一是用乘妙，住三顯一是用感應妙，住非三非一顯一是用神通妙，覆三顯一是用位妙，住三用一是用眷屬妙，住一用三是用利益妙。
+> Breaking three and revealing one applies subtle wisdom; abandoning three and revealing one applies subtle teaching; opening three and revealing one applies subtle realm; reconciling three and revealing one applies subtle practice; abiding in one and revealing one applies subtle vehicle; abiding in three and revealing one applies subtle stimulus-response; abiding in neither three nor one and revealing one applies subtle supernormal powers; covering three and revealing one applies subtle position; abiding in three and using one applies subtle retinue; abiding in one and using three applies subtle benefit.
 
-## The Unique Power of This Sūtra
+將十用對當十妙，文義相揀，大意可解(云云)。
+> Matching these ten functions to the ten subtleties and checking wording and meaning, the main intent can be understood (and so on).
 
-此經開權顯實，四悉檀大用最為雄猛。發迹顯本，四悉檀永異眾經。
+二、本門力用，例為十意。若扶文便，應言開近顯遠。若取義便，應言本迹，秖呼近為迹、遠為本，名異義同。所言十者：
+> Second, Origin Gate power-function is likewise ten intents. If following wording convenience, one may say "open the near and reveal the far"; if following meaning convenience, one may say origin-trace, simply calling near "trace" and far "origin". Names differ, meaning is same. The ten are:
 
-> "This sūtra's **opening expedient, revealing real**—Four Siddhāntas' great function is **most heroic and fierce**. **Revealing trace, manifesting fundamental**—Four Siddhāntas **eternally different from all other sūtras**."
+一、破迹顯本。　　二、廢迹顯本。
+> First, breaking trace and revealing origin; second, abandoning trace and revealing origin.
 
-迹中力用，已出諸教；本中十用，諸經無一！
+三、開迹顯本。　　四、會迹顯本。
+> Third, opening trace and revealing origin; fourth, reconciling trace and revealing origin.
 
-> "The Trace's power and function **already surpasses all teachings**; the Fundamental's ten uses—**no other sūtra has even one**, let alone ten!"
+五、住本顯本。　　六、住迹顯本。
+> Fifth, abiding in origin and revealing origin; sixth, abiding in trace and revealing origin.
 
----
+七、住非迹非本顯本。　　八、覆迹顯本。
+> Seventh, abiding in neither trace nor origin and revealing origin; eighth, covering trace and revealing origin.
 
-## Footnotes
+九、住迹用本。　　十、住本用迹。
+> Ninth, abiding in trace and using origin; tenth, abiding in origin and using trace.
 
-[^1]: The **Essence (宗)** chapter establishes that the *Lotus Sūtra*'s aim is **One-Vehicle cause-and-fruit**, divided into the Trace Gate (cause-primary) and Fundamental Gate (fruit-primary).
+通就本門一一妙中皆具十意。若別論者，破迹顯本，亦就破情。〈序品〉、〈方便〉、〈寶塔〉三文，已動執生疑。如文殊答彌勒云：昔八王子師事妙光，妙光先居補處，而王子成佛，號曰然燈。弟子今又成佛，號曰釋迦。妙光翻為弟子，字曰文殊。動迹執生此疑，何由可決？今言非是補處淹緩，亦非弟子超越，良由釋迦成道已久，昔示弟子、今示作師耳。拂此迹疑，顯於本智，故言破迹顯本也。〈方便品〉云：「我從久遠劫來，讚示涅槃道，生死苦永盡，我常如是說。」當知生死久已永盡，非是中間始入涅槃。寶塔涌現，證示滅不滅，即迹而常。分身皆集，八方不可稱數，分身既多，當知成佛久矣！如荷積滿池之喻。推三品文，已是破迹之漸。所以下方涌出，非寂滅道場受化，亦非他方分身所受化，此兩處人彌勒皆識，而今不識，所以驚疑。破此近情，顯本長遠，故文云：「一切世間皆謂我釋迦牟尼，出釋氏宮，去伽耶城不遠，得三菩提。然我實成佛來，無量百千萬億那由他劫。」直舉世界問彌勒，彌勒不知其數，何況世界中塵而當可數？此是破近執謂，生其遠智也。
+> Generally, each subtlety in the Origin Gate includes these ten intents. Specifically, breaking trace and revealing origin also targets breaking attachment. The Introductory, Skillful Means, and Jeweled Stupa chapters already move attachment and generate doubt. As Manjusri answered Maitreya: formerly eight princely sons studied under Miaoguang, who first occupied a supplementary place, yet the princes became Buddhas named Dipamkara; the disciple now again became Buddha named Sakyamuni; Miaoguang, turned as disciple, is called Manjusri. This moved attachment to trace and generated doubt. How can it be resolved? It is said now that this was neither delayed at supplementary rank nor disciple's leapfrogging, but because Sakyamuni attained Buddhahood long ago and formerly appeared as disciple while now appearing as teacher. Sweeping away this trace-doubt reveals origin wisdom, hence "breaking trace and revealing origin." The Skillful Means chapter says, "From long-remote kalpas I have praised and shown the nirvana path, saying suffering of birth-and-death is forever ended." One should know birth-and-death was long ago ended, not first entering nirvana in the middle period. The jeweled stupa surges forth, proving extinction and nonextinction, namely trace as constant. Manifested bodies gather and the eight directions are beyond counting; since manifested bodies are many, Buddhahood must have been attained long ago, like lotus filling a pond. Pushing these three chapters already begins breaking trace. Therefore those emerging from below were not transformed at the quiescent bodhi-site nor transformed by manifested bodies from other lands; Maitreya knows those two groups but does not know these, thus startled and doubtful. Breaking this near attachment reveals far origin, therefore: "All the world says I, Sakyamuni, left the Sakya palace, not far from Gaya, and attained bodhi. Yet in truth I attained Buddhahood immeasurable hundreds of thousands of myriads of kotis of nayuta kalpas ago." If one directly asks Maitreya by counting worlds, Maitreya does not know the number, much less dust within worlds. This breaks near clinging and gives rise to far wisdom.
 
-[^2]: The **Function (用)** chapter identifies the sūtra's unique power as **breaking doubt and generating faith** (斷疑生信), accomplished through twenty applications—ten for each gate.
+廢迹顯本者，亦就說法。昔為五濁障重，不得遠說本地，但示迹中近成。今障除機動，須廢道樹王城迹中之說，皆是方便。執近之心既斷，封近之教亦息。文云：「自從是來，我常在此娑婆世界說法教化，亦於餘處百千萬億那由他阿僧祇國導利眾生。」即是廢一期之迹教，顯久遠之本說也。
+> Abandoning trace and revealing origin also concerns teaching. Formerly, because heavy obstructions in the five turbidities, origin ground could not be taught from afar and only near attainment in trace was shown. Now obstructions are removed and capacities aroused; one must abandon doctrines of tree and royal-city attainment in trace as all expedient. Once mind clinging to the near is cut, near teaching closure also ceases. The text says: "Since then, I have always in this Saha world taught and transformed, and in other hundreds of thousands of myriads of kotis of nayuta asamkhyeya lands guided and benefited beings." This is abandoning one-period trace teaching to reveal long-remote origin teaching.
 
----
+開迹顯本者，此亦就法，亦就理。秖文殊所述，然燈佛及久遠來，讚示涅槃道，及分身諸佛。如此迹說，以是顯本之意，惑者未悟玄旨。今若顯本，亦不逈就餘途，還開近迹示其本要耳。就理者，但深觀方便之迹，本理即顯。文云：「我實成佛已來，久遠若斯，但以方便教化眾生，令入佛道。」若入佛道，即於迹得本也。
+> Opening trace and revealing origin also concerns dharma and principle. Specifically what Manjusri recounted of Dipamkara, ancient praise of nirvana path, and manifested Buddhas, these trace teachings were all intended to reveal origin, though deluded people did not awaken to the hidden purport. If origin is now revealed, it is not by another route but by opening near trace to show origin's core. By principle, deeply contemplating expedient trace reveals origin principle. The text says: "In truth, since I became Buddha, it has been long as this, but by expedients I teach beings and cause entry to Buddha path." If they enter Buddha path, then origin is attained through trace.
 
-*Fascicle 9 translation complete. Final fascicle (10) covers Five Periods and Eight Teachings...*
+會迹顯本者，此則就行。尋迹中諸行，或從此佛行行得記，或從彼佛行行得記，或示己身他身，隨機應現長短大小。諸迹悉從本垂，若結會古今，還結迹而顯本耳。本迹雖殊，不思議一。文云：「諸善男子！於是中間，我說然燈佛等，又復言其入於涅槃，如此皆是方便分別。」即會迹顯本意也。
+> Reconciling trace and revealing origin concerns practice. Looking at practices within trace, some receive prediction through practicing under this Buddha, some under that Buddha, some by showing own body and other bodies according to capacities, appearing in long-short and large-small forms. All traces are hung down from origin; when one reconciles ancient and present, one reconciles trace to reveal origin. Origin and trace differ, yet are inconceivably one. The text says: "Good sons, during this interval I spoke of Dipamkara and others and again said they entered nirvana; all these are expedient discriminations." This is the intent of reconciling trace to reveal origin.
+
+住本顯本，此就佛本意。即如下方菩薩於空中住，法身佛為法身菩薩說法，法身修道，純說一乘。文云：「娑婆世界純以黃金為地，人天充滿。」又云：「人眾見燒盡，我淨土不毀。」能如是深觀，是為深信解相，常住此本，恒顯於本。文云：「我成佛已來，甚大久遠，壽命無量阿僧祇劫，常住不滅。」豈非住本顯本也？
+> Abiding in origin and revealing origin concerns Buddha's original intent, as bodhisattvas below abiding in space and Dharma-body Buddha teaching Dharma-body bodhisattvas, with Dharma-body cultivating path and purely teaching one vehicle. The text says: "The Saha world is purely golden ground, filled with humans and devas." It also says: "When people see it burned, my pure land is not destroyed." To contemplate thus deeply is deep faith-understanding mark: constantly abiding in this origin and always revealing this origin. The text says: "Since I became Buddha, it has been very long, lifespan immeasurable asamkhyeya kalpas, constantly abiding and not extinguished." Is this not abiding in origin and revealing origin?
+
+住迹顯本者，此就迹意，即是釋迦住生身而顯一。由顯一故，古佛塔涌。塔涌故，召請分身。分身集故，幕覓弘經，下方出現。幕覓弘經，下方出現，彌勒疑問。問故說壽長遠，動執遣疑，是為住迹顯本也。文云：「我以佛眼觀其信等諸根，乃至種種方便，說微妙法，能令眾生發歡喜心也。」
+> Abiding in trace and revealing origin concerns trace-intent: Sakyamuni abides in birth-body to reveal one. By revealing one, ancient Buddha's stupa rises. Because stupa rises, manifested bodies are summoned. Because manifested bodies gather, there is broad search for one to uphold the sutra and those below appear. With their appearance, Maitreya asks in doubt. Because of the question, long lifespan is taught, attachment moved and doubt dispelled. This is abiding in trace and revealing origin. The text says: "With Buddha-eye I observe their faith and faculties and by many expedients teach subtle dharma that can make beings generate joyful mind."
+
+住非迹非本而顯本者，此約絕言冥會，即是非本非迹而能本迹。昔非迹而垂迹，今非本而顯本。文云：非實非虛，非如非異，如斯之事，如來明見也。
+> Abiding in neither trace nor origin while revealing origin concerns transcending words and silent union: neither origin nor trace yet able to be origin-trace. Formerly nontrace hung down trace; now nonorigin reveals origin. The text says: not real not empty, not such not different; in matters like these the Tathagata clearly sees.
+
+覆迹顯本者，亦約機應多端。若執迹障本，故覆令不執，更對後機，還須用迹，故有師子奮迅之力。文云：「以若干言辭，因緣譬喻，種種說法。」所作佛事，未曾暫廢。
+> Covering trace and revealing origin also follows many-sided responsive capacities. If clinging to trace obstructs origin, it is covered to prevent clinging; facing later capacities, trace must again be used, therefore lion-vigor force. The text says: "With various words, causes and conditions, and similes, he teaches in many ways." Buddha-work thus done is never temporarily abandoned.
+
+住迹用本者，上來住迹顯本者，直是迹中隨機方便顯本地理。今言住迹用本者，即是中間，迹至道樹，數數生滅。他身他事者，皆用本地實因實果，種種本法，為諸眾生而作佛事，故言住迹用本，此就師為解。若約弟子者，即是本時妙應眷屬，住於權迹，垂形九道，而用本法利益眾生。文云：「然我今非實滅度，而便唱言當取滅度。如來以是方便，教化眾生。」此是住迹，而用本時滅度而示滅度也。
+> Abiding in trace and using origin: earlier "abiding in trace and revealing origin" meant trace-side expedients revealing origin principle. Now "abiding in trace and using origin" means that in the middle, from trace up to bodhi-tree, repeated births and extinctions, and all events in other bodies, all use origin-ground true cause and true fruit and many origin dharmas to perform Buddha-work for beings, hence abiding in trace and using origin, explained from teacher side. From disciple side, this is origin-time wondrous responsive retinue abiding in provisional trace, manifesting forms in nine paths, and using origin dharma to benefit beings. The text says: "Though I am now not truly entering extinction, I announce I will take extinction. By this expedient the Tathagata teaches beings." This is abiding in trace while using origin-time extinction to demonstrate extinction.
+
+住本用迹者，即是本地不動而迹周法界，非生現生、非滅現滅，常用此迹利潤眾生。此義據師。若據弟子者，即是法身菩薩，以不住法住於本地，無謀之權，迹用無盡。文云：「又善男子！諸佛如來，法皆如是，為度眾生，皆實不虛。」佛散赴眾緣，文小不次，今題來證義，引於〈壽量〉文盡。
+> Abiding in origin and using trace means origin-ground unmoving while traces pervade Dharma-realm: not born yet appearing born, not extinguished yet appearing extinguished, always using this trace to benefit beings. This is from teacher side. From disciple side, Dharma-body bodhisattvas abide in origin-ground by non-abiding dharma, with uncontrived skillful means and inexhaustible trace-function. The text says: "Also, good sons, all Buddhas Tathagatas are thus, for saving beings, all true and not false." Buddha disperses to meet all conditions; text order here is brief and not sequential, and this heading concludes by citing the Lifespan chapter to the end.
+
+破迹顯本，會迹顯本，別用因妙。開迹顯本，是別論用本果妙。住本顯本，是別用本國土妙。廢迹顯本，別論是用本說法妙。住非迹非本，別論是用本感應妙。覆迹顯本，別論是用本神通妙。住迹用本，別論是用本壽命妙，亦是用本眷屬妙。住本用迹，別論是用本涅槃妙，亦是本利益妙(云云)。
+> Breaking trace and revealing origin and reconciling trace and revealing origin specifically apply subtle cause of origin. Opening trace and revealing origin specifically applies subtle origin fruit. Abiding in origin and revealing origin specifically applies subtle origin land. Abandoning trace and revealing origin specifically applies subtle origin teaching. Abiding in neither trace nor origin specifically applies subtle origin stimulus-response. Covering trace and revealing origin specifically applies subtle origin supernormal powers. Abiding in trace and using origin specifically applies subtle origin lifespan and also subtle origin retinue. Abiding in origin and using trace specifically applies subtle origin nirvana and also origin benefit (and so on).
+
+四、結成悉檀者，權實二智，十用不同，即是一音演說，隨類各解。迹中破廢，令七種方便開佛知見。本中破廢，恒沙菩薩斷疑增道，皆是四悉檀意，成熟眾生。今束此十用為四悉檀：先、束迹門。次、束本門。
+> Fourth, concluding as siddhanta: provisional-real two wisdoms and ten differing functions are one sound expounded with each class understanding according to kind. Trace-gate breaking and abandoning causes seven expedient levels to open Buddha knowledge-and-vision. Origin-gate breaking and abandoning causes bodhisattvas as many as Ganges sands to cut doubt and increase path. All are for maturing beings by the intent of four siddhantas. Now gather these ten functions into four siddhantas: first gather Trace Gate, then gather Origin Gate.
+
+迹又為二：先、別束。次、通束。別者，開三顯一、住三用一、會三歸一，此三條屬為人悉檀。何者？本習此三，今還約三修一，不改途易轍，秖深觀此三，一理自顯。三中有一，不須取捨，故開三顯一，屬為人悉檀。住三用一亦如是，秖就此三而修一道，如富樓那，但住聲聞而自饒益，亦能饒益同梵行者，即是不改三法能生一解，皆屬為人悉檀也。破三、廢三、覆三，此三屬對治。其封三疑一，斥破其情，廢於權教，密覆權法，令執病心，除入一實道，安住實智中也。住三顯一、住一用三，兩種屬世界悉檀。何者？世界以樂欲為本，若眾生欲得三乘之道，不欲聞一實之化，故佛自住一，同彼說三。又三乘緣異，如世界隔別，故名世界悉檀也。住三顯一，亦是世界。何者？佛隨人法，住於方便，調熟顯一，故屬世界悉檀也。住一顯一、住非三非一顯一，此屬第一義悉檀也。
+> Trace has two parts: first specific grouping, second general grouping. Specifically, opening three revealing one, abiding in three using one, and reconciling three returning one belong to the For-Person siddhanta. Why? They formerly trained in these three and now still cultivate one through these three without changing route or track; by deeply contemplating these three, one principle manifests. Since one is in the three and no grasping or rejecting is needed, opening three revealing one belongs to For-Person siddhanta. Abiding in three using one is likewise: cultivating one path through these three, like Purna abiding as sravaka while benefiting himself and fellow Brahma-practicers, meaning one insight is generated without changing the three dharmas; all belong to For-Person siddhanta. Breaking three, abandoning three, and covering three belong to Counteractive siddhanta. They seal three and doubt one, rebuke and break attachment, abandon provisional teaching, and conceal provisional dharma so diseased clinging mind is removed and enters one real path, abiding in real wisdom. Abiding in three revealing one and abiding in one using three belong to Worldly siddhanta. Why? Worldly takes desire as basis: if beings desire three-vehicle path and do not desire one-real transformation, Buddha himself abides in one and speaks three with them. Also, three-vehicle conditions differ like worldly separations, so called Worldly siddhanta. Abiding in three revealing one is also worldly because Buddha follows persons and dharmas, abides in expedients, ripens and reveals one. Thus it belongs to Worldly siddhanta. Abiding in one revealing one and abiding in neither-three-nor-one revealing one belong to the First-Meaning siddhanta.
+
+通明四悉檀者，秖破三顯一，得有四種益。何者？君子樂聞過，小人惡聞愆，欲知過必改，即為破執除病，歡喜奉行，即是世界也。若執住三，不能進道，破三從一，覺悟心生，善法增進，是名為人也。執三是病，說一為樂，是名對治也。若聞破三得見理，名第一義也。餘九種例爾。故知佛之善巧稱合機緣，皆令得益，四悉檀之力也(云云)。
+> Generally speaking of four siddhantas: simply by breaking three and revealing one, four kinds of benefit are obtained. Why? Noble persons enjoy hearing faults while petty persons dislike hearing faults; if faults are known they must be corrected, this is breaking attachment and removing disease, and joyful practice is worldly benefit. If one clings to abiding in three and cannot advance, then breaking three and following one gives rise to awakened mind and growth of wholesome dharma, called For-Person benefit. If clinging to three is disease and one-teaching is medicine, this is Counteractive. If hearing break-three yields seeing principle, this is First-Meaning. The remaining nine are analogous. Thus Buddha's skillful fitting to capacities always grants benefit by power of the four siddhantas (and so on).
+
+二、結本門十用為四悉檀者，亦有別、通二意。住迹顯本、住本用迹，此屬世界悉檀，亦名隨樂欲，釋如前。開迹顯本、會迹顯本、住迹用本，屬為人悉檀，不改途更修，還約本法修顯本也，釋如前。破迹、廢迹、覆迹，屬對治。住本顯本、住非本非迹顯本，屬第一義，釋如前。
+> Second, gathering Origin Gate ten functions into four siddhantas also has specific and general aspects. Abiding in trace revealing origin and abiding in origin using trace belong to Worldly siddhanta, also called following desire, as explained above. Opening trace revealing origin, reconciling trace revealing origin, and abiding in trace using origin belong to For-Person siddhanta: not changing route yet cultivating further, still using origin dharma to cultivate and reveal origin, as explained above. Breaking trace, abandoning trace, and covering trace belong to Counteractive. Abiding in origin revealing origin and abiding in neither origin nor trace revealing origin belong to First-Meaning, as explained above.
+
+次、通約一科，結四悉檀，亦如前，餘九例亦爾，具解(云云)。
+> Next, generally for one category, the four siddhantas are concluded as above, and the other nine are analogous and fully understandable (and so on).
+
+五、悉檀同異者，餘經亦用四悉檀，破三顯一、破迹顯本等，而與此有異。即為兩：一、迹門明異。二、本門明異。
+> Fifth, sameness and difference of siddhantas: other sutras also use four siddhantas, such as breaking three revealing one and breaking trace revealing origin, yet differ from this sutra. This has two parts: (1) differences in Trace Gate, (2) differences in Origin Gate.
+
+迹門異者，三藏中亦用四悉檀破廢等意，但為有餘、無餘涅槃(云云)。《大品》中共般若，亦用四悉檀破立廢等意，但悟真理，未能久圓(云云)。方等中亦破三顯一，於菩薩人有一分同，二乘人不得入實，故十弟子被淨名訶墮八邪、不入眾數，此是破斥之語。稱歎不思議大乘之道，皆用四悉檀意，而二乘不悟也。此經用四悉檀意，二乘而得斷疑除執，入佛正道，受記作佛。故知此經用四悉檀巧妙。文云：「言辭柔軟，悅可眾心。」身子領解云：「佛以種種緣，譬喻巧言說，其心安如海，我聞疑網斷……安住實智中。」即其義也。
+> Trace-gate differences: Tripitaka teaching also uses four siddhantas for breaking and abandoning, but only for nirvana with remainder and without remainder (and so on). In *Mahaprajna* shared prajna also uses four siddhantas for breaking, establishing, and abandoning, but only awakens true principle and does not become long-lastingly perfect (and so on). In Vaipulya there is also breaking three revealing one; for bodhisattvas there is partial sameness, but two-vehicle persons cannot enter the real, so the ten disciples were rebuked by Vimalakirti as fallen into eight wrongs and not counted among the assembly. These are words of refutation. Praising the inconceivable Mahayana path also uses four siddhanta intent, yet two vehicles do not awaken. In this sutra, by four siddhanta intent, two vehicles cut doubt and remove attachment, enter Buddha's right path, and receive prediction of Buddhahood. Therefore this sutra's use of four siddhantas is exquisitely skillful. The text says, "Words are gentle and pleasing to minds." Sariputra's understanding says, "Buddha by many causes, similes, and skillful speech made his mind calm like the sea; hearing, my net of doubt was cut ... and I abide in real wisdom." This is that meaning.
+
+問：
+> Question:
+
+法華顯一，還藉先破，無前調熟，今亦不解。
+> The Lotus reveals one, yet still depends on prior breaking; without prior ripening, one still would not understand now.
+
+答：
+> Answer:
+
+今日得悟，由昔彈訶，但功屬此經，名非彼得。譬如百人共圍一賊，而攻圍之力實賴眾人，能擒賊者得勳，不屬百人(云云)。
+> Today's awakening came from former refutation and correction, yet the merit belongs to this sutra and the title does not belong to those others. It is like a hundred people surrounding one thief: the force of attack depends on all, but the one who captures the thief gets the merit, not the hundred (and so on).
+
+此經開權顯實，四悉檀大用最為雄猛(云云)。發迹顯本，四悉檀永異眾經。何者？迹中力用，已出諸教；本中十用，諸經無一，況當有十！迹中悉檀已出諸經，本中悉檀諸經無一，何況有四！可以意推，無煩多記也。
+> This sutra's opening provisional and revealing real gives the four siddhantas their most heroic and fierce great function (and so on). Revealing trace and manifesting origin makes the four siddhantas forever different from other sutras. Why? Trace-gate power-function already surpasses other teachings; in Origin Gate no other sutra has even one of the ten functions, much less ten. Trace-gate siddhantas already surpass other sutras; in Origin Gate no other sutra has even one, much less four. One can infer this by intent; no need for further prolix record.
+

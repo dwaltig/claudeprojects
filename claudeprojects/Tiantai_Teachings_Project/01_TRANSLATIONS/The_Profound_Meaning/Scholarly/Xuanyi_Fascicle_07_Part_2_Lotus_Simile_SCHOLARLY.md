@@ -7,211 +7,161 @@
 
 ## Colophon
 
-**Source Text:** *Taishō Tripiṭaka* Vol. 33, No. 1716  
-**Section:** Fascicle 7 Lower (Lines 431–527)  
+**Source Text:** *Taisho Tripitaka* Vol. 33, No. 1716  
+**Section:** Fascicle 7 Lower (Lines 431-527)  
 **Translator:** The Architect (MAS Agent)  
 **Date:** January 17, 2026
 
 ---
 
-## △次、釋蓮華
-# Explaining "Lotus Flower"
+## T1716_007
 
----
+△次、釋蓮華者，為四意：一、定法譬。二、引舊釋。三、出經論。四、正解釋。
+> Next, in explaining "lotus flower," there are four intentions: (1) determining dharma and simile, (2) citing old explanations, (3) adducing sutra and treatise evidence, (4) giving the proper interpretation.
 
-### Four Topics
+定法譬者，權實難顯，借喻蓮華，譬於妙法。又七喻文多，故以譬標題。又解云：蓮華非譬，當體得名。類如劫初，萬物無名，聖人觀理，準則作名：如蛛羅引絲，倣之結網；蓬飛獨運，依而造車；浮槎汎流而立舟；鳥跡成文而寫字；皆法理而制事耳。今蓮華之稱，非是假喻，乃是法華法門；法華法門清淨，因果微妙，名此法門為蓮華，即是法華三昧當體之名，非譬喻也。餘經多自釋名，此經無解，或是其文未度耳。而此兩釋皆有道理，今融二意。
+> In determining dharma and simile, provisional and real are difficult to reveal, so the lotus is borrowed as a simile for the subtle Dharma. Also, because the text of the seven similes is extensive, the title is marked by simile. Another explanation says that lotus is not a simile but receives its name as the very thing itself. This is like the beginning of a kalpa when things had no names: sages observed principle and made names by standards, like a spider drawing silk and one imitating it to weave a net, tumbleweed flying on its own and one relying on it to make a cart, a floating raft drifting and one establishing a boat, bird tracks making patterns and one writing characters from them; all are making affairs from principle. Thus the name "lotus" is not a borrowed simile but the Dharma gate of the Lotus. The Lotus Dharma gate is pure, and its causes and results are subtle, so this Dharma gate is named lotus; this is the intrinsic name of Lotus Samadhi, not figurative language. Many other sutras explain their own names; this sutra gives no explanation, perhaps because that portion was not transmitted. Yet both explanations are reasonable, so here the two meanings are fused.
 
-為四意：一、定法譬。二、引舊釋。三、出經論。四、正解釋。
+問：
+> Question:
 
-> This has **four topics**:
-> 1. Determining dharma and metaphor
-> 2. Citing old explanations
-> 3. Producing sūtra-and-śāstra [evidence]
-> 4. Proper explanation
+蓮華定是法華三昧之蓮華？定是華草之蓮華？答：
+> Is "lotus" definitely the lotus of Lotus Samadhi, or definitely the lotus of flowers and plants? Answer:
 
----
+定是法蓮華，法蓮華難解，故草華為喻。利根即名解理，不假譬喻，但作法華之解。中、下未悟，須譬乃知，以易解之蓮華，喻難解之蓮華。故有三周說法，逗上、中、下根。約上根是法名，約中、下是譬名；三根合論，雙標法譬。如此解者，與誰為諍耶！今且依法譬為釋也。
+> It is definitely the Dharma-lotus. Because the Dharma-lotus is hard to understand, the plant-flower lotus is used as a simile. Those of sharp faculties can understand the principle directly from the name without relying on simile and simply make the Lotus interpretation. Those of middling and lower faculties have not yet awakened and must rely on simile to know, using the easily understood lotus to analogize the difficult Dharma-lotus. Therefore there are three rounds of preaching to meet upper, middle, and lower roots. For upper roots this is a Dharma-name; for middle and lower roots it is a simile-name. Discussed together across the three roots, both Dharma and simile are marked. With such an interpretation, with whom is there any dispute? For now, explanation proceeds by Dharma-and-simile.
 
-## Part 1: Is "Lotus Flower" Dharma or Metaphor?
+二、引舊解。叡師序云：「未敷名屈摩羅，將落名迦摩羅，處中盛時名分陀利。」遠師云：分陀利伽是蓮華開喻，然體逐時，遷名隨色變，故有三名也。《大經》亦云：「人中蓮華、分陀利華。」二名並題者，應有通、別之異。今取蓮華是通；分陀利是別稱。道朗云：鮮白色，或翻為赤色，或翻為最香，如此皆是開盛之義，舉分陀利，則兼之矣！
+> Second, citing old interpretations. Master Rui's preface says: "Before opening it is called qumoluo; when about to fall it is called jiamoluo; in its full middle flourishing time it is called fentuoli." Master Yuan says that pundarika is a metaphor of lotus in bloom; however, the entity follows time and its name shifts with color, therefore there are three names. The Great Sutra also says, "Lotus among humans, pundarika flower." When these two names are jointly used, there should be a distinction between general and specific. Here "lotus" is taken as the general term; "pundarika" is the specific designation. Daolang says: fresh white color, or translated as red color, or translated as most fragrant; all these indicate flourishing bloom. Once "pundarika" is raised, those meanings are included.
 
-定法譬者，權實難顯，借喻蓮華，譬於妙法。
+問：
+> Question:
 
-> Determining dharma and metaphor: **Expedient and real are difficult to reveal**, so we borrow the simile of the lotus to metaphorize the subtle dharma.
+梵本舉別，此方用通，何也？
+> The Sanskrit source uses the specific name, but this land uses the general name. Why?
 
-又七喻文多，故以譬標題。
+答：
+> Answer:
 
-> Also, because the seven parables [in the sūtra] have extensive text, **we use metaphor to mark the title**.
+外國有三時名，此方則無，但舉通名，通自兼別。
+> In foreign lands there are three time-based names; this land does not have that usage, so only the general name is raised, and the general naturally includes the specific.
 
----
+他解蓮華有十六義：蓮華從緣生，譬佛性從緣起；蓮華能生梵王，譬從緣生佛；蓮華生必在淤泥，譬解起生死；蓮華是瑞見者歡喜，譬見者成佛；蓮華從微之著，譬一禮一念皆得作佛；蓮華必俱，譬因果亦俱；華必蓮，譬因必作佛；蓮華，譬引入蓮華世界；蓮華是佛所踐，譬眾聖託生。此十譬秖是今家譬行妙中片意耳。
+> Other interpretations give sixteen meanings of lotus: lotus arises from conditions, likening Buddha-nature arising from conditions; lotus can produce Brahma-kings, likening Buddhas arising from conditions; lotus is born in mud, likening understanding arising within birth-and-death; lotus is an auspicious sign that makes viewers rejoice, likening viewers accomplishing Buddhahood; lotus grows from the minute and becomes manifest, likening that one bow or one thought can all lead to Buddhahood; lotus always has both flower and seed, likening cause and effect being together; where there is flower there is surely lotus seed, likening that cause must become Buddha; lotus likens being led into the lotus world; lotus is what the Buddha treads, likening holy ones taking birth by reliance. These ten similes are only partial points of this school's similes for practice-subtlety.
 
-### The Alternative View: Lotus as Dharma Itself
+蓮華生淤泥，淤泥不染，譬一在三中，三不染一；蓮華三時異，譬開三秖是一；蓮華有開有合，譬對緣有隱有顯；蓮華於諸華最勝，譬諸說中第一；華開實顯，譬巧說理顯；蓮華有三時異，譬權實適時。此六譬秖是今家說法妙中片意耳。
+> Lotus is born from mud but is not stained by mud, likening that the one is in the three while the three do not stain the one; lotus differs across three times, likening opening the three as only one; lotus has opening and closing, likening hidden and manifest according to conditions; lotus is supreme among flowers, likening first place among teachings; when the flower opens, the seed-reality appears, likening skillful exposition making principle manifest; lotus has three time-differences, likening provisional and real being timely. These six similes are likewise only partial points of this school's subtlety of Dharma-exposition.
 
-又解云：蓮華非譬，當體得名。
+如光宅云：餘華華果不俱，譬餘經偏明因果；此蓮華華果必俱，譬此經雙辨因果；弟子門明因，師門明果，故借蓮華為喻。今謂此解語略而義偏。若迹門師、弟，各有因果，文云：「我盡行諸佛所有道法……道場得成果。」即師之因果；會三歸一即弟子因，得記作佛即弟子果。本門云：我本行菩薩道時，即師因；我得佛已來，甚大久遠，即師果；我昔教其初發心，即弟子因；今皆住不退，悉當得成佛，即弟子果。彼義偏略，故不用。且助成其語，如四微色法，不當華之與蓮，而約微論華論蓮；今實相之理，不當本迹因果，而約理明於本迹因果耳。又如四微不當開之與合，而約微論開合；實相不當權實，而約實相論開權顯實，發迹顯本耳。
+> As Guangzhai says: other flowers do not have flower and fruit together, likening that other sutras explain cause and effect one-sidedly; this lotus necessarily has flower and fruit together, likening that this sutra explains cause and effect in both aspects. In the disciple gate, cause is explained; in the teacher gate, effect is explained, so lotus is borrowed as simile. Here this is judged concise in wording but biased in meaning. In the Trace gate, teacher and disciple each have cause and effect: the text says, "I fully practiced all Buddha paths... and attained the fruit at the bodhi site," which is the teacher's cause and effect; unifying the three into one is disciple-cause, and receiving prediction of Buddhahood is disciple-effect. In the Origin gate it says: "When I originally practiced the bodhisattva path" is teacher-cause; "Since I attained Buddhahood, it has been vastly long" is teacher-effect; "In the past I taught their first arousing of mind" is disciple-cause; "Now all abide in non-retrogression and shall all become Buddhas" is disciple-effect. That interpretation is therefore partial and abbreviated, so it is not adopted. At most, its phrasing can be assisted: just as with the four subtle material elements, one should not absolutize flower versus lotus, but discuss flower and lotus by subtle factors; now for the principle of real-mark, one should not absolutize Origin/Trace cause-and-effect, but explain Origin/Trace cause-and-effect by principle. Also, as with the four subtle elements, one should not absolutize opening and closing, but discuss opening/closing by subtle factors; real-mark should not be fixed as provisional/real, but by real-mark one discusses opening provisional and revealing real, and opening trace to reveal origin.
 
-> Another explanation says: **The lotus is not a metaphor—it gets its name from [being] the thing itself.**
+三、引經論者，《法華論》列十七名：一、無量義。二、最勝。三、大方等。四、教菩薩法。五、佛所護念。六、諸佛祕藏。七、一切佛藏。八、一切佛密字。九、生一切佛。十、一切佛道場。十一、一切佛所轉法輪。十二、一切佛堅固舍利。十三、諸佛大巧方便。十四、說一乘。十五、第一義住。十六、妙法蓮華。十七、法門攝無量名字句身，頻婆羅、阿閦婆等。餘名悉不解釋，唯列十七名。
+> Third, citing sutra and treatise sources: the Lotus Treatise lists seventeen names: (1) Immeasurable Meaning, (2) Most Excellent, (3) Great Vaipulya, (4) Dharma for Teaching Bodhisattvas, (5) Protected and Recollected by Buddhas, (6) Secret Treasury of Buddhas, (7) Treasury of All Buddhas, (8) Secret Characters of All Buddhas, (9) Producing All Buddhas, (10) Bodhi Site of All Buddhas, (11) Dharma Wheel Turned by All Buddhas, (12) Firm Relics of All Buddhas, (13) Great Skillful Means of Buddhas, (14) Teaching the One Vehicle, (15) Abiding in the First Meaning, (16) Subtle Dharma Lotus Flower, (17) Dharma Gate that gathers immeasurable names and sentence-bodies, such as pinpoluo and achupo. The remaining names are not explained and only the seventeen names are listed.
 
-類如劫初，萬物無名，聖人觀理，準則作名：如蛛羅引絲，倣之結網；蓬飛獨運，依而造車...
+次、解蓮華有二義：一、出水義，不可盡出離小乘泥濁水故。復有義蓮華出泥水，喻諸聲聞入如來大眾中坐，如諸菩薩坐蓮華上，聞說無上智慧清淨境界，證如來密藏故。二、華開者，眾生於大乘中，心怯弱不能生信故，開示如來淨妙法身，令生信心故。
+> Next, lotus has two interpretive meanings: first is the "emerging from water" meaning, because one cannot fully state departure from the muddy-turbid water of the lesser vehicle. Another meaning is that lotus emerging from mud and water analogizes sravakas entering and sitting within the Tathagata's great assembly, like bodhisattvas seated on lotus flowers, hearing exposition of the unsurpassed wisdom and pure realm, and thereby certifying the Tathagata's secret treasury. Second, "flower opening" means that beings in the Great Vehicle are timid and weak of heart and cannot generate faith, so the Tathagata's pure subtle Dharma-body is disclosed to make faith arise.
 
-> Like at the beginning of the kalpa when myriad things had no names, sages observed principle and made names accordingly: Like a spider drawing silk, one imitated it to make nets; like tumbleweeds flying independently, one relied on them to make carts...
+今解論意，若言令眾生見淨妙法身者，此以妙因開發為蓮華也。若言入如來大眾坐蓮華上者，此以妙報國土為蓮華也。何者？盧舍那佛處蓮華藏海，共大菩薩皆非生死人。若聲聞得入於此，即妙報國土為蓮華也。彼論望今意，乃是行、位兩妙耳。《大集》云：「憐愍為莖、智慧葉、三昧為鬚、解脫敷，菩薩蜂王食甘露，我今敬禮佛蓮華。又以戒、定、慧陀羅尼為纓珞，莊嚴菩薩。」今解經，當是菩薩攬四法成假名人，如蜂在華；復以前四法自資，如蜂食華也。
+> Now, according to the Treatise's intent: if it says causing beings to see the pure subtle Dharma-body, then subtle cause unfolding is taken as lotus. If it says entering the Tathagata's great assembly and sitting upon lotus flowers, then subtle reward-land is taken as lotus. Why? Rocana Buddha abides in the lotus treasury ocean, and together with great bodhisattvas all are non-birth-death persons. If sravakas can enter there, then subtle reward-land is lotus. Seen against the present intention, that Treatise concerns only two subtleties, practice and position. The Great Assembly says: "Compassion is the stem, wisdom the leaf, samadhi the stamen, liberation the bloom; the bodhisattva bee-king eats sweet dew; now I bow to the Buddha lotus. Again, with precept, concentration, wisdom, and dharani as garlands, bodhisattvas are adorned." In this sutra's interpretation, bodhisattvas gather those four dharmas into the conventionally named person, like bees in flowers; then those first four dharmas nourish themselves, like bees feeding on flowers.
 
-今蓮華之稱，非是假喻，乃是法華法門；法華法門清淨，因果微妙，名此法門為蓮華，即是法華三昧當體之名，非譬喻也。
+四、正釋者，若依《大集》，行法因果為蓮華，菩薩處上即是因華，禮佛蓮華即是果華。若依《法華論》，以依報國土為蓮華，復由菩薩修蓮華行，報得蓮華國土。當知依正因果悉是蓮華之法，何須譬顯？為鈍根人不解法性蓮華故，舉世華為譬，亦應何妨！
+> Fourth, the proper interpretation: according to the Great Assembly, practice-dharma cause and effect are lotus; bodhisattvas positioned above are cause-flower, and bowing to Buddha-lotus is effect-flower. According to the Lotus Treatise, the dependent reward-land is lotus, and bodhisattvas practicing lotus conduct gain lotus lands as reward. Therefore, dependent and proper causes and effects are all lotus dharmas, so why need a figurative simile to show them? Yet for dull faculties who do not understand the lotus of Dharma-nature, using worldly flowers as simile is also unobjectionable.
 
-> Now the name "lotus" **is not a borrowed metaphor—it is the Lotus Dharma-Gate**. The Lotus Dharma-Gate is pure, cause and fruit are subtle—**this dharma-gate is named "Lotus"**—it is the essential name of the Lotus Samādhi, not a simile.
+然經文兩處，說優曇鉢華時一現耳。此華若生，輪王應出。若說此經，即授佛記，法王王世也。此靈瑞華似蓮華，故以為喻。若從此意，即是借喻，喻於妙法。夫喻有少喻、遍喻，如《涅槃》(云云)但少喻，以月喻面，不得求其眉目；雪出況象，不可覓其尾牙。今法華三昧無以為喻，喻此蓮華耳。夫華有多種，已如前說。唯此蓮華，華果俱多，可譬因含萬行、果圓萬德，故以為譬。又餘華麁，喻九法界十如是因果；此華妙，喻佛法界十如因果。
+> Yet the sutra text speaks in two places of the udumbara flower appearing only once in its time. If that flower appears, a wheel-turning king should emerge. If this sutra is preached, prediction of Buddhahood is conferred, and the Dharma-king rules the world. This numinous auspicious flower resembles lotus, so it is used as simile. On that reading, it is borrowed metaphor for subtle Dharma. Similes can be partial or comprehensive. As in Nirvana (and so on), there are only partial similes: if the moon is used to liken a face, one must not seek eyebrows and eyes; if snow is used to compare an elephant, one must not look for tail and tusks. Now Lotus Samadhi has nothing else suitable for simile, so lotus alone is used. Flowers have many kinds, as already discussed. Only this lotus has abundant flower and fruit together, suitable to liken cause containing myriads of practices and fruit perfecting myriads of virtues, therefore it is used as simile. Other flowers are coarse, likening cause-and-effect of the ten suchnesses in the nine dharma realms; this flower is subtle, likening cause-and-effect of the ten suchnesses in the Buddha-dharma realm.
 
----
+又、以此華喻佛法界迹、本兩門，各有三喻。
+> Further, using this flower to analogize the two gates of Trace and Origin in the Buddha-dharma realm, each has three similes.
 
-### Master Zhiyi's Synthesis
+喻迹者：一、華生必有於蓮，為蓮而華，蓮不可見，此譬約實明權、意在於實，無能知者。文云：「我意難可測，無能發問者。」又云：「隨宜所說，意趣難解。」二、華開故蓮現，而須華養蓮，譬權中有實，而不能知。今開權顯實，意須於權，廣識恒沙佛法者，秖為成實，使深識佛知見耳。三、華落蓮成，即喻廢三顯一，唯一佛乘直至道場。菩薩有行，見不了了，但如華開；諸佛以不行故，見則了了，譬如華落蓮成。此三譬迹門，從初方便，引入大乘，終竟圓滿也。
+> As similes for the Trace gate: first, where flower is born there must be lotus seed; flower is for lotus, yet lotus is not visible. This analogizes clarifying provisional on the basis of real, with intent in the real, unknown to others. The text says, "My intention is hard to measure; none can raise the question," and again, "What is taught according to suitability has difficult intent." Second, when flower opens lotus appears, yet lotus must be nourished by flower; this analogizes real within provisional though not knowable. Now provisional is opened to reveal real, with intent still requiring provisional: widely knowing Ganges-sand-count Buddha-dharmas is only to complete the real, making one deeply know Buddha knowledge-and-vision. Third, when flower falls lotus matures, this analogizes discarding the three to reveal the one, with only the one Buddha-vehicle straight to the bodhi-site. Bodhisattvas, having practice, still see unclearly, like a flower opening; Buddhas, because non-practice, see clearly, like flower falling and lotus maturing. These three similes in the Trace gate proceed from initial expedients, lead into the Great Vehicle, and end in full perfection.
 
-今融二意。
+又三譬譬本門者：一、華必有蓮，譬迹必有本，迹含於本。意雖在本，佛旨難知，彌勒不識。二、華開蓮現，譬開迹顯本，意在於迹。能令菩薩識佛方便，既識迹已，還識於本，增道損生。三、華落蓮成，譬廢迹顯本。既識本已不復迷迹，但於法身修道，圓滿上地也。此三譬，譬本門，始從初開，終至本地。
+> As another three similes for the Origin gate: first, flower must have lotus seed, analogizing that trace must have origin and trace contains origin. Though intent is in origin, Buddha intent is hard to know and Maitreya does not recognize it. Second, flower opens and lotus appears, analogizing opening trace to reveal origin, with intent in trace. It enables bodhisattvas to know Buddha's expedients; once trace is known, origin is again known, increasing the path and diminishing birth-and-death. Third, flower falls and lotus matures, analogizing discarding trace to reveal origin. Once origin is known, one no longer is confused by trace, but cultivates the path in Dharma-body and perfectly fulfills higher grounds. These three similes pertain to the Origin gate, beginning from first opening and ending at the original ground.
 
-> Now I **fuse both meanings**.
+二門六譬，各有所擬：初、重約佛界十如，施出九界十如。次、重開九界十如，顯佛界十如。三、重廢九界十如，成佛界十如。三譬攝得迹門始終盡。若得此意，十二因緣、四諦、三諦，等智、行、位，乃至功德利益，亦用此譬譬之(云云)。第四、重約本佛界十如，施出迹中佛界十如。第五、重開迹中佛界十如，顯出本中佛界十如。第六、重廢迹中佛界十如，成本中佛界十如。始終圓滿開合具足，是為少分以蓮華為譬也。
+> In the two gates and six similes, each has its target: first, again taking the ten suchnesses of the Buddha realm and extending them into the ten suchnesses of the nine realms. Next, again opening the ten suchnesses of the nine realms to reveal the ten suchnesses of the Buddha realm. Third, again discarding the ten suchnesses of the nine realms to complete the ten suchnesses of the Buddha realm. These three similes fully include the Trace gate from start to finish. If this meaning is obtained, then twelve links, four truths, three truths, and likewise wisdom, practice, position, and even merit-benefit can also be analogized by this simile (and so on). Fourth, again based on the ten suchnesses of the original Buddha realm, one extends the ten suchnesses of the Buddha realm within trace. Fifth, again opening those trace-side Buddha-realm ten suchnesses reveals the origin-side Buddha-realm ten suchnesses. Sixth, again discarding the trace-side Buddha-realm ten suchnesses completes the origin-side Buddha-realm ten suchnesses. Beginning and end are fully complete and opening/closing is fully equipped; this is the partial use of lotus as simile.
 
-利根即名解理，不假譬喻，但作法華之解。中、下未悟，須譬乃知，以易解之蓮華，喻難解之蓮華。
+多分喻者，《釋論》解師子吼義，從深山谷種生長，身力手足，爪牙頭尾，震吼等譬，譬師子吼法門。亦如《大經》，明波利質多樹，黃嘴皰果等，遍喻行人。今亦如是，從初種子乃至蓮成，喻於妙法也。譬如石蓮，烏皮在外，白肉在內，四微為質，卷荷欲生，微細眾具，開華、布鬚、蓮實、房成，初後不異蓮華，始終十義具足。譬佛界眾生，始自無明，終至佛果，十如是法，無有缺減。總譬竟。
+> As comprehensive similes: the Treatise explains the meaning of lion's roar using similes from seed growth in deep mountain valleys, body strength, limbs, claws, fangs, head, tail, and shaking roar to analogize the lion-roar Dharma gate. Likewise the Great Sutra uses examples such as the parijata tree and yellow-beaked blister fruit to pervasively analogize practitioners. Here too, from first seed up to lotus maturation, subtle Dharma is analogized. Like a stone-lotus: black skin outside, white flesh inside, four subtle elements as its substance, rolled leaf about to emerge, with all fine components complete, opening flower, spreading stamens, lotus seed and pod completing; from first to last it does not differ from lotus, and from beginning to end all ten meanings are complete. This analogizes beings in the Buddha realm: beginning from ignorance and ending at Buddha-fruit, the ten suchness dharmas have no lack or decrease. This concludes the general simile.
 
-> **Sharp-rooted** people understand principle from the name directly, not needing metaphor—they simply make the Lotus interpretation. **Middle and lower** [roots] haven't awakened yet—they need metaphor to know. Use the **easily understood lotus** to metaphorize the **hard-to-understand Lotus**.
+譬如石蓮，黑則叵染，硬則叵壞，不方不圓，不生不滅。劫初無種故不生，今不異初故不滅，是名蓮子相。一切眾生自性清淨心，亦復如是，不為客塵所染，生死重積，而心性不住、不動、不生不滅，即是佛界如是相。《淨名》曰：「一切眾生即菩提相。」即其義也。
+> Like the stone-lotus, black means it cannot be stained, hard means it cannot be ruined, neither square nor round, unborn and undying. At kalpa-beginning there was no seed, so no birth; now it is not different from the beginning, so no extinction. This is called the such-mark of lotus-seed. So too for all beings' self-nature pure mind: it is not stained by adventitious dust, even though birth-and-death accumulates heavily; mind-nature does not abide, does not move, is unborn and undying. This is the such-mark of the Buddha realm. Vimalakirti says, "All sentient beings are precisely the mark of bodhi." That is this meaning.
 
-約上根是法名，約中、下是譬名；三根合論，雙標法譬。
+譬如蓮子，雖復烏皮淤泥之中，白肉不改，一切眾生了因智慧，亦復如是。五住淤泥，生死果報，一切智願，猶在不失，是名佛界如是性，故言煩惱即菩提。又諸法不生般若生，即其義也。
+> Like lotus-seed: though in black skin and muddy mire, its white flesh does not change. So too for beings' wisdom of understanding-cause. Though amid the mud of the five abidings and the karmic recompense of birth-and-death, the vow for omniscience remains and is not lost. This is the such-nature of the Buddha realm; thus it is said afflictions are precisely bodhi. Also, "when dharmas do not arise, prajna arises" carries this meaning.
 
-> For upper roots it's a **dharma-name**; for middle and lower roots it's a **metaphor-name**. Combining three roots, we **double-mark it as both dharma and metaphor**.
+譬如蓮子在淤泥中，而四微不朽，是名蓮子體。一切眾生正因佛性，亦復如是。常樂我淨，不動不壞，名佛界如是體。《大經》言：「是味真正停留在山，草木叢林不能覆滅。」即其義也。
+> Like lotus-seed in mire while its four subtle elements do not decay, this is called lotus-seed such-body. So too for all beings' proper-cause Buddha-nature. Permanence, bliss, self, purity, unmoving and indestructible are called the such-body of the Buddha realm. The Great Sutra says, "This true flavor remains in the mountain; grasses, trees, and forests cannot cover or extinguish it." That is this meaning.
 
----
+譬如蓮子為皮殼所籠，為泥所沒，而卷荷在心，而有生長以氣，一切眾生心亦如是，雖為苦果所縛，集惑所沈，而能於中發菩提心，甚大雄猛如師子乳，如師子筋弦，是名佛界如是力。經言：「若發菩提心，動無邊生死，破無始有輪」，閻浮人未見果而能勇猛發心也。
+> Like lotus-seed enclosed by husk and submerged in mud, yet with rolled leaf in its core and the energy of growth, so too the minds of beings: though bound by suffering-fruit and sunk by accumulated delusions, they can arouse bodhicitta within that very condition, greatly heroic and fierce like lion's milk and lion's sinew-bowstring. This is the such-power of the Buddha realm. The sutra says, "If bodhicitta is aroused, boundless birth-and-death is shaken and the beginningless wheel of existence is broken." Thus people in Jambudvipa can courageously arouse mind before seeing the fruit.
 
-## Part 2: Classical Names
+譬如蓮子，雖復微小，烏皮之內，具有根、莖、華、葉、鬚、臺、眾具頓足，是名蓮子如是作。一切眾生初發菩提心，亦復如是，明解決定，慈悲誓願，上求下化，誓取成就，志不疲退，是名佛界如是作。《華首經》言：「一切諸功德，皆在初心中。」即其義也。
+> Like lotus-seed: though minute, within its black skin it fully has root, stem, flower, leaf, stamen, seed-receptacle, and complete components. This is lotus-seed such-activity. So too when beings first arouse bodhicitta: understanding is clear and decisive, vows of compassion are set, seeking above and transforming below, vowing to attain fulfillment, with resolve that does not tire or retreat. This is the such-activity of the Buddha realm. The Huashou Sutra says, "All virtues are entirely within the initial mind." That is this meaning.
 
-叡師序云：「未敷名屈摩羅，將落名迦摩羅，處中盛時名分陀利。」
+譬如蓮子，根依淤泥而華處虛空，風日照動，晝夜增長，榮耀頓足。一切眾生，亦復如是，從無明際，發菩提心，修菩薩行，出離生死，入法性中，因行成就，值於佛日，被神通風，其心念念，入薩婆若海，此名佛界如是因。經言：「於無量劫所作功德，不如五莖蓮華上然燈佛得功德多。」此是真因成就，即其義也。
+> Like lotus-seed: its root depends on mire while the flower abides in open air; moved by wind and sun, it grows day and night, and its splendor becomes complete. So too for beings: from the edge of ignorance they arouse bodhicitta, cultivate bodhisattva practice, depart birth-and-death, and enter Dharma-nature; cause-practice matures, they meet the Buddha-sun and are touched by the wind of supernormal powers, and in each thought their mind enters the sea of sarvajna. This is the such-cause of the Buddha realm. The sutra says, "The merit produced over immeasurable kalpas is less than the merit obtained by burning a lamp to Buddha upon five stems of lotus." This is true-cause accomplishment, and that is its meaning.
 
-> Master Rui's preface says: "**Before opening, it's called kumuda; about to fall, it's called kamala; at its full prime, it's called puṇḍarīka.**"
+譬如蓮華，鬚蘂圍遶在華內蓮外，此名蓮華如是緣。菩薩亦如是，於真因中，具足萬行六波羅蜜，一行一切行，資助於因，如鬚在華內，若得果時，眾行休息，如鬚在蓮外，是名佛界如是緣。經言：「盡行諸佛，所有道法。」即其義也。
+> Like lotus flower: stamens and pistils encircle it, inside the flower and outside the lotus seed. This is lotus-flower such-condition. So too bodhisattvas: within true cause they fully possess myriads of practices and the six paramitas; one practice is all practices and aids the cause, like stamens inside the flower. When fruit is attained, the many practices rest, like stamens outside the lotus seed. This is the such-condition of the Buddha realm. The sutra says, "Fully practicing all path-dharmas possessed by the Buddhas." That is this meaning.
 
-遠師云：分陀利伽是蓮華開喻，然體逐時，遷名隨色變，故有三名也。
+譬如蓮華，華成結蓮，而華葉零落，臺子成實，此名蓮子如是果。菩薩亦如是，真因所感，無上菩提，大果圓滿，究竟成實，是名佛界如是果。故經言：「佛子行道已，來世得作佛。」即其義也。
+> Like lotus flower: when the flower completes it forms lotus seed; flower and leaves fall away and the receptacle-seed becomes real. This is lotus-seed such-fruit. So too bodhisattvas: moved by true cause, unsurpassed bodhi and great fruit are perfectly complete and ultimately made real. This is the such-fruit of the Buddha realm. Therefore the sutra says, "Buddha-children, having completed path-practice, in a future life attain Buddhahood." That is this meaning.
 
-> Master Yuan says: Puṇḍarīka is the open-lotus metaphor. But the body follows time, names change with color—hence three names.
+譬如蓮實，房臺包遶，此名蓮子如是報。菩薩亦如是，大果圓滿，無上報足，習果之果，依於報果，如實依臺。經言：「如是大果報，久修業所得。」即其義也。
+> Like lotus fruit enclosed by pod and receptacle, this is lotus-seed such-reward. So too bodhisattvas: great fruit perfected, unsurpassed recompense complete; the fruit of the cultivated-fruit relies on reward-fruit just as seed truly relies on receptacle. The sutra says, "Such great fruit-reward is obtained through long cultivation of karma." That is this meaning.
 
----
+譬如泥蓮四微，處空蓮四微，初後不異，此名蓮子本末等。一切眾生亦如是，本有四德，隱名如來藏，修成四德顯，名為法身，性德修德，常樂我淨，一而無二，是名佛界十如本末究竟等。經言：「眾生如佛如，一如無二如。」即其義也。
+> Like the four subtle elements of lotus in mud and the four subtle elements of lotus in open air, first and last are not different. This is lotus-seed equality of beginning and end. So too for all beings: originally possessing the four virtues, hidden as the Tathagata-garbha; when cultivated, those four virtues manifest and are named Dharma-body. Nature-virtue and cultivated-virtue, permanence, bliss, self, purity are one and not two. This is equality of beginning and end in the ten suchnesses of the Buddha realm. The sutra says, "Sentient being-such and Buddha-such are one such, not two suchnesses." That is this meaning.
 
-## Part 3: The *Treatise on the Lotus Sūtra*'s Seventeen Names
+是用蓮華譬十如境竟。
+> This completes using lotus flower to analogize the ten-suchness realm.
 
-《法華論》列十七名：
+次、用蓮華譬十二因緣者，烏皮淤泥，水草重覆，通如上說也，即是無明支種子；能生力即是行支；內有卷荷，華鬚備具，即是識、名色、六入、觸、受支，含潤愛、取、有支；團圓盤屈，不能得出，即是老死支。若能芽鋒萌動，鑽烏皮破，即是無明滅；不復在烏皮內生，即是諸行滅；出㲉殼外，即是老死滅，此略譬四種十二因緣也。
+> Next, using lotus to analogize the twelve links: black skin and muddy mire, overlapped by water and grasses, are generally as described above and are the seed of the ignorance-link; the power that can generate is the formations-link; inside are rolled leaves with flower-stamens fully present, namely consciousness, name-and-form, six entrances, contact, and feeling links, including and moistening craving, grasping, and becoming links; rounded and coiled, unable to emerge, this is the aging-and-death link. If the sprout-tip moves and pierces black skin, that is ignorance-ceasing; no longer growing inside black skin is formations-ceasing; emerging outside shell-husk is aging-and-death ceasing. This briefly analogizes the four kinds of twelve links.
 
-> The *Treatise on the Lotus Sūtra* lists **seventeen names**:
+次、用蓮華譬四諦者，烏皮譬界內苦，白肉譬界內集，泥譬界外集，水譬界外苦，道滅可知。此通譬四種四諦也。
+> Next, lotus analogizing the four truths: black skin analogizes suffering within realms, white flesh analogizes accumulation within realms, mud analogizes accumulation outside realms, water analogizes suffering outside realms; path and cessation can be inferred. This generally analogizes the four kinds of four truths.
 
-| # | Name | Sanskrit/Chinese |
-|---|------|------------------|
-| 1 | Immeasurable Meaning | 無量義 |
-| 2 | Most Victorious | 最勝 |
-| 3 | Great Vaipulya | 大方等 |
-| 4 | Teaching Bodhisattva Dharma | 教菩薩法 |
-| 5 | Buddha-Protected | 佛所護念 |
-| 6 | All Buddhas' Secret Treasury | 諸佛祕藏 |
-| 7 | All Buddhas' Storehouse | 一切佛藏 |
-| 8 | All Buddhas' Secret Script | 一切佛密字 |
-| 9 | Giving Birth to All Buddhas | 生一切佛 |
-| 10 | All Buddhas' Bodhi-Site | 一切佛道場 |
-| 11 | All Buddhas' Turned Dharma-Wheel | 一切佛所轉法輪 |
-| 12 | All Buddhas' Firm Relics | 一切佛堅固舍利 |
-| 13 | All Buddhas' Great Skillful Means | 諸佛大巧方便 |
-| 14 | Speaking One Vehicle | 說一乘 |
-| 15 | Abiding in Ultimate Meaning | 第一義住 |
-| 16 | **Subtle Dharma Lotus Flower** | **妙法蓮華** |
-| 17 | Dharma-Gate Collecting Immeasurable Names | 法門攝無量名字 |
+次、用蓮華譬二諦者，蓮藕莖葉等譬俗，蓮藕莖孔空譬真，此通譬七種二諦也。
+> Next, lotus analogizing the two truths: lotus root, stem, leaves and so on analogize the conventional; the hollowness of lotus root and stem openings analogizes the real. This generally analogizes seven kinds of two truths.
 
----
+次、用蓮華譬三諦者，真俗如前，四微擬常樂我淨，譬中道第一義諦，此通譬五種三諦也。四微無生無滅，譬一實諦。劫初無生，今時無滅，譬無諦無說也。用蓮華譬境妙竟。
+> Next, lotus analogizing the three truths: real and conventional are as above; the four subtle elements are compared to permanence, bliss, self, purity, analogizing the middle-way first-meaning truth. This generally analogizes five kinds of three truths. The four subtle elements are unborn and undying, analogizing the one real truth. At kalpa-beginning no birth, and now no extinction, analogizing no-truth and no-speaking. This completes using lotus to analogize realm-subtlety.
 
-### The *Treatise*'s Two Meanings of Lotus
+次、更譬九妙者，內有生性譬智妙，卷荷生性譬空智妙，鬚葉生性譬假智妙，蓮臺四微生性譬中智妙，此三生性譬一心三智妙也。
+> Next, further analogizing the remaining nine subtleties: inner growth-nature analogizes wisdom-subtlety; rolled-leaf growth-nature analogizes emptiness-wisdom subtlety; stamen-and-leaf growth-nature analogizes provisional-wisdom subtlety; the four subtle elements of lotus receptacle growth-nature analogize middle-wisdom subtlety. These three growth-natures analogize the one-mind three-wisdom subtlety.
 
-今解論意，若言令眾生見淨妙法身者，此以妙因開發為蓮華也。若言入如來大眾坐蓮華上者，此以妙報國土為蓮華也。
+蓮子雖小，備有根、莖、華、葉，譬行妙，莖即慈悲，葉即智慧，鬚即三昧，開敷即解脫。又葉以譬三慈者，覆水青葉，譬眾生緣慈；覆水黃葉，譬法緣慈；倚葉譬無緣慈。倚荷若出，蓮生不久，無緣慈成，得記不久。又根、華、子、葉，利益人、蜂即檀，香氣即尸，生泥不辱即忍，增長即精進，柔濕即禪，不污即慧，齊此譬行妙也。
+> Though lotus-seed is small, it fully has root, stem, flower, and leaf, analogizing practice-subtlety. Stem is compassion, leaf is wisdom, stamen is samadhi, and opening bloom is liberation. Again, leaves analogize the three compassions: blue leaves covering water analogize compassion by relation to beings; yellow leaves covering water analogize compassion by relation to dharma; leaning leaf analogizes non-condition compassion. If the leaning leaf emerges, lotus birth is not far off; when non-condition compassion is accomplished, prediction is not far off. Again, root, flower, seed, and leaf benefiting humans and bees is dana; fragrance is sila; arising from mud without disgrace is ksanti; growth is virya; softness and moisture is dhyana; non-staining is prajna. All these analogize practice-subtlety.
 
-> Understanding the Treatise's meaning: If it says "causing beings to see the pure subtle Dharma-body," **this takes subtle cause's opening-and-developing as lotus**. If it says "entering among the Tathāgata's great assembly, sitting on a lotus," **this takes the subtle reward-land as lotus**.
+蓮譬理即位：芽鑽皮麁住位；芽出皮細住位；鑽泥欲定位；齊泥未到位；出泥在水四禪位；禪定如水，能洗欲塵，處水增長，譬無色位；齊此譬觀行蓮華位；出水譬破見思，相似蓮華十信位；處空含而欲敷，譬十住位；鬚臺可識，譬十行位；隨日開迴，譬十迴向位；敷舒成就荷負蜂蝶，譬十地位；鬚葉零落，臺子獨在，譬休息眾行，妙覺圓滿，果上無事，真常湛然，此皆譬位妙也。
+> Lotus analogizes positions from principle-immediacy: sprout drilling skin is the coarse-abiding position; sprout emerging from skin is fine-abiding position; drilling mud is desire-to-attain position; level with mud is not-yet-arrived position; emerging from mud into water is the four dhyanas position. Dhyana concentration like water can wash desire-dust; growing while in water analogizes the formless position. Up to this it analogizes contemplation-practice lotus position. Emerging from water analogizes breaking views and thought, the similar-lotus ten-faith position. In air, enclosed and about to bloom analogizes ten-abodes position. Stamen and receptacle becoming distinct analogize ten-practices position. Opening and turning with the sun analogize ten-dedications position. Fully spreading and bearing bees and butterflies analogizes ten-grounds position. Stamen and leaves falling while receptacle and seed stand alone analogize resting the many practices, perfecting wondrous enlightenment, with nothing further at the fruit, true permanence clear and still. All these analogize position-subtlety.
 
----
+蓮有四微，譬真性軌；蓮房內虛，莖藕中空，譬觀照軌；臺房圍遶，譬資成軌。此譬三法乘妙也。
+> Lotus has four subtle elements, analogizing the track of true-nature. Emptiness inside lotus pod and hollowness in stem and root analogize the track of contemplative illumination. Receptacle and pod encircling analogize the track of aiding accomplishment. This analogizes the subtlety of the three-dharma vehicle.
 
-## Part 4: Comprehensive Lotus Simile
+蓮成處空，影臨清水，譬顯機顯應；影臨濁水，譬冥機冥應；影臨風浪之水，譬亦冥亦顯機應。《大經》云：闇中樹影，夜影臨水，譬非冥非顯機應，此等譬感應妙也。
+> When lotus matures in open air and its shadow falls on clear water, this analogizes manifest stimulus and manifest response. Shadow on turbid water analogizes hidden stimulus and hidden response. Shadow on wind-wave water analogizes stimulus-response that is both hidden and manifest. The Great Sutra says tree-shadow in darkness and night-shadow on water analogize stimulus-response that is neither hidden nor manifest. These analogize resonance-subtlety.
 
-### Three Metaphors for the Trace Gate
+若風搖蓮華，東昂西倒，向南映北，下風則合，上風則開者，即譬東涌西沒、中涌邊沒等，此譬地動瑞。日暮華合，譬入定瑞。日出華開，譬說法瑞。遠望則紅，近望則白，赤華青葉，相映輝赫，譬放光瑞。流芳遍野，譬栴檀風瑞。蘂粖飄颺，譬天雨華瑞。風雨飄灑，翻珠相棠，譬天鼓自然鳴瑞。此等皆譬神通妙也。
+> If wind shakes lotus, east rising and west leaning, shining south and reflecting north, lower wind causing closing and upper wind causing opening, this analogizes signs such as eastern rising and western sinking, central rising and edge sinking, namely the auspicious sign of earth-tremor. Flower closing at sunset analogizes auspicious sign of entering samadhi. Flower opening at sunrise analogizes auspicious sign of Dharma exposition. From afar appearing red and up close appearing white, with red flower and blue-green leaf reflecting brilliantly, analogizes auspicious sign of emitted light. Fragrance flowing across fields analogizes auspicious sign of sandalwood wind. Stamen-pollen drifting analogizes auspicious sign of heavenly flower-rain. Wind and rain scattering like turned pearls mutually striking analogize auspicious sign of naturally sounding heavenly drum. All these analogize supernatural-powers subtlety.
 
-一、華生必有於蓮，為蓮而華，蓮不可見，此譬約實明權、意在於實，無能知者。
+華合未開，譬隱一乘，分別說三；華葉正開，譬會三歸一，但說一乘；華落蓮存，譬絕教冥理；若知如來常不說法乃名多聞，此等譬說法妙也。
+> Flower closed and not yet open analogizes concealing the One Vehicle and discriminatingly preaching three. Flower and leaves fully open analogize reconciling three into one and preaching only one vehicle. Flower falling while lotus remains analogizes severing teaching and merging in principle. If one knows that the Tathagata constantly does not speak Dharma, only then is one called much-heard. These analogize Dharma-exposition subtlety.
 
-> **First**: When a flower grows, there must be a lotus. The flower is for the lotus, [but] the lotus cannot be seen. This metaphorizes **basing expedient on real, intent on the real, unknowable by any**.
+從一藕邊更生一華，展轉復生無量蓮華，譬業生眷屬妙；從一蓮房墮子在泥，更生蓮華，展轉復生無量蓮華，譬神通眷屬妙；掘移彼藕，採彼蓮子，種於此池，蓮華熾盛，譬願生眷屬妙；彼池飛來，如遊絲薄霧，入於此池，蓮華熾盛，譬應生眷屬妙。
+> From one lotus-root side another flower is born, and in succession immeasurable lotus flowers are produced, analogizing karma-born retinue subtlety. From one lotus pod, seeds fall in mud and produce lotus again, and in succession immeasurable lotus flowers are produced, analogizing supernormal-born retinue subtlety. Digging and moving that root, taking those seeds, and planting in this pond so lotus flourishes analogizes vow-born retinue subtlety. That pond flying over like drifting silk or thin mist and entering this pond where lotus flourishes analogizes response-born retinue subtlety.
 
-二、華開故蓮現，而須華養蓮，譬權中有實，而不能知。今開權顯實，意須於權，廣識恒沙佛法者，秖為成實，使深識佛知見耳。
+魚鼈噞喁其下，蜂蝶翔集其上，譬眾生果報清涼之妙益；見者歡喜，譬於因益；採用其葉，譬三草益；採用其華，譬妙小樹益；採用其蓮，譬妙大樹益；採用其藕，譬妙實事益。此等譬功德利益。
+> Fish and turtles nibbling below and bees and butterflies gathering above analogize the subtle cool benefits of beings' fruit-reward. Seeing it and rejoicing analogizes cause-benefit. Using its leaves analogizes three-grass benefit. Using its flower analogizes subtle small-tree benefit. Using its lotus-seed analogizes subtle great-tree benefit. Using its lotus-root analogizes subtle real-matter benefit. These all analogize merit and benefit.
 
-> **Second**: Because the flower opens, the lotus appears—yet the flower must nourish the lotus. This metaphorizes **real within expedient, yet not cognizable**. Now opening expedient to reveal real—the intent is on expedient. Broadly knowing sand-grain Buddha-dharmas is simply to complete the real, causing deep knowledge of Buddha's knowledge-and-vision.
+如是等譬及餘無量譬喻，以譬迹中十妙(云云)。
+> Such similes, and countless further similes, are used to analogize the ten subtleties in the Trace gate (and so on).
 
-三、華落蓮成，即喻廢三顯一，唯一佛乘直至道場。
+次、譬本者，譬如一池蓮華始熟，熟已墮落，投於泥水，方復生長，乃至成熟，如是展轉更生熟，歲月既積，遂遍大池，華田布滿。佛亦如是，本初修因證果已竟，為眾生故更起方便，在生死中，示初發心，復示究竟。數數生滅，無數百千，本地垂應，俯同凡俗，更修五行。烏蓮更生莖葉，譬更修聖行；蓮子四微，稍稍增長，譬更修天行；荷葉始生，譬更修梵行；蓮子墮泥，譬同諸惡更修病行；蓮芽始萌，譬同小善，更修嬰兒行。如是三世益物，不可稱計，遍滿法界，無非分身、垂迹、開迹、廢迹等益(云云)。若非蓮華，何由遍喻上來諸法？法、譬雙辨，故稱妙法蓮華也。
+> Next, similes for Origin: like lotus in one pond first maturing, then falling when mature into mud and water, then growing again up to maturity; thus in successive cycles growth and ripening recur. As years accumulate, it fills the great pond and lotus fields spread everywhere. Buddha is likewise: having already completed original cause-cultivation and fruit-realization, for beings' sake he further raises expedients, showing first arousal of mind within birth-and-death and again showing ultimate completion. Again and again arising and ceasing by uncountable hundreds of thousands, from original ground he lets down responses, stooping to the ordinary and common, and again cultivates five practices. Dark lotus generating stems and leaves again analogizes again cultivating holy conduct; the four subtle elements of lotus-seed gradually increasing analogize again cultivating heavenly conduct; lotus-leaf first arising analogizes again cultivating Brahma conduct; lotus-seed dropping into mud analogizes together with many evils again cultivating sick conduct; lotus sprout first budding analogizes together with small good again cultivating infant conduct. In this way, benefiting beings across the three times is beyond count and fills the Dharma realm; all are nothing but benefits of manifested bodies, hanging-trace, opening-trace, and discarding-trace (and so on). If not lotus flower, by what could all the above dharmas be pervasively analogized? Because Dharma and simile are both distinguished, it is called Subtle Dharma Lotus Flower.
 
-> **Third**: Flower falls, lotus forms—this metaphorizes **abandoning three to reveal one**—only One Buddha Vehicle going straight to the bodhi-site.
-
----
-
-### Three Metaphors for the Fundamental Gate
-
-一、華必有蓮，譬迹必有本，迹含於本。意雖在本，佛旨難知，彌勒不識。
-
-> **First**: A flower must have a lotus—this metaphorizes **Trace must have Fundamental**, Trace contains Fundamental. Though intent is on Fundamental, Buddha's purport is hard to know—Maitreya doesn't recognize it.
-
-二、華開蓮現，譬開迹顯本，意在於迹。能令菩薩識佛方便，既識迹已，還識於本，增道損生。
-
-> **Second**: Flower opens, lotus appears—this metaphorizes **opening Trace to reveal Fundamental**—intent is on Trace. Able to make bodhisattvas recognize Buddha's skillful means; having recognized Trace, they return to recognize Fundamental, increasing path and decreasing birth.
-
-三、華落蓮成，譬廢迹顯本。既識本已不復迷迹，但於法身修道，圓滿上地也。
-
-> **Third**: Flower falls, lotus forms—this metaphorizes **abandoning Trace to reveal Fundamental**. Having recognized Fundamental, one no longer confuses Trace; simply cultivating the path in Dharma-body, completing upper grounds perfectly.
-
----
-
-## The Lotus Simile Applied to Ten Suchnesses
-
-蓮華譬十如境。
-
-> **The lotus metaphorizes the Ten Suchnesses realm**:
-
-| Suchness | Lotus Element |
-|----------|---------------|
-| **Such-Mark** | Lotus seed's black indestructible shell—pure mind |
-| **Such-Nature** | White flesh inside—wisdom-nature |
-| **Such-Body** | Four elements not decaying—Buddha-nature body |
-| **Such-Power** | Curled heart with growth energy—bodhicitta power |
-| **Such-Activity** | Complete with root, stem, flower, leaf—initial bodhicitta activity |
-| **Such-Cause** | Growing from mud to air—true cause |
-| **Such-Condition** | Stamen surrounding lotus inside flower—myriad practices |
-| **Such-Fruit** | Flower forms lotus, petals fall, fruit ripens—great fruit |
-| **Such-Reward** | Pod encasing seeds—habit-fruit |
-| **Such-Ultimate** | Four elements in mud = four elements in air—original-end equality |
-
----
-
-## The Lotus Simile Applied to All Ten Subtleties
-
-Master Zhiyi extends the lotus metaphor to each subtlety:
-
-| Subtlety | Lotus Element |
-|----------|---------------|
-| **Wisdom** | Inner growth nature |
-| **Practice** | Stem = compassion, leaf = wisdom, stamen = samādhi |
-| **Position** | Sprouting, emerging from mud, in water, in air = various stages |
-| **Three Dharmas** | Four elements = True Nature; hollow center = Contemplative Illumination |
-| **Resonance** | Shadow in clear water = manifest response; shadow in murky water = hidden |
-| **Supernatural Powers** | Swaying in wind = ground-shaking; closing at night = entering samādhi |
-| **Dharma-Exposition** | Closed = hidden One Vehicle; open = revealed One Vehicle |
-| **Retinue** | New lotus from root = karma-born; from seed = vow-born |
-| **Benefits** | Fish and turtles below, bees above = fruit benefits; gathering leaves = cause |
-
----
-
-## Concluding Application
-
-如是等譬及餘無量譬喻，以譬迹中十妙...本初修因證果已竟，為眾生故更起方便，在生死中，示初發心，復示究竟。
-
-> **These metaphors and immeasurable others metaphorize the Trace's Ten Subtleties**... Originally cultivating cause and realizing fruit was already complete; for sentient beings' sake, [Buddha] further arises skillful means, in birth-and-death showing initial aspiration and again showing ultimate completion.
-
-若非蓮華，何由遍喻上來諸法？法、譬雙辨，故稱妙法蓮華也。
-
-> **If not for the lotus, by what means could we universally metaphorize all the above dharmas? Dharma and metaphor doubly distinguished—hence called "Subtle Dharma Lotus Flower."**
-
----
-
-## Footnotes
-
-[^1]: The **comprehensive lotus simile** is one of Master Zhiyi's masterpieces of hermeneutics. Every aspect of the lotus—from seed to decay—maps onto Buddhist doctrine. The lotus is both dharma itself (for sharp roots) and metaphor (for middle/lower roots).
-
----
-
-*Fascicle 7 translation complete. Translation continues with Fascicle 8...*
+妙法蓮華經玄義卷第七下
+> The Profound Meaning of the Lotus Sutra, Fascicle Seven (Lower).

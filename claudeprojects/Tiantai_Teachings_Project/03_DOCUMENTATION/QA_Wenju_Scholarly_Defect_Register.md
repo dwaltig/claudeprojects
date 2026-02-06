@@ -15,7 +15,7 @@
 - **Files FAIL:** 0 / 18
 - **Open defects:** 0
 - **Repaired – Pending Re‑Audit:** 0
-- **Closed defects:** 190
+- **Closed defects:** 198
 
 ---
 
@@ -5197,6 +5197,19 @@
 - **Status:** Closed
 
 
+## XUANYI STATUS (FASCICLE 7)
+
+- **Files audited:** 2 / 2
+- **Files PASS:** 2 / 2
+- **Files FAIL:** 0 / 2
+- **Open defects:** 0
+- **Repaired – Pending Re‑Audit:** 0
+- **Closed defects:** 4
+
+---
+
+## XUANYI DEFECT ENTRIES (FASCICLE 7)
+
 ### DEFECT-X07-001
 - **File name:** Xuanyi_Fascicle_07_Part_1_Fundamental_Trace_SCHOLARLY.md
 - **Fascicle:** 7 (Xuanyi)
@@ -5225,6 +5238,61 @@
   ```
 - **Status:** Closed
 
+### DEFECT-X07-003
+- **File name:** Xuanyi_Fascicle_07_Part_2_Lotus_Simile_SCHOLARLY.md
+- **Fascicle:** 7 (Xuanyi)
+- **CBETA source file:** T1716_007.txt
+- **CBETA line numbers:** 431-527
+- **CBETA locator:** T1716_007.txt 「△次、釋蓮華者，為四意...」 through 「若非蓮華，何由遍喻上來諸法？法、譬雙辨，故稱妙法蓮華也。」
+- **Chinese text (quoted):**
+  - 「△次、釋蓮華者，為四意：一、定法譬。二、引舊釋。三、出經論。四、正解釋。」
+  - 「三、引經論者，《法華論》列十七名...」
+  - 「次、譬本者，譬如一池蓮華始熟...若非蓮華，何由遍喻上來諸法？法、譬雙辨，故稱妙法蓮華也。」
+- **Translation excerpt:**
+  - The file was an editorially sectioned draft with incomplete source coverage and no strict one-line source-to-translation mapping for the full 431-527 span.
+- **Defect type:** Omission (large CBETA block not translated line-by-line)
+- **Required correction:**
+  - Replace the body with strict line-by-line bilingual mapping for all non-empty source lines in the audited span (50 source lines), including all Q/A units and the full lotus-simile extension across ten suchnesses, dependent origination, four truths, two truths, three truths, and the nine subtleties.
+- **Post-edit excerpt (Xuanyi_Fascicle_07_Part_2_Lotus_Simile_SCHOLARLY.md):**
+  ```
+  △次、釋蓮華者，為四意：一、定法譬。二、引舊釋。三、出經論。四、正解釋。
+  > Next, in explaining "lotus flower," there are four intentions: (1) determining dharma and simile, (2) citing old explanations, (3) adducing sutra and treatise evidence, (4) giving the proper interpretation.
+
+  問：
+  > Question:
+
+  蓮華定是法華三昧之蓮華？定是華草之蓮華？答：
+  > Is "lotus" definitely the lotus of Lotus Samadhi, or definitely the lotus of flowers and plants? Answer:
+  ```
+- **Status:** Closed
+
+### DEFECT-X07-004
+- **File name:** Xuanyi_Fascicle_07_Part_2_Lotus_Simile_SCHOLARLY.md
+- **Fascicle:** 7 (Xuanyi)
+- **CBETA source file:** T1716_007.txt
+- **CBETA line numbers:** 431-527
+- **CBETA locator:** Same span as DEFECT-X07-003
+- **Chinese text (quoted):**
+  - 「△次、釋蓮華者...」
+- **Translation excerpt:**
+  - Non-source structural additions were present in the body:
+    - multi-level section headings ("Part 1/2/3/4", "Summary"/"Concluding" wrappers)
+    - markdown tables (seventeen names table; ten-suchness and nine-subtlety mapping tables)
+    - explanatory footnotes and end-banner text
+- **Defect type:** Addition (non-source headings/tables/editorial wrappers)
+- **Required correction:**
+  - Remove non-source body headings, tables, and footnote wrappers.
+  - Retain only source-aligned Chinese lines and corresponding English translation lines for the audited span.
+- **Post-edit excerpt (Xuanyi_Fascicle_07_Part_2_Lotus_Simile_SCHOLARLY.md):**
+  ```
+  喻迹者：一、華生必有於蓮...此三譬迹門，從初方便，引入大乘，終竟圓滿也。
+  > As similes for the Trace gate: first, where flower is born there must be lotus seed... These three similes in the Trace gate proceed from initial expedients, lead into the Great Vehicle, and end in full perfection.
+
+  如是等譬及餘無量譬喻，以譬迹中十妙(云云)。
+  > Such similes, and countless further similes, are used to analogize the ten subtleties in the Trace gate (and so on).
+  ```
+- **Status:** Closed
+
 
 ### DEFECT-X07-002
 - **File name:** Xuanyi_Fascicle_07_Part_1_Fundamental_Trace_SCHOLARLY.md
@@ -5250,5 +5318,217 @@
 
   若約體用明本迹者，指用為迹...
   > If clarifying Origin and Trace by substance and function...
+  ```
+- **Status:** Closed
+
+---
+
+## XUANYI STATUS (FASCICLE 8)
+
+- **Files audited:** 1 / 1
+- **Files PASS:** 1 / 1
+- **Files FAIL:** 0 / 1
+- **Open defects:** 0
+- **Repaired – Pending Re‑Audit:** 0
+- **Closed defects:** 2
+
+---
+
+## XUANYI DEFECT ENTRIES (FASCICLE 8)
+
+### DEFECT-X08-001
+- **File name:** Xuanyi_Fascicle_08_Generic_Title_Substance_SCHOLARLY.md
+- **Fascicle:** 8 (Xuanyi)
+- **CBETA source file:** T1716_008.txt
+- **CBETA line numbers:** 13-160
+- **CBETA locator:** T1716_008.txt 「第二、釋通名者」 through 「此經「汝實我子」...純是一實體也。」
+- **Chinese text (quoted):**
+  - 「第二、釋通名者，」
+  - 「△第二、顯體者，前、釋名總說...」
+  - 「華嚴不共二乘，但約菩薩...純是一實體也。」
+- **CBETA apparatus (verbatim):**
+  - [A1] 流【CB】，泒【大】(cf. X29n0594_p0003c12; X19n0353_p0927b13)
+  - [A2] 二【CB】，三【大】
+- **Translation excerpt:**
+  - The prior file body used editorial headings/tables/summary prose and did not provide full source-aligned line-by-line translation across the audited span.
+- **Defect type:** Omission (large CBETA block not translated line-by-line)
+- **Required correction:**
+  - Replace the body with strict one-line Chinese to one-line English bilingual mapping for all non-empty source lines in 13-160.
+  - Preserve full doctrinal argumentation on translatability/non-translatability, mind-contemplation mappings, and the substance (實相) analysis.
+  - Preserve inline apparatus anchors and notes for [A1] and [A2].
+- **Post-edit excerpt (Xuanyi_Fascicle_08_Generic_Title_Substance_SCHOLARLY.md):**
+  ```
+  第二、釋通名者，
+  > Second, explaining the generic title.
+
+  「經」一字也，具存胡音，應云「薩達磨分陀利脩多羅」...
+  > The single character "jing" preserves the Indic sound in full...
+  ```
+- **Status:** Closed
+
+### DEFECT-X08-002
+- **File name:** Xuanyi_Fascicle_08_Generic_Title_Substance_SCHOLARLY.md
+- **Fascicle:** 8 (Xuanyi)
+- **CBETA source file:** T1716_008.txt
+- **CBETA line numbers:** 13-160
+- **CBETA locator:** Same span as DEFECT-X08-001
+- **Chinese text (quoted):**
+  - 「第二、釋通名者，」
+- **Translation excerpt:**
+  - Non-source structures were present in the previous body:
+    - sectionized narrative wrappers (e.g., “Part One/Part Two,” “Summary,” “Proof Texts”)
+    - markdown tables and footnotes not present in CBETA source
+    - condensed explanatory prose replacing source sequence
+- **Defect type:** Addition (non-source headings/tables/footnotes/editorial wrappers)
+- **Required correction:**
+  - Remove non-source body-level headings, tables, and footnotes.
+  - Retain only source-aligned Chinese lines with corresponding English translation lines for the audited span.
+- **Post-edit excerpt (Xuanyi_Fascicle_08_Generic_Title_Substance_SCHOLARLY.md):**
+  ```
+  問：
+  > Question:
+
+  根利故於塵是經，鈍者塵則非經耶？
+  > Because sharp faculties make an object serve as jing, does the object become non-jing for dull faculties?
+  ```
+- **Status:** Closed
+
+---
+
+## XUANYI STATUS (FASCICLE 9)
+
+- **Files audited:** 1 / 1
+- **Files PASS:** 1 / 1
+- **Files FAIL:** 0 / 1
+- **Open defects:** 0
+- **Repaired – Pending Re‑Audit:** 0
+- **Closed defects:** 2
+
+---
+
+## XUANYI DEFECT ENTRIES (FASCICLE 9)
+
+### DEFECT-X09-001
+- **File name:** Xuanyi_Fascicle_09_Essence_Function_SCHOLARLY.md
+- **Fascicle:** 9 (Xuanyi)
+- **CBETA source file:** T1716_009.txt
+- **CBETA line numbers:** 199-376
+- **CBETA locator:** T1716_009.txt 「△大章第三、明宗」 through 「此經開權顯實，四悉檀大用最為雄猛...」
+- **Chinese text (quoted):**
+  - 「△大章第三、明宗。宗者，修行之喉衿...」
+  - 「△大章第四、明用者，用是如來之妙能...」
+  - 「此經開權顯實，四悉檀大用最為雄猛...」
+- **Translation excerpt:**
+  - The prior file body used editorial summaries and segmented presentation that did not preserve full source-sequence line mapping for the audited range.
+- **Defect type:** Omission (large CBETA block not translated line-by-line)
+- **Required correction:**
+  - Replace the body with strict one-line Chinese to one-line English bilingual mapping for all non-empty source lines in 199-376.
+  - Preserve full doctrinal argumentation on Essence/Function, trace/origin tenfold applications, and the four-siddhanta analysis.
+- **Post-edit excerpt (Xuanyi_Fascicle_09_Essence_Function_SCHOLARLY.md):**
+  ```
+  △大章第三、明宗。宗者，修行之喉衿...
+  > The third major section clarifies the Essence...
+
+  二、正明宗者，此經始從〈序品〉訖〈安樂行品〉...
+  > Second, directly clarifying Essence: from the Introductory Chapter through the Peaceful Conduct Chapter...
+  ```
+- **Status:** Closed
+
+### DEFECT-X09-002
+- **File name:** Xuanyi_Fascicle_09_Essence_Function_SCHOLARLY.md
+- **Fascicle:** 9 (Xuanyi)
+- **CBETA source file:** T1716_009.txt
+- **CBETA line numbers:** 199-376
+- **CBETA locator:** Same span as DEFECT-X09-001
+- **Chinese text (quoted):**
+  - 「△大章第三、明宗...」
+- **Translation excerpt:**
+  - Non-source structures were present in the prior body:
+    - sectionized wrappers (e.g., “Part One/Part Two” narrative blocks)
+    - markdown tables for doctrinal lists
+    - footnotes and completion banner text not present in CBETA source
+- **Defect type:** Addition (non-source headings/tables/footnotes/editorial wrappers)
+- **Required correction:**
+  - Remove non-source body-level wrappers, tables, footnotes, and completion text.
+  - Retain only source-aligned Chinese lines and corresponding English translation lines for the audited span.
+- **Post-edit excerpt (Xuanyi_Fascicle_09_Essence_Function_SCHOLARLY.md):**
+  ```
+  問：
+  > Question:
+
+  法華顯一，還藉先破，無前調熟，今亦不解。
+  > The Lotus reveals one, yet still depends on prior breaking; without prior ripening, one still would not understand now.
+  ```
+- **Status:** Closed
+
+---
+
+## XUANYI STATUS (FASCICLE 10)
+
+- **Files audited:** 1 / 1
+- **Files PASS:** 1 / 1
+- **Files FAIL:** 0 / 1
+- **Open defects:** 0
+- **Repaired – Pending Re‑Audit:** 0
+- **Closed defects:** 2
+
+---
+
+## XUANYI DEFECT ENTRIES (FASCICLE 10)
+
+### DEFECT-X10-001
+- **File name:** Xuanyi_Fascicle_10_Teaching_Classification_SCHOLARLY.md
+- **Fascicle:** 10 (Xuanyi)
+- **CBETA source file:** T1716_010.txt
+- **CBETA line numbers:** 13-407
+- **CBETA locator:** T1716_010.txt 「大章第五、釋教相者」 through 「此備於前，今更消文於後也。」
+- **Chinese text (quoted):**
+  - 「大章第五、釋教相者，若弘餘經，不明教相，於義無傷...」
+  - 「○二出異解者，即為十意：所謂南三、北七。」
+  - 「師云：我以五章，略譚玄義...此備於前，今更消文於後也。」
+- **CBETA apparatus (verbatim):**
+  - [A1] 宗【CB】【嘉興乙-CB】，經【大】(cf. 《嘉興藏》（日本東京大學綜合圖書館藏正編第201帙第5冊第61圖左欄第9行）)
+  - [A2] 說【CB】，脫【大】
+- **Translation excerpt:**
+  - The prior file body was an editorial summary format (section wrappers, doctrinal tables, and footnotes) and did not preserve full source-sequence line mapping for the audited span.
+- **Defect type:** Omission (large CBETA block not translated line-by-line)
+- **Required correction:**
+  - Replace the body with strict one-line Chinese to one-line English bilingual mapping for all non-empty source lines in 13-407.
+  - Preserve full doctrinal argumentation for five-period/eight-teaching critiques, opening/closing schemas, and two-store/four-teaching reconciliation.
+  - Preserve and translate apparatus lines [A1] and [A2].
+- **Post-edit excerpt (Xuanyi_Fascicle_10_Teaching_Classification_SCHOLARLY.md):**
+  ```
+  大章第五、釋教相者，若弘餘經，不明教相，於義無傷...
+  > In the fifth major chapter, clarifying teaching-classification...
+
+  問：
+  > Question:
+
+  為一人稟五味，為五人耶？
+  > Do the five flavors apply to one person progressively, or to five different persons?
+  ```
+- **Status:** Closed
+
+### DEFECT-X10-002
+- **File name:** Xuanyi_Fascicle_10_Teaching_Classification_SCHOLARLY.md
+- **Fascicle:** 10 (Xuanyi)
+- **CBETA source file:** T1716_010.txt
+- **CBETA line numbers:** 13-407
+- **CBETA locator:** Same span as DEFECT-X10-001
+- **Chinese text (quoted):**
+  - 「大章第五、釋教相者...」
+- **Translation excerpt:**
+  - Non-source structures were present in the prior body:
+    - sectionized wrappers (overview/summaries and topical blocks)
+    - markdown tables for doctrinal lists
+    - footnotes and completion banner text not present in CBETA source
+- **Defect type:** Addition (non-source headings/tables/footnotes/editorial wrappers)
+- **Required correction:**
+  - Remove non-source body-level wrappers, tables, footnotes, and completion text.
+  - Retain only source-aligned Chinese lines and corresponding English translation lines for the audited span.
+- **Post-edit excerpt (Xuanyi_Fascicle_10_Teaching_Classification_SCHOLARLY.md):**
+  ```
+  ○二出異解者，即為十意：所謂南三、北七。
+  > Second, presenting divergent interpretations: there are ten, namely three southern and seven northern systems.
   ```
 - **Status:** Closed

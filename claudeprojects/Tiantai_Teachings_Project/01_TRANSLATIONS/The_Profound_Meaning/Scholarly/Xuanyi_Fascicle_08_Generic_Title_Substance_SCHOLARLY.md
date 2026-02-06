@@ -1,5 +1,5 @@
 # The Profound Meaning of the Lotus Sutra (妙法蓮華經玄義)
-## Fascicle 8: The Generic Title (經) and Substance (體)
+## Fascicle 8: Generic Title (經) and Substance (體)
 
 **Scholarly Translation by The Architect**
 
@@ -7,256 +7,233 @@
 
 ## Colophon
 
-**Source Text:** *Taishō Tripiṭaka* Vol. 33, No. 1716  
-**Section:** Fascicle 8 Upper/Lower (Lines 13–160)  
+**Source Text:** *Taisho Tripitaka* Vol. 33, No. 1716  
+**Section:** Fascicle 8 Upper (Lines 13-160)  
 **Translator:** The Architect (MAS Agent)  
 **Date:** January 17, 2026
 
 ---
 
-# Part One: The Generic Title — "Sūtra" (經)
+## T1716_008
 
-## 第二、釋通名
+第二、釋通名者，
+> Second, explaining the generic title.
 
-脩多羅，或云脩單蘭，或云脩妬路。
+「經」一字也，具存胡音，應云「薩達磨分陀利脩多羅」。薩達磨，此翻妙法；分陀利，此翻蓮華，已如上釋；脩多羅，或云脩單蘭，或云脩妬路。彼方楚夏，此土翻譯不同，或言無翻，或言有翻。釋此為五：一、明無翻。二、明有翻。三、和融有無。四、歷法明經。五、觀心明經。
+> The single character "jing" preserves the Indic sound in full; it should be called "saddharma-pundarika-sutra." Saddharma is translated here as Subtle Dharma; pundarika is translated as lotus flower, as already explained above; sutra is also rendered as xiudanlan or xiudulu. Dialects there differ like Chu and Xia, and translations in this land are likewise not uniform: some say it is untranslatable, some say it is translatable. This explanation is in five parts: first, clarifying untranslatability; second, clarifying translatability; third, harmonizing translatable and untranslatable; fourth, clarifying "jing" across dharmas; fifth, clarifying "jing" by contemplating mind.
 
-> **Sūtra** [Chinese: 經] has varying transliterations: xiūduōluó, xiūdānlán, or xiūdùlù—due to regional dialect differences.
+言無翻者，彼語多含，此語單淺，不可以單翻複，應留本音。而言「經」者，開善云：非正翻也，但以此代彼耳。此間聖說為經，賢說子史；彼聖稱經，菩薩稱論；既不可翻，宜以此代彼，故稱經也。既不可翻而含五義：一、法本，亦云出生。二云微發，亦云顯示。三云涌泉。四云繩墨。五云結鬘。今秖作五義不可翻，今於一中作三，三五十五義：一、教本。二、行本。三、義本。今廣釋之。
+> As for calling it untranslatable: that language carries many meanings, while this language is singular and shallow; one cannot translate what is complex by what is singular, so the original sound should be retained. Yet it is called "jing": Kaishan says this is not a strict translation, but only using this in place of that. In this land, what sages teach is called jing, and what worthies teach is called masters and histories; there, what sages teach is called jing, and what bodhisattvas teach is called treatises. Since it is not translatable, it is fitting to substitute this for that, hence the name jing. Though untranslatable, it includes five meanings: first, dharma-source, also called arising forth; second, subtle arousal, also called manifest disclosure; third, gushing spring; fourth, plumb-line and ink-cord; fifth, braided garland. Here these five untranslatable meanings are each treated in three ways, yielding fifteen meanings: teaching-source, practice-source, and meaning-source. I now explain them broadly.
 
----
+言法本者，一切皆不可說，以四悉檀因緣則有言說：世界悉檀說，則為教本；為人、對治，則為行本；第一義悉檀，則為義本。所言教本者，金口所說一言為本，[A1]流出無量言教。若通、若別，當時被物，聞即得道。故經言：一一脩多羅，復有無量脩多羅以為眷屬。若後人不解，菩薩以佛教為本，作通論、別論，申通、別經，令佛意不壅，尋者得道，良由其論有本故也。諸外道等，雖有所說，不與脩多羅合，戲論無本，不能得道。經是行本者，示人無諍法，導達通塞，開明眼目，救治人病，如教脩行，則起通別諸行，從此至彼，入清涼池，至甘露地泥洹真法寶，眾生從種種門入，故知經是行本。經是義本者，尋一句詮於一義，尋無量句詮無量義，或尋一句詮於無量義，尋無量句詮於一義，若通、若別尋詮會入，故經是義本。束此三種為法門者，教本即是聞慧，行本即是思慧，義本是脩慧，見真法本之義，尚已多含，故不可翻也。或言出生，例此可知。
+> As for dharma-source: ultimately all is inexpressible, yet through causes and conditions of the four siddhantas there is verbal teaching. Teaching by the worldly siddhanta is teaching-source; teaching for persons and for counteraction is practice-source; teaching by the highest-meaning siddhanta is meaning-source. Teaching-source means this: one word spoken by the golden mouth serves as root, and from it immeasurable verbal teachings [A1] flow forth. Whether general or specific, when it meets beings in the moment, hearing it at once yields the path. Therefore the sutras say: each sutra has immeasurable sutras as retinue. If later people do not understand, bodhisattvas take Buddha's teaching as root and compose general and specific treatises to unfold general and specific sutras, so that Buddha's intent is not obstructed and seekers can attain the path; this is precisely because those treatises have a root. Various outsiders may have teachings, but if they do not accord with sutra, they are rootless frivolous discourse and cannot lead to the path. Sutra as practice-source means this: it shows people the dharma of non-contention, guides access and obstruction, opens and clarifies the eye, and cures people's afflictions; practicing in accord with the teaching gives rise to general and specific practices, moving from this shore to that, entering the cool pond, reaching the nectar-ground of nirvana, the true Dharma-jewel, with beings entering by many gates; therefore sutra is practice-source. Sutra as meaning-source means this: seeking one sentence explicates one meaning, seeking immeasurable sentences explicates immeasurable meanings; or one sentence explicates immeasurable meanings, and immeasurable sentences explicate one meaning. Whether by general or specific seeking and exposition, one enters by convergence; therefore sutra is meaning-source. Gathering these three as a dharma-gate: teaching-source is hearing-wisdom, practice-source is reflection-wisdom, and meaning-source is cultivation-wisdom. Even this meaning of true dharma-source already contains much, and so is untranslatable. If one calls it "arising forth," the same principle can be known by analogy.
 
-## The Debate: Translatable or Not?
+    [A1] 流【CB】，泒【大】(cf. X29n0594_p0003c12; X19n0353_p0927b13)
+> [A1] "流" in CBETA; "泒" in Taisho (cf. X29n0594_p0003c12; X19n0353_p0927b13).
 
-釋此為五：一、明無翻。二、明有翻。三、和融有無。四、歷法明經。五、觀心明經。
+二、含微發者，佛以四悉檀說，言辭巧妙，次第詮量初、中、後善，圓滿具足，如大海水漸漸轉深。聞教之者，初聞世界悉檀，次第領受，分別法相，微有解生，漸漸增長，明練通達。又遍讀諸異論，廣知智者意，多聞強識，以至成佛，就此即約教論微發。初聞為人、對治，即能起行，始人天小行，次戒定慧入無漏行，見道修道，遂證無學。從小入大，終于妙覺，是約行論微發。初聞第一義悉檀，展轉增廣，入於聞、思，煗、頂、世第一。次、入見諦，得真第一義；次、入脩道至無學，從小入大，見似真中道，起自毫末，終成合抱也。束此三發為法門者，依小乘，即三種解脫發；依大乘初住中，有教發是般若，行發即如來藏，理發是實相。微發已自多含，故不可翻也。
+> Second, it contains subtle arousal. The Buddha teaches through the four siddhantas with skillful language, successively expounding first, middle, and final goodness in complete fullness, like the ocean deepening gradually. Those who hear the teaching first hear the worldly siddhanta, then receive it step by step, differentiate dharma-marks, and a slight understanding arises, gradually increasing into lucid mastery. They then read many differing treatises, widely know the sages' intention, and become broadly learned and firmly retentive, up to Buddhahood; this is subtle arousal in terms of teaching. Hearing teaching for persons and counteraction first, one can arouse practice: beginning with human and heavenly minor practice, then entering undefiled practice by precepts, concentration, and wisdom, seeing the path, cultivating the path, and finally realizing no-more-learning. From small to great, ending in wondrous awakening, this is subtle arousal in terms of practice. On first hearing highest-meaning siddhanta, it unfolds and expands into hearing, reflection, warmth, summit, and supreme worldly dharma; next one enters seeing-truth and attains true highest meaning; next one enters cultivation-path up to no-more-learning, moves from small to great, and sees the seeming-and-true middle way, beginning from a hair-tip and ending in an armful tree. Gathering these three arousals as a dharma-gate: in the Hinayana they are the three arousals of liberation; in the Mahayana first-abode stage, teaching-arousal is prajna, practice-arousal is tathagata-garbha, and principle-arousal is reality-mark. Subtle arousal already contains much, and therefore is untranslatable.
 
-> Explaining this has **five sections**:
-> 1. Why it cannot be translated
-> 2. Why it can be translated
-> 3. Harmonizing both views
-> 4. Explaining "sūtra" through dharmas
-> 5. Explaining "sūtra" through mind-contemplation
+三、含涌泉者，從譬為名也。佛以四悉檀說法，文義無盡，法流不絕。若聞世界，說一句解無量句，月四月至歲，如風於空中，自在無障礙，說初心解，已如涌泉，何況後心！何況如來！猶如石泉流潤遍益也！若聞為人、對治，起無量行，恒沙佛法，種種法門，一行無量行，入善境界，登八正直道。若聞第一義，理若虛空，虛空之法，不可格量、遍一切處，是名義涌泉。束此為法門者，教泉是法無礙辯，行泉即辭無礙辯，義泉即義無礙辯。樂說通三處，涌泉已自多含，故不可翻也。
+> Third, it contains gushing spring, named by metaphor. The Buddha teaches through the four siddhantas; text and meaning are inexhaustible and Dharma-flow unceasing. If one hears the worldly teaching, one sentence can explain immeasurable sentences, for months and years, like wind in open space, unobstructed and free. Even explaining initial understanding is already like a gushing spring, much less later understanding, much less the Tathagata; it is like a rock spring flowing out moisture and benefit everywhere. If one hears teaching for persons and counteraction, one arouses immeasurable practices: Ganges-sand Buddha-dharmas and many dharma-gates, one practice as immeasurable practices, entering wholesome realms and ascending the straight eightfold path. If one hears highest meaning, the principle is like space; the dharma of space cannot be measured and pervades all places; this is called meaning-spring. Gathered as a dharma-gate: teaching-spring is unobstructed eloquence in dharma, practice-spring is unobstructed eloquence in expression, and meaning-spring is unobstructed eloquence in meaning. Joy in teaching runs through all three domains. Gushing spring already contains much, and so is untranslatable.
 
----
+四、含繩墨者，佛以四悉檀說。初聞世界，裁愛見之邪教，不為邪風倒惑，得入正轍，即教繩墨也。若聞為人、對治，遠離非道，入好正濟道品之路，即行繩墨也。若聞第一義，裁愛見此岸，得至彼岸，不保生死亦不住無為，即義繩墨。束此為法門者，教裁邪即是正語；行裁邪即正業、正精進、正念、正定等；義裁邪即正見、正思惟等。繩墨已自多含，故不可翻。
+> Fourth, it contains plumb-line and ink-cord. The Buddha teaches through the four siddhantas. On first hearing worldly teaching, one cuts deviant doctrines of craving and views, is not overturned by deviant winds, and enters the right track: this is teaching as plumb-line. Hearing teaching for persons and counteraction, one leaves non-paths and enters the good, right, salvific path-factors: this is practice as plumb-line. Hearing highest meaning, one cuts off the near shore of craving and views and reaches the far shore, neither clinging to birth-and-death nor abiding in inert quiescence: this is meaning as plumb-line. Gathered as a dharma-gate: cutting deviance in teaching is right speech; cutting deviance in practice is right action, right effort, right mindfulness, right concentration, and so forth; cutting deviance in meaning is right view, right thought, and so forth. Plumb-line already contains much, and therefore is untranslatable.
 
-## Part 1: Five Meanings That Cannot Be Translated (無翻五義)
+五、含結鬘者，結教行理，如結華鬘，令不零落。世界悉檀結佛言教不零落，為人、對治結眾行不零落，第一義結義理不零落。束此為法門者，結教成口無失，結行即身無失，結義即意無失，亦是三種共智慧行，亦是三陀羅尼。教不零落是聞持陀羅尼，行不零落行陀羅尼，義不零落即總持陀羅尼。若作嚴身釋者，即是約教名智慧莊嚴，約行名福德莊嚴，約義即是所莊嚴。所莊嚴即是法身，為定慧莊嚴也。一切眾生皆有法身，法身體素，天龍之所忽劣，若修學定慧，莊嚴法身，則一切見敬也。
+> Fifth, it contains braided garland: binding teaching, practice, and principle like stringing a flower garland so that none fall apart. Worldly siddhanta binds Buddha's verbal teaching so it does not fall apart; teaching for persons and counteraction binds manifold practices so they do not fall apart; highest meaning binds principle and meaning so they do not fall apart. Gathered as a dharma-gate: binding teaching brings no error in speech; binding practice is no error in body; binding meaning is no error in intention. It is also three forms of wisdom-conjoined practice and also the three dharanis. Teaching not falling apart is hearing-retention dharani; practice not falling apart is practice dharani; meaning not falling apart is total-retention dharani. If interpreted as adornment of body, then in teaching it is called wisdom-adornment, in practice merit-adornment, and in meaning that which is adorned. What is adorned is the Dharma-body, adorned by concentration and wisdom. All sentient beings possess the Dharma-body, though its bare substance is disregarded by gods and dragons; if one cultivates concentration and wisdom and adorns Dharma-body, then all will see and revere it.
 
-言無翻者，彼語多含，此語單淺，不可以單翻複。
+舊云：經含五義，今則經含十五義，豈可單漢翻胡，名含之釋如此(云云)。
+> The old teaching says sutra contains five meanings; now it contains fifteen meanings. How could one translate Indic into Chinese by a single term? The meaning of "containing" is thus (and so on).
 
-> The argument for **no translation**: That language has multiple meanings; this language is single and shallow—**cannot use single to translate multiple**.
+訓者訓常，今釋其訓。天魔外道不能改壞，名為教常。真正無雜，無能踰過，名為行常。湛然不動，決無異趣，名為理常。又訓法者，法可軌，行可軌，理可軌。今直釋訓已含六義，況胡言重複，而可單翻耶？
+> "Instruction" also means constancy, and now I explain that instruction. Heavenly demons and outsiders cannot alter or destroy it: this is constancy of teaching. True and unmixed, unsurpassable: this is constancy of practice. Still and unmoving, decisively without divergent destination: this is constancy of principle. "Instruction" also means dharma, and dharma is trackable, practice is trackable, and principle is trackable. Even this direct explanation already contains six meanings, much less an Indic word with layered repetitions; how could it be translated by only one term?
 
-舊云：經含五義：
+二、言有翻者，亦為五：
+> Second, saying it is translatable also has five parts.
 
-> The old teaching says: **"Sūtra" has five meanings**:
+一、翻為經，經由為義，由聖人心口故。今亦隨而釋之，謂教由、行由、理由。一切脩多羅、一切通別論、一切疏記等，皆由聖人心口，是名教由。一切契理行、一切相似行、一切信行法行，皆由聖人心口，故以行為由。一切世間義、一切出世義、一切方便義、一切究竟義，皆由聖人心口，故以義為由。教由世界，行由為人、對治，義由第一義悉檀。
+> First, translate it as "jing": jing has the meaning of "that by which," because it issues from the sage's mind and mouth. This too can be explained accordingly as teaching-by, practice-by, and principle-by. All sutras, all general and specific treatises, all commentaries and notes, all come from the sage's mind and mouth: this is teaching-by. All practices aligned with principle, all analogous practices, all faith-practice and dharma-practice, all come from the sage's mind and mouth; therefore practice is "by." All worldly meanings, all supramundane meanings, all expedient meanings, and all ultimate meanings come from the sage's mind and mouth; therefore meaning is "by." Teaching-by corresponds to worldly siddhanta; practice-by to for-person and counteractive siddhantas; meaning-by to highest-meaning siddhanta.
 
-| # | Meaning | Chinese | Explanation |
-|---|---------|---------|-------------|
-| 1 | **Dharma-Source** | 法本 | Source of all teaching, practice, and principle |
-| 2 | **Subtle Development** | 微發 | Gradual arising and deepening |
-| 3 | **Gushing Spring** | 涌泉 | Inexhaustible flow |
-| 4 | **Plumb-line** | 繩墨 | Standard that cuts wrong |
-| 5 | **Flower Garland** | 結鬘 | Threading together without scattering |
+又言經者緯義，如世絹經，以緯織之，龍鳳文章成。佛以世界悉檀說經，菩薩以世界緯織，經緯合故賢聖文章成。又約行論經緯，慧行為經，行行為緯，經緯合故，八正文章成。又約理論經緯者，詮真為經，詮俗為緯，經緯合故，二諦文章成。
+> "Jing" also means warp, as in silk weaving where warp and weft produce dragon-and-phoenix patterns. The Buddha teaches by worldly siddhanta as warp; bodhisattvas weave by worldly weft; with warp and weft joined, the worthy and noble patterns are formed. In terms of practice, wisdom-practice is warp and action-practice is weft; with warp and weft joined, the pattern of the eight rights is formed. In terms of principle, explicating truth is warp and explicating conventionality is weft; with warp and weft joined, the pattern of the two truths is formed.
 
----
+二、翻為契者，契緣、契事、契義。世界說是契緣；隨宜說是契生善；隨對治說是契破惡，是為契事；隨第一義說，是契義。
+> Second, translate as "accord": accord with conditions, accord with affairs, and accord with meaning. Worldly teaching is accord with conditions; teaching according to suitability accords with generating good; counteractive teaching accords with breaking evil, and this is accord with affairs; teaching according to highest meaning is accord with meaning.
 
-### 1. Dharma-Source (法本)
+三、翻法本者，即教、行、理本，如前釋(云云)。
+> Third, translating as dharma-source means source of teaching, practice, and principle, as explained above (and so on).
 
-所言教本者，金口所說一言為本，流出無量言教。
+四、翻線者，線貫持教、行、理，令不零落，嚴身等義如前釋。又線能縫義，縫教使章句次第，堪可說法。如支佛不值十二部線，不能說法，世智辯聰亦不得經線，正語不成。又線能縫行，依經則行正，違經則行邪。又縫理者，理所不印，墮六十二邪；理所印者，會一究竟道也。
+> Fourth, translate as thread: thread strings and holds teaching, practice, and principle so they do not scatter; meanings such as adornment of body are as explained above. Thread can also sew meaning: sewing teaching makes chapters and sentences sequential and fit for expounding Dharma. If a pratyekabuddha does not encounter the thread of the twelve divisions, he cannot teach Dharma; worldly clever eloquence that does not obtain sutra-thread also fails to form right speech. Thread can also sew practice: in accord with sutra, practice is right; against sutra, practice is deviant. Thread also sews principle: what principle does not seal falls into the sixty-two wrong views; what principle seals converges in the one ultimate path.
 
-> **Teaching-source**: "What the golden mouth speaks with one word as source **flows out as immeasurable verbal teachings**."
+五、翻善語教，亦是善行教，亦是善理教。世界悉檀說即善語教；為人、對治即善行教；第一義說即善理教。是名脩多羅有五種翻也。
+> Fifth, translate as teaching of good speech; it is also teaching of good practice and teaching of good principle. Worldly siddhanta teaching is good-speech teaching; for-person and counteractive teaching is good-practice teaching; highest-meaning teaching is good-principle teaching. These are the five translations of sutra.
 
-經是行本者，示人無諍法，導達通塞。
+三、和融有無者，昔佛法初度，胡漢未明，言無翻者，乃是河西群學所傳。晚人承用，加以此代彼，今傳譯煥爛，方言稍通，豈苟執無翻，猶以多含為解？若多含者，何局五耶？若有翻者，以何為正？義寧種種，翻那得多？若翻脩多羅為經者，脩多羅有九，謂通別脩多羅藏等，何不見周正十二部中經部，三藏中有經藏耶？若翻為契法本等者，亦應改正十二部中有契部、法本部、線部、善語、教部，三藏中應有線等藏，彼諸處皆不從此翻，何獨通脩多羅耶？《釋論》云：「般若尊重，智慧輕薄，何得用輕翻重？」若爾，即是無翻家證。夫實相尊重不可說，遂得作胡言而說。何不得作漢語而翻？若不可翻，亦不可說，此即有翻家證。舊云：涅槃含三德，不可用滅度為翻。又梁武云：滅度小乘法，不可用翻大涅槃。此未必爾。經言有涅槃、大涅槃，亦應有滅度、大滅度。此經云：「如來滅度」，豈非大滅度？既以小滅度翻小涅槃，何得不以大滅度翻大涅槃？
+> Third, harmonizing translatable and untranslatable: when Buddha-dharma first crossed over, Indic and Chinese were not yet clear, and the claim of untranslatability came from the scholarship of Hexi. Later people inherited that use and added substitution of this for that. Now transmission and translation are flourishing and regional speech is somewhat understood; why rigidly hold to untranslatability and still explain by "multiple containment"? If it contains many meanings, why limit it to five? If it is translatable, what counts as correct? Meanings are manifold; how can translations be so many? If sutra is translated as jing, sutra has nine kinds, including general and specific sutra-treasuries and so on; why then do we not see, in the properly established twelve divisions, an "jing-division," and in the three baskets a "jing-basket"? If translated as accord, dharma-source, and so on, we should likewise revise the twelve divisions into accord-division, dharma-source division, thread-division, good-speech division, teaching-division, and in the three baskets have thread-basket and the like. Since those places do not follow such translations, why apply them only to the generic sutra term? The *Treatise* says: "Prajna is weighty and honored; wisdom is thin and light. How can the light translate the weighty?" If so, that is evidence for the untranslatable side. Yet reality-mark is weighty and inexpressible, and still it can be spoken in Indic words; why could it not be translated in Chinese words? If it cannot be translated, it also cannot be spoken; that becomes evidence for the translatable side. The old view says nirvana contains three virtues and cannot be translated as "extinction-crossing." Emperor Wu of Liang also said "extinction-crossing" is Hinayana dharma and cannot translate Great Nirvana. This is not necessarily so. The sutras speak of nirvana and Great Nirvana; likewise one should have extinction-crossing and Great extinction-crossing. This sutra says "the Tathagata's extinction-crossing"; is that not Great extinction-crossing? If lesser extinction-crossing can translate lesser nirvana, why can Great extinction-crossing not translate Great Nirvana?
 
-> **Practice-source**: Shows people the non-contention dharma, guides through obstructions.
+若謂滅度偏，不含三德者，今作含釋，滅者即解脫，解脫必有其人，人即法身，法身不直身，必有靈智，靈智即般若。又大即法身，滅即解脫，度即般若。但標滅度，含三宛然，何得無翻耶？若執一言，則彼彼相是非，不達佛意，已如上說。
+> If one says "extinction-crossing" is partial and does not contain the three virtues, I now interpret it as containing them: extinction is liberation, liberation necessarily has its person, that person is Dharma-body, Dharma-body is not mere body but necessarily has numinous knowing, and numinous knowing is prajna. Also, "great" is Dharma-body, "extinction" is liberation, and "crossing" is prajna. Merely labeling it "extinction-crossing" clearly contains all three; how can one say there is no translation? If one clings to a single term, then each side asserts right and wrong against the other and fails to reach Buddha's intention, as already explained above.
 
-經是義本者，尋一句詮於一義，尋無量句詮無量義。
+今和融有無，虛豁義趣。若言無翻，名含五義，於一一義更含三義，彌見其美；若作有翻，於一一翻亦具三義，轉益旨深；任彼有無，何所乖諍？《大經》云：「我終不與世間共諍。」世智說有，我亦說有；世智說無，我亦說無。如此通融，於二家無失，而有理存焉。復次，圓義無方，處處通入，乃如上說。若正翻名，世諦不得混濫，今且據一名以為正翻，亦不使二家有怨。何者？從古及今，譯胡為漢，皆題為經。若餘翻是正，何不改作契線？若傳譯僉然，則經正明矣！若等是無翻，何不標微發、涌泉等？今正用經，於多含義強，含三法本、三微發、三涌泉、諸繩墨、結鬘等義，亦含契、線、善語教、訓法、訓常等，無不攝在經一字中，餘句亦如是。諸大小乘教，皆以經為通名故，不用餘句也。
+> Now I harmonize translatable and untranslatable and open the intent broadly. If one says untranslatable, the name contains five meanings, and each meaning further contains three, so its excellence is even clearer. If one takes it as translatable, each translation likewise contains three meanings, and the purport becomes deeper still. Let either side stand; what conflict remains? The *Great Sutra* says, "I will never contend with the world." If worldly knowledge says "is," I also say "is"; if it says "is not," I also say "is not." With this harmonization, neither house is wrong, and principle is preserved. Further, complete meaning has no fixed mode and enters everywhere, as said above. If we set a proper translated name, conventional truth must not be mixed or confused; for now we rely on one name as proper translation, also so neither side bears resentment. Why? From ancient to present, translating Indic into Chinese, all have titled it as jing. If another translation were proper, why was it not changed to "accord-thread" and the like? Since transmitted translation is unanimous, jing is clearly proper. If all were untranslatable, why not mark it as subtle arousal, gushing spring, and so on? We now rightly use jing because it is strongest in inclusive force: it contains the three dharma-sources, three subtle arousals, three gushing springs, all plumb-lines and garlands; it also contains accord, thread, good-speech teaching, instruction-as-dharma, and instruction-as-constancy. Nothing is outside the single character jing; other terms are likewise so. Since all great and small vehicle teachings use jing as the generic name, we do not use the other terms.
 
-> **Principle-source**: Following one sentence expresses one meaning; following immeasurable sentences expresses immeasurable meanings.
+四、歷法明經者。若以經為正翻，何法是經？舊用三種：一用聲為經，如佛在世，金口演說，但有聲音詮辯，聽者得道，故以聲為經。《大品》云：「從善知識所聞也。」二、用色為經，若佛在世，可以聲為經，今佛去世，紙墨傳持，應用色為經。《大品》云：「從經卷中聞。」三、用法為經，內自思惟，心與法合，不由他教，亦非紙墨，但心曉悟，即法為經，故云：「脩我法者，證乃自知(云云)。」三塵為經，施於此土。耳識利者，能於聲塵分別取悟，則聲是其經，於餘非經。若意識利者，自能研心思惟取決，法是其經，於餘非經。眼識利者，文字詮量而得道理，色是其經，於餘非經。此方用三塵而已。餘三識鈍：鼻臭紙墨，則無所知；身觸經卷，亦不能解；舌噉文字，寧別是非？若他土亦用六塵，亦偏用一塵，如《淨名》曰：「以一食施於一切……於食等者，於法亦等；於法等者，於食亦等。」此即偏用舌根所對為經。或有國土，以天衣觸身即得道，此偏用觸為經。或見佛光明得道，此偏用色為經。或寂滅無言，觀心得道，此偏用意為經。如眾香土，以香為佛事，此偏用香為經。他方六根識利，六塵得為經。此土三根識鈍，鼻不及驢狗鹿等，云何於香味觸等能得通達？
+> Fourth, clarifying "jing" across dharmas: if jing is the proper translation, which dharma is jing? The old method used three: first, sound as jing. When the Buddha was in the world, the golden mouth expounded and only sound-interpretation operated; hearers attained the path, so sound was jing. The *Mahaprajnaparamita* says, "heard from a good spiritual friend." Second, form as jing. While the Buddha was in the world, sound could serve as jing; now that Buddha has passed, paper and ink transmit and sustain, so form should serve as jing. The same text says, "heard from sutra-scrolls." Third, dharma as jing. One reflects inwardly, mind unites with dharma, not from another's teaching and not from paper and ink; with inner understanding alone, dharma itself is jing. Therefore it says, "those who cultivate my dharma verify and know for themselves" (and so on). In this land, three objects serve as jing. If ear-consciousness is sharp, one can differentiate and awaken through sound-object; then sound is one's jing and others are not. If mind-consciousness is sharp, one can personally investigate mind, reflect, and decide; dharma is one's jing and others are not. If eye-consciousness is sharp, one measures through written forms and attains principle; form is one's jing and others are not. In this region we use only these three objects. The other three consciousnesses are dull: the nose smells paper and ink but knows nothing; the body touches sutra scrolls but cannot understand; the tongue chewing words cannot distinguish right and wrong. In other lands one may use all six objects, or specialize in one, as the *Vimalakirti* says: "by giving one meal to all... if one is equal regarding food, one is equal regarding dharma; if equal regarding dharma, one is equal regarding food." This is using what the tongue faculty contacts as jing. Some lands attain the path by heavenly cloth touching the body: that uses touch as jing. Some attain the path by seeing Buddha-light: that uses form as jing. Some attain the path by quiescent silence and mind-contemplation: that uses mind-object as jing. In the Fragrant Land, fragrance itself is Buddha-work: that uses scent as jing. In other regions, the six faculties are sharp, so six objects can be jing. In this land, three faculties are dull; the nose is not even as keen as donkey, dog, or deer, so how can one gain full penetration through scent, taste, touch, and so on?
 
----
+問：
+> Question:
 
-### 2. Subtle Development (微發)
+根利故於塵是經，鈍者塵則非經耶？
+> Because sharp faculties make an object serve as jing, does the object become non-jing for dull faculties?
 
-初聞世界悉檀，次第領受，分別法相，微有解生，漸漸增長。
+答：
+> Answer:
 
-> "Initially hearing worldly siddhānta, sequentially receiving and differentiating dharma-marks, **subtle understanding arises, gradually increasing**."
+六塵是法界，體自是經，非根利取方乃是經。
+> The six objects are the Dharma-realm; in their own substance they are jing, and do not become jing only when seized by sharp faculties.
 
----
+何者？《大品》云：「一切法趣色，是趣不過。」此色能詮一切法。如黑墨色：一畫詮一，二畫詮二，三畫詮三，竪一畫則詮王，足右畫則詮丑，足左畫則詮田，出上詮由，出下詮申，如是迴轉，詮不可盡。或一字詮無量法，無量字共詮一法，無量字詮無量法，一字詮一法，於一黑墨小小迴轉，詮量大異，左迴詮惡，右迴詮善，上點詮無漏，下點詮有漏，殺活與奪、毀譽苦樂，皆在墨中，更無一法出此墨外。略而言之，黑墨詮無量教、無量行、無量理，黑墨亦是教本、行本、理本。黑墨從初一點至無量點，從點至字，從字至句，從句至偈，從偈至卷，從卷至部。又從點一字句中，初立小行，後著大行。又從點字中，初見淺理，後到深理，是名黑色教、行、義三種微發。又從黑色涌出點，出字、句、偈，不可窮盡。涌出諸行無盡，涌出義無盡，是名黑色具三涌泉。又約黑色裁教、行、義邪。又約黑色結教、行、義鬘，又以嚴身。又色是由，由色故縛，有六道生死；由色故脫，有四種聖人。又色訓法，法色故，能成教、行、理。又色是常，色教不可破，色行不可改，色理不可動。又色不可翻，色義多含故。又色可翻，名色為經。故見色經時，知色愛見，知色因緣生法，知色即空即假即中，色即法界，總含諸法。法界文字，文字即空，無點、無字、無句、無偈。句偈文字，畢竟不可得，是名知字非字，非字亦字。
+> Why so? The *Mahaprajnaparamita* says: "All dharmas tend toward form; this tendency does not pass beyond it." This form can explicate all dharmas. Take black ink-form: one stroke explicates one, two strokes explicate two, three strokes explicate three; one vertical stroke explicates "king"; adding a right foot-stroke explicates another graph; adding a left foot-stroke explicates another; extending above explicates one graph; extending below explicates another. In such turns, explication is inexhaustible. One character may explicate immeasurable dharmas; immeasurable characters may jointly explicate one dharma; immeasurable characters may explicate immeasurable dharmas; one character may explicate one dharma. Tiny turns of one black-ink form produce greatly different expositions: turning left can signify evil, turning right can signify good; an upper dot can signify the undefiled, a lower dot the defiled; killing and sparing, taking and giving, blame and praise, suffering and joy all lie within ink, and no single dharma lies outside it. In brief, black ink explicates immeasurable teachings, practices, and principles, and is also teaching-source, practice-source, and principle-source. From one initial dot, black ink extends to immeasurable dots, from dots to characters, from characters to sentences, from sentences to verses, from verses to scrolls, and from scrolls to divisions. Again, within dots, characters, and sentences one first establishes small practice and then applies great practice. Again, from dots and characters one first sees shallow principle and later reaches deep principle; this is the threefold subtle arousal of black form in teaching, practice, and meaning. Again, from black form gush forth dots, characters, sentences, and verses, inexhaustibly. It gushes forth endless practices and endless meanings; this is black form possessing the three gushing springs. Again, by black form one cuts deviance in teaching, practice, and meaning. Again, by black form one braids garlands of teaching, practice, and meaning, and also adorns the body. Again, form is "that by which": through form there is bondage in six-destination birth-and-death; through form there is liberation as four kinds of sages. Again, form instructs as dharma: as dharma-form it can establish teaching, practice, and principle. Again, form is constant: form-teaching cannot be broken, form-practice cannot be altered, and form-principle cannot be moved. Again, form is untranslatable because form-meaning is multiply containing. Again, form is translatable, naming form as jing. Therefore when one sees form as jing, one knows craving-and-views of form, knows dharmas as conditionally arisen from form, knows form as emptiness, provisionality, and middle, and knows form as Dharma-realm containing all dharmas. Dharma-realm text is empty as text: no dots, no characters, no sentences, no verses. Sentential and verse textuality is ultimately unattainable. This is called knowing character as non-character, and non-character as character.
 
-### 3. Gushing Spring (涌泉)
+墨色是經，為法本者，若於墨字生瞋，斷他壽命；若於墨字起愛，而作盜婬；乃至於墨起癡，而生邪見。當知墨字是四趣本。若於墨字生慈、生捨，乃至生正見者，當知墨字是人天本。若知墨字是果報無記，無記是苦諦；於報色生染，即是集諦；知字因緣所成，苦、空、無我是道諦；既知字非字，不生字倒，諸煩惱滅即滅諦；知字四諦。知字四諦，能生煗頂，若向若果，賢聖解脫，當知墨字是聲聞本。
+> If black ink-forms are jing and dharma-source, then if one gives rise to anger over ink-characters and cuts off others' lives, or gives rise to desire over ink-characters and commits theft and lust, and even gives rise to delusion over ink and thereby wrong views, one should know ink-characters are source for the four evil destinies. If one gives rise to compassion and equanimity toward ink-characters, and even to right view, one should know ink-characters are source for human and heavenly destinies. If one knows ink-characters are ethically neutral as fruit-retribution, that neutrality is the suffering-truth; if one is stained by retributive form, that is the accumulation-truth; if one knows characters are conditionally produced, then suffering, emptiness, and non-self are the path-truth; once one knows character as non-character and no longer gives rise to inversion about character, the extinction of afflictions is the cessation-truth. This is knowing the four truths through character. Knowing these four truths through character can produce warmth and summit stages, path-or-fruit attainments, and liberation of worthies and sages. One should know ink-characters are source for sravakas.
 
-佛以四悉檀說法，文義無盡，法流不絕。
+若於字不了名無明，於字起愛恚是諸行，分別字好醜是識，識於字名名色，字涉於眼名六入，字塵對根名為觸，納領染著即是受，纏綿不捨是愛，竭力推求是取，取則成業名為有，有能牽果是名生老病死，苦輪不息，是則十二因緣本。
+> If one does not understand character, this is called ignorance. Craving and anger arising toward character are formations. Distinguishing character as good or ugly is consciousness. Consciousness of character is name-and-form. Character passing through the eye is six entrances. Character-object meeting faculty is contact. Receiving and taking in with attachment is feeling. Clinging and not releasing is craving. Striving to grasp is appropriation. Grasping forms karma, called becoming. Becoming that draws fruit is called birth, aging, sickness, and death. The wheel of suffering does not cease. This is source of the twelve links.
 
-> "Buddha using four siddhāntas to teach—**text and meaning are inexhaustible, dharma-flow is unceasing**."
+若能知字非字，無明即滅，不至於行，乃至不至老死，無明滅則老死滅，當知此字是辟支佛本。若知字即空，非滅已空，字性本空，空中無愛恚，乃至無邪正，字不可得，知字者誰？云何眾生妄生取捨？起慈悲誓願，行六度，濟眾生，入如實際，亦無眾生得滅度者，當知此字是菩薩本。
+> If one can know character as non-character, ignorance ceases, formations do not arise, and so on up to old age and death not arising; when ignorance ceases, old age and death cease. One should know this character is source for pratyekabuddhas. If one knows character is emptiness, not emptied only after cessation but empty in its very nature, then in emptiness there is no craving or anger, and even no wrong or right. Character cannot be obtained; who is it that knows character? Why do beings falsely produce taking and rejecting? They arouse vows of compassion, practice the six perfections, ferry beings, and enter the limit of reality, yet no being is obtained as one who is extinguished and crossed over. One should know this character is source for bodhisattvas.
 
----
+若知字非字，非字非非字，無二邊倒名淨，淨則無業名我，我則無苦名樂，無苦則無生死名常。何以故？字是俗諦，非字是真諦，非字非非字是一實諦，一諦即三諦、三諦即一諦，是名境本。
+> If one knows character as non-character, and as neither non-character nor not-non-character, then with no inversion into two extremes this is called purity. Purity means no karmic activity, called self; self means no suffering, called bliss; no suffering means no birth-and-death, called constancy. Why? Character is conventional truth; non-character is true truth; neither non-character nor not-non-character is the one real truth. One truth is precisely three truths, and three truths are precisely one truth. This is called source of realm.
 
-### 4. Plumb-Line (繩墨)
+若知墨字，從紙、筆、心、手，和合而成，一一字推不得一字，一一點推亦不得字，則無所不得，心手即不得能，無能無所，知能所誰？是一切智本。字雖非字，非字而字，從心故有點，從點有字，從字有句，從句有偈，從偈有行，從行有卷，從卷有帙，從帙有部，從部有藏，從藏有種種分別，是道種智本。雖非字非非字，而雙照字非字，是為一切種智本。
+> If one knows that ink-characters are formed by the conjunction of paper, brush, mind, and hand, then analyzing each character yields no single self-existing character, and analyzing each dot likewise yields no character; then there is nothing not unattained. Mind and hand then cannot establish an agent; with no agent and no object, who knows agent and object? This is source of all-knowledge wisdom. Though character is non-character, non-character is still character: from mind there are dots, from dots characters, from characters sentences, from sentences verses, from verses lines, from lines scrolls, from scrolls fascicles, from fascicles divisions, from divisions collections, and from collections all kinds of differentiations. This is source of path-species wisdom. Though neither character nor non-character, it simultaneously illuminates character and non-character; this is source of all-species wisdom.
 
-裁愛見之邪教，不為邪風倒惑。
+雪山為八字，捨所愛身，是為行本。我解一句乃至半句，得見佛性，入大涅槃，即是位本。我得三菩提，皆由聞經，及稱善哉，字即乘本。若忘失句逗，還令通利，與其三昧，及陀羅尼，即感應本。依文學通即神通本。依字故得語，即說法本。說字教他即眷屬本。勤學此字，祿在其中，即利益本。
+> In Snow Mountain, for the sake of eight characters one relinquished the beloved body: this is source of practice. If I understand one sentence, even half a sentence, and thereby see Buddha-nature and enter Great Nirvana, this is source of position. If I attain the three bodhis through hearing sutra and praising "excellent," then character is source of vehicle. If sentence divisions are forgotten but are restored to fluency, and samadhi and dharani are given, this is source of response-and-stimulus. Gaining penetration by relying on textual study is source of supernormal powers. Relying on character and thereby obtaining speech is source of teaching Dharma. Speaking character to teach others is source of retinue. Diligent study of this character has emolument within it; this is source of benefit.
 
-> "**Cutting the deviant teachings of craving and views**, not overturned by deviant winds."
+如此解字，手不執卷，常讀是經；口無言聲，遍誦眾典；佛不說法，恒聞梵音；心不思惟，普照法界；如此學問，豈不大哉？當知黑字是諸法本。青黃赤白，亦復如是。非字非非字，雙照字非字。不可說非不可說，不可見非不可見，何所簡擇？何所不簡擇？何所攝？何所不攝？何所棄？何所不棄？是則俱是，非則悉非。能於黑色通達一切、非於一切，非通達一切、是通達一切，非非非是，一切法邪、一切法正。若於黑色不如是解，則不知字與非字。黃、白、赤、青，有對無對，皆不能知。若於黑色通達，知餘色亦如是。此即《法華經》意，以色為經也。聲塵亦如是，或一聲詮一法(云云)。
+> If character is understood this way, then without holding scrolls in hand one constantly reads this sutra; without verbal sound in the mouth one recites all canons everywhere; though Buddha does not speak Dharma one constantly hears Brahma-sound; though mind does not deliberate it universally illuminates Dharma-realm. Is such learning not great? One should know black character is source of all dharmas. Blue, yellow, red, and white are likewise so. Neither character nor not-non-character, it doubly illuminates character and non-character. Unsayable and not-unsayable, unseeable and not-unseeable: what is to be selected, what not selected? what included, what not included? what discarded, what not discarded? Then all is affirmed; otherwise all is denied. One can penetrate all through black form and also not through all; not penetrating all is penetrating all; neither neither nor is, all dharmas deviant and all dharmas right. If one does not understand black form this way, one does not know character and non-character. Yellow, white, red, and blue, whether opposed or non-opposed, are all unknowable. If one penetrates black form, one knows other colors are likewise. This is the Lotus Sutra's intent: form as sutra. Sound-object is also so: one sound may explicate one dharma (and so on).
 
----
+耳根利者，即解聲愛見因緣，即空即假即中，知脣舌、牙齒皆不可得。聲即非聲，非聲亦聲，非聲非非聲，聲為教、行、義本，種種等義，皆如上說，即是通達聲經。香、味、觸等，亦復如是。文云：「一切世間治生產業，皆與實相不相違背。」即此意也。外入皆經，周遍法界者，內入亦如是，內外入亦如是。經云：非內觀得解脫，亦不離內觀(云云)。是則一塵達一切塵，不見一塵一切塵，通達一塵一切塵；於一識分別一切識，亦不見一識一切識，而通達一識一切識。自在無礙，平等大慧，何者是經？何者非經？若欲細作，於一一塵識例可解，有翻無翻，以三義織之，後用三觀結之(云云)。
+> If the ear faculty is sharp, one immediately understands the causal conditions of craving and views in sound, namely emptiness, provisionality, and middle, and knows lips, tongue, teeth, and all are unattainable. Sound is non-sound; non-sound is also sound; neither sound nor non-sound. Sound is source of teaching, practice, and meaning; all such meanings are as explained above. This is full penetration of sound-sutra. Scent, taste, touch, and the rest are likewise so. The text says: "All worldly livelihoods and occupations are not contrary to reality-mark." This is that very meaning. If all outer entries are sutra and pervade the Dharma-realm, inner entries are likewise so, and inner-outer entries are likewise so. The sutra says liberation is not attained by inner contemplation alone, nor apart from inner contemplation (and so on). Thus one object penetrates all objects; one does not reify one object and all objects, yet penetrates one object and all objects. In one consciousness one differentiates all consciousnesses; one does not reify one consciousness and all consciousnesses, yet penetrates one consciousness and all consciousnesses. In free unobstructed equal great wisdom, what is sutra and what is non-sutra? If one wishes to elaborate in detail, each object and consciousness can be understood by analogy: translatable and untranslatable are woven with the three meanings, then sealed with the three contemplations (and so on).
 
-### 5. Flower Garland (結鬘)
+歷諸教分別經者，若言理絕文字，文字是世俗，寄字詮理，理可是經，文字非經，六塵等皆是經詮，非正經也，此即三藏中經耳。若無離文字說解脫義，文字性離即是解脫，六塵即實相，無二無別，如上所說者，圓教中經也。帶三方便作此說者，方等中經也。帶二方便如此說者，般若中經也。帶一方便作如此說者，華嚴中經也。
+> Differentiating sutra across teachings: if one says principle is beyond language and language belongs to the conventional, then words are borrowed to explicate principle; principle may be sutra, but words are not sutra, and the six objects and so forth are merely sutra-explanation, not the proper sutra. This is the sutra of the Tripitaka teaching. If one says there is no liberation meaning apart from language, and the nature of language itself as free is liberation, and the six objects are reality-mark without duality or difference, as explained above, that is sutra in the perfect teaching. Speaking this while carrying three expedients is sutra in Vaipulya teaching. Speaking it with two expedients is sutra in Prajna teaching. Speaking it with one expedient is sutra in Avatamsaka teaching.
 
-結教行理，如結華鬘，令不零落。
+五明觀心經者，皆類上為四也。
+> Fifth, clarifying mind-contemplation sutra: this too follows the fourfold structure above.
 
-> "**Threading together teaching, practice, and principle—like stringing a flower garland**, not allowing them to scatter."
+一類、無翻者，心含善惡諸心數等，當知此心諸法之都，何可定判？若惡是心，心不含善及諸心數。若善是心，心不含惡及諸心數。不知何以目心，以略代總，故知略心能含萬法，況不含五義耶！《華嚴》云：「一微塵中有三千大千世界經卷」，即其義也。
+> First type, untranslatable: mind contains good and evil and all mental factors. One should know this mind is the metropolis of all dharmas, so how can it be fixed by judgment? If evil is mind, then mind would not contain good and the various mental factors. If good is mind, then mind would not contain evil and the various mental factors. Since one cannot name mind in that way, a brief term stands for the whole. Thus we know brief "mind" can contain ten thousand dharmas, much less fail to contain five meanings. The *Avatamsaka* says: "In one mote there are sutra-scrolls of three-thousand great-thousand worlds." This is that meaning.
 
----
+心是法本者，《釋論》云：「一切世間中，無不從心造」，無心無思覺，無思覺無言語，當知心即語本。
+> Mind as dharma-source: the *Treatise* says, "In all worlds, nothing is not made from mind." Without mind there is no ideation and awareness; without ideation and awareness there is no language. One should know mind is source of speech.
 
-## Part 2: Five Meanings That Can Be Translated (有翻五義)
+心是行本者，《大集》云：「心行、大行、遍行」。心是思數，思數屬行陰，諸行由思心而立，故心為行本。
+> Mind as practice-source: the *Great Assembly* says, "mind-practice, great practice, pervasive practice." Mind is a thought-factor, thought-factor belongs to the aggregate of formations, and all practices are established from thinking mind. Therefore mind is source of practice.
 
-| # | Translation | Meaning |
-|---|-------------|---------|
-| 1 | **Sūtra** (經) | "Passage through"—all passes through the sage's mind |
-| 2 | **Contract** (契) | Fits beings, fits events, fits principle |
-| 3 | **Dharma-Source** (法本) | As above |
-| 4 | **Thread** (線) | Sews teaching, practice, principle together |
-| 5 | **Good Teaching** (善語教) | Teaching of good words, actions, principles |
+心是理本者，若無心，理與誰含？以初心研理，恍恍將悟，稍入相似，則證真實，是為理本。
+> Mind as principle-source: if there were no mind, with whom would principle be contained? With initial mind one investigates principle, dimly nearing awakening, gradually entering resemblance, and then realizing truth. This is principle-source.
 
----
+心含微發者，初剎那心，微微而有；次心若存若亡，次漸增長，後則決定，暢心而發口，是語微發。初心習行，行猶微弱，次少樹立，後成大行，即行微發。初觀心不見心理，更脩髣髴，乃至相似真實，即理微發。
+> Mind contains subtle arousal: the first instant-mind is only slight; the next mind seems present and absent; then it gradually increases; later it becomes decisive, and when mind opens fully and moves the mouth, this is subtle arousal of speech. Initial mind practices cultivation while practice is still weak; then it is established a little; later it becomes great practice: this is subtle arousal of practice. In initial contemplation of mind, one does not see mind-principle; with further cultivation one reaches approximation and eventually resemblance and truth: this is subtle arousal of principle.
 
-## Part 3: Harmonizing Both (和融有無)
+心含涌泉者，心具諸法，障故不流，如土石壓泉，去壅涌溜，若不觀心，心闇不明，所說不長。若觀心明徹，則宣辯無方，流溢難盡，豈非語涌泉？若不觀心，行則有間，以觀心故，念念相續，翻六蔽成六度，六度攝一切行，是行涌泉。若能觀心，如利钁斵地，磐石沙鹵，理水清澄，滔滔無竭，即義涌泉。
+> Mind contains gushing spring: mind possesses all dharmas but does not flow because of obstruction, like earth and stone pressing a spring. Remove the blockage and flow gushes. If one does not contemplate mind, mind is dark and unclear and what one says does not extend far. If one contemplates mind and it becomes bright and penetrating, exposition and eloquence have no fixed limit, overflowing without end - is this not speech as gushing spring? If one does not contemplate mind, practice has gaps; because one contemplates mind, thought after thought continues, transforming six obstructions into six perfections, and the six perfections gather all practices - this is practice as gushing spring. If one can contemplate mind, it is like a sharp mattock cutting ground; through bedrock and saline sand one reaches clear principle-water, surging without exhaustion - this is meaning as gushing spring.
 
-今和融有無，虛豁義趣。
+心含結鬘者，觀念不謬，得一聞持，穿文無失，觀心得定共力；穿行無失，觀心得道共力；穿義無失，又觀心得定慧，嚴顯法身。此皆可解。
+> Mind contains braided garland: contemplative thought without error gains hearing-retention; threading text has no loss, and through mind-contemplation one gains the joint power of concentration; threading practice has no loss, and through mind-contemplation one gains the joint power of the path; threading meaning has no loss, and again through mind-contemplation one gains concentration and wisdom and adorns and reveals Dharma-body. All this can be understood.
 
-> "Now **harmonizing translatable and untranslatable**, opening up the meaning."
+又心是繩墨，若觀心得正語，離邪倒說。觀心正則勉邪行，心無見著，則入正理。事行如繩，理行如墨，彈愛見木，成正法器也。
+> Again, mind is plumb-line and ink-cord. If one contemplates mind, one attains right speech and departs deviant inverted discourse. If mind-contemplation is correct, deviant conduct is checked; if mind has no attachment to views, one enters right principle. Conduct in affairs is like cord, conduct in principle like ink-line: striking and trimming the timber of craving and views, one becomes a vessel of right Dharma.
 
-若等是無翻，何不標微發、涌泉等？今正用經，於多含義強。
+是為心經多含，略示十五義(云云)。
+> Thus mind-sutra is multiply containing; this briefly shows the fifteen meanings (and so on).
 
-> "If equally untranslatable, why not mark it as 'subtle development' or 'gushing spring'? **Now correctly using 'sūtra' because it is strongest among multiple meanings.**"
+二類、有翻明觀者，心即是由，三義由心，一切語言由覺觀心，一切諸行由於思心，一切義理由於慧心。經云：「諸佛解脫，當於眾生心行中求。」心是經緯，以覺為經，以觀為緯，織成言語。又慧行心為經，行行心為緯，織成眾行。心豎緣理為經，心橫緣理為緯，織成義理(云云)。又觀境為經，觀智為緯，觀察迴轉，織成一切文章。
+> Second type, translatable in contemplative clarification: mind is "that by which," and the three meanings are by mind. All language is by awakened contemplative mind; all practices are by thinking mind; all meanings and principles are by wisdom-mind. The sutra says: "Liberation of all Buddhas should be sought in sentient beings' mind-practices." Mind is warp and weft: awakening is warp and contemplation is weft, weaving language. Again, wisdom-practice mind is warp and action-practice mind is weft, weaving manifold practices. Mind's vertical conditioning of principle is warp, mind's horizontal conditioning of principle is weft, weaving meaning and principle (and so on). Again, contemplated object is warp and contemplative wisdom is weft; through turning observation one weaves all textual patterns.
 
-含三法本、三微發、三涌泉、諸繩墨、結鬘等義，亦含契、線、善語教、訓法、訓常等，無不攝在經一字中。
+又心即是契觀，慧契境，是契緣，契樂欲；心為契教，契便宜對治；心為契行，契第一義心，契理。
+> Again, mind itself is accord-contemplation: wisdom accords with object, and this is accord with conditions and accord with aspiration. Mind as accord with teaching accords with expedient and counteractive modes; mind as accord with practice accords with the mind of highest meaning and accords with principle.
 
-> "[Sūtra] **contains three dharma-sources, three subtle developments, three gushing springs, all plumb-lines, flower garlands... all absorbed in the single character 經**."
+心為法本，心為線者，如前(云云)。
+> Mind as dharma-source and mind as thread are as explained above (and so on).
 
----
+心為善語教者，法之與語，俱通善惡，今以善法善語定之，心之與觀亦通善惡，今以善心善觀定之，即是善語教、善行、善理故，心具三義。
+> Mind as good-speech teaching: dharma and speech both extend to good and evil; now they are fixed as good dharma and good speech. Mind and contemplation also extend to good and evil; now they are fixed as good mind and good contemplation. Therefore they are good-speech teaching, good-practice teaching, and good-principle teaching; thus mind possesses the three meanings.
 
-## Summary: Fifteen Meanings of "Sūtra"
+心是可軌者，若無觀則無規矩，以觀正心王，心王正故心數亦正。行、理亦爾，心王契理，數亦契理，故名可軌也。心常者，心性常定，猶如虛空，誰能破者？又惡覺不能壞善覺，邪行不干正行，邪理不壞正理，故心名常。
+> Mind as trackable means this: without contemplation there is no rule or measure. By contemplation one rectifies the mind-king; when mind-king is right, mental factors are also right. Practice and principle are likewise so: mind-king accords with principle and factors also accord with principle, hence it is called trackable. As for mind's constancy: mind-nature is constantly settled like open space; who can break it? Again, evil cognition cannot destroy good cognition, deviant practice does not interfere with right practice, and deviant principle does not destroy right principle; therefore mind is called constant.
 
-Master Zhiyi expands the traditional five to **fifteen**:
+隨諸事釋，一一向心為觀，觀慧彌成，於事無乖，如火益薪，事理無失，即文字無文字，不捨文字而別作觀也。
+> In explaining various matters, each is turned toward mind as contemplation. Contemplative wisdom thereby matures further, with no contradiction in affairs. Like fire increasing by fuel, affair and principle lose nothing. This is text and no-text: not abandoning text yet also making contemplation distinct.
 
-| Original | × 3 Aspects | = |
-|----------|-------------|---|
-| 5 Untranslatable | Teaching, Practice, Principle | 15 |
-| 5 Translatable | Also 3 aspects each | 15 |
+三類、和融有無明觀者，可解(云云)。
+> Third type, harmonizing translatable and untranslatable in contemplative clarification, can be understood (and so on).
 
-> "The old teaching says sūtra contains five meanings; **now I say sūtra contains fifteen meanings**."
+四類、歷法為觀者，若小乘明惡中無善、善中無惡，事理亦然。此則惡心非經，則無多含之義，隘路不受二人並行。若大乘觀心者，觀惡心非惡心，亦即惡而善，亦即非惡非善；觀善心非善心，亦即善而惡，亦非善非惡。觀一心即三心，以此三心歷一切心，歷一切法，何心、何法而不一三，一切法趣此心，一切心趣此法。如此觀心，為一切語本、行本、理本，有翻五義，無翻五義，一一於心解釋無滯。遍一切心無不是經，大意可領，不俟多記也。
+> Fourth type, taking contemplation across dharmas: if the Hinayana says there is no good within evil and no evil within good, affairs and principle are likewise. Then evil mind is not sutra, and there is no meaning of multiple containment; a narrow road does not admit two walking side by side. If one contemplates mind in the Mahayana, one contemplates evil mind as non-evil mind, and thus evil is also good, and also neither evil nor good; one contemplates good mind as non-good mind, and thus good is also evil, and also neither good nor evil. Contemplate one mind as precisely three minds; with these three minds traverse all minds and all dharmas. What mind and what dharma is not one-and-three? All dharmas tend toward this mind; all minds tend toward this dharma. In this way of contemplating mind, it is source of all speech, practice, and principle, with five translatable meanings and five untranslatable meanings, each explained through mind without obstruction. Across all minds, none is not sutra. The main point can be received without waiting for much annotation.
 
----
+△第二、顯體者，前、釋名總說，文義浩漫；今、頓點要理，正顯經體，直辨真性。真性非無二軌，欲令易解，是故直說。後顯宗用，非無初軌，偏舉當名耳。
+> Second, revealing the substance: previously in explaining names the exposition of text and meaning was vast and diffuse; now we directly point to the essential principle, properly reveal sutra-substance, and directly distinguish true nature. True nature is not without the two tracks, but for ease of understanding we speak directly in this way. Later, in revealing the theme and function, the initial track is not absent; only the currently apt name is selected.
 
-# Part Two: Substance — Reality-Mark (體)
+體者，一部之指歸，眾義之都會也。非但會之至難，亦乃說之不易。文云：「是法不可示，言辭相寂滅。」《大經》云：「不生不生不可說。」又云：「有因緣故，亦可得說。」
+> "Substance" is where the whole work points and returns, and the great gathering of many meanings. Not only is convergence with it extremely difficult, even speaking it is not easy. The text says: "This dharma cannot be shown; the marks of language are quiescent." The *Great Sutra* says: "Unborn, unborn, inexpressible." It also says: "Because there are causes and conditions, it can also be spoken."
 
-## 第二、顯體
+今略開七條：一、正顯經體。二、廣簡偽。三、一法異名。四、入體之門。五、遍為眾經體。六、遍為諸行體。七、遍一切法體。
+> I now briefly open seven headings: first, directly revealing sutra-substance; second, broadly distinguishing the false; third, one dharma with different names; fourth, gates of entering substance; fifth, universally serving as substance of many sutras; sixth, universally serving as substance of many practices; seventh, universally serving as substance of all dharmas.
 
-體者，一部之指歸，眾義之都會也。
+正顯體，更明四意：一、出舊解。二、論體意。三、正明體。四、引文證。北地師用一乘為體，此語奢漫，未為簡要。一乘語通，濫於權實，若權一乘，都非經意；若實一乘，義該三軌，顯體不明，故不用。又有解言：真諦為體。此亦通濫，小、大皆明真諦，小乘真諦，故不俟言；大乘真諦，亦復多種，今以何等真諦為體？故不用。又有解言：一乘因果為體。今亦不用。何者？一乘語通，已如前說。又因果二法，猶未免事，云何是體？事無理印，則同魔經。云何可用？有人解乘體通因果，果以萬德為體，因以萬善為體，引《十二門論》云：「諸佛大人所乘，文殊觀音等所乘。」又引此經：「佛自住大乘」，即果也；「諸子乘是寶乘」，是因乘也。又引《普賢觀》：「大乘因果皆是實相。」私問因果之乘為變？為不變？若變，誰是能通？誰是所通？若不變，因果則並，皆無此理。若別有法通因果，當知因果非果者，經體也。《十二門論》云：「大人佛不行故名乘。」豈應以不行證因果乘也？《法華》「佛自住大乘」者，此乃乘理以御人，非住果德也。《普賢觀》明因果皆指實相，云可將實相證於因果耶？今皆不用。有人明因乘，以般若為本，五度為末；果乘以薩婆若為本，餘為末。又因乘狹，果乘廣。又般若相應心是一體乘，不相應心是異體乘。又無所得相應行是近乘，低頭舉手有所得是遠乘。又六度有世、出世雜是遠乘，三十七品但出世名近乘。又四句、度與品悉無得，又度與品俱有得。又度雜品不雜，又品雜度不雜(云云)。
+> In directly revealing substance, there are again four intentions: first, presenting old explanations; second, discussing the intention of substance; third, properly clarifying substance; fourth, citing textual proof. Northern masters take One Vehicle as substance, but this wording is expansive and not concise. "One Vehicle" is too general and mixes provisional and real; if it means provisional one vehicle, it is wholly not sutra-intent; if it means real one vehicle, its meaning includes the three tracks and does not clearly reveal substance, so I do not use it. Another explanation says true truth is substance. This too is overgeneral: both small and great vehicles clarify true truth. In Hinayana true truth it need not even be stated; in Mahayana there are again many kinds. Which true truth is taken as substance now? Therefore I do not use it. Another says one-vehicle cause and fruit are substance; this too I do not use. Why? "One vehicle" is general, as said above. Also, cause and fruit as two dharmas are still within the level of conditioned affairs; how could they be substance? If affairs are without the seal of principle, they are like demon scriptures; how can they be used? Some explain vehicle-substance as pervading cause and fruit: fruit takes ten-thousand virtues as substance, cause takes ten-thousand goodnesses as substance. They cite the *Twelve Gate Treatise*: "the vehicle ridden by Buddhas and great persons, and by Manjusri and Avalokitesvara." They also cite this sutra: "The Buddha himself abides in the Great Vehicle," taking that as fruit; and "the sons ride this jeweled vehicle," taking that as cause-vehicle. They also cite the *Puxian Contemplation Sutra*: "Mahayana cause and fruit are both reality-mark." I ask privately: is the vehicle of cause and fruit changing or unchanging? If changing, who is the one that traverses and what is traversed? If unchanging, cause and fruit collapse together, and no such principle stands. If there is a separate dharma that traverses cause and fruit, then cause and fruit are not the fruit; that separate dharma would be sutra-substance. The *Twelve Gate Treatise* says: "Great persons and Buddhas are called vehicle precisely because they do not proceed by activity." How then can non-activity prove a cause-fruit vehicle? In Lotus, "the Buddha himself abides in the Great Vehicle" means using vehicle-principle to govern persons, not abiding in fruit-virtue. The *Puxian Contemplation* points cause and fruit alike to reality-mark; how can one then prove reality-mark by way of cause and fruit? So I use none of these. Some explain cause-vehicle with prajna as root and five perfections as branches; fruit-vehicle with sarvajna as root and others as branches. They say cause-vehicle is narrow and fruit-vehicle broad; a mind corresponding to prajna is one-substance vehicle, a non-corresponding mind is different-substance vehicle; conduct corresponding to non-attainment is near vehicle, while bowing head and raising hand with attainment is far vehicle; six perfections mixed with worldly and supramundane are far vehicle, while thirty-seven factors solely supramundane are near vehicle; and so on through fourfold propositions where perfections and factors are both without attainment, both with attainment, perfections mixed and factors unmixed, or factors mixed and perfections unmixed (and so on).
 
-> "**Substance** is the pointing-return of the whole text, the assembly of all meanings."
+私謂般若為乘本者，於今經是白牛，非經體也。薩婆若為乘本者，於今經是道場所成果，亦非乘體。因乘狹者是縱義，果乘廣者是橫義，悉非今經乘體。般若相應心無所得近遠等，於今經悉是莊校儐從，都非乘體。那忽於皮毛枝葉而興諍論耶！喧怒如此，誰能別之？有人引《釋論》，以六度為乘體，方便運出生死，慈悲運取眾生；於今經般若是牛，五度是莊挍，方便是儐從，慈悲是軒，亦非乘體。
+> I personally judge that taking prajna as vehicle-root in this sutra is only the white ox, not sutra-substance. Taking sarvajna as vehicle-root is only the fruit accomplished at the bodhi-site in this sutra, also not vehicle-substance. Saying cause-vehicle is narrow is a vertical reading; saying fruit-vehicle is broad is a horizontal reading; neither is vehicle-substance of this sutra. Prajna-corresponding mind, non-attainment, near and far, and so forth are all ornaments and attendants in this sutra, none vehicle-substance. Why suddenly contend over skin, hair, branches, and leaves? With such clamor and anger, who can distinguish it? Some cite the *Treatise* and take six perfections as vehicle-substance, saying expedience carries one out of birth-and-death and compassion carries and gathers beings; but in this sutra prajna is the ox, five perfections are ornaments, expedience is the attendant, and compassion is the carriage canopy - still not vehicle-substance.
 
-文云：「是法不可示，言辭相寂滅。」
+《中邊分別論》云：乘有五：一、乘本，謂真如佛性。[A2]二、乘行，謂福慧。三、乘攝，謂慈悲。四、乘障，謂煩惱，是煩惱障；行、解等是智障。五、乘果，謂佛果也。《唯識論》云：乘是出載義，由真如佛性出福慧等行，由此行出佛果，由佛果載出眾生。《攝大乘論》：乘有三：一、乘因，謂真如佛性。二、乘緣，謂萬行。三、乘果，謂佛果也。《法華論》明乘體，謂「如來平等法身」，又云：如來大般涅槃。此兩文似如隱顯耳；發心低頭舉手等名乘緣。《十二門論》明乘本，謂諸法實相；乘主，謂般若；乘助，謂一切行資成，乘至至薩婆若。此五論明乘體同，而莊挍小異；於今經明乘體，正是實相，不取莊挍也。若取莊挍者，則非佛所乘乘也。
+> The *Madhyanta-vibhaga* says the vehicle has five: first, vehicle-root, namely suchness and Buddha-nature; [A2] second, vehicle-practice, namely merit and wisdom; third, vehicle-inclusion, namely compassion; fourth, vehicle-obstruction, namely afflictions as afflictive obstruction, while practice and understanding and the like are cognitive obstruction; fifth, vehicle-fruit, namely Buddha-fruit. The *Vijnaptimatra Treatise* says vehicle means carrying out and carrying across: from suchness and Buddha-nature arise practices such as merit and wisdom, from those practices arises Buddha-fruit, and from Buddha-fruit beings are carried across. The *Mahayana-samgraha* says vehicle has three: cause, suchness and Buddha-nature; conditions, manifold practices; fruit, Buddha-fruit. The *Lotus Treatise* clarifies vehicle-substance as "the Tathagata's equal Dharma-body," and also says it is the Tathagata's great mahaparinirvana. These two passages seem to mark hidden and manifest aspects; arousing mind, bowing head, raising hand, and so on are called vehicle-conditions. The *Twelve Gate Treatise* clarifies vehicle-root as reality-mark of all dharmas; vehicle-lord as prajna; vehicle-assistance as all practices that aid completion; and vehicle-arrival as arriving at sarvajna. These five treatises clarify one same vehicle-substance, with only minor differences in ornaments and attendants. In this sutra, the clarified vehicle-substance is precisely reality-mark and does not take ornaments and attendants. If one takes ornaments and attendants, then it is not the vehicle ridden by Buddha.
 
-> The text says: "**This dharma cannot be shown; the mark of verbal expression is quiescent**."
+    [A2] 二【CB】，三【大】
+> [A2] "二" in CBETA; "三" in Taisho.
 
----
+二、論體意者，何意須用此體？《釋論》云：諸小乘經，若有無常、無我、涅槃三印印之，即是佛說，修之得道。無三法印，即是魔說。大乘經，但有一法印，謂諸法實相，名了義經，能得大道。若無實相印，是魔所說。故身子云：「世尊說實道，波旬無此事。」何故小三大一？小乘明生死與涅槃異，生死以無常為初印，無我為後印，二印印說生死，涅槃但用一寂滅印，是故須三。大乘，生死即涅槃，涅槃即生死，不二不異。《淨名》曰：「一切眾生常寂滅相」，即大涅槃。又云：「本自不生，今則無滅。」本不生者，則非無常無我相，今則無滅者，則非小寂滅相，唯是一實相。實相故言常寂滅相即大涅槃，但用一印也。此大、小印，印半滿經，外道不能雜，天魔不能破。如世文符，得印可信。當知諸經畢定須得實相之印，乃得名為了義大乘也。
+> Second, discussing the intent of substance: why must this substance be used? The *Treatise* says: in all Hinayana sutras, if they bear the three seals of impermanence, non-self, and nirvana, they are Buddha-word and cultivation of them attains the path; without these three seals they are demon speech. In Mahayana sutras there is only one seal, namely reality-mark of all dharmas; this is called definitive-meaning scripture and can attain the great path. Without the seal of reality-mark, it is spoken by demons. Therefore Sariputra says: "The World-Honored One speaks the true path; Mara has no such matter." Why three for the small and one for the great? Hinayana distinguishes birth-and-death from nirvana: birth-and-death is sealed first by impermanence and next by non-self; these two seals seal discourse on birth-and-death, while nirvana uses only one quiescent-extinction seal, therefore three are required. In Mahayana, birth-and-death is precisely nirvana and nirvana precisely birth-and-death, not two and not different. The *Vimalakirti* says: "All beings are constantly of quiescent-extinction mark" - this is Great Nirvana. It also says: "Originally not born; now without extinction." Originally not born is not the mark of impermanence and non-self; now without extinction is not the lesser quiescent-extinction mark; it is only one reality-mark. Because it is reality-mark, constant quiescent-extinction mark is called Great Nirvana, using only one seal. These great and small seals seal the half and full teachings; outsiders cannot mix into them, heavenly demons cannot break them. Like worldly documentary seals, if the seal is present it is trustworthy. One should know all sutras must ultimately obtain the seal of reality-mark before they can be called definitive Mahayana.
 
-## Seven Topics on Substance
+三正顯體者，即一實相印也。三軌之中，取真性軌。十法界中，取佛法界。佛界十如是中，取如是體。四種十二因緣中，取不思議不生不滅。十二支中，取苦道即是法身。四種四諦中，取無作四諦。於無作中，唯取滅諦。七種二諦中，取五種二諦，五二諦中，唯取真諦。五三諦中，取五中道第一義諦。諸一諦中，取中道一實諦。諸無諦中，取中道無諦也。若得此意，就智妙中簡，乃至十妙一一簡出正體，例可知也。
+> Third, directly revealing substance: it is precisely the one reality-mark seal. Among the three tracks, take the true-nature track. Among the ten dharma-realms, take the Buddha-realm. Within the ten suchnesses of the Buddha-realm, take suchness as substance. Among the four kinds of twelve links, take inconceivable unborn-undying. In the twelve branches, take the suffering-path as precisely Dharma-body. Among the four kinds of four truths, take the unconstructed four truths. Within the unconstructed, take only cessation-truth. Among seven kinds of two truths, take five kinds; within those five, take only true truth. Among five kinds of three truths, take the middle-way first-meaning truth in all five. Among all one-truth formulations, take the middle-way one real truth. Among all no-truth formulations, take middle-way no-truth. If this meaning is obtained, then in wisdom-subtlety one can discriminate, and up through the ten subtleties each can be discriminated to reveal proper substance; the pattern can be known by analogy.
 
-即為七：一、正顯經體。二、廣簡偽。三、一法異名。四、入體之門。五、遍為眾經體。六、遍為諸行體。七、遍一切法體。
+若譬喻明義，如梁柱綱紀一屋，非梁非柱，即屋內之空。柱梁譬以因果；非梁非柱譬以實相，實相為體，非梁柱也。屋若無空，無所容受，因果無實相，無所成立。《釋論》云：若以無此空，一切無所作。又譬如日月綱天、公臣輔主，日月可二，太虛空天不可二也；臣將可多，主不可多也。為此義故，須簡出正體。如三軌成乘，不縱不橫，不即不離，顯示義便，須簡觀照等，唯指真性當名，正意分明，三軌既然，餘法例爾(云云)。
+> If meaning is clarified by metaphor: beams and pillars structure one house, but what is neither beam nor pillar is the space inside the house. Beams and pillars metaphorize cause and fruit; what is neither beam nor pillar metaphorizes reality-mark. Reality-mark is substance, not beams and pillars. If a house had no space, it could receive nothing; if cause and fruit had no reality-mark, nothing could be established. The *Treatise* says: if there were no such emptiness, nothing could be done. Again, like sun and moon ordering the sky, or ministers and officials assisting the ruler: sun and moon may be two, but the vast sky-space cannot be two; ministers and generals may be many, but the ruler cannot be many. For this reason proper substance must be discriminated out. As with three tracks forming the vehicle - neither vertical nor horizontal, neither identical nor separate - for ease of explicit meaning, one must discriminate out contemplative illumination and the rest and point only to true nature as the apt name. The proper intent is thus clear. Since it is so with the three tracks, other dharmas follow by analogy (and so on).
 
-> This has **seven topics**:
-> 1. Directly revealing the sūtra's substance
-> 2. Broadly distinguishing false from true
-> 3. One dharma, different names
-> 4. Gates of entry to substance
-> 5. Pervading as substance of all sūtras
-> 6. Pervading as substance of all practices
-> 7. Pervading as substance of all dharmas
+四、引證者，〈序品〉云：「今佛放光明，助顯實相義。」又云：「諸法實相義，已為汝等說。」〈方便品〉云：「唯佛與佛，乃能究盡諸法實相。」偈中云：「諸佛法久後，要當說真實。」又云：「我以相嚴身……為說實相印。」身子領解云：「世尊說實道，波旬無此事。」又云：「安住實智中，我定當作佛。」〈法師品〉云：「開方便門，示真實相。」〈安樂行〉云：「觀諸法如實相。」〈壽量〉云：「如來如實知見。」《普賢觀》云：「昔於靈山，廣說一實之道。」又云：「觀於一實境界。」故知諸佛為大事因緣出現於世，秖令眾生開佛知見，見此一實非因非果之理耳。經文在茲，可為明證也。
+> Fourth, citation as proof: the *Introductory Chapter* says, "Now Buddha emits light to aid revealing the meaning of reality-mark." It also says, "The meaning of reality-mark of all dharmas has already been explained for you." The *Skillful Means Chapter* says, "Only Buddha and Buddha can fully fathom reality-mark of all dharmas." In verse: "After long ages the Buddha-dharma must finally speak the true." It also says, "With marks I adorn the body ... to speak the seal of reality-mark." Sariputra's understanding says, "The World-Honored One speaks the true path; Mara has no such thing." It also says, "Abiding in true wisdom, I will certainly become Buddha." The *Dharma-Teacher Chapter* says, "Open the gate of expedients and show true reality-mark." The *Peaceful Conduct Chapter* says, "Contemplate all dharmas as reality-mark." The *Life-Span Chapter* says, "The Tathagata knows and sees as it is." The *Puxian Contemplation* says, "Formerly at Vulture Peak, the one real path was broadly taught." It also says, "Contemplate the one real realm." Therefore we know that all Buddhas appear in the world for the great causal condition solely to enable beings to open Buddha-knowledge-and-vision and see this one real principle beyond cause and beyond fruit. The sutra text is present here and can serve as clear proof.
 
----
+○二、廣簡偽者，夫正體玄絕，一往難知，又邪小之名，亂於正大，譬如魚目混雜明珠，故須簡偽。即為六意：一、就凡簡。二、就外簡。三、就小簡。四、就偏簡。五、就譬簡。六、就悟簡。
+> Second, broadly distinguishing the false: proper substance is profoundly subtle and hard to know at first pass; moreover names of deviant and lesser teachings confuse the proper great teaching, like fish-eyes mixed with bright pearls. Therefore falsehood must be distinguished. This has six intentions: first, distinction at the ordinary level; second, at the outsider level; third, at the lesser-vehicle level; fourth, at the partial level; fifth, by metaphor; sixth, by awakening.
 
-## Rejecting Previous Interpretations
+一、就凡簡者，《釋論》云：世典亦稱實者，乃是護國治家稱實也。外道亦稱實者，邪智僻解，謂為實也。小乘稱實者，厭苦蘇息，以偏真為實也。如是等，但有實名，而無其義。何者？世間妖幻道術亦稱為實，多是鬼神魅法，此法入心，迷醉狂亂，自衒善好，謂勝真實，立異動眾，示奇特相。或髑髏盛屎，約多人前張口大咽，或生魚臭肉，增狀餔食，或裸形弊服，誇傲規矩，或直來直去，不問不答，種種譎詭，詃誘無智，令信染惑著。著已求脫叵得，內則病害其身，外則誅家滅族，禍延親里，現受眾苦，後受地獄長夜之苦，生生障道，無解脫期。此乃世間現見，何實可論，鈍使愛論攝。
+> First, distinction at the ordinary level: the *Treatise* says when worldly canons call something "real," it means real for protecting state and ordering household. Outsiders also call things "real," but by deviant intelligence and skewed interpretation. The lesser vehicle also calls something "real," by loathing suffering and seeking rest, taking partial truth as real. In all such cases there is only the name "real" and not its meaning. Why? Worldly sorcery and magical techniques are also called real; most are spirit-ghost enchantments. When such methods enter the mind they confuse, intoxicate, and madden. They flaunt themselves as good and superior, claim surpassing truth, establish oddities to stir crowds, and display strange signs. Some fill skulls with filth and gulp publicly before crowds; some display raw fish and foul meat and theatrically consume them; some go naked or in ragged clothes, boasting and scorning norms; some come and go stiffly, neither asking nor answering. Through many tricks they lure the unwise into stained, deluded attachment. Once attached, release is unattainable: inwardly it harms the body with illness; outwardly it brings punishment on family and clan and disaster to relatives. One presently suffers many pains, later suffers long nights in hell, and life after life obstructs the path with no term of liberation. This is plainly seen in the world. What "real" can be discussed here? It is included under desire-theory of dull afflictions.
 
-北地師用一乘為體...今不用此解。
+若周孔經籍，治法禮法，兵法醫法，天文地理，八卦五行，世間墳典，孝以治家，忠以治國，各親其親，各子其子，敬上愛下，仁義揖讓，安于百姓，霸立社禝；若失此法，彊者陵弱，天下焦遑，民無聊生，鳥不暇栖，獸不暇伏；若依此法，天下太平，牛馬內向，當知此法，乃是愛民治國，而稱為實。《金光明》云：「釋提桓因種種勝論。」即其義也。蓋十善意耳，修十善上符天心，諸天歡喜，求天然報，此法為勝，故言勝論耳。又大梵天王，說出欲論，即是修定出欲淤泥，亦是愛論攝耳。世又方術，服藥長生，練形易色，飛仙隱形者，稱此藥方祕要真實，此亦愛論鈍使攝耳。
+> As for the canons of Zhou and Confucius - governance law, ritual law, military and medical arts, astronomy and geography, eight trigrams and five phases, worldly classics - filiality to govern households, loyalty to govern states, each honoring their kin and raising their children, respecting above and caring below, benevolence and righteousness with deferential conduct, pacifying the people and establishing state altars: if these methods are lost, the strong oppress the weak, the world burns in panic, people cannot live, birds have no time to perch, beasts no time to lie down. If these methods are followed, the world is at peace and even oxen and horses turn inward. Know that these methods are called "real" in the sense of cherishing people and governing state. The *Golden Light* says, "Sakra's various supreme theories" - this is that meaning. It is basically the intent of the ten good deeds: cultivating ten goods accords above with heavenly mind, making devas rejoice and seek natural reward; this is "supreme," hence called supreme discourse. Again, Great Brahma King's discourse on exiting desire means cultivating concentration to leave desire-mire; this too is included under desire-theory. Likewise worldly techniques for long life through medicines, refining form and changing appearance, becoming flying immortals and hiding the body call those secret formulas "true and real"; this too is included under desire-theory of dull afflictions.
 
-> "Northern masters use 'One Vehicle' as substance... **I don't use this interpretation**."
+二就外簡者，即是外道典籍也。若服藥求知，聰利明達，推尋道理，稱此藥方為勝為實者，藥力薄知，不能鑒遠，觸藥則失，藥歇則失，亦非實也。若此間莊老，無為無欲，天真虛靜，息諸誇企，棄聖絕智等，直是虛無其抱，尚不出單四見外，何關聖法？縱令出單四見外，尚墮複四見中，見網中行，非解脫道。若外國論力受梨昌募，撰《五百明難》，其一云：「瞿曇為一究竟道，為眾多究竟道？」佛言：「但一究竟道。」論力云：「云何諸師各各說究竟道？」佛指鹿頭：「汝識其不？」論力言：「識，究竟道中，其為第一。」佛言：「若其得究竟道，云何自捨其道為我弟子耶？」論力即悟，歎佛法中，獨一究竟道。又如長爪云：「一切論可破，一切語可轉，觀諸法實相，于久不得一法入心。」《釋論》云：「長爪執亦有亦無見。」又云：「亦計不可說見。」
+> Second, distinction at the outsider level, namely outsider canons. If one takes medicines to gain knowledge, becomes clever and bright, investigates principles, and calls those formulas supreme and real, such knowledge from medicine-power is thin and cannot discern far; once medicine is interrupted it is lost, and once medicine ceases it is lost - not real. As for Zhuangzi and Laozi in this region - non-action, non-desire, natural emptiness and stillness, ceasing all ambitious display, abandoning sages and cutting off wisdom - this is simply clinging to voidness and still does not leave even the simple four views; what relation has it to sage-dharma? Even if one left the simple four views, one still falls into compounded four views, moving inside the net of views, not on the path of liberation. As for the foreign debater who accepted a challenge and composed *Five Hundred Brilliant Difficulties*, one question asked: "Is Gautama one ultimate path, or many ultimate paths?" The Buddha said, "Only one ultimate path." The debater said, "Then why do various teachers each teach an ultimate path?" The Buddha pointed to Deer-head: "Do you know him?" The debater said, "I do. In the ultimate path he is foremost." Buddha said, "If he obtained the ultimate path, why did he abandon his own path to become my disciple?" The debater immediately awakened and praised that in Buddha-dharma there is only one ultimate path. Again, as Long-Claw said: "All theses can be refuted, all words can be turned, yet contemplating the reality-mark of dharmas, for long I could not bring one dharma into mind." The *Treatise* says Long-Claw held the view of both being and non-being; it also says he held the ineffable-view.
 
-又有解言：真諦為體。此亦通濫...故不用。
+如斯流類，百千萬種，虛妄戲論，為惑流轉，見網浩然，邪智瀾漫，觸境生著。或時襵揲，有無為有，無有無無為無，有非有非無為有，無非有非無為無，百千番牒，悉皆見倒，生死諸邊，非真實也。《大經》云：「被無明枷，繫生死柱，遶二十五有不能得脫。」即此義也。
+> Such streams and kinds are hundreds of thousands and millions: false and frivolous discourse revolving under delusion, vast nets of views, flooding deviant cognition, and attachments arising on contact with conditions. Sometimes by folded dialectic they make being-from-nonbeing into being, nonbeing-from-being into nonbeing, being-from-neither-being-nor-nonbeing into being, and nonbeing-from-neither-being-nor-nonbeing into nonbeing; in hundreds and thousands of turns all are inverted views at the edges of birth-and-death, not truth. The *Great Sutra* says: "Shackled by ignorance, tied to the pillar of birth-and-death, circling the twenty-five modes of existence without release." This is that meaning.
 
-> "Others say 'True-truth' is substance. This is also too general... **so I don't use it**."
+三、就小簡者，聲聞法中亦云：「離有離無名聖中道。」《大集》云：「拘隣如沙門，最初獲得真實之知見。」然小乘不運大悲，不濟眾生，功德力薄，不求作佛，不深窮實相，則智慧劣弱，雖云離有離無名聖中道，乃以斷常二見為二邊，真諦為中道。真無漏慧名為見，證涅槃法名為知，雖斷見思，除滅分段，而住草庵，非究竟理。對前生死有邊，即是涅槃無邊，二俱可破可壞，非真實道，故不名實相也。
+> Third, distinction at the lesser-vehicle level: even sravaka teaching says, "Leaving being and leaving non-being is called the noble middle way." The *Great Assembly* says, "Kaundinya the ascetic was the first to obtain true knowing-and-seeing." Yet the lesser vehicle does not deploy great compassion, does not rescue beings, has thin merit-power, does not seek Buddhahood, and does not deeply exhaust reality-mark. Hence its wisdom is weak. Though it says leaving being and non-being is noble middle way, it still takes annihilation and permanence as two extremes and true truth as middle. True undefiled wisdom is called seeing; certifying nirvana-dharma is called knowing. Though it cuts views and thought and extinguishes segmental birth-and-death, it still abides in a grass hut, not ultimate principle. Opposed to previous birth-and-death as one edge, it takes nirvana as the opposite edge. Both can be broken and destroyed and are not the true path, so this is not called reality-mark.
 
-又有解言：一乘因果為體。今亦不用。
+四、就偏簡者，諸大乘經，共二乘人帶方便說者，名字既同，義須分別。如《摩訶衍》中云：「三乘之人，同以無言說道斷煩惱。」《中論》云：「諸法實相，三人共得」者，二乘之人雖共稟無言說道，自求出苦，無大悲心，得空則止，鈍根菩薩亦爾。利根菩薩大悲為物，深求實相。共實相者，智如螢火，是故非實；不共實相，智如日光，是故為實。《大經》云：「第一義空名為智慧。」二乘但空，空無智慧；菩薩得不但空，即中道慧。此慧寂而常照，二乘但得其寂，不得寂照，故非實相。菩薩得寂，又得寂照，即是實相。
+> Fourth, distinction at the partial level: in Mahayana sutras that are taught together with two-vehicle people through expedients, names may be the same but meanings must be distinguished. As the *Mahayana* says, "People of the three vehicles all cut afflictions by the ineffable path." The *Middle Treatise* says, "Reality-mark of all dharmas is attained jointly by three kinds of persons." Yet though two-vehicle people receive the ineffable path together, they seek only escape from suffering, without great compassion, and stop at emptiness; dull-root bodhisattvas are similar. Sharp-root bodhisattvas, out of great compassion for beings, deeply seek reality-mark. Shared reality-mark has wisdom like firefly-light and therefore is not real; unshared reality-mark has wisdom like sunlight and therefore is real. The *Great Sutra* says, "First-meaning emptiness is called wisdom." Two vehicles have only emptiness, emptiness without wisdom. Bodhisattvas attain not-only-emptiness, namely middle-way wisdom. This wisdom is quiescent yet constantly illuminating. Two vehicles attain only quiescence, not quiescent illumination, and thus are not reality-mark. Bodhisattvas attain quiescence and quiescent illumination, and this is reality-mark.
 
-> "Others say 'One-Vehicle cause-and-fruit' is substance. **I also don't use this**."
+見不空者，復有多種：一、見不空，次第斷結，從淺至深，此乃相似之實，非正實也。二、見不空，具一切法，初阿字門則解一切義，即中、即假、即空，不一不異，無三無一。二乘但一即；別教但二即；圓具三即，三即真實相也。《釋論》云：「何等是實相？謂菩薩入於一相，知無量相，知無量相又入一相。」二乘但入一相，不能知無量相；別教雖入一相，又入無量相，不能更入一相。利根菩薩即空故入一相，即假故知無量相，即中故更入一相。如此菩薩，深求智度大海，一心即三，是真實相體也。
+> As for seeing non-empty, there are many kinds. First, seeing non-empty by sequentially cutting fetters from shallow to deep: this is only resemblance-real, not proper real. Second, seeing non-empty as inclusive of all dharmas: from the first A-syllable gate one understands all meanings - immediately middle, immediately provisional, immediately empty, not one and not different, not three and not one. Two vehicles have only one immediate; distinct teaching has only two immediates; the perfect teaching has all three immediates, and these three are true reality-mark. The *Treatise* says: "What is reality-mark? It is when a bodhisattva enters one mark, knows immeasurable marks, and from knowing immeasurable marks enters one mark again." Two vehicles only enter one mark and cannot know immeasurable marks. Distinct teaching enters one mark and then immeasurable marks, but cannot again enter one mark. Sharp-root bodhisattvas, because immediately empty, enter one mark; because immediately provisional, know immeasurable marks; because immediately middle, enter one mark again. Such bodhisattvas deeply seek the great sea of perfection-wisdom: one mind as three is true substance of reality-mark.
 
----
-
-## The Correct Substance: Reality-Mark (實相)
-
-三正顯體者，即一實相印也。
-
-> "**Directly revealing substance: it is the One Reality-Mark Seal.**"
-
-三軌之中，取真性軌。十法界中，取佛法界。佛界十如是中，取如是體。
-
-> "Among Three Tracks, take True Nature Track. Among Ten Dharma-Realms, take Buddha Dharma-Realm. Among Buddha-realm's Ten Suchnesses, **take Such-Body**."
-
----
-
-## Proof Texts
-
-〈序品〉云：「今佛放光明，助顯實相義。」
-
-> *Introduction Chapter*: "Now Buddha emits light, **helping to reveal Reality-Mark meaning**."
-
-〈方便品〉云：「唯佛與佛，乃能究盡諸法實相。」
-
-> *Skillful Means Chapter*: "**Only Buddha with Buddha can fully fathom the Reality-Mark of all dharmas**."
-
-〈法師品〉云：「開方便門，示真實相。」
-
-> *Dharma-Teacher Chapter*: "**Opening the expedient gate, showing true Reality-Mark**."
-
----
-
-## The Three Similes for True and False
-
-### 1. Three Beasts Crossing the River
-
-三獸渡河，同入於水...兔、馬力弱，雖濟彼岸，浮淺不深...大象力強，俱得底岸。
-
-> "Three beasts cross the river, entering the same water... Rabbit and horse are weak—though reaching the other shore, they float shallow, not deep... **The great elephant is strong—reaching both bottom and shore**."
-
-水喻即空，底喻不空...菩薩獨到。
-
-> "Water metaphorizes emptiness; bottom metaphorizes non-emptiness... **Only the bodhisattva reaches [the bottom]**."
-
----
-
-### 2. Crystal vs. Wish-Fulfilling Jewel
-
-頗梨、如意，兩珠相似...頗梨但空，不能雨寶。如意珠，亦空亦雨寶。
-
-> "Crystal and wish-fulfilling jewel resemble each other... Crystal is merely empty, cannot rain treasures. **Wish-fulfilling jewel is both empty and rains treasures**."
-
----
-
-### 3. Gold in Stone
-
-譬如黃石中金，愚夫無識，視之謂石...估客得之，融出其金...金匠得之，造作種種...仙客得之，練為金丹，飛天入地。
-
-> "Like gold in yellow stone: Fools don't recognize it, call it stone... Merchants get it, melt out the gold... Goldsmiths get it, make various ornaments... **Alchemists get it, refine it into elixir, fly to heaven, enter earth**."
-
-金丹實相，以為經體也。
-
-> "**Gold-elixir Reality-Mark is the sūtra's substance**."
-
----
-
-## Footnotes
-
-[^1]: The **fifteen meanings of sūtra** represent Master Zhiyi's characteristic expansion of traditional categories. By applying the teaching/practice/principle triad to each of the five meanings (both translatable and untranslatable sets), he shows the inexhaustible depth of even a single title-character.
-
----
-
-*Fascicle 8 Part 1 complete. Translation continues with Gates of Entry...*
+華嚴不共二乘，但約菩薩：三智次第，得亦非正實；不次第得者，是正實也。若方等中，四人得三智，三人為虛；一人為實。大品三慧說三智屬三人，前二不深求，淺而非實；後一人深求一心三智，是故是實。此經「汝實我子」，無復四三之人，十方諦求，更無餘乘，但一實相智，決了聲聞法，但說無上道，純是一實體也。
+> In Avatamsaka, not shared with two vehicles and discussed only in terms of bodhisattvas: obtaining three wisdoms sequentially is still not proper real; obtaining them non-sequentially is proper real. In Vaipulya, where four kinds of persons obtain three wisdoms, three are unreal and one is real. In *Mahaprajna*, three wisdoms are assigned to three persons; the first two do not seek deeply and are shallow, therefore not real; the latter one deeply seeks one-mind three wisdoms, therefore real. In this sutra, "You are truly my son" leaves no more four-fold or three-fold persons. Seeking truth in the ten directions, there is no other vehicle: only one wisdom of reality-mark, decisively settling sravaka dharma, speaking only the unsurpassed path, purely one real substance.
