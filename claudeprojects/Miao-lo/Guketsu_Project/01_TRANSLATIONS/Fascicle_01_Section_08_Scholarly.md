@@ -1,109 +1,164 @@
-# Fascicle 1, Part 7: The Architecture of the Text
-## The Ten Chapters and Five Abbreviations (*Shi Zhang* 十章 / *Wu Lue* 五略)
+# Fascicle 1: Section 8 (Source-Aligned Draft)
+## Scholarly Translation
 
-**Translated by [Your Name/Persona]**
-**Date**: January 22, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## 1. The Question of Structure
-
-After establishing the doctrinal foundations (Four Vows, Six Identities), Miao-lo now explains *how the Mohe Zhiguan is built*.
-
-The *Mohe Zhiguan* is not a random collection of teachings. It is an **architectural system** with:
-1.  **Ten Chapters** (*Shi Zhang*): The complete structure of the text.
-2.  **Five Abbreviations** (*Wu Lue*): A condensed summary of the Ten Chapters, used for beginners.
+**Source**: T46n1912, `T1912_001.txt`  
+**Boundary mapping**: Source line 20, sentence units 1311-1386  
+**Translator**: William Altig / Claude  
+**Date**: February 6, 2026
 
 ---
 
-## 2. The Ten Chapters (*Shi Zhang*)
+## Source-Aligned Bilingual Block
 
-Miao-lo lists the Ten Chapters as follows:
-
-| # | Chapter Name (Chinese) | Chapter Name (English) | Function |
-|---|---|---|---|
-| 1 | **大意** (*Da Yi*) | **Grand Outline** | Summary of entire system (like a table of contents) |
-| 2 | **釋名** (*Shi Ming*) | **Explanation of the Name** | What does "Zhiguan" mean? |
-| 3 | **顯體** (*Xian Ti*) | **Revealing the Essence** | What is the *substance* of Zhiguan? |
-| 4 | **攝法** (*She Fa*) | **Embracing the Dharmas** | How does Zhiguan relate to all other teachings? |
-| 5 | **偏圓** (*Pian Yuan*) | **Partial vs. Complete** | Distinguishing inferior from superior teachings |
-| 6 | **方便** (*Fang Bian*) | **Skillful Means / Preliminaries** | The 25 preparatory conditions for practice |
-| 7 | **正觀** (*Zheng Guan*) | **Correct Contemplation** | The actual practice (Ten Objects, Ten Modes) |
-| 8 | **果報** (*Guo Bao*) | **Fruit/Result** | What happens when practice succeeds? |
-| 9 | **起教** (*Qi Jiao*) | **Arising of Teaching** | How the realized practitioner benefits others |
-| 10 | **旨歸** (*Zhi Gui*) | **Ultimate Return** | The final destination (Nirvāṇa, Three Virtues) |
-
-### The Logic of the Ten Chapters
-
-Miao-lo explains the **生起** (*Sheng Qi* — "arising and generation") of these chapters:
-
-1.  **Chapters 1-5** belong to **Understanding** (*Jie* 解): You must first *know* what Zhiguan is before you can practice.
-2.  **Chapters 6-7** belong to **Practice** (*Xing* 行): After understanding, you *do* the work.
-3.  **Chapters 8-10** belong to **Fruition** (*Guo* 果): After practice, you attain the result and benefit others.
-
-> "If you do not know the name, how can you know the essence? If you do not know the essence, how can you practice? If you do not practice, how can you attain the fruit?"
-
----
-
-## 3. The Five Abbreviations (*Wu Lue*)
-
-The **Five略** are a *shortened* version of the Ten Chapters, used to give the student a general sense of direction before diving into the details.
-
-| # | Abbreviation (Chinese) | Abbreviation (English) | Corresponding Chapters |
-|---|---|---|---|
-| 1 | **發大心** (*Fa Da Xin*) | **Generating the Great Mind** | Chapters 1-5 (Understanding) |
-| 2 | **修大行** (*Xiu Da Xing*) | **Cultivating the Great Practice** | Chapters 6-7 (Practice) |
-| 3 | **感大果** (*Gan Da Guo*) | **Attaining the Great Fruit** | Chapter 8 (Fruition) |
-| 4 | **裂大網** (*Lie Da Wang*) | **Tearing Open the Great Net** | Chapter 9 (Arising of Teaching) |
-| 5 | **歸大處** (*Gui Da Chu*) | **Returning to the Great Abode** | Chapter 10 (Ultimate Return) |
-
-### The Meaning of "大" (*Da* — Great)
-
-Every abbreviation has "Great" (*Da*) in its name. This is not rhetorical flourish. It refers to the **圓頓** (*Yuan Dun* — Perfectly Sudden) nature of this teaching:
-
--   **Great Mind**: Not a partial mind (seeking personal liberation), but the mind that vows to save all beings.
--   **Great Practice**: Not a technique, but the "non-dual contemplation" of the Dharma-realm.
--   **Great Fruit**: Not a limited attainment, but the complete realization of the Three Virtues.
--   **Great Net**: The network of doubts that binds all sentient beings. To "tear open" means to teach so effectively that all doubts are resolved.
--   **Great Abode**: The "Mysterious Treasury" (*Mi Zang*), the ultimate destination beyond coming and going.
-
----
-
-## 4. Understanding vs. Practice
-
-Miao-lo emphasizes a critical point:
-
-> "The first five chapters (Grand Outline through Partial/Complete) are like *eyes*. The next two chapters (Preliminaries and Correct Contemplation) are like *feet*."
-
--   **Eyes** (*Mu* 目): Without understanding, you are blind. You don't know where to go.
--   **Feet** (*Zu* 足): Without practice, you are crippled. You know where to go but cannot move.
-
-> "Without the eye, one stumbles in the dark. Without the foot, one knows the path but cannot walk it."
-
----
-
-## 5. The "Horizontal" and "Vertical" Reading
-
-Miao-lo introduces two ways to read the Ten Chapters:
-
-1.  **Vertical** (*Shu* 竪): Reading from Chapter 1 to Chapter 10 in sequence. This is the *order of learning*.
-2.  **Horizontal** (*Heng* 橫): Reading each chapter as complete in itself. Each chapter *contains* the essence of the whole.
-
-For example:
--   In the "Grand Outline" (Ch. 1), the entire path from aspiration to Buddhahood is summarized.
--   In "Correct Contemplation" (Ch. 7), the practice itself *is* the fruit. There is no waiting.
-
-This is the meaning of **圓頓** (*Yuan Dun*): The whole is present in every part.
-
----
-
-## Summary
-
-The Ten Chapters provide the **complete map**. The Five Abbreviations provide a **quick overview**. Together they ensure that the practitioner:
-1.  Knows the destination (Nirvāṇa, Three Virtues)
-2.  Knows the path (Four Samādhis, Ten Modes of Contemplation)
-3.  Knows the stages (Six Identities, Partial/Complete)
-4.  Knows the pitfalls (Ten Wrongs)
-
-Without this structure, meditation is "blind sitting." With it, every moment of practice is oriented toward complete Buddhahood.
+次南岳事慧文等者。
+> Next, regarding Nanyue and Huiwen, etc.
+明南岳所承及文師德行未見本傳。
+> It explains what Nanyue inherited and Master Wen's virtue and conduct, though an original biography has not been seen.
+言齊高者。
+> As for "Qi Gao":
+齊是國號。
+> Qi is the dynastic name.
+高謂高祖。
+> Gao means the High Founder.
+渤海人也。
+> He was from Bohai.
+姓高氏。
+> His surname was Gao.
+齊大夫高奚之後。
+> He was a descendant of Gao Xi, a grandee of Qi.
+高歡次澄。
+> Gao Huan, then Cheng.
+次洋。
+> Then Yang.
+方受魏禪都鄴。
+> At that point they received abdication from Wei and made Ye the capital.
+在相州。
+> It was in Xiangzhou.
+即北齊也。
+> This is Northern Qi.
+無競化者故云獨步。
+> Since none competed with his transforming work, it is called unmatched.
+河謂河北。
+> "He" means north of the Yellow River.
+淮謂淮南。
+> "Huai" means south of the Huai River.
+行化於世而言非世所知者。
+> It says he transformed the world, yet was not known by the world.
+明所證既深非餘所知。
+> This clarifies that what he realized was deep and not known by others.
+若准九師相承所用。
+> If we follow what was used in the transmission of the nine masters:
+第一諱明。
+> The first's taboo-name was Ming.
+多用七方便。
+> He mostly used the seven expedients.
+恐是小乘七方便耳。
+> These were likely the Hinayana seven expedients.
+自智者已前未曾有人立於圓家七方便故。
+> Before Zhizhe, no one had established seven expedients in the Perfect Teaching lineage.
+第二諱最。
+> The second's name was Zui.
+多用融心。
+> He mostly used "fused mind."
+性融相融諸法無礙。
+> Nature is fused, marks are fused, and all dharmas are unobstructed.
+第三諱嵩。
+> The third's name was Song.
+多用本心。
+> He mostly used "original mind."
+三世本無來去真性不動。
+> Across the three times there is fundamentally no coming or going; true nature does not move.
+第四諱就。
+> The fourth's name was Jiu.
+多用寂心。
+> He mostly used "quiescent mind."
+第五諱監。
+> The fifth's name was Jian.
+多用了心。
+> He mostly used "comprehending mind."
+能觀一如。
+> He could contemplate one suchness.
+第六諱慧。
+> The sixth's name was Hui.
+多用踏心。
+> He mostly used "treading mind."
+內外中間心不可得。
+> Inner, outer, and between: mind cannot be obtained.
+泯然清淨五處止心。
+> With distinctions erased and clear purity, he calmed the mind in five places.
+第七諱文。
+> The seventh's name was Wen.
+多用覺心。
+> He mostly used "awakened mind."
+重觀三昧滅盡三昧無間三昧。
+> [He used] repeated-observation samadhi, extinction samadhi, and uninterrupted samadhi.
+於一切法心無分別。
+> Toward all dharmas, the mind made no discriminations.
+第八諱思。
+> The eighth's name was Si.
+多如隨自意安樂行。
+> He mostly followed "accord with one's own intent" and "peaceful practice."
+第九諱顗。
+> The ninth's name was Yi.
+用次第觀如次第禪門。
+> He used sequential contemplation, as in the Sequential Dhyana Gates.
+用不定觀如六妙門。
+> He used indeterminate contemplation, as in the Six Subtle Gates.
+用圓頓觀如大止觀。
+> He used perfectly sudden contemplation, as in the Great Calming and Contemplation.
+以此觀之雖云相承法門改轉。
+> Viewed in this way, although it speaks of transmission, the methods changed in turn.
+慧文已來既依大論。
+> Yet from Huiwen onward, since it relied on the Great Treatise,
+則知是前非所承也。
+> we know those earlier ones were not what was inherited.
+故今歎文所行法云非世所知。
+> Therefore this text praises Wen's practiced dharma as "not known by the world."
+履地至厚者。
+> As for "treading the earth to its thickness":
+此明文師法行於世。
+> this clarifies Master Wen's dharma-practice in the world.
+如履地不知地之厚戴天不知天之高。
+> Like treading earth without knowing earth's thickness, or bearing heaven without knowing heaven's height.
+智者觀心論去。
+> Then, in Zhizhe's Treatise on Contemplating Mind and onward,
+引證文師所承異也。
+> evidence is cited that what Master Wen inherited was distinct.
+言高祖者。
+> Regarding the term "high ancestor":
+若以智者所指。
+> if one follows Zhizhe's indication,
+應以南岳為父師。
+> Nanyue should be taken as the father-teacher,
+慧文為祖師。
+> Huiwen as the ancestral teacher,
+龍樹為曾祖師。
+> and Nagarjuna as the great-grand ancestral teacher.
+故爾雅釋親云。
+> Therefore Erya, in explaining kinship, says:
+父之考為王父。
+> The father of one's father is the king-grandfather (grandfather).
+加王者尊也。
+> "King" is added as an honorific.
+王父之考為曾祖王父。
+> The father of the grandfather is the great-grandfather.
+加曾者重也。
+> "Great" is added as one degree further.
+曾祖王父之考為高祖王父。
+> The father of the great-grandfather is the high ancestor.
+加高者最上也。
+> "High" is added as the highest.
+是則章安望於龍樹方為高祖耳。
+> Thus, from Zhang'an's perspective, only Nagarjuna counts as the high ancestor.
+若直以尊上為高則可通用。
+> If "high" is simply used for a revered superior, then it can be used generally.
+如漢齊隋等。
+> As with Han, Qi, Sui, and so forth.
+並指始祖以為高祖。
+> All refer to the founding ancestor as high ancestor.
+謂禪立建功德無過上諡為高耳。
+> This means that upon abdication and state founding, when merit has no superior, the posthumous epithet "Gao" is applied.
+今家亦以龍樹為始。
+> In our school too, Nagarjuna is taken as the beginning.
+是故智者指為高祖疑者云去假設問端也。
+> Therefore Zhizhe designates him as high ancestor; then "a doubter says..." sets up a hypothetical question.

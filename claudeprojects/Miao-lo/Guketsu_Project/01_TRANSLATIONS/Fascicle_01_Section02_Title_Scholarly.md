@@ -1,436 +1,370 @@
-# Fascicle 1, Part 2: Why "Mohe"? The Title and Structure of the Text
+# Fascicle 1: Section 2 (Source-Aligned Draft)
+## Scholarly Translation
 
-**Translated by Dr. Rajesh Patel (The Professor)**
-**Date**: January 22, 2026
-**Source**: T46n1912, CBETA Chinese Electronic Tripiṭaka, Fascicle 1
-
----
-
-## Translation
-
-### The Reason for Changing the Title to "Mohe" (摩訶)
-
-Having explained the old and new [versions'] presence or absence of sequential ordering, [I now turn to] the reason for changing the title to the name "Mohe" (*Mahā*). There are two meanings:
-
-**First**, to distinguish it from the *Small Zhiguan* (*Xiao Zhiguan* 小止觀) written for [the Master's] lay elder brother.
-
-**Second**, to preserve the Sanskrit sound's richness of multiple meanings (*jianhan zhifu* 兼含之富).
-
-Therefore, the *Mahāprajñāpāramitā-śāstra* (*Dazhidu Lun* 大智度論) states: "The word *mahā* (摩訶) contains three meanings: Great (*da* 大), Many (*duo* 多), and Superior (*sheng* 勝)."
-
-If one were to use the explication of *bhikṣu* (比丘) positions according to the Four Teachings found in the commentary, that would not accord with the present intention. [Instead], using these three names to explicate the Perfect Teaching's Three Contemplations (*yuanjiao sanguan* 圓教三觀) precisely matches the purport of the title:
-
-- **Great** (*da* 大) is the meaning of **Emptiness** (*kong* 空)
-- **Many** (*duo* 多) is the meaning of **Provisional** (*jia* 假)
-- **Superior** (*sheng* 勝) is the meaning of **Middle** (*zhong* 中)
-
-Therefore, [the title] was changed to follow the [Sanskrit] name with multiple meanings, in order to serve as the title for this treatise on the **Three Contemplations in One Mind** (*yixin sanguan* 一心三觀).
-
-**[Objection]**: If this is so, how does [using] "Yuandun" (Perfect-Sudden, 圓頓) differ from changing to "Mohe"?
-
-**[Answer]**: Although the name "Yuandun" differs from partial and gradual [teachings], its language is general and comprehensive, yet it **lacks** (*que* 闕) the [explicit] inclusion of the three [truths]. Therefore, [we] change this land's simple and shallow sound (*ci tu dan qian zhi yin* 此土單淺之音) in order to preserve that [Sanskrit] language's designation rich in multiple meanings (*bi yu duo han zhi cheng* 彼語多含之稱).
-
-### The Two Characters "Zhiguan" (止觀) Are Nothing Other Than *Mahā*
-
-By this reasoning, one should know: the two characters "Zhiguan" (Concentration-Insight, 止觀) are nothing other than *mahā* (無非摩訶). [This text] is precisely the *Zhiguan* of **One Mind, Three Concentrations, Three Contemplations** (*yixin san zhi san guan* 一心三止三觀).
-
-Therefore, one should know: the entire treatise is comprehensively grasped (*zong lan* 總攬) to form the primary title. From the **Great Meaning** (*dayi* 大意) at the beginning through the **Ultimate Return** (*zhigui* 旨歸) at the end—all is the *Zhiguan* of *mahā*.
-
-### The Structure: General and Particular (總別)
-
-This being so, the title-name is the **general** (*zong* 總); the Ten Chapters are the **particular** (*bie* 別).
-
-Within the Ten Chapters, the **Great Meaning** chapter is general; the remaining eight are particular.
-
-Therefore, one should know: the **general and particular** (*zongbie* 總別), **self-practice** and **teaching others** (*zixing huata* 自行化他), **cause and effect**, **ability and object** (*neng suo* 能所)—all are *mahā*'s wondrous concentration and wisdom (*miao ding hui* 妙定慧).
-
-### Elaboration of the Structure
-
-**How so?**
-
-**In the General Exposition** (*zong shi zhong* 總釋中):
-
-1. **Arousing the mind and practicing** (*fa xin xiu xing* 發心修行) = self-practice **cause** (*zixing yin* 自行因)
-2. **Next, experiencing the great fruit** (*ci gan da guo* 次感大果) = self-practice **effect** (*zixing guo* 自行果)
-3. **Next, spreading wide the great outline** (*ci lie da gang* 次裂大綱) = **ability** in teaching others (*huata neng* 化他能)
-
-Since there exists the ability to teach, there must exist those who are taught. The text briefly raises the ability in order to include the object [of teaching] within it. When the matters of ability and object are completed, both alike enter the **Ultimate Return**.
-
-**In the Particular Exposition** (*bie shi zhong* 別釋中):
-
-1. From **Explaining the Names** (*shi ming* 釋名) through **Proper Contemplation** (*zheng guan* 正觀) = self-practice **cause**
-2. The **Fruits and Rewards** chapter (*guo bao zhang* 果報章) = self-practice **effect**
-3. The **Arising of Teachings** chapter (*qi jiao yi zhang* 起教一章) = **ability** in teaching others
-
-The meaning of "those who are taught" corresponds to the **object** in teaching others.
-
-The latter three major chapters—though their text is omitted and abbreviated (*que lüe* 闕略)—their meaning and purport are the same as the latter three [sections] in the General [Exposition]. Therefore, the later text is abbreviated and not explained.
+**Source**: T46n1912, `T1912_001.txt`  
+**Boundary mapping**: Source line 20, sentence units 91-269  
+**Translator**: William Altig / Claude  
+**Date**: February 6, 2026
 
 ---
 
-### The Preface Division (序分)
-
-The initial [section] divides the Preface into two parts.
-
-In the **Common Preface** (*tong xu* 通序), although [the structure] resembles the five items in the common [preface] of collected sūtras, since this is a private record, [the section on] "those who heard together" (*tongwen* 同聞) is omitted.
-
-Within [the Common Preface] are six [elements]. The initial four characters describe the **substance of what was heard** (*shu suo wen ti* 述所聞體).
-
-The two characters "Zhiguan" (止觀) properly indicate the substance of what was heard.
-
-The two characters "Mingjing" (明靜, "luminous stillness") praise the virtue of the substance. That is to say: **the substance of *zhǐ* (concentration) is stillness** (*zhi ti jing* 止體靜); **the substance of *guān* (insight) is luminosity** (*guan ti ming* 觀體明).
-
-From beginning to end, the ten chapters' proper contemplation of the ten dharmas—all are nothing other than Concentration-Insight whose substance is entirely luminous and still.
-
-This comprehensively indicates the entire treatise as what was heard, just as in the *Lotus Sūtra*, both the **Trace Gate** (*jimen* 迹門) and the **Origin Gate** (*benmen* 本門) are nothing other than the Wondrous Dharma (*miao fa* 妙法), whose substance is entirely true and real (*xian zhen shi* 咸真實).
-
----
-
-## Doctrinal Analysis
-
-### 1. The Semantic Argument for Sanskrit Over Chinese
-
-Miao-lo's defense of preserving the Sanskrit *mahā* (摩訶) instead of translating it to Chinese "da" (大, "great") is **not mere linguistic conservatism**—it is a **doctrinal necessity** grounded in the Tiantai principle that **names are dharma-gates** (*ming wei famen* 名為法門).
-
-#### The Problem with "Yuandun" (圓頓)
-
-"Yuandun" (Perfect-Sudden) accurately designates the *Mohe Zhiguan*'s doctrinal position within Tiantai's taxonomic system:
-- **圓** (*yuan*, "perfect"): The teaching of mutual interpenetration of all dharmas
-- **頓** (*dun*, "sudden"): Non-gradual, immediate realization
-
-**However**, as Miao-lo notes, "其言通總闕於含三" (its language is general and comprehensive, yet it **lacks** the explicit inclusion of the three [truths]).
-
-"Yuandun" tells us **what kind** of teaching this is (perfect, sudden) but does not **name the structure** of the contemplation itself. It is a **classificatory term**, not a **descriptive term**.
-
-#### The Richness of *Mahā*: 大多勝 = 空假中
-
-The *Mahāprajñāpāramitā-śāstra* (T25n1509) states that *mahā* contains **three meanings**:
-- **大** (*da*, "great")
-- **多** (*duo*, "many")
-- **勝** (*sheng*, "superior/victorious")
-
-This is not mere synonym-stacking. Each meaning maps to one of the **Three Truths** (*san di* 三諦):
-
-| Sanskrit | Chinese | Truth (諦) | Contemplation (觀) |
-|:---------|:--------|:-----------|:-------------------|
-| **Mahā** (greatness) | 大 *da* | **Emptiness** 空 *kong* | Emptiness contemplation |
-| **Mahā** (multiplicity) | 多 *duo* | **Provisional** 假 *jia* | Provisional contemplation |
-| **Mahā** (superiority) | 勝 *sheng* | **Middle** 中 *zhong* | Middle contemplation |
-
-**Why this mapping?**
-
-1. **大 = 空**: "Great" signifies the **vastness beyond measure** that characterizes emptiness (*śūnyatā*). Emptiness is not "small" (a particular negation) but "great" (the universal negation of svabhāva, inherent existence). The *Prajñāpāramitā-hṛdaya-sūtra* states: "Form is emptiness" (色即是空)—the totality (*da*) of form's nature is empty.
-
-2. **多 = 假**: "Many" signifies the **inexhaustible multiplicity** of provisional designations (*prajñapti*). The conventional truth (*saṃvṛti-satya*) is the realm of differentiation: the ten dharma-realms, the three thousand realms in a single thought-moment. "Many" is not chaos but the **plenitude of phenomenal manifestation**.
-
-3. **勝 = 中**: "Superior" signifies the **transcendent synthesis** of the Middle Way (*madhyamā pratipad*), which neither negates emptiness nor provisional existence but **includes both** (*shuang zhao* 雙照) while transcending both (*shuang qian* 雙遣). The Middle is "superior" because it is the **ultimate truth** (*paramārtha-satya*) that subsumes and completes the dialectic.
-
-#### "此土單淺之音" vs. "彼語多含之稱"
-
-Miao-lo's critique of Chinese terminology is devastating: "此土單淺之音" (this land's simple and shallow sound).
-
-**單** (*dan*, "single/simple"): Chinese "da" (great) conveys only **one meaning**. It lacks the polysemy inherent in *mahā*.
-
-**淺** (*qian*, "shallow"): Without the structural tri-partite meaning, Chinese loses the **depth** of Tiantai's contemplative architecture.
-
-By contrast, Sanskrit *mahā* is "彼語多含之稱" (that language's designation rich in multiple meanings). The single word *mahā* **already contains** the Three Truths, making the title itself a **contemplative instruction**.
-
-### 2. The Title as Dharma-Gate: "止觀二字無非摩訶"
-
-Miao-lo's assertion that "the two characters *zhiguan* are nothing other than *mahā*" is radical. It means:
-
-**Every instance of "concentration" (*zhǐ*) in this text is *mahā*-concentration**:
-- Concentration on **emptiness** (空止)
-- Concentration on **provisional existence** (假止)
-- Concentration on the **Middle** (中止)
-
-**Every instance of "insight" (*guān*) in this text is *mahā*-insight**:
-- Insight into **emptiness** (空觀)
-- Insight into **provisional existence** (假觀)
-- Insight into the **Middle** (中觀)
-
-This is why the text is titled **一心三止三觀** (One Mind, Three Concentrations, Three Contemplations). The "one mind" (*yixin*) is *mahā*—the unified field in which the three truths are simultaneously realized.
-
-### 3. The Structural Logic: 總別 (General-Particular)
-
-Miao-lo's analysis of the text's architecture reveals a **fractal structure**: the whole is mirrored in each part.
-
-#### **Level 1: Title (總) vs. Ten Chapters (別)**
-
-- **Title** "摩訶止觀" = **General** principle (all is *mahā*-concentration-insight)
-- **Ten Chapters** = **Particular** unfolding of that principle
-
-#### **Level 2: Within the Ten Chapters**
-
-- **大意** (Great Meaning) = General (overview of the entire practice)
-- **Remaining 8 chapters** = Particular (detailed instructions)
-
-#### **Level 3: Within Each Major Division**
-
-Both the **General Exposition** (大意 chapter) and **Particular Exposition** (remaining chapters) contain the **same threefold structure**:
-
-| Category | General Exposition | Particular Exposition |
-|:---------|:-------------------|:----------------------|
-| **Self-practice cause** | Arousing mind, practicing | Chapters 2-8 (Explaining Names → Proper Contemplation) |
-| **Self-practice effect** | Experiencing great fruit | Chapter 9 (Fruits and Rewards) |
-| **Teaching others (ability)** | Spreading the great outline | Chapter 10 (Arising of Teachings) |
-| **Teaching others (object)** | [Implicit] | [Implicit] |
-| **Ultimate Return** | Final section of Great Meaning | [Omitted—refer to Great Meaning] |
-
-**Why this fractal repetition?**
-
-Because **the part contains the whole** (*hu ju* 互具). This is Tiantai's signature doctrine of **mutual inclusion** (*yuanrong* 圓融): each dharma-realm contains all ten dharma-realms; each thought-moment contains the three thousand realms.
-
-The *Mohe Zhiguan*'s **structure enacts its content**. The text itself is a demonstration of *mahā*-principle: the title contains the chapters, the Great Meaning contains the text, each contemplation contains all three truths.
-
-### 4. Self-Practice vs. Teaching Others: The Bodhisattva Path
-
-The division into **自行** (*zixing*, self-practice) and **化他** (*huata*, teaching others) reflects the Mahāyāna distinction between:
-
-1. **Prajñā** (wisdom) = self-perfection
-2. **Karuṇā** (compassion) = benefiting others
-
-**Self-practice cause** (*zixing yin*): The practitioner arouses bodhicitta, engages in the ten contemplations, purifies the mind. This is the **upward aspiration** (*shang qiu* 上求) for bodhi (enlightenment).
-
-**Self-practice effect** (*zixing guo*): The fruits and rewards—supernatural powers, merits, rebirths in pure lands. This is the **verification** (*zheng* 證) that the path works.
-
-**Teaching others** (*huata*): The practitioner "spreads wide the great outline" (裂大綱), establishing teachings for others. This is the **downward transformation** (*xia hua* 下化) of sentient beings.
-
-**Ability and object** (*neng suo* 能所): The practitioner (能 *neng*, "ability") teaches sentient beings (所 *suo*, "object"). Miao-lo notes that the text "briefly raises the ability in order to include the object within it"—because the **method** of teaching reveals the **target** of teaching. One cannot teach formless beings; teaching presupposes the conventional truth (假諦) of distinct beings.
-
-**Ultimate Return** (*zhigui* 旨歸): Both self-practice and teaching others culminate in **returning to stillness** (*gui ji* 歸寂)—the realization that nirvāṇa and saṃsāra are non-dual. This is the final section of the text, where practice "rests" (歸) in its ultimate ground.
-
-### 5. Why the Latter Three Chapters Are "Omitted and Abbreviated"
-
-Miao-lo notes: "後三大章其文闕略義意同前總中後三" (the latter three major chapters—though their text is omitted and abbreviated—their meaning and purport are the same as the latter three [sections] in the General [Exposition]).
-
-This refers to the **incomplete transmission** of the *Mohe Zhiguan*. As documented in the "Opening" section, Guanding states that Zhiyi's lectures reached only the **seventh object** (見境) before the summer retreat ended. The remaining **three objects** and **three major chapters** were never expounded.
-
-However, Miao-lo insists: "義意同前" (their meaning and purport are the same as the earlier [sections]). This is **not** a deficiency but a **pedagogical economy**. Why?
-
-Because the **Great Meaning** (大意) chapter **already contains the complete teaching**. It is the "general" (*zong*) that makes the "particular" (*bie*) redundant. A practitioner who thoroughly understands the Great Meaning can **extrapolate** the remaining sections by applying the same **fractal principle**.
-
-This also reflects the Tiantai hermeneutic of **一卽一切** (*yī jí yīqiè*, "one is all"): one chapter, fully comprehended, unlocks all chapters.
-
----
-
-## Key Annotations
-
-### **摩訶** (*mohe*, Sanskrit *mahā*)
-
-**Philology**: Transcription of Sanskrit *mahā* (महा), meaning "great." In Buddhist Sanskrit, *mahā* functions as a prefix (e.g., *mahāyāna* "great vehicle," *mahāsattva* "great being").
-
-**Doctrinal usage**: In Tiantai, *mahā* is **not** translated as 大 (*da*) because the Sanskrit term contains **three meanings** (大多勝) that map to the Three Truths (空假中). This makes *mahā* a **technical term** that preserves doctrinal precision.
-
-**Canonical source**: *Mahāprajñāpāramitā-śāstra* (大智度論 T25n1509), attributed to Nāgārjuna, translated by Kumārajīva. The passage Miao-lo cites explains that *mahā* (when applied to *prajñāpāramitā*) signifies:
-- **Great** in extent (空諦)
-- **Many** in number (假諦)
-- **Superior** to all (中諦)
-
-### **一心三觀** (*yixin sanguan*, "One Mind, Three Contemplations")
-
-**Structure**:
-- **一心** (*yixin*): A single thought-moment (*yinian* 一念)
-- **三觀** (*sanguan*): Three contemplations (*guan*)
-
-**The Three Contemplations**:
-1. **空觀** (*kongguan*): Contemplation of emptiness—all dharmas lack inherent existence (*svabhāva*)
-2. **假觀** (*jiaguan*): Contemplation of provisional existence—all dharmas arise through dependent origination (*pratītyasamutpāda*)
-3. **中觀** (*zhongguan*): Contemplation of the Middle Way—all dharmas are neither existent nor non-existent
-
-**"One Mind"**: Unlike the **sequential Three Contemplations** (次第三觀) of the Distinct Teaching (別教), where one contemplates emptiness, *then* provisional existence, *then* the Middle, the Perfect Teaching's **One Mind, Three Contemplations** contemplates all three **simultaneously** (一心具三觀).
-
-**Canonical basis**: *Mahāprajñāpāramitā-sūtra*, *Madhyamaka-kārikā* (via Kumārajīva's translation as 中論).
-
-### **總別** (*zongbie*, "General and Particular")
-
-**Hermeneutical principle**: A text contains both:
-- **總** (*zong*): General/comprehensive principles
-- **別** (*bie*): Particular/detailed applications
-
-**In exegesis**: The *zong* section provides the **overview** (概括); the *bie* section provides the **elaboration** (詳解). The two are **mutually inclusive**: the general contains the particular (總攝別), and the particular reveals the general (別顯總).
-
-**Application to *Mohe Zhiguan***:
-- Title (*mahā-zhiguan*) = *zong*
-- Ten Chapters = *bie*
-- Within chapters: Great Meaning = *zong*, other chapters = *bie*
-
-This creates a **recursive structure** where every level contains the distinction between *zong* and *bie*.
-
-### **自行化他** (*zixing huata*, "Self-Practice and Teaching Others")
-
-**Etymology**:
-- **自行** (*zixing*): Self (自) + practice/conduct (行)
-- **化他** (*huata*): Transform (化) + others (他)
-
-**Doctrinal context**: The Bodhisattva path requires **both**:
-1. **Self-perfection** (自利): Wisdom (*prajñā*), meditation (*dhyāna*), precepts (*śīla*)
-2. **Benefiting others** (利他): Compassion (*karuṇā*), skillful means (*upāya*), teaching (*deśanā*)
-
-**Tiantai innovation**: Unlike Hīnayāna, which prioritizes self-liberation, and unlike some Mahāyāna schools that emphasize compassion to the exclusion of wisdom, Tiantai maintains that **self-practice and teaching others are non-dual** (自行化他不二).
-
-The *Mohe Zhiguan* integrates both: the practitioner perfects meditation (self-practice) in order to teach effectively (teaching others), and teaching others deepens one's own practice.
-
-### **能所** (*neng suo*, "Ability and Object")
-
-**Grammatical origin**: In Classical Chinese grammar:
-- **能** (*neng*): Subject, agent (that which acts)
-- **所** (*suo*): Object, patient (that which is acted upon)
-
-**Philosophical usage**: In Buddhist epistemology, *neng suo* designates the **subject-object duality**:
-- **能緣** (*nengyuan*): The knowing mind (subject)
-- **所緣** (*suoyuan*): The known object
-
-**In Tiantai**: The distinction is **provisionally maintained** for pedagogical purposes but **ultimately dissolved**. In the Perfect Teaching, subject and object are **mutually inclusive** (能所不二).
-
-**Application here**:
-- **化他能** (*huata neng*): The *ability* to teach others (the teacher, the method)
-- **化他所** (*huata suo*): The *object* of teaching others (the students, the beings)
-
-Miao-lo notes that the text "briefly raises the ability in order to include the object"—because once you establish the *method* of teaching, the *target* is implicit.
-
-### **止體靜,觀體明** (*zhi ti jing, guan ti ming*)
-
-**Translation**: "The substance of concentration is stillness; the substance of insight is luminosity."
-
-**Analysis**:
-- **止** (*zhǐ*, *śamatha*): Concentration, calming, cessation
-- **體** (*ti*): Substance, essence, nature (*svabhāva*)
-- **靜** (*jing*): Stillness, tranquility (*śānti*)
-
-- **觀** (*guān*, *vipaśyanā*): Insight, contemplation, discernment
-- **明** (*ming*): Luminosity, clarity, illumination (*prakāśa*)
-
-**Doctrinal significance**: This is a **definition by essential characteristic**. Concentration's defining feature is **stillness** (the cessation of discursive thought); insight's defining feature is **luminosity** (the clear apprehension of reality).
-
-**Non-duality**: Although *zhǐ* and *guān* are distinguished (stillness vs. luminosity), they are **inseparable** in practice. True stillness is luminous (止而明); true insight is still (觀而靜). This is the **unity of concentration-insight** (定慧不二).
-
-**Connection to title**: The opening phrase "止觀明靜" (Concentration-Insight is luminous in its stillness) **reverses** the usual order (靜明) to emphasize that **luminosity** (*ming*) and **stillness** (*jing*) are **simultaneous**, not sequential.
-
----
-
-## Philological Notes
-
-### 1. The Argument Structure: 問答體 (Question-Answer Format)
-
-**Pattern**: "若爾。何異..." (If this is so, how does X differ from Y?)
-
-This is a **dialectical objection** (*nan* 難), a standard move in Buddhist commentary. Miao-lo anticipates the reader's confusion: "If *mahā* and *yuandun* both designate the Perfect Teaching, why prefer one over the other?"
-
-The **answer** (答) clarifies the **nuance**: *yuandun* is **doctrinally correct** but **structurally incomplete**; *mahā* is both doctrinally correct **and** structurally explicit.
-
-### 2. Negation: "無非摩訶" (Nothing Other Than *Mahā*)
-
-**Grammar**: 無 (*wu*, "not") + 非 (*fei*, "not/non-") = **double negative** = emphatic affirmative.
-
-**Literal**: "There is nothing that is not *mahā*."
-
-**Meaning**: "Everything [in this text] is *mahā*."
-
-This is a **totalizing claim**: not just the title, not just the main practices, but **every word** in the *Mohe Zhiguan* is an expression of *mahā*-principle.
-
-### 3. "闕於含三" (Lacks the Inclusion of the Three)
-
-**Grammar**:
-- **闕** (*que*): Lack, omit, be deficient in
-- **於** (*yu*): Preposition ("in," "at," "regarding")
-- **含** (*han*): Include, contain, embrace
-- **三** (*san*): Three (i.e., the Three Truths)
-
-**Translation**: "[The term *yuandun*] is deficient regarding the inclusion of the three [truths]."
-
-**Doctrinal point**: This is a **critique by omission**. "Yuandun" is not *wrong*, but it is **incomplete**. It tells you the teaching is perfect and sudden, but it doesn't **name the structure** (空假中) of that perfection.
-
-### 4. "此土單淺之音" vs. "彼語多含之稱"
-
-**Rhetorical structure**: **Antithesis** (對偶 *dui'ou*), a Classical Chinese device that uses parallel syntax to create contrast.
-
-| Component | 此土單淺之音 | 彼語多含之稱 |
-|:----------|:------------|:------------|
-| **Demonstrative** | 此 (this) | 彼 (that) |
-| **Noun** | 土 (land/region) | 語 (language) |
-| **Adjective** | 單淺 (simple-shallow) | 多含 (many-containing) |
-| **Particle** | 之 (possessive) | 之 (possessive) |
-| **Noun** | 音 (sound) | 稱 (designation/name) |
-
-**Effect**: The parallelism emphasizes the **contrast** between Chinese (此土) and Sanskrit (彼語), while the **value-laden adjectives** (單淺 vs. 多含) make clear Miao-lo's preference.
-
-### 5. "總攬一部以為首題" (Comprehensively Grasp the Entire Treatise to Form the Primary Title)
-
-**Grammar**:
-- **總攬** (*zonglan*): Comprehensive grasp/summary
-- **一部** (*yi bu*): One treatise/text
-- **以為** (*yi wei*): "in order to," "to serve as"
-- **首題** (*shouti*): Primary title/heading
-
-**Analysis**: The verb 總攬 (*zonglan*) is significant. It means not merely "to summarize" but to **gather together** (攬) in a **comprehensive** (總) way.
-
-**Implication**: The title is not an **arbitrary label** but a **concentrated essence** of the entire text. To understand the title is to understand the whole; to misunderstand the title is to miss the whole.
-
-This reflects the Tiantai hermeneutic that **the name is the dharma-gate** (名為法門). Titles are not incidental; they are **pedagogical entry-points** that encode the teaching's structure.
-
----
-
-## Translator's Reflections
-
-### The Title as Contemplative Instruction
-
-What strikes me most forcefully in this passage is Miao-lo's insistence that **the title itself is a meditation manual**.
-
-For a modern reader, "Mohe Zhiguan" is simply "The Great Treatise on Concentration and Insight"—a descriptive label. But for Miao-lo, the title is a **threefold instruction**:
-
-1. **摩訶** (*mahā*) = Contemplate the Three Truths (空假中) simultaneously
-2. **止** (*zhǐ*) = Stillness—cease discriminative thought
-3. **觀** (*guān*) = Luminosity—clearly see reality
-
-To recite the title is to **invoke the practice**. This is why preserving the Sanskrit *mahā* matters: it is not mere exoticism but **semantic precision**. The Chinese "da" (great) lacks the **tri-partite structure** that *mahā* encodes.
-
-### The Fractal Hermeneutic
-
-Miao-lo's analysis of the text's structure (總別) reveals what I call a **fractal hermeneutic**: the whole is mirrored at every level.
-
-- **Title** contains **Ten Chapters**
-- **Great Meaning** contains **remaining chapters**
-- **Each chapter** contains **self-practice, teaching others, ultimate return**
-
-This is not mere literary architecture; it is **contemplative pedagogy**. By making the structure **recursive**, Miao-lo teaches the student to see the **mutual inclusion** (互具) of part and whole, which is itself the **content** of Tiantai contemplation (一即一切).
-
-The text **enacts** what it teaches. Reading it is already practicing it.
-
-### The Problem of Incompleteness
-
-The acknowledgment that "the latter three major chapters are omitted and abbreviated" (後三大章其文闕略) is both humbling and liberating.
-
-**Humbling**: Even the greatest teachers (Zhiyi, Guanding) could not transmit everything. Circumstances intervened—the summer retreat ended, illness perhaps, or simply the limitations of time and human capacity.
-
-**Liberating**: The **incompleteness is not a defect** because "their meaning and purport are the same as the earlier [sections]" (義意同前). The student who thoroughly understands the **Great Meaning** has the **principles** (*li* 理) to extrapolate the **details** (*shi* 事).
-
-This reflects the Mahāyāna emphasis on **prajñā** (wisdom) over **jñāna** (knowledge). It is better to **understand the principles** than to **memorize the details**. Principles generate understanding; details without principles are dead letter.
-
-### The Tension Between Chinese and Sanskrit
-
-Miao-lo's critique of Chinese terminology as "單淺" (simple and shallow) is startling, given that he is writing in Chinese, for a Chinese audience, in 8th-century China—over 700 years after Buddhism's entry into the Middle Kingdom.
-
-Yet his loyalty is not to **linguistic nationalism** but to **doctrinal fidelity**. If Chinese lacks the semantic richness to convey the Three Truths in a single term, then **Sanskrit must be preserved**.
-
-This is a **universalist** stance: truth transcends culture. The Dharma is neither "Chinese" nor "Indian" but **simply true**. Language is a **vehicle** (*yāna*), not the **destination**. When the vehicle is inadequate, change vehicles.
-
-This has profound implications for translation theory: **fidelity to meaning** may require **infidelity to linguistic norms**. Better a "foreign" term that is doctrinally precise than a "native" term that is doctrinally vague.
-
----
-
-**Translation Notes**:
-- Brackets [...] supply grammatical elements implicit in Classical Chinese
-- Parenthetical terms give original Chinese or Sanskrit where relevant
-- Technical terms are glossed upon first occurrence
-
-**Methodology**:
-- Translation prioritizes philological precision while maintaining readability
-- Doctrinal analysis draws on Tiantai commentarial tradition (Zhiyi, Guanding, Zhanran)
-- Textual-critical observations reference CBETA apparatus where relevant
-
----
-
-**END OF FASCICLE 1, PART 2**
-
-**Next**: Fascicle 1, Part 3 will examine Miao-lo's discussion of the Common Preface (通序) and the opening phrase "止觀明靜" (Concentration-Insight is luminous in its stillness).
+## Source-Aligned Bilingual Block
+
+已述新舊有無次第。
+> We have already set forth the old and new sequence of presence and absence.
+所以改稱摩訶名者有二義故。
+> The reason for changing the title to "Mohe" has two meanings.
+一者為對俗兄出小止觀。
+> First, it was to correspond to the Small Zhiguan composed for the lay elder brother.
+二者為存梵音兼含之富。
+> Second, it was to preserve the Sanskrit sound's richness of combined meanings.
+故大論云。
+> Therefore, the Great Treatise says:
+言摩訶者名含三義。
+> "The term mohe contains three meanings."
+謂大多勝。
+> Namely: great, many, and superior.
+依疏四教釋比丘位則非今意。
+> To interpret bhiksu ranks by the Four Teachings according to the commentary is not the present intent.
+用此三名釋圓三觀正當題旨。
+> Using these three names to explain the Perfect Teaching's three contemplations exactly fits the title's purport.
+大是空義多是假義勝是中義。
+> Great is emptiness-meaning, many is provisional-meaning, superior is middle-meaning.
+是故改從兼含之名。
+> Therefore, it was changed to a name with combined inclusion.
+以題一心三觀之部。
+> This serves as the title for this treatise on one-mind three contemplations.
+若爾。
+> If so,
+何異圓頓改從摩訶。
+> how is this different from changing "perfect-sudden" to "mohe"?
+答。
+> Answer:
+圓頓之名雖異偏漸。
+> Although the name "perfect-sudden" differs from partial and gradual,
+其言通總闕於含三。
+> its wording is broad and general but lacks inclusion of the three.
+故改此土單淺之音以存彼語多含之稱。
+> Therefore we change this land's single and shallow sound to preserve that language's title rich in multiple inclusions.
+以是應知止觀二字無非摩訶。
+> From this one should know that the two characters zhi and guan are nothing other than mohe.
+即是一心三止三觀之止觀也。
+> They are precisely the zhi-guan of one-mind three zhis and three guans.
+故知總攬一部以為首題。
+> Therefore we know the whole treatise is comprehensively gathered as the heading-title.
+始自大意終於旨歸無非摩訶之止觀也。
+> From Great Meaning at the beginning to Ultimate Return at the end, all is mohe zhi-guan.
+是則題名是總十章為別。
+> Thus the title is the general, and the ten chapters are the particular.
+於十章中則大意為總餘八是別。
+> Within the ten chapters, Great Meaning is general, and the remaining eight are particular.
+故知總別自行因果化他能所咸是摩訶妙定慧也。
+> Therefore know that general/particular, self-practice cause/effect, and transforming-others agent/object are all mohe's wondrous samadhi and wisdom.
+何者於總釋中發心修行自行因也。
+> Why? In the general exposition, arousing mind and cultivation are self-practice cause.
+次感大果自行果也。
+> Next, realizing the great fruit is self-practice fruit.
+次裂大綱化他能也。
+> Next, opening the great outline is the ability for transforming others.
+既有能化必有所被。
+> Since there is ability to transform, there must be those transformed.
+文略舉能以攝於所。
+> The text briefly raises the agent in order to include the object.
+能所事畢同入旨歸。
+> When agent/object are complete, both enter the Ultimate Return.
+於別釋中始從釋名終至正觀自行因也。
+> In the particular exposition, from Explaining the Name through Proper Contemplation is self-practice cause.
+次果報章自行果也。
+> Next, the Fruits-and-Rewards chapter is self-practice fruit.
+起教一章化他能也。
+> The Arising-Teaching chapter is the ability in transforming others.
+所被義當化他所也。
+> In meaning, those transformed correspond to the object in transforming others.
+後三大章其文闕略義意同前總中後三。
+> The latter three major chapters are textually abbreviated, but their meaning matches the latter three in the previous general section.
+是故後文略而不說。
+> Therefore the later text is brief and not explained.
+初序分為二。
+> The initial preface section is divided into two.
+於通序中雖類集經通中五事既是私記。
+> In the common preface, although it resembles the five items in collected-sutra common prefaces, this is a private record.
+故闕同聞。
+> Therefore, co-hearers are omitted.
+於中為六。
+> Within it there are six items.
+初之四字述所聞體。
+> The initial four characters state the substance of what was heard.
+止觀二字正示聞體。
+> The two characters zhi-guan directly indicate the heard substance.
+明靜二字歎體德也。
+> The two characters ming-jing praise the virtue of that substance.
+謂止體靜觀體明也。
+> That is: zhi-substance is still, guan-substance is luminous.
+始終十章正觀十法莫非止觀體咸明靜。
+> From beginning to end, in ten chapters and ten dharmas of proper contemplation, all are zhi-guan whose substance is entirely luminous and still.
+則通指一部以為所聞。
+> Thus it generally points to the whole treatise as what was heard.
+如法華經本門迹門無非妙法體咸真實。
+> As in the Lotus Sutra's origin-gate and trace-gate, all are wondrous Dharma whose substance is entirely true-real.
+前代未聞者明能聞人。
+> "Not heard in previous generations" clarifies the person able to hear.
+反以他往顯成我聞述己兼他語現及往。
+> By contrast with others in the past, it reveals "my hearing," speaking of oneself while including others, in language of present and past.
+故云前代。
+> Therefore it says "previous generations."
+今章安聞已遠霑餘世後代可聞。
+> Now that Zhang'an heard it, this has far-moistened later ages, so later generations can hear.
+所言代者雖義立三十年今取代更為異世義。
+> As for "generation," although one meaning sets it at thirty years, here it is taken as the meaning of a different age.
+異世弘法世世有之故云代也。
+> Since Dharma is propagated in different ages, age after age, it is called "generation."
+自漢明夜夢洎乎陳朝。
+> From Emperor Ming of Han's night-dream down to the Chen dynasty,
+凡諸著述當代盛行者溢目。
+> writings flourishing in their own times filled the eyes.
+預廁禪門衣鉢傳授者盈耳。
+> Those included in Chan-gate robe-and-bowl transmissions filled the ears.
+豈有不聞止觀二字。
+> How could there have been none who heard the two characters zhi-guan?
+但未若天台說此一部。
+> Yet none were like Tiantai's exposition of this single treatise.
+定慧兼美義觀雙明。
+> Samadhi and wisdom are jointly excellent; doctrine and contemplation are doubly luminous.
+撮一代教門攢法華經旨。
+> It gathers the teaching-gates of an era and assembles the Lotus Sutra's purport.
+成不思議十乘十境。
+> It forms the inconceivable ten vehicles and ten objects.
+待絕滅絕寂照之行。
+> It teaches the practice of severing attachment even to severance, of quiescent illumination.
+前代未聞斯言有在。
+> "Not heard in previous generations" truly has warrant in these words.
+故南山歎云。
+> Therefore Nanshan praised, saying:
+唯衡岳台崖雙弘禪慧。
+> Only Hengyue and Tiantai together propagated meditation and wisdom.
+豈南山諂附而虛授哉。
+> Could Nanshan have flattered and falsely granted this?
+智者二字即是教主。
+> The two characters Zhizhe refer to the teaching master.
+幼名光道亦名王道。
+> His childhood name was Guangdao, also called Wangdao.
+此從初生瑞相立名。
+> This name was established from auspicious signs at birth.
+法名智顗。
+> His Dharma name was Zhiyi.
+顗靜也。
+> Yi means stillness.
+即出家後師為立號。
+> After he left home, his teacher gave this title.
+從德為名故用靜義。
+> It took virtue as name, therefore using the meaning of stillness.
+後授晉王菩薩戒品。
+> Later he conferred the Bodhisattva precepts on Prince Jin.
+因即為王立法號云。
+> Thereupon he gave the prince a Dharma name, saying:
+大王。
+> Great Prince,
+紆遵聖禁名曰總持。
+> in reverent accord with holy precepts, your name is Zongchi (Total Retention).
+王曰。
+> The prince said:
+師傳佛法燈稱為智者。
+> You, Master, who transmit the Buddha-dharma lamp, should be called Zhizhe.
+今從後說故云智者。
+> Now we follow this later appellation, thus "Zhizhe."
+大隋等者說教時也。
+> "Great Sui" and so on indicates the time of teaching.
+諸經既多乃通云一時。
+> Since many sutras exist, they generally say "at one time."
+則該乎長短攝彼精麁。
+> That encompasses long and short, including refined and coarse.
+今唯一部故別指大隋。
+> Here there is only one treatise, so it specifically points to Great Sui.
+隋受周禪。
+> Sui received abdication from Zhou.
+姓楊氏。
+> The ruling surname was Yang.
+本弘農華陰人也。
+> Originally from Huayin in Hongnong.
+初從周太祖起義關西。
+> At first they rose in righteous cause in Guanzhong under Zhou Taizu.
+位至大司空封隋國公。
+> Rank reached Grand Minister of Works and ennobled as Duke of Sui.
+諱堅。
+> Personal name was Jian.
+後即帝位因號隋國。
+> Later he ascended the throne, therefore called the Sui state.
+隋字玉篇加工者待過反。
+> In Yupian, the character sui with added "walk" radical is read daiguo-fan.
+字本無走。
+> Originally the character had no "walk" radical.
+唐祚既興謂隋已走是故加之。
+> After Tang rose, they said Sui had "departed," so they added it.
+開皇者年號也。
+> Kaihuang is a reign title.
+皇大也。
+> Huang means great.
+爾雅云。
+> Erya says:
+皇者匡正也。
+> Huang means rectifying.
+極也。
+> It means utmost.
+大也。
+> It means great.
+壯盛貌也。
+> It means a flourishing appearance.
+荊州等者即說處也。
+> "Jingzhou and so on" indicates the place of teaching.
+玉泉寺者。
+> As for Yuquan Monastery:
+初梁太平二年魏主令宇文泰。
+> In Liang Taiping year two, the Wei ruler ordered Yuwen Tai
+破梁元帝二十萬眾。
+> to defeat Emperor Yuan of Liang's two hundred thousand troops.
+大師時年十八。
+> At that time the Great Master was eighteen.
+至襄州果願寺依乎舅氏而出家焉。
+> He went to Guoyuan Monastery in Xiangzhou and left home relying on his maternal uncle.
+至陳太平三年時年二十。
+> By Chen Taiping year three, he was twenty.
+進受具足。
+> He advanced to receive full ordination.
+依慧曠律師通於律藏。
+> Relying on Vinaya Master Huikuang, he mastered the Vinaya collection.
+至陳乾明元年始入光州依思禪師稟受禪法。
+> In Chen Qianming year one, he first entered Guangzhou and relied on Chan Master Si to receive meditation dharma.
+時年二十三。
+> At that time he was twenty-three.
+至陳光太元年辭師入鄴。
+> In Chen Guangtai year one, he took leave of his teacher and entered Ye.
+時年三十。
+> He was thirty.
+至陳太建七年初入天台。
+> In Chen Taijian year seven, he first entered Tiantai.
+時年三十八。
+> He was thirty-eight.
+至太建九年勅置修禪寺。
+> In Taijian year nine, an imperial order established Xiuchan Monastery.
+至十三年帝請出鄴。
+> In year thirteen, the emperor invited him out from Ye.
+至陳貞明三年即隋開皇十一年。
+> By Chen Zhenming year three, that is Sui Kaihuang year eleven,
+旋荊置寺以答地恩。
+> he returned to Jing and established a monastery to repay the land's grace.
+初名一音後改玉泉。
+> It was first named Yiyin, later changed to Yuquan.
+泉色如玉因以名焉。
+> The spring's color was like jade, therefore the name.
+寺者。
+> As for "monastery":
+西方云僧伽藍此云眾園亦通名精舍。
+> In the western regions it is called sangharama; here "assembly-garden," also generally called vihara.
+此間方俗通以九司官舍曰寺。
+> In this region's custom, official residences of the nine ministries are commonly called si.
+謂有法度之處也。
+> Meaning places with regulations.
+故以法度之稱以名精舍。
+> Therefore the term for regulated offices was used to name monasteries.
+至十四年時年五十七。
+> By year fourteen, he was fifty-seven.
+於彼玉泉而說止觀。
+> There at Yuquan he taught Zhiguan.
+次重明分齊。
+> Next it again clarifies delimitations.
+初明時分齊。
+> First, it clarifies temporal delimitation.
+一夏者通舉始終策修之限。
+> "One summer" broadly states the beginning-end limit for diligent cultivation.
+開演稱讚故曰敷揚。
+> Because it opened, expounded, and praised, it is called dissemination.
+二時朝晡也。
+> "Two times" means morning and evening.
+慈霔者慈心所說如霔大雨。
+> "Compassionate downpour" means speech from compassionate mind like heavy rain.
+若以生法二緣說則有窮。
+> If explained by sentient and dharma conditions, there is an end.
+以無緣慈心無依倚恣樂說辨故曰不窮。
+> By unconditioned compassion, mind without dependence, freely delighting in eloquent exposition, it is called inexhaustible.
+位居五品乃是觀行無緣慈也。
+> His rank residing in fifth grade is contemplative-practice unconditioned compassion.
+霔者如大論第五評四法師偈云。
+> As for "downpour," Great Treatise fascicle 5 evaluates four kinds of Dharma teachers in verse:
+多聞辯慧巧言語美說諸法轉人心。
+> Much learning, eloquent wisdom, clever words, beautifully speaking dharmas that turn people's minds.
+自不如法行不正譬如雲雷而無雨(其一)廣學多聞有智慧訥口拙言無巧便。
+> Yet one does not practice according to Dharma and conduct is not right, like clouds and thunder without rain (first). Broad learning, much hearing, with wisdom, but mouth is dull and speech awkward, without skillful expression.
+不能顯發法寶藏譬如無雷而小雨(其二)不廣學問無智慧不能說法無好行。
+> Unable to reveal the Dharma-treasure, like no thunder with only light rain (second). Not broad in study, without wisdom, unable to preach Dharma and lacking good conduct.
+是弊法師無慚愧譬如小雲無雷雨(其三)多聞廣智巧言語美說諸法轉人心。
+> Such a corrupt teacher without shame is like small clouds with neither thunder nor rain (third). One with much learning, broad wisdom, clever speech, beautifully preaching dharmas that turn minds.
+行法心正無所畏如大雲雷霔洪雨(其四)偈意以多聞為雲說法如雷慈行如雨。
+> Whose practice is according to Dharma, mind upright and fearless, like great clouds and thunder pouring vast rain (fourth). The verse means much hearing is cloud, preaching is thunder, compassionate practice is rain.
+大師具三即第四法師。
+> The Great Master possessed all three and thus was the fourth kind of Dharma teacher.
+雖樂說不窮者。
+> As for being inexhaustible in joyful preaching:
+辯有四種。
+> eloquence has four kinds,
+謂義法辭樂說也。
+> namely eloquence of meaning, dharma, wording, and joyful preaching.
+義謂顯了諸法之義。
+> Meaning means clearly explaining the meaning of all dharmas.
+法謂稱說法之名字。
+> Dharma means stating the names of dharmas.
+辭謂能說名之語言。
+> Wording means language able to speak those names.
+雖有此三必須樂說說前三也。
+> Even with these three, one must have joyful preaching to speak the first three.
+謂於一法中說一切法。
+> That is, within one dharma, one speaks all dharmas.
+於一字中說一切字。
+> Within one character, one speaks all characters.
+於一語中說一切語。
+> Within one phrase, one speaks all phrases.
+皆入實相而無差謬。
+> All enter the real mark without error.
+故知皆是樂說力也。
+> Therefore know all are the power of joyful preaching.
+雖是不盡之辭亦語助也。
+> "Though inexhaustible" is also auxiliary phrasing.
+雖復不窮夏終告息。
+> Though indeed inexhaustible, at summer's end it ceased.
+纔至見境法輪停轉者纔者僅得也。
+> "Only reaching the seeing-of-objects where the Dharma wheel stopped turning": cai means only barely reached.
+僅訖見境時逼夏終。
+> Barely finishing the seeing-of-objects, time pressed to summer's end.
+雖闕餘文行門非要。
+> Although later text is missing, the practice gates are not essential there.
+略中已具足表期心。
+> In the abridged version, they already sufficiently expressed intended aim.
+即大章第七開為十境。
+> Namely, the seventh great chapter was opened into ten objects.
+至第七境餘不復宣。
+> By the seventh object, the rest was no longer proclaimed.
+後三大章及餘三境託緣不終。
+> The final three great chapters and remaining three objects were not completed due to contingent conditions.
+故傳中云。
+> Therefore the biography says:
+灌頂私記止觀十卷。
+> Guanding privately recorded Zhiguan in ten fascicles.
+方希再聽畢其首尾。
+> He had hoped to hear again and complete beginning and end.
+會智者涅槃鑽仰無所。
+> But Zhizhe entered nirvana, and there was nowhere to seek instruction.
+餘文雖略准上可知。
+> Though remaining text is brief, one can know it by the above.
+增上慢者如禪境云。
+> As for arrogance, the Chan-object section says:
+無所知人得此謂為無生忍。
+> A person with no knowledge, attaining this, claims it as patience of non-arising.
+四禪比丘謂為四果。
+> A bhiksu in fourth dhyana claims it as the four fruits.
+起絕言見鼠唧鳥空。
+> They raise views of ineffability, "mouse squeak and bird emptiness."
+如此等文其相非一。
+> In such passages, these forms are not one.
+後之兩境秖是兩教二乘三教菩薩。
+> The latter two objects are simply the two-teaching two vehicles and three-teaching bodhisattvas.
+具在體相攝法偏圓等文及諸境中可思議內。
+> They are fully in passages such as Substance-Mark, Embracing Dharmas, Partial-and-Perfect, and within all thinkable objects.

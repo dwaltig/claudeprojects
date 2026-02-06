@@ -1,73 +1,80 @@
-# Fascicle 1, Part 3: The Biography of the Great Master
-## The Vulture Peak Reunion
+# Fascicle 1: Section 4 (Source-Aligned Draft)
+## Scholarly Translation
 
-**Translated by Dr. Rajesh Patel (The Professor)**
-**Date**: January 22, 2026
-**Source**: T46n1912, Fascicle 1 (Ref: T1912_001.txt)
-
----
-
-## Translation
-
-### The Master's Origins (智者)
-**Text**:
-> 智者二字即是教主... 幼名光道亦名王道。此從初生瑞相立名。
-> *The two characters "Zhi-zhe" (Wise One) refer to the Lord of the Teaching [Zhiyi]. His childhood name was Guang-dao (Illuminating the Way) or Wang-dao (Kingly Way). These names were established based on the auspicious signs at his birth.*
-
-**Commentary**:
-Miao-lo establishes Zhiyi's credentials immediately.
-- **Double Pupils** (*Chong Tong* 目有重瞳): A classic sign of a sage (like Emperor Shun).
-- **Auspicious Birth**: The room was filled with light (*shi nei dong ming* 室內洞明), forcing the neighbors to think there was a fire.
-
-### The Encounter on Mount Dasu (大蘇山)
-
-**Text**:
-> 聞光州大蘇山慧思禪師。遙飡風德如飢渴矣... 思初見笑曰。昔共靈山聽法華經。宿緣所追今復來矣。
-> *He heard of Dhyana Master Huisi of Mount Dasu in Guangzhou. He feasted on his virtuous reputation from afar like one hungry and thirsty... When Huisi first saw him, he smiled and said: "In the past, we listened to the Lotus Sutra together at Vulture Peak (Ling-shan). Driven by past karmic bonds, you have come again."*
-
-**The "Vulture Peak" Prediction**:
-This is a defining moment in Tiantai history. Huisi validates Zhiyi not by his current resume, but by their *shared past life* at similar assembly where Śākyamuni Buddha was preaching the *Lotus Sutra*.
-*Implication*: They are "Dharma Brothers" re-uniting for a new mission in China.
-
-### The Realization (The Lotus Samadhi)
-
-**Text**:
-> 即示普賢道場行法華三昧... 豁然入定照了法華... 師曰。非爾弗證非我不識。所發定者法華三昧前方便也。所發持者初旋陀羅尼。
-> *He immediately showed him the Universal Worthy Bodhimanda for practicing the Lotus Samadhi... [Zhiyi] suddenly entered concentration and illuminated the Lotus [Sutra]... The Master [Huisi] said: "Without you, there would be no realization; without me, no recognition. The concentration you have triggered is the **Preliminary Expedient of the Lotus Samadhi** (*Fahua Sanmei Qian Fangbian*). The retention you have triggered is the **Dharani of the First Turning** (*Chu Xuan Tuoluoni*)."*
-
-**The Certification**:
-Huisi confirms Zhiyi's enlightenment on two counts:
-1.  **Dhyana (Samadhi)**: The "Preliminary Expedient" (not the full final stage, but the decisive entry).
-2.  **Prajna (Dharani)**: The "Dharani of Turning" (*Xuan*). This implies the ability to "turn" (process) infinite meanings from a single sound.
-
-Huisi's famous assessment follows:
-> *Text: 縱令文字法師千群萬眾。尋汝之辯不能窮矣。於說法人中最為第一。*
-> *Even if there were thousands of "Text-Only Dharma Masters" (*Wenzi Fashi*), seeking to exhaust your eloquence, they could not do so. Among those who expound the Dharma, you are the foremost.*
+**Source**: T46n1912, `T1912_001.txt`  
+**Boundary mapping**: Source line 20, sentence units 1060-1093  
+**Translator**: William Altig / Claude  
+**Date**: February 6, 2026
 
 ---
 
-## Doctrinal Analysis
+## Source-Aligned Bilingual Block
 
-### The "Dharani of Turning" (*Xuan Tuoluoni* 旋陀羅尼)
-Miao-lo emphasizes that *Xuan* (Turning) means "Revolution."
-- It spins rapidly, creating a "solid sphere" of meaning.
-- One syllable enters the ear, and the mind instantly "turns" it through all its doctrinal implications (Emptiness, Provisionality, Middle).
-- It is the "CPU" of the Tiantai Master—the ability to process data at infinite speed.
-
-### The Validation of "Textual vs. Realization"
-Huisi distinguishes Zhiyi from "Text-Only Masters."
-- **Text-Only**: Can recite the sutra but don't "turn" it. They are static.
-- **Zhiyi**: Has the "Dharani of Turning." He creates new insights that *accord* with the text but are not bound by the literal surface.
-
----
-
-## Translator's Reflection
-
-This section functions as the **License to Operate**.
-Before Zhiyi gives us the *Mohe Zhiguan* (the manual), Miao-lo has to prove Zhiyi is qualified to write it.
-The qualification isn't a PhD. It's:
-1.  **Peer Review from a Buddha**: (The Vulture Peak connection).
-2.  **Field Test**: (The realization on Mount Dasu).
-3.  **Supervisor Approval**: (Huisi's certification: "You are Number One").
-
-**END OF FASCICLE 1, SECTION 4**
+初序智者中先明德業。
+> In the initial sequence on Zhizhe, it first clarifies his virtuous attainment.
+初生之時室內洞明。
+> At his birth, the room's interior shone brightly.
+棟宇煥然兼輝隣室。
+> The beams and rafters were radiant, and neighboring rooms were lit as well.
+凡諸俗慶並火滅湯冷為事不成。
+> All customary celebrations failed, with fires extinguished and hot water going cold.
+目有重瞳。
+> His eyes had double pupils.
+父母藏揜不欲人知而人自知。
+> His parents concealed it, not wishing others to know, yet people knew on their own.
+玉篇云。
+> The Yupian says:
+瞳者目珠子也。
+> "Tong means the eye's pupil."
+即黑睛中小珠子也。
+> That is, the small bead within the black of the eye.
+行法華懺發陀羅尼者。
+> As for performing Lotus repentance and arousing dharani:
+習律藏已。
+> after studying the Vinaya treasury,
+詣大賢山持法華經。
+> he went to Mount Daxian and upheld the Lotus Sutra.
+宿緣所熏常好禪悅。
+> Perfumed by past affinities, he always delighted in meditative joy.
+怏怏江東無足可問。
+> Dissatisfied, he found no one in Jiangdong worth questioning.
+聞光州大蘇山慧思禪師。
+> He heard of Dhyana Master Huisi at Mount Dasu in Guangzhou.
+遙飡風德如飢渴矣。
+> From afar he fed on that master's virtuous reputation, as if hungry and thirsty.
+其地既是陳齊邊境兵刃所衝。
+> That place was at the Chen-Qi frontier, struck by armed conflict.
+重法輕生涉險而去。
+> Valuing Dharma above life, he crossed dangers and went there.
+思初見笑曰。
+> When Huisi first saw him, he smiled and said:
+昔共靈山聽法華經。
+> "Formerly we listened to the Lotus Sutra together on Vulture Peak.
+宿緣所追今復來矣。
+> Pursued by past affinities, you have come again now."
+即示普賢道場行法華三昧。
+> He then instructed him in the Universal Sage bodhimanda for practicing Lotus samadhi.
+經二七日行道誦經。
+> For two seven-day periods, he practiced and recited sutra.
+至藥王品諸佛同讚藥王菩薩言。
+> Upon reaching the Medicine King chapter, all Buddhas together praised Medicine King Bodhisattva, saying:
+是真精進真法供養。
+> "This is true vigor, true Dharma-offering."
+豁然入定照了法華。
+> Suddenly he entered concentration and illumined the Lotus completely.
+將證白師。
+> About to seal realization, he reported it to his teacher.
+師曰。
+> The teacher said:
+非爾弗證非我不識。
+> "Without you it would not be realized; without me it would not be recognized.
+所發定者法華三昧前方便也。
+> The concentration aroused is the preliminary expedient of Lotus samadhi.
+所發持者初旋陀羅尼。
+> The retention aroused is the first turning dharani."
+縱令文字法師千群萬眾。
+> Even if there were thousands upon tens of thousands of textual Dharma-masters,
+尋汝之辯不能窮矣。
+> following your eloquence, they could not exhaust it.
+於說法人中最為第一。
+> among expounders of Dharma, you are foremost.

@@ -1,108 +1,142 @@
-# Fascicle 1, Part 4: Generating the Intention – The Ten Wrongs (十非)
-## The Applied Diagnostics
+# Fascicle 1: Section 5 (Source-Aligned Draft)
+## Scholarly Translation
 
-**Translated by Dr. Rajesh Patel (The Professor)**
-**Date**: January 22, 2026
-**Source**: T46n1912, Fascicle 1 (Ref: T1912_001.txt)
-
----
-
-## Translation
-
-### The Necessity of Rejecting the False (簡非)
-
-**Text**:
-> 初簡心者。凡厥有情皆悉堪發... 道名既通須以諸非簡之令是。今略為十並是所簡。
-> *First, regarding the 'Simplification of the Mind' (Jian Xin): All sentient beings are capable of generating [the intention]... Since the name 'Way' (Dao) is common [to both good and evil], one must use the 'Various Wrongs' (Zhu Fei) to simplify [i.e., filter] it, causing it to be correct/right (Shi). Now, we briefly list ten; all are to be rejected.*
-
-**Commentary**:
-Miao-lo explains that "Generating the Intention" (*Fa Xin*) is not inherently good. One can generate an intention to steal, to kill, or to become a demon. Therefore, before we establish the "Right Mind," we must filter out the "Wrong Minds." This is arguably the most critical diagnostic section in the early *Guketsu*.
-
-### The Ten Wrong Minds (List and Analysis)
-
-#### 1. The Mind of the Three Poisons (貪瞋癡)
-**Text**:
-> 初貪瞋癡其相最甚故名為專... 境強心重判屬上品。
-> *First, Greed, Anger, and Stupidity. Their characteristics are most extreme, thus called 'Exclusive'... The object is strong and the mind is heavy; judged as Upper Grade [Evil].*
-- **Analysis**: This is the "Hell Path" motivation. Practicing meditation to gain powers for revenge or accumulation.
-
-#### 2. The Mind of the Five *Shantila* (五扇提羅)
-**Text**:
-> 言五扇提羅等者。未曾有經下卷云... 外形似禪內思邪濁。見者謂聖。
-> *Regarding the Five *Shantila* (Sandhila/Eunuchs/Impotent Ones): The *Marvelous Scripture* (*Weicengyou Jing*) says... 'Outwardly they resemble Dhyana [practitioners], but inwardly they think of evil turbidity. Beholders call them Sages.'*
-- **Analysis**: These are "Pretenders." They enter the order for profit. They are "spiritual eunuchs"—incapable of producing the seed of enlightenment.
-
-#### 3. The Mind of the Fire Path (行火途)
-**Text**:
-> 行火途者四解脫經以三途名火血刀也... 且從熱說故云火途。
-> *Regarding walking the Fire Path: The *Four Emancipations Sutra* names the Three Paths as Fire, Blood, and Knife... Speaking from the aspect of heat, it is called the Fire Path.*
-- **Analysis**: Motivation driven by burning anxiety or the desire to inflict burning.
-
-#### 4. The Mind of Desiring Followers (欲多眷屬)
-**Text**:
-> 夫畜類者多愛群聚。是故破戒兼好眷屬之所感也。
-> *Those of the Animal category mostly love to gather in herds. Therefore, this is the retribution invoked by breaking precepts combined with loving [a large entourage of] followers.*
-- **Analysis**: The "Pack Mentality." Practicing to become a cult leader or influencer.
-
-#### 5. The Mind of Swallowing the Flow (吞流)
-**Text**:
-> 吞流等者。欲他歸己如海吞流。欲己攝他如火焚薪。
-> *Swallowing the Flow: Desiring others to return to oneself like the ocean swallows currents. Desiring to consume others like fire burns firewood.*
-- **Analysis**: Narcissistic absorbtion. The "Black Hole" teacher.
-
-#### 6. The Mind of Devadatta (如調達)
-**Text**:
-> 如調達者... 謂教王害父而為新王。我當害佛而為新佛。
-> *Like Devadatta... He taught the King to harm his father and become a New King. [He said] 'I will harm the Buddha and become a New Buddha.'*
-- **Analysis**: The "Usurper." Ambition to overthrow lineage and replace the teacher. Motivated by jealousy (*Chi*).
-
-#### 7. The Mind of the Six Livestock (六畜)
-**Text**:
-> 復言六畜者。以六攝盡故也... 從相噉邊故云血途。
-> *Speaking of the Six Livestock: The number six exhausts the category... From the aspect of mutual devouring, it is called the Blood Path.*
-- **Analysis**: Servility and brutality. Practicing blind obedience or predatory dominance.
-
-#### 8. The Mind of the Four Distants & Eight Directions (四遠八方)
-**Text**:
-> 四遠八方等者... 次荒之國也。
-> *The Four Distants and Eight Directions... The lands of the 'Next Wilderness' (barbarians).*
-- **Analysis**: Being a "Spiritual Tourist" or "Barbarian." Uncultured, lacking the central "Civilization" of the Middle Way.
-
-#### 9. The Mind of Self-Praise (歎名曰稱)
-**Text**:
-> 歎名曰稱。讚德曰揚... 知己無德欲他擬聖。
-> *Sighing [for] fame is called 'Cheng'. Praising virtue is called 'Yang'... Knowing oneself has no virtue, yet desiring others to compare one to a Sage.*
-- **Analysis**: The "PR Campaign." Fame-seeking.
-
-#### 10. The Mind of Intolerating Inferiors (不耐下人)
-**Text**:
-> 不耐下人者... 如鴟等者... 豈鴟高飛而勝孔雀。
-> *Intolerant of those below... Like the Owl ('Chi')... How can the Owl, flying high, surpass the Peacock?*
-- **Analysis**: Arrogance (*Man*). Looking down on beginners or the laity.
+**Source**: T46n1912, `T1912_001.txt`  
+**Boundary mapping**: Source line 20, sentence units 1094-1158  
+**Translator**: William Altig / Claude  
+**Date**: February 6, 2026
 
 ---
 
-## Doctrinal Analysis
+## Source-Aligned Bilingual Block
 
-### The "Net of Wrongs" (簡非之網)
-Miao-lo's commentary here serves a crucial function: it **de-romanticizes** the act of "seeking the Way."
-He argues that 90% of people who "seek the Way" are actually seeking:
-- Power (Devadatta)
-- Fame (Self-Praise)
-- Comfort (Five Shantila)
-- Entourage (Herd Mentality)
-
-Unless these "Ten Wrongs" are filtered out (*Jian* 簡), the energy of meditation will simply amplify the pathology. Meditation acts as a fertilizer; if the seed is "Devadatta," meditation will grow a "Super-Devadatta."
-
-### The Meaning of "Shantila" (扇提羅)
-Miao-lo cites the *Weicengyou Jing* to explain this obscure term. It refers to those who are "Stone Women" (*Shi Nu*) or "Eunuchs" (*Huang Men*) in a spiritual sense. They look the part (shaved heads, robes, meditation posture) but lack the biological capacity to reproduce the Dharma lineage. They are "dead ends."
-
----
-
-## Translator's Reflection
-
-This section feels incredibly contemporary. The critique of "Spiritual Materialism" (Chogyam Trungpa's term) is fully anticipated here by Zhiyi and Miao-lo.
-The "Mind of Desiring Followers" (Pack Mentality) is a direct critique of the "Guru/Influencer" complex.
-The "Mind of Swallowing the Flow" is a devastating psychological profile of the narcissistic teacher who needs students to "feed" them.
-
-**END OF FASCICLE 1, SECTION 5**
+代受法師等者。
+> As for acting as proxy lecturer, etc.
+即指南岳為受法師。
+> This points to Nanyue as the teacher from whom he received Dharma.
+南岳造金字大品經竟。
+> After Nanyue completed the Golden-Character Great Perfection of Wisdom Sutra.
+自開玄義命令代講。
+> He himself opened its profound meaning and ordered him to lecture in his place.
+於是智方日月辯類懸河。
+> Then Zhizhe's wisdom was like sun and moon, and his eloquence like a hanging river.
+卷舒稱會有理存焉。
+> In expansion and condensation, all fit together and retained principle.
+唯三三昧三觀智用以諮審。
+> Only concerning the wisdom-function of the three samadhis and three contemplations did he seek verification.
+餘並自裁。
+> All else he judged himself.
+思曰。
+> Si said:
+可謂法付法臣法王無事者也。
+> This can be called Dharma entrusted to a Dharma minister; the Dharma king has no further concern.
+時慧曠律師亦在會坐。
+> At that time Vinaya Master Huikuang was also seated in the assembly.
+思曰。
+> Si said:
+律師甞聽賢子講耶。
+> Venerable Vinaya Master, have you once heard this worthy disciple lecture?
+曠曰。
+> Kuang said:
+禪師所生非曠子也。
+> What the Dhyana Master has brought forth is no child of Kuang.
+思曰。
+> Si said:
+思亦無功法華力耳。
+> Si also has no merit; it is only the power of the Lotus.
+陳隋二國等者。
+> As for the two states Chen and Sui, etc.
+陳家因姓號國。
+> The Chen house named the state from its family surname.
+自武帝覇先受梁禪來。
+> From Emperor Wu Baxian onward, it had received abdication from Liang.
+至少主叔寶方始入隋。
+> Only under the young ruler Shubao did it finally enter Sui.
+陳凡五主。
+> Chen had five rulers in all.
+第四宣帝是文帝之弟。
+> The fourth, Emperor Xuan, was Emperor Wen's younger brother.
+名頊字紹世。
+> His given name was Xu and his style name was Shaoshi.
+初思謂智者曰。
+> At first Si said to Zhizhe:
+吾久羨南岳恨法無所付。
+> For long I have admired Nanyue and regretted having no place to entrust the Dharma.
+汝可傳燈設化。
+> You can transmit the lamp and establish transformation.
+莫作最後斷佛種人也。
+> Do not become the last person who severs the Buddha-seed.
+汝於陳國有緣宜往利益。
+> You have affinities in Chen; you should go and benefit there.
+既奉嚴訓乃共法喜等二十七人同至陳都。
+> Having received strict instruction, he and Faxi with twenty-seven others went together to the Chen capital.
+儀同沈君理請住瓦官開法華經題。
+> Yitong Shen Junli invited him to reside at Waguan and expound the title of the Lotus Sutra.
+勅一日停朝事公卿畢集。
+> By imperial order, one day of court affairs was suspended and all nobles assembled.
+停瓦官八年。
+> He stayed at Waguan for eight years.
+講大智度論說次第禪門。
+> He lectured on the Great Wisdom Treatise and explained the Sequential Gate of Dhyana.
+蒙語默之益者略難稱紀。
+> Those who benefited through his words and silence are too many to record briefly.
+爾後徒眾轉多得法轉少。
+> After that, followers increased while those attaining the Dharma decreased.
+妨我自行化道可知。
+> This hindered my own practice; the way of transformation can be understood from this.
+群賢各隨所安。
+> Let the worthy each follow where they are settled.
+吾欲從吾志也。
+> I wish to follow my own resolve.
+吾聞天台地記稱有仙宮。
+> I heard that Tiantai's geographical records speak of an immortal palace.
+若息心茲嶺展生平之志。
+> If I rest my mind on this peak, I can unfold the aspiration of my life.
+陳主有勅留連。
+> The Chen ruler issued an order urging him to stay.
+徐僕射潸涕勸請。
+> Assistant Director Xu wept and urged him to remain.
+勅云。
+> The edict said:
+京師三藏雖弘佛法。
+> Although the Tripitaka masters in the capital propagate Buddha Dharma,
+皆一途偏顯兼之者寡。
+> all display one-sided paths, and few integrate them.
+朕聞瓦官濟濟深用慰懷。
+> I hear Waguan is full of worthies, deeply comforting my heart.
+宜停訓物豈遑獨善。
+> You should stay to instruct beings; how can you hasten only your own good?
+匪從物議直指東川。
+> Yet, not following worldly opinion, he headed straight for the eastern mountains.
+于時陳太建七年秋九月。
+> At that time, in the seventh year of Taijian of Chen, in the ninth month of autumn,
+從茲始入天台。
+> from here he first entered Tiantai.
+宣帝勅曰。
+> Emperor Xuan edicted:
+禪師佛法雄傑時匠所宗。
+> The Dhyana master's Buddha Dharma is heroic and outstanding, honored by masters of the age.
+訓兼道俗國之望也。
+> His teaching reaches both monastic and lay; he is the nation's expectation.
+宜割始豐縣調以充眾費。
+> It is fitting to allocate revenue from Shifeng County to supply community expenses.
+蠲兩戶民用給薪水。
+> Remit levies from two households to provide firewood and water.
+爾後勅賜寺額云。
+> After this, an imperial decree bestowed the temple plaque saying:
+具左僕射徐陵啟。
+> As petitioned in full by Left Assistant Director Xu Ling.
+知禪師創立天台。
+> Knowing the Dhyana master established Tiantai,
+宴坐名岳宜號修禪。
+> residing in meditation on the famous peak, it should be named Xiuchan (Cultivating Dhyana).
+陳破入隋。
+> Chen was broken and entered Sui.
+隋主敬重。
+> The Sui ruler respected him greatly.
+陳主并諸王書疏凡十二道。
+> Letters and memorials from the Chen ruler and various princes totaled twelve communications.
+隋主并諸王勅及書疏近五十道。
+> Edicts, letters, and memorials from the Sui ruler and various princes were nearly fifty communications.
+所施信物並在國清百錄。
+> All granted gifts and offerings are recorded in the Guoqing Hundred Records.

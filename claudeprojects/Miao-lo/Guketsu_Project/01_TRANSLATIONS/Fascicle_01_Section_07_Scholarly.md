@@ -1,116 +1,182 @@
-# Fascicle 1, Part 6: The Six Identities (*Liu Ji* 六即)
-## The Architecture of Enlightenment
+# Fascicle 1: Section 7 (Source-Aligned Draft)
+## Scholarly Translation
 
-**Translated by [Your Name/Persona]**
-**Date**: January 22, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## 1. The Problem the Six Identities Solve
-
-Miao-lo opens with a question that has plagued practitioners for centuries:
-
-> "Is the initial mind [of awakening] the same as the final mind [of Buddhahood]? Or are they different?"
-
-This is not an abstract question. It is a practical trap:
-
-| **Trap 1: Arrogance (*Zeng Shang Man*)** | **Trap 2: Discouragement (*Qie*)** |
-| :--- | :--- |
-| "I have realized the nature of mind. I am already a Buddha." | "Buddhahood is so distant, so perfect. I am a deluded being with no chance." |
-| **Result**: Cessation of effort, inflation of ego. | **Result**: Giving up, despair. |
-
-The **Six Identities** destroy both traps. They affirm: **"You are already a Buddha (即)"** while simultaneously clarifying: **"There are six distinct stages of realization (六)."**
+**Source**: T46n1912, `T1912_001.txt`  
+**Boundary mapping**: Source line 20, sentence units 1226-1310  
+**Translator**: William Altig / Claude  
+**Date**: February 6, 2026
 
 ---
 
-## 2. The Source of the Doctrine
+## Source-Aligned Bilingual Block
 
-Miao-lo cites the *Mahāprajñāpāramitā-śāstra* (*Da Zhidu Lun*):
-
-> "Subhūti asked the Buddha: 'Does one attain Bodhi with the initial mind or the final mind?'"
-
-The Buddha's answer forms the basis of the Six Identities:
-
-> "It is not solely the initial mind, yet not apart from the initial mind."
-
-This is the logic of **"Neither identical nor separate"** (*Bu Ji Bu Li*). The beginner *is* the Buddha in principle, but the beginner is *not* the Buddha in realization.
-
-**Analogy from the Treatise**: A wick must burn from beginning to end to consume the candle. The first flame is not the last flame, yet without the first, the last could never exist. The initial aspiration is essential; the final attainment is its completion.
-
----
-
-## 3. The Six Stages Explained
-
-### Stage 1: Identity in Principle (*Li Ji* 理即)
-- **Definition**: All sentient beings possess the Tathāgatagarbha (Buddha-embryo). The Three Truths (Emptiness, Provisional Existence, Middle) are inherent but **unknown**.
-- **Condition**: The being has never heard the teaching. They use it daily without knowing it.
-- **Analogy**: A cow grazing in a field. It stands in the same meadow as a sage but does not know the directions of the compass.
-
-### Stage 2: Identity in Name (*Ming Zi Ji* 名字即)
-- **Definition**: Through hearing the teaching (from a Buddha, a teacher, or a scripture), one learns the *names* of the truths: Emptiness, Provisional Existence, Middle, Buddha-nature.
-- **Condition**: Intellectual understanding only. No personal realization.
-- **Key Emphasis**: This stage is essential. Miao-lo criticizes those who "despise the textual teachings and esteem silent contemplation." Without hearing, how can one know?
-
-### Stage 3: Identity in Contemplative Practice (*Guan Xing Ji* 觀行即)
-- **Definition**: Hearing is joined with practice. The practitioner begins to *observe the mind* and correlate that observation with the doctrinal teachings.
-- **Condition**: Like a "worm-eaten wood" that *happens* to form a character. The realization is real but unstable.
-- **Miao-lo's Caution**: "If one merely hears without practicing, one does not understand the meaning of the text." Hearing without practice is like having eyes without sunlight.
-- **Citation from *Shoulengyan* (Śūraṅgama)**: One must practice like learning to shoot a bow—first at a large target, then smaller and smaller, until one can hit a single hair in the dark.
-
-### Stage 4: Identity in Resemblance (*Xiang Si Ji* 相似即)
-- **Definition**: Contemplation becomes clearer. The practitioner's understanding of the Three Truths begins to *resemble* the truth without being fully realized.
-- **Condition**: Like shooting ever closer to the bullseye. The "Ten Faiths" (*Shi Xin*) of the Bodhisattva path.
-- **Miao-lo's Phrase**: "The more one contemplates, the more clear; the more one stops [the mind], the more still."
-
-### Stage 5: Identity in Partial Realization (*Fen Zhen Ji* 分真即 or *Fen Zheng Ji*)
-- **Definition**: Entry into the "Copper Wheel" (Initial Abiding, *Chu Zhu*). The practitioner first sees the Three Buddha-Natures, breaks one grade of ignorance, and manifests a portion of the Dharma-body.
-- **Condition**: From the First Abiding through Equal Enlightenment (*Deng Jue*), each successive stage deepens like the waxing moon.
-- **Miao-lo's Analogy (from *Nirvāṇa Sūtra*)**: Like the moon from the first to the fourteenth day. Each night it grows, yet even the fourteenth night is not the full moon.
-- **External Function**: Anyone at this stage can manifest in any of the Ten Dharma Realms to teach beings. "If someone should be saved by a Buddha-body, they appear as a Buddha; if by a Śrāvaka, they appear as a Śrāvaka."
-
-### Stage 6: Ultimate Identity (*Jiu Jing Ji* 究竟即)
-- **Definition**: The wisdom-light is complete and full. Bodhi (Wisdom-virtue) and Nirvāṇa (Severance-virtue) are both perfected.
-- **Condition**: There is no further path. "Beyond the character *荼* (*Tú*), there is no path."
-- **Miao-lo's Metaphor**: Forty-two characters represent the path. The Buddha is the final syllable. There is nowhere else to go.
-
----
-
-## 4. The Parable of the Poor Woman and the Gold Treasure
-
-Miao-lo cites the *Mahāparinirvāṇa Sūtra* to summarize all six stages in a single image:
-
-> There was a poor woman with a great gold treasure buried in her house. She did not know it. A wise man told her of it. She began to dig. Gradually she came closer. Finally, she uncovered the treasure and used it freely.
-
-| **Stage** | **Parable Element** |
-| :--- | :--- |
-| **1. Li Ji** | The treasure exists in the house. |
-| **2. Ming Zi Ji** | A wise man *tells* her about it. |
-| **3. Guan Xing Ji** | She "uproots weeds"—begins to dig. |
-| **4. Xiang Si Ji** | She "gradually draws near." |
-| **5. Fen Zhen Ji** | She "approaches, and the treasury opens." |
-| **6. Jiu Jing Ji** | She "takes and uses it completely." |
-
----
-
-## 5. Why the Six Identities Belong Uniquely to the Perfect Teaching (*Yuan Jiao*)
-
-Miao-lo states that only the **Perfect Teaching** can use the term **"Identity" (*Ji*)**.
-
-- In the **Tripiṭaka Teaching**: Phenomena are not identical to ultimate truth. There is no "即."
-- In the **Shared Teaching**: There is a form of "即" (e.g., form is emptiness), but it applies only to the Three Realms.
-- In the **Distinct Teaching**: There is identity in principle, but it unfolds sequentially in practice.
-- In the **Perfect Teaching**: All phenomena are *immediately* the Dharma-realm. Even greed and anger are Buddha-nature. This is the only teaching where "六即" can be fully applied.
-
-> "If one were to speak of the Three Preceding Teachings [as having 'Identity'], this would be a shallow, expedient use of the term."
-
----
-
-## Summary: The Function of the Six Identities
-
-The Six Identities destroy two diseases:
-
-1.  **Arrogance**: "I am already a Buddha" → *No. You are 'Identity in Principle.' You have not yet realized it.*
-2.  **Despair**: "I can never become a Buddha" → *No. You are 'identical' to the Buddha in nature. Realization is a matter of practice, not a change of essence.*
-
-This doctrine allows a practitioner to be simultaneously **humble** (acknowledging their current stage) and **confident** (knowing they possess the full potential).
+滅後祥瑞等具如別傳。
+> After his passing, auspicious signs and related matters are fully recorded in a separate biography.
+即是住觀行位首楞嚴定而入滅也。
+> This means he abided at the contemplative-practice rank and entered extinction in Suramgama Samadhi.
+五品之言彌可信也。
+> Thus the statement of the fifth grade is all the more credible.
+然大師生存常願生兜率。
+> Yet while alive, the Great Master constantly wished to be born in Tusita.
+臨終乃云觀音來迎。
+> At life's end, he then said Guanyin came to welcome him.
+當知軌物隨機順緣設化。
+> One should know he set forth teaching to guide beings according to capacities and conditions.
+不可一准。
+> It cannot be fixed to one uniform standard.
+故經云去引證大師五品功多。
+> Therefore, the text says, and then cites scriptures to prove the Master's abundant fifth-grade merit.
+隨喜品云。
+> The Rejoicing chapter says:
+施四百萬億阿僧祇世界六趣四生眾生。
+> One gives to beings of six destinies and four births in four million kotis of asamkhya worlds.
+一一皆與七寶。
+> To each and every one, one gives the seven treasures.
+見其衰老乃至將死。
+> Seeing them grow old and even approach death,
+化令得果起六神通不如初隨喜人百千萬倍。
+> and teaching them to attain fruits and arouse the six superknowledges still does not equal, by hundreds of thousands of myriads of times, the first rejoicing person.
+彼第六經初舉第五經末五品文中初隨喜品。
+> In that sixth fascicle, it first cites the first rejoicing grade from the five-grade passage at the end of fascicle five.
+復以第五十人校量最初隨喜人。
+> It further uses the fiftieth person to compare with the very first rejoicing person.
+故今文中初述小乘化他之福比於初品。
+> Hence, in this text it first states the merit of the Lesser Vehicle's benefiting others and compares it to the first grade.
+具如經文。
+> The details are exactly as in the sutra text.
+復以初品況出後品故云況五品耶。
+> Then, by inferring from the first grade beyond the later grades, it says, "How much more the fifth grade?"
+舉小乘之最多況大乘之極少。
+> It uses the greatest case in the Lesser Vehicle to infer even the slightest in the Great Vehicle.
+初品最小其功尚多況第五品耶。
+> If the first grade, though smallest, still has much merit, how much more the fifth grade?
+此證大師居第五品其德深也。
+> This proves the Great Master stood in the fifth grade, and his virtue was deep.
+次引法師品者。
+> Next it cites the Dharma Teacher chapter.
+為世所依頒傳佛旨故名為使。
+> Being a reliance for the world and proclaiming the Buddha's intent, one is called a messenger.
+使即所使。
+> "Messenger" means one who is commissioned.
+宣佛因果名如來事。
+> Proclaiming the Buddha's causes and fruits is called doing the Tathagata's work.
+次引大經者亦證大師位也。
+> Next, citing the Mahaparinirvana Sutra also proves the Great Master's rank.
+經云。
+> The sutra says:
+若復有人具煩惱性能知如來祕密之藏。
+> If there is one who still possesses afflictive dispositions yet can know the Tathagata's secret treasury,
+是名初依。
+> this is called the first reliance.
+若准圓位五品六根並名初依。
+> According to Perfect Teaching stages, both the fifth grade and six-root purity are called the first reliance.
+未斷無明名具煩惱。
+> Not yet cutting off ignorance is called possessing afflictions.
+亦得名為觀行相似知祕密藏。
+> It may also be called contemplative-practice and resemblance in knowing the secret treasury.
+次智者去明智者所承。
+> Next, from "Zhizhe onward," it clarifies what Zhizhe inherited.
+即南岳也。
+> That is Nanyue.
+南岳德行去彰南岳行證也。
+> From the account of Nanyue's virtue and practice onward, it manifests Nanyue's realized conduct.
+博物誌云。
+> The Record of Broad Things says:
+嵩高為中岳屬豫州。
+> Songgao is the Central Peak, belonging to Yuzhou.
+華山為西岳屬同州。
+> Huashan is the Western Peak, belonging to Tongzhou.
+泰山為東岳屬兗州。
+> Taishan is the Eastern Peak, belonging to Yanzhou.
+恒山為北岳屬冀州。
+> Hengshan is the Northern Peak, belonging to Jizhou.
+衡山為南岳屬荊州。
+> Hengshan is the Southern Peak, belonging to Jingzhou.
+後開衡州。
+> Later Hengzhou was established.
+從山為名。
+> It took its name from the mountain.
+以此五山上應天象配於五帝。
+> These five mountains above correspond to celestial patterns and are matched with the Five Emperors.
+又山之高者名岳。
+> Also, a high mountain is called a yue-peak.
+大師俗姓李氏項城武津人也。
+> The Great Master's lay surname was Li; he was from Wujin in Xiangcheng.
+兒童時因夢梵僧勸令入道。
+> As a child, he dreamed an Indian monk urging him to enter the Path.
+又數夢僧訓以齋戒。
+> He also repeatedly dreamed monks instructing him in fasting and precepts.
+時見朋類讀法華經情深樂重。
+> At that time he saw peers reading the Lotus Sutra and felt deep devotion and joy.
+先未曾誦因從他借。
+> He had not previously recited it, so he borrowed it from others.
+於空塚中獨自看之。
+> In an empty tomb, he read it alone.
+無人教授日夜悲泣。
+> With no one to teach him, he wept day and night.
+復恐塚是非人所居。
+> He further feared the tomb was a place inhabited by non-human beings.
+移託古城鑿穴居止。
+> He moved to an old city and dug a cave-dwelling there.
+晝則乞食夜不眠寢。
+> By day he begged for food; by night he did not sleep.
+對經流淚頂禮不休。
+> Facing the scriptures, he shed tears and bowed without cease.
+其夏多雨土穴濕烝。
+> That summer there was much rain, and the earthen cave was damp and steaming.
+舉身腫滿行止不能。
+> His whole body swelled, and he could neither move nor stand.
+而忍心對經心力彌壯。
+> Yet he endured and remained before the scripture; his inner resolve grew stronger.
+忽覺消滅平復如故。
+> Suddenly he felt the condition vanish and recovered as before.
+又夢普賢乘白象來摩頂而去。
+> He again dreamed Samantabhadra riding a white elephant, coming to touch his crown and then departing.
+昔未識文自然解了。
+> Though formerly he had not recognized the text, he now understood it naturally.
+所摩之處自然隱起有如肉髻。
+> The place touched rose subtly of itself, like a flesh-topknot.
+因茲所誦法華等經三十餘卷。
+> Because of this, he recited more than thirty fascicles of scriptures, including the Lotus.
+十年之中誦聲不輟。
+> Over ten years, the sound of recitation did not cease.
+因讀諸經見讚禪定。
+> Reading various scriptures, he saw praise of dhyana concentration.
+復更發心求善知識。
+> He then aroused aspiration again to seek good spiritual friends.
+值慧文禪師稟受禪法。
+> He encountered Chan Master Huiwen and received meditation dharmas from him.
+晝則驅馳僧事。
+> By day he hurried about monastic duties.
+夜則坐禪達曉。
+> By night he sat in meditation until dawn.
+精勤動障乃反觀心源求不可得。
+> Through diligent effort, obstructions stirred, so he turned back to contemplate the mind-source and sought it but could not obtain it.
+遂動八觸發根本禪。
+> Then the eight tactile responses were stirred, and fundamental dhyana arose.
+因見三生行道之處。
+> Thereby he saw the places where he had practiced the Path in three lives.
+得此相已精進彌甚。
+> After obtaining this sign, his diligence became all the more intense.
+夏竟受歲將欲上堂乃感歎曰。
+> At summer's end, after receiving the annual completion and about to ascend the hall, he sighed and said:
+昔佛在世九旬究滿證道者多。
+> In former times, when the Buddha was in the world, many realized the Way upon completion of the ninety-day retreat.
+我今空過法歲虛受。
+> I now have let the dharma-year pass in vain and received it emptily.
+內愧深重放身倚壁。
+> Deeply ashamed within, he let his body lean against a wall.
+背未至壁朗然復悟法華三昧大乘法門境界明了。
+> Before his back reached the wall, he suddenly reawakened; the realm of Lotus samadhi and Mahayana dharma-gates became clear.
+通明背捨並皆成就。
+> Penetrative illuminations and relinquishments were all accomplished.
+從此以後辯悟既多。
+> From then onward, his discerning realization greatly increased.
+所未聞經不疑自解。
+> Sutras he had never heard he understood on his own without doubt.
+故今文云大小法門朗然洞發。
+> Therefore this text says that great and small dharma-gates opened with lucid penetration.
+傳中不云七載方等。
+> The biography does not mention "seven years in Vaipulya teachings."
+應是著傳者所聞不同。
+> This should be because the biographer heard a different account.

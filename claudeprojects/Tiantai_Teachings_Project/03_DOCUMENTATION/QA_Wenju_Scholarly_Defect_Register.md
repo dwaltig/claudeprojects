@@ -19,6 +19,40 @@
 
 ---
 
+## ARCHIVAL CHECKPOINT (2026-02-06)
+
+- **Archive ID:** ARCHIVE-WENJU-2026-02-06
+- **Reason for pause:** Usage/credit limit; restart planned after renewal week.
+- **Scope archived:** Wenju Scholarly translation stream, including Fascicle 3 tone experiments.
+- **Authoritative state file:** This register remains the restart authority.
+- **Operational reset:** Resume with source-first compiler loop only (no style-only pass before source lock).
+- **Restart trigger:** Re-open work from the next selected Wenju block and run full loop under Workflow v2 (below).
+
+---
+
+## WORKFLOW V2 (SOURCE-LOCKED COMPILER LOOP)
+
+**Purpose:** Preserve Sacca integrity while enabling later stylistic tone work.
+
+1. **Boundary map first (CBETA):**
+   - Select block with explicit start/end anchors and CBETA locators.
+   - Confirm contiguity (no gaps, no overlaps) before drafting English.
+2. **Source lock gate (hard gate):**
+   - Build/repair literal scholarly base from CBETA first.
+   - Preserve apparatus and Q/A structure verbatim where present.
+   - No Blues/tone rewrite before this gate is complete.
+3. **Audit and log immediately:**
+   - Log defects with CBETA locator, apparatus, and post-edit excerpt.
+   - Status must move Open -> Repaired/Pending -> Closed only after re-audit.
+4. **Re-audit against CBETA:**
+   - Verify one-to-one coverage and doctrinal fidelity.
+   - PASS condition remains: Open=0 and Pending=0 for target scope.
+5. **Tone pass only after PASS base:**
+   - Stylistic work is a downstream layer, never a substitute for source fidelity.
+   - Any stylistic change must preserve source meaning and be re-checkable against base text.
+
+---
+
 ## DEFECT ENTRIES
 
 ### DEFECT-F01-001

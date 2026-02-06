@@ -458,6 +458,8 @@
 
 **Vasubandhu[^59] composed a treatise in which he divided the "Introductory" chapter using seven merits,[^60] divided the "Skillful Means" chapter using five manifestations,[^61] and divided each of the remaining chapters according to its respective topic.**
 
+*[Critical apparatus: 各【大】，各憑【甲】]*
+
 [^59]: **Vasubandhu 天親:** (ca. 4th–5th c. CE), author of the *Commentary on the Lotus Sutra* (*Saddharmapuṇḍarīka-upadeśa*, T.1519).
 
 [^60]: **Seven merits 七功德:** Vasubandhu's divisions of the Introductory chapter: (1) demonstration of cause; (2) assembly; (3) time; (4) place; (5) the preacher; (6) the Dharma; (7) the audience.
@@ -543,6 +545,8 @@
 **又有師云：「從〈序〉至〈學無學人記〉，是《法華》體；從〈法師〉至〈囑累〉，明受持功德；從〈藥王〉盡經，美諸菩薩本願。」**
 
 **Another master said: "From 'Introductory' through 'Prophecy for Those in Training and Those Beyond Training' constitutes the *essence* (*tǐ* 體) of the *Lotus Sutra*; from 'Dharma Teacher' through 'Entrustment' clarifies the merit of receiving and maintaining [the sutra]; from 'Medicine King' through the end of the sutra praises the original vows of the various bodhisattvas."**
+
+*[Critical apparatus: 記【大】，記品【甲】]*
 
 ---
 
