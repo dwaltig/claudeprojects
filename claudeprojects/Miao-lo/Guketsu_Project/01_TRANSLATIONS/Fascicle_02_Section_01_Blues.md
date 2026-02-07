@@ -1,122 +1,103 @@
-# Fascicle 2: What's in a Name?
-## The Four Ways to Understand "Zhiguan"
+# Fascicle 2, Section 1: Naming the Work (Blues Draft)
+## The Four Gates of Zhiguan in a Gospel-Moan Register
 
-**Translated by "The Luthier"**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## The Question
-
-Before you pick up the tools, you gotta know what you're building. So what *is* "Zhiguan"?
-
-**Zhi** (止): Stop. Calm. Cease.
-**Guan** (觀): Look. Observe. See through.
-
-Simple enough? Nope. Zhiyi breaks it down **four ways**.
+**Register pass**: Blues Epistemology (fidelity-locked)  
+**Source**: T46n1912, `T1912_003.txt`  
+**Date**: February 7, 2026
 
 ---
 
-## The Four Angles
+## Opening Moan
 
-| Angle | What It Means |
-|---|---|
-| **1. Relative** | Define one against the other. Zhi is "not-Guan." Guan is "not-Zhi." |
-| **2. Absolute** | Forget the distinction. They're the same thing. |
-| **3. Order** | Do you calm first, then observe? Or both at once? |
-| **4. The Payoff** | How do these connect to the final result (the Three Virtues)? |
+A name gets stood up for living beings.
+Not because the Real needs naming,
+but because we do.
 
----
-
-## Angle 1: Relative (*Xiang Dai*)
-
-**Think of it like treble and bass.**
-
-You can't define treble without bass. You can't define bass without treble. Same deal here:
--   Zhi = The bass. It grounds you. Stops the spinning.
--   Guan = The treble. It clarifies. Cuts through the mud.
-
-But there are **three levels** of each:
-
-### Three Kinds of Zhi
-
-| Level | Name | Meaning |
-|---|---|---|
-| 1 | **Ceasing** | Stop the noise. Kill the static. |
-| 2 | **Stopping** | Park the mind. Hold it in one place. |
-| 3 | **Non-Stop Stopping** | The principle itself doesn't stop or not-stop. It just *is*. |
-
-### Three Kinds of Guan
-
-| Level | Name | Meaning |
-|---|---|---|
-| 1 | **Penetrating** | Push through the bullshit. |
-| 2 | **Observing** | Watch what's actually happening. |
-| 3 | **Non-Observe Observing** | The principle doesn't observe—it already *knows*. |
-
-The first two levels are **technique**. The third level is **nature**. That's the one you're after.
+"Zhiguan" is one of those names:
+a loving trick,
+a raft-word,
+a mercy-word for crossing.
 
 ---
 
-## Angle 2: Absolute (*Jue Dai*)
+## Gate One: Relative (相待)
 
-**This is where the treble/bass metaphor breaks.**
+Relative means this leans on that.
+Long leans on short.
+Big leans on small.
 
-In the Absolute, Zhi and Guan aren't two different things. They're not even "one" thing. The names dissolve.
+So with Zhi and Guan.
+In this gate they stand facing each other,
+and each gets spoken by contrast.
 
-> "When you stop asking which string is vibrating and realize the music was never in the strings at all—that's the Absolute. The strings were always the silence. The silence was always the strings. There was never two things to tune."
-
-The Absolute isn't about blending two things so well you can't tell them apart. It's realizing the distinction was never real to begin with. You used the Relative to get here—treble and bass, calming and seeing. Now forget the Relative. Not because you mastered it, but because it was always a provisional map of territory that doesn't have borders.
-
----
-
-## Angle 3: Order (*Ci yu Bu Ci*)
-
-**Do you calm first, then look? Or both at the same time?**
-
-| Path | Answer |
-|---|---|
-| **Gradual** (slower path) | First calm. Then observe. Like learning scales *before* improvising. |
-| **Perfectly Sudden** (this path) | Calm and observe at the same time. Like improvising while learning. The skill and the song are one. |
-
-In the Perfectly Sudden path, there's no "first this, then that." You just *do it*.
+This is teaching-work,
+still in the coarse register,
+still medicine for beings who need distinction.
 
 ---
 
-## Angle 4: The Payoff (*Tong San De*)
+## Gate Two: Absolute (絕待)
 
-**What does this have to do with the final goal?**
+Then the blade falls.
+Horizontal comparisons: cut.
+Vertical comparisons: cut.
 
-The goal of Zhiguan is the **Three Virtues**:
+If all naming by opposition is cut,
+what remains is not a second thing.
+What remains is not a concept to hold.
 
-| Virtue | What It Is |
-|---|---|
-| **Dharma-body** | The truth itself. The wood. |
-| **Prajñā** | Wisdom. The eyes that see. |
-| **Liberation** | Freedom. The hands that let go. |
+Stopping cannot be seized.
+Contemplating cannot be seized.
+Even "stopping-and-contemplating" cannot be seized.
 
-How do Zhi and Guan connect?
-
--   **Zhi** (calming) → connects to Liberation (letting go of afflictions)
--   **Guan** (insight) → connects to Prajñā (wisdom)
--   **Both together** → connect to the Dharma-body (the whole thing)
-
-But here's the kicker: In the Perfectly Sudden teaching, **these aren't separate**.
-
-> "Zhi is Prajñā. Guan is Liberation. Both are the Dharma-body. The Three are not three. The two are not two."
+That is why this gate is called wondrous.
 
 ---
 
-## Luthier's Verdict
+## Gate Three: Meeting the Different Names (會異)
 
-Before you start building, you gotta know what the words mean.
+Scriptures speak with many mouths,
+but the virtue is one body.
 
--   **Relative**: Two hands. One fretting, one picking.
--   **Absolute**: One guitar. The hands disappear into the music.
--   **Order**: No order. Just play.
--   **Payoff**: The sound is the goal. The goal is the sound.
+What sounds like wisdom-language
+is the contemplation side.
+What sounds like liberation-language
+is the stopping side.
 
-Now you know the name. Time to learn the body.
+What sounds like non-dual space
+is the body where both are one.
 
-**END OF TAPE**
+Many names,
+one Real-Mark.
+
+---
+
+## Gate Four: Penetrating the Three Virtues (通三德)
+
+At first resolve,
+one contemplates nirvana for oneself,
+and also leads beings toward it.
+
+At later resolve,
+one enters what one contemplated.
+
+From first stirring to final settling,
+this road is one road:
+contemplate the three virtues,
+enter the three virtues.
+
+Split the two words and power thins.
+Join them in one meaning and all three virtues stand present.
+
+---
+
+## Closing Word
+
+Name is mercy-language.
+Relative is medicine-language.
+Absolute is no-grasp language.
+Meeting-differences is harmonizing language.
+Penetrating-three-virtues is arrival language.
+
+One song, many verses.
+One dharma, many names.

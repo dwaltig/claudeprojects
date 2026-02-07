@@ -1,135 +1,108 @@
-# Fascicle 2: Revealing the Essence (*Xian Ti*)
-## The Substance of Zhiguan (顯體)
+# Fascicle 2, Section 2: Revealing the Essence (Source-Aligned Draft)
+## Scholarly Translation (Compiler Loop Pass 2)
 
-**Translated by [Your Name/Persona]**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## Introduction: What Is the "Body" of Zhiguan?
-
-The third of the Ten Chapters is **顯體** (*Xian Ti* — "Revealing the Essence/Body"). After knowing the *name*, the practitioner must know the *substance* (essence, body) that the name refers to.
-
-Miao-lo explains that the Essence is revealed through **four sections** (四科 *si ke*):
-
-| # | Chinese | English | Function |
-|---|---|---|---|
-| 1 | **教相** (*Jiao Xiang*) | **Teaching Characteristics** | What doctrines describe this essence? |
-| 2 | **眼智** (*Yan Zhi*) | **Eye and Wisdom** | What faculties perceive this essence? |
-| 3 | **境界** (*Jing Jie*) | **Object/Realm** | What is the object/realm of this essence? |
-| 4 | **得失** (*De Shi*) | **Attainment and Loss** | Who gets it and who loses it? |
+**Source**: T46n1912, `T1912_003.txt`  
+**Boundary mapping**: Source line 21 (opening body of 體相/顯體 discussion)  
+**Translator**: William Altig / Claude  
+**Date**: February 7, 2026
 
 ---
 
-## 1. Teaching Characteristics (*Jiao Xiang*)
+## Source-Aligned Bilingual Block
 
-### The Problem
+[01][CN] ○次釋體相中。明此止觀所顯之體。  
+[01][EN] Next, in explaining body-and-characteristics, it clarifies the body that this zhiguan manifests.
 
-There are many kinds of "Zhiguan" taught in Buddhism:
+[02][CN] 雖用止觀以為能顯。止觀是行行藉教興。  
+[02][EN] Although stopping-and-contemplation are used as the manifesting agency, stopping-and-contemplation are practice, and practice arises by relying on teaching.
 
--   **Worldly/Secular** (*Shi Jian*): Calming techniques in non-Buddhist systems.
--   **Tripiṭaka** (*Zang Jiao*): The analytical Zhiguan of the Hīnayāna.
--   **Shared Teaching** (*Tong Jiao*): The "body-contemplating" Zhiguan.
--   **Distinct Teaching** (*Bie Jiao*): The sequential Middle Way Zhiguan.
--   **Perfect Teaching** (*Yuan Jiao*): The non-dual, non-sequential Zhiguan.
+[03][CN] 教為能詮行理為所。行望於理復為能顯。  
+[03][EN] Teaching functions as interpretive agent, while practice-principle is what is interpreted; relative to principle, practice again functions as manifesting agency.
 
-### The Resolution
+[04][CN] 能顯復通因果得失。得謂能顯今之妙體。失謂但屬方便凡小。  
+[04][EN] This manifesting function also extends through cause/result and gain/loss: "gain" means being able to manifest the present wondrous body; "loss" means remaining only within expedient means of ordinary and lesser paths.
 
-The *Mohe Zhiguan* teaches the **Perfect** (*Yuan*) Zhiguan alone. All other forms are:
-1.  Either *included* within the Perfect (by implication).
-2.  Or *opened* and revealed as already Perfect (by the principle of *kai quan xian shi* 開權顯實).
+[05][CN] 是故今文四章顯體。  
+[05][EN] Therefore in this text, four sections are used to reveal the body.
 
-> "To practice the name 'Zhiguan' without distinguishing these teachings is like calling every mineral 'gold.' The Perfect Teaching alone reveals the true body."
+[06][CN] 初明來意。亦是結前生後。  
+[06][EN] First it explains the intent of arrival; this also concludes what precedes and gives rise to what follows.
 
----
+[07][CN] 須識體理淵玄者。復以體相望於前二。前二俱橫體相唯竪。故云淵玄。  
+[07][EN] One must recognize that body-principle is deep and subtle: in relation to the prior two sections, those two are horizontal while body-characteristics are specifically vertical; therefore it is called deep-subtle.
 
-## 2. Eye and Wisdom (*Yan Zhi*)
+[08][CN] 次開章別釋中。所詮諦理名之為體。分別權實大小不同。故名為相。  
+[08][EN] Next, in chaptered detailed explanation: the truth-principle that is interpreted is called "body"; distinguishing differences of expedient/real and great/small is called "characteristics."
 
-### The Five Eyes
+[09][CN] 亦云顯體者。體是所顯。教相眼智即是能顯。能從於所故云顯體。  
+[09][EN] It is also called "revealing the body": the body is what is revealed; teaching-characteristics and eye-wisdom are the revealing agents; because the agent follows the revealed, it is called revealing-body.
 
-| Eye | Chinese | What It Sees |
-|---|---|---|
-| 1. Flesh Eye | 肉眼 | Physical forms (limited) |
-| 2. Heavenly Eye | 天眼 | Subtle forms, distant objects |
-| 3. Wisdom Eye | 慧眼 | Emptiness (真諦 *Zhen Di*) |
-| 4. Dharma Eye | 法眼 | Conventional truth (俗諦 *Su Di*) |
-| 5. Buddha Eye | 佛眼 | Middle Way (中諦 *Zhong Di*) |
+[10][CN] 初云粗寄四意者。粗略也。體相難申略寄四意方能識體。  
+[10][EN] "Roughly lodging in four meanings" means concise approximation: since body-characteristics are difficult to expound, one provisionally relies on four meanings to recognize the body.
 
-### The Three Wisdoms
+[11][CN] 教能詮理故教居初。詣理須行行即眼智。是故居次。  
+[11][EN] Because teaching interprets principle, teaching is placed first; reaching principle requires practice, and practice is eye-wisdom, so it is placed second.
 
-| Wisdom | Chinese | Corresponds To |
-|---|---|---|
-| 1. All-Knowing Wisdom | 一切智 | Emptiness |
-| 2. Path Wisdom | 道種智 | Conventional truth, expedient methods |
-| 3. All-Mode Wisdom | 一切種智 | Middle Way, non-dual |
+[12][CN] 次辨所詣即是理境。是故居次。辨取理人自他得失。是故居次。  
+[12][EN] Next one distinguishes what is reached, namely the principle-realm, so it is placed next; then one distinguishes those who obtain principle, including gain/loss for self and others, so it is placed next.
 
-### Application
+[13][CN] 問。初教相章與釋名何別。答。彼釋通名但得名教。今判同異故云教相。  
+[13][EN] Question: how does the first chapter, teaching-characteristics, differ from explaining the name? Answer: there, one explains the common name and only obtains named-teaching; here, one judges sameness and difference, thus it is called teaching-characteristics.
 
-The *Mohe Zhiguan* is aimed at the **Buddha Eye** and the **All-Mode Wisdom**. This does not mean the other eyes and wisdoms are abandoned—they are *included* within the Buddha Eye.
+[14][CN] 雖語能詮意在所詮。不約能詮無以辨所。  
+[14][EN] Though one speaks of the interpreting agent, the intention is on what is interpreted; without relying on the interpreting side, there is no way to distinguish what is interpreted.
 
-> "The Buddha Eye contains all five eyes. The All-Mode Wisdom contains all three wisdoms. To reveal the Perfect Essence is to reveal that which includes all."
+[15][CN] 故釋名四段意在絕待。體相四章意在境界。  
+[15][EN] Thus, in four sections of explaining the name, the intent lies in absolute-relativity; in four chapters of body-characteristics, the intent lies in the realm.
 
----
+[16][CN] 是故四章文四義二。章意在一。  
+[16][EN] Therefore these four chapters have four textual divisions and two semantic tracks, yet chapter-intent is one.
 
-## 3. Object/Realm (*Jing Jie*)
+[17][CN] 此四一名本出光宅。  
+[17][EN] These "four ones" originally come from Guangzhai.
 
-### The Three Truths as Object
+[18][CN] 今家和舊亦作四一。數同名異不全同舊。  
+[18][EN] Our school, in harmonizing old usage, also makes four ones; the number is the same but names differ, not wholly identical with the old.
 
-The object of the Perfect Zhiguan is the **Three Truths** (*San Di*):
+[19][CN] 舊云果一今云理一。若無理印則同魔說。  
+[19][EN] The old says "one fruit"; now it says "one principle." Without the seal of principle, it becomes like demonic discourse.
 
-| Truth | Chinese | Description |
-|---|---|---|
-| 1. Emptiness | 空諦 | All dharmas are empty of inherent existence. |
-| 2. Conventional | 假諦 | All dharmas are provisionally established. |
-| 3. Middle | 中諦 | Neither empty nor provisional; both and neither. |
+[20][CN] 常為一事即是行一。為眾生說即是教一。  
+[20][EN] "Always for one great matter" is one-practice; "preaching for sentient beings" is one-teaching.
 
-But in the Perfect Teaching, these three are **not three**:
+[21][CN] 疏釋理一約能知見。  
+[21][EN] In the commentary, "one principle" is explained from the side of capable knowing-seeing.
 
-> "Emptiness is not other than Conventional. Conventional is not other than Middle. Middle is not other than Emptiness. The Three Truths are one reality viewed from three angles."
+[22][CN] 又為四釋謂四智四門四位觀心。能所相對四章義足。  
+[22][EN] It is further explained in four ways: four wisdoms, four gates, four stages, and contemplation of mind; with capable and object set in correspondence, the four chapters are semantically complete.
 
-### The Dharma-Nature (*Fa Xing*)
+[23][CN] 智是眼智。門是教相。  
+[23][EN] Wisdom corresponds to eye-wisdom; gates correspond to teaching-characteristics.
 
-The ultimate "object" of contemplation is **法性** (*Fa Xing* — "Dharma-nature"), also called:
--   **真如** (*Zhen Ru* — "Suchness")
--   **實相** (*Shi Xiang* — "True Characteristic")
--   **法界** (*Fa Jie* — "Dharma-realm")
+[24][CN] 觀心秖是稟教證智次位秖是眼智所階。以契於理。  
+[24][EN] Contemplating mind is precisely receiving teaching and verifying wisdom; successive stages are precisely the levels traversed by eye-wisdom so as to accord with principle.
 
-> "The Dharma-nature is neither internal nor external. It is neither produced nor destroyed. It is neither pure nor impure. It is the essence that Zhiguan reveals."
+[25][CN] 於中先明教相中。初文更明來意故也。  
+[25][EN] Within this, teaching-characteristics are explained first, and the opening passage again clarifies intent.
 
----
+[26][CN] 名即是教故云教相。  
+[26][EN] Since name itself is teaching, it is called teaching-characteristics.
 
-## 4. Attainment and Loss (*De Shi*)
+[27][CN] 名通凡聖大小偏圓。不能尋之求於別體。別體不顯欲捨偏從圓。無由能致。  
+[27][EN] Name extends across ordinary/sage, great/small, and partial/complete; one cannot merely trace name and thereby obtain distinct body. If distinct body is not revealed, there is no way to abandon partial and follow complete.
 
-### Who Attains?
+[28][CN] 今明此章分其相別。教家之相。故云教相。  
+[28][EN] This chapter now distinguishes its characteristics as distinct instructional markers; therefore it is called teaching-characteristics.
 
--   **Those who attain**: Practitioners who follow the Perfect Teaching, who use the Buddha Eye to contemplate the Three Truths, who understand the non-duality of Zhi and Guan.
--   **Those who lose**: Practitioners who cling to partial teachings, who mistake technique for realization, who remain in the Relative without entering the Absolute.
+[29][CN] 言通別者。如大經三十三云。佛言。須陀洹者名為逆流。  
+[29][EN] As for shared and distinct, as the Mahaparinirvana Sutra (ch. 33) says, the Buddha states that a srotapanna is called one who goes against the stream.
 
-### The Gradations
-
-| Level | Description |
-|---|---|
-| **Principle** (*Li*) | Everyone already possesses the essence (理即). |
-| **Name** (*Ming Zi*) | Some hear the teaching and recognize the name (名字即). |
-| **Contemplation** (*Guan Xing*) | Some practice and gain partial insight (觀行即). |
-| **Resemblance** (*Xiang Si*) | Some attain a resemblance of the truth (相似即). |
-| **Partial Realization** (*Fen Zhen*) | Some break ignorance and see the essence (分真即). |
-| **Ultimate** (*Jiu Jing*) | The Buddha alone has fully realized it (究竟即). |
+[30][CN] 迦葉難言。若如是者阿羅漢乃至佛。亦得名為須陀洹耶。  
+[30][EN] Kasyapa objects: if so, then from arhat up to buddha, could they also be called srotapanna?
 
 ---
 
-## Summary
+## Pass Status
 
-The "Essence" chapter reveals what the name "Zhiguan" points to:
-
-1.  **Teaching Characteristics**: The Perfect Teaching is the sole doctrine.
-2.  **Eye and Wisdom**: The Buddha Eye and All-Mode Wisdom are the faculties.
-3.  **Object/Realm**: The Three Truths (as one) are the object.
-4.  **Attainment and Loss**: The Six Identities measure the degree of realization.
-
-Together, these four sections ensure that the practitioner does not mistake a partial or inferior essence for the true body of Zhiguan.
-
----
-
-*End of Fascicle 2, Section 2*
+- Deepened Section 2 with added contiguous source lines in the 顯體 analytical block.
+- Next pass will continue extending into the full fourfold body-characteristics development.

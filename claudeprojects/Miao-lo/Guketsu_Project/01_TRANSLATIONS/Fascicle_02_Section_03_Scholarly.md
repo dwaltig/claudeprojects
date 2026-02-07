@@ -1,156 +1,63 @@
-# Fascicle 2: Embracing the Dharmas (*She Fa*)
-## How Zhiguan Contains All Teachings (攝法)
+# Fascicle 2, Section 3: Embracing the Dharmas (Source-Aligned Draft)
+## Scholarly Translation (Compiler Loop Pass 2)
 
-**Translated by [Your Name/Persona]**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## Introduction: What Does Zhiguan "Embrace"?
-
-The fourth of the Ten Chapters is **攝法** (*She Fa* — "Embracing the Dharmas"). After knowing the name and the essence, the practitioner must understand how Zhiguan *relates to* and *contains* all other Buddhist teachings.
-
-Miao-lo explains that Zhiguan "embraces" (*she* 攝) teachings through **six meanings** (六義 *liu yi*):
-
-| # | Chinese | English | What It Embraces |
-|---|---|---|---|
-| 1 | **攝理** (*She Li*) | Embracing Principle | The ultimate truth (理 *li*) |
-| 2 | **攝惑** (*She Huo*) | Embracing Delusion | All afflictions (惑 *huo*) |
-| 3 | **攝智** (*She Zhi*) | Embracing Wisdom | All kinds of knowing (智 *zhi*) |
-| 4 | **攝行** (*She Xing*) | Embracing Practice | All methods of cultivation (行 *xing*) |
-| 5 | **攝位** (*She Wei*) | Embracing Stages | All levels of attainment (位 *wei*) |
-| 6 | **攝教** (*She Jiao*) | Embracing Teachings | All doctrinal categories (教 *jiao*) |
+**Source**: T46n1912, `T1912_003.txt`  
+**Boundary mapping**: Source lines 13 and 21 (攝法 structural and analytic statements)  
+**Translator**: William Altig / Claude  
+**Date**: February 7, 2026
 
 ---
 
-## 1. Embracing Principle (*She Li*)
+## Source-Aligned Bilingual Block
 
-### Definition
+[01][CN] 攝法秖明體所攝法。  
+[01][EN] "Embracing dharmas" specifically clarifies the dharmas embraced by the body.
 
-The "principle" (*li*) is the ultimate reality that all teachings point to. Zhiguan embraces two kinds of principle:
+[02][CN] 初釋名者即標名也。次體相者即顯體也。攝法秖明體所攝法。  
+[02][EN] First, explaining the name is marking the name; next, body-characteristics is revealing the body; embracing dharmas specifically clarifies the dharmas embraced by that body.
 
-| Type | Chinese | Meaning |
-|---|---|---|
-| **Expedient Principle** | 權理 | The partial truths taught in provisional teachings (Emptiness, Conventional) |
-| **True Principle** | 實理 | The complete truth of the Middle Way |
+[03][CN] 此為成觀觀由解生。名體偏圓並屬於解。由解立行故次解後方便正觀。  
+[03][EN] This is for completing contemplation; contemplation arises from understanding. Name/body and partial/complete all belong to understanding; because practice is established from understanding, after understanding come expedient means and proper contemplation.
 
-### Application
+[04][CN] 行始為因行終為果。故次正觀以明果報。  
+[04][EN] Practice begins as cause and ends as fruit; therefore proper contemplation is followed by clarifying fruit-result.
 
-The Perfect Zhiguan embraces *both* principles. It does not reject the Expedient in favor of the True. Instead:
+[05][CN] 釋名下去諸義皆然。  
+[05][EN] From "explaining the name" onward, all these meanings follow the same principle.
 
-> "The Expedient is revealed as already True. The True does not exist apart from the Expedient."
+[06][CN] 所以釋名論待論絕。體相唯論次與不次。攝法六義偏圓五門亦復如是。  
+[06][EN] Therefore, explaining the name discusses relative and absolute; body-characteristics only discusses sequential and non-sequential; embracing dharmas with six meanings, and partial/complete with five gates, are likewise so.
 
----
+[07][CN] 雖無部會可以對論。還借教味以顯圓妙。  
+[07][EN] Even without formal sectional convergence for direct comparison, one still borrows doctrinal flavors to reveal perfect wondrousness.
 
-## 2. Embracing Delusion (*She Huo*)
+[08][CN] 故知一部之文共成圓乘開權妙觀。  
+[08][EN] Hence one knows the whole text jointly forms the Perfect Vehicle's opening of expedient means into wondrous contemplation.
 
-### The Three Delusions
+[09][CN] 豈指一句別謂高深。若其然者。何殊體踏。  
+[09][EN] How could one isolate a single sentence and call that alone lofty and profound? If one does so, how is it different from trampling over the full body of doctrine?
 
-| Delusion | Chinese | What It Obscures | Teaching That Addresses It |
-|---|---|---|---|
-| **View/Thought Delusions** | 見思惑 | True Emptiness | Tripiṭaka, Shared |
-| **Dust-and-Sand Delusions** | 塵沙惑 | Conventional Truth | Distinct |
-| **Ignorance** | 無明 | Middle Way | Perfect |
+[10][CN] 此中四段。文四義二意唯在一。  
+[10][EN] Here, in these four segments: text is fourfold, meanings are dual, but intent is only one.
 
-### Application
+[11][CN] 待絕為二意在於絕又所一能三亦名義一以所顯能故云意一。  
+[11][EN] Relative and absolute are two in wording, yet intent rests in the absolute; because what is revealed is one while revealing functions are three, this is also called one meaning, and thus one intent.
 
-The Perfect Zhiguan *embraces* all three delusions simultaneously. It does not break them sequentially (first View/Thought, then Dust-and-Sand, then Ignorance). Instead:
+[12][CN] 次釋體相中。所詮諦理名之為體。分別權實大小不同。故名為相。  
+[12][EN] In the subsequent body-characteristics explanation, interpreted truth-principle is called body; distinguishing expedient/real and great/small differences is called characteristics.
 
-> "In one contemplation, all three delusions are seen as empty, conventional, and middle. To 'embrace' means to transform, not to eliminate."
+[13][CN] 亦云顯體者。體是所顯。教相眼智即是能顯。  
+[13][EN] It is also called revealing-body: body is what is revealed; teaching-characteristics and eye-wisdom are revealing agencies.
 
----
+[14][CN] 故釋名四段意在絕待。體相四章意在境界。  
+[14][EN] Therefore, the four sections in explaining names intend absolute-relativity, while the four chapters in body-characteristics intend realm.
 
-## 3. Embracing Wisdom (*She Zhi*)
-
-### The Three Wisdoms (Reprise)
-
-| Wisdom | Chinese | Corresponds To |
-|---|---|---|
-| **All-Knowing Wisdom** | 一切智 | Emptiness |
-| **Path Wisdom** | 道種智 | Conventional methods |
-| **All-Mode Wisdom** | 一切種智 | Middle Way |
-
-### Application
-
-The Perfect Zhiguan *embraces* all three wisdoms because it contemplates all three truths at once:
-
-> "One wisdom is three wisdoms. Three wisdoms are one wisdom. This is the meaning of *embracing*."
+[15][CN] 是故四章文四義二章意在一。  
+[15][EN] Thus four chapters with four textual divisions and two semantic tracks still carry one chapter-intent.
 
 ---
 
-## 4. Embracing Practice (*She Xing*)
+## Pass Status
 
-### The Two Kinds of Practice
-
-| Type | Chinese | Description |
-|---|---|---|
-| **Principal Practice** | 正行 | The main cultivation (i.e., the Ten Modes of Contemplation) |
-| **Auxiliary Practice** | 助行 | Supporting practices (precepts, repentance, etc.) |
-
-### Application
-
-The Perfect Zhiguan embraces both Principal and Auxiliary:
-
-> "Without the Auxiliary, the Principal lacks support. Without the Principal, the Auxiliary lacks direction. Both are embraced in one practice."
-
----
-
-## 5. Embracing Stages (*She Wei*)
-
-### The Six Identities (Reprise)
-
-| Stage | Chinese | Description |
-|---|---|---|
-| 1. Principle | 理即 | All beings are Buddha in principle. |
-| 2. Name | 名字即 | Hearing the teaching. |
-| 3. Contemplation | 觀行即 | Beginning to practice. |
-| 4. Resemblance | 相似即 | Approaching realization. |
-| 5. Partial Realization | 分真即 | Breaking ignorance. |
-| 6. Ultimate | 究竟即 | Full Buddhahood. |
-
-### Application
-
-The Perfect Zhiguan *embraces* all six stages because:
-
-> "From the first stage to the last, the practitioner is contemplating the same truth. The difference is only in the degree of clarity."
-
----
-
-## 6. Embracing Teachings (*She Jiao*)
-
-### The Four Teachings
-
-| Teaching | Chinese | Characteristic |
-|---|---|---|
-| **Tripiṭaka** | 藏教 | Analytical, gradual |
-| **Shared** | 通教 | Body-contemplating, shared with Hīnayāna |
-| **Distinct** | 別教 | Sequential Middle Way |
-| **Perfect** | 圓教 | Non-dual, immediate |
-
-### Application
-
-The Perfect Zhiguan *embraces* all four teachings because:
-
-> "The first three are not rejected. They are *opened* to reveal the Perfect that was always present."
-
-This is the principle of **開權顯實** (*kai quan xian shi* — "opening the expedient to reveal the real").
-
----
-
-## Summary
-
-The "Embracing the Dharmas" chapter shows that the Perfect Zhiguan is not one method among many. It is the *encompassing* method that:
-
-1.  Contains both Expedient and True Principle.
-2.  Transforms all three Delusions.
-3.  Includes all three Wisdoms.
-4.  Unifies Principal and Auxiliary Practice.
-5.  Spans all Six Stages.
-6.  Incorporates all Four Teachings.
-
-Nothing is left outside. This is why the *Mohe Zhiguan* is called "Great" (*Mo He* = Mahā).
-
----
-
-*End of Fascicle 2, Section 3*
+- Deepened Section 3 beyond structural placeholders with added contiguous source statements.
+- Next pass will target explicit extraction of the full 六義 sequence if located in a separate contiguous span.

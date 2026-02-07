@@ -23,6 +23,10 @@ If any file conflicts with another, follow this authority order.
 - Archive checkpoint in force: ARCHIVE-WENJU-2026-02-06
 - Restart policy: source-first only, no style-only pass before source lock
 
+### Tone Pass Tracker (Blues)
+
+- 2026-02-07 checkpoint: `Wenju_F05_Section_01_Blues.md` through `Wenju_F08_Section_50_Blues.md` drafted in sequence (Liner Notes register), linked contiguously from `Wenju_F04_Section_22_Blues.md`.
+
 ---
 
 ## Session Kickoff Checklist

@@ -1,143 +1,101 @@
-# Fascicle 2: Revealing the Body
-## What Is This Thing Made Of?
+# Fascicle 2, Section 2: Revealing the Body (Blues Draft)
+## Fourfold Body-Work in a Gospel-Moan Register
 
-**Translated by "The Luthier"**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## The Question
-
-You know the name. Now: **What's the body?**
-
-A guitar has a name. But the *body* is the wood, the bracing, the top, the back. The *essence* is what makes it *actually a guitar*.
-
-Same deal with Zhiguan. The name is "Calming and Contemplation." But what's the *substance*?
+**Register pass**: Blues Epistemology (fidelity-locked)  
+**Source**: T46n1912, `T1912_003.txt`  
+**Date**: February 7, 2026
 
 ---
 
-## The Four Ways to Reveal the Body
+## Opening Word
 
-| Angle | What It Shows |
-|---|---|
-| **1. Teaching Characteristics** | What doctrine describes this body? |
-| **2. Eye and Wisdom** | What senses perceive this body? |
-| **3. Object/Realm** | What's the body made of? |
-| **4. Attainment and Loss** | Who gets it? Who loses it? |
+After the name,
+we got to face the body.
 
----
+Not a slogan-body.
+Not a market-body.
+The revealed body of practice.
 
-## Angle 1: Teaching Characteristics (*Jiao Xiang*)
-
-### The Problem
-
-Every school has a "Zhiguan." But they're not the same:
-
-| Type | What It Is |
-|---|---|
-| **Secular** | Relaxation techniques. Stress relief. |
-| **Tripiṭaka** | Analytical meditation. Break things into parts. |
-| **Shared** | Body-watching. Calming the aggregates. |
-| **Distinct** | Sequential Middle Way. Step by step. |
-| **Perfect** | Non-dual. Immediate. This one. |
-
-### The Verdict
-
-The *Mohe Zhiguan* is **Perfect Teaching only**. Everything else is either:
-1.  Included in the Perfect (like a single note is included in a chord).
-2.  Or "opened" to reveal it was Perfect all along.
-
-> "Calling every mineral 'gold' doesn't make it gold. Only the Perfect Teaching reveals the true body."
+Teaching points it.
+Practice bears it.
+Principle receives it.
 
 ---
 
-## Angle 2: Eye and Wisdom (*Yan Zhi*)
+## Fourfold Frame
 
-### The Five Eyes
+This body-work is opened in four sections,
+with one intention running through all four.
 
-| Eye | What It Sees |
-|---|---|
-| **Flesh Eye** | Physical forms. Limited. |
-| **Heavenly Eye** | Subtle forms. Far away. |
-| **Wisdom Eye** | Emptiness. The nothing. |
-| **Dharma Eye** | Conventional truth. The something. |
-| **Buddha Eye** | The Middle. Both and neither. |
-
-### The Three Wisdoms
-
-| Wisdom | What It Knows |
-|---|---|
-| **All-Knowing** | Emptiness. |
-| **Path Wisdom** | Conventional methods. |
-| **All-Mode Wisdom** | The Middle. Non-dual. |
-
-### The Verdict
-
-The *Mohe Zhiguan* aims for the **Buddha Eye** and the **All-Mode Wisdom**. But here's the thing: The Buddha Eye *contains* all five. The All-Mode Wisdom *contains* all three.
-
-> "You're not replacing the other eyes. You're seeing with all of them at once."
+Text may split,
+meanings may fork,
+but the road stays one.
 
 ---
 
-## Angle 3: Object/Realm (*Jing Jie*)
+## First Turn: Teaching-Characteristics
 
-### The Three Truths
+Name by itself is broad,
+running across ordinary and sage,
+large and small,
+partial and complete.
 
-| Truth | What It Means |
-|---|---|
-| **Emptiness** | Everything is empty of fixed nature. |
-| **Conventional** | Everything is provisionally real. |
-| **Middle** | Neither empty nor real. Both and neither. |
+So the text says:
+we cannot stop at naming.
+We have to distinguish the marks.
 
-### The Kicker
-
-In the Perfect Teaching, **these three are not three**.
-
-> "Emptiness is Conventional. Conventional is Middle. Middle is Emptiness. Same body, three angles."
-
-### The Dharma-Nature
-
-The ultimate "body" of Zhiguan is **Dharma-nature** (*Fa Xing*). Also called:
--   **Suchness** (*Zhen Ru*)
--   **True Characteristic** (*Shi Xiang*)
--   **Dharma-realm** (*Fa Jie*)
-
-> "It's not inside. Not outside. Not born. Not destroyed. Not pure. Not impure. It's the body that Zhiguan reveals."
+That distinguishing work
+is called teaching-characteristics.
 
 ---
 
-## Angle 4: Attainment and Loss (*De Shi*)
+## Second Turn: Eye-Wisdom as Revealing Agency
 
-### Who Gets It?
+Teaching is the saying side.
+Practice is the revealing side.
+Principle is what gets revealed.
 
--   **Winners**: Those who follow the Perfect Teaching. Who use the Buddha Eye. Who don't cling to technique.
--   **Losers**: Those who mistake the partial for the whole. Who stay in the Relative. Who never enter the Absolute.
-
-### The Grades (Six Identities Again)
-
-| Grade | Description |
-|---|---|
-| **Blueprint** | Everyone already has the body. (Principle) |
-| **First Class** | Some hear the teaching. (Name) |
-| **First Cuts** | Some start practicing. (Contemplation) |
-| **Getting Closer** | Some see a resemblance. (Resemblance) |
-| **Breakthrough** | Some break through. (Partial Realization) |
-| **Master** | Buddha alone has fully realized it. (Ultimate) |
+So the order stands:
+teaching first,
+eye-wisdom second,
+realm next,
+then gain-and-loss for self and others.
 
 ---
 
-## Luthier's Verdict
+## Third Turn: Body and Characteristic Held Together
 
-The "body" of Zhiguan is:
+"Body" means the truth-principle interpreted.
+"Characteristic" means distinctions named in teaching-work.
 
--   **The doctrine**: Perfect Teaching.
--   **The senses**: Buddha Eye, All-Mode Wisdom.
--   **The material**: The Three Truths as one.
--   **The attainment**: Measured by the Six Identities.
+Don’t split them into enemies.
+The point is not argument-sport.
+The point is revealing what practice is carrying.
 
-If you're building a guitar, you need to know the wood. If you're practicing Zhiguan, you need to know the body.
+---
 
-Now you know.
+## Fourth Turn: One Intent Through Four Sections
 
-**END OF TAPE**
+Many mouths,
+one burden.
+
+Four chapter-movements,
+not four separate roads.
+
+So this section keeps saying:
+what is interpreted,
+what interprets,
+and who gains or loses,
+all get read together.
+
+---
+
+## Closing Moan
+
+The body is not reached by title alone.
+The body is revealed where teaching and practice meet.
+
+If we cling to names,
+we stay outside.
+If we walk the fourfold reveal,
+we step inside the work.

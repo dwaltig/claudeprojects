@@ -1,144 +1,98 @@
-# Fascicle 2: Embracing the Dharmas
-## How This Guitar Contains Every Song
+# Fascicle 2, Section 3: Embracing the Dharmas (Blues Draft)
+## One Road Holding Many Gates
 
-**Translated by "The Luthier"**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## The Question
-
-You've got the name. You've got the body. Now: **How does this thing relate to everything else?**
-
-Is Zhiguan one technique among many? Or does it *contain* all techniques?
-
-Answer: **It contains everything.**
+**Register pass**: Blues Epistemology (fidelity-locked)
+**Source**: T46n1912, `T1912_003.txt`
+**Date**: February 7, 2026
 
 ---
 
-## The Six Ways Zhiguan "Embraces" Everything
+## Opening Word
 
-| Category | What It Embraces |
-|---|---|
-| **1. Principle** | The ultimate truth (and the partial truths) |
-| **2. Delusion** | All the afflictions |
-| **3. Wisdom** | All kinds of knowing |
-| **4. Practice** | All methods of cultivation |
-| **5. Stages** | All levels of attainment |
-| **6. Teachings** | All doctrinal categories |
+Name marks the name.
+Body reveals the body.
+Then this turn asks:
+what dharmas does that body embrace?
 
----
-
-## 1. Embracing Principle (*She Li*)
-
-**Two kinds of principle:**
-
-| Type | What It Is |
-|---|---|
-| **Expedient** | The partial truths. Emptiness. Conventional. |
-| **True** | The complete truth. The Middle Way. |
-
-**The verdict:** You don't throw out the partial to get the complete. The partial *is* the complete, seen clearly.
-
-> "The wrong notes are part of the right song. They just need to be heard correctly."
+Answer:
+not one corner.
+The whole field.
 
 ---
 
-## 2. Embracing Delusion (*She Huo*)
+## From Understanding into Practice
 
-**Three kinds of delusion:**
+This chapter says contemplation is not random.
+Contemplation rises from understanding.
 
-| Delusion | What It Hides |
-|---|---|
-| **View/Thought** | True Emptiness. The basic suffering stuff. |
-| **Dust-and-Sand** | Conventional Truth. The "how to help others" stuff. |
-| **Ignorance** | The Middle Way. The deep root. |
+Name and body,
+partial and complete,
+all of that belongs to understanding-work.
 
-**The verdict:** You don't break them one at a time. You transform them all at once.
+From understanding, practice gets established.
+From practice as cause,
+fruit appears as result.
 
-> "You don't fix one string while the others are still buzzing. You tune the whole guitar."
-
----
-
-## 3. Embracing Wisdom (*She Zhi*)
-
-**Three kinds of wisdom:**
-
-| Wisdom | What It Knows |
-|---|---|
-| **All-Knowing** | Emptiness. |
-| **Path Wisdom** | Conventional methods. |
-| **All-Mode Wisdom** | The Middle. Non-dual. |
-
-**The verdict:** One wisdom is three. Three are one.
-
-> "The treble, the bass, and the midrange are all *sound*."
+So the order stands:
+understanding first,
+proper contemplation next,
+fruit-result after.
 
 ---
 
-## 4. Embracing Practice (*She Xing*)
+## On Relative and Absolute, Sequence and Non-Sequence
 
-**Two kinds of practice:**
+In naming-work,
+we speak in relative and absolute language.
 
-| Type | What It Is |
-|---|---|
-| **Principal** | The main event. The Ten Modes of Contemplation. |
-| **Auxiliary** | The supporting stuff. Precepts, repentance, etc. |
+In body-characteristics,
+we speak in sequence and non-sequence language.
 
-**The verdict:** You need both.
+In embracing-dharmas,
+six meanings are carried.
+In partial/complete,
+five gates are carried.
 
-> "You can't play a solo without the rhythm section. And the rhythm section is nothing without the solo."
-
----
-
-## 5. Embracing Stages (*She Wei*)
-
-**Six Identities (again):**
-
-| Stage | What It Means |
-|---|---|
-| **Blueprint** | You already have it. |
-| **First Class** | You hear about it. |
-| **First Cuts** | You start doing it. |
-| **Getting Closer** | You're almost there. |
-| **Breakthrough** | You break through. |
-| **Master** | You've fully realized it. |
-
-**The verdict:** All six stages are contemplating the same truth. The difference is clarity.
-
-> "The beginner and the master both play the guitar. The master just hears what the beginner can't."
+Forms differ.
+Intent does not split.
 
 ---
 
-## 6. Embracing Teachings (*She Jiao*)
+## One Intent Through Four Segments
 
-**Four Teachings:**
+Text is fourfold.
+Meanings run in two tracks.
+Intent is one.
 
-| Teaching | What It Is |
-|---|---|
-| **Tripiṭaka** | Analytical. Break things into parts. |
-| **Shared** | Body-watching. Shared with the small vehicle. |
-| **Distinct** | Sequential Middle Way. Step by step. |
-| **Perfect** | Non-dual. Immediate. This one. |
+Words may say two.
+The burden lands in one.
 
-**The verdict:** The first three aren't rejected. They're *opened* to reveal the Perfect.
-
-> "The student's version of the song isn't wrong. It's just incomplete. The master hears the complete song even in the student's playing."
+What is revealed is one.
+Revealing agencies are three.
+Still, one meaning.
+Still, one intent.
 
 ---
 
-## Luthier's Verdict
+## Teaching-Characteristic and Eye-Wisdom
 
-This guitar contains every song.
+The body is what gets revealed.
+Teaching-characteristic and eye-wisdom reveal it.
 
--   **Principle**: Both partial and complete truths.
--   **Delusion**: All afflictions, transformed.
--   **Wisdom**: All kinds of knowing, unified.
--   **Practice**: Main and supporting, together.
--   **Stages**: All levels, same truth.
--   **Teachings**: All doctrines, opened.
+Name-section leans toward absolute-relativity.
+Body-section leans toward realm.
 
-That's why it's called "Great" (*Mo He* = Mahā). Nothing is left outside.
+Different emphasis,
+same work:
+bring principle into seeing.
 
-**END OF TAPE**
+---
+
+## Closing Moan
+
+Don’t grab one sentence
+and call that the whole mountain.
+
+This text does not praise fragments.
+It gathers the whole teaching-body
+so wondrous contemplation can stand.

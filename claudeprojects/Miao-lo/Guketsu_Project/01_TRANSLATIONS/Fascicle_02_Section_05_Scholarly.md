@@ -1,161 +1,72 @@
-# Fascicle 2: Skillful Means (*Fang Bian*)
-## The Twenty-Five Preparatory Conditions (方便 / 二十五方便)
+# Fascicle 2, Section 5: Skillful Means (Source-Aligned Draft)
+## Scholarly Translation (Compiler Loop Pass 2)
 
-**Translated by [Your Name/Persona]**
-**Date**: January 23, 2026
-**Source**: The "Repair Manual" (T46n1912)
-
----
-
-## Introduction: Why Preparations?
-
-The sixth of the Ten Chapters is **方便** (*Fang Bian* — "Skillful Means" or "Preliminaries"). Before the practitioner can enter the formal contemplation (*Zheng Guan*), certain conditions must be established.
-
-Miao-lo explains that these are the **Twenty-Five Preparatory Conditions** (二十五方便 *Er Shi Wu Fang Bian*), organized into **five groups of five**:
-
-| Group | Chinese | English | Function |
-|---|---|---|---|
-| 1 | **具五緣** | **Fulfilling Five Conditions** | External supports |
-| 2 | **訶五欲** | **Rejecting Five Desires** | Removing gross obstacles |
-| 3 | **棄五蓋** | **Abandoning Five Hindrances** | Removing subtle obstacles |
-| 4 | **調五事** | **Regulating Five Matters** | Balancing body and mind |
-| 5 | **行五法** | **Practicing Five Dharmas** | Cultivating the mind |
+**Source**: T46n1912, `T1912_004.txt`  
+**Boundary mapping**: Source lines 13, 53, 55 (twenty-five expedient means and fivefold clusters)  
+**Translator**: William Altig / Claude  
+**Date**: February 7, 2026
 
 ---
 
-## Group 1: Fulfilling Five Conditions (*Ju Wu Yuan*)
+## Source-Aligned Bilingual Block
 
-These are the **external supports** necessary for practice:
+[01][CN] 釋二十五方便。初且通明漸頓二種。次今就下。方始別明今文方便。  
+[01][EN] Explaining the twenty-five expedient means: first broadly clarifying two kinds, gradual and sudden; then specifically clarifying the expedients of this text.
 
-| # | Chinese | English | Description |
-|---|---|---|---|
-| 1 | **持戒清淨** | Pure Precepts | Moral discipline must be intact |
-| 2 | **衣食具足** | Sufficient Clothing/Food | Basic needs must be met |
-| 3 | **閑居靜處** | Quiet Dwelling | A peaceful place to practice |
-| 4 | **息諸緣務** | Cessation of Affairs | Worldly business must be set aside |
-| 5 | **近善知識** | Proximity to Good Teachers | Access to qualified guidance |
+[02][CN] 初文通論頓方便者。初釋名云善巧。  
+[02][EN] In the initial broad discussion of sudden expedients, the first explanation of name says "skillful adeptness."
 
-> "Without these five, the practitioner is like a bird trying to fly without wings."
+[03][CN] 迴向令成妙因故名善巧。  
+[03][EN] Because dedication-and-transfer makes these become wondrous causes, it is called skillful adeptness.
 
----
+[04][CN] 以種智導。毫善不停。能過二乘極果之上。  
+[04][EN] Guided by all-mode wisdom, even tiny goodness does not stop short and can pass beyond the terminal fruit of the two vehicles.
 
-## Group 2: Rejecting Five Desires (*He Wu Yu*)
+[05][CN] 方便下重釋也。以善能和合故名方便。  
+[05][EN] "Expedient means" is then re-explained: because skillfully harmonizing is possible, it is called expedient means.
 
-These are the **gross obstacles** arising from the five sense-objects:
+[06][CN] 若為果立因。因立必能剋果。故號剋果之因名為和合取果。  
+[06][EN] If a cause is established for fruit, that cause must obtain fruit; therefore this fruit-obtaining cause is called harmonized fruit-taking.
 
-| # | Chinese | English | Object |
-|---|---|---|---|
-| 1 | **色** | Forms | Visual objects |
-| 2 | **聲** | Sounds | Auditory objects |
-| 3 | **香** | Smells | Olfactory objects |
-| 4 | **味** | Tastes | Gustatory objects |
-| 5 | **觸** | Touches | Tactile objects |
+[07][CN] 今文二十五法。和合調停方得成。於圓初住因。剋妙覺果。  
+[07][EN] In this text, only by harmonizing and regulating these twenty-five factors can one establish causes for initial abiding in the Perfect and obtain wondrous awakening fruit.
 
-### The Practice
+[08][CN] 十種者即十境也。若觀若發入品非遙。故名為近。二十五法去真遙故。故名為遠。  
+[08][EN] The ten kinds are the ten objects: through contemplation and manifestation, entry into grade is not far, thus called near; the twenty-five factors are farther from true attainment, thus called distant.
 
-"Rejecting" (*he* 訶) does not mean "hating." It means:
-1.  **Recognizing** the desire when it arises.
-2.  **Understanding** that the object is not inherently pleasurable.
-3.  **Releasing** the attachment without suppression.
+[09][CN] 初列五科。次生起。即以初住名為所在。  
+[09][EN] First the five categories are listed, then their generative sequence; initial abiding is identified as destination.
 
-> "The desires are like salt water. The more you drink, the thirstier you become."
+[10][CN] 譬如下舉譬以譬五科。  
+[10][EN] Next, analogies are raised to illustrate the five categories.
 
----
+[11][CN] 初譬具緣。息餘下譬訶欲。雖息下譬棄蓋。身雖下譬五事。上緣下譬五法。  
+[11][EN] First analogy illustrates complete conditions; "ceasing what remains" illustrates rebuking desires; "though ceased" illustrates abandoning hindrances; "though the body..." illustrates the five matters; "upper condition..." illustrates the five dharmas.
 
-## Group 3: Abandoning Five Hindrances (*Qi Wu Gai*)
+[12][CN] 止觀下合。具合五科。  
+[12][EN] Under zhiguan, the analogy is matched and all five categories are fully joined.
 
-These are the **subtle obstacles** that obstruct concentration:
+[13][CN] 第四調五事者文義同前。文相又二。所謂開合。  
+[13][EN] Fourth, regulating five matters: text and meaning follow the earlier pattern, with two textual modes, opening and combining.
 
-| # | Chinese | English | Effect |
-|---|---|---|---|
-| 1 | **貪欲蓋** | Desire | Attachment to pleasant objects |
-| 2 | **瞋恚蓋** | Aversion | Hostility toward unpleasant objects |
-| 3 | **睡眠蓋** | Sloth/Torpor | Dullness and drowsiness |
-| 4 | **掉悔蓋** | Restlessness/Regret | Agitation and remorse |
-| 5 | **疑蓋** | Doubt | Uncertainty about the teaching |
+[14][CN] 第五行五法者。文義同前而不分事理。  
+[14][EN] Fifth, practicing five dharmas: text and meaning follow the same pattern but are not divided into matter and principle.
 
-### The Practice
+[15][CN] 若無樂欲希慕。若無身心苦策。若無念想。若無方便。若無一心。止觀合正行不成。  
+[15][EN] Without aspiration, bodily/mental exertion, mindfulness, expedient method, and one-pointedness, proper zhiguan practice is not accomplished.
 
-Each hindrance has a specific antidote:
+[16][CN] 若能欣習無厭。若能曉夜匪懈。若能念念相續。若能善得其意。若能一心無異。  
+[16][EN] If one can delight in cultivation without fatigue, remain diligent day and night, sustain thought after thought, skillfully grasp intended meaning, and keep one-pointed non-divergence,
 
-| Hindrance | Antidote |
-|---|---|
-| Desire | Contemplation of impurity |
-| Aversion | Contemplation of loving-kindness |
-| Sloth | Contemplation of light |
-| Restlessness | Contemplation of tranquility |
-| Doubt | Contemplation of dependent origination |
+[17][CN] 此人下合正行成就。  
+[17][EN] then proper practice is fulfilled in that person.
 
-> "The hindrances are like clouds covering the sun. The sun is always there; it is the clouds that must be dispersed."
+[18][CN] 世間淺事謂界內禪定。尚須二十五法而為方便。何況出世圓頓之道。  
+[18][EN] Even shallow worldly matters, namely meditative states within the realm, still require these twenty-five as expedients, all the more so for the supramundane Perfect-Sudden path.
 
 ---
 
-## Group 4: Regulating Five Matters (*Tiao Wu Shi*)
+## Pass Status
 
-These are the **body-mind adjustments** that balance the practitioner:
-
-| # | Chinese | English | Description |
-|---|---|---|---|
-| 1 | **調食** | Regulating Food | Neither too much nor too little |
-| 2 | **調睡** | Regulating Sleep | Neither excessive nor deficient |
-| 3 | **調身** | Regulating Body | Correct posture |
-| 4 | **調息** | Regulating Breath | Smooth and even breathing |
-| 5 | **調心** | Regulating Mind | Neither tense nor slack |
-
-### The Practice
-
-The metaphor is a stringed instrument:
--   **Too tight** → The string breaks.
--   **Too loose** → No sound.
--   **Just right** → The music plays.
-
-> "The practitioner is like a lute-player. The strings must be tuned before the music can be played."
-
----
-
-## Group 5: Practicing Five Dharmas (*Xing Wu Fa*)
-
-These are the **mental qualities** that must be cultivated:
-
-| # | Chinese | English | Description |
-|---|---|---|---|
-| 1 | **欲** | Aspiration | The wish to attain the goal |
-| 2 | **精進** | Effort | Continuous diligence |
-| 3 | **念** | Mindfulness | Non-forgetfulness |
-| 4 | **巧慧** | Skillful Wisdom | Discrimination between wholesome and unwholesome |
-| 5 | **一心** | One-pointedness | Unified concentration |
-
-### The Practice
-
-These five are progressive:
-1.  **Aspiration** motivates the practitioner to begin.
-2.  **Effort** sustains the practice.
-3.  **Mindfulness** prevents distraction.
-4.  **Skillful Wisdom** guides the choices.
-5.  **One-pointedness** is the result.
-
-> "Without aspiration, there is no beginning. Without one-pointedness, there is no completion."
-
----
-
-## Summary Table
-
-| Group | Focus | 5 Items |
-|---|---|---|
-| **1. Conditions** | External | Precepts, Clothing/Food, Quiet Place, No Affairs, Good Teachers |
-| **2. Desires** | Gross Obstacles | Forms, Sounds, Smells, Tastes, Touches |
-| **3. Hindrances** | Subtle Obstacles | Desire, Aversion, Sloth, Restlessness, Doubt |
-| **4. Matters** | Balance | Food, Sleep, Body, Breath, Mind |
-| **5. Dharmas** | Cultivation | Aspiration, Effort, Mindfulness, Wisdom, One-pointedness |
-
----
-
-## The Practical Implication
-
-These 25 preparations are not optional. They are the **foundation** upon which the Ten Modes of Contemplation are built.
-
-> "To skip the preparations is to build a house on sand."
-
----
-
-*End of Fascicle 2, Section 5*
+- Deepened Section 5 with additional contiguous lines and clearer five-cluster mapping.
+- Next pass will extend into full line-by-line treatment of each of the 25 items.
