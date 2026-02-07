@@ -121,3 +121,8 @@ This section is a gatekeeper. Zhiyi does not let us enter Track 2 with sloppy ca
 - [x] Polemical structure preserved (both absolutist positions tested and rejected).
 - [x] Root metaphor sustained (Liner Notes / listening guide; no Repair Shop drift).
 - [x] Doctrinal terms retained where precision is required (phantom city, prediction, provisional/real).
+
+---
+
+**Previous**: `Wenju_F04_Opening_Blues.md`  
+**Next**: `Wenju_F04_Section_02_Blues.md`
