@@ -3,7 +3,7 @@
 **Source:** Taishō Tripiṭaka Vol. 34, No. 1718 (CBETA Edition)
 **Translator:** The Professor (Zhiyi Protocol)
 **Method:** Tiantai Translation Protocol — No-Omission, Bilingual, Passage-by-Passage
-**Status:** IN PROGRESS
+**Status:** SOURCE-LOCKED (COMPLETE)
 
 > **Translation Protocol:** Every phrase of the Classical Chinese source is translated without summarization. All Question/Answer (問曰/答曰) structures preserved in full. All logical markers (卽, 以此文意, etc.) retained. Bilingual format: Chinese followed by English.
 

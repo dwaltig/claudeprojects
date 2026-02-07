@@ -53,19 +53,19 @@
 
 | Fascicle | Content (Chapters) | Status | Architect (Scholarly) | Practitioner (Blues) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Chapters 1 | COMPLETED | [F1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_01_Scholarly_Complete.md) | [F1](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_01_Practitioner.md) |
-| 2 | Chapter 2 | COMPLETED | [F2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_02_Scholarly.md) | [F2](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_02_Practitioner.md) |
-| 3 | Chapter 3 (Part 1) | COMPLETED | [F3](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_03_Scholarly.md) | [F3](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_03_Practitioner.md) |
-| 4 | Chapter 3 (Part 2) | COMPLETED | [F4](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_04_Scholarly.md) | [F4](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_04_Practitioner.md) |
-| 5 | Chapter 3 (Part 3) | COMPLETED | [F5](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_05_Scholarly.md) | [F5](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_05_Practitioner.md) |
-| 6 | Chapters 3 (End) & 4 | COMPLETED | [F6](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_06_Scholarly.md) | [F6](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_06_Practitioner.md) |
-| 7 | Chapters 5, 6, 7 | COMPLETED | [F7](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_07_Scholarly.md) | [F7](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_07_Practitioner.md) |
-| 8 | Chapters 8, 9, 10 | COMPLETED | [F8](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_08_Scholarly.md) | [F8](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_08_Practitioner.md) |
-| 9 | Chapters 11, 12, 13 | COMPLETED | [F9](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_09_Scholarly.md) | [F9](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_09_Practitioner.md) |
-| 10 | Chapters 14 - 28 (Selected) | COMPLETED | [F10](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Wenju_Fascicle_10_Scholarly.md) | [F10](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_10_Practitioner.md) |
+| 1 | Chapters 1 | COMPLETED | [F1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_01_FULL_Scholarly.md) | [F1](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_01_Practitioner.md) |
+| 2 | Chapter 2 | COMPLETED | [F2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_02_FULL_Scholarly.md) | [F2](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_02_Practitioner.md) |
+| 3 | Chapter 3 (Part 1) | COMPLETED | [F3 Part 1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_03_Part1_Scholarly.md) / [F3 Part 2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_03_Part2_Scholarly.md) | [F3](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_03_Practitioner.md) |
+| 4 | Chapter 3 (Part 2) | COMPLETED | [F4 Part 1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_04_Part1_Scholarly.md) / [F4 Part 2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_04_Part2_Scholarly.md) | [F4](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_04_Practitioner.md) |
+| 5 | Chapter 3 (Part 3) | COMPLETED | [F5](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_05_FULL_Scholarly.md) | [F5](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_05_Practitioner.md) |
+| 6 | Chapters 3 (End) & 4 | COMPLETED | [F6 Part 1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_06_Part1_Scholarly.md) / [F6 Part 2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_06_Part2_Scholarly.md) | [F6](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_06_Practitioner.md) |
+| 7 | Chapters 5, 6, 7 | COMPLETED | [F7 Part 1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_07_Part1_Scholarly.md) / [F7 Part 2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_07_Part2_Scholarly.md) | [F7](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_07_Practitioner.md) |
+| 8 | Chapters 8, 9, 10 | COMPLETED | [F8 Part 1](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_08_Part1_Scholarly.md) / [F8 Part 2](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_08_Part2_Scholarly.md) | [F8](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_08_Practitioner.md) |
+| 9 | Chapters 11, 12, 13 | COMPLETED | [F9](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_09_FULL_Scholarly.md) | [F9](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_09_Practitioner.md) |
+| 10 | Chapters 14 - 28 (Selected) | COMPLETED | [F10](../01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_10_FULL_Scholarly.md) | [F10](../01_TRANSLATIONS/The_Words_and_Phrases/Practitioner/Wenju_Fascicle_10_Practitioner.md) |
 
 ---
-*Last Updated: January 26, 2026*
-**Volume I & II Complete.**
+*Last Updated: February 7, 2026*
+**Wenju source-locked corpus complete through Fascicle 10.**
 
 ---
