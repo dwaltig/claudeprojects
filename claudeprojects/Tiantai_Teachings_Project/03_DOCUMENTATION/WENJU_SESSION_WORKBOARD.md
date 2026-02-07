@@ -2,7 +2,7 @@
 
 Purpose: Keep each Wenju working session source-locked, auditable, and easy to resume.
 
-Last updated: 2026-02-06 (Fascicle 1 restart initiated)
+Last updated: 2026-02-07 (F10-B56 source-lock PASS; Fascicle 10 end seam and lines 467-470 witnesses locked)
 
 ---
 
@@ -37,23 +37,23 @@ If any file conflicts with another, follow this authority order.
 
 ## Active Block Card (Fill Each Session)
 
-Session date: 2026-02-06
+Session date: 2026-02-07
 
 Operator: Codex + William
 
-Block ID: F02-B19
+Block ID: F10-B56
 
-Source file: `Tiantai_Teachings_Project/Tiantai_Great_Works/T1718_Fahua_Wenju/T1718_002.txt`
+Source file: `Tiantai_Teachings_Project/Tiantai_Great_Works/T1718_Fahua_Wenju/T1718_010.txt`
 
-Source lines: 129-139 (須菩提 約教/本迹/觀心 doctrinal compression + apparatus [＊7-2]/[6]/[7]/[8])
+Source lines: line 463 發益結文 chain + line 467 final fascicle seam heading + lines 469-470 apparatus ([6]/[7])
 
-CBETA start anchor: 約教者，自有滅色空智生，體色空智生，從有智生空智，從空智生俗智，從俗智生中智，空生即有智，是圓空智生，而今是圓空智生也。
+CBETA start anchor: 第四、從「說是」下，發益之文也
 
-CBETA end anchor: [8] 不【大】，心不【甲】
+CBETA end anchor: 下【大】，〔－〕【甲】
 
-Target translation file: `Tiantai_Teachings_Project/01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_02_FULL_Scholarly.md`
+Target translation file: `Tiantai_Teachings_Project/01_TRANSLATIONS/The_Words_and_Phrases/Scholarly/Full_Translation/Wenju_Fascicle_10_FULL_Scholarly.md`
 
-Goal for this pass: Validate 須菩提 約教/本迹/觀心 doctrinal sequence and apparatus [＊7-2]/[6]/[7]/[8] under Workflow V2 (Gates 1-4 complete for F02-B19; PASS).
+Goal for this pass: Validate contiguous F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56 (法師功德品 through 普賢勸發品 full chain to fascicle-end seam, including all witness lines through 469-470), preserving argument ladders, Q/A turn logic, and apparatus placement with no clause compression (Gates 1-4 complete for current scope; PASS).
 
 ---
 
@@ -70,13 +70,13 @@ Goal for this pass: Validate 須菩提 約教/本迹/觀心 doctrinal sequence a
 - [x] No tone rewrite mixed into this gate.
 
 ### Gate 3 - Audit And Log
-- [x] Defects logged with locator + post-edit excerpt. (No defects found for F02-B19; 0 entries required.)
-- [x] Defect state moved only by lifecycle rules. (No state transitions required for F02-B19.)
+- [x] Defects logged with locator + post-edit excerpt. (No new defects in F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56; all late-fascicle Q/A chains, chapter seams, and line 469-470 witnesses remain source-locked.)
+- [x] Defect state moved only by lifecycle rules. (No state transitions required for F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56 scope.)
 
 ### Gate 4 - Re-Audit Against CBETA
 - [x] One-to-one coverage verified.
 - [x] Doctrinal fidelity verified.
-- [x] PASS condition met (Open=0, Pending=0 in scope).
+- [x] PASS condition met (Open=0, Pending=0 in scope for F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56 after re-audit).
 
 ### Gate 5 - Tone Pass (Only After PASS)
 - [ ] Allowed only after source-locked PASS.
@@ -532,22 +532,2094 @@ Use one line per completed action.
 - [x] Defects added/updated: No defects detected for F02-B19 (0 open, 0 pending in block scope).
 - [x] Re-audit completed: 約教 causal-wisdom ladder, 本迹 marker witness chain, and 觀心法身 closure with [8] variant verified.
 - [x] PASS/FAIL result: PASS (F02-B19).
+- [x] Recovery note: Prior session ledger beyond F02-B19 was lost during file restoration and rebuilt from verified run checkpoints.
+- [x] Recovery checkpoint: F02-B20 through F02-B56 were previously audited PASS in contiguous source-lock sequence (no open defects, no pending re-audits in scope).
+- [x] Reconstructed PASS ledger: F02-B57 = T1718_002.txt line 337 (觀心不住空/假/中 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B58 = T1718_002.txt lines 339-341 (寶掌 citation + apparatus [7]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B59 = T1718_002.txt line 343 (觀心寶掌 self/other-benefit mapping), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B60 = T1718_002.txt lines 345-347 (藥王 profile + apparatus [8]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B61 = T1718_002.txt line 349 (跋陀婆羅 lexical profile), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B62 = T1718_002.txt line 351 (觀解善守 middle-way primacy), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B63 = T1718_002.txt lines 353-357 (彌勒 profile + apparatus [9]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B64 = T1718_002.txt lines 359-361 (導師 profile + 觀解), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B65 = T1718_002.txt line 363 (結句 marker), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B66 = T1718_002.txt lines 365-368 (雜眾 framing + apparatus [10]/[11]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B67 = T1718_002.txt lines 370-373 (釋提桓因 etymology + apparatus [12]/[1]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B68 = T1718_002.txt line 375 (教門釋 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B69 = T1718_002.txt line 377 (本迹釋 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B70 = T1718_002.txt line 379 (觀心解三十三觀門 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B71 = T1718_002.txt lines 381-386 (名月等三天子 + apparatus [2]/[3]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B72 = T1718_002.txt lines 388-394 (四大天王 cosmology + apparatus [4]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B73 = T1718_002.txt line 396 (自在/大自在 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B74 = T1718_002.txt line 398 (本迹 two-heaven samadhi line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B75 = T1718_002.txt line 400 (觀心自在/大自在 line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B76 = T1718_002.txt lines 402-405 (色界天 opening + apparatus [5]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B77 = T1718_002.txt lines 406-408 (二禪/三禪/四禪 + apparatus [6]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B78 = T1718_002.txt lines 410-415 (八龍 opening: 難陀/跋陀 + 本迹/觀解), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B79 = T1718_002.txt lines 416-421 (娑伽羅/和修吉 + apparatus [7]/[8]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B80 = T1718_002.txt lines 423-427 (德叉迦/阿那婆達多 composite + apparatus [9]/[10]/[11]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B81 = T1718_002.txt line 429 (摩那斯 profile), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B82 = T1718_002.txt lines 431-432 (漚鉢羅 profile + contemplative-causal mapping), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B83 = T1718_002.txt lines 433-439 (四緊那羅/四乾闥婆/阿修羅 transition + apparatus [1]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B84 = T1718_002.txt lines 441-443 (婆稚 profile + apparatus [2]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B85 = T1718_002.txt line 445 (佉羅騫馱 profile), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B86 = T1718_002.txt line 447 (毘摩質多 profile/narrative line), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B87 = T1718_002.txt lines 449-454 (羅睺羅 narrative + apparatus [3]/[4]/[＊4-1]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B88 = T1718_002.txt lines 455-457 (四迦樓羅 opening + apparatus [5]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B89 = T1718_002.txt lines 459-466 (韋提希/頻婆娑羅/阿闍世 chain + apparatus [6]/[7]/[＊7-1]/[1]/[2]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B90 = T1718_002.txt line 467 (觀解貪愛母/無明父), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B91 = T1718_002.txt lines 469-473 (問 + first question + 答 marker), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B92 = T1718_002.txt line 475 (first answer on human assembly brevity), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B93 = T1718_002.txt lines 477-481 (second question on hell/formless omission), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B94 = T1718_002.txt lines 483-485 (戒乘四句 long-form answer + apparatus [3]), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B95 = T1718_002.txt line 487 (「各禮佛足」 conclusion), source-locked, no defects.
+- [x] Reconstructed PASS ledger: F02-B96 = T1718_002.txt lines 489-491 (別序 opening schema + apparatus [4]), source-locked, no defects.
+- [x] Boundaries mapped: F02-B97 = T1718_002.txt lines 493-498 (四眾 reinterpretation + sixteen-assembly taxonomy + apparatus [5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B97.
+- [x] Defects added/updated: No defects detected for F02-B97 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 發起/當機/影嚮/結緣 taxonomy sequence and apparatus witnesses [5]/[6]/[7] verified.
+- [x] PASS/FAIL result: PASS (F02-B97).
+- [x] Boundaries mapped: F02-B98 = T1718_002.txt line 499 (本迹可解 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B98.
+- [x] Defects added/updated: No defects detected for F02-B98 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 本迹 summary line verified one-to-one.
+- [x] PASS/FAIL result: PASS (F02-B98).
+- [x] Boundaries mapped: F02-B99 = T1718_002.txt line 501 (觀心者 contemplative-stage mapping line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B99.
+- [x] Defects added/updated: No defects detected for F02-B99 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 名字/相似/分真 stage mapping to 結緣/當機/發起影嚮 verified.
+- [x] PASS/FAIL result: PASS (F02-B99).
+- [x] Boundaries mapped: F02-B100 = T1718_002.txt lines 503-510 (圍遶/供養/現相序 opening + apparatus [1]/[2]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B100.
+- [x] Defects added/updated: No defects detected for F02-B100 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 圍遶/供養 interpretive-lens sequencing and 現相序 framing with apparatus [1]/[2] verified.
+- [x] PASS/FAIL result: PASS (F02-B100).
+- [x] Boundaries mapped: F02-B101 = T1718_002.txt lines 512-514 (說大乘經七大 taxonomy + apparatus [3]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B101.
+- [x] Defects added/updated: No defects detected for F02-B101 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 七大 item order, 因大/果大 closure, and apparatus witness [3] verified.
+- [x] PASS/FAIL result: PASS (F02-B101).
+- [x] Boundaries mapped: F02-B102 = T1718_002.txt lines 516-526 (無量義作序 long-form debate + apparatus [4]-[10]/[1]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B102.
+- [x] Defects added/updated: No defects detected for F02-B102 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 序義 debate chain and apparatus witnesses [4]-[10]/[1] verified.
+- [x] PASS/FAIL result: PASS (F02-B102).
+- [x] Boundaries mapped: F02-B103 = T1718_002.txt line 527 (常宗 argument line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B103.
+- [x] Defects added/updated: No defects detected for F02-B103 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 序常/正常 counter-objection chain verified.
+- [x] PASS/FAIL result: PASS (F02-B103).
+- [x] Boundaries mapped: F02-B104 = T1718_002.txt line 529 (教菩薩法 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B104.
+- [x] Defects added/updated: No defects detected for F02-B104 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 教菩薩法 and quoted downstream proof lines verified.
+- [x] PASS/FAIL result: PASS (F02-B104).
+- [x] Boundaries mapped: F02-B105 = T1718_002.txt lines 531-533 (佛所護念 line + apparatus [2]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B105.
+- [x] Defects added/updated: No defects detected for F02-B105 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 護念 doctrinal framing and apparatus witness [2] verified.
+- [x] PASS/FAIL result: PASS (F02-B105).
+- [x] Boundaries mapped: F02-B106 = T1718_002.txt line 535 (入無量義處三昧 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B106.
+- [x] Defects added/updated: No defects detected for F02-B106 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 慧定相成 and 作序 rationale chain verified.
+- [x] PASS/FAIL result: PASS (F02-B106).
+- [x] Boundaries mapped: F02-B107 = T1718_002.txt lines 537-545 (身心不動 analysis + 瑞相問答 chain).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B107.
+- [x] Defects added/updated: No defects detected for F02-B107 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 身心不動 doctrinal mapping and 瑞相 Q/A justification chain verified.
+- [x] PASS/FAIL result: PASS (F02-B107).
+- [x] Boundaries mapped: F02-B108 = T1718_002.txt lines 547-550 (天雨四花 opening + apparatus [3]/[4]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B108.
+- [x] Defects added/updated: No defects detected for F02-B108 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四輪因 symbolic mapping chain and apparatus witnesses [3]/[4] verified.
+- [x] PASS/FAIL result: PASS (F02-B108).
+- [x] Boundaries mapped: F02-B109 = T1718_002.txt lines 552-558 (四輪別位 vs 圓位問答).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B109.
+- [x] Defects added/updated: No defects detected for F02-B109 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 問答 polarity and 名通義圓 resolution wording verified.
+- [x] PASS/FAIL result: PASS (F02-B109).
+- [x] Boundaries mapped: F02-B110 = T1718_002.txt lines 560-566 (別義賢聖問答 + 《玄義》 resolution).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B110.
+- [x] Defects added/updated: No defects detected for F02-B110 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 三藏/通/別 contrast chain and 《法華》意 closure verified.
+- [x] PASS/FAIL result: PASS (F02-B110).
+- [x] Boundaries mapped: F02-B111 = T1718_002.txt lines 568-570 (地六種動 opening + apparatus [5]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B111.
+- [x] Defects added/updated: No defects detected for F02-B111 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 六番破無明 framing and apparatus witness [5] verified.
+- [x] PASS/FAIL result: PASS (F02-B111).
+- [x] Boundaries mapped: F02-B112 = T1718_002.txt line 572 (本迹解 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B112.
+- [x] Defects added/updated: No defects detected for F02-B112 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 文殊引古佛→識本 logic verified one-to-one.
+- [x] PASS/FAIL result: PASS (F02-B112).
+- [x] Boundaries mapped: F02-B113 = T1718_002.txt lines 574-576 (觀行動六根 + apparatus [1]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B113.
+- [x] Defects added/updated: No defects detected for F02-B113 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 六動/十八動 contemplative mapping and apparatus witness [1] verified.
+- [x] PASS/FAIL result: PASS (F02-B113).
+- [x] Boundaries mapped: F02-B114 = T1718_002.txt line 578 (大眾心喜瑞 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B114.
+- [x] Defects added/updated: No defects detected for F02-B114 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 甘露將降→感於勝應 transition verified.
+- [x] PASS/FAIL result: PASS (F02-B114).
+- [x] Boundaries mapped: F02-B115 = T1718_002.txt lines 580-591 (眾喜瑞問答 + apparatus [2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B115.
+- [x] Defects added/updated: No defects detected for F02-B115 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 內外瑞 distinction, 四教心動 mapping, and apparatus witnesses [2]/[3]/[4]/[5] verified.
+- [x] PASS/FAIL result: PASS (F02-B115).
+- [x] Boundaries mapped: F02-B116 = T1718_002.txt lines 593-595 (放光瑞 opening + apparatus [6]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B116.
+- [x] Defects added/updated: No defects detected for F02-B116 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 白毫功德 chain and apparatus witness [6] verified.
+- [x] PASS/FAIL result: PASS (F02-B116).
+- [x] Boundaries mapped: F02-B117 = T1718_002.txt line 597 (二乘/別教/圓教 contrast line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B117.
+- [x] Defects added/updated: No defects detected for F02-B117 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 二眉無毫 analogy and 圓教 conclusion verified.
+- [x] PASS/FAIL result: PASS (F02-B117).
+- [x] Boundaries mapped: F02-B118 = T1718_002.txt lines 599-603 (眾經放光 differences + apparatus [7]/[8]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B118.
+- [x] Defects added/updated: No defects detected for F02-B118 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 放/收光 comparative chain and apparatus witnesses [7]/[8] verified.
+- [x] PASS/FAIL result: PASS (F02-B118).
+- [x] Boundaries mapped: F02-B119 = T1718_002.txt line 604 (觀解萬八千 line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B119.
+- [x] Defects added/updated: No defects detected for F02-B119 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 十八界/百法界千性相 mapping and 靡不周遍 closure verified.
+- [x] PASS/FAIL result: PASS (F02-B119).
+- [x] Boundaries mapped: F02-B120 = T1718_002.txt lines 606-611 (光照他土六瑞 long-form + apparatus [9]/[10]/[11]/[12]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B120.
+- [x] Defects added/updated: No defects detected for F02-B120 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 他土六瑞 long-form sequence and apparatus witnesses [9]/[10]/[11]/[12] verified.
+- [x] PASS/FAIL result: PASS (F02-B120).
+- [x] Boundaries mapped: F02-B121 = T1718_002.txt lines 613-614 (種種因緣/種種相貌 reconciliation line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B121.
+- [x] Defects added/updated: No defects detected for F02-B121 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 共/不共四門 to one因一緣一相一貌 return logic verified.
+- [x] PASS/FAIL result: PASS (F02-B121).
+- [x] Boundaries mapped: F02-B122 = T1718_002.txt line 615 (疑念序 framing + 三念 summary line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B122.
+- [x] Defects added/updated: No defects detected for F02-B122 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 彌勒/大眾疑念 framing and 三念 condensation verified.
+- [x] PASS/FAIL result: PASS (F02-B122).
+- [x] Boundaries mapped: F02-B123 = T1718_002.txt line 617 (神變 definition + ignorance hierarchy line).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B123.
+- [x] Defects added/updated: No defects detected for F02-B123 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 神/變 definition, 隱明示闇 logic, and 大眾兩念 clause verified.
+- [x] PASS/FAIL result: PASS (F02-B123).
+- [x] Boundaries mapped: F02-B124 = T1718_002.txt lines 619-627 (文殊/彌勒 Q/A + fourfold rationale + apparatus [1]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F02-B124.
+- [x] Defects added/updated: No defects detected for F02-B124 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四種消文意 chain and apparatus witness [1] verified.
+- [x] PASS/FAIL result: PASS (F02-B124).
+- [x] Boundaries mapped: F02-B125 = T1718_002.txt lines 629-630 (卷第二下 boundary marker).
+- [x] Source lock edits completed: No textual edits required; boundary heading is represented in the Fascicle 3 scholarly file handoff context.
+- [x] Defects added/updated: No defects detected for F02-B125 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: End-of-file structural boundary verified and handoff continuity to T1718_003 confirmed.
+- [x] PASS/FAIL result: PASS (F02-B125).
+- [x] Boundaries mapped: F03-B01 = T1718_003.txt lines 9-19 (卷第三上 heading + 發問序 opening + apparatus [2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B01.
+- [x] Defects added/updated: No defects detected for F03-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 發問序 framing, Nāgārjuna fourfold rationale chain, and apparatus witnesses [2]/[3]/[4]/[5] verified.
+- [x] PASS/FAIL result: PASS (F03-B01).
+- [x] Boundaries mapped: F03-B02 = T1718_003.txt lines 20-24 (眉間光下 section intro + apparatus [6]/[7]/[8]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B02.
+- [x] Defects added/updated: No defects detected for F03-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 他土六瑞 six-part segmentation and apparatus witnesses [6]/[7]/[8] verified.
+- [x] PASS/FAIL result: PASS (F03-B02).
+- [x] Boundaries mapped: F03-B03 = T1718_003.txt lines 26-31 (初三行問六趣 + 第二四行問見彼佛土 + apparatus [9]/[10]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B03.
+- [x] Defects added/updated: No defects detected for F03-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 六趣 framing, 見彼佛土 sequence, and apparatus witnesses [9]/[10] verified.
+- [x] PASS/FAIL result: PASS (F03-B03).
+- [x] Boundaries mapped: F03-B04 = T1718_003.txt lines 33-37 (第三三行問彼土四眾 + apparatus [1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B04.
+- [x] Defects added/updated: No defects detected for F03-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 頓後三藏 pivot and apparatus witnesses [1]/[2]/[3] verified.
+- [x] PASS/FAIL result: PASS (F03-B04).
+- [x] Boundaries mapped: F03-B05 = T1718_003.txt lines 39-42 ([4][5] one-and-a-half-line closure + apparatus).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B05.
+- [x] Defects added/updated: No defects detected for F03-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 結前開後 closure marker and apparatus witnesses [4]/[5] verified.
+- [x] PASS/FAIL result: PASS (F03-B05).
+- [x] Boundaries mapped: F03-B06 = T1718_003.txt lines 44-49 (三十一行半 taxonomy + six-pāramitā sequencing + apparatus [6]/[7]/[8]/[9]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B06.
+- [x] Defects added/updated: No defects detected for F03-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 問檀/尸/忍/進/禪/慧 hierarchy and apparatus witnesses [6]/[7]/[8]/[9] verified.
+- [x] PASS/FAIL result: PASS (F03-B06).
+- [x] Boundaries mapped: F03-B07 = T1718_003.txt lines 51-57 (六度自收 question/answer pair).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B07.
+- [x] Defects added/updated: No defects detected for F03-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 次第/非次第 two-route response and 不煩 conclusion verified.
+- [x] PASS/FAIL result: PASS (F03-B07).
+- [x] Boundaries mapped: F03-B08 = T1718_003.txt lines 59-64 (mixed-questioning sevenfold chain + 伏難 opening + duplicated witness markers [1]/[＊1-1]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B08.
+- [x] Defects added/updated: No defects detected for F03-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 七意 mixed-questioning structure, two-route explanatory layering, and duplicated witness markers [1]/[＊1-1] verified.
+- [x] PASS/FAIL result: PASS (F03-B08).
+- [x] Boundaries mapped: F03-B09 = T1718_003.txt lines 66-69 (答問序 fourfold map + apparatus [2]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B09.
+- [x] Defects added/updated: No defects detected for F03-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 答問序 four-part structure and apparatus witness [2] verified.
+- [x] PASS/FAIL result: PASS (F03-B09).
+- [x] Boundaries mapped: F03-B10 = T1718_003.txt lines 70-76 (惟忖答 long-form + apparatus [3]/[1]/[2]).
+- [x] Source lock edits completed: Attached inline apparatus loci in scholarly file (`顯遠[^35]`, `釋於[^36]`, `因住[^37]`) to bind source witnesses.
+- [x] Defects added/updated: 1 apparatus-locus binding defect repaired in F03-B10; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 惟忖答 five-omen mapping chain and apparatus witnesses [3]/[1]/[2] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B10).
+- [x] Boundaries mapped: F03-B11 = T1718_003.txt lines 78-80 (略曾見答 + 廣曾見答 opening and 七善 doctrinal ladder).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B11.
+- [x] Defects added/updated: No defects detected for F03-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 橫見/豎見 pivot, 七善 chain, and broad-answer continuity verified.
+- [x] PASS/FAIL result: PASS (F03-B11).
+- [x] Boundaries mapped: F03-B12 = T1718_003.txt lines 82-85 (二萬佛 extension + 名[1]號 apparatus witness).
+- [x] Source lock edits completed: Inserted explicit apparatus binding line in scholarly file: `[1] 號【大】，名【甲】`.
+- [x] Defects added/updated: 1 apparatus witness omission repaired in F03-B12; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 二萬佛 names/teaching continuity and apparatus witness [1] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B12).
+- [x] Boundaries mapped: F03-B13 = T1718_003.txt lines 86-90 (第三引一佛同 + 曾/已/今/當 temporal chain + apparatus [2]/[3]).
+- [x] Source lock edits completed: Bound inline witness loci in scholarly file (`所更[^39]`, `小近者謂[^40]已`) for apparatus [2]/[3].
+- [x] Defects added/updated: 1 dual-witness locus binding defect repaired in F03-B13; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 曾與已同 logic chain and both apparatus witnesses [2]/[3] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B13).
+- [x] Boundaries mapped: F03-B14 = T1718_003.txt lines 91-95 (曾與今同 inference chain + apparatus [4]/[5]).
+- [x] Source lock edits completed: Bound inline witness loci in scholarly file (`義推[^41]`, `例二必[^42]兼`) for apparatus [4]/[5].
+- [x] Defects added/updated: 1 dual-witness locus binding defect repaired in F03-B14; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 集眾/發問/答問 inference chain and both apparatus witnesses [4]/[5] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B14).
+- [x] Boundaries mapped: F03-B15 = T1718_003.txt lines 96-99 (曾與當同 six-part map opening + apparatus [6]).
+- [x] Source lock edits completed: Bound inline witness locus in scholarly file (`佛從[^43]三昧起`) for apparatus [6].
+- [x] Defects added/updated: 1 apparatus-locus binding defect repaired in F03-B15; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 曾與當同 six-part map opening and apparatus witness [6] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B15).
+- [x] Boundaries mapped: F03-B16 = T1718_003.txt lines 100-102 (說法名同 + 時節同 transition lines).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B16.
+- [x] Defects added/updated: No defects detected for F03-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 他土問答 closure and 五十小劫 half-day citation linkage verified.
+- [x] PASS/FAIL result: PASS (F03-B16).
+- [x] Boundaries mapped: F03-B17 = T1718_003.txt lines 104-105 (唱滅同 short block).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B17.
+- [x] Defects added/updated: No defects detected for F03-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 〈寶塔品〉唱滅 alignment and 化道已足 closure verified.
+- [x] PASS/FAIL result: PASS (F03-B17).
+- [x] Boundaries mapped: F03-B18 = T1718_003.txt lines 106-110 (授記同 debate + apparatus [7]/[8]).
+- [x] Source lock edits completed: Bound inline witness loci in scholarly file (`若說[^44]授菩薩記[^45]`) for apparatus [7]/[8].
+- [x] Defects added/updated: 1 dual-witness locus binding defect repaired in F03-B18; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 授菩薩記 shock-logic and both apparatus witnesses [7]/[8] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B18).
+- [x] Boundaries mapped: F03-B19 = T1718_003.txt lines 111-120 (通經同 five-part map + Q/A closure + apparatus [46]).
+- [x] Source lock edits completed: Bound inline witness locus in scholarly file (`從[^46]「佛授記已」`) for apparatus [46].
+- [x] Defects added/updated: 1 apparatus-locus binding defect repaired in F03-B19; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 五-part 通經同 framework, 近則釋疑/密開壽量 chain, and Q/A closure verified with witness [46].
+- [x] PASS/FAIL result: PASS (F03-B19).
+- [x] Boundaries mapped: F03-B20 = T1718_003.txt lines 121-124 (分明判答 to 偈頌 structure + apparatus [1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: Bound inline witness loci in scholarly file (`從[^46]「佛說大」`, `出[^47]`, `從[^48]「此光照」`, `次[^49]十行`) for apparatus [1]-[4].
+- [x] Defects added/updated: 1 four-locus apparatus binding defect repaired in F03-B20; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 45-verse segmentation chain and apparatus witnesses [1]-[4] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B20).
+- [x] Boundaries mapped: F03-B21 = T1718_003.txt lines 128-130 (初三行如文 + 一行半釋 opening).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B21.
+- [x] Defects added/updated: No defects detected for F03-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 自然成佛道 explanatory bridge verified.
+- [x] PASS/FAIL result: PASS (F03-B21).
+- [x] Boundaries mapped: F03-B22 = T1718_003.txt lines 132-136 (問句 + apparatus [5]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block preserves witness [5] in critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 發真自然 question and witness [5] verified.
+- [x] PASS/FAIL result: PASS (F03-B22).
+- [x] Boundaries mapped: F03-B23 = T1718_003.txt lines 138-143 (答句 + 船順流 analogy + apparatus [6]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block preserves witness [6] in critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 風/棹 analogy and witness [6] verified.
+- [x] PASS/FAIL result: PASS (F03-B23).
+- [x] Boundaries mapped: F03-B24 = T1718_003.txt lines 144-149 (第三半行 + 第四三行 + apparatus [7]).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block preserves witness [7] in critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 純一無雜七善 bridge and 四諦→四度 mapping with witness [7] verified.
+- [x] PASS/FAIL result: PASS (F03-B24).
+- [x] Boundaries mapped: F03-B25 = T1718_003.txt lines 150-153 (第五兩行 + 次第二一行半 + 二十二行半 opening with marker cluster context).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block preserves marker cluster context via consolidated apparatus entry.
+- [x] Defects added/updated: No defects detected for F03-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 曾與今當同 six-part launch and retro-verse transitions verified.
+- [x] PASS/FAIL result: PASS (F03-B25).
+- [x] Boundaries mapped: F03-B26 = T1718_003.txt lines 154-160 (apparatus definitions [8]/[9]/[10]/[＊5-1]/[1]/[2] + transition heading).
+- [x] Source lock edits completed: No textual edits required; consolidated apparatus line already preserves all six witnesses.
+- [x] Defects added/updated: No defects detected for F03-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: apparatus definition bundle and transition into 「釋方便品」 verified.
+- [x] PASS/FAIL result: PASS (F03-B26).
+- [x] Boundaries mapped: F03-B27 = T1718_003.txt lines 161-165 (釋方便品 opening + 略/廣 framing + apparatus [3]).
+- [x] Source lock edits completed: Bound inline witness locus in scholarly file (`將[^51]用以釋便`) and corrected [^51] definition to `將【大】，〔－〕【甲】`.
+- [x] Defects added/updated: 1 apparatus-locus/definition mismatch defect repaired in F03-B27; now 0 open, 0 pending in block scope.
+- [x] Re-audit completed: 方/便 lexical setup and apparatus witness [3] verified after repair.
+- [x] PASS/FAIL result: PASS (F03-B27).
+- [x] Boundaries mapped: F03-B28 = T1718_003.txt lines 167-170 (料簡 taxonomy opening + Q start).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block is source-locked for F03-B28.
+- [x] Defects added/updated: No defects detected for F03-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 三段方便 taxonomy and 能入/所入 polarity preface verified.
+- [x] PASS/FAIL result: PASS (F03-B28).
+- [x] Boundaries mapped: F03-B29 = T1718_003.txt lines 171-177 (方便與權 Q/A + apparatus [4]).
+- [x] Source lock edits completed: No textual edits required; witness [4] remains preserved in existing critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句分別 chain and witness [4] verified.
+- [x] PASS/FAIL result: PASS (F03-B29).
+- [x] Boundaries mapped: F03-B30 = T1718_003.txt lines 179-185 (廣釋五時權實 critique + apparatus [5]).
+- [x] Source lock edits completed: No textual edits required; witness [5] remains preserved in existing critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 五時權實 rejection chain and witness [5] verified.
+- [x] PASS/FAIL result: PASS (F03-B30).
+- [x] Boundaries mapped: F03-B31 = T1718_003.txt lines 187-190 (今明權實 four-sentence architecture + [1] witness anchor).
+- [x] Source lock edits completed: No textual edits required; existing scholarly block remains source-locked for F03-B31.
+- [x] Defects added/updated: No defects detected for F03-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句權實 architecture and `[1] 不分卷【甲】` witness anchor verified.
+- [x] PASS/FAIL result: PASS (F03-B31).
+- [x] Boundaries mapped: F03-B32 = T1718_003.txt lines 193-196 (卷第三上/卷第三下 boundary headings).
+- [x] Source lock edits completed: No textual edits required; Part1 end heading and Part2 start heading remain correctly split across files.
+- [x] Defects added/updated: No defects detected for F03-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: fascicle heading boundary and file crossover integrity verified.
+- [x] PASS/FAIL result: PASS (F03-B32).
+- [x] Boundaries mapped: F03-B33 = T1718_003.txt lines 197-201 (author line + 非權非實 opening + apparatus [2]).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves witness [2] in existing critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句第四 lemma opening and `[2] 不分卷【甲】` witness verified.
+- [x] PASS/FAIL result: PASS (F03-B33).
+- [x] Boundaries mapped: F03-B34 = T1718_003.txt lines 203-205 (十法八番解釋 scaffold + 十名 list).
+- [x] Source lock edits completed: No textual edits required; existing Part2 block is source-locked for F03-B34.
+- [x] Defects added/updated: No defects detected for F03-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 八番 sequence and 十名 list order verified.
+- [x] PASS/FAIL result: PASS (F03-B34).
+- [x] Boundaries mapped: F03-B35 = T1718_003.txt lines 206-209 (生起者 ten-step causal ladder + apparatus [3]).
+- [x] Source lock edits completed: No textual edits required; witness [3] is already bound at `體顯[^14]能用` in Part2.
+- [x] Defects added/updated: No defects detected for F03-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 生起 sequence integrity and witness [3] verified.
+- [x] PASS/FAIL result: PASS (F03-B35).
+- [x] Boundaries mapped: F03-B36 = T1718_003.txt lines 211-214 (三、解釋者 opening + apparatus [4]/[1]).
+- [x] Source lock edits completed: No textual edits required; witnesses [4]/[1] remain preserved in existing critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: long-form explanatory chain opening and witnesses [4]/[1] verified.
+- [x] PASS/FAIL result: PASS (F03-B36).
+- [x] Boundaries mapped: F03-B37 = T1718_003.txt lines 216-218 (四引證 opening + truncation witness [2]).
+- [x] Source lock edits completed: No textual edits required; witness handling already present via inline `[^17]` and critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: quote-chain opening and `[2] 已下斷缺【甲】` handling verified.
+- [x] PASS/FAIL result: PASS (F03-B37).
+- [x] Boundaries mapped: F03-B38 = T1718_003.txt lines 220-221 (五佛權實 + 《法華論》五甚深 mapping).
+- [x] Source lock edits completed: No textual edits required; existing Part2 rendering remains source-locked for this segment.
+- [x] Defects added/updated: No defects detected for F03-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 五甚深 taxonomy and treatise-alignment closure verified.
+- [x] PASS/FAIL result: PASS (F03-B38).
+- [x] Boundaries mapped: F03-B39 = T1718_003.txt lines 222-224 (五、結權實 opening + three-round gate logic).
+- [x] Source lock edits completed: No textual edits required; long-form gate-sequencing remains source-locked.
+- [x] Defects added/updated: No defects detected for F03-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句結成 and 《華嚴》/《三藏》/《方等》/《般若》/《法華》 progressive gating logic verified.
+- [x] PASS/FAIL result: PASS (F03-B39).
+- [x] Boundaries mapped: F03-B40 = T1718_003.txt lines 226-228 (復次 two-tier方便 exposition + 六、分別照諦 opening).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves continuity through `分別照諦` launch.
+- [x] Defects added/updated: No defects detected for F03-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 即方便即真實 formulation and 隨智/隨情/隨情智二諦 mapping verified.
+- [x] PASS/FAIL result: PASS (F03-B40).
+- [x] Boundaries mapped: F03-B41 = T1718_003.txt lines 230-232 (七、約諸經 comparative matrix + 受機差別 closure).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves per-sutra 教/時/法/機 axes and line-232 uptake logic.
+- [x] Defects added/updated: No defects detected for F03-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 《華嚴》→《三藏》→《方等》→《般若》→《法華》 matrix and one-self/other distributions verified.
+- [x] PASS/FAIL result: PASS (F03-B41).
+- [x] Boundaries mapped: F03-B42 = T1718_003.txt lines 234-235 (八、本迹 + 四句結成 architecture).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 本權/迹實 bundling logic and four-phrase closure.
+- [x] Defects added/updated: No defects detected for F03-B42 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 本迹判權實 chain, 身子 trace/origin sequence, and 方便品 naming rationale verified.
+- [x] PASS/FAIL result: PASS (F03-B42).
+- [x] Boundaries mapped: F03-B43 = T1718_003.txt lines 236-239 (正說分 onset + 迹門二分 + apparatus [A1]).
+- [x] Source lock edits completed: No textual edits required; witness `[A1] 從【CB】，縱【大】` remains preserved in critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B43 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 正說分 boundary and 略開/廣開 split with [A1] witness anchor verified.
+- [x] PASS/FAIL result: PASS (F03-B43).
+- [x] Boundaries mapped: F03-B44 = T1718_003.txt lines 240-248 (略開三顯一 decomposition + 四悉檀起定 rationale + first 問答).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves long-form doctrinal sequence and Q/A turn order.
+- [x] Defects added/updated: No defects detected for F03-B44 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 經家提起→正歎 progression,四悉檀 explanatory chain, and 問「繫念在前」/答 pair verified.
+- [x] PASS/FAIL result: PASS (F03-B44).
+- [x] Boundaries mapped: F03-B45 = T1718_003.txt lines 250-258 (面觀 second 問答 + 雙歎二智 long-form doctrinal chain).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves face-contemplation fourfold rationale and clause-order through line 258.
+- [x] Defects added/updated: No defects detected for F03-B45 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 面觀問答 closure,諸佛二智雙歎 sequence, and 光宅門義 contrastive logic verified.
+- [x] PASS/FAIL result: PASS (F03-B45).
+- [x] Boundaries mapped: F03-B46 = T1718_003.txt lines 260-262 (諸佛二智雙釋→雙結 transition).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves dual-explanation and dual-conclusion structure.
+- [x] Defects added/updated: No defects detected for F03-B46 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「所以者何」 explanatory chain and 《攝大乘》 citation logic verified.
+- [x] PASS/FAIL result: PASS (F03-B46).
+- [x] Boundaries mapped: F03-B47 = T1718_003.txt lines 264-270 (釋迦權實 triadic architecture + 結權智 expansions).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 舊解三意 critique and multi-clause capability taxonomy.
+- [x] Defects added/updated: No defects detected for F03-B47 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 釋迦段雙歎/雙釋/雙結 sequencing and 四等/四辯/十力/四無所畏 chain verified.
+- [x] PASS/FAIL result: PASS (F03-B47).
+- [x] Boundaries mapped: F03-B48 = T1718_003.txt lines 272-274 (絕言歎起後 rationale + apparatus [A2]).
+- [x] Source lock edits completed: No textual edits required; witness `[A2] 莫【CB】，茣【大】` remains preserved in critical apparatus line.
+- [x] Defects added/updated: No defects detected for F03-B48 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 權實雙指 interpretive pivot and [A2] witness handling verified.
+- [x] PASS/FAIL result: PASS (F03-B48).
+- [x] Boundaries mapped: F03-B49 = T1718_003.txt lines 276-278 (「止止」絕言歎 exposition + 諸家詮釋 refutation chain).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 印師/觀師/光宅/北地師/瑤師/暢師 attribution flow and argumentative sequence.
+- [x] Defects added/updated: No defects detected for F03-B49 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 不可說 rationale,十如是 interpretive dispute, and doctrinal rebuttal ordering verified.
+- [x] PASS/FAIL result: PASS (F03-B49).
+- [x] Boundaries mapped: F03-B50 = T1718_003.txt lines 280-282 (此境二分 + 四番釋 launch + 十法界 opening sentence).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves four-turn method framing and 十法界 entry logic.
+- [x] Defects added/updated: No defects detected for F03-B50 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 略標/廣釋 split,四番釋 rationale, and 「六道四聖」 anchor verified.
+- [x] PASS/FAIL result: PASS (F03-B50).
+- [x] Boundaries mapped: F03-B51 = T1718_003.txt lines 284-285 (二、約佛法界釋 full ten-suchness causal mapping).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 緣因/了因/正因 distinctions and carriage-imagery references.
+- [x] Defects added/updated: No defects detected for F03-B51 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 佛界非X/非不X clause ladder and 本末/究竟等 conversion logic verified.
+- [x] PASS/FAIL result: PASS (F03-B51).
+- [x] Boundaries mapped: F03-B52 = T1718_003.txt lines 286-287 (三、約離合 opening + 開合不二 expression).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 自行/化他 rebundling and 開/合 reciprocity sequence.
+- [x] Defects added/updated: No defects detected for F03-B52 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 無量而一/一而無量 dialectic and 三乘受容 contrast (凡夫/二乘/菩薩) verified.
+- [x] PASS/FAIL result: PASS (F03-B52).
+- [x] Boundaries mapped: F03-B53 = T1718_003.txt lines 288-290 (四、約位 + 三德究竟等 + 不可思議 extended citation chain).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 三德/三諦 transitions and long-form citation sequence.
+- [x] Defects added/updated: No defects detected for F03-B53 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 約位 ladder, 平等大慧 framing, and 《釋論》/《阿含》 analogical chain verified.
+- [x] PASS/FAIL result: PASS (F03-B53).
+- [x] Boundaries mapped: F03-B54 = T1718_003.txt lines 292-294 (偈頌整體判科 + 寄言歎 internal segmentation).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 21-line verse partition and two-level sub-structure logic.
+- [x] Defects added/updated: No defects detected for F03-B54 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 長行/偈頌 broad-narrow mapping and 二佛合歎 rationale verified.
+- [x] PASS/FAIL result: PASS (F03-B54).
+- [x] Boundaries mapped: F03-B55 = T1718_003.txt lines 296-302 (four-verse alternative + 絕言頌五段 + 不思議四解回收).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves eightfold non-knower taxonomy and four-interpretation pivot logic.
+- [x] Defects added/updated: No defects detected for F03-B55 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「如是大果報」 sequence, 能入/不入 stratification, and 無漏不思議 interpretive anchors verified.
+- [x] PASS/FAIL result: PASS (F03-B55).
+- [x] Boundaries mapped: F03-B56 = T1718_003.txt lines 304-306 (略開三顯一 onset + 二疑 structure + 正請前導).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 佛語無異→勸信→顯實 progression and 疑佛/疑己 split.
+- [x] Defects added/updated: No defects detected for F03-B56 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 開顯二分 and 騰疑致請 opening architecture with doctrinal sequencing verified.
+- [x] PASS/FAIL result: PASS (F03-B56).
+- [x] Boundaries mapped: F03-B57 = T1718_003.txt lines 308-310 (三請二止 schema + fascicle colophon closure).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves request/stop layering and ending colophon line.
+- [x] Defects added/updated: No defects detected for F03-B57 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 三請二止 relation mapping and 「卷第三下」 closure verified.
+- [x] PASS/FAIL result: PASS (F03-B57).
+- [x] Boundaries mapped: F04-B01 = T1718_004.txt lines 9-20 (卷第四上 title/attribution + opening architecture + [1]-[4] apparatus anchors).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves heading/attribution and witness markers.
+- [x] Defects added/updated: No defects detected for F04-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: title block, author line, and 開三顯一/十義 setup with apparatus coverage verified.
+- [x] PASS/FAIL result: PASS (F04-B01).
+- [x] Boundaries mapped: F04-B02 = T1718_004.txt lines 22-30 (一、通別 exposition + 問答 pair).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves three-week general/distinct logic and Q/A sequencing.
+- [x] Defects added/updated: No defects detected for F04-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 通/別, 法說/譬說/因緣說 mapping and line-24/28 Q&A integrity verified.
+- [x] PASS/FAIL result: PASS (F04-B02).
+- [x] Boundaries mapped: F04-B03 = T1718_004.txt lines 32-34 (二、有聲聞無聲聞 opening + [1] witness).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves Guangzhai/Kaishan opposition framing and witness line `[1] 二【大】，第二【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 有/無聲聞 doctrinal setup and apparatus binding verified.
+- [x] PASS/FAIL result: PASS (F04-B03).
+- [x] Boundaries mapped: F04-B04 = T1718_004.txt lines 36-40 (惑有厚薄 critique chain + 轉根不轉根 heading).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 瑤師 thesis/refutation sequence and transition into fourth meaning.
+- [x] Defects added/updated: No defects detected for F04-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句根惑 ladder and line-40 pivot into 轉根不轉根 verified.
+- [x] PASS/FAIL result: PASS (F04-B04).
+- [x] Boundaries mapped: F04-B05 = T1718_004.txt lines 42-56 (轉根不轉根 two 問答 exchanges).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves old interpretation critique plus Q/A order and conclusion.
+- [x] Defects added/updated: No defects detected for F04-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 三刀斫木 analogy and 真修體顯/同位無勝負 responses verified.
+- [x] PASS/FAIL result: PASS (F04-B05).
+- [x] Boundaries mapped: F04-B06 = T1718_004.txt lines 58-61 (五、有悟不悟 opening + [1]/[*1-1] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 根別 discussion and witness-linked 優婆塞/優婆夷 reading.
+- [x] Defects added/updated: No defects detected for F04-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 緣覺攝入四眾 logic and line-60/61 apparatus witness continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B06).
+- [x] Boundaries mapped: F04-B07 = T1718_004.txt lines 63-69 (有悟不悟 follow-up 問答 closure).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 問/答 sequencing and father-son nature conclusion.
+- [x] Defects added/updated: No defects detected for F04-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「菩薩得悟通於始終」 question and closing answer integrity verified.
+- [x] PASS/FAIL result: PASS (F04-B07).
+- [x] Boundaries mapped: F04-B08 = T1718_004.txt lines 71-73 (六、有領解無領解 opening + [2] witness line).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 聲聞/緣覺/菩薩 role-mapping and apparatus `[2] 胡【大】，梵【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 領解 category logic and witness [2] binding verified.
+- [x] PASS/FAIL result: PASS (F04-B08).
+- [x] Boundaries mapped: F04-B09 = T1718_004.txt lines 75-83 (得記不得記 three-intent chain + 問答 pair).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves prediction logic and response-vs-dharma-body記 distinction.
+- [x] Defects added/updated: No defects detected for F04-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 三意 structure and 「若小悟大」 Q/A reasoning verified.
+- [x] PASS/FAIL result: PASS (F04-B09).
+- [x] Boundaries mapped: F04-B10 = T1718_004.txt line 85 (八、明悟有淺深 full-line doctrinal progression).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves single/repeated hearing progression and thickness-thinness comparison logic.
+- [x] Defects added/updated: No defects detected for F04-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 法說→譬說→因緣→壽量 deepening sequence verified.
+- [x] PASS/FAIL result: PASS (F04-B10).
+- [x] Boundaries mapped: F04-B11 = T1718_004.txt lines 87-90 (九、權實得益 + 十、待時不待時 onset + [3]/[4] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 九/十 segmentation and apparatus `[3] 九【大】，第九【甲】; [4] 正【大】，止【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 顯/密與待時/不待時 pivot logic and witness lines verified.
+- [x] PASS/FAIL result: PASS (F04-B11).
+- [x] Boundaries mapped: F04-B12 = T1718_004.txt lines 92-106 (失時問答 pair + 五千起去 follow-up).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves two-question sequence and answer placement.
+- [x] Defects added/updated: No defects detected for F04-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 彼土待時 rationale and 弘經人受益 logic verified.
+- [x] PASS/FAIL result: PASS (F04-B12).
+- [x] Boundaries mapped: F04-B13 = T1718_004.txt lines 108-114 (三根請法 scope question + 普請普說 response).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves question scope and 「隨義不隨語」 closure.
+- [x] Defects added/updated: No defects detected for F04-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 初周/譬周 request-layer distinction and universal preaching response verified.
+- [x] PASS/FAIL result: PASS (F04-B13).
+- [x] Boundaries mapped: F04-B14 = T1718_004.txt lines 118-122 (宿世/譬喻 temporal parsing 問答).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 經無文/義推 inferential qualifiers and tense mapping.
+- [x] Defects added/updated: No defects detected for F04-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 過去/當/現 correspondences and answer progression verified.
+- [x] PASS/FAIL result: PASS (F04-B14).
+- [x] Boundaries mapped: F04-B15 = T1718_004.txt lines 124-132 (障義問答 + [*4-1] apparatus + lamp/dark simile answer).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves obstacle logic and critical apparatus `[＊4-1] 揀【大】＊，簡【甲】＊`.
+- [x] Defects added/updated: No defects detected for F04-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 無明為障 paradox framing and 燈生闇滅 harmonization response verified.
+- [x] PASS/FAIL result: PASS (F04-B15).
+- [x] Boundaries mapped: F04-B16 = T1718_004.txt lines 134-143 (multi-text 知/不知 reconciliation question + [1]/[2] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves citation chain and critical apparatus `[1] 秖【大】＊，只【甲】＊; [2] 諳【大】，識【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 《勝鬘》/《優婆塞戒經》 contradiction framing and witness linkage verified.
+- [x] PASS/FAIL result: PASS (F04-B16).
+- [x] Boundaries mapped: F04-B17 = T1718_004.txt lines 145-151 (緣覺出無佛世 question + long-form answer).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 論據 chain and pratyekabuddha subtype distinctions.
+- [x] Defects added/updated: No defects detected for F04-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 獨覺/緣覺 distinction and 三周有緣覺 conclusion logic verified.
+- [x] PASS/FAIL result: PASS (F04-B17).
+- [x] Boundaries mapped: F04-B18 = T1718_004.txt lines 153-161 (初周法說 five-part scaffold + 許文三分 + apparatus cluster).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves five-part segmentation and witness cluster `[＊4-2]/[3]/[4]/[＊4-3]/[＊4-4]`.
+- [x] Defects added/updated: No defects detected for F04-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 順許/誡許/揀許 structure and associated witness lines verified.
+- [x] PASS/FAIL result: PASS (F04-B18).
+- [x] Boundaries mapped: F04-B19 = T1718_004.txt lines 163-171 (五千去住策略問答 + [＊4-5] witness).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves leave/stay conditional logic and witness `[＊4-5] 揀【大】＊，簡【甲】＊`.
+- [x] Defects added/updated: No defects detected for F04-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 《華嚴》/喜根對照 and 如來悲遣 polarity verified.
+- [x] PASS/FAIL result: PASS (F04-B19).
+- [x] Boundaries mapped: F04-B20 = T1718_004.txt lines 173-181 (去有何益問答 + 「汝今善聽」結許).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 非當機/結緣 rationale and 結許 closure line.
+- [x] Defects added/updated: No defects detected for F04-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 大通佛/《大經》/《金光明》 exempla chain and final permission-closure verified.
+- [x] PASS/FAIL result: PASS (F04-B20).
+- [x] Boundaries mapped: F04-B21 = T1718_004.txt lines 183-185 (正廣說二章 + 六番義 + [＊4-6] witness).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 文/人/義 略廣 triad and sixfold program list.
+- [x] Defects added/updated: No defects detected for F04-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 五章配六義 rationale and critical apparatus `[＊4-6] 揀【大】＊，簡【甲】＊` verified.
+- [x] PASS/FAIL result: PASS (F04-B21).
+- [x] Boundaries mapped: F04-B22 = T1718_004.txt lines 187-196 (四佛章總段 + 開權/顯實 long-form exposition + witness cluster).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves four-item total chapter and extended doctrinal argument with witness set `[1]/[＊1-1]/[2]/[1]/[2]/[3]/[4]`.
+- [x] Defects added/updated: No defects detected for F04-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 時乃說之/優曇花/勸信/開權-顯實 transition chain and inline apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B22).
+- [x] Boundaries mapped: F04-B23 = T1718_004.txt lines 197-200 (今師四解框架 + [1] witness).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves 《論》對讀 and 四一/無量一 interpretive bridge.
+- [x] Defects added/updated: No defects detected for F04-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「今師作四解」 pivot and witness `[1] 知【大】，〔－〕【甲】` verified.
+- [x] PASS/FAIL result: PASS (F04-B23).
+- [x] Boundaries mapped: F04-B24 = T1718_004.txt lines 201-210 (約四位/四智/四門/觀心 full ladder).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves fourfold interpretive ladder and sequence integrity.
+- [x] Defects added/updated: No defects detected for F04-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 位→智→門→觀 mapping and 開示悟入 stratification verified.
+- [x] PASS/FAIL result: PASS (F04-B24).
+- [x] Boundaries mapped: F04-B25 = T1718_004.txt lines 212-217 (理一/人一/行一/教一 syntheses + [＊1-3]/[＊1-4] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves Guangzhai-position critique and two witness lines.
+- [x] Defects added/updated: No defects detected for F04-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四句二義 repartition logic and apparatus `[＊1-3]/[＊1-4]` verified.
+- [x] PASS/FAIL result: PASS (F04-B25).
+- [x] Boundaries mapped: F04-B26 = T1718_004.txt lines 219-221 (第五總結起句 + [1] witness).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves total-conclusion onset and witness `[1] 結【大】，結成諸佛四一文也【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 十方諸佛法亦如是 conclusion logic and [1] apparatus binding verified.
+- [x] PASS/FAIL result: PASS (F04-B26).
+- [x] Boundaries mapped: F04-B27 = T1718_004.txt lines 223-229 (未來/現在佛補述 + [2] witness + 卷第四上 colophon).
+- [x] Source lock edits completed: No textual edits required; Part1 preserves two supplemental clauses, witness `[2] 不分卷【甲】`, and fascicle-upper closing line.
+- [x] Defects added/updated: No defects detected for F04-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 指上/指下 continuations, 化主 statement, and colophon closure verified.
+- [x] PASS/FAIL result: PASS (F04-B27).
+- [x] Boundaries mapped: F04-B28 = T1718_004.txt lines 231-240 (卷第四下 header/author + 釋迦章開篇 + [3]/[4]/[5]/[＊4-1] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves lower-roll title/attribution and opening 五濁 expository chain with all witnesses.
+- [x] Defects added/updated: No defects detected for F04-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 卷第四下 transition, 五乘欲/四門 framework onset, and witness bundle continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B28).
+- [x] Boundaries mapped: F04-B29 = T1718_004.txt lines 242-248 (《華嚴》未除濁聞大乘 question/answer).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves four-phrase response and this-land/other-land contrast.
+- [x] Defects added/updated: No defects detected for F04-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 問答 polarity and 根利/根鈍 + 障輕/障重 matrix verified.
+- [x] PASS/FAIL result: PASS (F04-B29).
+- [x] Boundaries mapped: F04-B30 = T1718_004.txt lines 250-258 (五濁障小 question/answer + [1] witness).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves four-phrase 小乘 examples and apparatus `[1] 是【大】，是也【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 身子/央掘/槃特 exempla sequence and witness binding verified.
+- [x] PASS/FAIL result: PASS (F04-B30).
+- [x] Boundaries mapped: F04-B31 = T1718_004.txt lines 260-266 (不在《華嚴》/三藏而聞大小 question/answer).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 四教四門 discrimination and dual 大乘/小乘 framing.
+- [x] Defects added/updated: No defects detected for F04-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 非空非有/亦空亦有/空/有 gate sequencing and closing 「細推可解」 clause verified.
+- [x] PASS/FAIL result: PASS (F04-B31).
+- [x] Boundaries mapped: F04-B32 = T1718_004.txt lines 268-274 (何故障大不障小 long-form answer + 四悉檀 + [2]/[3]/[4] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 大乘受障 rationale, 小乘不障 contrast, and four-siddhānta expansion with witness cluster.
+- [x] Defects added/updated: No defects detected for F04-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 眾生濁重→厭生死欣涅槃 pivot, 因果/假名 taxonomy, and apparatus `[2]/[3]/[4]` continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B32).
+- [x] Boundaries mapped: F04-B33 = T1718_004.txt lines 280-288 (五清問答 pair + [＊2-1] witness).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 邪/正三毒 analogy and apparatus `[＊2-1] 邪【大】＊，耶【甲】＊`.
+- [x] Defects added/updated: No defects detected for F04-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 五濁↔五清 mapping and concise Q/A closure verified.
+- [x] PASS/FAIL result: PASS (F04-B33).
+- [x] Boundaries mapped: F04-B34 = T1718_004.txt lines 290-298 (揀偽敦真 long-form with 開除釋疑 chain + witness cluster).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 真偽/增上慢 argument flow and witnesses `[＊4-2]/[＊4-3]/[＊4-4]/[5]/[6]/[1]`.
+- [x] Defects added/updated: No defects detected for F04-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 開除釋疑 logic, 餘佛/《釋論》 citation bridge, and apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B34).
+- [x] Boundaries mapped: F04-B35 = T1718_004.txt lines 299-305 (無虛妄三分 + 偈頌分段起句 + [2]/[3]/[＊4-5]/[＊4-6] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 勸信釋迦/諸佛/結成不虛 triad and verse-structure handoff.
+- [x] Defects added/updated: No defects detected for F04-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「無有餘乘，唯一佛乘」 closure and 頌上許答 segmentation with witness bundle verified.
+- [x] PASS/FAIL result: PASS (F04-B35).
+- [x] Boundaries mapped: F04-B36 = T1718_004.txt lines 306-313 (誡許頌銜接 + 正答偈頌總分 + [4]/[5] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 116-line verse architecture counts and first five-part mapping with witness pair `[4]/[5]`.
+- [x] Defects added/updated: No defects detected for F04-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 許答→正答 transition, 四佛章/釋迦章 split, and [4]/[5] apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B36).
+- [x] Boundaries mapped: F04-B37 = T1718_004.txt lines 315-317 (顯實十三行四分 structure + [1] witness).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 理一/人一/教一/行一 segmentation and witness `[1] 人【大】，上人【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四一 mapping sequence and [1] witness binding verified.
+- [x] PASS/FAIL result: PASS (F04-B37).
+- [x] Boundaries mapped: F04-B38 = T1718_004.txt lines 319-324 (勸信 verse-pair + inner/outer and vow witnesses [2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 舉果/舉因 exhort-faith logic and witness cluster `[2]/[3]/[4]`.
+- [x] Defects added/updated: No defects detected for F04-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 內心/外色 distinction and 誓願 fulfillment clauses with apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B38).
+- [x] Boundaries mapped: F04-B39 = T1718_004.txt lines 325-331 (本誓普覆 question/answer pair).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves concise Q/A polarity and 三世益物→現在願滿 resolution.
+- [x] Defects added/updated: No defects detected for F04-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: vow-scope question framing and present-tense fulfillment answer verified.
+- [x] PASS/FAIL result: PASS (F04-B39).
+- [x] Boundaries mapped: F04-B40 = T1718_004.txt lines 333-338 (五濁長頌總起 + [5]/[＊2-2]/[6] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves four-part 五濁 structure and long citation chain with witness set `[5]/[＊2-2]/[6]`.
+- [x] Defects added/updated: No defects detected for F04-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 總障大→別障三→權說小→小治濁 major arc and apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B40).
+- [x] Boundaries mapped: F04-B41 = T1718_004.txt lines 339-346 (別明五濁為五 + [1]/[2]/[3]/[＊2-3]/[4] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 眾生濁/命濁/見濁/煩惱濁/劫濁 ladder and witness cluster.
+- [x] Defects added/updated: No defects detected for F04-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: five-corruption subdivision logic and apparatus `[1]/[2]/[3]/[＊2-3]/[4]` continuity verified.
+- [x] PASS/FAIL result: PASS (F04-B41).
+- [x] Boundaries mapped: F04-B42 = T1718_004.txt lines 347-352 (權為說小一行 + 不虛頌兩行 + 過去佛章導入 + [5]/[A1] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 「是故舍利弗」 pivot, 不虛 closure, and 過去佛章 entry with `[5]/[A1]`.
+- [x] Defects added/updated: No defects detected for F04-B42 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 權說小→不虛→過去佛章 transition chain and witness mapping verified.
+- [x] PASS/FAIL result: PASS (F04-B42).
+- [x] Boundaries mapped: F04-B43 = T1718_004.txt lines 354-360 (人天小善住果報 question/answer + 三佛性 bridge).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves concise Q/A polarity and 緣因佛性→顯實 closure.
+- [x] Defects added/updated: No defects detected for F04-B43 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 小善/果報 objection and reply sequence verified.
+- [x] PASS/FAIL result: PASS (F04-B43).
+- [x] Boundaries mapped: F04-B44 = T1718_004.txt lines 362-369 (十九行十門大段 + [1]/[2]/[3]/[4]/[5] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves tenfold 人天小善 expansion and witness cluster `[1]/[2]/[3]/[4]/[5]`.
+- [x] Defects added/updated: No defects detected for F04-B44 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 天乘/人業/造像/供養/南無 argument chain and all five witnesses verified.
+- [x] PASS/FAIL result: PASS (F04-B44).
+- [x] Boundaries mapped: F04-B45 = T1718_004.txt lines 370-373 (了因種子 one-line supplement + [6] witness).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 相/無相/非二相 + 至心/散心 mapping and `[6]` witness.
+- [x] Defects added/updated: No defects detected for F04-B45 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 了因種子 clause and 天業/人業 split verified.
+- [x] PASS/FAIL result: PASS (F04-B45).
+- [x] Boundaries mapped: F04-B46 = T1718_004.txt lines 374-382 (何故過去佛門廣明五乘 Q/A + [7] witness).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves 三世對照 proof-logic and witness `[7] 也【大】，〔－〕【甲】`.
+- [x] Defects added/updated: No defects detected for F04-B46 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 未來未起/現在始行 vs 過去證義強 inferential chain verified.
+- [x] PASS/FAIL result: PASS (F04-B46).
+- [x] Boundaries mapped: F04-B47 = T1718_004.txt lines 384-391 (未來佛章/現在佛章 + 火宅譬系綱 review + [1]/[2] witnesses).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves chapter-count logic and parable-framework critique with `[1]/[2]` witnesses.
+- [x] Defects added/updated: No defects detected for F04-B47 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 未來/現在章 transitions and 三譬/六譬/十譬 adjudication chain verified.
+- [x] PASS/FAIL result: PASS (F04-B47).
+- [x] Boundaries mapped: F04-B48 = T1718_004.txt lines 393-403 (釋迦章兩分 + 總/別譬本細開 + witness cluster).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves two-division architecture and witness set `[1]/[2]/[3]/[4]/[A2]/[5]/[6]/[7]`.
+- [x] Defects added/updated: No defects detected for F04-B48 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 總頌/廣頌 stratification and ten-intent derivation sequence verified.
+- [x] PASS/FAIL result: PASS (F04-B48).
+- [x] Boundaries mapped: F04-B49 = T1718_004.txt lines 404-410 (四十一行半六義綱目 + 六道釋展開起段 + witness cluster).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves six-part macro map and witness set `[8]/[1]/[2]/[3]/[4]`.
+- [x] Defects added/updated: No defects detected for F04-B49 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 舊判流通否定→六義重排 and 六道五濁 breakdown onset verified.
+- [x] PASS/FAIL result: PASS (F04-B49).
+- [x] Boundaries mapped: F04-B50 = T1718_004.txt lines 411-417 (final witness bundle + 卷第四下 colophon closure).
+- [x] Source lock edits completed: No textual edits required; Part2 preserves terminal witnesses `[5]/[＊3-1]/[＊3-2]/[6]` and fascicle-lower closing line.
+- [x] Defects added/updated: No defects detected for F04-B50 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: final apparatus block and colophon closure verified.
+- [x] PASS/FAIL result: PASS (F04-B50).
+- [x] Boundaries mapped: F05-B01 = T1718_005.txt lines 9-19 (卷第五上 title/author + opening mega-clause + [7]/[1]/[2]/[3] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves heading/attribution and the full opening exegesis chain with witness cluster `[7]/[1]/[2]/[3]`.
+- [x] Defects added/updated: No defects detected for F05-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 開篇 structure, 三七/三周 logic, and apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F05-B01).
+- [x] Boundaries mapped: F05-B02 = T1718_005.txt lines 20-26 (何故初為五人轉法輪 Q/A).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves question/answer polarity and six-cause response sequence.
+- [x] Defects added/updated: No defects detected for F05-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: human-evidence rationale and fourfold-assembly closure verified.
+- [x] PASS/FAIL result: PASS (F05-B02).
+- [x] Boundaries mapped: F05-B03 = T1718_005.txt lines 28-30 (輪王/憍陳如/佛得道聲達處 Q/A).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves tri-level sound-propagation comparison and answer logic.
+- [x] Defects added/updated: No defects detected for F05-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 上中下業 distinction and 大乘擴展 clause verified.
+- [x] PASS/FAIL result: PASS (F05-B03).
+- [x] Boundaries mapped: F05-B04 = T1718_005.txt lines 32-34 (三七日 interpretive split + [4] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves old/commentarial 三七 interpretations and witness `[4] 七【大】，七日【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 思理教等/勸誡等 vs 表三周 resolution chain verified.
+- [x] PASS/FAIL result: PASS (F05-B04).
+- [x] Boundaries mapped: F05-B05 = T1718_005.txt lines 36-39 (眾生無機三行 + 念欲息化二行 framework).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 無機三分 and 息化二分 structure.
+- [x] Defects added/updated: No defects detected for F05-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 障重/不堪聞/梵王請說 triad and final 息化 closure verified.
+- [x] PASS/FAIL result: PASS (F05-B05).
+- [x] Boundaries mapped: F05-B06 = T1718_005.txt lines 40-44 (尋念過去佛十一行大段 + [5]/[6] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves four-step internal architecture (擬宜/有機/施化/受行) and witness pair `[5]/[6]`.
+- [x] Defects added/updated: No defects detected for F05-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 諸佛歎/釋迦酬順/施教/轉法輪 chain and apparatus continuity verified.
+- [x] PASS/FAIL result: PASS (F05-B06).
+- [x] Boundaries mapped: F05-B07 = T1718_005.txt lines 45-54 (釋疑一行 + 索三何關求一問答).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves dual疑 (師/弟子) resolution and 出外不見答句 closure.
+- [x] Defects added/updated: No defects detected for F05-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 懸指壽量否定 logic and 求三轉索一 inferential bridge verified.
+- [x] PASS/FAIL result: PASS (F05-B07).
+- [x] Boundaries mapped: F05-B08 = T1718_005.txt lines 55-60 (顯實六行展開 + 菩薩何疑問 lead-in).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 四一/四意 dual framing, six-line 顯實 architecture, and question handoff at line 57.
+- [x] Defects added/updated: No defects detected for F05-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 行至佛所/方便調伏/障除佛喜/正顯實/受行悟入 sequence and 問起句 verified.
+- [x] PASS/FAIL result: PASS (F05-B08).
+- [x] Boundaries mapped: F05-B09 = T1718_005.txt lines 61-65 (菩薩何疑答句 + [1] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 三藏/通教 contrastive logic, doubt-purge chain, and apparatus `[1] 習習【大】，集集【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 昔真昔成質疑, 三乘同學一道 challenge, and 掃蕩諸疑 closure verified with witness continuity.
+- [x] PASS/FAIL result: PASS (F05-B09).
+- [x] Boundaries mapped: F05-B10 = T1718_005.txt lines 67-68 (歎法希有總綱 + 四難框架導入).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the rarity-praise frame and 人難/法難/聞難/信受難 scaffold.
+- [x] Defects added/updated: No defects detected for F05-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「如三世諸佛」 to 「餘例可解」 progression verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B10).
+- [x] Boundaries mapped: F05-B11 = T1718_005.txt lines 69-71 (不虛頌解 + 祕要/弘經體 + [1] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 舊解雙分, 弘經體 restrictions, and apparatus `[1] 行【大】，一行【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 法王可信論證, 祕要-弘經雙結, and 授記開下作本 chain verified.
+- [x] PASS/FAIL result: PASS (F05-B11).
+- [x] Boundaries mapped: F05-B12 = T1718_005.txt lines 73-82 (揀眾敦信六行 + witness cluster [2]/[＊2-1..＊2-5]/[3]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves all selection markers and full colophon witness `[3]` without compression.
+- [x] Defects added/updated: No defects detected for F05-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 揀眾/敦信 two-part logic, five starred witness chain, and terminal 卷第四終 note verified.
+- [x] PASS/FAIL result: PASS (F05-B12).
+- [x] Boundaries mapped: F05-B13 = T1718_005.txt lines 83-89 (釋譬喻品開章 + 總釋長句 + [4]/[5] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves chapter-title handoff, simile-definition chain, and apparatus `[4]/[5]`.
+- [x] Defects added/updated: No defects detected for F05-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 託此比彼/寄淺訓深 through 四悉檀益 closure verified with both witnesses.
+- [x] PASS/FAIL result: PASS (F05-B13).
+- [x] Boundaries mapped: F05-B14 = T1718_005.txt lines 90-91 (約教解 mega-paragraph + 本迹觀心例解收束).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 藏通別圓 four-teaching parable ladder and the no-further-note closure.
+- [x] Defects added/updated: No defects detected for F05-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 鹿苑三車→圓教大車 benefit arc and 本迹、觀心 closure verified.
+- [x] PASS/FAIL result: PASS (F05-B14).
+- [x] Boundaries mapped: F05-B15 = T1718_005.txt lines 92-97 (法說五段定位 + 領解段內解四悉 + [1] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves placement debate, 領/解 split, and apparatus `[1] 又【大】，又云【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 經家敘/身子自陳 structure and 世界/為人/對治/第一義 interpretive chain verified.
+- [x] PASS/FAIL result: PASS (F05-B15).
+- [x] Boundaries mapped: F05-B16 = T1718_005.txt lines 98-109 (本迹釋收束 + 敘外儀展開 + witness cluster [2]/[3]/[4]/[＊2-1]/[5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 金龍陀 trace narrative, three-joy architecture, and full witness chain through line 108.
+- [x] Defects added/updated: No defects detected for F05-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 本迹教判→外儀合掌向佛→三喜標釋結 progression verified with all apparatus notes intact.
+- [x] PASS/FAIL result: PASS (F05-B16).
+- [x] Boundaries mapped: F05-B17 = T1718_005.txt lines 110-116 (二十五行半偈頌三分總綱 + line-114 nested argument + [1] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the three-part verse macro-map, the full line-114 nested logic tree, and apparatus `[1] 得【大】，待【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 初一行標三喜, 第二二十二行分三層, and 「聞佛柔軟音」二行半結成 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B17).
+- [x] Boundaries mapped: F05-B18 = T1718_005.txt lines 118-120 (述成段 mega-line + [2] witness closure).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 述成段三分 logic, full citation chain, and apparatus `[2] 願即【大】，〔－〕【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 昔曾教大/中忘取小/還為說大 triad, two-intent bifurcation, and 本願恢復 closure verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B18).
+- [x] Boundaries mapped: F05-B19 = T1718_005.txt lines 122-125 (授記段 mega-line + 四眾領解總述).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 授記四意, 長行十目, 偈十一行半二分 map, and 四眾領解 six-and-a-half-line structure.
+- [x] Defects added/updated: No defects detected for F05-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 授記 rationale counts, 十號 gloss chain, and 「我等亦如是」 alignment with 身子三重對應 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B19).
+- [x] Boundaries mapped: F05-B20 = T1718_005.txt lines 126-133 (迦葉/善吉 question + two-layer answer with 《淨名》 quote).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves Q/A speaker turns and both explanatory answer layers without compression.
+- [x] Defects added/updated: No defects detected for F05-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 上根/中下分判 and 「眾生未愈，菩薩亦未愈」 citation closure verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B20).
+- [x] Boundaries mapped: F05-B21 = T1718_005.txt lines 134-140 (中根譬說四品 map + 請答框架 + [1]/[＊1-1] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves four-chapter architecture, 因緣 parallel, and witness pair `[1]` / `[＊1-1]`.
+- [x] Defects added/updated: No defects detected for F05-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 譬說/因緣 dual-track structure, 法師品 pointer, and request triad handoff verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B21).
+- [x] Boundaries mapped: F05-B22 = T1718_005.txt lines 141-146 (佛答三分起句 + 發起抑引 + [2] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves rebuke-to-consolation pivot and apparatus `[2] 是引【大】，引是【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 一抑二引 sequence, 權實皆入佛道 argument, and 安慰許譬 closure verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B22).
+- [x] Boundaries mapped: F05-B23 = T1718_005.txt lines 147-150 (總譬/別譬 split + 六項總譬 + [3] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the two-level scaffold (總/別) and six-item general-parable mapping with apparatus `[3] 中【大】，〔－〕【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 「今我亦如是」/「我以佛眼觀見」 two-verse anchors and 長者/舍宅/一門/五百人/火起/三十子 correspondences verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B23).
+- [x] Boundaries mapped: F05-B24 = T1718_005.txt lines 151-152 (長者譬三分起句 + 三土映射總述).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 名行/位號/德業 triad and 實報/有餘/同居 doctrinal remapping clauses.
+- [x] Defects added/updated: No defects detected for F05-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 賓主/遠近/三處總攝 and 從本垂迹→攝迹反本 closure verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B24).
+- [x] Boundaries mapped: F05-B25 = T1718_005.txt lines 153-157 (標位號三分 + 十德展開 + [4]/[5] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 世/出世/觀心長者 architecture and apparatus `[4]` / `[5]`.
+- [x] Defects added/updated: No defects detected for F05-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 十德全鏈、七方便依止, and 帖經補闕 argument verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B25).
+- [x] Boundaries mapped: F05-B26 = T1718_005.txt lines 158-165 (歎德業 mega-line + witness cluster [1]/[2]/[3]/[＊3-1]/[4]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves inner/outer德 split, 宅門/車門 dual-door analysis, and full witness cluster continuity.
+- [x] Defects added/updated: No defects detected for F05-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 五百人/堂閣/四邊火義 and 三十子 capacity mapping verified with all apparatus notes intact.
+- [x] PASS/FAIL result: PASS (F05-B26).
+- [x] Boundaries mapped: F05-B27 = T1718_005.txt lines 166-170 (卷第五上/下 colophon-bridge + author heading).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves both roll headings and author attribution transition.
+- [x] Defects added/updated: No defects detected for F05-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 上卷收束→下卷開啟 continuity and attribution line verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B27).
+- [x] Boundaries mapped: F05-B28 = T1718_005.txt lines 172-175 (別譬第二四分總綱 + [5] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 見火/捨几用車/等賜大車/無虛妄 four-part map and apparatus `[5] 不分卷【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 四意轉三意 reduction logic and 「所燒之門」 query setup verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B28).
+- [x] Boundaries mapped: F05-B29 = T1718_005.txt lines 176-180 (所燒之門 Q/A + 樂著嬉戲 + [6] witness).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 件/空 and 能詮/所詮 analysis, plus 五濁對應 closure with apparatus `[6] 名【大】，為【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 燒/不燒 dialectic, 不覺不知 sequence, and 五濁 equivalence chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B29).
+- [x] Boundaries mapped: F05-B30 = T1718_005.txt lines 182-198 (捨几用車 full unit + [1]/[2] witnesses).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 勸門/誡門 two-gate ladder, 四段對照 chains, and apparatus `[1]` / `[2]`.
+- [x] Defects added/updated: No defects detected for F05-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 擬宜/不受/放捨 sequences, second-use-cart fourfold mapping, and 適願六句 interpretation chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B30).
+- [x] Boundaries mapped: F05-B31 = T1718_005.txt lines 200-201 (別譬第三等賜大車總綱 + 四衢道 interpretation).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves fourfold internal map, 機發/障除 mutual-appearance logic, and 四衢道→露地 interpretive closure.
+- [x] Defects added/updated: No defects detected for F05-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 父喜/索車/等賜/得車四分 sequence and 法說-譬說 ordering inversion rationale verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B31).
+- [x] Boundaries mapped: F05-B32 = T1718_005.txt lines 202-217 (索車譬 ten-difficulty refutation unit + witness cluster [1]/[2]/[3]/[4]/[＊1-1]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the full 索車譬 argument chain and all apparatus entries through [7].
+- [x] Defects added/updated: No defects detected for F05-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: ten-difficulty sequence, narrative logic links, and full witness bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B32).
+- [x] Boundaries mapped: F05-B33 = T1718_005.txt lines 218-220 (等賜大車 doctrinal pair: 等子/等車 + 釋有車之由).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves both mega-lines with full internal clause order and doctrinal term mapping.
+- [x] Defects added/updated: No defects detected for F05-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: 等子/等車 architecture, 車體/有車之由 split, and 適願歡喜 closure verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B33).
+- [x] Boundaries mapped: F05-B34 = T1718_005.txt lines 222-224 (不虛譬 opening architecture + witness [1]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves 問/答/述歎 structure and witness line `[1] 救【大】，拔【甲】`.
+- [x] Defects added/updated: No defects detected for F05-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: two-not-false rationale chain and apparatus [1] alignment verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B34).
+- [x] Boundaries mapped: F05-B35 = T1718_005.txt lines 226-230 (short question/answer turn: question polarity + speaker markers).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves question/answer labels and direct-question structure one-to-one.
+- [x] Defects added/updated: No defects detected for F05-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: speaker tags and question polarity verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B35).
+- [x] Boundaries mapped: F05-B36 = T1718_005.txt line 232 (concise answer sentence after short question/answer turn).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the sentence and argumentative force one-to-one.
+- [x] Defects added/updated: No defects detected for F05-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: direct sentence match between source and bilingual row verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B36).
+- [x] Boundaries mapped: F05-B37 = T1718_005.txt lines 234-238 (combined-parable opening + witness pair [1]/ [2]).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves structural adjudication sequence and both witness entries.
+- [x] Defects added/updated: No defects detected for F05-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: ten-vs-seven parable integration chain and apparatus [1]/ [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B37).
+- [x] Boundaries mapped: F05-B38 = T1718_005.txt lines 239-249 (long specific-combination mega-line + full witness bundle).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves full doctrinal sequence and all witness entries [3]/ [4]/ [5]/ [6]/ [*3-1]/ [*3-2]/ [A1]/ [1]/ [2].
+- [x] Defects added/updated: No defects detected for F05-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-239 full chain and lines 241-249 witness bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F05-B38).
+- [x] Boundaries mapped: F05-B39 = T1718_005.txt line 251 (fascicle colophon closure).
+- [x] Source lock edits completed: No textual edits required; F05 scholarly file preserves the final colophon line one-to-one.
+- [x] Defects added/updated: No defects detected for F05-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: final colophon alignment verified one-to-one at fascicle boundary.
+- [x] PASS/FAIL result: PASS (F05-B39).
+- [x] Boundaries mapped: F06-B01 = T1718_006.txt lines 9-12 (fascicle heading + author attribution opening).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves heading and attribution one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-9 title and line-11 attribution verified one-to-one at fascicle transition.
+- [x] PASS/FAIL result: PASS (F06-B01).
+- [x] Boundaries mapped: F06-B02 = T1718_006.txt lines 13-35 (line-13 structural mega-line + full witness cluster).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves the structure sentence and all witnesses through [16].
+- [x] Defects added/updated: No defects detected for F06-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-13 doctrinal map and lines 15-35 witness chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B02).
+- [x] Boundaries mapped: F06-B03 = T1718_006.txt lines 37-60 (five-sharp-envoys long section + extended witness bundle).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves long-form sequence and witness continuity to line 60.
+- [x] Defects added/updated: No defects detected for F06-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: five-sharp-envoys chain and witness sets [17]/[18]/[*15-2]/[*15-3]/[*15-4]/[19]/[20]/[*20-1]/[21]/[*15-5]/[22]/[*22-1]/[1]/[2]/[3]/[4]/[5]/[6]/[7]/[*15-6]/[1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B03).
+- [x] Boundaries mapped: F06-B04 = T1718_006.txt lines 61-63 (specific-verse section opening + witness [2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves section-opening sentence and witness [2] one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-61 structure and line-63 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B04).
+- [x] Boundaries mapped: F06-B05 = T1718_006.txt lines 65-73 (short question/answer unit + post-answer doctrinal line).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves question, answer, and line-73 continuation exactly.
+- [x] Defects added/updated: No defects detected for F06-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: speaker labels, question polarity, answer sentence, and line-73 continuation verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B05).
+- [x] Boundaries mapped: F06-B06 = T1718_006.txt lines 75-80 (transition from discarding-bench unit to using-carts unit + witnesses [3]/ [4]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves transition order and witness [3]/ [4] entries one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-75 and line-77 sequence plus line-79/80 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B06).
+- [x] Boundaries mapped: F06-B07 = T1718_006.txt lines 82-88 (long bestowing-cart verse line + witness set [5]-[9]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves long-line subsection logic and witnesses [5]-[9].
+- [x] Defects added/updated: No defects detected for F06-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-82 structural chain and lines 84-88 witness bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B07).
+- [x] Boundaries mapped: F06-B08 = T1718_006.txt lines 90-92 (combined-general-parable verse summary + witness [10]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves summary logic and witness [10] one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-90 summary chain and line-92 apparatus [10] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B08).
+- [x] Boundaries mapped: F06-B09 = T1718_006.txt lines 94-103 (combined-specific-parable opening + witness bundle [1]-[*5-1]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves three-part structure and full witness bundle through line 103.
+- [x] Defects added/updated: No defects detected for F06-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 94 and 96 structural mapping and lines 98-103 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B09).
+- [x] Boundaries mapped: F06-B10 = T1718_006.txt lines 105-109 (bestowing-cart close + no-false transition + witness [6]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves transition logic and witness [6] at closure.
+- [x] Defects added/updated: No defects detected for F06-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-105 transition chain and line-109 apparatus [6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B10).
+- [x] Boundaries mapped: F06-B11 = T1718_006.txt lines 111-117 (Method-of-Propagation opening long line + witness set [7]/[8]/[1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves speaking/not-speaking and can-pass/cannot-pass chapter map with full witness continuity.
+- [x] Defects added/updated: No defects detected for F06-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-111 structural chain and lines 113-117 witness set [7]/[8]/[1]/[2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B11).
+- [x] Boundaries mapped: F06-B12 = T1718_006.txt lines 119-125 (can-pass/cannot-pass elaboration long line + witness set [4]/[5]/[6]/[7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves two-gate propagation logic and five-pair good-person sequence with full witness continuity.
+- [x] Defects added/updated: No defects detected for F06-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-119 argument chain and lines 121-125 witness set [4]/[5]/[6]/[7]/[8] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B12).
+- [x] Boundaries mapped: F06-B13 = T1718_006.txt lines 127-129 (Belief-and-Understanding chapter marker + witness [9]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves chapter marker opening and witness [9] exactly.
+- [x] Defects added/updated: No defects detected for F06-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-127 chapter marker and line-129 witness [9] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B13).
+- [x] Boundaries mapped: F06-B14 = T1718_006.txt line 131 + lines 133-134 apparatus (title-interpretation opening critique + witness [10]/[11]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves the full opening logic chain and [10]/[11] identity variants without compression.
+- [x] Defects added/updated: No defects detected for F06-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 opening critique sequence and lines 133-134 witness [10]/[11] apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B14).
+- [x] Boundaries mapped: F06-B15 = T1718_006.txt line 131 + line 135 apparatus (Trace-argument continuation into middle-roots sequence + witness [12]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves the full continuation chain and witness [12] exactly.
+- [x] Defects added/updated: No defects detected for F06-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 continuation logic and line-135 witness [12] apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B15).
+- [x] Boundaries mapped: F06-B16 = T1718_006.txt line 131 + lines 136-137 apparatus (narrator/prose opening with [13]/[14] witnesses).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves section opening logic and witness [13]/[14] identity variants exactly.
+- [x] Defects added/updated: No defects detected for F06-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 narrator/prose opening chain and lines 136-137 witness [13]/[14] apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B16).
+- [x] Boundaries mapped: F06-B17 = T1718_006.txt line 131 segment (long-prose architecture: 「長行又二…無所依求」; no apparatus line).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves the long-prose two-tier structure and threefold not-seeking header sequence one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 long-prose architecture chain verified one-to-one through 「無所依求」.
+- [x] PASS/FAIL result: PASS (F06-B17).
+- [x] Boundaries mapped: F06-B18 = T1718_006.txt line 131 segment (explanatory follow-up: 「所以者何？釋三不求…釋不求如文」; no apparatus line).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves explanation order and referential logic exactly.
+- [x] Defects added/updated: No defects detected for F06-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 explanatory follow-up chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B18).
+- [x] Boundaries mapped: F06-B19 = T1718_006.txt line 131 segment (「我等今於佛前…無量珍寶」 pre-parable pivot; no apparatus line).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves reason-for-understanding and brief-parable lift sequence one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 pre-parable pivot chain verified one-to-one through 「無量珍寶」.
+- [x] PASS/FAIL result: PASS (F06-B19).
+- [x] Boundaries mapped: F06-B20 = T1718_006.txt line 131 segment 「從世尊我等樂說譬喻…何甞變換(云云)？」 + lines 138-147 apparatus bundle ([1]/[2]/[3]/[4]/[5]/[*5-1]/[6]/[*6-1]/[7]/[A3]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves five-parable architecture and full witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 broad-parable structure and lines 138-147 apparatus chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B20).
+- [x] Boundaries mapped: F06-B21 = T1718_006.txt line 131 segment 「父子相失譬…分章竟」 + lines 148-155 apparatus ([8]/[9]/[10]/[11]/[12]/[13]/[*1-1]/[14]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves nested four-part/two-part sequence and full witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-131 father-son-loss structure and lines 148-155 apparatus chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B21).
+- [x] Boundaries mapped: F06-B22 = T1718_006.txt line 157 segment 「[＊5-2]銷文者…捨父逃逝」 + lines 159-160 apparatus ([*5-2]/[15]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves 子背父去 micro-exegesis chain and [*5-2]/[15] witnesses one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-157 micro-exegesis chain and lines 159-160 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B22).
+- [x] Boundaries mapped: F06-B23 = T1718_006.txt lines 162-172 (explicit 問/答 turn + 久住他國 gloss) + line 172 apparatus ([16]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves Q/A polarity and 久住他國 doctrinal chain with witness [16] one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 162-170 Q/A + gloss chain and line 172 apparatus [16] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B23).
+- [x] Boundaries mapped: F06-B24 = T1718_006.txt line 174 segment 「年既長大…舍也」 + lines 176-178 apparatus ([*16-1]/[1]/[A4]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves return-toward-city chain and 國/城/舍 distinction with witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-174 return-toward-city chain and lines 176-178 apparatus ([*16-1]/[1]/[A4]) verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B24).
+- [x] Boundaries mapped: F06-B25 = T1718_006.txt line 174 continuation 「其父先來求子不得…商估賈客亦甚眾多」 + line 179 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves country/city/house and role-mapping taxonomy chain with witness [2] one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-174 continuation chain and line-179 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B25).
+- [x] Boundaries mapped: F06-B26 = T1718_006.txt lines 183-188 (father-anxiety subsection: 念失子之苦) + apparatus [3]/[4]/[5]/[6].
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves regret/resentment chain and witness [3]/[4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 183-188 subsection chain and apparatus [3]/[4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B26).
+- [x] Boundaries mapped: F06-B27 = T1718_006.txt lines 190-199 (法身所化 Q/A closure + total-parable closure) + lines 198-199 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part1 scholarly file preserves Q/A polarity and lineage-transfer closure with witness [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 190-196 Q/A closure and lines 198-199 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B27).
+- [x] Boundaries mapped: F06-B28 = T1718_006.txt lines 201-205 (卷第六上/卷第六下 seam + attribution transition across files).
+- [x] Source lock edits completed: No textual edits required; seam is represented by `Wenju_Fascicle_06_Part1_Scholarly.md` (卷第六上) and `Wenju_Fascicle_06_Part2_Scholarly.md` (卷第六下 + attribution) without loss.
+- [x] Defects added/updated: No defects detected for F06-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 201-205 fascicle seam and attribution continuity verified one-to-one across Part1/Part2 files.
+- [x] PASS/FAIL result: PASS (F06-B28).
+- [x] Boundaries mapped: F06-B29 = T1718_006.txt line 207 section-opening segment (父子相見譬 architecture) + lines 209-210 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves three-part and two-tier architecture with [3]/[4] witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-207 opening architecture and lines 209-210 apparatus [3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B29).
+- [x] Boundaries mapped: F06-B30 = T1718_006.txt line 207 continuation (見父之由 doctrinal analysis chain) + lines 211-215 apparatus ([5]/[6]/[7]/[8]/[9]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves full analysis chain and witness bundle [5]-[9] one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-207 continuation and lines 211-215 apparatus [5]/[6]/[7]/[8]/[9] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B30).
+- [x] Boundaries mapped: F06-B31 = T1718_006.txt line 217 segment 「窮子見父有大力勢…疾走也」 (見父畏避 subsection).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves fear-avoidance argument chain one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-217 subsection chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B31).
+- [x] Boundaries mapped: F06-B32 = T1718_006.txt line 219 segment 「時富長者…我願得適也」 + lines 221-222 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves father-sees-son four-part sequence and [1]/[2] witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-219 opening sequence and lines 221-222 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B32).
+- [x] Boundaries mapped: F06-B33 = T1718_006.txt line 224 opening segment 「即遣傍人急追將還」 chase-lure architecture + lines 226-230 apparatus ([3]/[4]/[1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 勸門/誡門/息化 sequence and apparatus [3]/[4]/[1]/[2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-224 opening architecture and lines 226-230 apparatus [3]/[4]/[1]/[2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B33).
+- [x] Boundaries mapped: F06-B34 = T1718_006.txt line 224 continuation segment 「不語他人…往至貧里以求衣食」 + lines 231-233 apparatus ([4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 息化-to-稱機 closure chain and apparatus [4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-224 continuation chain and lines 231-233 apparatus [4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B34).
+- [x] Boundaries mapped: F06-B35 = T1718_006.txt lines 235-241 (問/答 + 法身久照 reasoning chain + 密遣二人 extended analysis) + lines 243-250 apparatus ([7]/[8]/[9]/[1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves Q/A polarity, narrative logic sequence, and apparatus [7]/[8]/[9]/[1]/[2]/[3]/[4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 235-241 chain and lines 243-250 apparatus [7]/[8]/[9]/[1]/[2]/[3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B35).
+- [x] Boundaries mapped: F06-B36 = T1718_006.txt line 251 segment 「今初語諸作人者…二十語同各有所以」 + lines 253-255 apparatus ([5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves sevenfold 道品 mapping chain and apparatus [5]/[6]/[7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-251 employment strategy chain and lines 253-255 apparatus [5]/[6]/[7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B36).
+- [x] Boundaries mapped: F06-B37 = T1718_006.txt line 257 segment 「過是已後…探領一化五味之教」 + lines 259-264 apparatus ([1]/[2]/[3]/[4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves five-flavor entrustment compression chain and apparatus [1]/[2]/[3]/[4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-257 doctrinal chain and lines 259-264 apparatus [1]/[2]/[3]/[4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B37).
+- [x] Boundaries mapped: F06-B38 = T1718_006.txt line 266 segment 「領家業[7]文為二…復經少時父知子意」 + lines 268-270 apparatus ([7]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 相體信/命領業 architecture and apparatus [7]/[1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-266 architecture chain and lines 268-270 apparatus [7]/[1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B38).
+- [x] Boundaries mapped: F06-B39 = T1718_006.txt lines 272-278 (何時名少時 問/答 chain) + lines 280-281 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 少時問答 polarity and apparatus [3]/[4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 272-278 Q/A chain and lines 280-281 apparatus [3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B39).
+- [x] Boundaries mapped: F06-B40 = T1718_006.txt lines 283-289 (正付家業/聚眾為證/結會父子 chain) + lines 285 + 291-292 apparatus ([5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 付業四分 structure and apparatus [5]/[6]/[7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 283-289 structural chain and lines 285/291-292 apparatus [5]/[6]/[7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B40).
+- [x] Boundaries mapped: F06-B41 = T1718_006.txt line 294 segment 「今我所有…子既逃父，貶之言似」 + line 296 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves 正付/得付歡喜 transition and apparatus [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-294 transition chain and line-296 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B41).
+- [x] Boundaries mapped: F06-B42 = T1718_006.txt lines 298-306 (問答 + 合父子相見/追誘/付家業 chain) + lines 308-311 apparatus ([2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves combined-parable logic chain and apparatus [2]/[3]/[4]/[5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B42 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 298-306 chain and lines 308-311 apparatus [2]/[3]/[4]/[5] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B42).
+- [x] Boundaries mapped: F06-B43 = T1718_006.txt line 313 opening verse-recap segment 「八十六行半偈…窮子見父」 + lines 315-320 apparatus ([6]/[7]/[8]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves verse-recap architecture and apparatus [6]/[7]/[8]/[1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B43 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-313 opening recap chain and lines 315-320 apparatus [6]/[7]/[8]/[1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B43).
+- [x] Boundaries mapped: F06-B44 = T1718_006.txt line 321 continuation verse/合譬/eulogy chain + lines 323-334 apparatus ([3]/[4]/[＊7-1]/[5]/[6]/[7]/[8]/[9]/[10]/[1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves rapid recap layering and full witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B44 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-321 continuation chain and lines 323-334 apparatus ([3]/[4]/[＊7-1]/[5]/[6]/[7]/[8]/[9]/[10]/[1]/[2]/[3]) verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B44).
+- [x] Boundaries mapped: F06-B45 = T1718_006.txt line 338 colophon segment 「[6]妙法蓮華經文句卷第六[7]下」 + lines 340-341 apparatus ([6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F06 Part2 scholarly file preserves fascicle-end colophon and apparatus [6]/[7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F06-B45 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-338 colophon and lines 340-341 apparatus [6]/[7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F06-B45).
+- [x] Boundaries mapped: F07-B01 = T1718_007.txt line 9 heading 「[8]妙法蓮華經文句卷第七[9]上」 + lines 11-12 apparatus ([8]/[9]) + line 14 attribution with line 16 apparatus ([10]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves heading/attribution witnesses [8]/[9]/[10] one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-9 heading + lines 11-12 apparatus and line-14 attribution + line-16 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B01).
+- [x] Boundaries mapped: F07-B02 = T1718_007.txt lines 18-20 (釋藥草喻品 opening chain) + lines 22-25 apparatus ([11]/[12]/[13]/[14]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 藥草喻品 opening doctrinal chain and apparatus [11]/[12]/[13]/[14] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 18-20 opening chain and lines 22-25 apparatus [11]/[12]/[13]/[14] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B02).
+- [x] Boundaries mapped: F07-B03 = T1718_007.txt line 27 segment 「此品是譬說中第三述成段…又權行大士宜應如此也」 + line 29 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 退進/橫豎 taxonomy ordering and line-29 witness [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-27 structural chain and line-29 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B03).
+- [x] Boundaries mapped: F07-B04 = T1718_007.txt line 31 segment 「廣述成又二…權實亦爾(云云)」 + lines 33-36 apparatus ([2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 法王/開三顯一 prose chain and apparatus [2]/[3]/[4]/[5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-31 doctrinal chain and lines 33-36 apparatus [2]/[3]/[4]/[5] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B04).
+- [x] Boundaries mapped: F07-B05 = T1718_007.txt line 38 segment 「從譬如下…唯有如來能知也」 + lines 40-47 apparatus ([1]/[2]/[3]/[4]/[5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 差別譬 sixfold architecture and apparatus [1]/[2]/[3]/[4]/[5]/[6]/[7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-38 parable chain and lines 40-47 apparatus [1]/[2]/[3]/[4]/[5]/[6]/[7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B05).
+- [x] Boundaries mapped: F07-B06 = T1718_007.txt lines 48-54 segment 「迦葉當知如來…隨其所堪快得善利」 + lines 56-57 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 合譬六序 and line-54 closure with apparatus [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 48-54 chain and lines 56-57 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B06).
+- [x] Boundaries mapped: F07-B07 = T1718_007.txt lines 59-64 segment 「是諸眾生聞是法已…提譬帖合六意」 + lines 61-62 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 增長譬-to-提譬 transition and apparatus [3]/[4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 59-64 chain and lines 61-62 apparatus [3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B07).
+- [x] Boundaries mapped: F07-B08 = T1718_007.txt lines 66-70 segment 「如來說法一相…一切種智也」 + lines 68-69 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 一相一味/無差別 argument chain and apparatus [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 66-70 chain and lines 68-69 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B08).
+- [x] Boundaries mapped: F07-B09 = T1718_007.txt lines 71-77 segment 「其有眾生聞如來法不自覺知…如來亦能知」 + lines 73-76 apparatus ([3]/[4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 眾生不知/如來能知 chain and apparatus [3]/[4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 71-77 chain and lines 73-76 apparatus [3]/[4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B09).
+- [x] Boundaries mapped: F07-B10 = T1718_007.txt lines 78-80 segment 「如彼卉木…終歸於空」 + line 82 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 差別/無差別 closure chain and line-82 witness [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 78-80 chain and line-82 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B10).
+- [x] Boundaries mapped: F07-B11 = T1718_007.txt line 84 segment 「佛知是已觀眾生…故不即說也」 (斷物疑 micro-unit).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves line-84 釋疑 polarity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-84 斷物疑 segment verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B11).
+- [x] Boundaries mapped: F07-B12 = T1718_007.txt lines 86-88 segment 「汝等迦葉…偈有五十四行半…」 + lines 90-99 apparatus ([2]/[1]/[2]/[3]/[＊1-1]/[4]/[5]/[6]/[7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 復宗稱述-to-偈 transition chain and full witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 86-88 chain and lines 90-99 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B12).
+- [x] Boundaries mapped: F07-B13 = T1718_007.txt lines 101-109 Q/A segment 「一雲一雨，與一音同異？…二乘智斷是菩薩道」 + lines 111-113 apparatus ([1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 一雲一雨 Q/A and 菩薩道 cause-fruit clarification with apparatus [1]/[2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 101-109 Q/A chain and lines 111-113 apparatus [1]/[2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B13).
+- [x] Boundaries mapped: F07-B14 = T1718_007.txt lines 115-119 Q/A segment 「問：菩薩亦有果…答：此義亦應得」.
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 道/果 question-answer polarity and causal conclusion one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 115-119 Q/A chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B14).
+- [x] Boundaries mapped: F07-B15 = T1718_007.txt lines 121-123 (釋授記品 opening and taxonomy chain) + lines 125-127 apparatus ([4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 授記品 opening architecture and apparatus [4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 121-123 chain and lines 125-127 apparatus [4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B15).
+- [x] Boundaries mapped: F07-B16 = T1718_007.txt line 129 structural segment 「此文是譬說第四段…更說宿緣」 + lines 131-133 apparatus ([7]/[8]/[1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1 scholarly file preserves 譬說第四段 structure and apparatus [7]/[8]/[1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-129 architecture chain and lines 131-133 apparatus [7]/[8]/[1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B16).
+- [x] Boundaries mapped: F07-B17 = T1718_007.txt seam block lines 135/137/139/141 (卷第七上 to 卷第七下 + attribution + [2]釋化城喻品) + line 143 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part1-to-Part2 seam preserves roll/attribution/title transitions and apparatus [2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 135/137/139/141 seam chain and line-143 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B17).
+- [x] Boundaries mapped: F07-B18 = T1718_007.txt line 145 opening 化城 doctrinal definition chain + line 147 apparatus ([3]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 化/城 definition logic and apparatus [3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-145 definition chain and line-147 apparatus [3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B18).
+- [x] Boundaries mapped: F07-B19 = T1718_007.txt lines 149-163 dual Q/A sequence on chapter naming and 化城/寶所 priority.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves both question-answer turns and argumentative closure one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 149-163 dual Q/A sequence verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B19).
+- [x] Boundaries mapped: F07-B20 = T1718_007.txt line 165 long structural segment 「此段三品經文…得解脫」 + lines 167-173 apparatus ([4]/[5]/[6]/[7]/[1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves long-form architecture chain and full witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-165 chain and lines 167-173 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B20).
+- [x] Boundaries mapped: F07-B21 = T1718_007.txt line 175 segment 「爾時十六王子皆出家…八萬四千劫」 + lines 177-179 apparatus ([4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 重請滿字法輪 sequence and apparatus [4]/[5]/[6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-175 sequence and lines 177-179 apparatus [4]/[5]/[6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B21).
+- [x] Boundaries mapped: F07-B22 = T1718_007.txt line 181 segment 「是時十六菩薩知佛入室…方始受大乃至滅後得道者是也」 + lines 183-185 apparatus ([7]/[8]/[9]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 正結緣三分 and apparatus [7]/[8]/[9] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-181 chain and lines 183-185 apparatus [7]/[8]/[9] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B22).
+- [x] Boundaries mapped: F07-B23 = T1718_007.txt lines 187-193 Q/A segment on 無生法忍 difficulty and 四悉檀 calibration.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves long/short pedagogical polarity and Q/A closure one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 187-193 Q/A segment verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B23).
+- [x] Boundaries mapped: F07-B24 = T1718_007.txt lines 195-197 segment 「今日還說法華」 with 古今會通 + 時眾清淨/正說/釋前開三 architecture.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 古今會通 structure and 今日還說法華 argument chain one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 195-197 architecture chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B24).
+- [x] Boundaries mapped: F07-B25 = T1718_007.txt lines 199-201 opening 導師譬 chain + lines 203-205 apparatus ([A1]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 導師譬 fivefold mapping and apparatus [A1]/[1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 199-201 parable chain and lines 203-205 apparatus [A1]/[1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B25).
+- [x] Boundaries mapped: F07-B26 = T1718_007.txt lines 207-221 dual Q/A sequence on naming choices (相失/驚入/不虛) and resolution logic.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves both naming Q/A turns and argument closure one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 207-221 dual Q/A sequence verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B26).
+- [x] Boundaries mapped: F07-B27 = T1718_007.txt line 223 five-hundred-yojana doctrinal adjudication chain + line 225 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves the full line-223 adjudication chain with line-225 witness [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-223 chain and line-225 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B27).
+- [x] Boundaries mapped: F07-B28 = T1718_007.txt line 227 「將導眾人」 long-form interpretive chain + lines 229-231 apparatus ([1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 將導譬 structure and apparatus [1]/[2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-227 chain and lines 229-231 apparatus [1]/[2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B28).
+- [x] Boundaries mapped: F07-B29 = T1718_007.txt line 233 segment 「爾時導師知此…」 + line 235 apparatus ([4]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 滅化引至寶所 transition and apparatus [4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-233 transition chain and line-235 apparatus [4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B29).
+- [x] Boundaries mapped: F07-B30 = T1718_007.txt line 237 segment 「寶處在近…」 + line 239 apparatus ([5]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 廢權顯實 transition and apparatus [5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-237 chain and line-239 apparatus [5] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B30).
+- [x] Boundaries mapped: F07-B31 = T1718_007.txt lines 241-247 old Q/A on car/city ontological status and movement/static dialectic.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves old-question response polarity and doctrinal contrast chain one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 241-247 Q/A chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B31).
+- [x] Boundaries mapped: F07-B32 = T1718_007.txt lines 249-255 Q/A on 三車 vs 化城 distinctions + lines 257-258 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves two-wheel distinction chain and apparatus [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 249-255 Q/A chain and lines 257-258 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B32).
+- [x] Boundaries mapped: F07-B33 = T1718_007.txt lines 260-266 Q/A on five sites of 開三顯一 + lines 268-269 apparatus ([A2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves five-site differentiation logic and apparatus [A2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 260-266 Q/A chain and lines 268-269 apparatus [A2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B33).
+- [x] Boundaries mapped: F07-B34 = T1718_007.txt line 271 「諸比丘如來」合譬 chain.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 合譬 ordering and join logic one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-271 合譬 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B34).
+- [x] Boundaries mapped: F07-B35 = T1718_007.txt line 273 verse-architecture chain + line 275 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 近遠由 verse architecture and apparatus [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-273 chain and line-275 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B35).
+- [x] Boundaries mapped: F07-B36 = T1718_007.txt line 277 「時十六王子」 verse segment + line 279 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 王子重請 sequence and apparatus [2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-277 chain and line-279 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B36).
+- [x] Boundaries mapped: F07-B37 = T1718_007.txt line 281 「是諸沙彌等」 verse macro-chain + lines 283-292 apparatus ([3]/[4]/[5]/[6]/[7]/[8]/[9]/[10]/[11]/[12]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves long verse decomposition chain and full apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-281 chain and lines 283-292 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B37).
+- [x] Boundaries mapped: F07-B38 = T1718_007.txt lines 294-296 opening 「釋五百弟子受記品」 + rationale chain + line 298 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves heading-to-rationale opening and apparatus [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 294-296 opening chain and line-298 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B38).
+- [x] Boundaries mapped: F07-B39 = T1718_007.txt line 300 「而作是念」默念領解 chain.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 默念領解 argument chain and request logic one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-300 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B39).
+- [x] Boundaries mapped: F07-B40 = T1718_007.txt line 302 「佛告」述本迹 chain + line 304 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 述本迹 tri-structure and apparatus [2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-302 chain and line-304 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B40).
+- [x] Boundaries mapped: F07-B41 = T1718_007.txt line 306 「汝等勿謂助宣我法」 chain + line 308 apparatus ([3]) + line 310 colophon boundary.
+- [x] Source lock edits completed: No textual edits required; F07 Part2 scholarly file preserves 顯本 chain, line-308 witness [3], and line-310 fascicle-close boundary one-to-one.
+- [x] Defects added/updated: No defects detected for F07-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-306 chain, line-308 apparatus [3], and line-310 colophon verified one-to-one.
+- [x] PASS/FAIL result: PASS (F07-B41).
+- [x] Boundaries mapped: F08-B01 = T1718_008.txt line 9 heading 「妙法蓮華經文句[A1]卷第八上」 + line 11 apparatus ([A1]) + line 13 attribution 「天台智者大師說」.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves heading/attribution order and apparatus [A1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 9/11/13 heading-attribution chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B01).
+- [x] Boundaries mapped: F08-B02 = T1718_008.txt line 15 long 「漸漸具足菩薩」授記 seven-part chain + lines 17-21 apparatus ([1]/[2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves long-form 授記 architecture and apparatus [1]/[2]/[3]/[4]/[5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-15 chain and lines 17-21 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B02).
+- [x] Boundaries mapped: F08-B03 = T1718_008.txt lines 23-25 verse-analysis segment (二十一行半偈 + 發迹/授記 subdivision).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves verse structure counts and subsection ordering one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 23-25 verse-structure chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B03).
+- [x] Boundaries mapped: F08-B04 = T1718_008.txt lines 27-35 「授千二百記」 sequence + Q/A chain + line 37 apparatus ([6]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves five-hundred vs twelve-hundred Q/A logic and apparatus [6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 27-35 chain and line-37 apparatus [6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B04).
+- [x] Boundaries mapped: F08-B05 = T1718_008.txt line 39 eleven-line verse allocation + five-hundred領解 architecture + lines 41-42 apparatus ([7]/[1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves line-39 narrative chain and lines 41-42 witness [7]/[1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-39 chain and lines 41-42 apparatus [7]/[1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B05).
+- [x] Boundaries mapped: F08-B06 = T1718_008.txt line 44 「於後會遇」親友發覺譬 long-form threefold chain.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 呵責/示珠/勸貿 and 三周 mapping sequence one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-44 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B06).
+- [x] Boundaries mapped: F08-B07 = T1718_008.txt line 46 verse recap segment (十二行半 structure + 開合 distribution).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves verse count logic and 開/合 ordering one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-46 verse recap verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B07).
+- [x] Boundaries mapped: F08-B08 = T1718_008.txt line 48 heading 「釋授學無學人記品」 + line 50 doctrinal definition chain + lines 52-54 apparatus ([2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves heading-to-definition transition and apparatus [2]/[3]/[4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 48/50 chain and lines 52-54 apparatus [2]/[3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B08).
+- [x] Boundaries mapped: F08-B09 = T1718_008.txt lines 56-62 Q/A turn on upper-stream placement + lines 64-67 apparatus ([＊4-1]/[＊2-1]/[＊2-2]/[5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves Q/A polarity, 阿難-羅雲 placement logic, and apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 56-62 chain and lines 64-67 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B09).
+- [x] Boundaries mapped: F08-B10 = T1718_008.txt line 69 heading 「釋法師品」 + line 71 fivefold法師 architecture + lines 73-79 apparatus ([6]/[1]/[2]/[3]/[4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 法師品 opening architecture and full apparatus continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 69/71 chain and lines 73-79 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B10).
+- [x] Boundaries mapped: F08-B11 = T1718_008.txt lines 81-87 Q/A on three-method framing + line 89 apparatus ([7]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves threefold迷惑-to-three门 teaching logic and apparatus [7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 81-87 Q/A chain and line-89 apparatus [7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B11).
+- [x] Boundaries mapped: F08-B12 = T1718_008.txt line 91 long流通 architecture chain + lines 93-99 apparatus ([8]/[9]/[10]/[11]/[＊11-1]/[＊11-2]/[1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 流通 stratification and full apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-91 chain and lines 93-99 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B12).
+- [x] Boundaries mapped: F08-B13 = T1718_008.txt line 101 「如來滅後弟子」 transition segment.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 佛世-to滅後弟子 transition one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-101 transition verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B13).
+- [x] Boundaries mapped: F08-B14 = T1718_008.txt line 103 師門 long-form chain + lines 105-109 apparatus ([2]/[＊2-1]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 師門上/下品 logic and apparatus [2]/[＊2-1]/[3]/[4]/[5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-103 chain and lines 105-109 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B14).
+- [x] Boundaries mapped: F08-B15 = T1718_008.txt line 111 verse summary chain + lines 113-114 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves verse segmentation and apparatus [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-111 chain and lines 113-114 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B15).
+- [x] Boundaries mapped: F08-B16 = T1718_008.txt line 116 「爾時佛復告」 transition into 歎所持法/弘經方法 framework.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves transition and two-part framework declaration one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-116 framework transition verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B16).
+- [x] Boundaries mapped: F08-B17 = T1718_008.txt line 118 「如來滅後其能書持」 chain + lines 120-121 apparatus ([3]/[＊3-1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 約人歎 chain and apparatus [3]/[＊3-1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-118 chain and lines 120-121 apparatus [3]/[＊3-1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B17).
+- [x] Boundaries mapped: F08-B18 = T1718_008.txt lines 123-125 約處歎-to-舉因/舉果 chain + line 127 apparatus ([＊11-3]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves line-123/125 structural pivot and line-127 witness [＊11-3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 123-125 chain and line-127 apparatus [＊11-3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B18).
+- [x] Boundaries mapped: F08-B19 = T1718_008.txt line 129 「譬如有人」開譬 long-form (觀門/教門) chain + line 131 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves the full two-gate explanatory sequence and line-131 witness [1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-129 chain and line-131 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B19).
+- [x] Boundaries mapped: F08-B20 = T1718_008.txt lines 133-139 first Q/A on 「餘經何故去佛遠」.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves question-answer polarity and 「決了聲聞法」 closure one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 133-139 first Q/A chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B20).
+- [x] Boundaries mapped: F08-B21 = T1718_008.txt lines 141-147 second Q/A on 般若遠近 + line 145 apparatus ([＊1-1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves second Q/A argumentative chain and line-145 witness [＊1-1] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 141-147 chain and line-145 apparatus [＊1-1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B21).
+- [x] Boundaries mapped: F08-B22 = T1718_008.txt line 149 合譬 transition + line 151 釋得近意 opening + lines 153-154 apparatus ([2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 合譬-to-釋近 transition and apparatus [2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 149/151 chain and lines 153-154 apparatus [2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B22).
+- [x] Boundaries mapped: F08-B23 = T1718_008.txt line 156 gate-taxonomy Q/A chain + lines 158-161 apparatus ([4]/[5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves nested gate-taxonomy logic and apparatus [4]/[5]/[6]/[7] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-156 chain and lines 158-161 apparatus [4]/[5]/[6]/[7] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B23).
+- [x] Boundaries mapped: F08-B24 = T1718_008.txt line 163 second Q/A on 方便/真實互門 chain.
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves second Q/A polarity and 名義互門 argument continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-163 second Q/A chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B24).
+- [x] Boundaries mapped: F08-B25 = T1718_008.txt line 165 long 「以三顯一/以一顯三」 expansion + line 167 apparatus ([8]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves the full fifteen-place gate expansion and line-167 witness [8] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-165 chain and line-167 apparatus [8] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B25).
+- [x] Boundaries mapped: F08-B26 = T1718_008.txt line 169 「藥王若有菩薩聞」揀非 clause + line 171 apparatus ([＊11-4]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 揀非 conclusion and line-171 witness [＊11-4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-169 clause and line-171 apparatus [＊11-4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B26).
+- [x] Boundaries mapped: F08-B27 = T1718_008.txt line 173 「若有善男子善女人如來滅後」弘經方法 chain + lines 175-177 apparatus ([1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves 方法/利益 two-part structure and apparatus [1]/[2]/[3] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-173 chain and lines 175-177 apparatus [1]/[2]/[3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B27).
+- [x] Boundaries mapped: F08-B28 = T1718_008.txt line 179 verse recap chain + lines 181-184 apparatus ([4]/[＊11-5]/[5]/[6]) + fascicle seam lines 186-194 (卷第八上/下 + attribution + [7]釋見寶塔品 heading witness).
+- [x] Source lock edits completed: No textual edits required; F08 Part1 scholarly file preserves verse recap architecture, apparatus bundle continuity, and fascicle-seam heading/attribution order one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-179 chain, lines 181-184 apparatus bundle, and lines 186-194 seam markers verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B28).
+- [x] Boundaries mapped: F08-B29 = T1718_008.txt line 196 見寶塔品 preface long-form chain + lines 198-206 apparatus ([8]/[9]/[10]/[1]/[2]/[＊10-1]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves line-196 doctrinal-historical chain and lines 198-206 apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-196 chain and lines 198-206 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B29).
+- [x] Boundaries mapped: F08-B30 = T1718_008.txt lines 208-210 chapter architecture chain (長行三分 + 諸天供養 opening).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves structural decomposition and transition logic one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 208-210 architecture chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B30).
+- [x] Boundaries mapped: F08-B31 = T1718_008.txt line 212 「爾時寶塔中」多寶稱歎 chain + lines 214-215 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 平等大慧 interpretive chain and apparatus [1]/[2] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-212 chain and lines 214-215 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B31).
+- [x] Boundaries mapped: F08-B32 = T1718_008.txt lines 217-219 時眾驚疑 + 大樂說三問 framing.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 疑問 framing and tri-question ordering one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 217-219 question framing verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B32).
+- [x] Boundaries mapped: F08-B33 = T1718_008.txt line 221 佛答三段 chain + lines 223-224 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 三答 sequence and apparatus [3]/[4] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-221 chain and lines 223-224 apparatus [3]/[4] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B33).
+- [x] Boundaries mapped: F08-B34 = T1718_008.txt line 226 「大樂說以如來神力」分身遠集 sevenfold chain + line 228 apparatus ([5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves sevenfold structure sequence and line-228 witness [5] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-226 chain and line-228 apparatus [5] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B34).
+- [x] Boundaries mapped: F08-B35 = T1718_008.txt line 230 forty-eight-verse summary chain + line 232 「釋提婆達多品」 heading + line 234 apparatus ([6]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves verse-to-chapter transition and line-234 witness [6] continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-230 chain, line-232 heading, and line-234 apparatus [6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B35).
+- [x] Boundaries mapped: F08-B36 = T1718_008.txt line 236 《寶唱經目》/提婆達多 preface chain + lines 238-244 apparatus ([7]/[8]/[1]/[2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves the long preface narrative and lines 238-244 apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-236 chain and lines 238-244 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B36).
+- [x] Boundaries mapped: F08-B37 = T1718_008.txt lines 246-248 first/second macro-division chain (往昔師弟持經相 + 結會古今) + lines 250-254 apparatus ([6]/[7]/[8]/[9]/[10]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves macro-division logic and lines 250-254 apparatus bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 246-248 chain and lines 250-254 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B37).
+- [x] Boundaries mapped: F08-B38 = T1718_008.txt lines 256-266 continuation chain (三十二相→師妙果→勸修→今日文殊通經 framing) + lines 258-260 and 268-270 apparatus bundles.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves continuation framing and both apparatus bundles continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 256-266 chain with lines 258-260 and 268-270 apparatus bundles verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B38).
+- [x] Boundaries mapped: F08-B39 = T1718_008.txt line 272 「文殊言我於海中」九門利益 chain + line 274 apparatus ([＊10-2]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 九門利益 ordering and line-274 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-272 chain and line-274 apparatus [＊10-2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B39).
+- [x] Boundaries mapped: F08-B40 = T1718_008.txt lines 276-286 持品 heading/naming rationale + first 問答 chain.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 持品 chapter-opening structure and first 問答 response continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 276-286 heading/naming + 問答 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B40).
+- [x] Boundaries mapped: F08-B41 = T1718_008.txt lines 288-296 受持/勸持 macro-division + second 問答 chain.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves two-stage section map and second 問答 continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 288-296 macro-division and 問答 sequence verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B41).
+- [x] Boundaries mapped: F08-B42 = T1718_008.txt line 298 第二勸持長行 chain + lines 300-309 apparatus bundle ([2]/[3]/[4]/[5]/[6]/[7]/[8]/[9]/[10]/[1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves line-298 long-chain argument and lines 300-309 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B42 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-298 long-chain and lines 300-309 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B42).
+- [x] Boundaries mapped: F08-B43 = T1718_008.txt line 311 「釋安樂行品」 heading + line 313 triad explanatory chain + lines 315-316 apparatus ([2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 安/樂/行 triad progression and lines 315-316 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B43 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-311 heading, line-313 doctrinal chain, and lines 315-316 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B43).
+- [x] Boundaries mapped: F08-B44 = T1718_008.txt lines 318-324 問答 chain (《大經》折伏/此經攝受四悉檀 mapping).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 問答 polarity and four-intent conclusion continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B44 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 318-324 問答 sequence verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B44).
+- [x] Boundaries mapped: F08-B45 = T1718_008.txt line 326 廣法門釋 chain + lines 328-331 apparatus bundle ([1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves line-326 progressive argument and lines 328-331 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B45 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-326 long-chain and lines 328-331 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B45).
+- [x] Boundaries mapped: F08-B46 = T1718_008.txt lines 333-335 四安樂行 taxonomy + 行近 analysis chain + lines 337-338 apparatus ([5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves four-lineage taxonomy and 行處/近處 analysis continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B46 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 333-335 doctrinal-analysis chain and lines 337-338 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B46).
+- [x] Boundaries mapped: F08-B47 = T1718_008.txt lines 340-342 三法/二法明行處 chain + lines 344-345 apparatus ([7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 三法→二法 progression and lines 344-345 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B47 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 340-342 chain and lines 344-345 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B47).
+- [x] Boundaries mapped: F08-B48 = T1718_008.txt line 347 三法明行處 continuation chain + line 349 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 三諦-to-三行 mapping and line-349 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B48 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-347 continuation chain and line-349 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B48).
+- [x] Boundaries mapped: F08-B49 = T1718_008.txt line 351 龍師二忍 commentary chain + 圓教 critique closure.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves 龍師 quotation logic and critique handoff continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B49 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-351 commentary chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B49).
+- [x] Boundaries mapped: F08-B50 = T1718_008.txt line 353 近處/十惱亂 chain + lines 355-357 apparatus ([2]/[3]/[4]) + line 359 fascicle end marker.
+- [x] Source lock edits completed: No textual edits required; F08 Part2 scholarly file preserves ten-disturbance ordering, lines 355-357 witness bundle, and line-359 fascicle-end marker one-to-one.
+- [x] Defects added/updated: No defects detected for F08-B50 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-353 chain, lines 355-357 apparatus bundle, and line-359 end marker verified one-to-one.
+- [x] PASS/FAIL result: PASS (F08-B50).
+- [x] Boundaries mapped: F09-B01 = T1718_009.txt lines 9-13 fascicle opening/title-attribution + 「非遠非近文為三」 long chain + lines 15-17 apparatus ([5]/[6]/[＊6-1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves opening architecture, nineteen-phrase doctrinal sequence, and lines 15-17 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 9-13 opening chain and lines 15-17 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B01).
+- [x] Boundaries mapped: F09-B02 = T1718_009.txt line 19 偈二十八行三句 structure chain + lines 21-22 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves verse-structure sequence and lines 21-22 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-19 structure chain and lines 21-22 apparatus [1]/[2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B02).
+- [x] Boundaries mapped: F09-B03 = T1718_009.txt lines 24-26 「又復不行」/「若有比丘」 verse-structure continuation + line 28 apparatus ([3]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves second/third verse-structure segmentation and line-28 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 24-26 continuation chain and line-28 apparatus [3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B03).
+- [x] Boundaries mapped: F09-B04 = T1718_009.txt line 30 第二口安樂行 opening chain + line 32 觀行門 transition.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 口安樂行 dual-track structure (止行/觀行) continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-30 opening chain and line-32 transition verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B04).
+- [x] Boundaries mapped: F09-B05 = T1718_009.txt line 34 口安樂行偈結構 chain + line 36 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves line-34 verse-architecture analysis and line-36 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-34 structure chain and line-36 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B05).
+- [x] Boundaries mapped: F09-B06 = T1718_009.txt line 38 觀門/行成 chain + lines 40-43 apparatus ([2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves contemplation-to-completion sequencing and lines 40-43 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-38 chain and lines 40-43 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B06).
+- [x] Boundaries mapped: F09-B07 = T1718_009.txt line 45 第三意安樂行 opening chain + lines 47-49 apparatus ([6]/[7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 意安樂行 stop/observe architecture and lines 47-49 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-45 opening chain and lines 47-49 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B07).
+- [x] Boundaries mapped: F09-B08 = T1718_009.txt lines 51-53 六行偈 summary + 「第四，誓願安樂行」 opening heading.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 意安樂行 close and 誓願安樂行 opening transition one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 51-53 transition chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B08).
+- [x] Boundaries mapped: F09-B09 = T1718_009.txt line 55 誓願安樂行行法三段 long chain.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 慈誓/悲誓/正發誓願 progression on line 55 one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-55 vow-logic chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B09).
+- [x] Boundaries mapped: F09-B10 = T1718_009.txt line 57 誓願行成三段 chain + lines 59-60 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 行成三段 closure and lines 59-60 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-57 chain and lines 59-60 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B10).
+- [x] Boundaries mapped: F09-B11 = T1718_009.txt line 62 歎經難聞法譬雙分 chain + lines 64-66 apparatus ([3]/[4]/[A1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 不與珠/與珠 six-step architecture and lines 64-66 witness bundle one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-62 chain and lines 64-66 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B11).
+- [x] Boundaries mapped: F09-B12 = T1718_009.txt lines 68-70 與珠譬合 + 十四行半偈結構 chain.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 與珠譬合 and 偈分段 architecture continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 68-70 architecture chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B12).
+- [x] Boundaries mapped: F09-B13 = T1718_009.txt line 72 二十三行總結/三報三障 chain + lines 74-77 apparatus ([1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 三障清淨 long-chain mapping and lines 74-77 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-72 long-chain and lines 74-77 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B13).
+- [x] Boundaries mapped: F09-B14 = T1718_009.txt lines 79-87 夢/眠問答 chain + line 81 apparatus ([5]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves dream-epistemology Q&A sequence and line-81 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 79-87 chain and line-81 apparatus [5] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B14).
+- [x] Boundaries mapped: F09-B15 = T1718_009.txt line 89 colophon witness + line 91 「釋從地踊出品」 heading + lines 93-94 apparatus ([7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves colophon witness record, chapter heading transition, and lines 93-94 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 89/91 transition markers and lines 93-94 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B15).
+- [x] Boundaries mapped: F09-B16 = T1718_009.txt line 96 「從地踊出品」開段三分 chain + lines 98-99 apparatus ([9]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 序/正說/流通 three-tier segmentation and lines 98-99 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-96 macro-architecture chain and lines 98-99 apparatus [9] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B16).
+- [x] Boundaries mapped: F09-B17 = T1718_009.txt line 100 序文二分/踊出三分 chain + lines 102-105 apparatus ([10]/[11]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 序文 segmentation, 三義止彼召下 logic, and lines 102-105 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-100 long chain and lines 102-105 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B17).
+- [x] Boundaries mapped: F09-B18 = T1718_009.txt lines 107-109 問訊五分 + 三業供養 chain + line 111 apparatus ([3]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 問訊 five-part structure, 時節不思議 discussion, and line-111 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 107-109 chain and line-111 apparatus [3] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B18).
+- [x] Boundaries mapped: F09-B19 = T1718_009.txt line 113 陳問辭雙分 chain + lines 115-118 apparatus ([4]/[5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 長行/偈頌 dual framing and lines 115-118 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-113 query-structure chain and lines 115-118 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B19).
+- [x] Boundaries mapped: F09-B20 = T1718_009.txt line 120 如來具答十意 chain + lines 122-124 apparatus ([8]/[9]/[10]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves ten-intent answer architecture and lines 122-124 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-120 long-chain answer and lines 122-124 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B20).
+- [x] Boundaries mapped: F09-B21 = T1718_009.txt line 126 菩薩領解隨喜 chain.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 問家/所問 bifurcation and line-126 continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-126 領解隨喜 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B21).
+- [x] Boundaries mapped: F09-B22 = T1718_009.txt line 128 如來述歎→疑問序 chain + lines 130-136 apparatus ([11]/[1]/[2]/[3]/[A2]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 述歎→疑問序 narrative logic and lines 130-136 witness bundle continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-128 layered chain and lines 130-136 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B22).
+- [x] Boundaries mapped: F09-B23 = T1718_009.txt line 138 他方菩薩疑 chain + line 140 正說段序 chain.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 二土俱疑 linkage and 正說段 transition architecture one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 138 and 140 transition chains verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B23).
+- [x] Boundaries mapped: F09-B24 = T1718_009.txt line 142 正說段三分 chain + line 144 apparatus ([6]) + line 146 偈八行半 summary.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 略開/重請 architecture, line-144 witness continuity, and line-146 verse-summary closure one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 142/146 chains and line-144 apparatus [6] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B24).
+- [x] Boundaries mapped: F09-B25 = T1718_009.txt line 148 因疑更請 long chain + lines 150-151 apparatus ([7]/[8]) + line 153 偈十四行 summary + line 155 apparatus ([1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 法說/譬說 nested argument ladder, five/nine verse partition summary, and lines 150-151/155 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-148 long chain, lines 150-151/155 apparatus, and line-153 summary verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B25).
+- [x] Boundaries mapped: F09-B26 = T1718_009.txt lines 157-163 卷第九上/下 + 釋壽量品 seam markers + line 165 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves fascicle seam headings, attribution line, chapter-title handoff, and line-165 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 157-163 seam markers and line-165 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B26).
+- [x] Boundaries mapped: F09-B27 = T1718_009.txt line 167 先出異解 doctrinal survey chain + line 169 apparatus ([3]) + line 171 問 + line 173 query + line 175 apparatus ([4]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 叡師/河西/道場/注者/道生 attribution order, 四解 typology framing, and line 169/175 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line-167 citation chain, line-171/173 question frame, and line-169/175 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B27).
+- [x] Boundaries mapped: F09-B28 = T1718_009.txt line 177 一乘對辨 answer chain + line 179 問 marker + line 181 近成/遠成 challenge chain + line 183 答云 marker + line 185 response chain.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves objection/response turn boundaries, one-vehicle comparative logic, and near/far challenge polarity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 177/179/181/183/185 dialogue chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B28).
+- [x] Boundaries mapped: F09-B29 = T1718_009.txt line 187 問 marker + line 189 query + line 191 答 marker + line 193 hermeneutic chain + line 195 apparatus ([5]) + line 197/199/201/203 三德 exchange.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves Q/A marker integrity, line-193 argument ladder, line-195 witness continuity, and 三德 short exchange structure one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 187/189/191/193/197/199/201/203 and line-195 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B29).
+- [x] Boundaries mapped: F09-B30 = T1718_009.txt line 205 釋品「如來」 long doctrinal chain + lines 207-208 apparatus ([6]/[1]) + line 210 問 + line 212 query + line 214 答 + line 216 chain + lines 218-219 apparatus ([2]/[*2-1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 二三如來論證 segmentation, line-207/208 and 218/219 witness continuity, and 210-216 Q/A structure one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 205/210/212/214/216 chains and lines 207-208/218-219 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B30).
+- [x] Boundaries mapped: F09-B31 = T1718_009.txt line 221 次明壽量 chain + line 223 apparatus ([3]) + line 225 四句詮量 chain + lines 227-232 apparatus ([4]/[*2-2]/[1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 法/報/應 壽量 typology layering, 四句詮量 logic segmentation, and line 223/227-232 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 221/225 chains and lines 223/227-232 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B31).
+- [x] Boundaries mapped: F09-B32 = T1718_009.txt line 233 本迹 distinction chain + line 235 三重本迹 chain + line 237 非三非一 chain + line 239 apparatus ([4]) + line 241 問 marker + line 243 query + line 245 答 marker + line 247 analogy chain + line 249 apparatus ([5]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 本迹 doctrine pivots, Q/A turn markers, and line 239/249 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 233/235/237/241/243/245/247 chains and lines 239/249 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B32).
+- [x] Boundaries mapped: F09-B33 = T1718_009.txt line 251 廣開近顯遠 framing chain + line 253 正答 structure chain + lines 255-257 apparatus ([6]/[7]/[1]) + line 259 譬中為三 chain + line 261 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 誡信/正答 segmentation, 法說/譬說 framing, and line 255-257/261 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 251/253/259 chains and lines 255-257/261 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B33).
+- [x] Boundaries mapped: F09-B34 = T1718_009.txt line 263 從「自從是來」 long benefit-chain + lines 265-267 apparatus ([3]/[4]/[A3]) + line 269 現在師子奮迅益物 chain + lines 271-273 apparatus ([1]/[2]/[3]) + line 275 問 marker + line 277 query.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 感應/施化 nested chain segmentation, 現在師子奮迅 framing, and line 265-267/271-273 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 263/269/275/277 chains and lines 265-267/271-273 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B34).
+- [x] Boundaries mapped: F09-B35 = T1718_009.txt line 279 答 marker + line 281 四義 answer chain + line 283 apparatus ([4]) + line 285 現在應化 long chain + lines 287-289 apparatus ([5]/[6]/[A4]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves 答-turn hierarchy, 四義 segmentation, 現在應化 long-chain structure, and line 283/287-289 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 279/281/285 chains and lines 283/287-289 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B35).
+- [x] Boundaries mapped: F09-B36 = T1718_009.txt line 291 問 marker + line 293 query + line 295 答 marker + line 297 short response chain + line 299 總釋益物不虛 long chain + lines 301-309 apparatus ([1]/[2]/[3]/[4]/[5]/[*5-1]/[6]/[7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves Q/A turn integrity, line-299 doctrinal ladder segmentation, and lines 301-309 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 291/293/295/297/299 chains and lines 301-309 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B36).
+- [x] Boundaries mapped: F09-B37 = T1718_009.txt line 311 「如是我成佛甚大久遠」 chain + lines 313-317 apparatus ([1]/[*3-1]/[2]/[*2-1]/[3]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves the 非滅現滅 doctrinal chain and lines 313-317 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 311 chain and lines 313-317 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B37).
+- [x] Boundaries mapped: F09-B38 = T1718_009.txt line 319 「又善男子」 second-major-section opening chain + lines 321-335 apparatus ([1]/[2]/[3]/[4]/[5]/[6]/[A5]/[7]/[8]/[9]/[*7-1]/[*7-2]/[10]/[11]/[1]).
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves the full second-major-section opening structure and lines 321-335 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 319 chain and lines 321-335 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B38).
+- [x] Boundaries mapped: F09-B39 = T1718_009.txt line 337 「妙法蓮華經文句卷第九下」 final seam heading.
+- [x] Source lock edits completed: No textual edits required; F09 full scholarly file preserves the terminal seam heading one-to-one.
+- [x] Defects added/updated: No defects detected for F09-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 337 final seam heading verified one-to-one.
+- [x] PASS/FAIL result: PASS (F09-B39).
+- [x] Boundaries mapped: F10-B01 = T1718_010.txt line 9 heading + line 11 attribution + line 13 opening chain + lines 15-18 apparatus ([2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves heading/attribution transition, opening chain structure, and lines 15-18 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B01 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 9/11/13 chains and lines 15-18 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B01).
+- [x] Boundaries mapped: F10-B02 = T1718_010.txt line 20 verse-architecture chain + lines 22-24 apparatus ([6]/[7]/[8]) + line 26 five-verse parable chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves verse-structure segmentation and lines 22-24 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B02 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 20/26 chains and lines 22-24 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B02).
+- [x] Boundaries mapped: F10-B03 = T1718_010.txt line 28 chapter heading + line 30 long doctrinal chain + lines 32-37 apparatus ([1]/[2]/[3]/[4]/[5]/[6]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves chapter-heading continuity, line-30 doctrinal layering, and lines 32-37 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B03 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 28/30 chains and lines 32-37 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B03).
+- [x] Boundaries mapped: F10-B04 = T1718_010.txt line 39 three-part division + line 41 「總序如文」 + line 43 long stage-mapping chain + lines 45-48 apparatus ([7]/[*7-1]/[8]/[9]/[10]/[11]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves division markers, line-43 rank-mapping chain, and lines 45-48 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B04 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 39/41/43 chains and lines 45-48 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B04).
+- [x] Boundaries mapped: F10-B05 = T1718_010.txt line 52 時眾供養 long chain + line 54 apparatus ([1]) + line 56 偈有十九行 summary chain + lines 58-59 apparatus ([2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-52 offering chain, line-56 verse-summary chain, and lines 54/58-59 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B05 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 52/56 chains and lines 54/58-59 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B05).
+- [x] Boundaries mapped: F10-B06 = T1718_010.txt line 61 南師/北師判段 chain + line 63 eleven-and-a-half-chapter distribution chain + lines 65-66 apparatus ([4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-61判段 logic, line-63 branching distribution map, and lines 65-66 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B06 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 61/63 chains and lines 65-66 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B06).
+- [x] Boundaries mapped: F10-B07 = T1718_010.txt line 68 四信 opening long chain + line 70 問 marker + line 72 query + line 74 答 marker + line 76 answer chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the full line-68 doctrinal chain and line 70/72/74/76 Q/A turn integrity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B07 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 68/70/72/74/76 chain and Q/A markers verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B07).
+- [x] Boundaries mapped: F10-B08 = T1718_010.txt line 78 「以是功德」 chain + line 80 apparatus ([6]) + line 82 偈十九行半 summary chain + line 84 第二品 chain + line 86 apparatus ([7]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves first/second-grade transitions and line 80/86 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B08 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 78/82/84 chains and lines 80/86 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B08).
+- [x] Boundaries mapped: F10-B09 = T1718_010.txt line 88 第三品 chain + line 90 第四品 chain + line 92 apparatus ([1]) + line 94 五品總標 chain + line 96 問 marker.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves third/fourth/five-grade transitions, line-92 witness continuity, and line-96 question marker one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B09 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 88/90/94/96 chains and line-92 apparatus [1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B09).
+- [x] Boundaries mapped: F10-B10 = T1718_010.txt line 98 answer long chain + line 100 apparatus ([A1]) + line 102 問 marker + line 104 query + line 106 答 marker + line 108 response chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the full line-98 exposition chain, line-100 [A1] witness, and line 102/104/106/108 Q/A integrity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B10 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 98/102/104/106/108 chains and line-100 apparatus [A1] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B10).
+- [x] Boundaries mapped: F10-B11 = T1718_010.txt line 110 第三/四/五品綜述 chain + line 112 apparatus ([2]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the five-grade synthesis chain and line-112 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B11 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 110 chain and line-112 apparatus [2] verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B11).
+- [x] Boundaries mapped: F10-B12 = T1718_010.txt line 114 偈十九行半 chain + lines 116-118 apparatus ([3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the verse-summary chain and lines 116-118 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B12 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 114 chain and lines 116-118 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B12).
+- [x] Boundaries mapped: F10-B13 = T1718_010.txt line 120 heading + line 122 apparatus ([6]) + line 124 隨喜功德品 long doctrinal chain + lines 126-129 apparatus ([7]/[8]/[9]/[10]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves heading transition, line-124 doctrinal chain integrity, and line 122/126-129 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B13 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 120/124 chains and lines 122/126-129 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B13).
+- [x] Boundaries mapped: F10-B14 = T1718_010.txt line 131 問 marker + line 133 query + line 135 答 marker + line 137 short answer + line 139 long 展轉相教 chain + lines 141-143 apparatus ([1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves Q/A turn markers, full line-139 branching chain, and lines 141-143 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B14 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 131/133/135/137/139 chains and lines 141-143 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B14).
+- [x] Boundaries mapped: F10-B15 = T1718_010.txt line 145 偈十八行 summary chain + lines 147-148 apparatus ([4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the line-145 verse-summary chain and lines 147-148 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B15 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 145 chain and lines 147-148 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B15).
+- [x] Boundaries mapped: F10-B16 = T1718_010.txt line 150 釋法師功德品 heading + line 152 long 法師功德 chain + lines 154-155 apparatus ([6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves heading transition, full line-152 doctrinal synthesis, and lines 154-155 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B16 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 150/152 chains and lines 154-155 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B16).
+- [x] Boundaries mapped: F10-B17 = T1718_010.txt line 157 一心十界/千二百功德 chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-157 expansion/contraction logic and positional taxonomy one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B17 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 157 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B17).
+- [x] Boundaries mapped: F10-B18 = T1718_010.txt line 159 六根章總釋 mega-chain + lines 161-163 apparatus ([1]/[2]/[3]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the full six-root chapter architecture and lines 161-163 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B18 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 159 chain and lines 161-163 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B18).
+- [x] Boundaries mapped: F10-B19 = T1718_010.txt line 165 釋常不輕菩薩品 heading + line 167 opening chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves chapter-heading seam and line-167 narrative setup one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B19 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 165/167 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B19).
+- [x] Boundaries mapped: F10-B20 = T1718_010.txt line 169 long 信毀雙開 chain + lines 171-173 apparatus ([4]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-169 four-one logic ladder and lines 171-173 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B20 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 169 chain and lines 171-173 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B20).
+- [x] Boundaries mapped: F10-B21 = T1718_010.txt line 175 毀者之失 chain + lines 177/179/181/183 問答 markers.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves slander-loss chain and compact Q/A turn order one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B21 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 175/177/179/181/183 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B21).
+- [x] Boundaries mapped: F10-B22 = T1718_010.txt line 185 信毀果報 long chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-185 double-fruit and exhortative closure chain one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B22 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 185 chain verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B22).
+- [x] Boundaries mapped: F10-B23 = T1718_010.txt line 187 偈十九行半 summary chain + lines 189-190 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-187 verse/doctrinal warning chain and lines 189-190 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B23 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 187 chain and lines 189-190 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B23).
+- [x] Boundaries mapped: F10-B24 = T1718_010.txt lines 192-200 卷第十上/下 seam + attribution + 釋如來神力品 heading + line 200 apparatus ([5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves all seam markers and line-200 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B24 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 192-200 bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B24).
+- [x] Boundaries mapped: F10-B25 = T1718_010.txt line 202 神力品 opening chain + line 204 apparatus ([6]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves line-202 chapter thesis and line-204 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B25 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 202 chain and line 204 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B25).
+- [x] Boundaries mapped: F10-B26 = T1718_010.txt line 206 長行三分 chain + line 208 現十神力序 chain + line 210 apparatus ([7]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves structural tripartition and line-210 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B26 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 206/208 chains and line 210 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B26).
+- [x] Boundaries mapped: F10-B27 = T1718_010.txt lines 212-214 問答 pair.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves concise Q/A polarity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B27 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 212/214 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B27).
+- [x] Boundaries mapped: F10-B28 = T1718_010.txt line 216 十神力 long chain + lines 218-222 apparatus ([1]/[2]/[3]/[4]/[5]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves the ten-power sequence and lines 218-222 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B28 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 216 chain and lines 218-222 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B28).
+- [x] Boundaries mapped: F10-B29 = T1718_010.txt lines 224/226/228/230 問答 on 現/將 intent.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves four-line Q/A marker logic one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B29 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 224/226/228/230 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B29).
+- [x] Boundaries mapped: F10-B30 = T1718_010.txt line 232 結要付囑四句 chain + line 234 apparatus ([6]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves fourfold entrustment schema and line-234 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B30 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 232 chain and line 234 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B30).
+- [x] Boundaries mapped: F10-B31 = T1718_010.txt line 236 偈十六行 summary chain + lines 238-239 apparatus ([7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves verse partition and lines 238-239 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B31 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 236 chain and lines 238-239 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B31).
+- [x] Boundaries mapped: F10-B32 = T1718_010.txt line 241 釋囑累品 heading + line 243 opening chain + line 245 apparatus ([9]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves chapter heading, opening definition triad, and line-245 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B32 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 241/243 chains and line 245 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B32).
+- [x] Boundaries mapped: F10-B33 = T1718_010.txt line 247 付囑三重 long chain + line 249 apparatus ([10]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves direct/explanatory/admonitory entrustment chain and line-249 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B33 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 247 chain and line 249 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B33).
+- [x] Boundaries mapped: F10-B34 = T1718_010.txt lines 251-253 領受 + 唱散 chains.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves receive/dismiss sequence one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B34 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 251/253 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B34).
+- [x] Boundaries mapped: F10-B35 = T1718_010.txt lines 255/257/259/261/263 問答 + 眾喜 closure.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves closing Q/A and rejoicing chain one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B35 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 255/257/259/261/263 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B35).
+- [x] Boundaries mapped: F10-B36 = T1718_010.txt line 265 釋藥王菩薩本事品 heading + line 267 long opening chain + lines 269-270 apparatus ([1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves chapter heading, long opening rationale chain, and lines 269-270 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B36 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 265/267 chains and lines 269-270 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B36).
+- [x] Boundaries mapped: F10-B37 = T1718_010.txt line 272 問答/歎經 mega-chain + lines 274-280 apparatus ([3]/[4]/[5]/[6]/[7]/[1]/[2]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves full argument ladder and lines 274-280 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B37 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 272 chain and lines 274-280 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B37).
+- [x] Boundaries mapped: F10-B38 = T1718_010.txt lines 282-286 聞品得益 + 多寶稱善 + 釋妙音菩薩品 heading.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves transition triad and heading seam one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B38 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 282/284/286 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B38).
+- [x] Boundaries mapped: F10-B39 = T1718_010.txt line 288 妙音品 opening chain + lines 290-291 apparatus ([3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves opening chapter rationale and lines 290-291 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B39 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 288 chain and lines 290-291 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B39).
+- [x] Boundaries mapped: F10-B40 = T1718_010.txt line 293 大人相 chain + lines 295-299 apparatus ([5]/[6]/[*6-1]/[*6-2]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves mark-hierarchy chain and lines 295-299 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B40 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 293 chain and lines 295-299 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B40).
+- [x] Boundaries mapped: F10-B41 = T1718_010.txt lines 300-312 二番問答 sequence (勝負 + 東西召喚).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves full Q/A sequence and directional logic one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B41 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 300/302/304/306/308/310/312 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B41).
+- [x] Boundaries mapped: F10-B42 = T1718_010.txt lines 314-320 發來緣六分 + 受旨 + 現相六分 chain.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves six-part arrival scaffold one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B42 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 314/316/318/320 verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B42).
+- [x] Boundaries mapped: F10-B43 = T1718_010.txt lines 322-334 問答 + 發來六分 chain + lines 330/334 apparatus ([7]/[8]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves inquiry-response sequence and lines 330/334 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B43 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 322/324/326/328/332 and lines 330/334 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B43).
+- [x] Boundaries mapped: F10-B44 = T1718_010.txt lines 336-347 弘經問答 + 二土利益 + 還本土 + 聞品進道 + lines 338/344-345 apparatus ([9]/[*8-1]/[10]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves propagation-benefit-return sequence and lines 338/344-345 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B44 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 336/340/342/347 and lines 338/344-345 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B44).
+- [x] Boundaries mapped: F10-B45 = T1718_010.txt line 349 釋觀世音菩薩普門品 heading + line 351 十雙五隻 mega-chain + lines 353-360 apparatus.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves heading seam, full ten-pair doctrinal chain, and lines 353-360 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B45 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 349/351 chains and lines 353-360 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B45).
+- [x] Boundaries mapped: F10-B46 = T1718_010.txt line 362 兩番問答總答/別答 chain + lines 364/370-371/375-377 apparatus ([1]/[2]/[3]/[*3-1]/[4]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves two-round question architecture and all cited witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B46 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 362/366/368/373 and lines 364/370-371/375-377 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B46).
+- [x] Boundaries mapped: F10-B47 = T1718_010.txt line 378 釋陀羅尼品 heading + line 380 opening chain + lines 382/386-387 apparatus ([5]/[6]/[1]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves heading transition, dhāraṇī typology chain, and lines 382/386-387 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B47 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 378/380 chains and lines 382/386-387 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B47).
+- [x] Boundaries mapped: F10-B48 = T1718_010.txt line 389 釋妙莊嚴王本事品 heading + line 391 long historical chain + lines 393-399 apparatus ([2]/[3]/[4]/[5]/[6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves chapter heading, full historical preface chain, and lines 393-399 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B48 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 389/391 chains and lines 393-399 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B48).
+- [x] Boundaries mapped: F10-B49 = T1718_010.txt lines 400-406 六分架構 + 雙標能所 chain + line 406 apparatus ([8]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves six-part structure handoff and line-406 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B49 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 400/402/404 and line 406 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B49).
+- [x] Boundaries mapped: F10-B50 = T1718_010.txt line 408 能化方便/所化得益 long chain + lines 410-413 apparatus ([9]/[10]/[11]/[12]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves ten-part benefit chain and lines 410-413 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B50 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 408 chain and lines 410-413 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B50).
+- [x] Boundaries mapped: F10-B51 = T1718_010.txt line 415 結會古今 chain + line 417 釋普賢菩薩勸發品 heading + line 419 long opening chain + lines 421-424 apparatus ([1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves section closure, new chapter heading, opening vow chain, and lines 421-424 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B51 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 415/417/419 chains and lines 421-424 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B51).
+- [x] Boundaries mapped: F10-B52 = T1718_010.txt line 426 發來/勸發 chain + lines 428-430 apparatus ([5]/[6]/[7]) + line 432 雙請雙答 chain + lines 434-436 apparatus ([8]/[9]/[10]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves request/response architecture and all cited witness lines one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B52 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 426/432 chains and lines 428-430/434-436 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B52).
+- [x] Boundaries mapped: F10-B53 = T1718_010.txt line 438 以四法答流通 chain + lines 440-441 apparatus ([*10-1]/[*10-2]) + line 443 結 chain + line 445 apparatus ([11]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves four-dharma circulation chain and lines 440-441/445 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B53 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 438/443 chains and lines 440-441/445 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B53).
+- [x] Boundaries mapped: F10-B54 = T1718_010.txt line 447 誓願勸發護人 chain + lines 449-451 apparatus ([12]/[13]/[*10-3]) + line 453 誓願護法.
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves protect-people/protect-dharma sequence and lines 449-451 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B54 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 447/453 chains and lines 449-451 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B54).
+- [x] Boundaries mapped: F10-B55 = T1718_010.txt line 455 述發 long chain + lines 457-461 apparatus ([*3-1]/[1]/[2]/[3]/[4]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves full restatement chain and lines 457-461 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B55 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: line 455 chain and lines 457-461 apparatus bundle verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B55).
+- [x] Boundaries mapped: F10-B56 = T1718_010.txt line 463 發益結文 chain + lines 465 apparatus ([5]) + line 467 妙法蓮華經文句卷第十下 seam + lines 469-470 apparatus ([6]/[7]).
+- [x] Source lock edits completed: No textual edits required; F10 full scholarly file preserves final benefit closure, terminal seam heading, and lines 465/469-470 witness continuity one-to-one.
+- [x] Defects added/updated: No defects detected for F10-B56 (0 open, 0 pending in block scope).
+- [x] Re-audit completed: lines 463/467 chains and lines 465/469-470 apparatus verified one-to-one.
+- [x] PASS/FAIL result: PASS (F10-B56).
 
 ---
 
 ## Handoff Block (End Of Session)
 
-Next recommended block: F02-B20
+Next recommended block: None (T1718 fascicles complete through T1718_010.txt end)
 
-Next exact source range: T1718_002.txt lines 141-145
+Next exact source range: None. Terminal anchor reached at T1718_010.txt line 467 seam + lines 469-470 apparatus ([6]/[7]).
 
-Carry-over risks: Next block opens 阿難 mega-narrative chain with rapid causality pivots (royal grief, Mara deception, heavenly correction, birth naming) and apparatus [9]/[10]/[11]; preserve event order and witness binding.
+Carry-over risks: If starting non-Wenju work in this log, preserve F10-B56 as terminal source-lock boundary and do not renumber prior F10 block IDs.
 
-Open defects remaining: 0 (for F01-B01 through F01-B67 + F02-B01/F02-B02/F02-B03/F02-B04/F02-B05/F02-B06/F02-B07/F02-B08/F02-B09/F02-B10/F02-B11/F02-B12/F02-B13/F02-B14/F02-B15/F02-B16/F02-B17/F02-B18/F02-B19 scopes)
+Open defects remaining: 0 (for F01-B01 through F01-B67 + F02-B01 through F02-B125 + F03-B01 through F03-B57 + F04-B01 through F04-B50 + F05-B01 through F05-B39 + F06-B01 through F06-B45 + F07-B01 through F07-B41 + F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56 scopes)
 
-Pending re-audit items: None for F01-B01/F01-B02/F01-B03/F01-B04/F01-B05/F01-B06/F01-B07/F01-B08/F01-B09/F01-B10/F01-B11/F01-B12/F01-B13/F01-B14/F01-B15/F01-B16/F01-B17/F01-B18/F01-B19/F01-B20/F01-B21/F01-B22/F01-B23/F01-B24/F01-B25/F01-B26/F01-B27/F01-B28/F01-B29/F01-B30/F01-B31/F01-B32/F01-B33/F01-B34/F01-B35/F01-B36/F01-B37/F01-B38/F01-B39/F01-B40/F01-B41/F01-B42/F01-B43/F01-B44/F01-B45/F01-B46/F01-B47/F01-B48/F01-B49/F01-B50/F01-B51/F01-B52/F01-B53/F01-B54/F01-B55/F01-B56/F01-B57/F01-B58/F01-B59/F01-B60/F01-B61/F01-B62/F01-B63/F01-B64/F01-B65/F01-B66/F01-B67/F02-B01/F02-B02/F02-B03/F02-B04/F02-B05/F02-B06/F02-B07/F02-B08/F02-B09/F02-B10/F02-B11/F02-B12/F02-B13/F02-B14/F02-B15/F02-B16/F02-B17/F02-B18/F02-B19
+Pending re-audit items: None for F01-B01 through F01-B67 + F02-B01 through F02-B125 + F03-B01 through F03-B57 + F04-B01 through F04-B50 + F05-B01 through F05-B39 + F06-B01 through F06-B45 + F07-B01 through F07-B41 + F08-B01 through F08-B50 + F09-B01 through F09-B39 + F10-B01 through F10-B56
 
-Notes for next operator: Start F02-B20 at line 141 and carry through line 145 with apparatus [9]/[10]/[11], preserving narrative causality chain before moving to line 147 約教.
+Notes for next operator: Wenju source-lock corpus reached terminal end at `T1718_010.txt`; next session should either run a cross-fascicle consistency sweep or begin approved tone pass only after preserving this PASS baseline.
 
 ---
 
@@ -557,3 +2629,14 @@ Notes for next operator: Start F02-B20 at line 141 and carry through line 145 wi
 2. Copy this template section and fill the Active Block Card.
 3. Run gates in order; do not skip.
 4. End by writing the Handoff Block.
+
+---
+
+## Session Addendum [2026-02-07] — Cross-Fascicle Consistency Sweep (F01-F10)
+
+- [x] Scope executed: all Wenju scholarly fascicles F01-F10 (`Scholarly/Full_Translation`).
+- [x] Metadata normalization: F01/F02 status headers updated to `SOURCE-LOCKED (COMPLETE)`.
+- [x] Tracker repair: Wenju scholarly links in `COMPLETION_STATUS.md` rebuilt to current Full_Translation targets.
+- [x] Metrics pass completed: line/apparatus/footnote/Q&A/wrapper counts captured and recorded in sweep report.
+- [x] Sweep report filed: `03_DOCUMENTATION/WENJU_F01_F10_CROSS_FASCICLE_CONSISTENCY_SWEEP_2026-02-07.md`.
+- [ ] Residual tracking item: Practitioner links in Wenju table remain unresolved (files absent in repo; scholarly sweep unaffected).

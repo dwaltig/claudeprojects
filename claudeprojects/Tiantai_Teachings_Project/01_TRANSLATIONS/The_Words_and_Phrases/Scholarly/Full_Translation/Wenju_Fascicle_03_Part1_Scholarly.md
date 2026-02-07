@@ -583,7 +583,7 @@
 
 **"Thinking" means reflecting; "measuring" means gauging. It thinks "the present is like the past" and measures "the past is like the present." Yet Manjuśrī is an ancient Buddha—how could he not know? This is the trace-gate's demonstration of "thinking."**
 
-**光宅以初後兩句是法說，表因果廣略，中間三句是譬說，「欲說大法」是略開三顯一、略開近顯遠；演大法義，是廣開三顯一、廣開近顯遠。**
+**光宅以初後兩句是法說，表因果廣略，中間三句是譬說，「欲說大法」是略開三顯一、略開近顯遠[^35]；演大法義，是廣開三顯一、廣開近顯遠。**
 
 **Guangzhai takes the first and last two phrases as Dharma-exposition, indicating broad/brief cause and fruit, and takes the middle three phrases as simile-exposition. "Desiring to speak the great Dharma" is the brief opening of three to reveal one, and the brief opening of near to reveal far; "expounding the meaning of the great Dharma" is the broad opening of three to reveal one, and the broad opening of near to reveal far.**
 
@@ -603,7 +603,7 @@
 
 **Why? The trace and the root are two gates whose textual bases are different. In the trace, because of the textual basis Maitreya gives rise to doubt and Manjuśrī explains it. In the root, the textual basis has not arisen—what would Maitreya doubt, and what would Manjuśrī explain?**
 
-**若於此中，已是釋於開近顯遠之疑者，後地裂眾涌，彌勒何故更疑？**
+**若於此中，已是釋於[^36]開近顯遠之疑者，後地裂眾涌，彌勒何故更疑？**
 
 **If, within this, one already takes it as explaining the doubt about opening the near to reveal the far, then later—when the earth splits and the multitude surges forth—why would Maitreya doubt again?**
 
@@ -623,7 +623,7 @@
 
 **As for "desiring to speak the great Dharma": thinking of the past, after the buddhas preached the *Immeasurable Meanings*, they opened the provisional to reveal the real, gathering the immeasurable back into one. Measuring the present: now that the Buddha has already expounded Dharma, he should likewise open the provisional to reveal the real, uniting the immeasurable into one. This "one" is precisely the great Dharma.**
 
-**「雨大法雨」者，惟昔諸佛天雨四花之後，普入圓因住、行、向、地；忖於今佛雨花之後皆成佛因住、行、向、地，故言雨大法雨也。**
+**「雨大法雨」者，惟昔諸佛天雨四花之後，普入圓因住、行、向、地；忖於今佛雨花之後皆成佛因住[^37]、行、向、地，故言雨大法雨也。**
 
 **As for "raining the great Dharma rain": thinking of the past, after the buddhas had the heavens rain the four flowers, all enter the Perfect causal stages—abodes, practices, dedications, and grounds. Measuring the present: after the current Buddha rains the flowers, all likewise accomplish the Buddha-causes of abodes, practices, dedications, and grounds. Therefore it says "raining the great Dharma rain."**
 
@@ -802,6 +802,7 @@
 **次引二萬佛，名號、說法皆同。**
 
 **Next it cites twenty thousand Buddhas: their names and their preaching are all the same.**
+*[Critical apparatus: [1] 號【大】，名【甲】]*
 
 **初引一佛，備舉頓漸說法同；中舉二萬佛，但舉說頓同，故言初、中、後善也；後引一佛，但舉開漸同。**
 
@@ -829,7 +830,7 @@
 
 **The text has three parts: (1) clarifying that what was seen in the past is the same as the present "already"; (2) clarifying that what was seen in the past is the same as the present "now"; (3) clarifying that what was seen in the past is the same as the present "will be."**
 
-**曾謂昔之所更，已謂謝在過去，曾之與已俱謝、俱更，今取久遠者為曾，小近者謂已；取六瑞等為今，取佛出定去為當也。**
+**曾謂昔之所更[^39]，已謂謝在過去，曾之與已俱謝、俱更，今取久遠者為曾，小近者謂[^40]已；取六瑞等為今，取佛出定去為當也。**
 
 **"Past" (*céng*) means what was changed in the past; "already" (*yǐ*) means what has gone and is in the past. Both "past" and "already" have gone and have changed. Here it takes what is long-ago and distant as "past," and what is near and small as "already." It takes the six omens and the like as "now," and it takes the Buddha leaving samādhi as "will be."**
 
@@ -861,11 +862,11 @@
 
 **Ancient Buddha's Other Land Six Omens are summarized as "Like what is seen now"; thus we know Ancient Buddha's Other Land Six Omens are also same as Now.**
 
-**昔明別序，既有現相、懷疑二序同，而無集眾、發問、答問三序者，義推則有，**
+**昔明別序，既有現相、懷疑二序同，而無集眾、發問、答問三序者，義推[^41]則有，**
 
 **Ancient text clarified the Specific Preface. Since it has "Manifesting Omens" and "Harboring Doubts"—these two Prefaces are Same. But "Gathering Assembly," "Asking Questions," and "Answering Questions"—these three Prefaces [seem absent]. Inferring from meaning, they exist.**
 
-**既言說法知必集眾，既道懷疑知應有問，若問必答，例二必兼，得三序同也。**
+**既言說法知必集眾，既道懷疑知應有問，若問必答，例二必[^42]兼，得三序同也。**
 
 **Since it speaks of "Expounding Dharma," we know the Assembly must Gather. Since it speaks of "Harboring Doubt," we know there must be Questioning. If there is Questioning, there must be Answering. Applying the example of two, the [other] three must be included. Thus Three Prefaces are Same.**
 
@@ -891,7 +892,7 @@
 
 **1. From "At that time there was a Bodhisattva": **Depending Person Same** (*Yīn Rén Tóng*).**
 
-**二、從「爾時日月燈明佛從三昧起」者，是說法名同；**
+**二、從「爾時日月燈明佛從[^43]三昧起」者，是說法名同；**
 
 **2. From "At that time Sun Moon Lamp Bright Buddha rose from Samādhi": **Preaching Name Same**.**
 
@@ -1015,13 +1016,13 @@
 
 **If he said "Anciently bestowed Śrāvaka Prediction," [then when] Buddha rises from Samādhi [now], what more would be discussed? [The surprise would be spoiled]. Manjuśrī speaks skillfully, therefore does not reveal the Trace [of Śāriputra].**
 
-**若說授菩薩記，諸經皆爾，執教者未驚也(云云)。**
+**若說[^44]授菩薩記[^45]，諸經皆爾，執教者未驚也(云云)。**
 
 **If he says "Bestowed Bodhisattva Prediction," all Sutras are like this; those attached to Teaching would not be surprised.**
 
 #### [6. PASSING SUTRA SAME]
 
-**從「佛授記已」下，第六、通經同。文為五：一、時節，即佛滅後也；二、出其人，即妙光也；**
+**從[^46]「佛授記已」下，第六、通經同。文為五：一、時節，即佛滅後也；二、出其人，即妙光也；**
 
 **From "Buddha having bestowed prediction" downwards, the sixth part "Passing Sutra Same." Text has five parts:**
 1. **Time Period: After Buddha's Extinction.**
@@ -1115,11 +1116,11 @@
 
 **Within this second section (the three samenesses), there are three: first, one line of verse versifies past-same-as-already; second, fifteen and a half lines versify past-same-as-now; third, twenty-two and a half lines versify past-same-as-will-be.**
 
-**從「佛說大」下，第二、就今同中又二：初、十四行頌此彼六瑞；第二、從爾時四部眾下一行半，頌四眾懷疑。**
+**從[^46]「佛說大」下，第二、就今同中又二：初、十四行頌此彼六瑞；第二、從爾時四部眾下一行半，頌四眾懷疑。**
 
 **From "The Buddha preached the great..." downwards, second, within the "now-same" there are again two: first, fourteen lines versify the six omens of this land and that land; second, from "At that time the fourfold assembly..." downwards (one and a half lines) versifies the four assemblies harboring doubt.**
 
-**初又二：初、有四行偈，頌此土六瑞同，而長出天鼓自鳴，表無問自說也。**
+**初又二：初、有四行偈，頌此土六瑞同，而長出[^47]天鼓自鳴，表無問自說也。**
 
 **The first also has two: first, four lines of verse versify that this land's six omens are the same, and additionally bring out "the heavenly drums sound of themselves," indicating preaching without being asked.**
 
@@ -1127,7 +1128,7 @@
 
 **"Manifesting various rare events" is the general versification of the various omens.**
 
-**從「此光照」下，第二、次十行，頌他土六瑞同，長行但云：「如今所見是諸佛土」，其文則略、此頌廣也。**
+**從[^48]「此光照」下，第二、次[^49]十行，頌他土六瑞同，長行但云：「如今所見是諸佛土」，其文則略、此頌廣也。**
 
 **From "This light illumines..." downwards, second, the next ten lines versify that the other lands' six omens are the same. The prose only says: "What is now seen are the Buddha-lands"; its wording is abbreviated, but these verses are expansive.**
 
@@ -1345,7 +1346,7 @@
 
 **If wisdom reaches the square, then one skillfully uses partial dharmas to meet beings. If wisdom reaches the compass, then one skillfully uses perfect dharmas to meet beings.**
 
-**譬如偏舉指以目偏處，是舉偏法以目智，宜用法以釋方，將用以釋便。**
+**譬如偏舉指以目偏處，是舉偏法以目智，宜用法以釋方，將[^51]用以釋便。**
 
 **It is like raising a finger to point to a partial place: this is raising partial dharmas to point to wisdom. It is fitting to use dharma to explain "fāng" and to use function to explain "biàn."**
 
@@ -1620,7 +1621,7 @@
 
 [^50]: **Critical Apparatus:** 自【大】，若自【甲】 — The Taishō edition (大) has '自' (self), while the Jiaxing edition (甲) has '若自' (if-self), an expanded form.
 
-[^51]: **Critical Apparatus:** 成【大】，〔－〕【甲】 — The Taishō edition (大) has '成' (accomplish/achieve), while the Jiaxing edition (甲) omits this character.
+[^51]: **Critical Apparatus:** 將【大】，〔－〕【甲】 — The Taishō edition (大) has '將' (to take/with), while the Jiaxing edition (甲) omits this character.
 
 [^52]: **Critical Apparatus:** 等【大】，等教【甲】 — The Taishō edition (大) has '等' (etc.), while the Jiaxing edition (甲) has '等教' (etc.-teaching), an expanded form.
 
